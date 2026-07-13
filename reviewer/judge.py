@@ -39,7 +39,8 @@ def _build_prompt(collected: dict, rubric_text: str) -> str:
         if item["ok"]:
             parts.append(f"\n## LIVE — {label} ({item['url']})\n{item['content']}\n")
         else:
-            parts.append(f"\n## LIVE — {label}: UNAVAILABLE (scrape failed today)\n")
+            reason = item.get("reason") or "unavailable"
+            parts.append(f"\n## LIVE — {label}: NOT REVIEWED ({reason})\n")
     src = collected.get("source")
     if src:
         parts.append(f"\n## SOURCE — {src['path']}\n{src['text']}\n")

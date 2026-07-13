@@ -8,18 +8,22 @@ it never edits or publishes anything.**
 
 Defined in [`reviewer/targets.yml`](reviewer/targets.yml):
 
-| Property | Live | Source repo |
+| Property | Live source (free) | Repo source |
 | --- | --- | --- |
-| Bizzal Games — YouTube | [@Bizzal_Games](https://www.youtube.com/@Bizzal_Games) | `Bizzal-Games-YT-PUB` |
-| Bizzal Games — Instagram | [@bizzalgames70](https://www.instagram.com/bizzalgames70/) | `Bizzal-Games-YT-PUB` |
-| It's Already Written | [blog](https://bizzal70.github.io/itsalreadywritten/) · [@ItsAlrdyWritten](https://x.com/ItsAlrdyWritten) | `itsalreadywritten` |
-| It's Already Priced | [blog](https://bizzal70.github.io/itsalreadypriced/) · [@ItsAlreadyPrice](https://x.com/ItsAlreadyPrice) | `itsalreadypriced` |
-| It's Already When | [blog](https://bizzal70.github.io/itsalreadywhen/) · [@itsalreadywhen](https://x.com/itsalreadywhen) | `itsalreadywhen` |
+| Bizzal Games — YouTube | RSS feed for [@Bizzal_Games](https://www.youtube.com/@Bizzal_Games) | — (Supabase-driven) |
+| Bizzal Games — Instagram | deferred* | — |
+| It's Already Written | blog fetch · X deferred* | `_posts` |
+| It's Already Priced | blog fetch · X deferred* | `_posts` / `_field_notes` |
+| It's Already When | blog fetch · X deferred* | `_posts` / `_field_notes` |
+
+\* **deferred** = can't be read for free (login/bot walls). The property is still
+reviewed on its other sources. Add a paid scraper later to light these up.
 
 ## How it works
 
-1. **Collect** — scrapes each live URL via Bright Data (audience-facing view) and
-   reads the newest generated content from each source repo via the GitHub API.
+1. **Collect** — key-free: public blogs via plain HTTP (HTML stripped to text),
+   YouTube via its public RSS feed, and the newest generated content from each
+   source repo via the GitHub API. Instagram/X are deferred.
 2. **Judge** — Claude scores the content against a per-channel rubric
    (`reviewer/rubrics/`) and returns scores, findings, and the single
    highest-leverage improvement.
@@ -30,23 +34,26 @@ Defined in [`reviewer/targets.yml`](reviewer/targets.yml):
      `github-actions[bot]`) — this is the one GitHub **emails you**, and it links
      out to every detail issue.
 
-Everything degrades gracefully: a failed scrape or one bad property is reported,
+Everything degrades gracefully: a failed fetch or one bad property is reported,
 not fatal.
 
 ## Secrets / variables to set
 
-Repo → Settings → Secrets and variables → Actions.
+Repo → Settings → Secrets and variables → Actions. Because `bizzal70` is a
+personal (non-org) account, secrets do **not** carry over from your other repos —
+they must be added here.
 
 **Secrets (required):**
-- `ANTHROPIC_API_KEY` — Claude API key (the judge).
-- `BRIGHTDATA_API_KEY` — Bright Data token (live scraping).
+- `ANTHROPIC_API_KEY` — Claude API key (the judge). Same value you use in the blog
+  repos; paste it in here too.
 - `BIZZAL_REVIEW_PAT` — fine-grained PAT with `issues:write` on all five repos
   (files the per-repo detail issues). Without it, only the digest is produced.
+
+**No scraper key needed** — collection is key-free.
 
 **Variables (optional):**
 - `REVIEW_MODEL` — defaults to `claude-sonnet-5`; set `claude-opus-4-8` for the
   sharpest critique.
-- `BRIGHTDATA_ZONE` — Web Unlocker zone name; defaults to `web_unlocker`.
 
 ## Run it
 

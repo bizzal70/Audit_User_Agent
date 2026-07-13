@@ -35,9 +35,7 @@ jobs:
           # LLM judge
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           REVIEW_MODEL: ${{ vars.REVIEW_MODEL }}          # optional; defaults to claude-sonnet-5
-          # Live scraping
-          BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
-          BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE }}    # optional; defaults to web_unlocker
+          # Live collection is key-free (public blog fetch + YouTube RSS); no scraper secret needed.
           # GitHub: default token authors the digest (emails you); PAT files cross-repo detail issues
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BIZZAL_REVIEW_PAT: ${{ secrets.BIZZAL_REVIEW_PAT }}

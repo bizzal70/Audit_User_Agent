@@ -1,6 +1,9 @@
-"""Collect both LIVE (scraped) and SOURCE (repo) content for each property.
+"""Collect both LIVE (public) and SOURCE (repo) content for each property.
 
-LIVE  = the audience-facing pages in targets.yml, fetched via Bright Data.
+LIVE  = the audience-facing sources in targets.yml, fetched for free:
+          http        -> plain GET (public blogs)
+          youtube_rss -> YouTube RSS feed (no key)
+          deferred    -> not fetched (needs a paid scraper); reported as such.
 SOURCE = the most recent generated content in the property's GitHub repo,
          read through the GitHub API (cloud-only; no local clone).
 """
@@ -11,16 +14,14 @@ import json
 import os
 import urllib.request
 
-from . import brightdata
+from . import fetch, youtube
 
 _GH_API = "https://api.github.com"
 
 # Where each source repo keeps its freshly generated content. The collector
-# reads the newest file under the first directory that exists.
+# reads the newest file under the first directory that exists. Bizzal Games
+# generates into Supabase (not committed files), so it has no file source.
 _SOURCE_PATHS = {
-    # Bizzal Games generates into Supabase, not committed files, so there is no
-    # file-based source to pull — its review runs on the live YouTube/Instagram
-    # scrape only. Left empty intentionally.
     "Bizzal-Games-YT-PUB": [],
     "itsalreadywritten": ["_posts"],
     "itsalreadypriced": ["_posts", "_field_notes"],
@@ -60,11 +61,28 @@ def latest_source(owner: str, repo: str) -> dict | None:
     return None
 
 
+def _fetch_live(src: dict) -> dict:
+    method = src.get("method", "http")
+    label, url = src["label"], src.get("url", "")
+    if method == "http":
+        content = fetch.get_text(url)
+    elif method == "youtube_rss":
+        content = youtube.recent_videos(src["channel_id"])
+    elif method == "deferred":
+        return {"label": label, "url": url, "content": None, "ok": False,
+                "reason": "deferred — free reading not available for this channel"}
+    else:
+        return {"label": label, "url": url, "content": None, "ok": False,
+                "reason": f"unknown method '{method}'"}
+    return {"label": label, "url": url, "content": content, "ok": content is not None,
+            "reason": None if content is not None else "fetch failed today"}
+
+
 def collect(prop: dict, owner: str) -> dict:
     live = {}
-    for label, url in (prop.get("live") or {}).items():
-        content = brightdata.fetch(url)
-        live[label] = {"url": url, "content": content, "ok": content is not None}
+    for src in prop.get("live") or []:
+        result = _fetch_live(src)
+        live[result["label"]] = result
 
     source = latest_source(owner, prop["source"])
     return {
