@@ -18,7 +18,10 @@ _GH_API = "https://api.github.com"
 # Where each source repo keeps its freshly generated content. The collector
 # reads the newest file under the first directory that exists.
 _SOURCE_PATHS = {
-    "Bizzal-Games-YT-PUB": ["_atoms", "output", "scripts"],
+    # Bizzal Games generates into Supabase, not committed files, so there is no
+    # file-based source to pull — its review runs on the live YouTube/Instagram
+    # scrape only. Left empty intentionally.
+    "Bizzal-Games-YT-PUB": [],
     "itsalreadywritten": ["_posts"],
     "itsalreadypriced": ["_posts", "_field_notes"],
     "itsalreadywhen": ["_posts", "_field_notes"],
