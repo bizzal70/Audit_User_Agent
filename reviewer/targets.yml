@@ -1,0 +1,54 @@
+# Single source of truth for every Bizzal property the reviewer audits.
+# Each property is scored daily against the rubric named in `rubric`.
+# `live` = public URLs the reviewer scrapes (audience-facing view).
+# `source` = the GitHub repo whose generated content produced it.
+# `issue_repo` = where the per-property DETAIL issue is filed (usually == source).
+
+defaults:
+  owner: bizzal70
+
+properties:
+  - id: bizzal-games-youtube
+    name: "Bizzal Games — YouTube"
+    rubric: youtube
+    live:
+      channel: "https://www.youtube.com/@Bizzal_Games"
+      shorts: "https://www.youtube.com/@Bizzal_Games/shorts"
+      videos: "https://www.youtube.com/@Bizzal_Games/videos"
+    source: Bizzal-Games-YT-PUB
+    issue_repo: Bizzal-Games-YT-PUB
+
+  - id: bizzal-games-instagram
+    name: "Bizzal Games — Instagram"
+    rubric: instagram
+    live:
+      profile: "https://www.instagram.com/bizzalgames70/"
+    source: Bizzal-Games-YT-PUB
+    issue_repo: Bizzal-Games-YT-PUB
+
+  - id: itsalreadywritten
+    name: "It's Already Written — Blog + X"
+    rubric: blog
+    live:
+      blog: "https://bizzal70.github.io/itsalreadywritten/"
+      x: "https://x.com/ItsAlrdyWritten"
+    source: itsalreadywritten
+    issue_repo: itsalreadywritten
+
+  - id: itsalreadypriced
+    name: "It's Already Priced — Blog + X"
+    rubric: blog
+    live:
+      blog: "https://bizzal70.github.io/itsalreadypriced/"
+      x: "https://x.com/ItsAlreadyPrice"
+    source: itsalreadypriced
+    issue_repo: itsalreadypriced
+
+  - id: itsalreadywhen
+    name: "It's Already When — Blog + X"
+    rubric: blog
+    live:
+      blog: "https://bizzal70.github.io/itsalreadywhen/"
+      x: "https://x.com/itsalreadywhen"
+    source: itsalreadywhen
+    issue_repo: itsalreadywhen

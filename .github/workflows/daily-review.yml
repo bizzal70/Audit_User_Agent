@@ -1,0 +1,45 @@
+name: daily-content-review
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 13:00 UTC daily
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Review a single property id (blank = all)"
+        required: false
+        default: ""
+
+permissions:
+  issues: write          # lets GITHUB_TOKEN open/comment the digest issue here
+
+concurrency:
+  group: daily-review
+  cancel-in-progress: false
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r reviewer/requirements.txt
+
+      - name: Run daily review
+        env:
+          # LLM judge
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REVIEW_MODEL: ${{ vars.REVIEW_MODEL }}          # optional; defaults to claude-sonnet-5
+          # Live scraping
+          BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
+          BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE }}    # optional; defaults to web_unlocker
+          # GitHub: default token authors the digest (emails you); PAT files cross-repo detail issues
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BIZZAL_REVIEW_PAT: ${{ secrets.BIZZAL_REVIEW_PAT }}
+          REVIEW_ONLY: ${{ github.event.inputs.only }}
+        run: python -m reviewer.run
