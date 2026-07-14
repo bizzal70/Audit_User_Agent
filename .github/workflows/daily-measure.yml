@@ -1,0 +1,45 @@
+name: daily-viewer-metrics
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 12:00 UTC daily (between scout 11:00 and review 13:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write        # commit the metrics/*.json time-series
+  issues: write          # file/append the metrics digest issue
+
+concurrency:
+  group: daily-measure
+  cancel-in-progress: false
+
+jobs:
+  measure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run measure
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BIZZAL_YT_DATA_API_KEY: ${{ secrets.BIZZAL_YT_DATA_API_KEY }}
+          BIZZAL_IG_ACCESS_TOKEN: ${{ secrets.BIZZAL_IG_ACCESS_TOKEN }}
+          BIZZAL_IG_USER_ID: ${{ secrets.BIZZAL_IG_USER_ID }}
+          YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
+        run: python -m measure.run   # stdlib only; no pip install needed
+
+      - name: Commit metrics
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add measure/metrics/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "measure: daily metrics snapshot [skip ci]"
+            git push
+          else
+            echo "no metrics changes"
+          fi
