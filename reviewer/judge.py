@@ -50,10 +50,15 @@ def _build_prompt(collected: dict, rubric_text: str) -> str:
         parts.append("\n## SOURCE — none found\n")
 
     parts.append(
-        "\n\n# Output format\n"
+        "\n\n# Scoring rule\n"
+        "Only score criteria you could ACTUALLY review from the content above. If a "
+        "source is marked 'NOT REVIEWED', OMIT every criterion that depends on it from "
+        "`scores` entirely and exclude it from `overall`. Never assign a low score "
+        "merely because a source was unavailable.\n"
+        "\n# Output format\n"
         "Return a JSON object with exactly these keys:\n"
-        '  "scores": object mapping each rubric criterion name to an integer 1-5,\n'
-        '  "overall": number (average of scores, one decimal),\n'
+        '  "scores": object mapping each REVIEWED criterion name to an integer 1-5,\n'
+        '  "overall": number (average of the scored criteria only, one decimal),\n'
         '  "top_improvement": string (the single highest-leverage fix),\n'
         '  "findings": array of strings (each a specific, actionable note,\n'
         "             quoting the content where useful),\n"

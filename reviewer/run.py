@@ -29,6 +29,30 @@ def main() -> int:
         print(f"[run] reviewing {prop['id']}")
         try:
             collected = collect.collect(prop, owner)
+            has_live = any(v["ok"] for v in collected["live"].values())
+            if not has_live and not collected["source"]:
+                # e.g. Instagram in the key-free config: only a deferred source
+                # and no repo content. Don't fabricate scores for it.
+                deferred = ", ".join(
+                    v["label"] for v in collected["live"].values()
+                ) or "all sources"
+                print(f"[run] skipping {prop['id']} — nothing reviewable")
+                results.append(
+                    {
+                        "id": prop["id"],
+                        "name": prop["name"],
+                        "issue_repo": prop["issue_repo"],
+                        "overall": None,
+                        "scores": {},
+                        "top_improvement": (
+                            f"deferred — no free source to review ({deferred}); "
+                            "needs a paid scraper to enable"
+                        ),
+                        "findings": [],
+                        "flags": ["deferred-no-content"],
+                    }
+                )
+                continue
             results.append(judge.judge(collected))
         except Exception:  # noqa: BLE001 - one bad property must not kill the run
             print(f"[run] ERROR reviewing {prop['id']}:\n{traceback.format_exc()}")
