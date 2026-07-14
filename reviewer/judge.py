@@ -17,7 +17,9 @@ from pathlib import Path
 import anthropic
 
 _RUBRIC_DIR = Path(__file__).parent / "rubrics"
-_MODEL = os.environ.get("REVIEW_MODEL", "claude-sonnet-5")
+# Note: a blank env var (e.g. an unset Actions `vars.REVIEW_MODEL`) must fall
+# back to the default, so use `or` rather than dict.get's default argument.
+_MODEL = os.environ.get("REVIEW_MODEL") or "claude-sonnet-5"
 
 _SYSTEM = (
     "You are the editor-in-chief for the Bizzal content network. You review "
