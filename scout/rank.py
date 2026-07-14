@@ -37,11 +37,19 @@ def _text(resp) -> str:
 
 
 def _parse_json(raw: str):
+    if not raw:
+        print("[scout] rank returned empty text")
+        return None
     if raw.startswith("```"):
         raw = raw.split("```", 2)[1].lstrip("json").strip()
+    # Tolerate prose wrapped around the object: parse the outermost {...}.
+    start, end = raw.find("{"), raw.rfind("}")
+    if start != -1 and end > start:
+        raw = raw[start : end + 1]
     try:
         return json.loads(raw)
-    except json.JSONDecodeError:
+    except json.JSONDecodeError as e:
+        print(f"[scout] JSON parse failed ({e}); head={raw[:120]!r}")
         return None
 
 
@@ -65,7 +73,7 @@ def rank_channel(client, channel_id: str, meta: dict, items: list[dict]) -> list
         '"angle":"suggested format/angle","source":"url"}]}'
     )
     resp = client.messages.create(
-        model=_MODEL, max_tokens=1800, system=_SYSTEM,
+        model=_MODEL, max_tokens=3500, system=_SYSTEM,
         messages=[{"role": "user", "content": prompt}],
     )
     data = _parse_json(_text(resp)) or {}
@@ -92,7 +100,7 @@ def rank_cross_channel(client, channels: dict, by_topic: dict) -> list[dict]:
         '"angles":{"channel_id":"the spin for that channel"},"source":"url"}]}'
     )
     resp = client.messages.create(
-        model=_MODEL, max_tokens=2000, system=_SYSTEM,
+        model=_MODEL, max_tokens=4000, system=_SYSTEM,
         messages=[{"role": "user", "content": prompt}],
     )
     data = _parse_json(_text(resp)) or {}

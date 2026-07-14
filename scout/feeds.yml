@@ -50,8 +50,8 @@ feeds:
   - {name: "r/CryptoCurrency",    url: "https://www.reddit.com/r/CryptoCurrency/.rss", topics: [crypto], category: social}
 
   # --- Cyber (It's Already When) ---
-  - {name: "CISA Advisories",  url: "https://www.cisa.gov/cybersecurity-advisories/all.xml", topics: [cyber], category: advisory}
-  - {name: "NVD CVEs",         url: "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml",   topics: [cyber], category: cve}
+  # (CISA all.xml 403'd our fetcher and NVD's legacy RSS is retired — dropped.)
+  - {name: "The Register Security", url: "https://www.theregister.com/security/headlines.atom", topics: [cyber], category: news}
   - {name: "Krebs on Security", url: "https://krebsonsecurity.com/feed/",          topics: [cyber], category: news}
   - {name: "Dark Reading",     url: "https://www.darkreading.com/rss.xml",         topics: [cyber], category: news}
   - {name: "SecurityWeek",     url: "https://feeds.feedburner.com/securityweek",   topics: [cyber], category: news}
