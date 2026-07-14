@@ -20,11 +20,12 @@ _TARGETS = Path(__file__).parent / "targets.yml"
 def main() -> int:
     cfg = yaml.safe_load(_TARGETS.read_text(encoding="utf-8"))
     owner = (cfg.get("defaults") or {}).get("owner", "bizzal70")
-    only = os.environ.get("REVIEW_ONLY")
+    # REVIEW_ONLY accepts one id or a comma-separated list (blank = all).
+    only = {x.strip() for x in (os.environ.get("REVIEW_ONLY") or "").split(",") if x.strip()}
 
     results = []
     for prop in cfg["properties"]:
-        if only and prop["id"] != only:
+        if only and prop["id"] not in only:
             continue
         print(f"[run] reviewing {prop['id']}")
         try:

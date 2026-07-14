@@ -68,7 +68,10 @@ def _build_prompt(collected: dict, rubric_text: str) -> str:
 
 
 def judge(collected: dict) -> dict:
-    rubric_file = _RUBRIC_DIR / f"{collected['rubric']}.md"
+    # REVIEW_RUBRIC lets a manual run apply one alternate lens (e.g. blog_growth)
+    # to every property instead of each property's default rubric.
+    rubric_name = (os.environ.get("REVIEW_RUBRIC") or "").strip() or collected["rubric"]
+    rubric_file = _RUBRIC_DIR / f"{rubric_name}.md"
     rubric_text = rubric_file.read_text(encoding="utf-8")
     prompt = _build_prompt(collected, rubric_text)
 

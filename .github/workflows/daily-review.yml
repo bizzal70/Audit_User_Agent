@@ -6,7 +6,11 @@ on:
   workflow_dispatch:
     inputs:
       only:
-        description: "Review a single property id (blank = all)"
+        description: "Property id(s), comma-separated (blank = all)"
+        required: false
+        default: ""
+      rubric:
+        description: "Override rubric for all reviewed properties (e.g. blog_growth; blank = each property's default)"
         required: false
         default: ""
 
@@ -40,4 +44,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BIZZAL_REVIEW_PAT: ${{ secrets.BIZZAL_REVIEW_PAT }}
           REVIEW_ONLY: ${{ github.event.inputs.only }}
+          REVIEW_RUBRIC: ${{ github.event.inputs.rubric }}
         run: python -m reviewer.run
