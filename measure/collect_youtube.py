@@ -15,7 +15,8 @@ import os
 import urllib.error
 import urllib.request
 
-_CHANNEL = os.environ.get("YT_CHANNEL_ID", "UCn8fIswollQTSAJYkAshjyw")
+# `or` (not dict-default): an unset Actions var is passed as "", not absent.
+_CHANNEL = os.environ.get("YT_CHANNEL_ID") or "UCn8fIswollQTSAJYkAshjyw"
 _API = "https://www.googleapis.com/youtube/v3"
 
 
