@@ -27,8 +27,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BIZZAL_YT_DATA_API_KEY: ${{ secrets.BIZZAL_YT_DATA_API_KEY }}
-          BIZZAL_IG_ACCESS_TOKEN: ${{ secrets.BIZZAL_IG_ACCESS_TOKEN }}
-          BIZZAL_IG_USER_ID: ${{ secrets.BIZZAL_IG_USER_ID }}
+          # IG metrics are collected in Bizzal-Games-YT-PUB (where the token lives)
+          # and read from its published data/metrics/instagram.json — no IG secret here.
           YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
         run: python -m measure.run   # stdlib only; no pip install needed
 
