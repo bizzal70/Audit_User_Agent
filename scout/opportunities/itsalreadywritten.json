@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T02:27:47+00:00",
+  "generated": "2026-07-14T11:30:51+00:00",
   "opportunities": [
     {
-      "title": "D&D News Dump Decoded: What Mike Shea's EN World Appearance Actually Changes at Your Table",
-      "why_now": "A major D&D news livestream just dropped with EN World and Sly Flourish's Mike Shea, meaning the rules chatter needs a rules-first translation for GMs.",
-      "angle": "Numbered rundown of concrete rules/mechanics implications, skip the hype, cite what's confirmed vs. speculative",
-      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
+      "title": "The Rules Say Nothing About a $500 Price Tag: Breaking Down What Beadle & Grimm's 'Deadfall' Actually Adds to the Table",
+      "why_now": "Beadle & Grimm's just revealed its priciest Collector's Edition yet, inviting a rules/value breakdown of what's actually new mechanically versus cosmetic.",
+      "angle": "Line-by-line audit comparing box contents to actual table impact—minis and posters vs. rules-relevant bonus adventures",
+      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     },
     {
-      "title": "The Rules Are Already Written: Why 'Lazy' Prep Actually Means Better Rules Mastery",
-      "why_now": "Sly Flourish just published a fresh lazy-campaign prep piece that's a natural tie-in to a rules-first brand voice.",
-      "angle": "Response/companion post reframing 'lazy prep' as knowing the rules cold so you don't need heavy notes; link back to Sly Flourish",
+      "title": "Mike Shea Dropped a Ton of D&D News — Here's What Actually Changes at Your Table",
+      "why_now": "A major news-dense livestream just aired with a respected voice (Sly Flourish's Mike Shea), giving us fresh material to filter signal from hype.",
+      "angle": "Rapid rules-impact recap: which announcements are mechanics changes vs. marketing, with citations to source segments",
+      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.html"
+    },
+    {
+      "title": "Lazy Prep, Real Rules: What Sly Flourish's Latest Guide Gets Right (and Skips) About Running Long Campaigns",
+      "why_now": "Sly Flourish just published a fresh prep philosophy piece that begs comparison against the actual written rules for campaign structure.",
+      "angle": "Rules-first rebuttal/companion piece: where 'lazy' prep aligns with RAW guidance and where it substitutes house-ruling",
       "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
     },
     {
-      "title": "Send In the Clowns: The Actual D&D Rules for Running a Horrifying Circus Encounter",
-      "why_now": "EN World's clown-themed RPG Evolution column is timely and begs a rules-first companion breaking down the actual stat blocks/mechanics for pulling it off.",
-      "angle": "Rules-grounded breakdown citing specific monster stats, fear/madness mechanics, and encounter-building math",
+      "title": "Send In the Clowns: What EN World's Latest Column Gets Right About Comic Relief NPCs — and What the Rules Actually Say About Running Them",
+      "why_now": "EN World's fresh column on clown/comic-relief characters is a perfect jumping-off point for a rules-grounded look at NPC roleplay mechanics.",
+      "angle": "Mechanics-meets-craft piece: cite specific rulebook guidance on NPC personality/behavior tables vs. the columnist's advice",
       "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
     },
     {
-      "title": "This Week in TTRPG News: The 5 Rules Changes Buried in the July 10 Digest",
-      "why_now": "EN World's news digest compiles scattered rules-adjacent items that deserve a sharper, rules-first re-read for readers who skipped it.",
-      "angle": "Curated recap post pulling out only the mechanically relevant items with 'here's what it means at the table' framing",
-      "source": "https://www.enworld.org/threads/news-digest-for-july-10-2026.719853/"
-    },
-    {
-      "title": "Psyker Rules 101: What Owlcat's Saro Reveal Gets Right (and Simplifies) About Dark Heresy",
-      "why_now": "Owlcat just revealed a psyker companion for its Dark Heresy game, offering a hook to explain the actual tabletop psychic phenomena/perils rules it's based on.",
-      "angle": "Rules explainer comparing video-game abstraction to the real Dark Heresy 2e psychic power and Perils of the Warp tables",
-      "source": "https://www.rpgsite.net/news/20896-owlcat-reveals-psykercompanion-saro-for-warhammer-40000-dark-heresy"
+      "title": "No Demo Needed: What Qliphah in Providence's Shadow Tells Us About Designing Rules That Sell Themselves",
+      "why_now": "A convention report calling out a game so well-designed it needed no demo is a rare, concrete case study in rules clarity done right.",
+      "angle": "Design-analysis piece: extract the specific rules/mechanics choices that made the pitch self-evident, framed as lessons for other designers",
+      "source": "https://www.rpgsite.net/preview/20910-sometimes-game-just-didnt-need-demo-at-convention-qliphah-in-providences-shadow-was-one-them"
     }
   ]
 }

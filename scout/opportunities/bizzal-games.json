@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T02:27:47+00:00",
+  "generated": "2026-07-14T11:30:51+00:00",
   "opportunities": [
     {
-      "title": "Killer Clowns as a Shadowdark Monster: Statting the 'Send in the Clowns' Trope",
-      "why_now": "EN World just ran a piece on the evil-clown trope in RPGs, giving a ready-made hook to convert into an actual stat block.",
-      "angle": "60-sec creature tactic short: stat out a homebrew clown monster (fear aura, disadvantage on saves vs. laughter) for Shadowdark, with one paragraph DCC funnel variant",
-      "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
+      "title": "The $500 D&D Box: What You're Actually Paying For (Hint: Not Rules)",
+      "why_now": "Beadle & Grimm's just announced a $500 'Deadfall' boxed set, a ripe target for a dry cost-per-session breakdown.",
+      "angle": "30-sec 'ruling' style breakdown comparing $500 swag set to a $20 Shadowdark zine — cost-per-hour-of-play math, deadpan delivery",
+      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     },
     {
-      "title": "Mike Shea Went on the D&D News Livestream — Here's the One Ruling Worth Stealing",
-      "why_now": "Podcast #405 dropped with Sly Flourish's Mike Shea as guest, a name your audience already trusts for table-ready advice.",
-      "angle": "Talking-head short: pull a single concrete takeaway from the livestream (not a recap) and give your own dry veteran-GM verdict on whether it's actually usable at the table",
-      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
+      "title": "Shadowdark Doesn't Need a $500 Box",
+      "why_now": "The Deadfall set's excess is a perfect foil to spotlight Shadowdark's stripped-down design philosophy, tying beat-relevant systems together.",
+      "angle": "Split-screen comparison short: premium bloat vs. minimalist crunch, ending on a one-line design ruling",
+      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     },
     {
-      "title": "This Week's D&D News Digest: What Actually Changes Your Session Zero",
-      "why_now": "EN World's weekly digest is a grab-bag of announcements; most GMs won't read it, so a filtered 'what matters' short earns trust.",
-      "angle": "Rapid-fire 3-bullet short: strip the digest down to the one or two items with real table impact, skip the rest with a dismissive one-liner",
-      "source": "https://www.enworld.org/threads/news-digest-for-july-10-2026.719853/"
-    },
-    {
-      "title": "Sly Flourish's 'Lazy Campaign' Method: The One Prep Step You Can Cut Tonight",
-      "why_now": "Sly Flourish just published a fresh breakdown of lazy campaign prep, a direct match for the channel's efficiency-obsessed GM voice.",
-      "angle": "Rules-ruling/prep short: take one specific lazy-prep technique from the article (e.g., skip the flowchart, prep NPC motivations not plots) and show it applied to tonight's session",
+      "title": "One Lazy DM Habit That Kills Session Zero Bloat",
+      "why_now": "Sly Flourish's fresh 'Prepping and Running Lazy Campaigns' piece is direct fuel for a prep-focused daily short.",
+      "angle": "Veteran-GM tip format: 'Here's the one prep step you can cut this week' with a concrete example encounter",
       "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
     },
     {
-      "title": "Perils of the Warp, DCC-Style: Stealing Owlcat's New Psyker for Your Corruption Table",
-      "why_now": "Owlcat just revealed a psyker companion for Warhammer 40K: Dark Heresy, a built-in excuse to talk psychic-mishap mechanics that map directly onto DCC corruption and Shadowdark mystic knacks.",
-      "angle": "Spell use-case short: compare 40k's Perils of the Warp risk/reward to a DCC corruption roll, propose a homebrew mishap table GMs can drop in immediately",
-      "source": "https://www.rpgsite.net/news/20896-owlcat-reveals-psykercompanion-saro-for-warhammer-40000-dark-heresy"
+      "title": "What Mike Shea Actually Said You Should Steal From This Week's D&D News",
+      "why_now": "Podcast #405 with Mike Shea just dropped a 'ton of D&D news,' giving a timely hook to react with a specific mechanical takeaway.",
+      "angle": "Reaction-style short: pull one ruling/tactic mentioned in the livestream and give the blunt GM verdict on whether it's worth using",
+      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
+    },
+    {
+      "title": "Killer Clowns 101: Running Comedy Villains Without Killing the Tension",
+      "why_now": "EN World's 'Send in the Clowns' piece is a ready-made creature/NPC tactic angle for the daily beat.",
+      "angle": "Creature tactic breakdown: how to stat and run a trickster/clown NPC (fear + humor balance) in 5e/DCC without derailing the table",
+      "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
     }
   ]
 }

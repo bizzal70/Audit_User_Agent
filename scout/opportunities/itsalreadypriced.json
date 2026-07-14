@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T02:27:47+00:00",
+  "generated": "2026-07-14T11:30:51+00:00",
   "opportunities": [
     {
-      "title": "Bonzo Lend's $9M Oracle Exploit: The Hedera DeFi Bug Everyone Should've Priced In",
-      "why_now": "A fresh $9M oracle manipulation hack on Hedera gives a concrete, timely postmortem for the exact security-forensics beat this channel owns.",
-      "angle": "Technical hack breakdown — how the oracle was gamed, why 'audited' didn't save it, and the checklist readers should run on every lending protocol they touch",
+      "title": "Another Day, Another Oracle: Bonzo Lend's $9M Hedera Exploit Was Foretold in Every Postmortem You Ignored",
+      "why_now": "A fresh $9M oracle exploit on Hedera just gave the channel a live case study in the same failure mode that's drained lending protocols for years.",
+      "angle": "Incident teardown: walk through the oracle manipulation mechanics, then map it against 3-4 prior oracle exploits to show the pattern nobody fixed",
       "source": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Robinhood Built a Chain for Tokenized Stocks. Memecoins Ate It Alive — Of Course They Did",
-      "why_now": "Two same-day stories (The Block + CoinDesk + Decrypt) confirm Robinhood Chain's early volume is memecoin-driven, not the tokenized-equities use case it was pitched on.",
-      "angle": "'Already priced' takedown: why permissionless chains always get captured by degen liquidity first, and what it means for anyone betting on 'institutional-grade' L1 narratives",
-      "source": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over"
+      "title": "No, AI Didn't Cause a DeFi 'Hackpocalypse' — Humans Still Ship the Same Bugs",
+      "why_now": "A Dragonfly partner just publicly pushed back on AI-hacking fear narratives right as a real oracle exploit (Bonzo) proves the boring old vulnerabilities are still the ones draining funds.",
+      "angle": "Contrarian security take: pair the Dragonfly comment with the Bonzo exploit as evidence — the threat isn't AI, it's the same unaudited oracle dependencies",
+      "source": "https://cointelegraph.com/news/dragonfly-defi-ai-hackpocalypse-fears?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Strategy's 'Discipline' Is Just a Cash Cushion With a Press Release",
-      "why_now": "Strategy skipping its third straight weekly BTC buy to sit on $3B cash is being spun as prudence by analysts, right as panic-selling signals suggest capitulation may be near.",
-      "angle": "Market-structure read: decode what a serial buyer going quiet actually signals about liquidity conditions, not corporate virtue",
-      "source": "https://www.coindesk.com/markets/2026/07/13/strategy-pauses-its-bitcoin-buying-spree-to-hoard-a-massive-usd3-billion-cash-cushion"
+      "title": "$288M in Seized Bitcoin Just Landed on Coinbase Prime — Here's What That Custody Move Actually Signals",
+      "why_now": "Arkham flagged a massive government wallet transfer to Coinbase Prime today, and on-chain forensics-watchers want to know what happens next to seized funds.",
+      "angle": "On-chain tracing explainer: what custody-to-exchange movement typically precedes (liquidation, auction, cold storage), with wallet-level evidence",
+      "source": "https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether?utm_source=rss&utm_medium=rss"
     },
     {
-      "title": "Chainalysis Just Passed Daubert — Here's Why That Should Worry Every 'Untraceable' Mixer User",
-      "why_now": "Chainalysis's blog details how its blockchain analytics survived a Daubert admissibility challenge in the Sterlingov case, a milestone that raises the evidentiary bar in every future crypto prosecution.",
-      "angle": "Explainer for the security-literate: what Daubert-standard forensics means for on-chain privacy assumptions and why 'it's just heuristics' defenses just got weaker",
+      "title": "Chainalysis Just Cleared the Daubert Bar — Why That Makes Every On-Chain Forensics Claim in Your Next Court Case Fair Game",
+      "why_now": "Chainalysis's fresh blog on meeting the Daubert standard in the Sterlingov case is a legal precedent that changes how blockchain evidence gets weaponized in prosecutions and civil suits.",
+      "angle": "Explainer for security-literate readers: what Daubert means, why it matters for privacy-coin users and mixers, and what evidentiary standard just got easier to clear",
       "source": "https://www.chainalysis.com/blog/chainalysis-daubert-standard-sterlingov/"
     },
     {
-      "title": "Wall Street's Transfer Agents Are Warning the SEC About Tokens — And They're Not Wrong",
-      "why_now": "Incumbent transfer agents are formally lobbying the SEC that third-party tokenization poses market-integrity risks, a rare moment TradFi gatekeepers echo the security concerns this channel has flagged for years.",
-      "angle": "Contrarian security angle: steelman the incumbents' warning, then map out the actual custody/settlement failure modes tokenized-asset platforms haven't solved",
-      "source": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity"
+      "title": "A Dirty Cop Went to Jail Protecting a Crypto 'Mogul' — The Adam Iza Case Is a Masterclass in How Extortion Rackets Actually Get Built",
+      "why_now": "A former LA sheriff's deputy was just jailed for obstructing the Adam Iza extortion probe, exposing law-enforcement complicity in crypto-adjacent crime.",
+      "angle": "True-crime-style breakdown of the extortion scheme and the corrupt protection network, framed as a warning about who profits when crypto crime meets local law enforcement",
+      "source": "https://www.theblock.co/post/408193/former-lasd-deputy-jailed-for-obstructing-crypto-mogul-adam-iza-extortion-probe?utm_source=rss&utm_medium=rss"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T02:27:47+00:00",
+  "generated": "2026-07-14T11:30:51+00:00",
   "opportunities": [
     {
-      "title": "Poland's Grid Went Dark, Brussels Named Names: Inside the First Joint EU-UK Russia Cyber Sanctions Package",
-      "why_now": "EU and UK officially attributed the Polish power grid attack to Russian intelligence the same day sanctions and GRU officer charges dropped, giving a rare attribution-to-consequence timeline to dissect.",
-      "angle": "Timeline explainer: attack → attribution → sanctions, with what 'critical infrastructure hardening' actually means for utilities",
+      "title": "Confirmed: Russia Hacked Poland's Power Grid — And the EU Just Said So Out Loud",
+      "why_now": "EU and UK issued a rare joint official attribution of the Polish grid attack to Russian state hackers, turning a private report into diplomatic fact.",
+      "angle": "Breach-digest lead item: timeline of the attack, what changes now that it's officially attributed (sanctions, NATO Article 5 chatter), and why grid operators everywhere should treat this as the new baseline threat model.",
       "source": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458"
     },
     {
-      "title": "Progress Just Killed ShareFile Servers Overnight — and Won't Say Why",
-      "why_now": "An emergency shutdown order with no disclosed CVE or exploit details is exactly the kind of 'mystery threat' that fuels the inevitable-breach narrative and demands admin action now.",
-      "angle": "Breaking-news brief: what's known, what's speculated, immediate mitigation steps for ShareFile Storage Zone Controller admins",
+      "title": "Progress Just Killed ShareFile Servers Overnight — Nobody Will Say Why",
+      "why_now": "An emergency, unexplained shutdown order for a widely-deployed enterprise file transfer product is exactly the kind of unresolved cliffhanger that drives return visits.",
+      "angle": "'Developing' style post: what we know, what Progress isn't saying, comparisons to past MOVEit/Citrix Bleed-style disasters, and a checklist for admins to isolate exposed instances now.",
       "source": "https://www.theregister.com/security/2026/07/13/progress-orders-emergency-sharefile-server-shutdown-over-mystery-security-threat/5270281"
     },
     {
-      "title": "Your Mac's Own Crash Reporter Is Lying to You: CrashStealer Slips Past Gatekeeper With Apple's Blessing",
-      "why_now": "A notarized dropper defeating macOS's core trust mechanism is a rare and alarming platform-security failure worth flagging to Mac-using orgs immediately.",
-      "angle": "Technical breakdown of the notarization bypass + why 'Apple signed it' is no longer a safety signal",
-      "source": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
+      "title": "Perfect 10s, Actively Exploited: CISA Flags Joomla Extension RCEs Right Now",
+      "why_now": "CISA's KEV addition plus active exploitation of maximum-severity Joomla bugs means unpatched sites are being popped today, not hypothetically.",
+      "angle": "Patch-cadence urgency post: list affected extensions/CVEs, exploitation indicators, and a blunt 'patch now or get owned' framing with a countdown-style hook.",
+      "source": "https://www.theregister.com/security/2026/07/14/baddies-caught-exploiting-extensions-bugs-with-perfect-10-scores-on-vulnerable-joomla-websites/5271001"
     },
     {
-      "title": "CISA Says Joomla Extensions Are Being Popped as Zero-Days — Here's Your Patch List",
-      "why_now": "CISA's active-exploitation warning on iCagenda and Balbooa Forms flaws is a direct, actionable patch-cadence story with a hard deadline for site admins.",
-      "angle": "Patch-now digest: affected extensions, exploit status, and a checklist for Joomla site owners",
-      "source": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/"
+      "title": "npm's Bad Week: A Backdoored Jscrambler Package and 148 Fake 'Student Proxy' Libraries Turned Browsers Into a Botnet",
+      "why_now": "Two separate but simultaneous npm supply-chain compromises in the same 48 hours show the ecosystem is under sustained assault, a classic 'inevitable breach' twofer.",
+      "angle": "Supply-chain roundup: how each attack slipped past review, what packages/versions to purge immediately, and a broader 'can you trust npm right now' gut-check for dev teams.",
+      "source": "https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/"
     },
     {
-      "title": "A Popular npm Security Package Just Got Backdoored to Install a Rust Infostealer (Yes, Ironic)",
-      "why_now": "Jscrambler — a code-obfuscation/security tool — shipping malware in its own npm release is a striking supply-chain irony worth spotlighting for dev-facing readers.",
-      "angle": "Supply-chain post-mortem: how the compromise happened, IOC list, and why 'security tooling' isn't immune",
-      "source": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
+      "title": "Microsoft Just Mapped a Full Year of ShinyHunters' Salesforce Playbook — Here's Every Path In",
+      "why_now": "Microsoft's threat intel team publishing three distinct attack paths tied to a year-long ShinyHunters campaign against Salesforce orgs is a rare gift of actionable breach forensics.",
+      "angle": "Deep-dive breakdown of each attack path with detection/mitigation notes, framed as 'if you run Salesforce, check these three things today.'",
+      "source": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html"
     }
   ]
 }
