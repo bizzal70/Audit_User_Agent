@@ -70,11 +70,16 @@ def judge(collected: dict) -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     resp = client.messages.create(
         model=_MODEL,
-        max_tokens=2000,
+        max_tokens=3000,
         system=_SYSTEM,
         messages=[{"role": "user", "content": prompt}],
     )
-    raw = resp.content[0].text.strip()
+    # Models may emit thinking blocks before the text block, so pick the text
+    # block explicitly rather than assuming content[0] is it.
+    raw = next(
+        (b.text for b in resp.content if getattr(b, "type", None) == "text"),
+        "",
+    ).strip()
     # Tolerate accidental ```json fences.
     if raw.startswith("```"):
         raw = raw.split("```", 2)[1].lstrip("json").strip()
