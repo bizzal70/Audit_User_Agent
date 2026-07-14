@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T02:22:54+00:00",
+  "generated": "2026-07-14T02:27:47+00:00",
   "opportunities": [
     {
-      "title": "Zero-Day Alert: CISA Confirms Active Exploitation of Joomla Extension Flaws — Patch iCagenda and Balbooa Forms Now",
-      "why_now": "CISA's KEV addition plus independent researcher confirmation of active zero-day exploitation makes this a today-not-tomorrow patch mandate.",
-      "angle": "Urgent patch-now advisory with CVE breakdown, affected versions, and exploitation timeline; cross-link CISA + Hacker News + SecurityWeek reporting for credibility",
+      "title": "Poland's Grid Went Dark, Brussels Named Names: Inside the First Joint EU-UK Russia Cyber Sanctions Package",
+      "why_now": "EU and UK officially attributed the Polish power grid attack to Russian intelligence the same day sanctions and GRU officer charges dropped, giving a rare attribution-to-consequence timeline to dissect.",
+      "angle": "Timeline explainer: attack → attribution → sanctions, with what 'critical infrastructure hardening' actually means for utilities",
+      "source": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458"
+    },
+    {
+      "title": "Progress Just Killed ShareFile Servers Overnight — and Won't Say Why",
+      "why_now": "An emergency shutdown order with no disclosed CVE or exploit details is exactly the kind of 'mystery threat' that fuels the inevitable-breach narrative and demands admin action now.",
+      "angle": "Breaking-news brief: what's known, what's speculated, immediate mitigation steps for ShareFile Storage Zone Controller admins",
+      "source": "https://www.theregister.com/security/2026/07/13/progress-orders-emergency-sharefile-server-shutdown-over-mystery-security-threat/5270281"
+    },
+    {
+      "title": "Your Mac's Own Crash Reporter Is Lying to You: CrashStealer Slips Past Gatekeeper With Apple's Blessing",
+      "why_now": "A notarized dropper defeating macOS's core trust mechanism is a rare and alarming platform-security failure worth flagging to Mac-using orgs immediately.",
+      "angle": "Technical breakdown of the notarization bypass + why 'Apple signed it' is no longer a safety signal",
+      "source": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
+    },
+    {
+      "title": "CISA Says Joomla Extensions Are Being Popped as Zero-Days — Here's Your Patch List",
+      "why_now": "CISA's active-exploitation warning on iCagenda and Balbooa Forms flaws is a direct, actionable patch-cadence story with a hard deadline for site admins.",
+      "angle": "Patch-now digest: affected extensions, exploit status, and a checklist for Joomla site owners",
       "source": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/"
     },
     {
-      "title": "Supply Chain Rot: Popular npm Package Jscrambler Backdoored With Rust Infostealer",
-      "why_now": "A widely-used JS obfuscation tool got compromised at v8.14.0, hitting dev pipelines directly — dual-sourced by Hacker News and BleepingComputer within the last 48 hours.",
-      "angle": "Incident breakdown: what jscrambler is, how the infostealer got in, IOCs, and a call for CI/CD dependency-pinning discipline",
+      "title": "A Popular npm Security Package Just Got Backdoored to Install a Rust Infostealer (Yes, Ironic)",
+      "why_now": "Jscrambler — a code-obfuscation/security tool — shipping malware in its own npm release is a striking supply-chain irony worth spotlighting for dev-facing readers.",
+      "angle": "Supply-chain post-mortem: how the compromise happened, IOC list, and why 'security tooling' isn't immune",
       "source": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
-    },
-    {
-      "title": "Patch Tuesday, Any Day: RabbitMQ and Zimbra Critical RCEs Land in the Same News Cycle",
-      "why_now": "Two separate critical code-execution vulnerabilities in widely deployed enterprise messaging/collab software dropped the same day, doubling the patch-cadence urgency.",
-      "angle": "Side-by-side patch digest: CVSS scores, exploitability, who's affected, and a ranked action list for sysadmins",
-      "source": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/"
-    },
-    {
-      "title": "Japan's Largest Taxi Operator Goes Dark: When Ransomware Hits Physical Infrastructure",
-      "why_now": "A major real-world operational shutdown from a cyberattack just happened, giving the 'inevitable breach' narrative a fresh, visceral example.",
-      "angle": "Breach postmortem angle — what's known so far, likely attack vector, and what it signals about critical-infrastructure resilience in transit sector",
-      "source": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/"
-    },
-    {
-      "title": "CrashStealer Proves Notarization Isn't Trust: New macOS Malware Sails Past Gatekeeper",
-      "why_now": "A newly identified macOS infostealer is using a notarized dropper to bypass Apple's core security control, undermining a widely-trusted assumption.",
-      "angle": "Myth-busting explainer on Gatekeeper/notarization limits, IOC list, and why 'notarized' no longer means 'safe' for enterprise Mac fleets",
-      "source": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
     }
   ]
 }

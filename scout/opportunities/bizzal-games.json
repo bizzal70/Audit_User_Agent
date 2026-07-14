@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T02:22:54+00:00",
+  "generated": "2026-07-14T02:27:47+00:00",
   "opportunities": [
     {
-      "title": "The One-Page Lazy Prep Trick That Kills 90% of Session Prep",
-      "why_now": "Sly Flourish's fresh 'Lazy Campaigns' piece is prime raw material for a rules-ruling short that either validates or pushes back on his method.",
-      "angle": "60-sec 'GM Ruling' short: show the actual one-page prep sheet on camera, dry-run one bullet against a real encounter, deliver a blunt verdict ('Works. Steal it.')",
-      "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
-    },
-    {
-      "title": "Mike Shea Just Went Live — Here's the One Lazy DM Rule Everyone Steals Wrong",
-      "why_now": "Mike Shea (Sly Flourish) guested on EN World's podcast this week, giving a timely hook to react to his most-quoted lazy-DM technique.",
-      "angle": "Reaction-style short: pull one specific quote/technique from the livestream, run it through a live table example, correct the common misuse",
-      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
-    },
-    {
-      "title": "Running Clowns as Monsters: The Fear Ruling Most GMs Get Wrong",
-      "why_now": "EN World's 'Send in the Clowns' column dropped this week, giving a topical creature-design hook that's easy to turn into a stat-block/tactic short.",
-      "angle": "Creature tactic short: build a quick 'clown horror' stat block variant (fear save DC, disguise mechanic), demo how to run the reveal at the table",
+      "title": "Killer Clowns as a Shadowdark Monster: Statting the 'Send in the Clowns' Trope",
+      "why_now": "EN World just ran a piece on the evil-clown trope in RPGs, giving a ready-made hook to convert into an actual stat block.",
+      "angle": "60-sec creature tactic short: stat out a homebrew clown monster (fear aura, disadvantage on saves vs. laughter) for Shadowdark, with one paragraph DCC funnel variant",
       "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
     },
     {
-      "title": "Stealing Owlcat's New Psyker for Your 5e Table (No Homebrew Needed)",
-      "why_now": "Owlcat just revealed a psyker companion for Dark Heresy, giving a clean excuse to cover psionic/warp-magic reskins using existing 5e/Shadowdark spell frameworks.",
-      "angle": "Spell use-case short: take one psyker power (e.g., telepathic assault) and map it 1:1 onto an existing 5e spell or Shadowdark talent, with a ruling on backlash/side effects",
-      "source": "https://www.rpgsite.net/news/20896-owlcat-reveals-psykercompanion-saro-for-warhammer-40000-dark-heresy"
+      "title": "Mike Shea Went on the D&D News Livestream — Here's the One Ruling Worth Stealing",
+      "why_now": "Podcast #405 dropped with Sly Flourish's Mike Shea as guest, a name your audience already trusts for table-ready advice.",
+      "angle": "Talking-head short: pull a single concrete takeaway from the livestream (not a recap) and give your own dry veteran-GM verdict on whether it's actually usable at the table",
+      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
     },
     {
-      "title": "This Week's D&D News Digest Hid One Ruling You'll Use at Every Table",
-      "why_now": "The July 10 EN World news digest rounds up scattered rules chatter, giving a chance to cherry-pick the single most actionable nugget for a rapid-fire short.",
-      "angle": "Digest-mining format: skim the roundup on camera, pick the one crunchy rules item, turn it into a 30-second 'here's the actual ruling' clip",
+      "title": "This Week's D&D News Digest: What Actually Changes Your Session Zero",
+      "why_now": "EN World's weekly digest is a grab-bag of announcements; most GMs won't read it, so a filtered 'what matters' short earns trust.",
+      "angle": "Rapid-fire 3-bullet short: strip the digest down to the one or two items with real table impact, skip the rest with a dismissive one-liner",
       "source": "https://www.enworld.org/threads/news-digest-for-july-10-2026.719853/"
+    },
+    {
+      "title": "Sly Flourish's 'Lazy Campaign' Method: The One Prep Step You Can Cut Tonight",
+      "why_now": "Sly Flourish just published a fresh breakdown of lazy campaign prep, a direct match for the channel's efficiency-obsessed GM voice.",
+      "angle": "Rules-ruling/prep short: take one specific lazy-prep technique from the article (e.g., skip the flowchart, prep NPC motivations not plots) and show it applied to tonight's session",
+      "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
+    },
+    {
+      "title": "Perils of the Warp, DCC-Style: Stealing Owlcat's New Psyker for Your Corruption Table",
+      "why_now": "Owlcat just revealed a psyker companion for Warhammer 40K: Dark Heresy, a built-in excuse to talk psychic-mishap mechanics that map directly onto DCC corruption and Shadowdark mystic knacks.",
+      "angle": "Spell use-case short: compare 40k's Perils of the Warp risk/reward to a DCC corruption roll, propose a homebrew mishap table GMs can drop in immediately",
+      "source": "https://www.rpgsite.net/news/20896-owlcat-reveals-psykercompanion-saro-for-warhammer-40000-dark-heresy"
     }
   ]
 }

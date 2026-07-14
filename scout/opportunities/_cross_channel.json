@@ -1,4 +1,53 @@
 {
-  "generated": "2026-07-14T02:22:54+00:00",
-  "plays": []
+  "generated": "2026-07-14T02:27:47+00:00",
+  "plays": [
+    {
+      "story": "Bonzo Lend loses $9M to an oracle-manipulation exploit on Hedera, reigniting debate over DeFi price-feed security",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'$9M Gone in Seconds: How a Single Oracle Flaw Drained Bonzo Lend on Hedera' — break down the exploit mechanics for traders, what happens to depositors' funds, and why Hedera's 'enterprise-grade' pitch just took a credibility hit.",
+        "itsalreadywhen": "'Anatomy of an Oracle Heist: The 6 Lines of Code That Cost Bonzo Lend $9M' — a technical postmortem for security teams on price-feed manipulation as an attack class, with a checklist for auditing oracle dependencies."
+      },
+      "source": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "A compromised jscrambler 8.14.0 npm release silently drops a Rust-based infostealer during install, hitting the JS supply chain",
+      "channels": [
+        "itsalreadywhen",
+        "itsalreadypriced"
+      ],
+      "angles": {
+        "itsalreadywhen": "'Your Build Pipeline Just Got Owned: Inside the jscrambler npm Supply-Chain Infostealer' — actionable purge/rollback steps for dev teams, plus why obfuscation tools are becoming prime supply-chain targets.",
+        "itsalreadypriced": "'If You Run a Web3 Frontend, Check Your node_modules Right Now' — spin the npm compromise toward crypto/dapp devs who lean on jscrambler-style obfuscation, tying it to wallet-drainer and seed-phrase-theft risk."
+      },
+      "source": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
+    },
+    {
+      "story": "Sly Flourish's 'Prepping and Running Lazy Campaigns' distills a low-effort, high-improv GM prep method",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Steal This Prep Sheet: How to Run a Full Session on 20 Minutes of Notes' — a practical breakdown/checklist adapting Sly Flourish's Lazy DM method for time-strapped GMs, with a downloadable template hook.",
+        "itsalreadywritten": "'Why Over-Plotting Kills Your Campaign (And What to Write Instead)' — reframe the lazy-prep philosophy as a writing-craft lesson: strong scene skeletons over airtight plots, with examples of what to actually script vs. improvise."
+      },
+      "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
+    },
+    {
+      "story": "EN World's 'Send in the Clowns' column tackles horror-comedy villains and how they land at the table",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Running a Clown Villain That Actually Scares Your Players' — a GM's guide to pacing the horror/comedy tonal whiplash at the table, with sample stat blocks and read-aloud cues.",
+        "itsalreadywritten": "'The Uncanny Clown: Writing Villains That Are Funny Until They Aren't' — a character-design breakdown of why unsettling-clown villains work narratively, with tips for foreshadowing the turn from silly to sinister."
+      },
+      "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
+    }
+  ]
 }

@@ -1,4 +1,35 @@
 {
-  "generated": "2026-07-14T02:22:54+00:00",
-  "opportunities": []
+  "generated": "2026-07-14T02:27:47+00:00",
+  "opportunities": [
+    {
+      "title": "Bonzo Lend's $9M Oracle Exploit: The Hedera DeFi Bug Everyone Should've Priced In",
+      "why_now": "A fresh $9M oracle manipulation hack on Hedera gives a concrete, timely postmortem for the exact security-forensics beat this channel owns.",
+      "angle": "Technical hack breakdown — how the oracle was gamed, why 'audited' didn't save it, and the checklist readers should run on every lending protocol they touch",
+      "source": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Robinhood Built a Chain for Tokenized Stocks. Memecoins Ate It Alive — Of Course They Did",
+      "why_now": "Two same-day stories (The Block + CoinDesk + Decrypt) confirm Robinhood Chain's early volume is memecoin-driven, not the tokenized-equities use case it was pitched on.",
+      "angle": "'Already priced' takedown: why permissionless chains always get captured by degen liquidity first, and what it means for anyone betting on 'institutional-grade' L1 narratives",
+      "source": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over"
+    },
+    {
+      "title": "Strategy's 'Discipline' Is Just a Cash Cushion With a Press Release",
+      "why_now": "Strategy skipping its third straight weekly BTC buy to sit on $3B cash is being spun as prudence by analysts, right as panic-selling signals suggest capitulation may be near.",
+      "angle": "Market-structure read: decode what a serial buyer going quiet actually signals about liquidity conditions, not corporate virtue",
+      "source": "https://www.coindesk.com/markets/2026/07/13/strategy-pauses-its-bitcoin-buying-spree-to-hoard-a-massive-usd3-billion-cash-cushion"
+    },
+    {
+      "title": "Chainalysis Just Passed Daubert — Here's Why That Should Worry Every 'Untraceable' Mixer User",
+      "why_now": "Chainalysis's blog details how its blockchain analytics survived a Daubert admissibility challenge in the Sterlingov case, a milestone that raises the evidentiary bar in every future crypto prosecution.",
+      "angle": "Explainer for the security-literate: what Daubert-standard forensics means for on-chain privacy assumptions and why 'it's just heuristics' defenses just got weaker",
+      "source": "https://www.chainalysis.com/blog/chainalysis-daubert-standard-sterlingov/"
+    },
+    {
+      "title": "Wall Street's Transfer Agents Are Warning the SEC About Tokens — And They're Not Wrong",
+      "why_now": "Incumbent transfer agents are formally lobbying the SEC that third-party tokenization poses market-integrity risks, a rare moment TradFi gatekeepers echo the security concerns this channel has flagged for years.",
+      "angle": "Contrarian security angle: steelman the incumbents' warning, then map out the actual custody/settlement failure modes tokenized-asset platforms haven't solved",
+      "source": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity"
+    }
+  ]
 }
