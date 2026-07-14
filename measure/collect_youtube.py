@@ -31,8 +31,15 @@ def _get(url: str) -> dict | None:
 
 
 def _recent_video_ids(channel_id: str, key: str, limit: int = 12) -> list[str]:
-    # The uploads playlist id is the channel id with UC -> UU.
-    uploads = "UU" + channel_id[2:]
+    # Resolve the channel's uploads playlist authoritatively via the channels
+    # endpoint (the UC->UU shortcut isn't always accepted).
+    ch = _get(f"{_API}/channels?part=contentDetails&id={channel_id}&key={key}")
+    items = (ch or {}).get("items", [])
+    if not items:
+        print(f"[measure] yt: channel {channel_id} returned no items")
+        return []
+    uploads = items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    print(f"[measure] yt uploads playlist: {uploads}")
     data = _get(
         f"{_API}/playlistItems?part=contentDetails&maxResults={limit}"
         f"&playlistId={uploads}&key={key}"
