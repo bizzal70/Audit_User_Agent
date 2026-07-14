@@ -1,8 +1,10 @@
 """Collect public YouTube video stats via the Data API v3 (key-based, no OAuth).
 
-Recent video IDs come from the free RSS feed; per-video stats (views/likes/
-comments) come from the videos endpoint (1 quota unit each). Watch-time, CTR,
-and retention need the YouTube Analytics API (OAuth) — a phase-2 add.
+Recent video IDs come from the channel's uploads playlist (the uploads playlist
+id is just the channel id with the UC prefix swapped to UU), and per-video stats
+(views/likes/comments) from the videos endpoint. All via the API key — no RSS
+dependency (the public RSS feed is flaky). Watch-time / CTR / retention need the
+YouTube Analytics API (OAuth) — a phase-2 add.
 
 Env: BIZZAL_YT_DATA_API_KEY, optional YT_CHANNEL_ID (default @Bizzal_Games).
 """
@@ -10,29 +12,38 @@ from __future__ import annotations
 
 import json
 import os
+import urllib.error
 import urllib.request
-import xml.etree.ElementTree as ET
 
 _CHANNEL = os.environ.get("YT_CHANNEL_ID", "UCn8fIswollQTSAJYkAshjyw")
-_UA = "Mozilla/5.0 (compatible; BizzalMeasure/1.0)"
-_NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+_API = "https://www.googleapis.com/youtube/v3"
 
 
-def _recent_video_ids(channel_id: str, limit: int = 12) -> list[str]:
-    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    req = urllib.request.Request(url, headers={"User-Agent": _UA})
+def _get(url: str) -> dict | None:
     try:
-        with urllib.request.urlopen(req, timeout=30) as r:
-            root = ET.fromstring(r.read())
+        with urllib.request.urlopen(url, timeout=30) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        print(f"[measure] yt api -> {e.code}: {e.read().decode('utf-8', 'replace')[:300]}")
     except Exception as e:  # noqa: BLE001
-        print(f"[measure] yt feed failed: {e}")
+        print(f"[measure] yt api failed: {e}")
+    return None
+
+
+def _recent_video_ids(channel_id: str, key: str, limit: int = 12) -> list[str]:
+    # The uploads playlist id is the channel id with UC -> UU.
+    uploads = "UU" + channel_id[2:]
+    data = _get(
+        f"{_API}/playlistItems?part=contentDetails&maxResults={limit}"
+        f"&playlistId={uploads}&key={key}"
+    )
+    if not data:
         return []
-    ids = []
-    for entry in root.findall("a:entry", _NS)[:limit]:
-        vid = entry.findtext("yt:videoId", default="", namespaces=_NS)
-        if vid:
-            ids.append(vid)
-    return ids
+    return [
+        it["contentDetails"]["videoId"]
+        for it in data.get("items", [])
+        if it.get("contentDetails", {}).get("videoId")
+    ]
 
 
 def collect() -> dict | None:
@@ -40,18 +51,11 @@ def collect() -> dict | None:
     if not key:
         print("[measure] no BIZZAL_YT_DATA_API_KEY; skipping YouTube")
         return None
-    ids = _recent_video_ids(_CHANNEL)
+    ids = _recent_video_ids(_CHANNEL, key)
     if not ids:
         return None
-    url = (
-        "https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics"
-        f"&id={','.join(ids)}&key={key}"
-    )
-    try:
-        with urllib.request.urlopen(url, timeout=30) as r:
-            data = json.loads(r.read())
-    except Exception as e:  # noqa: BLE001
-        print(f"[measure] yt data api failed: {e}")
+    data = _get(f"{_API}/videos?part=snippet,statistics&id={','.join(ids)}&key={key}")
+    if not data:
         return None
     videos = []
     for it in data.get("items", []):
