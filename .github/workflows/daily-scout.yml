@@ -1,0 +1,47 @@
+name: daily-content-scout
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 11:00 UTC daily, ahead of the 13:00 reviewer
+  workflow_dispatch:
+
+permissions:
+  contents: write        # commit the opportunities/*.json queues
+  issues: write          # file/append the digest issue
+
+concurrency:
+  group: daily-scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r reviewer/requirements.txt
+
+      - name: Run scout
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REVIEW_MODEL: ${{ vars.REVIEW_MODEL }}
+          SCOUT_LOOKBACK_DAYS: ${{ vars.SCOUT_LOOKBACK_DAYS }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m scout.run
+
+      - name: Commit opportunity queues
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scout/opportunities/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "scout: refresh content opportunities [skip ci]"
+            git push
+          else
+            echo "no opportunity changes"
+          fi

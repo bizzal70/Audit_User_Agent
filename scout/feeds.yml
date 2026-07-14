@@ -1,0 +1,63 @@
+# Unified content-sourcing registry for the Bizzal content machine.
+#
+# Every channel scouts the same pool here instead of four separate silos.
+# Feeds are tagged by `topics`; each channel `consumes` one or more topics, so a
+# feed shared across beats (e.g. The Hacker News → crypto + cyber) is fetched
+# ONCE and routed to every channel that wants it. The ranker then proposes
+# per-channel opportunities plus cross-channel plays (one story → many channels).
+
+channels:
+  bizzal-games:
+    name: "Bizzal Games — YouTube + Instagram"
+    beat: "Daily D&D 5e / Shadowdark / DCC tabletop shorts — one rules ruling, creature tactic, or spell use-case per day. Voice: dry, mechanical, wry veteran GM, no fluff."
+    consumes: [ttrpg]
+    issue_repo: Bizzal-Games-YT-PUB
+  itsalreadywritten:
+    name: "It's Already Written — blog + X"
+    beat: "TTRPG rules, facts, and news. Knowing, rules-first. 'The rules are already written.'"
+    consumes: [ttrpg]
+    issue_repo: itsalreadywritten
+  itsalreadypriced:
+    name: "It's Already Priced — blog + X"
+    beat: "Crypto security and markets, security-led. 'For people who already know how this ends.'"
+    consumes: [crypto]
+    issue_repo: itsalreadypriced
+  itsalreadywhen:
+    name: "It's Already When — blog + X"
+    beat: "Cybersecurity — breaches, CVEs, threat actors, patch cadence. The inevitable-breach digest."
+    consumes: [cyber]
+    issue_repo: itsalreadywhen
+
+feeds:
+  # --- TTRPG (Bizzal Games + It's Already Written) ---
+  - {name: "EN World",        url: "https://www.enworld.org/ewr-porta/index.rss", topics: [ttrpg], category: news}
+  - {name: "RPGSite",         url: "https://rpgsite.net/feed.atom",               topics: [ttrpg], category: news}
+  - {name: "RPGBOT",          url: "https://rpgbot.net/blog/feed/",               topics: [ttrpg], category: analysis}
+  - {name: "Sly Flourish",    url: "https://slyflourish.com/index.xml",           topics: [ttrpg], category: analysis}
+  - {name: "Gnome Stew",      url: "https://gnomestew.com/feed/",                 topics: [ttrpg], category: analysis}
+  - {name: "Tribality",       url: "https://www.tribality.com/feed/",             topics: [ttrpg], category: analysis}
+  - {name: "dice.camp #dnd5e",     url: "https://dice.camp/tags/dnd5e.rss",      topics: [ttrpg], category: social}
+  - {name: "dice.camp #shadowdark", url: "https://dice.camp/tags/shadowdark.rss", topics: [ttrpg], category: social}
+  - {name: "dice.camp #osr",       url: "https://dice.camp/tags/osr.rss",        topics: [ttrpg], category: social}
+
+  # --- Crypto (It's Already Priced) ---
+  - {name: "Cointelegraph Hacks", url: "https://cointelegraph.com/rss/tag/hacks", topics: [crypto], category: incident}
+  - {name: "Chainalysis Blog",    url: "https://www.chainalysis.com/blog/feed/",  topics: [crypto], category: research}
+  - {name: "The Block",           url: "https://www.theblock.co/rss.xml",          topics: [crypto], category: news}
+  - {name: "CoinDesk",            url: "https://www.coindesk.com/arc/outboundfeeds/rss/", topics: [crypto], category: news}
+  - {name: "Decrypt",             url: "https://decrypt.co/feed",                  topics: [crypto], category: news}
+  - {name: "The Defiant",         url: "https://thedefiant.io/api/feed",           topics: [crypto], category: defi}
+  - {name: "r/CryptoCurrency",    url: "https://www.reddit.com/r/CryptoCurrency/.rss", topics: [crypto], category: social}
+
+  # --- Cyber (It's Already When) ---
+  - {name: "CISA Advisories",  url: "https://www.cisa.gov/cybersecurity-advisories/all.xml", topics: [cyber], category: advisory}
+  - {name: "NVD CVEs",         url: "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml",   topics: [cyber], category: cve}
+  - {name: "Krebs on Security", url: "https://krebsonsecurity.com/feed/",          topics: [cyber], category: news}
+  - {name: "Dark Reading",     url: "https://www.darkreading.com/rss.xml",         topics: [cyber], category: news}
+  - {name: "SecurityWeek",     url: "https://feeds.feedburner.com/securityweek",   topics: [cyber], category: news}
+  - {name: "Schneier",         url: "https://www.schneier.com/feed/atom/",         topics: [cyber], category: analysis}
+  - {name: "Google Project Zero", url: "https://googleprojectzero.blogspot.com/feeds/posts/default", topics: [cyber], category: research}
+
+  # --- Shared across beats (fetched once, routed to both) ---
+  - {name: "The Hacker News",   url: "https://feeds.feedburner.com/TheHackersNews", topics: [crypto, cyber], category: security}
+  - {name: "Bleeping Computer", url: "https://www.bleepingcomputer.com/feed/",      topics: [crypto, cyber], category: security}

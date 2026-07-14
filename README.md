@@ -61,3 +61,28 @@ they must be added here.
 - Manual: Actions → **daily-content-review** → *Run workflow* (optionally scope to
   one property by id).
 - Local debug: `REVIEW_ONLY=itsalreadypriced python -m reviewer.run`
+
+---
+
+# Content scout (the `source` arc)
+
+A second agent that unifies content discovery across every channel. Where the
+reviewer critiques what's published, the scout finds what to make next.
+
+- [`scout/feeds.yml`](scout/feeds.yml) — one registry of every RSS/Atom/social feed,
+  tagged by topic (`ttrpg` / `crypto` / `cyber`). A feed shared across beats (e.g.
+  The Hacker News → crypto + cyber) is fetched once and routed to every channel
+  that wants it.
+- **Per-channel opportunities** — the newest items on each beat, ranked by Claude
+  into concrete title/hook ideas with a why-now and source link.
+- **Cross-channel plays** — one story that feeds 2+ channels (a supply-chain hack
+  for crypto-security *and* cyber), with the per-channel spin. This is the point of
+  unifying — the four pipelines were previously blind to each other.
+
+**Output:** machine-readable queues at `scout/opportunities/<channel>.json` (for a
+pipeline's `create` step to consume later) plus a daily digest issue in this repo
+that emails you. Key-free collection; uses the same `ANTHROPIC_API_KEY`.
+
+Runs daily at 11:00 UTC (ahead of the reviewer). Manual: Actions →
+**daily-content-scout** → *Run workflow*. Local: `python -m scout.run`.
+Optional var `SCOUT_LOOKBACK_DAYS` (default 3).
