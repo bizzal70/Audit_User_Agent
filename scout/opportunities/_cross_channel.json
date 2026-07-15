@@ -1,4 +1,53 @@
 {
-  "generated": "2026-07-14T11:30:51+00:00",
-  "plays": []
+  "generated": "2026-07-15T11:31:54+00:00",
+  "plays": [
+    {
+      "story": "Beadle & Grimm's 'Deadfall' launches as a $500 deluxe D&D set with minis, posters, and bonus adventures",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Is $500 Worth It? We Break Down Beadle & Grimm's 'Deadfall' Deluxe Set Piece by Piece",
+        "itsalreadywritten": "Bonus Adventures, Same Old Plot? What Beadle & Grimm's Deadfall Reveals About Premium D&D Writing"
+      },
+      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
+    },
+    {
+      "story": "Sly Flourish's guide on prepping and running 'lazy' campaigns resurfaces as a core GM philosophy",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Prep Less, Play More: Sly Flourish's Lazy Campaign Method Gets a Fresh Look for 2026 Tables",
+        "itsalreadywritten": "The Case for Under-Writing Your Campaign: What 'Lazy Prep' Teaches Every TTRPG Scribe"
+      },
+      "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
+    },
+    {
+      "story": "Humanity Protocol pledges to prioritize operational security after a $36M hack",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Humanity Protocol's $36M Hack: What It Means for Token Price and Investor Trust Going Forward",
+        "itsalreadywhen": "Humanity Protocol Vows 'OpSec First' After $36M Breach — Here's What Actually Went Wrong"
+      },
+      "source": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "EU sanctions 'Stern,' likely history's most prolific ransomware operator, as part of a crackdown on billions in ransomware damage",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Tracing 'Stern's' Billions: How Chainalysis Followed the Money Behind History's Biggest Ransomware Empire",
+        "itsalreadywhen": "Trickbot's Ghost: Inside the EU's Sanctions Against the Most Prolific Ransomware Operator Ever"
+      },
+      "source": "https://www.chainalysis.com/blog/cyber-sanctions-trickbot-administrator-july-2026/"
+    }
+  ]
 }

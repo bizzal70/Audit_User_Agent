@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T11:30:51+00:00",
+  "generated": "2026-07-15T11:31:54+00:00",
   "opportunities": [
     {
-      "title": "The $500 D&D Box: What You're Actually Paying For (Hint: Not Rules)",
-      "why_now": "Beadle & Grimm's just announced a $500 'Deadfall' boxed set, a ripe target for a dry cost-per-session breakdown.",
-      "angle": "30-sec 'ruling' style breakdown comparing $500 swag set to a $20 Shadowdark zine — cost-per-hour-of-play math, deadpan delivery",
+      "title": "$500 Doesn't Buy You Better Initiative: Beadle & Grimm's Deadfall Set vs. the Rules",
+      "why_now": "The just-announced $500 Deadfall boxed set is a lightning rod for 'prestige vs. substance' debate among GMs.",
+      "angle": "Wry mechanical takedown — use the premium minis/posters as a springboard for a ruling on how (or if) fancy props ever override RAW resolution at the table.",
       "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     },
     {
-      "title": "Shadowdark Doesn't Need a $500 Box",
-      "why_now": "The Deadfall set's excess is a perfect foil to spotlight Shadowdark's stripped-down design philosophy, tying beat-relevant systems together.",
-      "angle": "Split-screen comparison short: premium bloat vs. minimalist crunch, ending on a one-line design ruling",
-      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
+      "title": "Send In The Clowns: Running a Krenshar (or a Jester Cultist) as a Horror-Comedy Monster",
+      "why_now": "EN World's clown-themed column is fresh and gives a built-in hook for a creature-tactic short on unsettling, humor-adjacent monsters.",
+      "angle": "Creature tactic breakdown — pick one 5e/Shadowdark monster that reads 'funny' but plays lethal, show the actual stat block trick.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
     },
     {
-      "title": "One Lazy DM Habit That Kills Session Zero Bloat",
-      "why_now": "Sly Flourish's fresh 'Prepping and Running Lazy Campaigns' piece is direct fuel for a prep-focused daily short.",
-      "angle": "Veteran-GM tip format: 'Here's the one prep step you can cut this week' with a concrete example encounter",
+      "title": "Mike Shea's Lazy Prep, Stress-Tested Against a DCC Funnel",
+      "why_now": "Sly Flourish just dropped a fresh 'Lazy Campaigns' prep breakdown right as Mike Shea guested on the big D&D news podcast, making this a hot cross-reference moment.",
+      "angle": "Direct-response short: take one Lazy DM prep step and show whether it survives DCC's brutal funnel structure — dry commentary on where 'lazy' still needs homework.",
       "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
     },
     {
-      "title": "What Mike Shea Actually Said You Should Steal From This Week's D&D News",
-      "why_now": "Podcast #405 with Mike Shea just dropped a 'ton of D&D news,' giving a timely hook to react with a specific mechanical takeaway.",
-      "angle": "Reaction-style short: pull one ruling/tactic mentioned in the livestream and give the blunt GM verdict on whether it's worth using",
+      "title": "What Mike Shea Actually Said About D&D's Future (And Why Your Prep Doesn't Need to Change)",
+      "why_now": "Podcast #405 just aired with a 'ton of D&D news' and Mike Shea as guest — audience is primed for takeaways without watching 2+ hours.",
+      "angle": "Rapid-fire ruling/news digest format — 3 bullet takeaways delivered dry and skeptical, focused only on table-impact, ignoring corporate fluff.",
       "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
     },
     {
-      "title": "Killer Clowns 101: Running Comedy Villains Without Killing the Tension",
-      "why_now": "EN World's 'Send in the Clowns' piece is a ready-made creature/NPC tactic angle for the daily beat.",
-      "angle": "Creature tactic breakdown: how to stat and run a trickster/clown NPC (fear + humor balance) in 5e/DCC without derailing the table",
-      "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
+      "title": "Posters and Minis Won't Save a Bad Encounter: The Theater-of-the-Mind Ruling Beadle & Grimm's Can't Sell You",
+      "why_now": "The Deadfall set's marketing leans hard on physical props, making it a perfect foil for a ruling on when maps/minis actually matter mechanically vs. when they're just set dressing.",
+      "angle": "Rules-ruling short: define the exact moment (opportunity attacks, AoE, cover) where a map is mechanically required versus purely aesthetic — needle the premium-set hype.",
+      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     }
   ]
 }

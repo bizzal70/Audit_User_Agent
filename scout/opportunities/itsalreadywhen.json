@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T11:30:51+00:00",
+  "generated": "2026-07-15T11:31:54+00:00",
   "opportunities": [
     {
-      "title": "Confirmed: Russia Hacked Poland's Power Grid — And the EU Just Said So Out Loud",
-      "why_now": "EU and UK issued a rare joint official attribution of the Polish grid attack to Russian state hackers, turning a private report into diplomatic fact.",
-      "angle": "Breach-digest lead item: timeline of the attack, what changes now that it's officially attributed (sanctions, NATO Article 5 chatter), and why grid operators everywhere should treat this as the new baseline threat model.",
+      "title": "622 and Counting: Inside the Worst Patch Tuesday Ever Recorded — What Actually Needs Your Attention This Week",
+      "why_now": "Microsoft just shattered its own record from last month with 622 CVEs, and two are already under active exploitation, making triage the real story.",
+      "angle": "Digest/breakdown format: rank the handful of CVEs that matter (the two zero-days) against the noise of 620 others, with a patch-priority cheat sheet",
+      "source": "https://www.theregister.com/security/2026/07/14/patchpocalypse-now-microsoft-tops-last-months-record-with-622-patch-tuesday-cves/5271434"
+    },
+    {
+      "title": "SonicWall's SMA 1000 Has Two Zero-Days in the Wild — Patch Before You Read the Rest of This List",
+      "why_now": "SonicWall issued an urgent warning for two actively exploited zero-days on its SMA 1000 line, one of which grants admin-level commands to attackers.",
+      "angle": "Breaking/urgent advisory style post: what's exploited, who's exposed, and the patch timeline — the classic 'stop scrolling and patch this now' post",
+      "source": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+    },
+    {
+      "title": "Your AI Coding Assistant Will Run Malware For You: Cursor IDE Auto-Executes Code From Poisoned Repos",
+      "why_now": "Cursor's flaw lets a simple git clone trigger Windows code execution, landing right as developers rush to adopt AI-assisted IDEs without threat-modeling them.",
+      "angle": "Explainer with attack-chain walkthrough: how a booby-trapped repo becomes RCE, and why 'AI IDE' security review is now a checklist item",
+      "source": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html"
+    },
+    {
+      "title": "Progress Pulled the ShareFile Plug on Purpose: The Zero-Day Behind the Mystery Shutdown, Explained",
+      "why_now": "What began as a vague 'mystery security threat' emergency shutdown has now been confirmed as an actual zero-day, closing the loop on a story that broke across multiple outlets this week.",
+      "angle": "Timeline/follow-up piece: from cryptic shutdown notice to confirmed CVE, with lessons on vendor communication during active incidents",
+      "source": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/"
+    },
+    {
+      "title": "The Kremlin Did It: EU and UK Officially Pin Poland's Power Grid Hack on Russian Spies",
+      "why_now": "This is a rare formal state attribution for a critical-infrastructure attack, escalating the stakes for European energy security amid ongoing Russian cyber operations.",
+      "angle": "Geopolitical breakdown: what the attribution actually proves, what it doesn't, and what it means for grid operators watching Russian TTPs",
       "source": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458"
-    },
-    {
-      "title": "Progress Just Killed ShareFile Servers Overnight — Nobody Will Say Why",
-      "why_now": "An emergency, unexplained shutdown order for a widely-deployed enterprise file transfer product is exactly the kind of unresolved cliffhanger that drives return visits.",
-      "angle": "'Developing' style post: what we know, what Progress isn't saying, comparisons to past MOVEit/Citrix Bleed-style disasters, and a checklist for admins to isolate exposed instances now.",
-      "source": "https://www.theregister.com/security/2026/07/13/progress-orders-emergency-sharefile-server-shutdown-over-mystery-security-threat/5270281"
-    },
-    {
-      "title": "Perfect 10s, Actively Exploited: CISA Flags Joomla Extension RCEs Right Now",
-      "why_now": "CISA's KEV addition plus active exploitation of maximum-severity Joomla bugs means unpatched sites are being popped today, not hypothetically.",
-      "angle": "Patch-cadence urgency post: list affected extensions/CVEs, exploitation indicators, and a blunt 'patch now or get owned' framing with a countdown-style hook.",
-      "source": "https://www.theregister.com/security/2026/07/14/baddies-caught-exploiting-extensions-bugs-with-perfect-10-scores-on-vulnerable-joomla-websites/5271001"
-    },
-    {
-      "title": "npm's Bad Week: A Backdoored Jscrambler Package and 148 Fake 'Student Proxy' Libraries Turned Browsers Into a Botnet",
-      "why_now": "Two separate but simultaneous npm supply-chain compromises in the same 48 hours show the ecosystem is under sustained assault, a classic 'inevitable breach' twofer.",
-      "angle": "Supply-chain roundup: how each attack slipped past review, what packages/versions to purge immediately, and a broader 'can you trust npm right now' gut-check for dev teams.",
-      "source": "https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/"
-    },
-    {
-      "title": "Microsoft Just Mapped a Full Year of ShinyHunters' Salesforce Playbook — Here's Every Path In",
-      "why_now": "Microsoft's threat intel team publishing three distinct attack paths tied to a year-long ShinyHunters campaign against Salesforce orgs is a rare gift of actionable breach forensics.",
-      "angle": "Deep-dive breakdown of each attack path with detection/mitigation notes, framed as 'if you run Salesforce, check these three things today.'",
-      "source": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T11:30:51+00:00",
+  "generated": "2026-07-15T11:31:54+00:00",
   "opportunities": [
     {
-      "title": "The Rules Say Nothing About a $500 Price Tag: Breaking Down What Beadle & Grimm's 'Deadfall' Actually Adds to the Table",
-      "why_now": "Beadle & Grimm's just revealed its priciest Collector's Edition yet, inviting a rules/value breakdown of what's actually new mechanically versus cosmetic.",
-      "angle": "Line-by-line audit comparing box contents to actual table impact—minis and posters vs. rules-relevant bonus adventures",
+      "title": "The Actual Math on Beadle & Grimm's $500 'Deadfall' Set: What You're Paying For, Line by Line",
+      "why_now": "The set just launched with a headline-grabbing price point that demands a rules-first breakdown of contents vs. cost.",
+      "angle": "Itemized cost/value analysis comparing set contents to standalone retail prices of minis, posters, and adventure content",
       "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     },
     {
-      "title": "Mike Shea Dropped a Ton of D&D News — Here's What Actually Changes at Your Table",
-      "why_now": "A major news-dense livestream just aired with a respected voice (Sly Flourish's Mike Shea), giving us fresh material to filter signal from hype.",
-      "angle": "Rapid rules-impact recap: which announcements are mechanics changes vs. marketing, with citations to source segments",
-      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.html"
+      "title": "Beadle & Grimm's Price Creep: Tracking the Climb from Dragon Heist to $500",
+      "why_now": "The Deadfall set's price is the latest data point in a multi-year trend worth documenting for readers deciding whether to buy in.",
+      "angle": "Timeline/chart post tracing premium set pricing across Beadle & Grimm's release history",
+      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     },
     {
-      "title": "Lazy Prep, Real Rules: What Sly Flourish's Latest Guide Gets Right (and Skips) About Running Long Campaigns",
-      "why_now": "Sly Flourish just published a fresh prep philosophy piece that begs comparison against the actual written rules for campaign structure.",
-      "angle": "Rules-first rebuttal/companion piece: where 'lazy' prep aligns with RAW guidance and where it substitutes house-ruling",
-      "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
-    },
-    {
-      "title": "Send In the Clowns: What EN World's Latest Column Gets Right About Comic Relief NPCs — and What the Rules Actually Say About Running Them",
-      "why_now": "EN World's fresh column on clown/comic-relief characters is a perfect jumping-off point for a rules-grounded look at NPC roleplay mechanics.",
-      "angle": "Mechanics-meets-craft piece: cite specific rulebook guidance on NPC personality/behavior tables vs. the columnist's advice",
+      "title": "What Actually Makes a Clown Terrifying by the Rules: Fear, Madness, and Stat Blocks",
+      "why_now": "RPG Evolution's clown column is a hook to dig into the specific mechanical tools (fear conditions, madness tables, monster design) that make horror work at the table.",
+      "angle": "Rules-breakdown explainer connecting the article's theme to concrete D&D/TTRPG mechanics for horror encounters",
       "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
     },
     {
-      "title": "No Demo Needed: What Qliphah in Providence's Shadow Tells Us About Designing Rules That Sell Themselves",
-      "why_now": "A convention report calling out a game so well-designed it needed no demo is a rare, concrete case study in rules clarity done right.",
-      "angle": "Design-analysis piece: extract the specific rules/mechanics choices that made the pitch self-evident, framed as lessons for other designers",
-      "source": "https://www.rpgsite.net/preview/20910-sometimes-game-just-didnt-need-demo-at-convention-qliphah-in-providences-shadow-was-one-them"
+      "title": "Sorting Fact from Speculation: Every D&D Rule Confirmed in Podcast #405 with Mike Shea",
+      "why_now": "A livestream billed as 'a ton of D&D news' needs a rules-first recap separating confirmed changes from speculation before misinformation spreads.",
+      "angle": "Fact-check digest format listing each claim with source confidence and rules implications",
+      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
+    },
+    {
+      "title": "Lazy Prep, Real Rules: Does Sly Flourish's Campaign Framework Hold Up Against RAW?",
+      "why_now": "Sly Flourish's fresh prep-and-run guide is popular but doesn't always map cleanly onto official rules, making it ripe for a rules-first cross-check.",
+      "angle": "Comparison piece testing lazy-prep techniques against RAW encounter/XP/treasure guidelines",
+      "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
     }
   ]
 }

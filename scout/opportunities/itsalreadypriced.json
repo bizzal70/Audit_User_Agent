@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-14T11:30:51+00:00",
+  "generated": "2026-07-15T11:31:54+00:00",
   "opportunities": [
     {
-      "title": "Another Day, Another Oracle: Bonzo Lend's $9M Hedera Exploit Was Foretold in Every Postmortem You Ignored",
-      "why_now": "A fresh $9M oracle exploit on Hedera just gave the channel a live case study in the same failure mode that's drained lending protocols for years.",
-      "angle": "Incident teardown: walk through the oracle manipulation mechanics, then map it against 3-4 prior oracle exploits to show the pattern nobody fixed",
-      "source": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Humanity Protocol Discovers Operational Security After Losing $36M — A Field Guide to Post-Hack PR",
+      "why_now": "The protocol is announcing security 'prioritization' literally days after a $36M breach, the textbook reactive-security pattern this channel exists to dissect.",
+      "angle": "Post-mortem breakdown: what 'prioritizing opsec' actually means after the money's gone, with a checklist of what should've been in place pre-hack",
+      "source": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "No, AI Didn't Cause a DeFi 'Hackpocalypse' — Humans Still Ship the Same Bugs",
-      "why_now": "A Dragonfly partner just publicly pushed back on AI-hacking fear narratives right as a real oracle exploit (Bonzo) proves the boring old vulnerabilities are still the ones draining funds.",
-      "angle": "Contrarian security take: pair the Dragonfly comment with the Bonzo exploit as evidence — the threat isn't AI, it's the same unaudited oracle dependencies",
+      "title": "No, AI Didn't Cause a DeFi Hackpocalypse — The Data Says Something Worse",
+      "why_now": "A Dragonfly partner is publicly pushing back on AI-hack panic narratives right as the market wants a scapegoat, giving this channel a contrarian, data-grounded angle.",
+      "angle": "Skeptical explainer: pull the actual exploit data, show hacks are still old-fashioned key/logic failures, and argue AI fear is distracting from real opsec basics",
       "source": "https://cointelegraph.com/news/dragonfly-defi-ai-hackpocalypse-fears?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$288M in Seized Bitcoin Just Landed on Coinbase Prime — Here's What That Custody Move Actually Signals",
-      "why_now": "Arkham flagged a massive government wallet transfer to Coinbase Prime today, and on-chain forensics-watchers want to know what happens next to seized funds.",
-      "angle": "On-chain tracing explainer: what custody-to-exchange movement typically precedes (liquidation, auction, cold storage), with wallet-level evidence",
-      "source": "https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether?utm_source=rss&utm_medium=rss"
+      "title": "Meet 'Stern': The Ransomware Kingpin Who Ran Crime Like a Fortune 500 Company",
+      "why_now": "EU sanctions just landed on the alleged operator behind Trickbot/Conti-linked billions in damage, a rare named-and-shamed moment worth unpacking for a security-literate audience.",
+      "angle": "Profile/explainer on the sanctioned operator's business model and what the sanction actually changes (or doesn't) for on-chain enforcement",
+      "source": "https://www.chainalysis.com/blog/cyber-sanctions-trickbot-administrator-july-2026/"
     },
     {
-      "title": "Chainalysis Just Cleared the Daubert Bar — Why That Makes Every On-Chain Forensics Claim in Your Next Court Case Fair Game",
-      "why_now": "Chainalysis's fresh blog on meeting the Daubert standard in the Sterlingov case is a legal precedent that changes how blockchain evidence gets weaponized in prosecutions and civil suits.",
-      "angle": "Explainer for security-literate readers: what Daubert means, why it matters for privacy-coin users and mixers, and what evidentiary standard just got easier to clear",
-      "source": "https://www.chainalysis.com/blog/chainalysis-daubert-standard-sterlingov/"
+      "title": "Treasury Just Froze $130M in Iran-Linked Wallets — Here's Why That's Scarier Than a Hack",
+      "why_now": "A fresh $130M freeze shows the state's tracing/seizure capability keeps outpacing 'privacy coin' assumptions, a direct hit to the 'crypto is untraceable' myth this channel loves to puncture.",
+      "angle": "Explainer on how the freeze was technically possible, tying it to the broader thesis that on-chain funds are more seizable than believed",
+      "source": "https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets?utm_source=rss&utm_medium=rss"
     },
     {
-      "title": "A Dirty Cop Went to Jail Protecting a Crypto 'Mogul' — The Adam Iza Case Is a Masterclass in How Extortion Rackets Actually Get Built",
-      "why_now": "A former LA sheriff's deputy was just jailed for obstructing the Adam Iza extortion probe, exposing law-enforcement complicity in crypto-adjacent crime.",
-      "angle": "True-crime-style breakdown of the extortion scheme and the corrupt protection network, framed as a warning about who profits when crypto crime meets local law enforcement",
-      "source": "https://www.theblock.co/post/408193/former-lasd-deputy-jailed-for-obstructing-crypto-mogul-adam-iza-extortion-probe?utm_source=rss&utm_medium=rss"
+      "title": "The US Government Just Moved $288M in Seized Crypto to Coinbase Prime — Who's Actually Guarding It Now?",
+      "why_now": "A quarter-billion in seized assets landing in an exchange custody arm is a fresh, concrete hook for questioning custodial security assumptions around government-held crypto.",
+      "angle": "Security-angle explainer on custody chain-of-custody risk when state seizures rely on private exchange infrastructure",
+      "source": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime"
     }
   ]
 }
