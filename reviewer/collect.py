@@ -14,7 +14,7 @@ import json
 import os
 import urllib.request
 
-from . import fetch, youtube
+from . import fetch, instagram, youtube
 
 _GH_API = "https://api.github.com"
 
@@ -68,6 +68,8 @@ def _fetch_live(src: dict) -> dict:
         content = fetch.get_text(url)
     elif method == "youtube_rss":
         content = youtube.recent_videos(src["channel_id"])
+    elif method == "ig_metrics":
+        content = instagram.recent_posts()
     elif method == "deferred":
         return {"label": label, "url": url, "content": None, "ok": False,
                 "reason": "deferred — free reading not available for this channel"}

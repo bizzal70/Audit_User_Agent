@@ -29,7 +29,7 @@ properties:
     rubric: instagram
     live:
       - label: instagram
-        method: deferred
+        method: ig_metrics
         url: "https://www.instagram.com/bizzalgames70/"
     source: Bizzal-Games-YT-PUB
     issue_repo: Bizzal-Games-YT-PUB
