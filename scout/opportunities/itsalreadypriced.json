@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-15T11:31:54+00:00",
+  "generated": "2026-07-16T11:32:52+00:00",
   "opportunities": [
     {
-      "title": "Humanity Protocol Discovers Operational Security After Losing $36M — A Field Guide to Post-Hack PR",
-      "why_now": "The protocol is announcing security 'prioritization' literally days after a $36M breach, the textbook reactive-security pattern this channel exists to dissect.",
-      "angle": "Post-mortem breakdown: what 'prioritizing opsec' actually means after the money's gone, with a checklist of what should've been in place pre-hack",
+      "title": "Ostium Paused Trading Mid-Exploit — But the Oracle Was Broken Long Before the Multimillion-Dollar Bill Came Due",
+      "why_now": "A perp DEX just lost $18M+ to an oracle attack severe enough to force a full trading halt within hours of going live with the news.",
+      "angle": "Incident post-mortem: walk through the oracle manipulation mechanics and why 'pause trading' is the tell that the design was never adversarial-tested",
+      "source": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "'We'll Prioritize Security Going Forward' — The Most Predictable Sentence in Crypto",
+      "why_now": "Humanity Protocol's post-$36M-hack pledge to focus on ops security is the same statement issued after nearly every major exploit, and it's worth naming the pattern.",
+      "angle": "Pattern-recognition piece cataloguing the 'security-first now' promise across recent hacks (Humanity, SummerFi, Ostium) and why it always arrives too late",
       "source": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "No, AI Didn't Cause a DeFi Hackpocalypse — The Data Says Something Worse",
-      "why_now": "A Dragonfly partner is publicly pushing back on AI-hack panic narratives right as the market wants a scapegoat, giving this channel a contrarian, data-grounded angle.",
-      "angle": "Skeptical explainer: pull the actual exploit data, show hacks are still old-fashioned key/logic failures, and argue AI fear is distracting from real opsec basics",
-      "source": "https://cointelegraph.com/news/dragonfly-defi-ai-hackpocalypse-fears?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "ZachXBT Says Hardware Wallets Are 'Complete Garbage' — He's Not Wrong, He's Just Early to Saying It Out Loud",
+      "why_now": "A top on-chain investigator publicly trashing the industry's default cold-storage advice on the same day BTC chops sideways is a rare, quotable contrarian security take worth dissecting.",
+      "angle": "Reaction/analysis piece: what ZachXBT is actually pointing at (supply chain, firmware, seed exposure) versus what headline readers will assume he means",
+      "source": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000"
     },
     {
-      "title": "Meet 'Stern': The Ransomware Kingpin Who Ran Crime Like a Fortune 500 Company",
-      "why_now": "EU sanctions just landed on the alleged operator behind Trickbot/Conti-linked billions in damage, a rare named-and-shamed moment worth unpacking for a security-literate audience.",
-      "angle": "Profile/explainer on the sanctioned operator's business model and what the sanction actually changes (or doesn't) for on-chain enforcement",
-      "source": "https://www.chainalysis.com/blog/cyber-sanctions-trickbot-administrator-july-2026/"
+      "title": "SummerFi Didn't Get Hacked Into Extinction — It Got Exploited Into an Excuse to Quit",
+      "why_now": "A seven-year-old DeFi protocol is shutting down and blaming an exploit, a rare case where a project's death gives a clean window into how sustainable 'secure enough' actually was.",
+      "angle": "Obituary-style breakdown: was this exploit fatal on its own, or the final straw after years of accumulated technical debt no one priced in",
+      "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
     },
     {
-      "title": "Treasury Just Froze $130M in Iran-Linked Wallets — Here's Why That's Scarier Than a Hack",
-      "why_now": "A fresh $130M freeze shows the state's tracing/seizure capability keeps outpacing 'privacy coin' assumptions, a direct hit to the 'crypto is untraceable' myth this channel loves to puncture.",
-      "angle": "Explainer on how the freeze was technically possible, tying it to the broader thesis that on-chain funds are more seizable than believed",
-      "source": "https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "title": "The US Government Just Moved $288M in Seized Crypto to Coinbase Prime — Who's Actually Guarding It Now?",
-      "why_now": "A quarter-billion in seized assets landing in an exchange custody arm is a fresh, concrete hook for questioning custodial security assumptions around government-held crypto.",
-      "angle": "Security-angle explainer on custody chain-of-custody risk when state seizures rely on private exchange infrastructure",
-      "source": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime"
+      "title": "Tether Froze $131M in Iran-Linked Wallets in Minutes — So Much for 'Code Is Law'",
+      "why_now": "OFAC's sanctions action and Tether's near-instant freeze of the funds is a live demonstration that stablecoin 'ownership' is permissioned whenever Washington wants it to be.",
+      "angle": "Security/market-structure angle: what this freeze capability means for anyone treating USDT as bearer money, framed for readers who already assumed this was true",
+      "source": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents"
     }
   ]
 }

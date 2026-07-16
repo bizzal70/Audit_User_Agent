@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-15T11:31:54+00:00",
+  "generated": "2026-07-16T11:32:52+00:00",
   "opportunities": [
     {
-      "title": "$500 Doesn't Buy You Better Initiative: Beadle & Grimm's Deadfall Set vs. the Rules",
-      "why_now": "The just-announced $500 Deadfall boxed set is a lightning rod for 'prestige vs. substance' debate among GMs.",
-      "angle": "Wry mechanical takedown — use the premium minis/posters as a springboard for a ruling on how (or if) fancy props ever override RAW resolution at the table.",
+      "title": "Pathfinder Just Cut Ties With Archives of Nethys — Here's the 5e/Shadowdark Lesson",
+      "why_now": "A major system just lost its free SRD reference overnight, which is a live warning for any GM who leans on third-party rules sites at the table.",
+      "angle": "Dry commentary short: 'don't build your prep on infrastructure you don't control' — quick ruling on why print/local PDF backups beat browser bookmarks.",
+      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
+    },
+    {
+      "title": "The $500 Deadfall Box: Cost-Per-Encounter Math for Beadle & Grimm's Latest",
+      "why_now": "Beadle & Grimm's just announced a $500 premium set, an easy target for a wry breakdown of what luxury tabletop swag actually buys a table.",
+      "angle": "Deadpan cost/value teardown — compare the $500 minis/posters bundle to what a GM could build with $20 and a whiteboard, ending on one usable prop idea.",
       "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     },
     {
-      "title": "Send In The Clowns: Running a Krenshar (or a Jester Cultist) as a Horror-Comedy Monster",
-      "why_now": "EN World's clown-themed column is fresh and gives a built-in hook for a creature-tactic short on unsettling, humor-adjacent monsters.",
-      "angle": "Creature tactic breakdown — pick one 5e/Shadowdark monster that reads 'funny' but plays lethal, show the actual stat block trick.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
+      "title": "Sly Flourish's New Crowdfund: Lazy DM Prep or Just More Prep?",
+      "why_now": "Sly Flourish just launched into this week's crowdfunding roundup, and his 'lazy DM' brand is core reading for the exact 5e GM audience this channel serves.",
+      "angle": "Quick verdict video: does the new product actually cut prep time, tested against a real session-prep ruling.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
     },
     {
-      "title": "Mike Shea's Lazy Prep, Stress-Tested Against a DCC Funnel",
-      "why_now": "Sly Flourish just dropped a fresh 'Lazy Campaigns' prep breakdown right as Mike Shea guested on the big D&D news podcast, making this a hot cross-reference moment.",
-      "angle": "Direct-response short: take one Lazy DM prep step and show whether it survives DCC's brutal funnel structure — dry commentary on where 'lazy' still needs homework.",
-      "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
+      "title": "The One Player You Cut Before Session One (Session Zero Red Flags)",
+      "why_now": "Gnomecast's new episode on 'seeking good players' is a timely hook for a hard-nosed veteran-GM take on player vetting.",
+      "angle": "Blunt list format: 3 red flags in a session zero that predict a bad campaign, told as a GM ruling rather than soft advice.",
+      "source": "https://gnomestew.com/gnomecast-241-seeking-good-players/"
     },
     {
-      "title": "What Mike Shea Actually Said About D&D's Future (And Why Your Prep Doesn't Need to Change)",
-      "why_now": "Podcast #405 just aired with a 'ton of D&D news' and Mike Shea as guest — audience is primed for takeaways without watching 2+ hours.",
-      "angle": "Rapid-fire ruling/news digest format — 3 bullet takeaways delivered dry and skeptical, focused only on table-impact, ignoring corporate fluff.",
-      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
-    },
-    {
-      "title": "Posters and Minis Won't Save a Bad Encounter: The Theater-of-the-Mind Ruling Beadle & Grimm's Can't Sell You",
-      "why_now": "The Deadfall set's marketing leans hard on physical props, making it a perfect foil for a ruling on when maps/minis actually matter mechanically vs. when they're just set dressing.",
-      "angle": "Rules-ruling short: define the exact moment (opportunity attacks, AoE, cover) where a map is mechanically required versus purely aesthetic — needle the premium-set hype.",
-      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
+      "title": "Gary's Appendix Crowdfunds Another OSR Toolbox — Here's the One Table Your DCC Judge Will Actually Use",
+      "why_now": "Gary's Appendix just hit crowdfunding alongside other OSR/DCC-adjacent projects, giving a natural tie-in for the channel's DCC coverage.",
+      "angle": "Fast verdict: pull one random table or mechanic from the pitch and show it in actual DCC judge use, skip the rest.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
     }
   ]
 }

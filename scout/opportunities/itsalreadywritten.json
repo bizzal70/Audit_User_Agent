@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-15T11:31:54+00:00",
+  "generated": "2026-07-16T11:32:52+00:00",
   "opportunities": [
     {
-      "title": "The Actual Math on Beadle & Grimm's $500 'Deadfall' Set: What You're Paying For, Line by Line",
-      "why_now": "The set just launched with a headline-grabbing price point that demands a rules-first breakdown of contents vs. cost.",
-      "angle": "Itemized cost/value analysis comparing set contents to standalone retail prices of minis, posters, and adventure content",
+      "title": "Pathfinder Cuts Ties With Archives of Nethys: Where Do the Rules Actually Live Now?",
+      "why_now": "AoN has been the de facto official PF2e rules reference for years, and this split forces every table to figure out a new source of truth overnight.",
+      "angle": "News breakdown + practical guide ranking alternative rules references (Pathbuilder, Nethys mirrors, print SRD) for accuracy and completeness",
+      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
+    },
+    {
+      "title": "The ORC License Was Supposed to Prevent Exactly This — So What Happened?",
+      "why_now": "The AoN/Paizo split is the first real stress-test of promises made during the OGL fallout, and rules-focused readers want to know if 'open' licensing actually held up.",
+      "angle": "Legal/rules deep-dive comparing ORC license terms to what's unfolding, written in a myth-busting 'here's what the text actually says' style",
+      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
+    },
+    {
+      "title": "This Week's Crowdfunding Slate, Ranked by Actual Rules Innovation",
+      "why_now": "Deathbringer, Sly Flourish, and Gary's Appendix all launched/updated crowdfunding pushes in the same news cycle, giving a clean comparison hook.",
+      "angle": "Backer's scorecard format grading each project on new mechanics vs. reskinned content, with a clear pledge/pass verdict",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
+    },
+    {
+      "title": "$500 for Deadfall: Auditing What Beadle & Grimm's Premium Box Actually Adds to the Rules",
+      "why_now": "A $500 price point for a D&D boxed set is inherently clickable, and the rules-first angle is separating genuine new content from collector packaging.",
+      "angle": "Line-item breakdown of bonus adventures/subclasses vs. minis/posters, framed as 'here's what you're really paying for'",
       "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
     },
     {
-      "title": "Beadle & Grimm's Price Creep: Tracking the Climb from Dragon Heist to $500",
-      "why_now": "The Deadfall set's price is the latest data point in a multi-year trend worth documenting for readers deciding whether to buy in.",
-      "angle": "Timeline/chart post tracing premium set pricing across Beadle & Grimm's release history",
-      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
-    },
-    {
-      "title": "What Actually Makes a Clown Terrifying by the Rules: Fear, Madness, and Stat Blocks",
-      "why_now": "RPG Evolution's clown column is a hook to dig into the specific mechanical tools (fear conditions, madness tables, monster design) that make horror work at the table.",
-      "angle": "Rules-breakdown explainer connecting the article's theme to concrete D&D/TTRPG mechanics for horror encounters",
-      "source": "https://www.enworld.org/threads/rpg-evolution-send-in-the-clowns.719757/"
-    },
-    {
-      "title": "Sorting Fact from Speculation: Every D&D Rule Confirmed in Podcast #405 with Mike Shea",
-      "why_now": "A livestream billed as 'a ton of D&D news' needs a rules-first recap separating confirmed changes from speculation before misinformation spreads.",
-      "angle": "Fact-check digest format listing each claim with source confidence and rules implications",
-      "source": "https://www.enworld.org/threads/podcast-405-livestream-a-ton-of-d-d-news-with-special-guest-mike-shea.719864/"
-    },
-    {
-      "title": "Lazy Prep, Real Rules: Does Sly Flourish's Campaign Framework Hold Up Against RAW?",
-      "why_now": "Sly Flourish's fresh prep-and-run guide is popular but doesn't always map cleanly onto official rules, making it ripe for a rules-first cross-check.",
-      "angle": "Comparison piece testing lazy-prep techniques against RAW encounter/XP/treasure guidelines",
-      "source": "https://slyflourish.com/prepping_and_running_lazy_campaigns.html?rss=1"
+      "title": "Gnomecast Talks 'Seeking Good Players' — But the Real Rule Is You Need a Written Player Contract",
+      "why_now": "Gnome Stew's fresh episode on player vetting is a jumping-off point for a rules-first take on codifying table expectations instead of leaving them unwritten.",
+      "angle": "Reactive essay turning a soft-skills podcast topic into a hard, rules-first argument: 'if it's not written down, it's not a rule'",
+      "source": "https://gnomestew.com/gnomecast-241-seeking-good-players/"
     }
   ]
 }

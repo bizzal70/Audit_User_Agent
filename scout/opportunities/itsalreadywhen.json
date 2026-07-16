@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-15T11:31:54+00:00",
+  "generated": "2026-07-16T11:32:52+00:00",
   "opportunities": [
     {
-      "title": "622 and Counting: Inside the Worst Patch Tuesday Ever Recorded — What Actually Needs Your Attention This Week",
-      "why_now": "Microsoft just shattered its own record from last month with 622 CVEs, and two are already under active exploitation, making triage the real story.",
-      "angle": "Digest/breakdown format: rank the handful of CVEs that matter (the two zero-days) against the noise of 620 others, with a patch-priority cheat sheet",
+      "title": "622 CVEs? 570? Nobody Can Even Agree How Bad Patch Tuesday Was — And That's the Real Story",
+      "why_now": "The Register clocks last month's Patch Tuesday at a record 622 CVEs while Krebs reports 570, and Dark Reading says the record is already being broken again — the discrepancy itself signals how unmanageable triage has become.",
+      "angle": "Data-driven breakdown comparing the three counts, why methodology diverges, and a practical 'what to actually patch first' triage list for overwhelmed sysadmins",
       "source": "https://www.theregister.com/security/2026/07/14/patchpocalypse-now-microsoft-tops-last-months-record-with-622-patch-tuesday-cves/5271434"
     },
     {
-      "title": "SonicWall's SMA 1000 Has Two Zero-Days in the Wild — Patch Before You Read the Rest of This List",
-      "why_now": "SonicWall issued an urgent warning for two actively exploited zero-days on its SMA 1000 line, one of which grants admin-level commands to attackers.",
-      "angle": "Breaking/urgent advisory style post: what's exploited, who's exposed, and the patch timeline — the classic 'stop scrolling and patch this now' post",
-      "source": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+      "title": "LegacyHive: Microsoft's 'Serial Tormentor' Drops Another Zero-Day, and We're Grading It on a Curve",
+      "why_now": "A fresh zero-day dubbed LegacyHive is being actively exploited days after disclosure, with Register and SecurityWeek both covering the same actor's repeat offenses.",
+      "angle": "Threat-actor profile format tracking this group's pattern of Windows zero-days, what LegacyHive actually does, and why 'not as bad as promised' is cold comfort",
+      "source": "https://www.theregister.com/security/2026/07/15/microsofts-serial-tormentor-drops-legacyhive-0-day/5271723"
     },
     {
-      "title": "Your AI Coding Assistant Will Run Malware For You: Cursor IDE Auto-Executes Code From Poisoned Repos",
-      "why_now": "Cursor's flaw lets a simple git clone trigger Windows code execution, landing right as developers rush to adopt AI-assisted IDEs without threat-modeling them.",
-      "angle": "Explainer with attack-chain walkthrough: how a booby-trapped repo becomes RCE, and why 'AI IDE' security review is now a checklist item",
-      "source": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html"
+      "title": "CISA Says Drop Everything: Three SharePoint Flaws Are Being Exploited Right Now",
+      "why_now": "CISA's active-exploitation alert on a trio of SharePoint vulnerabilities is a rare same-day 'patch now' signal echoed across Register and SecurityWeek within 24 hours.",
+      "angle": "Urgent patch-now briefing: CVE IDs, exploitation evidence, affected versions, and a one-page remediation checklist for IT teams",
+      "source": "https://www.theregister.com/security/2026/07/15/cisa-sounds-alarm-over-trio-of-exploited-sharepoint-flaws/5271814"
     },
     {
-      "title": "Progress Pulled the ShareFile Plug on Purpose: The Zero-Day Behind the Mystery Shutdown, Explained",
-      "why_now": "What began as a vague 'mystery security threat' emergency shutdown has now been confirmed as an actual zero-day, closing the loop on a story that broke across multiple outlets this week.",
-      "angle": "Timeline/follow-up piece: from cryptic shutdown notice to confirmed CVE, with lessons on vendor communication during active incidents",
-      "source": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/"
+      "title": "Qantas Didn't Get Hacked — Someone Just Called the Help Desk",
+      "why_now": "The Qantas breach traces back to a tech-support scam, not a sophisticated exploit, proving once again that the weakest link wears a headset, not firewalls.",
+      "angle": "Breach postmortem focused on the social-engineering vector, with a sidebar on how airlines' outsourced support desks are becoming a favorite attack surface",
+      "source": "https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267"
     },
     {
-      "title": "The Kremlin Did It: EU and UK Officially Pin Poland's Power Grid Hack on Russian Spies",
-      "why_now": "This is a rare formal state attribution for a critical-infrastructure attack, escalating the stakes for European energy security amid ongoing Russian cyber operations.",
-      "angle": "Geopolitical breakdown: what the attribution actually proves, what it doesn't, and what it means for grid operators watching Russian TTPs",
-      "source": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458"
+      "title": "Forget Zero-Days: Stolen Logins Are Now Ransomware's Favorite Front Door",
+      "why_now": "Dark Reading's new data shows identity-based attacks have overtaken software exploits as the top ransomware entry point, flipping the conventional 'patch faster' narrative.",
+      "angle": "Trend analysis connecting this shift to the same week's law-firm 'one password to rule them all' fiasco, arguing patch cadence alone won't save you without identity hygiene",
+      "source": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause"
     }
   ]
 }
