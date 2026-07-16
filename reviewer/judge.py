@@ -78,7 +78,7 @@ def judge(collected: dict) -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     resp = client.messages.create(
         model=_MODEL,
-        max_tokens=4500,
+        max_tokens=6000,
         system=_SYSTEM,
         messages=[{"role": "user", "content": prompt}],
     )
