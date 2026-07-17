@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-16T11:32:52+00:00",
+  "generated": "2026-07-17T11:30:00+00:00",
   "opportunities": [
     {
-      "title": "Pathfinder Cuts Ties With Archives of Nethys: Where Do the Rules Actually Live Now?",
-      "why_now": "AoN has been the de facto official PF2e rules reference for years, and this split forces every table to figure out a new source of truth overnight.",
-      "angle": "News breakdown + practical guide ranking alternative rules references (Pathbuilder, Nethys mirrors, print SRD) for accuracy and completeness",
+      "title": "Pathfinder Cuts Ties With Archives of Nethys: What Happens to the SRD Now?",
+      "why_now": "A major official split from the community's most-used free rules reference just broke, directly hitting the beat's core audience.",
+      "angle": "News breakdown + rules-access explainer: what's lost, what's replaced, and what GMs should bookmark instead",
       "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
     },
     {
-      "title": "The ORC License Was Supposed to Prevent Exactly This — So What Happened?",
-      "why_now": "The AoN/Paizo split is the first real stress-test of promises made during the OGL fallout, and rules-focused readers want to know if 'open' licensing actually held up.",
-      "angle": "Legal/rules deep-dive comparing ORC license terms to what's unfolding, written in a myth-busting 'here's what the text actually says' style",
-      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
+      "title": "First Look: The New Arcane Factions and Backgrounds in Arcana Unleashed",
+      "why_now": "Fresh preview material gives concrete new subclass/faction mechanics to dissect before the book lands.",
+      "angle": "Rules-first preview breakdown: compare new backgrounds to existing SRD options, flag balance implications",
+      "source": "https://www.enworld.org/threads/preview-the-arcane-factions-and-backgrounds-from-arcana-unleashed.719910/"
     },
     {
-      "title": "This Week's Crowdfunding Slate, Ranked by Actual Rules Innovation",
-      "why_now": "Deathbringer, Sly Flourish, and Gary's Appendix all launched/updated crowdfunding pushes in the same news cycle, giving a clean comparison hook.",
-      "angle": "Backer's scorecard format grading each project on new mechanics vs. reskinned content, with a clear pledge/pass verdict",
+      "title": "This Week's Crowdfunding Docket: Deathbringer, Sly Flourish's Latest, and Gary's Appendix — Which Are Worth Your Pledge?",
+      "why_now": "A fresh crowdfunding roundup dropped covering multiple notable projects worth vetting for backers right now.",
+      "angle": "Quick-hit ranked rundown with rules/production-quality signals for each project",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
     },
     {
-      "title": "$500 for Deadfall: Auditing What Beadle & Grimm's Premium Box Actually Adds to the Rules",
-      "why_now": "A $500 price point for a D&D boxed set is inherently clickable, and the rules-first angle is separating genuine new content from collector packaging.",
-      "angle": "Line-item breakdown of bonus adventures/subclasses vs. minis/posters, framed as 'here's what you're really paying for'",
-      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
+      "title": "The Rules for 'Seeking Good Players' Already Exist — Gnomecast Just Wrote Them Down",
+      "why_now": "Gnomecast's new episode tackles player vetting, a topic the channel can reframe as a checklist/ruleset for session zero.",
+      "angle": "Turn the podcast discussion into a structured 'rules for finding good players' framework post",
+      "source": "https://gnomestew.com/gnomecast-241-seeking-good-players/"
     },
     {
-      "title": "Gnomecast Talks 'Seeking Good Players' — But the Real Rule Is You Need a Written Player Contract",
-      "why_now": "Gnome Stew's fresh episode on player vetting is a jumping-off point for a rules-first take on codifying table expectations instead of leaving them unwritten.",
-      "angle": "Reactive essay turning a soft-skills podcast topic into a hard, rules-first argument: 'if it's not written down, it's not a rule'",
-      "source": "https://gnomestew.com/gnomecast-241-seeking-good-players/"
+      "title": "When a Publisher Walks Away From Its Own SRD Host: The OGL Lesson Nobody Learned",
+      "why_now": "The Pathfinder/Nethys split echoes the 2023 OGL fight and gives the channel a chance for sharper systemic analysis beyond the news cycle.",
+      "angle": "Opinion/analysis piece: licensing precedent, what it signals for third-party rules content going forward",
+      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
     }
   ]
 }

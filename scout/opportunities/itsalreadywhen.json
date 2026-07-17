@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-16T11:32:52+00:00",
+  "generated": "2026-07-17T11:30:00+00:00",
   "opportunities": [
     {
-      "title": "622 CVEs? 570? Nobody Can Even Agree How Bad Patch Tuesday Was — And That's the Real Story",
-      "why_now": "The Register clocks last month's Patch Tuesday at a record 622 CVEs while Krebs reports 570, and Dark Reading says the record is already being broken again — the discrepancy itself signals how unmanageable triage has become.",
-      "angle": "Data-driven breakdown comparing the three counts, why methodology diverges, and a practical 'what to actually patch first' triage list for overwhelmed sysadmins",
-      "source": "https://www.theregister.com/security/2026/07/14/patchpocalypse-now-microsoft-tops-last-months-record-with-622-patch-tuesday-cves/5271434"
+      "title": "CISA's Worst Week: Fresh SharePoint RCE Zero-Day (CVE-2026-58644) Added to KEV Within Days of Disclosure",
+      "why_now": "CISA just added a newly disclosed SharePoint RCE to its Known Exploited Vulnerabilities list mere days after the flaw surfaced, on the heels of an already-flagged trio of SharePoint bugs.",
+      "angle": "Timeline breakdown: disclosure-to-exploitation clock, patch status table, and why SharePoint keeps being the softest target in the Microsoft stack",
+      "source": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
     },
     {
-      "title": "LegacyHive: Microsoft's 'Serial Tormentor' Drops Another Zero-Day, and We're Grading It on a Curve",
-      "why_now": "A fresh zero-day dubbed LegacyHive is being actively exploited days after disclosure, with Register and SecurityWeek both covering the same actor's repeat offenses.",
-      "angle": "Threat-actor profile format tracking this group's pattern of Windows zero-days, what LegacyHive actually does, and why 'not as bad as promised' is cold comfort",
-      "source": "https://www.theregister.com/security/2026/07/15/microsofts-serial-tormentor-drops-legacyhive-0-day/5271723"
+      "title": "570 Flaws, One Tuesday: Inside Microsoft's Record-Breaking Patch Drop",
+      "why_now": "Krebs reports Microsoft just shipped a record 570 security fixes in a single Patch Tuesday, raising real triage-capacity alarms for defenders.",
+      "angle": "Patch-priority digest: which of the 570 are actually exploited/critical, plus a snark aside on 'patch cadence' becoming 'patch avalanche'",
+      "source": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
     },
     {
-      "title": "CISA Says Drop Everything: Three SharePoint Flaws Are Being Exploited Right Now",
-      "why_now": "CISA's active-exploitation alert on a trio of SharePoint vulnerabilities is a rare same-day 'patch now' signal echoed across Register and SecurityWeek within 24 hours.",
-      "angle": "Urgent patch-now briefing: CVE IDs, exploitation evidence, affected versions, and a one-page remediation checklist for IT teams",
-      "source": "https://www.theregister.com/security/2026/07/15/cisa-sounds-alarm-over-trio-of-exploited-sharepoint-flaws/5271814"
+      "title": "Ransomware Just Stopped Fairlife: Coca-Cola's US Production Line Goes Dark",
+      "why_now": "Coca-Cola confirmed it suspended US Fairlife production due to a ransomware attack, a rare admission of physical operational impact from a Fortune 500 brand.",
+      "angle": "Breach-to-shelf-impact narrative: what ransomware disruption looks like when it hits a beverage supply chain, tied into the OT/legacy-systems piece from the same week",
+      "source": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/"
     },
     {
-      "title": "Qantas Didn't Get Hacked — Someone Just Called the Help Desk",
-      "why_now": "The Qantas breach traces back to a tech-support scam, not a sophisticated exploit, proving once again that the weakest link wears a headset, not firewalls.",
-      "angle": "Breach postmortem focused on the social-engineering vector, with a sidebar on how airlines' outsourced support desks are becoming a favorite attack surface",
+      "title": "Qantas Got Social-Engineered, Not Hacked: The Tech Support Scam That Blew Open an Airline's Data",
+      "why_now": "Qantas's massive data breach traces back to a tech support scam rather than a technical exploit, reinforcing the 'identity attacks over exploits' trend flagged this same week.",
+      "angle": "Root-cause postmortem pairing the Qantas incident with Dark Reading's 'Identity Attacks Overtake Exploits as Top Ransomware Cause' data point — the human perimeter is the new CVE",
       "source": "https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267"
     },
     {
-      "title": "Forget Zero-Days: Stolen Logins Are Now Ransomware's Favorite Front Door",
-      "why_now": "Dark Reading's new data shows identity-based attacks have overtaken software exploits as the top ransomware entry point, flipping the conventional 'patch faster' narrative.",
-      "angle": "Trend analysis connecting this shift to the same week's law-firm 'one password to rule them all' fiasco, arguing patch cadence alone won't save you without identity hygiene",
-      "source": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause"
+      "title": "'Just Paste This Into Terminal': The ClickFix Con Is Now an Industry",
+      "why_now": "A macOS 'paste this fix into Terminal' scam and a new ACR Stealer campaign using ClickFix lures both surfaced this week, showing the same social-engineering technique scaling across platforms and malware families.",
+      "angle": "Pattern-recognition piece cataloguing every ClickFix-style lure seen this week (macOS Terminal scam + ACR Stealer) as a single emerging attacker playbook, with a 'never paste this' reader checklist",
+      "source": "https://www.theregister.com/cyber-crime/2026/07/16/cmon-just-copy-this-text-string-and-paste-it-into-your-macos-terminal-itll-fix-your-computer-honest/5273701"
     }
   ]
 }

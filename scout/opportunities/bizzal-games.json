@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-16T11:32:52+00:00",
+  "generated": "2026-07-17T11:30:00+00:00",
   "opportunities": [
     {
-      "title": "Pathfinder Just Cut Ties With Archives of Nethys — Here's the 5e/Shadowdark Lesson",
-      "why_now": "A major system just lost its free SRD reference overnight, which is a live warning for any GM who leans on third-party rules sites at the table.",
-      "angle": "Dry commentary short: 'don't build your prep on infrastructure you don't control' — quick ruling on why print/local PDF backups beat browser bookmarks.",
+      "title": "Arcana Unleashed's New Backgrounds: The One Trait That Breaks Ritual Casting RAW",
+      "why_now": "EN World just previewed the arcane faction backgrounds, giving GMs fresh (and exploitable) material days before it hits tables.",
+      "angle": "60-sec rules-ruling short: read the new background trait verbatim, then show exactly how it collides with 5e's ritual-casting rule and how you'd adjudicate it at your table.",
+      "source": "https://www.enworld.org/threads/preview-the-arcane-factions-and-backgrounds-from-arcana-unleashed.719910/"
+    },
+    {
+      "title": "Sly Flourish's New Crowdfund: The Lazy-DM Trick Hiding in the Stretch Goals",
+      "why_now": "Sly Flourish just landed in EN World's weekly crowdfunding roundup, a name every 5e table already trusts.",
+      "angle": "Quick 'steal this ruling' short pulling one concrete prep-time-saving technique from the pledge tiers and showing how to run it cold at the table.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
+    },
+    {
+      "title": "Deathbringer's Undead: Why Turn Resistance Still Won't Save Your Cleric",
+      "why_now": "Deathbringer just surfaced in this week's crowdfunding news with new undead content ripe for a tactics breakdown.",
+      "angle": "Creature-tactic short: dissect a Deathbringer undead stat block against RAW Turn Undead mechanics and show the GM-side counterplay.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
+    },
+    {
+      "title": "Archives of Nethys Is Getting Cut Loose — Back Up Your Rules Lookups Now",
+      "why_now": "Pathfinder just announced it's ending its relationship with Archives of Nethys, threatening a tool many GMs cross-reference mid-session.",
+      "angle": "PSA-style dry warning short: explain what's disappearing, why it matters even for D&D/Shadowdark/DCC tables that borrow PF material, and what to archive today.",
       "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
     },
     {
-      "title": "The $500 Deadfall Box: Cost-Per-Encounter Math for Beadle & Grimm's Latest",
-      "why_now": "Beadle & Grimm's just announced a $500 premium set, an easy target for a wry breakdown of what luxury tabletop swag actually buys a table.",
-      "angle": "Deadpan cost/value teardown — compare the $500 minis/posters bundle to what a GM could build with $20 and a whiteboard, ending on one usable prop idea.",
-      "source": "https://www.enworld.org/threads/beadle-grimms-deadfall-set-includes-minis-posters-and-bonus-adventures-for-a-whopping-500.719877/"
-    },
-    {
-      "title": "Sly Flourish's New Crowdfund: Lazy DM Prep or Just More Prep?",
-      "why_now": "Sly Flourish just launched into this week's crowdfunding roundup, and his 'lazy DM' brand is core reading for the exact 5e GM audience this channel serves.",
-      "angle": "Quick verdict video: does the new product actually cut prep time, tested against a real session-prep ruling.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
-    },
-    {
-      "title": "The One Player You Cut Before Session One (Session Zero Red Flags)",
-      "why_now": "Gnomecast's new episode on 'seeking good players' is a timely hook for a hard-nosed veteran-GM take on player vetting.",
-      "angle": "Blunt list format: 3 red flags in a session zero that predict a bad campaign, told as a GM ruling rather than soft advice.",
+      "title": "The One Session-Zero Line That Actually Filters Bad Players",
+      "why_now": "Gnome Stew's fresh Gnomecast episode on 'seeking good players' is generating GM chatter this week.",
+      "angle": "React-format short: state one concrete, enforceable session-zero clause (e.g., a hard rule on rules-lawyering death saves) as a veteran-GM ruling, not vague advice.",
       "source": "https://gnomestew.com/gnomecast-241-seeking-good-players/"
-    },
-    {
-      "title": "Gary's Appendix Crowdfunds Another OSR Toolbox — Here's the One Table Your DCC Judge Will Actually Use",
-      "why_now": "Gary's Appendix just hit crowdfunding alongside other OSR/DCC-adjacent projects, giving a natural tie-in for the channel's DCC coverage.",
-      "angle": "Fast verdict: pull one random table or mechanic from the pitch and show it in actual DCC judge use, skip the rest.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
     }
   ]
 }

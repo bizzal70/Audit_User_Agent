@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-16T11:32:52+00:00",
+  "generated": "2026-07-17T11:30:00+00:00",
   "opportunities": [
     {
-      "title": "Ostium Paused Trading Mid-Exploit — But the Oracle Was Broken Long Before the Multimillion-Dollar Bill Came Due",
-      "why_now": "A perp DEX just lost $18M+ to an oracle attack severe enough to force a full trading halt within hours of going live with the news.",
-      "angle": "Incident post-mortem: walk through the oracle manipulation mechanics and why 'pause trading' is the tell that the design was never adversarial-tested",
+      "title": "Your Mac, Your Telegram, Your Wallet: The New Session-Hijack Chain Nobody's Patching For",
+      "why_now": "SlowMist just documented live macOS malware that steals Telegram sessions specifically to drain crypto wallets, and most self-custody guides still don't cover session-token theft.",
+      "angle": "Technical breakdown of the attack chain + a checklist of what 'secure enough' actually means for Telegram-linked wallets",
+      "source": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Ostium's Oracle Just Got Exploited for Millions — Here's the Line Every Perp Protocol Keeps Crossing",
+      "why_now": "A multimillion-dollar oracle exploit just forced Ostium to halt trading, the latest in a long, predictable line of oracle-manipulation hacks.",
+      "angle": "Post-mortem style piece mapping this exploit against past oracle failures to show the pattern is structural, not accidental",
       "source": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "'We'll Prioritize Security Going Forward' — The Most Predictable Sentence in Crypto",
-      "why_now": "Humanity Protocol's post-$36M-hack pledge to focus on ops security is the same statement issued after nearly every major exploit, and it's worth naming the pattern.",
-      "angle": "Pattern-recognition piece cataloguing the 'security-first now' promise across recent hacks (Humanity, SummerFi, Ostium) and why it always arrives too late",
+      "title": "Humanity Protocol Will 'Prioritize OpSec' Now — After Losing $36M, Like Everyone Else Does",
+      "why_now": "The protocol's post-hack pledge to focus on security is a near-perfect example of the industry's reactive-only security culture.",
+      "angle": "Sharp opinion piece using the quote as a jumping-off point: why 'security after the hack' is the default crypto operating model",
       "source": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "ZachXBT Says Hardware Wallets Are 'Complete Garbage' — He's Not Wrong, He's Just Early to Saying It Out Loud",
-      "why_now": "A top on-chain investigator publicly trashing the industry's default cold-storage advice on the same day BTC chops sideways is a rare, quotable contrarian security take worth dissecting.",
-      "angle": "Reaction/analysis piece: what ZachXBT is actually pointing at (supply chain, firmware, seed exposure) versus what headline readers will assume he means",
-      "source": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000"
+      "title": "Even Airbnb's CEO Got His X Account Hacked to Shill Tokenization — What Chance Do You Have?",
+      "why_now": "A high-profile exec account was compromised within days and used to post AI-generated crypto content, showing social hijacks remain the easiest crypto attack vector.",
+      "angle": "Fast-turn commentary tying exec-account hacks to the broader pattern of social media as crypto's weakest link, with practical account-hardening tips",
+      "source": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization"
     },
     {
-      "title": "SummerFi Didn't Get Hacked Into Extinction — It Got Exploited Into an Excuse to Quit",
-      "why_now": "A seven-year-old DeFi protocol is shutting down and blaming an exploit, a rare case where a project's death gives a clean window into how sustainable 'secure enough' actually was.",
-      "angle": "Obituary-style breakdown: was this exploit fatal on its own, or the final straw after years of accumulated technical debt no one priced in",
+      "title": "SummerFi Shuts Down After Seven Years — Killed by an Exploit, Not the Market",
+      "why_now": "A seven-year-old DeFi protocol just cited a hack as the reason it's winding down entirely, a stark reminder that security debt eventually comes due.",
+      "angle": "Retrospective/eulogy format: what SummerFi got right for years and the one exploit that ended it, framed as a cautionary tale for 'mature' protocols",
       "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
-    },
-    {
-      "title": "Tether Froze $131M in Iran-Linked Wallets in Minutes — So Much for 'Code Is Law'",
-      "why_now": "OFAC's sanctions action and Tether's near-instant freeze of the funds is a live demonstration that stablecoin 'ownership' is permissioned whenever Washington wants it to be.",
-      "angle": "Security/market-structure angle: what this freeze capability means for anyone treating USDT as bearer money, framed for readers who already assumed this was true",
-      "source": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents"
     }
   ]
 }
