@@ -37,7 +37,10 @@ def recent_videos(channel_id: str, limit: int = 10) -> str | None:
         desc = ""
         views = ""
         if group is not None:
-            desc = (group.findtext("media:description", default="", namespaces=_NS) or "")[:400]
+            # Full description (Shorts run well under this). A tight cap made the
+            # judge see a mid-sentence cut-off and the CTA/hashtags — which live at
+            # the end — vanish, so it wrongly flagged "descriptions cut off / no CTA".
+            desc = (group.findtext("media:description", default="", namespaces=_NS) or "")[:1500]
             community = group.find("media:community", _NS)
             if community is not None:
                 stats = community.find("media:statistics", _NS)
