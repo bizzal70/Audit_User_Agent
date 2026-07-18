@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-17T11:30:00+00:00",
+  "generated": "2026-07-18T11:22:32+00:00",
   "plays": [
     {
-      "story": "Pathfinder is severing ties with Archives of Nethys, the fan-run SRD reference site the whole community depends on",
+      "story": "Between Earth and Sky novels are coming to TTRPG courtesy of Monte Cook Games",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Paizo Just Kicked Its Best Rules Reference to the Curb — Here's What GMs Do Now' — a practical guide to bookmarking replacement SRD tools and archiving your prep before links break.",
-        "itsalreadywritten": "'The Fan Wiki That Out-Wrote the Publisher: What Losing Nethys Means for TTRPG Preservation' — a piece on how third-party archives become the de facto canon and what happens when publishers pull that plug."
+        "bizzal-games": "'Monte Cook Just Turned a Fantasy Novel Series Into a Playable Setting — First Look at the Between Earth and Sky Mechanics' — dig into what system it's built on, what new player options/backgrounds the novels introduce, and whether the crunch does the source justice.",
+        "itsalreadywritten": "'The Books Come First: How Between Earth and Sky's Novels Are Shaping Its New TTRPG' — frame it as page-to-table adaptation, spotlighting the authors, the world's literary roots, and what fans of the novels should expect (and fear) from the tabletop version."
       },
-      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
+      "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
     },
     {
-      "story": "SlowMist reports new macOS malware hijacking Telegram sessions specifically to drain crypto wallets",
+      "story": "GODZILLA comes to Marvel Multiverse Roleplaying",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Godzilla Joins the Marvel Multiverse RPG — How Do You Even Statblock a Kaiju?' — mechanical deep-dive on scale rules, damage thresholds, and how MMRPG handles a monster that dwarfs its usual superhero cast.",
+        "itsalreadywritten": "'Two Franchises, One Multiverse: What Godzilla's Marvel RPG Crossover Means for Canon' — angle on IP mashup lore, how Toho's mythology gets folded into Marvel continuity, and what it signals for licensed-fiction tabletop crossovers going forward."
+      },
+      "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
+    },
+    {
+      "story": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Your Telegram Alpha Group Chat Might Be Bleeding You Dry' — what crypto traders need to check on their Macs right now before the next wallet-drain wave.",
-        "itsalreadywhen": "'Inside the macOS Malware That Steals Telegram Sessions to Empty Crypto Wallets' — a technical breakdown of the infection vector, session-hijacking mechanics, and detection signatures."
+        "itsalreadypriced": "'Malware Is Now Hiding Its Command Server on the Blockchain — What That Means for Crypto's 'Immutable' Reputation' — explore how attackers are weaponizing on-chain data as unkillable C2 infrastructure, and what it does to the narrative that blockchain transparency is inherently a security win.",
+        "itsalreadywhen": "'Seven npm Packages, One Blockchain Backdoor: Inside the Vite Supply-Chain RAT Campaign' — technical breakdown of the attack chain, why blockchain-based C2 is nearly impossible to take down, and what dev teams should audit in their npm dependencies right now."
+      },
+      "source": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
+    },
+    {
+      "story": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Your Mac's Telegram App Could Be Bleeding Your Crypto Wallet Dry' — practical warning piece for crypto holders on which wallets/session flows are exposed and immediate steps to lock down Telegram-linked accounts.",
+        "itsalreadywhen": "'SlowMist Cracks Open a New macOS Session-Hijacking Malware Targeting Telegram' — technical walkthrough of the hijacking mechanism, macOS keychain/session weaknesses exploited, and detection indicators for defenders."
       },
       "source": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "Ostium halts trading after security firms flag a multimillion-dollar oracle exploit",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Another DeFi Perp Protocol Goes Dark: What the Ostium Oracle Hack Means for Traders Holding Positions' — coverage of the trading freeze, exposure, and what happens to open positions.",
-        "itsalreadywhen": "'Oracle Manipulation 101: How Attackers Turned Price Feeds Into a Multimillion-Dollar Exploit at Ostium' — a technical postmortem on the exploit mechanics for security teams building on-chain price infrastructure."
-      },
-      "source": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "'Stern,' likely the most prolific ransomware operator ever (behind Trickbot/Conti), sanctioned by the EU with billions in damages tied to crypto payments",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Follow the Chain: How Blockchain Forensics Finally Unmasked History's Biggest Ransomware Kingpin' — how on-chain tracing tools built the sanctions case, a good hook for crypto-compliance readers.",
-        "itsalreadywhen": "'Meet Stern: The Ransomware Operator Behind Billions in Damages Just Got Sanctioned — Here's the Playbook' — a profile of the group's tactics, victims, and what the sanctions actually change for defenders."
-      },
-      "source": "https://www.chainalysis.com/blog/cyber-sanctions-trickbot-administrator-july-2026/"
     }
   ]
 }

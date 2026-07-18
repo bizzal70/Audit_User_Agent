@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-17T11:30:00+00:00",
+  "generated": "2026-07-18T11:22:32+00:00",
   "opportunities": [
     {
-      "title": "Arcana Unleashed's New Backgrounds: The One Trait That Breaks Ritual Casting RAW",
-      "why_now": "EN World just previewed the arcane faction backgrounds, giving GMs fresh (and exploitable) material days before it hits tables.",
-      "angle": "60-sec rules-ruling short: read the new background trait verbatim, then show exactly how it collides with 5e's ritual-casting rule and how you'd adjudicate it at your table.",
+      "title": "Godzilla Doesn't Get One Turn: Fixing Kaiju Action Economy in 5e (Legendary Actions the DIY Way)",
+      "why_now": "Marvel Multiverse RPG just announced a Godzilla stat block, giving a hook to break down how to run a genuinely threatening giant monster without a Legendary Actions license.",
+      "angle": "60-sec creature tactic: house-rule a 'Legendary Actions' patch for Shadowdark/DCC where the system has no native equivalent, using Godzilla as the worked example.",
+      "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
+    },
+    {
+      "title": "Deathbringer's Death Saves Are Meaner Than Yours — Should They Be?",
+      "why_now": "Professor Dungeon Master's interview on Deathbringer surfaces its grimmer death-and-dying subsystem right as it's mid-crowdfund, a natural comparison point.",
+      "angle": "Rules ruling: side-by-side dry breakdown of 5e death saves vs Deathbringer's harsher take vs Shadowdark's 1-HP-and-done, then a recommendation for which table type each suits.",
+      "source": "https://www.enworld.org/threads/professor-dungeon-master-talks-deathbringer.719906/"
+    },
+    {
+      "title": "Your Background Does Nothing. Arcana Unleashed's Arcane Factions Actually Do Something.",
+      "why_now": "The fresh preview of Arcana Unleashed's faction/background material lands right as GMs are fatigued with 5e backgrounds being pure flavor text.",
+      "angle": "Spell/mechanic use-case: pick one previewed faction perk, show the exact mechanical interaction (advantage/resource/contact), and rule on whether it's worth porting into a home 5e game.",
       "source": "https://www.enworld.org/threads/preview-the-arcane-factions-and-backgrounds-from-arcana-unleashed.719910/"
     },
     {
-      "title": "Sly Flourish's New Crowdfund: The Lazy-DM Trick Hiding in the Stretch Goals",
-      "why_now": "Sly Flourish just landed in EN World's weekly crowdfunding roundup, a name every 5e table already trusts.",
-      "angle": "Quick 'steal this ruling' short pulling one concrete prep-time-saving technique from the pledge tiers and showing how to run it cold at the table.",
+      "title": "Gary's Appendix: The OSR Crowdfund Your Shadowdark Table Should Be Watching",
+      "why_now": "Gary's Appendix just surfaced in this week's RPG crowdfunding roundup alongside Deathbringer and Sly Flourish, squarely in OSR/Appendix N territory that overlaps DCC's lineage.",
+      "angle": "Quick-hit news/creature-tactic tease: pull one monster or procedure teased in the campaign and give a one-line verdict on whether it slots into DCC/Shadowdark as-is.",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
     },
     {
-      "title": "Deathbringer's Undead: Why Turn Resistance Still Won't Save Your Cleric",
-      "why_now": "Deathbringer just surfaced in this week's crowdfunding news with new undead content ripe for a tactics breakdown.",
-      "angle": "Creature-tactic short: dissect a Deathbringer undead stat block against RAW Turn Undead mechanics and show the GM-side counterplay.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
-    },
-    {
-      "title": "Archives of Nethys Is Getting Cut Loose — Back Up Your Rules Lookups Now",
-      "why_now": "Pathfinder just announced it's ending its relationship with Archives of Nethys, threatening a tool many GMs cross-reference mid-session.",
-      "angle": "PSA-style dry warning short: explain what's disappearing, why it matters even for D&D/Shadowdark/DCC tables that borrow PF material, and what to archive today.",
-      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
-    },
-    {
-      "title": "The One Session-Zero Line That Actually Filters Bad Players",
-      "why_now": "Gnome Stew's fresh Gnomecast episode on 'seeking good players' is generating GM chatter this week.",
-      "angle": "React-format short: state one concrete, enforceable session-zero clause (e.g., a hard rule on rules-lawyering death saves) as a veteran-GM ruling, not vague advice.",
-      "source": "https://gnomestew.com/gnomecast-241-seeking-good-players/"
+      "title": "Monte Cook Is Turning Novels Into a TTRPG — Here's the One Mechanic Worth Stealing for 5e",
+      "why_now": "The Between Earth and Sky announcement gives a rare timely peg to talk about non-d20 magic/resource systems in a way that's directly actionable for a 5e/Shadowdark audience.",
+      "angle": "Rules ruling framed as 'steal this': identify one narrative mechanic from the Cypher-adjacent system and give the exact reskin/houserule to bolt it onto 5e spellcasting.",
+      "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
     }
   ]
 }

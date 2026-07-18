@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-17T11:30:00+00:00",
+  "generated": "2026-07-18T11:22:32+00:00",
   "opportunities": [
     {
-      "title": "CISA's Worst Week: Fresh SharePoint RCE Zero-Day (CVE-2026-58644) Added to KEV Within Days of Disclosure",
-      "why_now": "CISA just added a newly disclosed SharePoint RCE to its Known Exploited Vulnerabilities list mere days after the flaw surfaced, on the heels of an already-flagged trio of SharePoint bugs.",
-      "angle": "Timeline breakdown: disclosure-to-exploitation clock, patch status table, and why SharePoint keeps being the softest target in the Microsoft stack",
+      "title": "CVE-2026-58644: The SharePoint Zero-Day That Went From Disclosure to Exploit in Record Time",
+      "why_now": "CISA already added the actively-exploited SharePoint RCE to its KEV catalog just as SecurityWeek and The Hacker News confirm mass exploitation began almost immediately after disclosure.",
+      "angle": "Patch-cadence timeline piece: disclosure date vs. exploit date vs. patch-availability date, with a hard deadline callout for admins still unpatched",
       "source": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
     },
     {
-      "title": "570 Flaws, One Tuesday: Inside Microsoft's Record-Breaking Patch Drop",
-      "why_now": "Krebs reports Microsoft just shipped a record 570 security fixes in a single Patch Tuesday, raising real triage-capacity alarms for defenders.",
-      "angle": "Patch-priority digest: which of the 570 are actually exploited/critical, plus a snark aside on 'patch cadence' becoming 'patch avalanche'",
-      "source": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
+      "title": "CISA's Sunday Deadline: Why Unpatched FortiSandbox Bugs Are This Week's Must-Fix",
+      "why_now": "CISA is giving federal agencies days, not weeks, to patch actively exploited Fortinet FortiSandbox flaws — a rare hard deadline worth flagging before it passes.",
+      "angle": "Urgent patch-cadence alert with countdown framing and quick remediation checklist",
+      "source": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/"
     },
     {
-      "title": "Ransomware Just Stopped Fairlife: Coca-Cola's US Production Line Goes Dark",
-      "why_now": "Coca-Cola confirmed it suspended US Fairlife production due to a ransomware attack, a rare admission of physical operational impact from a Fortune 500 brand.",
-      "angle": "Breach-to-shelf-impact narrative: what ransomware disruption looks like when it hits a beverage supply chain, tied into the OT/legacy-systems piece from the same week",
+      "title": "Fairlife Down: How a Single Ransomware Hit Stopped Coca-Cola's US Milk Production",
+      "why_now": "A major consumer brand halting physical production due to ransomware is a rare, concrete proof point of cyber-to-supply-chain impact.",
+      "angle": "Inevitable-breach digest entry: what happened, likely group, and the OT/production angle",
       "source": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/"
     },
     {
-      "title": "Qantas Got Social-Engineered, Not Hacked: The Tech Support Scam That Blew Open an Airline's Data",
-      "why_now": "Qantas's massive data breach traces back to a tech support scam rather than a technical exploit, reinforcing the 'identity attacks over exploits' trend flagged this same week.",
-      "angle": "Root-cause postmortem pairing the Qantas incident with Dark Reading's 'Identity Attacks Overtake Exploits as Top Ransomware Cause' data point — the human perimeter is the new CVE",
-      "source": "https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267"
+      "title": "LegacyHive: A Fresh Windows Zero-Day Is Handing Out Admin Rights Right Now",
+      "why_now": "A newly disclosed, actively exploited Windows privilege-escalation zero-day with no official patch yet is exactly the kind of urgent item readers need flagged immediately.",
+      "angle": "Zero-day spotlight: exploitation status, affected versions, and interim mitigations while a patch is pending",
+      "source": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/"
     },
     {
-      "title": "'Just Paste This Into Terminal': The ClickFix Con Is Now an Industry",
-      "why_now": "A macOS 'paste this fix into Terminal' scam and a new ACR Stealer campaign using ClickFix lures both surfaced this week, showing the same social-engineering technique scaling across platforms and malware families.",
-      "angle": "Pattern-recognition piece cataloguing every ClickFix-style lure seen this week (macOS Terminal scam + ACR Stealer) as a single emerging attacker playbook, with a 'never paste this' reader checklist",
-      "source": "https://www.theregister.com/cyber-crime/2026/07/16/cmon-just-copy-this-text-string-and-paste-it-into-your-macos-terminal-itll-fix-your-computer-honest/5273701"
+      "title": "Inc Ransomware's SonicWall SMA Zero-Days: The Edge-Device Playbook Strikes Again",
+      "why_now": "A named ransomware group actively weaponizing zero-days in widely deployed SonicWall SMA appliances is a textbook threat-actor-plus-CVE story for the digest.",
+      "angle": "Threat-actor profile tying the exploit chain to the broader 'identity/edge-device attacks overtake exploits' trend reported this week",
+      "source": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days"
     }
   ]
 }

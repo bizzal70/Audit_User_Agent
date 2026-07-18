@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-17T11:30:00+00:00",
+  "generated": "2026-07-18T11:22:32+00:00",
   "opportunities": [
     {
-      "title": "Pathfinder Cuts Ties With Archives of Nethys: What Happens to the SRD Now?",
-      "why_now": "A major official split from the community's most-used free rules reference just broke, directly hitting the beat's core audience.",
-      "angle": "News breakdown + rules-access explainer: what's lost, what's replaced, and what GMs should bookmark instead",
-      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
+      "title": "Godzilla Enters Marvel Multiverse RPG: How Kaiju-Scale Stats Actually Work",
+      "why_now": "Marvel Multiverse RPG just announced a Godzilla crossover, raising immediate rules questions about scale and damage caps.",
+      "angle": "Rules breakdown: compare existing Marvel Multiverse RPG's size/scale mechanics against what a kaiju-tier stat block would require, citing the announcement directly.",
+      "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
     },
     {
-      "title": "First Look: The New Arcane Factions and Backgrounds in Arcana Unleashed",
-      "why_now": "Fresh preview material gives concrete new subclass/faction mechanics to dissect before the book lands.",
-      "angle": "Rules-first preview breakdown: compare new backgrounds to existing SRD options, flag balance implications",
+      "title": "Deathbringer's Crowdfunding Numbers, Decoded: What Backers Are Actually Getting",
+      "why_now": "Deathbringer is trending across two EN World posts this week (designer interview + crowdfunding roundup), making it the hot new system to scrutinize.",
+      "angle": "Fact-check style breakdown of stretch goals and core mechanics pulled from the Professor Dungeon Master interview, written as 'here's what's confirmed vs. hype.'",
+      "source": "https://www.enworld.org/threads/professor-dungeon-master-talks-deathbringer.719906/"
+    },
+    {
+      "title": "Monte Cook Games Adapts Between Earth and Sky: What Novel-to-TTRPG Conversions Usually Get Wrong",
+      "why_now": "MCG just announced the tie-in, giving a timely hook to discuss the mechanics of adapting prose fiction into playable rules.",
+      "angle": "Knowing analysis piece: survey how past novel-to-TTRPG adaptations handled setting fidelity vs. rules, predicting where this one will land.",
+      "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
+    },
+    {
+      "title": "Arcana Unleashed's New Factions: A Rules-First Look at What Backgrounds Actually Grant",
+      "why_now": "The preview just dropped showing specific arcane factions and backgrounds, perfect for a mechanics-focused first look.",
+      "angle": "Direct breakdown of the previewed background bonuses/faction perks, comparing them line-by-line to existing 5E-style background design norms.",
       "source": "https://www.enworld.org/threads/preview-the-arcane-factions-and-backgrounds-from-arcana-unleashed.719910/"
     },
     {
-      "title": "This Week's Crowdfunding Docket: Deathbringer, Sly Flourish's Latest, and Gary's Appendix — Which Are Worth Your Pledge?",
-      "why_now": "A fresh crowdfunding roundup dropped covering multiple notable projects worth vetting for backers right now.",
-      "angle": "Quick-hit ranked rundown with rules/production-quality signals for each project",
+      "title": "This Week's TTRPG Crowdfunding Roundup: Which Projects Have Rules You Can Actually Trust Yet",
+      "why_now": "The July 15 crowdfunding digest bundles Deathbringer, Sly Flourish, and Gary's Appendix, giving a natural comparison piece.",
+      "angle": "Ranked/scored format: grade each crowdfunding project by how much actual rules text vs. concept art has been shown so far.",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
-    },
-    {
-      "title": "The Rules for 'Seeking Good Players' Already Exist — Gnomecast Just Wrote Them Down",
-      "why_now": "Gnomecast's new episode tackles player vetting, a topic the channel can reframe as a checklist/ruleset for session zero.",
-      "angle": "Turn the podcast discussion into a structured 'rules for finding good players' framework post",
-      "source": "https://gnomestew.com/gnomecast-241-seeking-good-players/"
-    },
-    {
-      "title": "When a Publisher Walks Away From Its Own SRD Host: The OGL Lesson Nobody Learned",
-      "why_now": "The Pathfinder/Nethys split echoes the 2023 OGL fight and gives the channel a chance for sharper systemic analysis beyond the news cycle.",
-      "angle": "Opinion/analysis piece: licensing precedent, what it signals for third-party rules content going forward",
-      "source": "https://www.enworld.org/threads/pathfinder-is-ending-its-relationship-with-archives-of-nethys-updated.719899/"
     }
   ]
 }
