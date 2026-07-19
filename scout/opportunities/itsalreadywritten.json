@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-18T11:22:32+00:00",
+  "generated": "2026-07-19T11:24:56+00:00",
   "opportunities": [
     {
-      "title": "Godzilla Enters Marvel Multiverse RPG: How Kaiju-Scale Stats Actually Work",
-      "why_now": "Marvel Multiverse RPG just announced a Godzilla crossover, raising immediate rules questions about scale and damage caps.",
-      "angle": "Rules breakdown: compare existing Marvel Multiverse RPG's size/scale mechanics against what a kaiju-tier stat block would require, citing the announcement directly.",
+      "title": "Godzilla Enters Marvel Multiverse RPG: How Do You Actually Statblock a 100-Meter Kaiju?",
+      "why_now": "EN World just confirmed Godzilla's addition to Marvel Multiverse RPG, and the rules-scaling question is the obvious hook.",
+      "angle": "Rules breakdown: analyze the Multiverse system's scale/size rules and predict how they'll need to bend to fit a kaiju without breaking action economy.",
       "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
     },
     {
-      "title": "Deathbringer's Crowdfunding Numbers, Decoded: What Backers Are Actually Getting",
-      "why_now": "Deathbringer is trending across two EN World posts this week (designer interview + crowdfunding roundup), making it the hot new system to scrutinize.",
-      "angle": "Fact-check style breakdown of stretch goals and core mechanics pulled from the Professor Dungeon Master interview, written as 'here's what's confirmed vs. hype.'",
+      "title": "Professor Dungeon Master's Deathbringer Interview, Annotated: What's Actually New in the Rules",
+      "why_now": "Fresh interview just dropped covering the upcoming Deathbringer product from Level Up's creative lead.",
+      "angle": "Line-by-line annotation of the interview, pulling out concrete mechanical claims (subclasses, monster design, encounter math) and flagging what's confirmed vs. teased.",
       "source": "https://www.enworld.org/threads/professor-dungeon-master-talks-deathbringer.719906/"
     },
     {
-      "title": "Monte Cook Games Adapts Between Earth and Sky: What Novel-to-TTRPG Conversions Usually Get Wrong",
-      "why_now": "MCG just announced the tie-in, giving a timely hook to discuss the mechanics of adapting prose fiction into playable rules.",
-      "angle": "Knowing analysis piece: survey how past novel-to-TTRPG adaptations handled setting fidelity vs. rules, predicting where this one will land.",
+      "title": "Monte Cook Games Adapts Between Earth and Sky: What Cypher System Changes When Novels Become Rules",
+      "why_now": "MCG just announced the tie-in, a fresh IP-to-system conversion worth dissecting before release details land.",
+      "angle": "Predictive rules piece: how Cypher System's flexible descriptor/focus framework will likely absorb the novels' setting-specific magic and factions.",
       "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
     },
     {
-      "title": "Arcana Unleashed's New Factions: A Rules-First Look at What Backgrounds Actually Grant",
-      "why_now": "The preview just dropped showing specific arcane factions and backgrounds, perfect for a mechanics-focused first look.",
-      "angle": "Direct breakdown of the previewed background bonuses/faction perks, comparing them line-by-line to existing 5E-style background design norms.",
-      "source": "https://www.enworld.org/threads/preview-the-arcane-factions-and-backgrounds-from-arcana-unleashed.719910/"
+      "title": "This Week in Written Rules: The July 18 Digest, Decoded",
+      "why_now": "EN World's digest just dropped, bundling the week's actual rules-relevant news in one place for a recap-with-teeth treatment.",
+      "angle": "Curated recap post pulling only the mechanically substantive items from the digest, with a one-line 'ruling' on each (confirmed change, rumor, or non-news).",
+      "source": "https://www.enworld.org/threads/news-digest-for-july-18-2026.719951/"
     },
     {
-      "title": "This Week's TTRPG Crowdfunding Roundup: Which Projects Have Rules You Can Actually Trust Yet",
-      "why_now": "The July 15 crowdfunding digest bundles Deathbringer, Sly Flourish, and Gary's Appendix, giving a natural comparison piece.",
-      "angle": "Ranked/scored format: grade each crowdfunding project by how much actual rules text vs. concept art has been shown so far.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
+      "title": "Kaiju Crossover Precedent: What Godzilla's Marvel Multiverse Entry Means for Future Licensed Statblocks",
+      "why_now": "The Godzilla announcement is a rare test case for how a non-Marvel IP gets folded into an existing rules chassis, worth a second angle beyond the initial news hit.",
+      "angle": "Analytical follow-up comparing this integration to past licensed-property rules ports (e.g., other multiverse crossovers), predicting design patterns for future kaiju/monster IP additions.",
+      "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
     }
   ]
 }

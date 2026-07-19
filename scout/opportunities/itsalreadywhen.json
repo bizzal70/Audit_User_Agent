@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-18T11:22:32+00:00",
+  "generated": "2026-07-19T11:24:56+00:00",
   "opportunities": [
     {
-      "title": "CVE-2026-58644: The SharePoint Zero-Day That Went From Disclosure to Exploit in Record Time",
-      "why_now": "CISA already added the actively-exploited SharePoint RCE to its KEV catalog just as SecurityWeek and The Hacker News confirm mass exploitation began almost immediately after disclosure.",
-      "angle": "Patch-cadence timeline piece: disclosure date vs. exploit date vs. patch-availability date, with a hard deadline callout for admins still unpatched",
+      "title": "CVE-2026-58644: The SharePoint Zero-Day That Went From Disclosure to Exploitation in Days",
+      "why_now": "CISA just added the actively-exploited SharePoint RCE to its KEV catalog, and Hacker News confirms attackers moved almost immediately after disclosure.",
+      "angle": "Rapid-exploitation timeline breakdown with patch-now urgency and KEV deadline countdown",
       "source": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
     },
     {
-      "title": "CISA's Sunday Deadline: Why Unpatched FortiSandbox Bugs Are This Week's Must-Fix",
-      "why_now": "CISA is giving federal agencies days, not weeks, to patch actively exploited Fortinet FortiSandbox flaws — a rare hard deadline worth flagging before it passes.",
-      "angle": "Urgent patch-cadence alert with countdown framing and quick remediation checklist",
-      "source": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/"
+      "title": "Inc Ransomware Is Already Inside Your SonicWall: The SMA Zero-Day Nobody Patched in Time",
+      "why_now": "Dark Reading reports active ransomware exploitation of SonicWall SMA zero-days, a classic edge-device breach vector.",
+      "angle": "Threat-actor profile + technical breakdown of SMA zero-day chain, tied to broader 'perimeter appliances are the new soft underbelly' narrative",
+      "source": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days"
     },
     {
-      "title": "Fairlife Down: How a Single Ransomware Hit Stopped Coca-Cola's US Milk Production",
-      "why_now": "A major consumer brand halting physical production due to ransomware is a rare, concrete proof point of cyber-to-supply-chain impact.",
-      "angle": "Inevitable-breach digest entry: what happened, likely group, and the OT/production angle",
+      "title": "Coca-Cola's Fairlife Line Goes Dark: Ransomware Just Stopped Milk Production",
+      "why_now": "SecurityWeek confirms Coca-Cola suspended US Fairlife production due to a ransomware attack, a rare name-brand OT/manufacturing disruption.",
+      "angle": "Breach-impact digest: what happens when ransomware hits physical production lines, with lessons for OT/ICS convergence",
       "source": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/"
     },
     {
-      "title": "LegacyHive: A Fresh Windows Zero-Day Is Handing Out Admin Rights Right Now",
-      "why_now": "A newly disclosed, actively exploited Windows privilege-escalation zero-day with no official patch yet is exactly the kind of urgent item readers need flagged immediately.",
-      "angle": "Zero-day spotlight: exploitation status, affected versions, and interim mitigations while a patch is pending",
-      "source": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/"
+      "title": "CISA's Patch Order on FortiSandbox: What It Means When Attackers Beat the Fix",
+      "why_now": "CISA issued a formal patch directive after attackers were already exploiting critical FortiSandbox flaws in the wild.",
+      "angle": "Patch-cadence explainer: directive text, CVE details, and countdown to federal compliance deadline",
+      "source": "https://www.theregister.com/security/2026/07/17/attackers-target-critical-fortisandbox-flaws-as-cisa-issues-patch-order/5274434"
     },
     {
-      "title": "Inc Ransomware's SonicWall SMA Zero-Days: The Edge-Device Playbook Strikes Again",
-      "why_now": "A named ransomware group actively weaponizing zero-days in widely deployed SonicWall SMA appliances is a textbook threat-actor-plus-CVE story for the digest.",
-      "angle": "Threat-actor profile tying the exploit chain to the broader 'identity/edge-device attacks overtake exploits' trend reported this week",
-      "source": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days"
+      "title": "GoldenEyeDog and the DigiCert Breach: When Code-Signing Certificates Get Stolen",
+      "why_now": "Hacker News links a new threat subgroup to the DigiCert breach and code-signing cert theft, a supply-chain trust nightmare.",
+      "angle": "Threat-actor deep dive on downstream supply-chain risk from stolen signing certs, with detection/verification guidance for defenders",
+      "source": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html"
     }
   ]
 }

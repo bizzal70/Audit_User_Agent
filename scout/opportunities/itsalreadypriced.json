@@ -1,34 +1,34 @@
 {
-  "generated": "2026-07-18T11:22:32+00:00",
+  "generated": "2026-07-19T11:24:56+00:00",
   "opportunities": [
     {
-      "title": "Consensys Hired a North Korean Dev and Didn't Know It — Neither Would You",
-      "why_now": "A16z-backed Consensys got infiltrated by DPRK operatives posing as contractors, proving even top-tier crypto firms can't vet their own supply chain.",
-      "angle": "Incident breakdown + checklist: the red flags every crypto company ignores when hiring remote devs",
-      "source": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Consensys Hired a North Korean Dev and Didn't Notice — Your KYC Process Won't Either",
+      "why_now": "A major, security-conscious Web3 firm just admitted it unknowingly onboarded a DPRK operative as a contractor, proving the IT-worker infiltration threat has moved upmarket from small startups to blue-chip infra.",
+      "angle": "Explainer/investigation: walk through how NK developer laundering works (fake resumes, VPN farms, referral chains) and what due-diligence signals Consensys missed — end with a checklist for hiring managers.",
+      "source": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer"
     },
     {
-      "title": "Your Mac Isn't Safe: New Malware Hijacks Telegram to Drain Wallets",
-      "why_now": "SlowMist just disclosed active macOS malware specifically targeting crypto investors through Telegram session hijacking.",
-      "angle": "Threat explainer with concrete mitigation steps — session hygiene, 2FA, device compartmentalization for anyone holding keys",
-      "source": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Kaspersky Just Mapped the Malware Framework That's Been Draining Wallets Quietly All Year",
+      "why_now": "Kaspersky's new report names a specific, active framework targeting crypto investors right now — this is a rare case of attribution-grade research landing before the losses get big headlines.",
+      "angle": "Technical breakdown for the security-literate reader: infection vector, persistence mechanism, and how it differs from commodity stealers — framed as 'the thing that gets you before you even see the phishing link.'",
+      "source": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors"
     },
     {
-      "title": "Hardware Wallets Aren't 'Complete Garbage' — But ZachXBT Has a Point",
-      "why_now": "A live spat between ZachXBT and Trezor's exec over hardware wallet security is happening in public right now, forcing a real conversation about self-custody assumptions.",
-      "angle": "Balanced security teardown: where hardware wallets actually fail (supply chain, clipboard malware, physical attacks) vs where the criticism overreaches",
-      "source": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss"
+      "title": "Your Mac Isn't Safe Either: New Malware Hijacks Telegram Sessions to Empty Wallets",
+      "why_now": "SlowMist just documented macOS-specific malware actively targeting crypto users via Telegram session hijacking, killing the 'Macs don't get malware' assumption that many holders still operate on.",
+      "angle": "Practical security post: how session-hijacking bypasses 2FA entirely, why Telegram-based deal flow is a bigger attack surface than people admit, plus concrete hardening steps.",
+      "source": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist"
     },
     {
-      "title": "Ostium's Oracle Just Got Exploited for Millions — Here's the Playbook Attackers Keep Reusing",
-      "why_now": "Ostium paused trading after a fresh multimillion-dollar oracle exploit, the latest in a long line of oracle-manipulation hacks that keep getting priced in as 'surprises.'",
-      "angle": "Postmortem pattern-match: compare Ostium's exploit mechanics to past oracle hacks to show it was foreseeable",
-      "source": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "ZachXBT Says Hardware Wallets Are 'Complete Garbage' — Trezor's Rebuttal Proves His Point",
+      "why_now": "A live, public spat between a top on-chain investigator and a leading hardware wallet maker is happening right now, forcing an overdue reckoning on whether cold storage still protects against modern social-engineering attacks.",
+      "angle": "Opinion/analysis piece dissecting both sides: hardware wallets stop remote key theft but do nothing against blind-signing and drainer scams — reframe the debate as 'wrong threat model, not wrong product.'",
+      "source": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage"
     },
     {
-      "title": "SummerFi Is Dead. The Exploit That Killed It Should Have Killed the Protocol Model Too",
-      "why_now": "SummerFi is shutting down after seven years, explicitly citing an exploit, a rare case of a protocol admitting the hack was terminal rather than quietly rebranding.",
-      "angle": "Obituary/lessons piece: what SummerFi's collapse says about the sustainability of protocols that survive one hack but not the reputational bleed",
+      "title": "SummerFi Is Dead. The Exploit Was Just the Autopsy, Not the Cause of Death",
+      "why_now": "A seven-year-old DeFi protocol just announced it's shutting down citing an exploit — a clean, timely case study in how slow-bleed technical debt and thin margins turn one hack into a project-ending event.",
+      "angle": "Post-mortem format: reconstruct the exploit timeline, then argue the real story is treasury/runway exhaustion that made recovery impossible — a template for 'protocols that die from hacks vs. protocols that die because of them.'",
       "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
     }
   ]

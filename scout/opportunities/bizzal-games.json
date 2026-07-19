@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-18T11:22:32+00:00",
+  "generated": "2026-07-19T11:24:56+00:00",
   "opportunities": [
     {
-      "title": "Godzilla Doesn't Get One Turn: Fixing Kaiju Action Economy in 5e (Legendary Actions the DIY Way)",
-      "why_now": "Marvel Multiverse RPG just announced a Godzilla stat block, giving a hook to break down how to run a genuinely threatening giant monster without a Legendary Actions license.",
-      "angle": "60-sec creature tactic: house-rule a 'Legendary Actions' patch for Shadowdark/DCC where the system has no native equivalent, using Godzilla as the worked example.",
+      "title": "Godzilla Stats for Your Table: Running a Kaiju Without Breaking Legendary Resistance",
+      "why_now": "Marvel Multiverse RPG just added an official Godzilla stat block, giving a hard data point to compare against how 5e/Shadowdark handle city-scale monsters.",
+      "angle": "Rules ruling short: break down how to scale a kaiju's action economy, damage thresholds, and 'ignore this or the fight ends in one round' legendary resistance math for 5e/DCC.",
       "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
     },
     {
-      "title": "Deathbringer's Death Saves Are Meaner Than Yours — Should They Be?",
-      "why_now": "Professor Dungeon Master's interview on Deathbringer surfaces its grimmer death-and-dying subsystem right as it's mid-crowdfund, a natural comparison point.",
-      "angle": "Rules ruling: side-by-side dry breakdown of 5e death saves vs Deathbringer's harsher take vs Shadowdark's 1-HP-and-done, then a recommendation for which table type each suits.",
+      "title": "Fallout 5 Is Coming — Here's the 5e Ruling for Radiation Poisoning Nobody Uses Right",
+      "why_now": "Bethesda just confirmed Fallout 3/NV remasters and Fallout 5 pre-production, reviving post-apoc RPG interest right when tables are hacking wasteland one-shots.",
+      "angle": "Mechanical breakdown: how to actually run radiation/mutation exhaustion tracks in 5e or DCC without homebrewing a whole new subsystem, cite Gamma World/MCC precedent.",
+      "source": "https://www.rpgsite.net/news/20934-fallout-3-new-vegas-remaster-fallout-5-announcement-bethesda"
+    },
+    {
+      "title": "Professor Dungeon Master Just Talked Deathbringer — Here's the DCC Ruling He Skipped",
+      "why_now": "PDM's interview on Deathbringer is fresh OSR/DCC-adjacent news this week and the audience overlaps hard with a DCC-focused shorts channel.",
+      "angle": "Wry commentary short reacting to a specific ruling/mechanic from the interview, correcting or expanding on it in classic dry-GM voice.",
       "source": "https://www.enworld.org/threads/professor-dungeon-master-talks-deathbringer.719906/"
     },
     {
-      "title": "Your Background Does Nothing. Arcana Unleashed's Arcane Factions Actually Do Something.",
-      "why_now": "The fresh preview of Arcana Unleashed's faction/background material lands right as GMs are fatigued with 5e backgrounds being pure flavor text.",
-      "angle": "Spell/mechanic use-case: pick one previewed faction perk, show the exact mechanical interaction (advantage/resource/contact), and rule on whether it's worth porting into a home 5e game.",
-      "source": "https://www.enworld.org/threads/preview-the-arcane-factions-and-backgrounds-from-arcana-unleashed.719910/"
-    },
-    {
-      "title": "Gary's Appendix: The OSR Crowdfund Your Shadowdark Table Should Be Watching",
-      "why_now": "Gary's Appendix just surfaced in this week's RPG crowdfunding roundup alongside Deathbringer and Sly Flourish, squarely in OSR/Appendix N territory that overlaps DCC's lineage.",
-      "angle": "Quick-hit news/creature-tactic tease: pull one monster or procedure teased in the campaign and give a one-line verdict on whether it slots into DCC/Shadowdark as-is.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deathbringer-sly-flourish-garys-appendix-and-more.719895/"
-    },
-    {
-      "title": "Monte Cook Is Turning Novels Into a TTRPG — Here's the One Mechanic Worth Stealing for 5e",
-      "why_now": "The Between Earth and Sky announcement gives a rare timely peg to talk about non-d20 magic/resource systems in a way that's directly actionable for a 5e/Shadowdark audience.",
-      "angle": "Rules ruling framed as 'steal this': identify one narrative mechanic from the Cypher-adjacent system and give the exact reskin/houserule to bolt it onto 5e spellcasting.",
+      "title": "Monte Cook Is Adapting Between Earth and Sky — Here's Why Fiction-to-Crunch Conversions Usually Break",
+      "why_now": "MCG just announced the Between Earth and Sky novel-to-TTRPG deal, a timely hook for talking about the mechanical pitfalls of adapting prose worldbuilding into stat blocks.",
+      "angle": "Veteran-GM teardown: pick one iconic novel creature/power and show the ruling/spell-use-case translation into game terms, using this as the case study.",
       "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
+    },
+    {
+      "title": "Lies of P's Puppet Hero Is a Better Warforged Than Your Warforged",
+      "why_now": "Lies of P: Complete Edition's Switch 2 trailer is trending this week, giving a pop-culture hook to talk about construct-race rulings that GMs constantly get wrong.",
+      "angle": "Creature/race tactic short: correct immunities (poison, exhaustion, sleep) and social-interaction edge cases for construct PCs in 5e/Shadowdark using Lies of P as the reference image.",
+      "source": "https://www.rpgsite.net/news/20937-lies-of-p-complete-edition-switch-2-60fps-trailer"
     }
   ]
 }

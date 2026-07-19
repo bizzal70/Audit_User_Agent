@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-18T11:22:32+00:00",
+  "generated": "2026-07-19T11:24:56+00:00",
   "plays": [
     {
-      "story": "Between Earth and Sky novels are coming to TTRPG courtesy of Monte Cook Games",
+      "story": "Two Scattered Spider members sentenced in UK for the $115M Transport for London crypto ransom scheme",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'Where the $115M Went: Tracing the Crypto Ransom Behind the TfL Hack Sentencing' — follow the on-chain trail of the ransom payments and what the verdict means for future extortion-to-crypto pipelines.",
+        "itsalreadywhen": "Title: 'Scattered Spider Gets Jail Time — But Their Playbook Is Still Live' — break down the social-engineering TTPs that took down TfL and why sentencing two members barely dents the group's ongoing operations."
+      },
+      "source": "https://www.theregister.com/cyber-crime/2026/07/16/brit-scattered-spider-duo-handed-tickets-to-prison-over-transport-for-london-attack/5272446"
+    },
+    {
+      "story": "New wave of macOS malware combines Telegram session hijacking (SlowMist) with 'paste this in Terminal' social engineering scams",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'Your Telegram DMs Are the New Attack Surface for Crypto Wallets' — explain how SlowMist's findings show session-hijacking malware is bypassing wallet security entirely by targeting chat apps, with a checklist for traders.",
+        "itsalreadywhen": "Title: 'The Terminal Paste Scam Everyone Falls For' — dissect the exact social-engineering script that's fueling a spike in macOS infostealers, using the Register's Terminal-paste con as the case study."
+      },
+      "source": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist"
+    },
+    {
+      "story": "Consensys unknowingly hired a North Korean developer, exposing insider-threat gaps in crypto dev pipelines",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'A DPRK Agent Was Writing Code Inside Consensys — How Did No One Notice?' — cover the hiring failure and what it means for due diligence at crypto firms outsourcing dev work.",
+        "itsalreadywhen": "Title: 'The North Korean IT Worker Scheme Just Hit a Major Crypto Firm' — frame Consensys as the latest data point in the broader DPRK fake-remote-worker infiltration campaign hitting Western tech."
+      },
+      "source": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer"
+    },
+    {
+      "story": "Monte Cook Games is adapting the Between Earth and Sky novels into a TTRPG",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Monte Cook Just Turned a Fantasy Novel Series Into a Playable Setting — First Look at the Between Earth and Sky Mechanics' — dig into what system it's built on, what new player options/backgrounds the novels introduce, and whether the crunch does the source justice.",
-        "itsalreadywritten": "'The Books Come First: How Between Earth and Sky's Novels Are Shaping Its New TTRPG' — frame it as page-to-table adaptation, spotlighting the authors, the world's literary roots, and what fans of the novels should expect (and fear) from the tabletop version."
+        "bizzal-games": "Title: 'Monte Cook Games Turns Between Earth and Sky Into a TTRPG — What System Are They Building?' — speculate on Cypher System vs. new mechanics and what the setting brings to the table.",
+        "itsalreadywritten": "Title: 'The Novels Are Already Written — Now They're a Game: Between Earth and Sky Goes TTRPG' — the exact premise of the channel: page-to-table adaptation, what changes when prose becomes stat blocks."
       },
       "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
-    },
-    {
-      "story": "GODZILLA comes to Marvel Multiverse Roleplaying",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Godzilla Joins the Marvel Multiverse RPG — How Do You Even Statblock a Kaiju?' — mechanical deep-dive on scale rules, damage thresholds, and how MMRPG handles a monster that dwarfs its usual superhero cast.",
-        "itsalreadywritten": "'Two Franchises, One Multiverse: What Godzilla's Marvel RPG Crossover Means for Canon' — angle on IP mashup lore, how Toho's mythology gets folded into Marvel continuity, and what it signals for licensed-fiction tabletop crossovers going forward."
-      },
-      "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
-    },
-    {
-      "story": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Malware Is Now Hiding Its Command Server on the Blockchain — What That Means for Crypto's 'Immutable' Reputation' — explore how attackers are weaponizing on-chain data as unkillable C2 infrastructure, and what it does to the narrative that blockchain transparency is inherently a security win.",
-        "itsalreadywhen": "'Seven npm Packages, One Blockchain Backdoor: Inside the Vite Supply-Chain RAT Campaign' — technical breakdown of the attack chain, why blockchain-based C2 is nearly impossible to take down, and what dev teams should audit in their npm dependencies right now."
-      },
-      "source": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
-    },
-    {
-      "story": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Your Mac's Telegram App Could Be Bleeding Your Crypto Wallet Dry' — practical warning piece for crypto holders on which wallets/session flows are exposed and immediate steps to lock down Telegram-linked accounts.",
-        "itsalreadywhen": "'SlowMist Cracks Open a New macOS Session-Hijacking Malware Targeting Telegram' — technical walkthrough of the hijacking mechanism, macOS keychain/session weaknesses exploited, and detection indicators for defenders."
-      },
-      "source": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }
