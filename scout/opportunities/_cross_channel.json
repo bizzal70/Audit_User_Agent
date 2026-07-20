@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-19T11:24:56+00:00",
+  "generated": "2026-07-20T11:56:11+00:00",
   "plays": [
     {
-      "story": "Two Scattered Spider members sentenced in UK for the $115M Transport for London crypto ransom scheme",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'Where the $115M Went: Tracing the Crypto Ransom Behind the TfL Hack Sentencing' — follow the on-chain trail of the ransom payments and what the verdict means for future extortion-to-crypto pipelines.",
-        "itsalreadywhen": "Title: 'Scattered Spider Gets Jail Time — But Their Playbook Is Still Live' — break down the social-engineering TTPs that took down TfL and why sentencing two members barely dents the group's ongoing operations."
-      },
-      "source": "https://www.theregister.com/cyber-crime/2026/07/16/brit-scattered-spider-duo-handed-tickets-to-prison-over-transport-for-london-attack/5272446"
-    },
-    {
-      "story": "New wave of macOS malware combines Telegram session hijacking (SlowMist) with 'paste this in Terminal' social engineering scams",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'Your Telegram DMs Are the New Attack Surface for Crypto Wallets' — explain how SlowMist's findings show session-hijacking malware is bypassing wallet security entirely by targeting chat apps, with a checklist for traders.",
-        "itsalreadywhen": "Title: 'The Terminal Paste Scam Everyone Falls For' — dissect the exact social-engineering script that's fueling a spike in macOS infostealers, using the Register's Terminal-paste con as the case study."
-      },
-      "source": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist"
-    },
-    {
-      "story": "Consensys unknowingly hired a North Korean developer, exposing insider-threat gaps in crypto dev pipelines",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'A DPRK Agent Was Writing Code Inside Consensys — How Did No One Notice?' — cover the hiring failure and what it means for due diligence at crypto firms outsourcing dev work.",
-        "itsalreadywhen": "Title: 'The North Korean IT Worker Scheme Just Hit a Major Crypto Firm' — frame Consensys as the latest data point in the broader DPRK fake-remote-worker infiltration campaign hitting Western tech."
-      },
-      "source": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer"
-    },
-    {
-      "story": "Monte Cook Games is adapting the Between Earth and Sky novels into a TTRPG",
+      "story": "Godzilla joins the Marvel Multiverse Roleplaying Game line",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'Monte Cook Games Turns Between Earth and Sky Into a TTRPG — What System Are They Building?' — speculate on Cypher System vs. new mechanics and what the setting brings to the table.",
-        "itsalreadywritten": "Title: 'The Novels Are Already Written — Now They're a Game: Between Earth and Sky Goes TTRPG' — the exact premise of the channel: page-to-table adaptation, what changes when prose becomes stat blocks."
+        "bizzal-games": "Godzilla Stomps Into Marvel Multiverse RPG: We Break Down the Kaiju-Scale Stat Block and How to Steal It for Any System — mechanics-first look at scaling a 300-ft monster for tabletop encounters, plus GM tips for running mass destruction without breaking your table.",
+        "itsalreadywritten": "From Toho to Tabletop: What the Godzilla/Marvel Multiverse Crossover Reveals About Licensed-IP Worldbuilding — an angle on how two massive, decades-old fictional universes get stitched into one canon, and what writers can learn from the lore reconciliation."
+      },
+      "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
+    },
+    {
+      "story": "Monte Cook Games adapts the Between Earth and Sky novels into a TTRPG setting",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Monte Cook Games Turns Between Earth and Sky Into a Playable World — First Look at the New Mechanics and Character Options coming out of the novel adaptation.",
+        "itsalreadywritten": "When Novels Become Numbers: How Between Earth and Sky's Prose Gets Translated Into Dice, Classes, and Lore Sidebars — a piece on the craft of adapting literary fiction into a game bible."
       },
       "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
+    },
+    {
+      "story": "Kaspersky identifies a new malware framework specifically targeting crypto investors",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "New Malware Framework Is Hunting Crypto Wallets — What Kaspersky Found and How to Check If You're a Target, framed for investors worried about custody risk.",
+        "itsalreadywhen": "Inside the Malware Framework Draining Crypto Wallets: A Technical Breakdown of the Infection Chain for Defenders and SOC teams."
+      },
+      "source": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Allbridge Core cross-chain bridge exploited for $1.65M via flash loan, protocol paused",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Allbridge Halts After $1.65M Flash-Loan Hit — What It Means for Cross-Chain Bridge Risk Right Now, with a market lens on which bridges are next most exposed.",
+        "itsalreadywhen": "Flash Loan Exploit 101: Breaking Down the Allbridge Attack Step-by-Step for a security-practitioner audience wanting the mechanics, not the price talk."
+      },
+      "source": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit"
     }
   ]
 }

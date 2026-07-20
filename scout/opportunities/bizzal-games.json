@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-19T11:24:56+00:00",
+  "generated": "2026-07-20T11:56:11+00:00",
   "opportunities": [
     {
-      "title": "Godzilla Stats for Your Table: Running a Kaiju Without Breaking Legendary Resistance",
-      "why_now": "Marvel Multiverse RPG just added an official Godzilla stat block, giving a hard data point to compare against how 5e/Shadowdark handle city-scale monsters.",
-      "angle": "Rules ruling short: break down how to scale a kaiju's action economy, damage thresholds, and 'ignore this or the fight ends in one round' legendary resistance math for 5e/DCC.",
+      "title": "Godzilla Just Joined a d20 Game — Here's Why Your Kaiju Stat Blocks Still Suck",
+      "why_now": "Marvel Multiverse RPG's Godzilla announcement gives a hook to rip apart lazy legendary-action design and show the fix.",
+      "angle": "Creature tactic short: build a proper kaiju using legendary resistance, lair actions, and a scaled saving throw DC, then reflavor for 5e/Shadowdark",
       "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
     },
     {
-      "title": "Fallout 5 Is Coming — Here's the 5e Ruling for Radiation Poisoning Nobody Uses Right",
-      "why_now": "Bethesda just confirmed Fallout 3/NV remasters and Fallout 5 pre-production, reviving post-apoc RPG interest right when tables are hacking wasteland one-shots.",
-      "angle": "Mechanical breakdown: how to actually run radiation/mutation exhaustion tracks in 5e or DCC without homebrewing a whole new subsystem, cite Gamma World/MCC precedent.",
-      "source": "https://www.rpgsite.net/news/20934-fallout-3-new-vegas-remaster-fallout-5-announcement-bethesda"
+      "title": "Sly Flourish's 'Adventure Types' Are Missing the One That Actually Kills Sessions",
+      "why_now": "Fresh Rise of the Lazy Gamemaster breakdown just dropped, ripe for a veteran-GM counterpoint before it gets stale.",
+      "angle": "Dry rebuttal/ruling short: name the missing adventure type (the logistics/travel grind) and give a one-line fix GMs can use tonight",
+      "source": "https://slyflourish.com/adventure_types_in_rise.html?rss=1"
     },
     {
-      "title": "Professor Dungeon Master Just Talked Deathbringer — Here's the DCC Ruling He Skipped",
-      "why_now": "PDM's interview on Deathbringer is fresh OSR/DCC-adjacent news this week and the audience overlaps hard with a DCC-focused shorts channel.",
-      "angle": "Wry commentary short reacting to a specific ruling/mechanic from the interview, correcting or expanding on it in classic dry-GM voice.",
+      "title": "Deathbringer RPG's Death Rule vs. 5e Death Saves: Which One Actually Kills PCs?",
+      "why_now": "Professor Dungeon Master's interview on Deathbringer just published, giving a timely comparison point for a crunchy system-vs-system take.",
+      "angle": "Rules ruling short: walk through Deathbringer's death mechanic, then show the 5e death-save loophole it exposes",
       "source": "https://www.enworld.org/threads/professor-dungeon-master-talks-deathbringer.719906/"
     },
     {
-      "title": "Monte Cook Is Adapting Between Earth and Sky — Here's Why Fiction-to-Crunch Conversions Usually Break",
-      "why_now": "MCG just announced the Between Earth and Sky novel-to-TTRPG deal, a timely hook for talking about the mechanical pitfalls of adapting prose worldbuilding into stat blocks.",
-      "angle": "Veteran-GM teardown: pick one iconic novel creature/power and show the ruling/spell-use-case translation into game terms, using this as the case study.",
-      "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
+      "title": "Arcana Unleashed's New Backgrounds: One Feature Worth Stealing, Rest Is Filler",
+      "why_now": "Podcast #406 just teased Arcana Unleashed's background overhaul, timely for a quick verdict before the book drops.",
+      "angle": "Spell/feature use-case short: isolate the single background feature with real mechanical teeth and show a table it actually helps",
+      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     },
     {
-      "title": "Lies of P's Puppet Hero Is a Better Warforged Than Your Warforged",
-      "why_now": "Lies of P: Complete Edition's Switch 2 trailer is trending this week, giving a pop-culture hook to talk about construct-race rulings that GMs constantly get wrong.",
-      "angle": "Creature/race tactic short: correct immunities (poison, exhaustion, sleep) and social-interaction edge cases for construct PCs in 5e/Shadowdark using Lies of P as the reference image.",
-      "source": "https://www.rpgsite.net/news/20937-lies-of-p-complete-edition-switch-2-60fps-trailer"
+      "title": "The $500 Deadfall Box Set Has One Mechanic Worth Ripping Off For Free",
+      "why_now": "The Deadfall box set just got livestreamed at $500, so audiences want to know what's actually inside before dismissing it as a cash grab.",
+      "angle": "Dry veteran-GM teardown: pull one usable subsystem (e.g., a faction/downtime mechanic) and show how to bolt it onto 5e/DCC without buying the box",
+      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     }
   ]
 }

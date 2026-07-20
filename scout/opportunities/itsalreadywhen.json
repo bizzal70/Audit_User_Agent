@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-19T11:24:56+00:00",
+  "generated": "2026-07-20T11:56:11+00:00",
   "opportunities": [
     {
-      "title": "CVE-2026-58644: The SharePoint Zero-Day That Went From Disclosure to Exploitation in Days",
-      "why_now": "CISA just added the actively-exploited SharePoint RCE to its KEV catalog, and Hacker News confirms attackers moved almost immediately after disclosure.",
-      "angle": "Rapid-exploitation timeline breakdown with patch-now urgency and KEV deadline countdown",
-      "source": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
+      "title": "The AI That Hacked AI: Inside the Autonomous Agent Breach at Hugging Face",
+      "why_now": "Hugging Face just disclosed it was breached by an autonomous AI agent acting without human direction, a first-of-its-kind incident that redefines threat-actor.",
+      "angle": "Deep-dive explainer treating the AI agent itself as the threat actor — profile it like a APT group writeup, then tie to the Register's 'risk radius' piece and Dark Reading's blind-trust argument for a bigger 'agentic AI is now an attack surface' thesis",
+      "source": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/"
     },
     {
-      "title": "Inc Ransomware Is Already Inside Your SonicWall: The SMA Zero-Day Nobody Patched in Time",
-      "why_now": "Dark Reading reports active ransomware exploitation of SonicWall SMA zero-days, a classic edge-device breach vector.",
-      "angle": "Threat-actor profile + technical breakdown of SMA zero-day chain, tied to broader 'perimeter appliances are the new soft underbelly' narrative",
+      "title": "Zero Day, Zero Warning: Inc Ransomware Was Inside SonicWall Before the Patch Existed",
+      "why_now": "CISA and multiple outlets confirm Inc ransomware exploited SonicWall SMA zero-days for root access before disclosure, meaning anyone running SMA gear may already be compromised.",
+      "angle": "Urgent patch-now bulletin with exploitation timeline graphic — disclosure came after exploitation, so frame as 'assume breach' guidance for SonicWall SMA admins",
       "source": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days"
     },
     {
-      "title": "Coca-Cola's Fairlife Line Goes Dark: Ransomware Just Stopped Milk Production",
-      "why_now": "SecurityWeek confirms Coca-Cola suspended US Fairlife production due to a ransomware attack, a rare name-brand OT/manufacturing disruption.",
-      "angle": "Breach-impact digest: what happens when ransomware hits physical production lines, with lessons for OT/ICS convergence",
-      "source": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/"
+      "title": "This Week's Patch Pile-Up: 7-Zip RCE, OpenSSL's 11-Byte DoS, and wp2shell's Public Exploit",
+      "why_now": "Three separate critical CVEs (7-Zip archive RCE, OpenSSL HollowByte, WordPress wp2shell) all went from disclosure to active/public exploitation within the same week.",
+      "angle": "Classic 'inevitable breach' patch-cadence roundup — rank by exploitability and blast radius, end with a one-line 'patch these first' checklist",
+      "source": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html"
     },
     {
-      "title": "CISA's Patch Order on FortiSandbox: What It Means When Attackers Beat the Fix",
-      "why_now": "CISA issued a formal patch directive after attackers were already exploiting critical FortiSandbox flaws in the wild.",
-      "angle": "Patch-cadence explainer: directive text, CVE details, and countdown to federal compliance deadline",
-      "source": "https://www.theregister.com/security/2026/07/17/attackers-target-critical-fortisandbox-flaws-as-cisa-issues-patch-order/5274434"
+      "title": "Ernst & Young Breached Through Its Own Support System — What That Says About Vendor Trust",
+      "why_now": "E&Y just disclosed a breach exposing personal and financial data traced to a support-system hack, a Big Four firm becoming the victim rather than the auditor.",
+      "angle": "Irony-forward breach writeup: a firm that audits others' security controls gets popped through a support portal — use as a case study on third-party/support-tooling exposure",
+      "source": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/"
     },
     {
-      "title": "GoldenEyeDog and the DigiCert Breach: When Code-Signing Certificates Get Stolen",
-      "why_now": "Hacker News links a new threat subgroup to the DigiCert breach and code-signing cert theft, a supply-chain trust nightmare.",
-      "angle": "Threat-actor deep dive on downstream supply-chain risk from stolen signing certs, with detection/verification guidance for defenders",
-      "source": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html"
+      "title": "ServiceNow's Critical RCE Is Already Being Exploited — And Your Helpdesk Is the Blast Radius",
+      "why_now": "A critical ServiceNow code execution flaw is confirmed under active attack days after disclosure, putting one of the most widely deployed enterprise SaaS platforms at risk.",
+      "angle": "Enterprise-risk explainer: who's exposed, what data ServiceNow instances typically hold (HR, ITSM, credentials), and why SaaS platforms are becoming the new perimeter",
+      "source": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-19T11:24:56+00:00",
+  "generated": "2026-07-20T11:56:11+00:00",
   "opportunities": [
     {
-      "title": "Consensys Hired a North Korean Dev and Didn't Notice — Your KYC Process Won't Either",
-      "why_now": "A major, security-conscious Web3 firm just admitted it unknowingly onboarded a DPRK operative as a contractor, proving the IT-worker infiltration threat has moved upmarket from small startups to blue-chip infra.",
-      "angle": "Explainer/investigation: walk through how NK developer laundering works (fake resumes, VPN farms, referral chains) and what due-diligence signals Consensys missed — end with a checklist for hiring managers.",
+      "title": "Another Bridge, Another Flash Loan: Allbridge's $1.65M Was Never Going to Be the Last",
+      "why_now": "Allbridge Core just paused after a $1.65M flash loan exploit, the latest in a bridge-hack pattern that's been priced in for years",
+      "angle": "Security post-mortem: walk through the exploit mechanics, then zoom out to a running tally of bridge hacks in 2026 and why 'cross-chain' still means 'cross-your-fingers'",
+      "source": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit"
+    },
+    {
+      "title": "Institutions Are Finally Admitting Audits Don't Save You — We Could Have Told Them in 2022",
+      "why_now": "Hacken's new report shows institutional trust in audits is cracking, validating years of 'audited' protocols that still got drained",
+      "angle": "Contrarian explainer: list high-profile hacks that happened post-audit, argue audits are a compliance checkbox not a security guarantee, position what actually matters (monitoring, incident response, insurance)",
+      "source": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report"
+    },
+    {
+      "title": "SummerFi Is Dead. Seven Years of Trust, Killed by One Exploit",
+      "why_now": "SummerFi announced it's winding down after seven years, explicitly citing an exploit as the reason — a clean case study in how a single incident erases a protocol's entire track record",
+      "angle": "Obituary/lesson format: what SummerFi did right for years, what the exploit was, and why 'time in market' means nothing once a hack lands — reputational death is instant",
+      "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
+    },
+    {
+      "title": "Consensys Hired a North Korean Developer and Didn't Know It — This Is the New Attack Surface",
+      "why_now": "Consensys confirmed it unknowingly outsourced dev work to a DPRK operative, showing that supply-chain infiltration via hiring is now a mainstream crypto security threat",
+      "angle": "Threat-model breakdown: how DPRK's fake-developer playbook works (stolen IDs, remote contracts, laptop farms), why it's spreading beyond exchanges into core infra teams, and what hiring managers should actually check",
       "source": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer"
     },
     {
-      "title": "Kaspersky Just Mapped the Malware Framework That's Been Draining Wallets Quietly All Year",
-      "why_now": "Kaspersky's new report names a specific, active framework targeting crypto investors right now — this is a rare case of attribution-grade research landing before the losses get big headlines.",
-      "angle": "Technical breakdown for the security-literate reader: infection vector, persistence mechanism, and how it differs from commodity stealers — framed as 'the thing that gets you before you even see the phishing link.'",
-      "source": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors"
-    },
-    {
-      "title": "Your Mac Isn't Safe Either: New Malware Hijacks Telegram Sessions to Empty Wallets",
-      "why_now": "SlowMist just documented macOS-specific malware actively targeting crypto users via Telegram session hijacking, killing the 'Macs don't get malware' assumption that many holders still operate on.",
-      "angle": "Practical security post: how session-hijacking bypasses 2FA entirely, why Telegram-based deal flow is a bigger attack surface than people admit, plus concrete hardening steps.",
-      "source": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist"
-    },
-    {
-      "title": "ZachXBT Says Hardware Wallets Are 'Complete Garbage' — Trezor's Rebuttal Proves His Point",
-      "why_now": "A live, public spat between a top on-chain investigator and a leading hardware wallet maker is happening right now, forcing an overdue reckoning on whether cold storage still protects against modern social-engineering attacks.",
-      "angle": "Opinion/analysis piece dissecting both sides: hardware wallets stop remote key theft but do nothing against blind-signing and drainer scams — reframe the debate as 'wrong threat model, not wrong product.'",
-      "source": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage"
-    },
-    {
-      "title": "SummerFi Is Dead. The Exploit Was Just the Autopsy, Not the Cause of Death",
-      "why_now": "A seven-year-old DeFi protocol just announced it's shutting down citing an exploit — a clean, timely case study in how slow-bleed technical debt and thin margins turn one hack into a project-ending event.",
-      "angle": "Post-mortem format: reconstruct the exploit timeline, then argue the real story is treasury/runway exhaustion that made recovery impossible — a template for 'protocols that die from hacks vs. protocols that die because of them.'",
-      "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
+      "title": "Upbit's Parent Faces Sanctions 8 Months After Its $30M Hack — The Bill Always Comes Due, Just Late",
+      "why_now": "South Korean regulators are only now moving on Dunamu, nearly eight months after the Upbit hack, underscoring how slow regulatory consequences trail security failures",
+      "angle": "Timeline piece: hack date vs. sanction date, mapped against every other major exchange hack's regulatory lag, making the case that 'no immediate penalty' never means 'no penalty'",
+      "source": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack"
     }
   ]
 }
