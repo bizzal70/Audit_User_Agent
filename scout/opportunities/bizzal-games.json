@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-20T11:56:11+00:00",
+  "generated": "2026-07-21T11:35:51+00:00",
   "opportunities": [
     {
-      "title": "Godzilla Just Joined a d20 Game — Here's Why Your Kaiju Stat Blocks Still Suck",
-      "why_now": "Marvel Multiverse RPG's Godzilla announcement gives a hook to rip apart lazy legendary-action design and show the fix.",
-      "angle": "Creature tactic short: build a proper kaiju using legendary resistance, lair actions, and a scaled saving throw DC, then reflavor for 5e/Shadowdark",
-      "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
+      "title": "Godzilla-Sized Ruling: How to Actually Run a Kaiju in 5e Without Melting the Table",
+      "why_now": "EN World's podcast just teased a Godzilla RPG tie-in, giving a hook to break down giant-creature mechanics in mainline 5e.",
+      "angle": "60-sec 'creature tactic' short: convert a kaiju stat block using legendary actions + lair effects, show the one ruling that keeps it from one-shotting the party.",
+      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     },
     {
-      "title": "Sly Flourish's 'Adventure Types' Are Missing the One That Actually Kills Sessions",
-      "why_now": "Fresh Rise of the Lazy Gamemaster breakdown just dropped, ripe for a veteran-GM counterpoint before it gets stale.",
-      "angle": "Dry rebuttal/ruling short: name the missing adventure type (the logistics/travel grind) and give a one-line fix GMs can use tonight",
+      "title": "The One Background Rule Everyone Houserules Wrong",
+      "why_now": "Arcana Unleashed's new background reveal just dropped, making backgrounds a hot topic right now.",
+      "angle": "Dry rules-ruling short: pick the most-abused background feature (e.g., Guild Artisan free lodging) and show the RAW limit vs. the common misplay.",
+      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
+    },
+    {
+      "title": "Free Adventure Autopsy: Is This Week's EN World Freebie Actually Runnable?",
+      "why_now": "The July 19 freebies/sales roundup just posted, giving a fresh, time-limited product to react to before the sale window closes.",
+      "angle": "Quick verdict format: grab one free module from the list, show one encounter's stat block, flag the one thing you'd fix before running it tonight.",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-july-19-2026.719969/"
+    },
+    {
+      "title": "Why 'Kid-Friendly Mayhem' Still Needs a Death Save",
+      "why_now": "EN World's 'Spoonful of Sugar' piece on softening mayhem for younger tables is fresh and lets you take a hard mechanical stance against fluffing consequences.",
+      "angle": "Wry GM-veteran take: show how to keep stakes real (failed saves, resource drain) while trimming gore — one concrete house rule, not a vibe.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-a-spoonful-of-sugar-helps-the-mayhem-go-down.719758/"
+    },
+    {
+      "title": "Sly Flourish's Adventure Types, Graded: Which One Actually Saves You Prep Time",
+      "why_now": "Sly Flourish just published a fresh breakdown of adventure types from Rise of the Lazy Gamemaster, a core reference for prep-lite GMs.",
+      "angle": "Mechanical comparison short: pick two adventure types from the article, run the math on prep-minutes-saved vs. player agency lost.",
       "source": "https://slyflourish.com/adventure_types_in_rise.html?rss=1"
-    },
-    {
-      "title": "Deathbringer RPG's Death Rule vs. 5e Death Saves: Which One Actually Kills PCs?",
-      "why_now": "Professor Dungeon Master's interview on Deathbringer just published, giving a timely comparison point for a crunchy system-vs-system take.",
-      "angle": "Rules ruling short: walk through Deathbringer's death mechanic, then show the 5e death-save loophole it exposes",
-      "source": "https://www.enworld.org/threads/professor-dungeon-master-talks-deathbringer.719906/"
-    },
-    {
-      "title": "Arcana Unleashed's New Backgrounds: One Feature Worth Stealing, Rest Is Filler",
-      "why_now": "Podcast #406 just teased Arcana Unleashed's background overhaul, timely for a quick verdict before the book drops.",
-      "angle": "Spell/feature use-case short: isolate the single background feature with real mechanical teeth and show a table it actually helps",
-      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
-    },
-    {
-      "title": "The $500 Deadfall Box Set Has One Mechanic Worth Ripping Off For Free",
-      "why_now": "The Deadfall box set just got livestreamed at $500, so audiences want to know what's actually inside before dismissing it as a cash grab.",
-      "angle": "Dry veteran-GM teardown: pull one usable subsystem (e.g., a faction/downtime mechanic) and show how to bolt it onto 5e/DCC without buying the box",
-      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     }
   ]
 }

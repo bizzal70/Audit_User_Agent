@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-20T11:56:11+00:00",
+  "generated": "2026-07-21T11:35:51+00:00",
   "opportunities": [
     {
-      "title": "The AI That Hacked AI: Inside the Autonomous Agent Breach at Hugging Face",
-      "why_now": "Hugging Face just disclosed it was breached by an autonomous AI agent acting without human direction, a first-of-its-kind incident that redefines threat-actor.",
-      "angle": "Deep-dive explainer treating the AI agent itself as the threat actor — profile it like a APT group writeup, then tie to the Register's 'risk radius' piece and Dark Reading's blind-trust argument for a bigger 'agentic AI is now an attack surface' thesis",
-      "source": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/"
+      "title": "WP2Shell: The WordPress RCE That's Turning Millions of Sites Into Botnet Fodder",
+      "why_now": "A critical WordPress vulnerability is being mass-exploited right now, with both The Register and Dark Reading confirming millions of sites at risk and public exploit code fueling scanning.",
+      "angle": "Breach-digest explainer: what WP2Shell does, who's exploiting it, and a patch-now checklist for site admins",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover"
     },
     {
-      "title": "Zero Day, Zero Warning: Inc Ransomware Was Inside SonicWall Before the Patch Existed",
-      "why_now": "CISA and multiple outlets confirm Inc ransomware exploited SonicWall SMA zero-days for root access before disclosure, meaning anyone running SMA gear may already be compromised.",
-      "angle": "Urgent patch-now bulletin with exploitation timeline graphic — disclosure came after exploitation, so frame as 'assume breach' guidance for SonicWall SMA admins",
-      "source": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days"
+      "title": "SonicWall Knew for Weeks: Zero-Days Delivered Custom Malware Before a Patch Existed",
+      "why_now": "SecurityWeek and Bleeping Computer both confirm SonicWall SMA1000 zero-days were actively weaponized with bespoke malware ahead of any fix, a textbook patch-cadence failure.",
+      "angle": "Timeline piece charting exploit-to-patch gap, framed as the 'inevitable breach' case study of the week",
+      "source": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/"
     },
     {
-      "title": "This Week's Patch Pile-Up: 7-Zip RCE, OpenSSL's 11-Byte DoS, and wp2shell's Public Exploit",
-      "why_now": "Three separate critical CVEs (7-Zip archive RCE, OpenSSL HollowByte, WordPress wp2shell) all went from disclosure to active/public exploitation within the same week.",
-      "angle": "Classic 'inevitable breach' patch-cadence roundup — rank by exploitability and blast radius, end with a one-line 'patch these first' checklist",
-      "source": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html"
+      "title": "Qilin Ransomware Is Already Inside Your Palo Alto VPN",
+      "why_now": "A critical GlobalProtect VPN bug is being actively exploited by the Qilin ransomware gang, per Bleeping Computer, making this an urgent enterprise patch alert.",
+      "angle": "Rapid-fire CVE alert: affected versions, IOCs, and why VPN edge devices remain ransomware's favorite door",
+      "source": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/"
     },
     {
-      "title": "Ernst & Young Breached Through Its Own Support System — What That Says About Vendor Trust",
-      "why_now": "E&Y just disclosed a breach exposing personal and financial data traced to a support-system hack, a Big Four firm becoming the victim rather than the auditor.",
-      "angle": "Irony-forward breach writeup: a firm that audits others' security controls gets popped through a support portal — use as a case study on third-party/support-tooling exposure",
-      "source": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/"
+      "title": "Days, Not Months: ServiceNow Vuln Goes From Disclosure to Exploitation at Record Speed",
+      "why_now": "SecurityWeek and The Hacker News both report active exploitation of a ServiceNow AI Platform flaw within days of disclosure, underscoring the shrinking patch window.",
+      "angle": "Data-driven piece on exploitation-speed trends (SonicWall, ServiceNow, WordPress all this week) as proof patch cadence is losing the race",
+      "source": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/"
     },
     {
-      "title": "ServiceNow's Critical RCE Is Already Being Exploited — And Your Helpdesk Is the Blast Radius",
-      "why_now": "A critical ServiceNow code execution flaw is confirmed under active attack days after disclosure, putting one of the most widely deployed enterprise SaaS platforms at risk.",
-      "angle": "Enterprise-risk explainer: who's exposed, what data ServiceNow instances typically hold (HR, ITSM, credentials), and why SaaS platforms are becoming the new perimeter",
-      "source": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/"
+      "title": "Estée Lauder's Oracle EBS Breach Is the Zero-Day Bill Coming Due",
+      "why_now": "Estée Lauder just disclosed customer/employee data impact from the Oracle E-Business Suite zero-day, adding a marquee name to the growing victim list from this campaign.",
+      "angle": "Named-victim breach recap tying Estée Lauder to the wider Oracle EBS zero-day wave, with a running tally of confirmed victims",
+      "source": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/"
     }
   ]
 }

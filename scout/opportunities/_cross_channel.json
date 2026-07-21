@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-20T11:56:11+00:00",
+  "generated": "2026-07-21T11:35:51+00:00",
   "plays": [
     {
-      "story": "Godzilla joins the Marvel Multiverse Roleplaying Game line",
+      "story": "EN World's Podcast #406 livestream covers a $500 Deadfall box set, new Arcana Unleashed backgrounds, the Deathbringer RPG launch, and a Godzilla RPG tie-in — a grab-bag of premium releases and lore drops for GMs to dig into.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Godzilla Stomps Into Marvel Multiverse RPG: We Break Down the Kaiju-Scale Stat Block and How to Steal It for Any System — mechanics-first look at scaling a 300-ft monster for tabletop encounters, plus GM tips for running mass destruction without breaking your table.",
-        "itsalreadywritten": "From Toho to Tabletop: What the Godzilla/Marvel Multiverse Crossover Reveals About Licensed-IP Worldbuilding — an angle on how two massive, decades-old fictional universes get stitched into one canon, and what writers can learn from the lore reconciliation."
+        "bizzal-games": "Product roundup hook: 'This Week's TTRPG Drops: A $500 Deadfall Box Set, Godzilla Stomps the Tabletop, and Deathbringer RPG Debuts' — break down what's actually in the premium box, whether it's worth the price tag, and how the new systems stack up against existing crunch.",
+        "itsalreadywritten": "Narrative-craft angle: 'Arcana Unleashed's New Backgrounds Are Basically Free Character Backstories — Here's How to Steal Them' — mine the new backgrounds and Deathbringer's setting lore for ready-made hooks GMs can drop straight into a campaign."
       },
-      "source": "https://www.enworld.org/threads/godzilla-comes-to-marvel-multiverse-roleplaying.719952/"
+      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     },
     {
-      "story": "Monte Cook Games adapts the Between Earth and Sky novels into a TTRPG setting",
+      "story": "Sly Flourish's 'Adventure Types in Rise of the Lazy Gamemaster' breaks down the structural categories of adventures GMs run, from dungeon crawls to mystery arcs.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Monte Cook Games Turns Between Earth and Sky Into a Playable World — First Look at the New Mechanics and Character Options coming out of the novel adaptation.",
-        "itsalreadywritten": "When Novels Become Numbers: How Between Earth and Sky's Prose Gets Translated Into Dice, Classes, and Lore Sidebars — a piece on the craft of adapting literary fiction into a game bible."
+        "bizzal-games": "Toolkit hook: 'The 5 Adventure Types Every Lazy GM Needs in Their Back Pocket' — turn Sly Flourish's framework into a practical, skimmable cheat sheet for prepping faster sessions.",
+        "itsalreadywritten": "Craft-analysis angle: 'What Published Adventures Get Wrong (and Right) About Structure' — use the adventure-type breakdown to critique how commercial modules are actually written and where homebrew GMs can outdo them."
       },
-      "source": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/"
+      "source": "https://slyflourish.com/adventure_types_in_rise.html?rss=1"
     },
     {
-      "story": "Kaspersky identifies a new malware framework specifically targeting crypto investors",
+      "story": "Cross-chain bridge Allbridge paused operations after a $1.65M exploit, the latest in a string of DeFi infrastructure hacks this week.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "New Malware Framework Is Hunting Crypto Wallets — What Kaspersky Found and How to Check If You're a Target, framed for investors worried about custody risk.",
-        "itsalreadywhen": "Inside the Malware Framework Draining Crypto Wallets: A Technical Breakdown of the Infection Chain for Defenders and SOC teams."
+        "itsalreadypriced": "Market angle: 'Allbridge's $1.65M Hack Freezes Cross-Chain Transfers — What It Means for Tokens Stuck Mid-Bridge' — cover liquidity fallout, which assets are exposed, and how bridge risk should factor into cross-chain price plays.",
+        "itsalreadywhen": "Technical post-mortem angle: 'Inside the Allbridge Exploit: How Attackers Found the Gap Before Auditors Did' — walk through the attack vector and what it says about bridge security review timelines."
       },
-      "source": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "Allbridge Core cross-chain bridge exploited for $1.65M via flash loan, protocol paused",
+      "story": "A NEAR co-founder warns that AI-assisted hacking is now outpacing traditional code review processes in crypto/web3 security.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Allbridge Halts After $1.65M Flash-Loan Hit — What It Means for Cross-Chain Bridge Risk Right Now, with a market lens on which bridges are next most exposed.",
-        "itsalreadywhen": "Flash Loan Exploit 101: Breaking Down the Allbridge Attack Step-by-Step for a security-practitioner audience wanting the mechanics, not the price talk."
+        "itsalreadypriced": "Investor-risk angle: 'AI Hackers Are Outrunning Crypto Audits, Says NEAR Co-Founder — What That Means for Your Portfolio' — translate the warning into concrete due-diligence advice for holders of audited-but-vulnerable protocols.",
+        "itsalreadywhen": "Security-ops angle: 'AI vs. Auditors: Why Manual Code Review Can't Keep Up With AI-Generated Exploits' — dig into the mechanics of AI-assisted vulnerability discovery and what defenders need to change."
       },
-      "source": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit"
+      "source": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss"
     }
   ]
 }

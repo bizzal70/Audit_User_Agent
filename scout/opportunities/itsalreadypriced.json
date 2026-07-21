@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-20T11:56:11+00:00",
+  "generated": "2026-07-21T11:35:51+00:00",
   "opportunities": [
     {
-      "title": "Another Bridge, Another Flash Loan: Allbridge's $1.65M Was Never Going to Be the Last",
-      "why_now": "Allbridge Core just paused after a $1.65M flash loan exploit, the latest in a bridge-hack pattern that's been priced in for years",
-      "angle": "Security post-mortem: walk through the exploit mechanics, then zoom out to a running tally of bridge hacks in 2026 and why 'cross-chain' still means 'cross-your-fingers'",
-      "source": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit"
+      "title": "Allbridge Gets Bridged Again: $1.65M Later, Nobody's Surprised",
+      "why_now": "Another cross-chain bridge exploit hits days after the last one, confirming bridges remain the industry's weakest link.",
+      "angle": "Post-mortem breakdown of the exploit mechanics + a running tally of 2026 bridge hacks, ending with 'we told you so' tone",
+      "source": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Institutions Are Finally Admitting Audits Don't Save You — We Could Have Told Them in 2022",
-      "why_now": "Hacken's new report shows institutional trust in audits is cracking, validating years of 'audited' protocols that still got drained",
-      "angle": "Contrarian explainer: list high-profile hacks that happened post-audit, argue audits are a compliance checkbox not a security guarantee, position what actually matters (monitoring, incident response, insurance)",
-      "source": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report"
+      "title": "Audits Were Always Theater — Institutions Finally Admit It",
+      "why_now": "Hacken's new report shows institutional trust in audits is collapsing just as bridge and DeFi exploits keep piling up.",
+      "angle": "Analysis piece dissecting why point-in-time audits fail against live exploits, framed as vindication for security-first skeptics",
+      "source": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "SummerFi Is Dead. Seven Years of Trust, Killed by One Exploit",
-      "why_now": "SummerFi announced it's winding down after seven years, explicitly citing an exploit as the reason — a clean case study in how a single incident erases a protocol's entire track record",
-      "angle": "Obituary/lesson format: what SummerFi did right for years, what the exploit was, and why 'time in market' means nothing once a hack lands — reputational death is instant",
+      "title": "SummerFi Didn't Retire — It Got Exploited to Death",
+      "why_now": "A seven-year-old DeFi protocol is shutting down and citing an exploit as the reason, a rare admission of the real endgame for hacked projects.",
+      "angle": "Obituary-style breakdown of SummerFi's collapse as a case study in how exploits quietly kill protocols long after headlines fade",
       "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
     },
     {
-      "title": "Consensys Hired a North Korean Developer and Didn't Know It — This Is the New Attack Surface",
-      "why_now": "Consensys confirmed it unknowingly outsourced dev work to a DPRK operative, showing that supply-chain infiltration via hiring is now a mainstream crypto security threat",
-      "angle": "Threat-model breakdown: how DPRK's fake-developer playbook works (stolen IDs, remote contracts, laptop farms), why it's spreading beyond exchanges into core infra teams, and what hiring managers should actually check",
-      "source": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer"
+      "title": "Kaspersky Just Mapped the Malware Framework Coming for Your Wallet",
+      "why_now": "A named, structured malware framework specifically targeting crypto investors is a rare concrete IOC drop worth dissecting before it spreads further.",
+      "angle": "Technical explainer on the malware's attack chain with practical wallet-hygiene takeaways, security-nerd bait",
+      "source": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Upbit's Parent Faces Sanctions 8 Months After Its $30M Hack — The Bill Always Comes Due, Just Late",
-      "why_now": "South Korean regulators are only now moving on Dunamu, nearly eight months after the Upbit hack, underscoring how slow regulatory consequences trail security failures",
-      "angle": "Timeline piece: hack date vs. sanction date, mapped against every other major exchange hack's regulatory lag, making the case that 'no immediate penalty' never means 'no penalty'",
-      "source": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack"
+      "title": "AI Is Writing Exploits Faster Than Your Auditors Can Read Code",
+      "why_now": "A NEAR co-founder is publicly warning that AI-assisted hacking now outpaces manual code review, a structural shift in the threat model.",
+      "angle": "Opinion/analysis on what AI-accelerated exploit discovery means for audit cadence and bug bounty economics going forward",
+      "source": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss"
     }
   ]
 }
