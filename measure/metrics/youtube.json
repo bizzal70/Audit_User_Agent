@@ -806,5 +806,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "videos": [
+      {
+        "id": "r5c5W-kWLDI",
+        "title": "Summoners' hit dice balance durability",
+        "published": "2026-07-20",
+        "views": 36,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "aaxltSAGJzg",
+        "title": "Summoners' Conjurer's Gift allows extra creature",
+        "published": "2026-07-20",
+        "views": 11,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "BHX0I5dEuys",
+        "title": "Summoners Consume Spell Slot on Failed Summon",
+        "published": "2026-07-20",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "KzxPM9JbqzA",
+        "title": "Deathbringer's Dice Mechanics: Multiple Rolls, Best Result",
+        "published": "2026-07-19",
+        "views": 8,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "3fuBqFwAU6I",
+        "title": "Deathbringer's Mighty Deeds scale with character level",
+        "published": "2026-07-19",
+        "views": 1268,
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "25YmGgsgzoo",
+        "title": "Deathbringer's Luck boosts must be used quickly",
+        "published": "2026-07-19",
+        "views": 205,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "60B2q3darKI",
+        "title": "Deathbringer's dice allow multiple rolls, best result",
+        "published": "2026-07-19",
+        "views": 139,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "rKFb1kxrUZg",
+        "title": "Spell Casting Check consumes the slot on failure",
+        "published": "2026-07-18",
+        "views": 65,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "9vsHvX0AE4A",
+        "title": "Barrier Tattoo only works without armor",
+        "published": "2026-07-18",
+        "views": 370,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "ag5R075YRb8",
+        "title": "Two-Weapon Fighting uses smaller dice along the dice",
+        "published": "2026-07-18",
+        "views": 364,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "967ZX_gNpng",
+        "title": "Assassin looks harmless",
+        "published": "2026-07-17",
+        "views": 10,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "JYftz0TNIzw",
+        "title": "Unseen Attackers and Targets impose Disadvantage on",
+        "published": "2026-07-17",
+        "views": 91,
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   }
 ]
