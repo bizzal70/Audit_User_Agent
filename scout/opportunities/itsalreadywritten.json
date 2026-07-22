@@ -1,34 +1,34 @@
 {
-  "generated": "2026-07-21T11:35:51+00:00",
+  "generated": "2026-07-22T11:35:57+00:00",
   "opportunities": [
     {
-      "title": "Deathbringer RPG: What Are the Actual Rules? (Not Just the Vibe)",
-      "why_now": "Deathbringer RPG was just revealed on EN World's Podcast #406 livestream, giving us the first look at its system before hype outpaces facts.",
-      "angle": "Rules-first breakdown post: pull every confirmed mechanic, tag what's still unknown, and challenge readers to spot the gaps between marketing copy and actual rules text.",
+      "title": "2300 AD Is Back: What the New Print Edition Actually Changes in the Rules",
+      "why_now": "Fresh print-news roundup confirms 2300 AD's return, giving rules-first readers a concrete new ruleset to dissect before hype outpaces facts.",
+      "angle": "Mechanics breakdown post comparing new 2300 AD print rules to prior editions, sourced directly from the announcement",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-amazing-adventures-2300-ad-cloud-empress-and-more.719973/"
+    },
+    {
+      "title": "Deathbringer RPG and the $500 Deadfall Box Set: Reading the Rules Behind the Price Tag",
+      "why_now": "Podcast #406 just previewed two very different new systems, giving an easy 'what you actually get for the rules' comparison while curiosity is high.",
+      "angle": "Side-by-side rules/value analysis: premium box set crunch vs. Deathbringer's core mechanics, X thread with a blog follow-up",
       "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     },
     {
-      "title": "Arcana Unleashed's New Backgrounds: What They Actually Do at the Table",
-      "why_now": "Arcana Unleashed backgrounds were just teased in the same podcast, and background subsystems are exactly the kind of crunch this channel dissects.",
-      "angle": "Mechanics-first thread: list each background's stated benefit, flag any that duplicate existing feats/skills, and rate them by rules impact vs. flavor text.",
+      "title": "Arcana Unleashed's New Backgrounds: The Actual Rules Text, Annotated",
+      "why_now": "New background rules were just revealed on the livestream, and system-crunch readers want the exact wording before opinions flood in.",
+      "angle": "Rules-first annotation post: quote the background mechanics verbatim, flag design intent and edge cases",
       "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     },
     {
-      "title": "The $500 Deadfall Box Set: Pricing the Rules, Not the Minis",
-      "why_now": "A $500 box set announcement is a rare price point that demands a hard look at what rules content actually justifies the cost.",
-      "angle": "Cost-per-rule analysis: break down what's actually new mechanically vs. what's just premium components, with a verdict on value for GMs who care about crunch.",
-      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
-    },
-    {
-      "title": "Sly Flourish's 'Adventure Types' Aren't New — Here's Where They're Already Written",
-      "why_now": "Sly Flourish just published a fresh taxonomy of adventure types from Rise of the Lazy Gamemaster, prime territory for a rules-literalist cross-check.",
-      "angle": "Rebuttal/companion post: match each named adventure type to existing published rules structures (D&D DMG, other systems) to show the framework isn't new, just newly labeled.",
+      "title": "Sly Flourish's Adventure Types, Formalized: A Rules-Reader's Taxonomy for GMs",
+      "why_now": "Sly Flourish just published a framework for adventure structures, prime material to convert into a definitive reference the beat's audience will bookmark.",
+      "angle": "Turn the analysis into a structured 'rules of adventure design' reference table with sourcing/attribution",
       "source": "https://slyflourish.com/adventure_types_in_rise.html?rss=1"
     },
     {
-      "title": "This Week's Free & Discounted TTRPGs: Ranked by Rules Density",
-      "why_now": "EN World's July 19 freebies/sales/charity bundle roundup just dropped, and most 'best of' lists ignore actual mechanical depth.",
-      "angle": "Curated ranking: sort the bundle's contents by crunch level (rules-light to rules-heavy) so readers can pick based on system complexity, not just price.",
+      "title": "This Week's Free & Discounted Rulebooks Worth Actually Reading",
+      "why_now": "The weekly EN World freebies/charity bundle roundup just dropped, giving a timely, low-effort-high-value curation angle for rules-focused followers.",
+      "angle": "Curated list post ranking bundle titles by rules substance/crunch, not just price, with direct links",
       "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-july-19-2026.719969/"
     }
   ]

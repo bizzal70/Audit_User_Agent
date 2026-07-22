@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-21T11:35:51+00:00",
+  "generated": "2026-07-22T11:35:57+00:00",
   "opportunities": [
     {
-      "title": "Godzilla-Sized Ruling: How to Actually Run a Kaiju in 5e Without Melting the Table",
-      "why_now": "EN World's podcast just teased a Godzilla RPG tie-in, giving a hook to break down giant-creature mechanics in mainline 5e.",
-      "angle": "60-sec 'creature tactic' short: convert a kaiju stat block using legendary actions + lair effects, show the one ruling that keeps it from one-shotting the party.",
+      "title": "Godzilla Got a Tabletop RPG — Here's Why Legendary Actions Alone Won't Sell the Scale",
+      "why_now": "Podcast #406 just teased a Godzilla RPG, giving a hook to dissect kaiju-scale combat design against 5e's stock giant-monster toolkit.",
+      "angle": "Creature tactic breakdown: how to houserule a 'city-block' reach/AoE stomp and lair actions for any oversized 5e monster, using Godzilla as the case study.",
       "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     },
     {
-      "title": "The One Background Rule Everyone Houserules Wrong",
-      "why_now": "Arcana Unleashed's new background reveal just dropped, making backgrounds a hot topic right now.",
-      "angle": "Dry rules-ruling short: pick the most-abused background feature (e.g., Guild Artisan free lodging) and show the RAW limit vs. the common misplay.",
+      "title": "Sly Flourish's Adventure Types Ranked by How Much Prep They Actually Save You",
+      "why_now": "Fresh Sly Flourish analysis on adventure types dropped this week and is squarely GM-advice territory this audience already follows.",
+      "angle": "Rapid-fire ruling/prep short: take each adventure type from the article and give a one-line 'when to use it, when it wastes your Tuesday night' verdict.",
+      "source": "https://slyflourish.com/adventure_types_in_rise.html?rss=1"
+    },
+    {
+      "title": "Arcana Unleashed's New Backgrounds Give Combat Features — Does 5e's Background System Even Compete?",
+      "why_now": "Podcast #406 previewed Arcana Unleashed's background overhaul, a direct rules-design comparison point for 5e's largely non-mechanical backgrounds.",
+      "angle": "Spell/feature use-case short: pick one Arcana Unleashed background combat perk and show how a 5e DM could port it in as a variant feat or downtime boon.",
       "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
     },
     {
-      "title": "Free Adventure Autopsy: Is This Week's EN World Freebie Actually Runnable?",
-      "why_now": "The July 19 freebies/sales roundup just posted, giving a fresh, time-limited product to react to before the sale window closes.",
-      "angle": "Quick verdict format: grab one free module from the list, show one encounter's stat block, flag the one thing you'd fix before running it tonight.",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-july-19-2026.719969/"
-    },
-    {
-      "title": "Why 'Kid-Friendly Mayhem' Still Needs a Death Save",
-      "why_now": "EN World's 'Spoonful of Sugar' piece on softening mayhem for younger tables is fresh and lets you take a hard mechanical stance against fluffing consequences.",
-      "angle": "Wry GM-veteran take: show how to keep stakes real (failed saves, resource drain) while trimming gore — one concrete house rule, not a vibe.",
+      "title": "'A Spoonful of Sugar' — The One Death Save Ruling That Keeps Young Players at the Table",
+      "why_now": "EN World's RPG Evolution column this week is about softening mayhem for younger/newer players, a live rules-adjudication topic GMs argue about constantly.",
+      "angle": "Dry ruling short: state the RAW death/dying rule, then give the exact house-rule wording that lowers stakes without gutting tension, framed as a GM adjudication call.",
       "source": "https://www.enworld.org/threads/rpg-evolution-a-spoonful-of-sugar-helps-the-mayhem-go-down.719758/"
     },
     {
-      "title": "Sly Flourish's Adventure Types, Graded: Which One Actually Saves You Prep Time",
-      "why_now": "Sly Flourish just published a fresh breakdown of adventure types from Rise of the Lazy Gamemaster, a core reference for prep-lite GMs.",
-      "angle": "Mechanical comparison short: pick two adventure types from the article, run the math on prep-minutes-saved vs. player agency lost.",
-      "source": "https://slyflourish.com/adventure_types_in_rise.html?rss=1"
+      "title": "Stat-Blocking a Cloud Empress Bio-Horror for 5e in Under 60 Seconds",
+      "why_now": "This week's RPG Print News roundup spotlights Cloud Empress, a biopunk setting ripe for a quick creature-conversion demo tied to a genuinely new release.",
+      "angle": "Creature tactic short: reskin an existing 5e monster (e.g., otyugh or shambling mound) into a Cloud Empress-style bio-horror with one signature tactic, no full stat block needed.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-amazing-adventures-2300-ad-cloud-empress-and-more.719973/"
     }
   ]
 }

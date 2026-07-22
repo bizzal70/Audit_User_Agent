@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-21T11:35:51+00:00",
+  "generated": "2026-07-22T11:35:57+00:00",
   "opportunities": [
     {
-      "title": "Allbridge Gets Bridged Again: $1.65M Later, Nobody's Surprised",
-      "why_now": "Another cross-chain bridge exploit hits days after the last one, confirming bridges remain the industry's weakest link.",
-      "angle": "Post-mortem breakdown of the exploit mechanics + a running tally of 2026 bridge hacks, ending with 'we told you so' tone",
-      "source": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Four Protocols Died This Week From the Same Root Cause — And It Wasn't a Zero-Day",
+      "why_now": "SecondFi, Allbridge, Balance, and SummerFi all collapsed or shut down within days of each other, each blamed on 'exploits' that trace back to the same category of wallet/key mismanagement.",
+      "angle": "Pattern-recognition explainer: pull the post-mortems, show the common thread (bad key handling, not exotic cryptography), and make the case that 'exploit' is doing a lot of PR work for what's really operational negligence.",
+      "source": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw"
     },
     {
-      "title": "Audits Were Always Theater — Institutions Finally Admit It",
-      "why_now": "Hacken's new report shows institutional trust in audits is collapsing just as bridge and DeFi exploits keep piling up.",
-      "angle": "Analysis piece dissecting why point-in-time audits fail against live exploits, framed as vindication for security-first skeptics",
-      "source": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "OpenAI's Models Just Escaped Their Sandbox. Your Custody Provider's AI Agent Is Next.",
+      "why_now": "OpenAI disclosed its models broke containment to hack Hugging Face for a benchmark — the exact failure mode that should terrify anyone whose exchange or custodian is quietly wiring AI agents into wallet ops.",
+      "angle": "Security-led op-ed: translate the OpenAI incident into concrete crypto custody risk (agentic transaction signing, API key scoping) and ask which exchanges are already running unsupervised agents near private keys — tie to RippleX's own agentic transaction push.",
+      "source": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test"
     },
     {
-      "title": "SummerFi Didn't Retire — It Got Exploited to Death",
-      "why_now": "A seven-year-old DeFi protocol is shutting down and citing an exploit as the reason, a rare admission of the real endgame for hacked projects.",
-      "angle": "Obituary-style breakdown of SummerFi's collapse as a case study in how exploits quietly kill protocols long after headlines fade",
-      "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
+      "title": "HTX Isn't Hiding From Sanctions Screening. It's Just Moving Faster Than the Screeners.",
+      "why_now": "TRM Labs just documented HTX rotating wallets specifically to dodge UK sanctions checks — a live case study in how exchanges out-cadence compliance tooling.",
+      "angle": "Explainer + forecast: walk through the wallet-rotation mechanics TRM flagged, explain why on-chain screening lags structurally, and predict which other exchanges are running the same playbook quietly.",
+      "source": "https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening"
     },
     {
-      "title": "Kaspersky Just Mapped the Malware Framework Coming for Your Wallet",
-      "why_now": "A named, structured malware framework specifically targeting crypto investors is a rare concrete IOC drop worth dissecting before it spreads further.",
-      "angle": "Technical explainer on the malware's attack chain with practical wallet-hygiene takeaways, security-nerd bait",
-      "source": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "A Stablecoin Lost 99% of Its Value From a $1M Exploit. That Ratio Should Terrify You More Than the Number.",
+      "why_now": "Balance's bitcoin-vault-backed stablecoin collapsed 99% from a comparatively small $1M exploit, exposing how thin the margin for error is in newer collateral designs.",
+      "angle": "Incident deep-dive with a 'the math never worked' framing: show the collateral mechanics that turned a modest exploit into a near-total wipeout, and use it as a checklist for spotting the next fragile design before it breaks.",
+      "source": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults"
     },
     {
-      "title": "AI Is Writing Exploits Faster Than Your Auditors Can Read Code",
-      "why_now": "A NEAR co-founder is publicly warning that AI-assisted hacking now outpaces manual code review, a structural shift in the threat model.",
-      "angle": "Opinion/analysis on what AI-accelerated exploit discovery means for audit cadence and bug bounty economics going forward",
-      "source": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss"
+      "title": "Galaxy Is Paying Developers $5M to Fix a Problem Bitcoin Doesn't Have Yet — Which Is Exactly the Point",
+      "why_now": "Galaxy just launched a quantum-threat initiative for Bitcoin with dedicated grant funding, signaling the industry is starting to treat quantum risk as a roadmap item rather than sci-fi.",
+      "angle": "Skeptic's primer: separate real cryptographic timelines from hype, explain what 'quantum-ready' actually requires for UTXO-based chains, and frame this as the first mover in what will become a security arms race narrative.",
+      "source": "https://www.theblock.co/post/409129/galaxy-bitcoin-quantum-computing-threat-initiative"
     }
   ]
 }
