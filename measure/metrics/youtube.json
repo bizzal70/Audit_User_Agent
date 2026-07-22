@@ -907,5 +907,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-07-22",
+    "videos": [
+      {
+        "id": "N6tfJ5Xr5QY",
+        "title": "Hard lesson: Torch and Light #shadowdark",
+        "published": "2026-07-21",
+        "views": 693,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "xOj74v5ekDQ",
+        "title": "Fey Wanderer: Dreadful Strikes deals 1d4 psychic #dnd5e",
+        "published": "2026-07-21",
+        "views": 272,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "QBFaL52s3Jg",
+        "title": "Disapproval (Cleric Mechanic) increases with each #dcc",
+        "published": "2026-07-21",
+        "views": 31,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "r5c5W-kWLDI",
+        "title": "Summoners' hit dice balance durability #shadowdark",
+        "published": "2026-07-20",
+        "views": 654,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "aaxltSAGJzg",
+        "title": "Summoners' Conjurer's Gift allows extra creature #shadowdark",
+        "published": "2026-07-20",
+        "views": 28,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "BHX0I5dEuys",
+        "title": "Summoners Consume Spell Slot on Failed Summon #shadowdark",
+        "published": "2026-07-20",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "KzxPM9JbqzA",
+        "title": "Deathbringer's Dice Mechanics: Multiple Rolls, Best Result #dcc",
+        "published": "2026-07-19",
+        "views": 10,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "3fuBqFwAU6I",
+        "title": "Deathbringer's Mighty Deeds scale with character level #dcc",
+        "published": "2026-07-19",
+        "views": 1268,
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "25YmGgsgzoo",
+        "title": "Deathbringer's Luck boosts must be used quickly #dcc",
+        "published": "2026-07-19",
+        "views": 207,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "60B2q3darKI",
+        "title": "Deathbringer's dice allow multiple rolls, best result #dcc",
+        "published": "2026-07-19",
+        "views": 141,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "rKFb1kxrUZg",
+        "title": "Spell Casting Check consumes the slot on failure #shadowdark",
+        "published": "2026-07-18",
+        "views": 66,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "9vsHvX0AE4A",
+        "title": "Barrier Tattoo only works without armor #dnd5e",
+        "published": "2026-07-18",
+        "views": 370,
+        "likes": 3,
+        "comments": 0
+      }
+    ]
   }
 ]
