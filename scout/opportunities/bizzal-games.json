@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-22T11:35:57+00:00",
+  "generated": "2026-07-23T11:38:11+00:00",
   "opportunities": [
     {
-      "title": "Godzilla Got a Tabletop RPG — Here's Why Legendary Actions Alone Won't Sell the Scale",
-      "why_now": "Podcast #406 just teased a Godzilla RPG, giving a hook to dissect kaiju-scale combat design against 5e's stock giant-monster toolkit.",
-      "angle": "Creature tactic breakdown: how to houserule a 'city-block' reach/AoE stomp and lair actions for any oversized 5e monster, using Godzilla as the case study.",
-      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
+      "title": "Jimothy the Raccoon Has Official D&D Stats Now — Here's the Ruling on Trash-Panda Grapple Checks",
+      "why_now": "EN World just published official stats for a real viral raccoon, giving a built-in creature-stat-block gag with real crunch to dissect.",
+      "angle": "Creature tactic short: read the stat block, mock/praise it, then give your own house ruling for how a CR-whatever raccoon should actually fight (advantage on Sleight of Hand vs. unattended food, Nimble Escape analog).",
+      "source": "https://www.enworld.org/threads/seattle-based-wild-raccoon-jimothy-gets-official-d-d-stats.719994/"
     },
     {
-      "title": "Sly Flourish's Adventure Types Ranked by How Much Prep They Actually Save You",
-      "why_now": "Fresh Sly Flourish analysis on adventure types dropped this week and is squarely GM-advice territory this audience already follows.",
-      "angle": "Rapid-fire ruling/prep short: take each adventure type from the article and give a one-line 'when to use it, when it wastes your Tuesday night' verdict.",
-      "source": "https://slyflourish.com/adventure_types_in_rise.html?rss=1"
+      "title": "'Cloaks and Daggers' Ruling: Does Hiding Behind a Cloak Actually Grant Stealth in 5e/Shadowdark?",
+      "why_now": "EN World's new piece on cloak-and-dagger table tactics is a direct prompt for a rules-ruling short on concealment vs. cover mechanics.",
+      "angle": "One-ruling short: break down RAW on cloaks/darkness for Hide checks in 5e vs. Shadowdark's binary light rules, give a table-ready ruling.",
+      "source": "https://www.enworld.org/threads/cloaks-and-daggers-at-your-gaming-table.719989/"
     },
     {
-      "title": "Arcana Unleashed's New Backgrounds Give Combat Features — Does 5e's Background System Even Compete?",
-      "why_now": "Podcast #406 previewed Arcana Unleashed's background overhaul, a direct rules-design comparison point for 5e's largely non-mechanical backgrounds.",
-      "angle": "Spell/feature use-case short: pick one Arcana Unleashed background combat perk and show how a 5e DM could port it in as a variant feat or downtime boon.",
-      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
+      "title": "Free Adventure Autopsy: Is 'Thief of Princes' Actually Runnable in One Session?",
+      "why_now": "A brand-new free adventure just dropped this week — perfect timely content to mine for a quick GM breakdown before anyone else covers it.",
+      "angle": "Fast module-review short: pull one clever encounter or trap from the PDF, show how to port it into Shadowdark/DCC with minimal conversion math.",
+      "source": "https://www.enworld.org/threads/download-free-adventure-thief-of-princes.719990/"
     },
     {
-      "title": "'A Spoonful of Sugar' — The One Death Save Ruling That Keeps Young Players at the Table",
-      "why_now": "EN World's RPG Evolution column this week is about softening mayhem for younger/newer players, a live rules-adjudication topic GMs argue about constantly.",
-      "angle": "Dry ruling short: state the RAW death/dying rule, then give the exact house-rule wording that lowers stakes without gutting tension, framed as a GM adjudication call.",
+      "title": "Chaosium's Innsmouth Book Just Dropped — Here's the DCC-Legal Way to Steal Its Best Monster",
+      "why_now": "Chaosium's new definitive Innsmouth guide is fresh news and a goldmine for Lovecraftian content DCC GMs already lean into.",
+      "angle": "Spell/creature use-case short: pick one Deep One or ritual from the book and show the quick stat conversion for DCC or a 5e homebrew stat block.",
+      "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
+    },
+    {
+      "title": "'A Spoonful of Sugar Helps the Mayhem Go Down' — The Actual Ruling on Running Chaotic Combat Without Losing the Table",
+      "why_now": "EN World's column on managing mayhem at the table is a direct prompt for a mechanical fix rather than just GM philosophy.",
+      "angle": "Dry mechanical short: turn the soft advice into a hard ruling — e.g., a house rule for initiative chaos or morale checks that actually resolves 'mayhem' instead of just describing it.",
       "source": "https://www.enworld.org/threads/rpg-evolution-a-spoonful-of-sugar-helps-the-mayhem-go-down.719758/"
-    },
-    {
-      "title": "Stat-Blocking a Cloud Empress Bio-Horror for 5e in Under 60 Seconds",
-      "why_now": "This week's RPG Print News roundup spotlights Cloud Empress, a biopunk setting ripe for a quick creature-conversion demo tied to a genuinely new release.",
-      "angle": "Creature tactic short: reskin an existing 5e monster (e.g., otyugh or shambling mound) into a Cloud Empress-style bio-horror with one signature tactic, no full stat block needed.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-amazing-adventures-2300-ad-cloud-empress-and-more.719973/"
     }
   ]
 }

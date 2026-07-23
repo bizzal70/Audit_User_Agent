@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-22T11:35:57+00:00",
+  "generated": "2026-07-23T11:38:11+00:00",
   "opportunities": [
     {
-      "title": "2300 AD Is Back: What the New Print Edition Actually Changes in the Rules",
-      "why_now": "Fresh print-news roundup confirms 2300 AD's return, giving rules-first readers a concrete new ruleset to dissect before hype outpaces facts.",
-      "angle": "Mechanics breakdown post comparing new 2300 AD print rules to prior editions, sourced directly from the announcement",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-amazing-adventures-2300-ad-cloud-empress-and-more.719973/"
+      "title": "We Fact-Checked Jimothy the Raccoon's Official D&D Stat Block (And It's Wrong)",
+      "why_now": "A viral animal just got an official 5e-style stat block, and stat-block accuracy is exactly the kind of rules minutiae this channel exists to adjudicate.",
+      "angle": "Line-by-line rules breakdown: compare Jimothy's CR, AC, and abilities against actual Monster Manual math for a same-sized creature, then rule on whether the stats hold up",
+      "source": "https://www.enworld.org/threads/seattle-based-wild-raccoon-jimothy-gets-official-d-d-stats.719994/"
     },
     {
-      "title": "Deathbringer RPG and the $500 Deadfall Box Set: Reading the Rules Behind the Price Tag",
-      "why_now": "Podcast #406 just previewed two very different new systems, giving an easy 'what you actually get for the rules' comparison while curiosity is high.",
-      "angle": "Side-by-side rules/value analysis: premium box set crunch vs. Deathbringer's core mechanics, X thread with a blog follow-up",
-      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
+      "title": "Chaosium's Innsmouth Book Just Became Canon: Here's What Changed Mechanically",
+      "why_now": "A 'definitive guide' claim on a classic Lovecraft setting demands a rules-first verdict on what's actually new crunch vs. repackaged lore.",
+      "angle": "Rules audit post: pull the new stat blocks, sanity mechanics, and location rules and rank them against prior Cthulhu supplements",
+      "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
     },
     {
-      "title": "Arcana Unleashed's New Backgrounds: The Actual Rules Text, Annotated",
-      "why_now": "New background rules were just revealed on the livestream, and system-crunch readers want the exact wording before opinions flood in.",
-      "angle": "Rules-first annotation post: quote the background mechanics verbatim, flag design intent and edge cases",
-      "source": "https://www.enworld.org/threads/podcast-406-livestream-500-deadfall-box-set-arcana-unleashed-backgrounds-deathbringer-rpg-and-godzilla.719964/"
+      "title": "Free Adventure Alert: 'Thief of Princes' — Is It Actually Balanced for Your Table?",
+      "why_now": "A free adventure just dropped, and free content gets clicks fast before the window closes.",
+      "angle": "Quick-hit rules review: encounter math, DC checks, and treasure parcels checked against DMG guidelines, with a verdict on level range",
+      "source": "https://www.enworld.org/threads/download-free-adventure-thief-of-princes.719990/"
     },
     {
-      "title": "Sly Flourish's Adventure Types, Formalized: A Rules-Reader's Taxonomy for GMs",
-      "why_now": "Sly Flourish just published a framework for adventure structures, prime material to convert into a definitive reference the beat's audience will bookmark.",
-      "angle": "Turn the analysis into a structured 'rules of adventure design' reference table with sourcing/attribution",
-      "source": "https://slyflourish.com/adventure_types_in_rise.html?rss=1"
+      "title": "The Rogue Rules Nobody Reads: What 'Cloaks and Daggers' Gets Right (and Wrong) About Stealth Mechanics",
+      "why_now": "A fresh EN World piece on cloak-and-dagger tables is a direct hook to litigate stealth, disguise, and hide-in-shadows rules that always spark table arguments.",
+      "angle": "Rules-first breakdown of hiding/stealth mechanics across editions, using the article as a jumping-off point for 'here's what the rules actually say'",
+      "source": "https://www.enworld.org/threads/cloaks-and-daggers-at-your-gaming-table.719989/"
     },
     {
-      "title": "This Week's Free & Discounted Rulebooks Worth Actually Reading",
-      "why_now": "The weekly EN World freebies/charity bundle roundup just dropped, giving a timely, low-effort-high-value curation angle for rules-focused followers.",
-      "angle": "Curated list post ranking bundle titles by rules substance/crunch, not just price, with direct links",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-july-19-2026.719969/"
+      "title": "'A Spoonful of Sugar' and the Math of Mayhem: How Chaos Mechanics Actually Work",
+      "why_now": "The RPG Evolution column just tackled mayhem/chaos systems, a perfect excuse to break down the underlying dice mechanics for GMs who want the rules, not the vibes.",
+      "angle": "Analytical post decoding the probability and design intent behind 'mayhem' subsystems referenced in the column",
+      "source": "https://www.enworld.org/threads/rpg-evolution-a-spoonful-of-sugar-helps-the-mayhem-go-down.719758/"
     }
   ]
 }
