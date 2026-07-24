@@ -1109,5 +1109,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-07-24",
+    "videos": [
+      {
+        "id": "RkoyZaC2g4E",
+        "title": "The Witch's Familiar allows spells to originate from its location, not yours #shadowdark",
+        "published": "2026-07-23",
+        "views": 5,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "6y-I5FffV8Q",
+        "title": "Heal restores 70 Hit Points and ends Blinded, Deafened, and Poisoned conditions #dnd5e",
+        "published": "2026-07-23",
+        "views": 9,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "kOqyUPAYsWE",
+        "title": "Laulich is perfect for a playful encounter that can still punish bad habits #dcc",
+        "published": "2026-07-23",
+        "views": 45,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "UKa1iABWHiY",
+        "title": "Magic Circle requires Focus to maintain #shadowdark",
+        "published": "2026-07-22",
+        "views": 14,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7r4G1-auTas",
+        "title": "Gold Dragon Wyrmling is the classic 'easy fight' that gets weird fast if #dnd5e",
+        "published": "2026-07-22",
+        "views": 158,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "6oYd4DhbPQE",
+        "title": "The Sword of Air and Darkness transports targets to the ethereal plane #dcc",
+        "published": "2026-07-22",
+        "views": 99,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "N6tfJ5Xr5QY",
+        "title": "Hard lesson: Torch and Light #shadowdark",
+        "published": "2026-07-21",
+        "views": 693,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "xOj74v5ekDQ",
+        "title": "Fey Wanderer: Dreadful Strikes deals 1d4 psychic #dnd5e",
+        "published": "2026-07-21",
+        "views": 346,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "QBFaL52s3Jg",
+        "title": "Disapproval (Cleric Mechanic) increases with each #dcc",
+        "published": "2026-07-21",
+        "views": 63,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "rKFb1kxrUZg",
+        "title": "Spell Casting Check consumes the slot on failure #shadowdark",
+        "published": "2026-07-18",
+        "views": 67,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "9vsHvX0AE4A",
+        "title": "Barrier Tattoo only works without armor #dnd5e",
+        "published": "2026-07-18",
+        "views": 372,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "ag5R075YRb8",
+        "title": "Two-Weapon Fighting uses smaller dice along the dice #dcc",
+        "published": "2026-07-18",
+        "views": 365,
+        "likes": 3,
+        "comments": 0
+      }
+    ]
   }
 ]
