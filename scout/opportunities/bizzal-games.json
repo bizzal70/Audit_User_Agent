@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-23T11:38:11+00:00",
+  "generated": "2026-07-25T11:27:00+00:00",
   "opportunities": [
     {
-      "title": "Jimothy the Raccoon Has Official D&D Stats Now — Here's the Ruling on Trash-Panda Grapple Checks",
-      "why_now": "EN World just published official stats for a real viral raccoon, giving a built-in creature-stat-block gag with real crunch to dissect.",
-      "angle": "Creature tactic short: read the stat block, mock/praise it, then give your own house ruling for how a CR-whatever raccoon should actually fight (advantage on Sleight of Hand vs. unattended food, Nimble Escape analog).",
+      "title": "Jimothy the Raccoon Has Official Stats Now — Here's How I'd Actually Run Him as a Familiar",
+      "why_now": "EN World just reported a real Seattle raccoon got an official D&D stat block, making this a rare viral crossover moment worth riding immediately.",
+      "angle": "60-sec creature tactic short: read the stat block, then give one dirty tactic (steal a spell component pouch mid-combat) a GM would actually use.",
       "source": "https://www.enworld.org/threads/seattle-based-wild-raccoon-jimothy-gets-official-d-d-stats.719994/"
     },
     {
-      "title": "'Cloaks and Daggers' Ruling: Does Hiding Behind a Cloak Actually Grant Stealth in 5e/Shadowdark?",
-      "why_now": "EN World's new piece on cloak-and-dagger table tactics is a direct prompt for a rules-ruling short on concealment vs. cover mechanics.",
-      "angle": "One-ruling short: break down RAW on cloaks/darkness for Hide checks in 5e vs. Shadowdark's binary light rules, give a table-ready ruling.",
+      "title": "D&D x World of Warcraft Leak: Here's the Ruling Problem Nobody's Talking About",
+      "why_now": "The WoW crossover leak is the biggest D&D news this week and every channel will cover the announcement — none will cover the actual rules friction.",
+      "angle": "Dry take: how official WoW race/class reskins will break bounded accuracy or multiclass rules, one specific fix.",
+      "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
+    },
+    {
+      "title": "Hide Action Ruling: Why Your Rogue Isn't Actually Invisible (Cloak & Dagger Edition)",
+      "why_now": "EN World's cloaks-and-daggers piece is fresh and gives a direct hook to correct a rules misconception every table gets wrong.",
+      "angle": "One-ruling short: RAW on Hide vs. heavily obscured vs. Skulker feat, with a table example of when Sneak Attack fails.",
       "source": "https://www.enworld.org/threads/cloaks-and-daggers-at-your-gaming-table.719989/"
     },
     {
-      "title": "Free Adventure Autopsy: Is 'Thief of Princes' Actually Runnable in One Session?",
-      "why_now": "A brand-new free adventure just dropped this week — perfect timely content to mine for a quick GM breakdown before anyone else covers it.",
-      "angle": "Fast module-review short: pull one clever encounter or trap from the PDF, show how to port it into Shadowdark/DCC with minimal conversion math.",
+      "title": "I Stole Blades in the Dark's Flashback Mechanic for My 5e Table — Here's the Exact Rule",
+      "why_now": "Gnome Stew's piece on portable Blades mechanics is timely and gives a concrete, testable house rule to demo on camera.",
+      "angle": "Mechanic-swap short: state the flashback rule verbatim, then run a 15-second mock example of a rogue 'flashback-buying' a rope in a dungeon.",
+      "source": "https://gnomestew.com/three-mechanics-from-blades-in-the-dark-i-want-in-all-my-games/"
+    },
+    {
+      "title": "Free Adventure Alert: The One Trap in 'Thief of Princes' That Will Kill a Careless Party",
+      "why_now": "The adventure just dropped free and gives a concrete, spoiler-light trap/ruling to spotlight while it's new and downloadable.",
+      "angle": "Spell/trap use-case short: break down the trap's save DC and one common player mistake, driving downloads via link in bio.",
       "source": "https://www.enworld.org/threads/download-free-adventure-thief-of-princes.719990/"
-    },
-    {
-      "title": "Chaosium's Innsmouth Book Just Dropped — Here's the DCC-Legal Way to Steal Its Best Monster",
-      "why_now": "Chaosium's new definitive Innsmouth guide is fresh news and a goldmine for Lovecraftian content DCC GMs already lean into.",
-      "angle": "Spell/creature use-case short: pick one Deep One or ritual from the book and show the quick stat conversion for DCC or a 5e homebrew stat block.",
-      "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
-    },
-    {
-      "title": "'A Spoonful of Sugar Helps the Mayhem Go Down' — The Actual Ruling on Running Chaotic Combat Without Losing the Table",
-      "why_now": "EN World's column on managing mayhem at the table is a direct prompt for a mechanical fix rather than just GM philosophy.",
-      "angle": "Dry mechanical short: turn the soft advice into a hard ruling — e.g., a house rule for initiative chaos or morale checks that actually resolves 'mayhem' instead of just describing it.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-a-spoonful-of-sugar-helps-the-mayhem-go-down.719758/"
     }
   ]
 }

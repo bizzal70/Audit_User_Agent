@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-23T11:38:11+00:00",
+  "generated": "2026-07-25T11:27:00+00:00",
   "opportunities": [
     {
-      "title": "We Fact-Checked Jimothy the Raccoon's Official D&D Stat Block (And It's Wrong)",
-      "why_now": "A viral animal just got an official 5e-style stat block, and stat-block accuracy is exactly the kind of rules minutiae this channel exists to adjudicate.",
-      "angle": "Line-by-line rules breakdown: compare Jimothy's CR, AC, and abilities against actual Monster Manual math for a same-sized creature, then rule on whether the stats hold up",
+      "title": "D&D Meets Azeroth: What a WoW Crossover Ruleset Would Actually Need to Get Right",
+      "why_now": "The leaked D&D/World of Warcraft product announcement is the biggest crossover news of the week and fans are already speculating on mechanics.",
+      "angle": "Rules-first breakdown predicting stat blocks, class reskins, and setting-conversion challenges (classes as WoW roles, racial traits, etc.)",
+      "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
+    },
+    {
+      "title": "Archives of Nethys Just Got Paizo's Blessing—Here's Why That Matters for Every Pathfinder Table",
+      "why_now": "The new agreement between Paizo and Archives of Nethys is fresh, official, and directly affects how rules-reference tools operate going forward.",
+      "angle": "Explainer on what the agreement covers (SRD access, licensing terms) and what it means for digital rules lookup at the table",
+      "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
+    },
+    {
+      "title": "We Statted Out Jimothy the Raccoon So You Don't Have To (Official WotC Version Included)",
+      "why_now": "WotC's official stat block for a viral Seattle raccoon is a fun, shareable rules artifact people will want dissected line by line.",
+      "angle": "CR/mechanics breakdown comparing the official stats to homebrew raccoon builds, with a tongue-in-cheek 'rules are already written' framing",
       "source": "https://www.enworld.org/threads/seattle-based-wild-raccoon-jimothy-gets-official-d-d-stats.719994/"
     },
     {
-      "title": "Chaosium's Innsmouth Book Just Became Canon: Here's What Changed Mechanically",
-      "why_now": "A 'definitive guide' claim on a classic Lovecraft setting demands a rules-first verdict on what's actually new crunch vs. repackaged lore.",
-      "angle": "Rules audit post: pull the new stat blocks, sanity mechanics, and location rules and rank them against prior Cthulhu supplements",
+      "title": "The 3 Blades in the Dark Mechanics Every GM Should Steal—Rules Compatibility Checked",
+      "why_now": "Gnome Stew's piece on portable Blades in the Dark mechanics is fresh analysis ripe for a rules-crunch response on system compatibility.",
+      "angle": "System-agnostic rules audit: how Flashbacks, Position/Effect, and Clocks map onto D&D 5e and other trad systems mechanically",
+      "source": "https://gnomestew.com/three-mechanics-from-blades-in-the-dark-i-want-in-all-my-games/"
+    },
+    {
+      "title": "Chaosium's New Innsmouth Book: What's Actually New for Call of Cthulhu Rules and Canon",
+      "why_now": "Chaosium's freshly released 'definitive' Innsmouth guide is a rules-and-lore sourcebook debut worth a knowing first-look.",
+      "angle": "Sourcebook rules audit—new stats, scenario hooks, and how it reconciles decades of prior Innsmouth canon",
       "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
-    },
-    {
-      "title": "Free Adventure Alert: 'Thief of Princes' — Is It Actually Balanced for Your Table?",
-      "why_now": "A free adventure just dropped, and free content gets clicks fast before the window closes.",
-      "angle": "Quick-hit rules review: encounter math, DC checks, and treasure parcels checked against DMG guidelines, with a verdict on level range",
-      "source": "https://www.enworld.org/threads/download-free-adventure-thief-of-princes.719990/"
-    },
-    {
-      "title": "The Rogue Rules Nobody Reads: What 'Cloaks and Daggers' Gets Right (and Wrong) About Stealth Mechanics",
-      "why_now": "A fresh EN World piece on cloak-and-dagger tables is a direct hook to litigate stealth, disguise, and hide-in-shadows rules that always spark table arguments.",
-      "angle": "Rules-first breakdown of hiding/stealth mechanics across editions, using the article as a jumping-off point for 'here's what the rules actually say'",
-      "source": "https://www.enworld.org/threads/cloaks-and-daggers-at-your-gaming-table.719989/"
-    },
-    {
-      "title": "'A Spoonful of Sugar' and the Math of Mayhem: How Chaos Mechanics Actually Work",
-      "why_now": "The RPG Evolution column just tackled mayhem/chaos systems, a perfect excuse to break down the underlying dice mechanics for GMs who want the rules, not the vibes.",
-      "angle": "Analytical post decoding the probability and design intent behind 'mayhem' subsystems referenced in the column",
-      "source": "https://www.enworld.org/threads/rpg-evolution-a-spoonful-of-sugar-helps-the-mayhem-go-down.719758/"
     }
   ]
 }

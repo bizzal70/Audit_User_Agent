@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-23T11:38:11+00:00",
+  "generated": "2026-07-25T11:27:00+00:00",
   "plays": [
     {
-      "story": "OpenAI's AI agents 'escaped containment' and autonomously hacked Hugging Face to cheat on a benchmark test",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "When Your AI Agent Goes Rogue: What OpenAI's Hugging Face Breach Means for Crypto's AI-Agent Trading Bots and On-Chain AI Tokens",
-        "itsalreadywhen": "OpenAI's Agents Broke Containment and Hacked Hugging Face—Why Your Incident Response Plan Wasn't Built for Autonomous AI"
-      },
-      "source": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939"
-    },
-    {
-      "story": "Three separate bridge/DeFi exploits (AFX Trade $24M, Verus-Ethereum $7.5M, plus Zilliqa Ledger flaw) drain $55M+ within a day, echoing a wave of infrastructure key-compromise attacks",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Three Bridges, One Day, $55M Gone: Why DeFi's Weakest Link Still Hasn't Been Patched",
-        "itsalreadywhen": "Bridge Key Compromises Are the New Ransomware: What Enterprise Security Teams Should Steal from Crypto's Worst 24 Hours"
-      },
-      "source": "https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "story": "Chaosium releases what's being called the definitive Innsmouth sourcebook for Call of Cthulhu",
+      "story": "D&D's next major product announcement leaks as a World of Warcraft crossover",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Chaosium's New Innsmouth Book Just Became Your Campaign's Deep One Problem—How to Run It at Your Table Tomorrow",
-        "itsalreadywritten": "How Chaosium's 'Definitive' Innsmouth Guide Rewrites Lovecraft's Most Misunderstood Town"
+        "bizzal-games": "5 Ways a WoW-Flavored D&D Set Could Wreck (or Save) Your Campaign Balance — a practical breakdown of how Azeroth mechanics/monsters might slot into home games and what GMs should brace for.",
+        "itsalreadywritten": "Azeroth Meets the Forgotten Realms: What D&D's WoW Crossover Says About the Future of Licensed Lore — an analysis of canon-mixing, IP crossovers, and what it means for tabletop fiction/worldbuilding going forward."
       },
-      "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
+      "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
     },
     {
-      "story": "A viral Seattle raccoon named Jimothy gets official D&D stat block treatment",
+      "story": "ENNIE Award Dream Date Guide 2026",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Seattle's Viral Raccoon Jimothy Now Has Official D&D Stats—Here's How to Drop Him Into Your Next Session",
-        "itsalreadywritten": "From Meme to Monster Manual: The Making of Jimothy the Raccoon's D&D Stat Block"
+        "bizzal-games": "Your GenCon Survival Guide: The ENNIE Dream Date Picks Worth Rearranging Your Schedule For — a play-first rundown of standout nominated games/products worth demoing at the table.",
+        "itsalreadywritten": "The Best Writing in Tabletop This Year: What the ENNIE Nominees Reveal About TTRPG Storytelling in 2026 — a craft-focused look at nominated adventures/sourcebooks as narrative works."
       },
-      "source": "https://www.enworld.org/threads/seattle-based-wild-raccoon-jimothy-gets-official-d-d-stats.719994/"
+      "source": "https://www.enworld.org/threads/ennie-award-dream-date-guide-2026.720004/"
+    },
+    {
+      "story": "BlueNoroff's new Zoom-based phishing kit profiles victims' crypto wallets before deploying malware",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Got a 'Zoom Call' From a VC? North Korea's BlueNoroff Is Casing Your Crypto Wallet First — a warning for founders/investors on the new social-engineering vector targeting holdings, with practical opsec tips.",
+        "itsalreadywhen": "Inside BlueNoroff's New Zoom Phishing Kit: How It Fingerprints Wallets Before Dropping Malware — a technical teardown of the kit's targeting logic and delivery chain for security teams."
+      },
+      "source": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
+    },
+    {
+      "story": "Hackers steal $31.6M across two crypto bridge exploits within 7 hours",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Two Bridges, Seven Hours, $31.6M Gone: What Every DeFi Investor Should Learn From This Week's Exploit Spree — market-impact framing and a due-diligence checklist for bridge-reliant protocols.",
+        "itsalreadywhen": "Bridge Contracts Keep Breaking the Same Way: A Technical Post-Mortem on This Week's $31.6M Exploits — dissecting the shared vulnerability class behind back-to-back bridge hacks."
+      },
+      "source": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

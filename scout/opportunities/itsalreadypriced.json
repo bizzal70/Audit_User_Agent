@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-23T11:38:11+00:00",
+  "generated": "2026-07-25T11:27:00+00:00",
   "opportunities": [
     {
-      "title": "Same Bug, Second Payday: The Verus-Ethereum Bridge Got Drained Twice by the Same Flaw",
-      "why_now": "Blockaid confirmed the July 23 $7.5M Verus-Ethereum drain reused the exact exploit path from May, and it landed within hours of the $24M AFX Trade bridge hack — two bridges, one lesson, one news cycle.",
-      "angle": "Incident autopsy comparing the May and July Verus exploits side-by-side, arguing 'known vulnerability' is now a standing invitation, not an accident",
-      "source": "https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack"
-    },
-    {
-      "title": "Your Ledger Was the Attack Surface: Zilliqa App Bug Let Hackers Recover Private Keys",
-      "why_now": "A hardware wallet vulnerability that recovers signer keys is the nightmare scenario for the 'not your keys, not your coins' crowd, and it's fresh as of July 22.",
-      "angle": "Explainer on how the vuln worked + practical checklist for hardware wallet users on firmware/app hygiene, with 'this is why cold storage isn't magic' framing",
+      "title": "Your Ledger Was Never the Backstop: Zilliqa App Bug Lets Attackers Pull Private Keys Straight Off the Device",
+      "why_now": "A hardware wallet vulnerability recovering signer keys is the nightmare scenario the 'just use cold storage' crowd insists can't happen — and it just did.",
+      "angle": "Security teardown: explain the exploit mechanics, then widen to 'hardware wallets are still software' thesis with a checklist of what self-custody actually requires post-Zilliqa.",
       "source": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys"
     },
     {
-      "title": "$31.6M in Bridges, One 7-Hour Window: Bridges Remain Crypto's Weakest Link in 2026",
-      "why_now": "Two separate bridge exploits (AFX $24M, Verus $7.5M) hit within the same day, echoing the exact bridge-security thesis this channel has been calling since 2022 — the pattern hasn't changed, only the zeros.",
-      "angle": "Data-led roundup: tally 2026 bridge losses YTD, chart repeat offenders, close with 'if it bridges, it bleeds' thesis",
+      "title": "$31.6M, Two Bridges, Seven Hours: Bridges Are Still the Weakest Link and Nobody's Fixing It",
+      "why_now": "Two separate bridge exploits within hours of each other is a fresh, quotable data point for the 'bridges = free money for hackers' pattern that's been priced in since 2022.",
+      "angle": "Pattern-recognition post: timeline the two hacks side by side, tally cumulative bridge losses since 2021, and make the 'this was always going to happen again' case.",
       "source": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit"
     },
     {
-      "title": "Wrench Attacks Are Up 12x — Your Threat Model Needs to Include Physical Violence",
-      "why_now": "CertiK's $124M/6-month figure on wrench attacks is a stark, citable stat that reframes crypto security beyond code audits into personal safety, timely as self-custody narratives peak.",
-      "angle": "Service piece: what a wrench attack actually looks like, why whales/self-custody advocates are targets, concrete opsec steps (decoy wallets, duress PINs, doxxing hygiene)",
-      "source": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik"
+      "title": "Robinhood's CEO Got Rekt by a Memecoin Scam on His Own X Account — And That's the Best Case Scenario",
+      "why_now": "A high-profile exec account takeover pushing a scam token is a perfect vehicle to talk about account security failures at the exact companies selling you 'safe' crypto access.",
+      "angle": "Contrarian take: use the irony (Robinhood = 'safe' onramp, CEO hacked for a memecoin pump) to argue platform trust is theater; include a quick 2FA/account-hygiene checklist.",
+      "source": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam"
     },
     {
-      "title": "Audits Didn't Save SecondFi or SummerFi — So What Will Institutions Trust Instead?",
-      "why_now": "Hacken's report on trust signals beyond audits landed the same week two protocols (SecondFi, SummerFi) shut down citing exploits despite prior audits — a perfect real-time case study for the report's thesis.",
-      "angle": "Trend piece tying Hacken's findings directly to the SecondFi/SummerFi shutdowns as proof audits are necessary-but-not-sufficient, propose what 'beyond audit' trust actually means",
-      "source": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report"
+      "title": "SummerFi Just Died From an Exploit You Never Heard About — That's the Real Story",
+      "why_now": "A seven-year-old DeFi protocol shutting down 'citing exploit' with almost no coverage is exactly the quiet-death pattern this channel exists to flag before it becomes a headline elsewhere.",
+      "angle": "Investigative short: dig into what actually happened at SummerFi, why it didn't trend, and what that silence says about how many exploits get buried without disclosure.",
+      "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
+    },
+    {
+      "title": "Arthur Hayes' 'Insider Trading Desk': BitMEX Winds Down the Same Way It Started — With Everyone Else's Money",
+      "why_now": "Fresh fraud claims against BitMEX co-founders as the exchange shuts down is a full-circle security/governance story with instant recognition and a built-in 'told you so.'",
+      "angle": "Explainer + retrospective: lay out the allegations, then trace BitMEX's history of regulatory run-ins to argue this ending was always the base rate for founder-controlled exchanges.",
+      "source": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss"
     }
   ]
 }
