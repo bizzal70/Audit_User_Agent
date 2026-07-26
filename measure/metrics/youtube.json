@@ -1210,5 +1210,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-07-26",
+    "videos": [
+      {
+        "id": "KwumtUOUpQ8",
+        "title": "Hellhounds sense invisible foes by their heat #dcc",
+        "published": "2026-07-25",
+        "views": 201,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "T68wZZE980c",
+        "title": "Hellhound's loyalty: morale never breaks with master nearby #dcc",
+        "published": "2026-07-25",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "CBxIjIe7-O0",
+        "title": "Difficulty Class determines success or failure with a single roll #shadowdark",
+        "published": "2026-07-25",
+        "views": 36,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "f5gzoyvx5Vc",
+        "title": "Weapon of Warning (Rapier): humble gear with main-character energy #dnd5e",
+        "published": "2026-07-25",
+        "views": 677,
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "yMs8ZK0QTOo",
+        "title": "Healing restores 1 HP per night while adventuring, 2 HP with full bed rest #dcc",
+        "published": "2026-07-25",
+        "views": 141,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "2aunaMUiG7s",
+        "title": "Smilodon looks harmless #shadowdark",
+        "published": "2026-07-24",
+        "views": 71,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "iUox9x1BqlM",
+        "title": "Playing on a Grid means each square represents 5 feet #dnd5e",
+        "published": "2026-07-24",
+        "views": 387,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "sHaWMLMPgKU",
+        "title": "Warriors execute Mighty Deeds without requiring a saving throw or additional #dcc",
+        "published": "2026-07-24",
+        "views": 79,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "RkoyZaC2g4E",
+        "title": "The Witch's Familiar allows spells to originate from its location, not yours #shadowdark",
+        "published": "2026-07-23",
+        "views": 19,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "6y-I5FffV8Q",
+        "title": "Heal restores 70 Hit Points and ends Blinded, Deafened, and Poisoned conditions #dnd5e",
+        "published": "2026-07-23",
+        "views": 25,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "kOqyUPAYsWE",
+        "title": "Laulich is perfect for a playful encounter that can still punish bad habits #dcc",
+        "published": "2026-07-23",
+        "views": 110,
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "UKa1iABWHiY",
+        "title": "Magic Circle requires Focus to maintain #shadowdark",
+        "published": "2026-07-22",
+        "views": 18,
+        "likes": 0,
+        "comments": 0
+      }
+    ]
   }
 ]
