@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-25T11:27:00+00:00",
+  "generated": "2026-07-26T11:28:42+00:00",
   "opportunities": [
     {
-      "title": "An AI Agent Just Found (and Weaponized) a Redis Zero-Day — Welcome to Autonomous Vuln Research",
-      "why_now": "Kimi K3 autonomously discovered Redis zero-days and built a working RCE exploit, a first-of-its-kind escalation in AI-driven offensive security.",
-      "angle": "Explainer + threat-model piece: walk through what Kimi K3 found, why Redis's trust model made it exploitable, and what this means for defenders who now face AI-speed vuln discovery — patch cadence section is a natural fit.",
-      "source": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html"
+      "title": "The Pope's Prayer App Leaked 700K Souls' Data — Even the Vatican Isn't Patch-Immune",
+      "why_now": "A widely-covered breach of a religious institution's app is a rare, highly shareable story that dropped simultaneously on The Register and Dark Reading in the last 24 hours.",
+      "angle": "Wry breach-digest writeup: what leaked (PII of 700K+ users), how a supposedly trusted app failed basic security hygiene, and the broader lesson that no org is too sacred to skip patch cadence.",
+      "source": "https://www.theregister.com/security/2026/07/24/popes-official-prayer-app-commits-cardinal-sin-leaks-700k-users-info/5278603"
     },
     {
-      "title": "Russian Hackers Are Inside Your Inbox: Zimbra Zero-Day Used to Steal Mail and 2FA Codes",
-      "why_now": "Active exploitation of an unpatched Zimbra flaw by a Russian espionage group against US and Ukrainian targets, with mail and 2FA token theft confirmed.",
-      "angle": "Breach digest entry with IOC/timeline breakdown and a 'patch now' callout — pair with CVE details and mitigation steps for Zimbra admins.",
-      "source": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html"
+      "title": "Oracle Just Shipped 1,449 Patches — And That's the New Normal",
+      "why_now": "A quarterly patch dump of nearly 1,500 fixes is a stark, quantifiable illustration of unsustainable patch cadence that fits the channel's core beat perfectly.",
+      "angle": "Data-driven patch-cadence piece: break down patch count trend over recent quarters, highlight critical CVEs buried in the pile, and ask if 'patch everything' is even achievable anymore.",
+      "source": "https://www.theregister.com/security/2026/07/23/oracle-drops-1449-security-patches-like-its-the-new-normal/5277114"
     },
     {
-      "title": "One Default Azure Setting Away From Total Tenant Takeover",
-      "why_now": "A default Azure Automation configuration was shown to enable cross-tenant identity takeover, a severe cloud misconfiguration affecting countless orgs who never touched the setting.",
-      "angle": "Technical breakdown of the attack chain plus a checklist readers can run against their own tenants today — high-utility, shareable format.",
-      "source": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover"
+      "title": "Cl0p's New Playground: Unauthenticated RCE in PTC Windchill and FlexPLM Under Active Attack",
+      "why_now": "A named ransomware crew is actively exploiting unauthenticated RCE in widely-used PLM software right now, making this a live, urgent threat-actor story.",
+      "angle": "Threat-actor spotlight: who Cl0p is, why internet-exposed PLM/PDM systems are a juicy target, and immediate mitigation steps for orgs running Windchill/FlexPLM.",
+      "source": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html"
     },
     {
-      "title": "A Hacker Ran an AI Agent Unattended Inside Thailand's Finance Ministry — And It Worked",
-      "why_now": "Hermes AI agent was used to autonomously conduct post-exploitation inside a government finance ministry, a landmark case of hands-off AI-driven intrusion.",
-      "angle": "Threat-actor profile framed as 'the future of APT tradecraft' — cover the TTPs, why unattended agentic post-ex is a step-change, and what SOC detection needs to catch it.",
-      "source": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/"
+      "title": "Russia's Zimbra Zero-Day Has Been Quietly Hitting US and Ukraine for Months",
+      "why_now": "A nation-state-linked zero-day actively exploited against US and Ukrainian targets is exactly the inevitable-breach material this channel thrives on, and it's freshly reported.",
+      "angle": "Threat-actor + CVE deep dive: timeline of exploitation, Zimbra's patch status, and what defenders should watch for in mail-server logs.",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets"
     },
     {
-      "title": "GitLab RCE PoC Lets Any Logged-In User Run Commands as Git — Patch This Weekend",
-      "why_now": "A public PoC now exists for authenticated RCE in GitLab, meaning exploitation is trivial and imminent for any unpatched instance.",
-      "angle": "Urgent patch-cadence alert: CVE details, affected versions, exploitation difficulty, and a hard deadline framing ('patch before Monday') to drive clicks from admins scrambling to check exposure.",
-      "source": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"
+      "title": "Fastjson Has an RCE Being Exploited in the Wild — And There's No Patch",
+      "why_now": "Active in-the-wild exploitation of a legacy library with zero available patch is a rare 'no fix exists' emergency that demands immediate attention from dev/ops teams.",
+      "angle": "Urgent advisory-style post: explain the vuln, who's exploiting it, why Fastjson 1.x can't easily be patched, and workaround/mitigation options (WAF rules, dependency removal).",
+      "source": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
     }
   ]
 }

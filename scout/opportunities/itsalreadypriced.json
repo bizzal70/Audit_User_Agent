@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-25T11:27:00+00:00",
+  "generated": "2026-07-26T11:28:42+00:00",
   "opportunities": [
     {
-      "title": "Your Ledger Was Never the Backstop: Zilliqa App Bug Lets Attackers Pull Private Keys Straight Off the Device",
-      "why_now": "A hardware wallet vulnerability recovering signer keys is the nightmare scenario the 'just use cold storage' crowd insists can't happen — and it just did.",
-      "angle": "Security teardown: explain the exploit mechanics, then widen to 'hardware wallets are still software' thesis with a checklist of what self-custody actually requires post-Zilliqa.",
-      "source": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys"
+      "title": "The Robinhood CEO Got Phished for a Memecoin. If Him, Then You.",
+      "why_now": "A sitting exchange CEO's X account was hijacked to shill a memecoin, proving even the most security-conscious operators are one bad click from disaster.",
+      "angle": "Incident breakdown + practical checklist on account takeover vectors execs and retail alike keep falling for",
+      "source": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$31.6M, Two Bridges, Seven Hours: Bridges Are Still the Weakest Link and Nobody's Fixing It",
-      "why_now": "Two separate bridge exploits within hours of each other is a fresh, quotable data point for the 'bridges = free money for hackers' pattern that's been priced in since 2022.",
-      "angle": "Pattern-recognition post: timeline the two hacks side by side, tally cumulative bridge losses since 2021, and make the 'this was always going to happen again' case.",
-      "source": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit"
-    },
-    {
-      "title": "Robinhood's CEO Got Rekt by a Memecoin Scam on His Own X Account — And That's the Best Case Scenario",
-      "why_now": "A high-profile exec account takeover pushing a scam token is a perfect vehicle to talk about account security failures at the exact companies selling you 'safe' crypto access.",
-      "angle": "Contrarian take: use the irony (Robinhood = 'safe' onramp, CEO hacked for a memecoin pump) to argue platform trust is theater; include a quick 2FA/account-hygiene checklist.",
-      "source": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam"
-    },
-    {
-      "title": "SummerFi Just Died From an Exploit You Never Heard About — That's the Real Story",
-      "why_now": "A seven-year-old DeFi protocol shutting down 'citing exploit' with almost no coverage is exactly the quiet-death pattern this channel exists to flag before it becomes a headline elsewhere.",
-      "angle": "Investigative short: dig into what actually happened at SummerFi, why it didn't trend, and what that silence says about how many exploits get buried without disclosure.",
+      "title": "SummerFi Didn't Get Hacked for Millions — It Died Anyway. That's the Real Warning.",
+      "why_now": "A seven-year-old DeFi protocol is winding down citing an exploit, showing that reputational and operational damage from a hack can kill a project even without a nine-figure loss.",
+      "angle": "Postmortem essay: the slow-bleed exploit vs the headline hack, and why 'we survived the hack' is often a lie",
       "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
     },
     {
-      "title": "Arthur Hayes' 'Insider Trading Desk': BitMEX Winds Down the Same Way It Started — With Everyone Else's Money",
-      "why_now": "Fresh fraud claims against BitMEX co-founders as the exchange shuts down is a full-circle security/governance story with instant recognition and a built-in 'told you so.'",
-      "angle": "Explainer + retrospective: lay out the allegations, then trace BitMEX's history of regulatory run-ins to argue this ending was always the base rate for founder-controlled exchanges.",
+      "title": "North Korea's Own Hackers Just Got Arrested — By North Korea. Read That Twice.",
+      "why_now": "State-linked hackers laundering stolen bank funds through crypto were arrested by their own government, a rare crack in the DPRK crypto-crime pipeline worth dissecting for laundering-pattern watchers.",
+      "angle": "Explainer on what this signals about DPRK internal crypto ops and whether it changes laundering flows Chainalysis-style trackers should watch",
+      "source": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Arthur Hayes Built an 'Insider Trading Desk.' BitMEX Is Closing. Connect the Dots.",
+      "why_now": "Fresh fraud claims against BitMEX co-founders over an alleged insider desk land right as the exchange winds down, a textbook case study in how founder-level abuse eventually surfaces.",
+      "angle": "Timeline piece tracing BitMEX's history of regulatory near-misses to this final allegation, framed as 'the ending was always coming'",
       "source": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "title": "AI Hasn't Broken DeFi Security Yet — But Every Bug It Finds First Is a Preview",
+      "why_now": "A new report says AI-driven hacking fears are overstated for now, which is exactly the calm-before-the-storm framing this channel's audience needs to hear before it's too late.",
+      "angle": "Analysis piece arguing 'not yet' is not the same as 'not going to happen,' with concrete predictions on where AI-assisted exploits hit first",
+      "source": "https://cointelegraph.com/magazine/ai-hasnt-unleashed-a-defi-hackpocalypse-but-its-making-every-weakness-more-dangerous?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-25T11:27:00+00:00",
+  "generated": "2026-07-26T11:28:42+00:00",
   "opportunities": [
     {
-      "title": "D&D Meets Azeroth: What a WoW Crossover Ruleset Would Actually Need to Get Right",
-      "why_now": "The leaked D&D/World of Warcraft product announcement is the biggest crossover news of the week and fans are already speculating on mechanics.",
-      "angle": "Rules-first breakdown predicting stat blocks, class reskins, and setting-conversion challenges (classes as WoW roles, racial traits, etc.)",
-      "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
-    },
-    {
-      "title": "Archives of Nethys Just Got Paizo's Blessing—Here's Why That Matters for Every Pathfinder Table",
-      "why_now": "The new agreement between Paizo and Archives of Nethys is fresh, official, and directly affects how rules-reference tools operate going forward.",
-      "angle": "Explainer on what the agreement covers (SRD access, licensing terms) and what it means for digital rules lookup at the table",
+      "title": "Archives of Nethys Just Got Paizo's Blessing—Here's What Changes for Your Rules Lookups",
+      "why_now": "A fresh official agreement between Paizo and the fan-run SRD site directly affects how players access core rules text.",
+      "angle": "News breakdown: what the agreement covers, what's now official vs. fan-hosted, and what it means for citing rules at the table",
       "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
     },
     {
-      "title": "We Statted Out Jimothy the Raccoon So You Don't Have To (Official WotC Version Included)",
-      "why_now": "WotC's official stat block for a viral Seattle raccoon is a fun, shareable rules artifact people will want dissected line by line.",
-      "angle": "CR/mechanics breakdown comparing the official stats to homebrew raccoon builds, with a tongue-in-cheek 'rules are already written' framing",
-      "source": "https://www.enworld.org/threads/seattle-based-wild-raccoon-jimothy-gets-official-d-d-stats.719994/"
+      "title": "D&D Meets Azeroth: What a World of Warcraft Product Actually Means for 5E Rules",
+      "why_now": "A leak suggests WotC's next major D&D announcement is a WoW crossover, raising immediate rules-compatibility questions.",
+      "angle": "Rules-first speculation piece: new classes/subclasses, monster stat conversions, and how licensed settings typically get folded into core mechanics",
+      "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
     },
     {
-      "title": "The 3 Blades in the Dark Mechanics Every GM Should Steal—Rules Compatibility Checked",
-      "why_now": "Gnome Stew's piece on portable Blades in the Dark mechanics is fresh analysis ripe for a rules-crunch response on system compatibility.",
-      "angle": "System-agnostic rules audit: how Flashbacks, Position/Effect, and Clocks map onto D&D 5e and other trad systems mechanically",
+      "title": "3 Blades in the Dark Mechanics That Should Be Errata for Every RPG",
+      "why_now": "Gnome Stew's fresh analysis names specific subsystems worth stealing, giving a rules-adaptation angle GMs can act on this weekend.",
+      "angle": "Response/expansion piece: rules-text breakdown of Position/Effect, Flashbacks, and Clocks with drop-in conversion notes for D&D/PF2e tables",
       "source": "https://gnomestew.com/three-mechanics-from-blades-in-the-dark-i-want-in-all-my-games/"
     },
     {
-      "title": "Chaosium's New Innsmouth Book: What's Actually New for Call of Cthulhu Rules and Canon",
-      "why_now": "Chaosium's freshly released 'definitive' Innsmouth guide is a rules-and-lore sourcebook debut worth a knowing first-look.",
-      "angle": "Sourcebook rules audit—new stats, scenario hooks, and how it reconciles decades of prior Innsmouth canon",
+      "title": "Chaosium's Innsmouth Book: The New Canon Source for Deep One Stats and Lore",
+      "why_now": "A newly released 'definitive guide' to Innsmouth likely codifies rules and stat blocks GMs will now treat as canonical.",
+      "angle": "Rules-facts rundown: what's mechanically new (stat blocks, scenario hooks, Sanity rules tweaks) vs. classic Call of Cthulhu material",
       "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
+    },
+    {
+      "title": "White Dwarf's Rules That Time Forgot: What Reflections #42 Reveals",
+      "why_now": "The ongoing White Dwarf Reflections series is digging into historical rules content, perfect fodder for a 'rules archaeology' piece.",
+      "angle": "Retrospective explainer: pull specific old rules/mechanics discussed in issue #42 and compare them to modern equivalents",
+      "source": "https://www.enworld.org/threads/white-dwarf-reflections-42.719303/"
     }
   ]
 }

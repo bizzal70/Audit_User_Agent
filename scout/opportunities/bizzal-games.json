@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-25T11:27:00+00:00",
+  "generated": "2026-07-26T11:28:42+00:00",
   "opportunities": [
     {
-      "title": "Jimothy the Raccoon Has Official Stats Now — Here's How I'd Actually Run Him as a Familiar",
-      "why_now": "EN World just reported a real Seattle raccoon got an official D&D stat block, making this a rare viral crossover moment worth riding immediately.",
-      "angle": "60-sec creature tactic short: read the stat block, then give one dirty tactic (steal a spell component pouch mid-combat) a GM would actually use.",
-      "source": "https://www.enworld.org/threads/seattle-based-wild-raccoon-jimothy-gets-official-d-d-stats.719994/"
-    },
-    {
-      "title": "D&D x World of Warcraft Leak: Here's the Ruling Problem Nobody's Talking About",
-      "why_now": "The WoW crossover leak is the biggest D&D news this week and every channel will cover the announcement — none will cover the actual rules friction.",
-      "angle": "Dry take: how official WoW race/class reskins will break bounded accuracy or multiclass rules, one specific fix.",
+      "title": "D&D x World of Warcraft Just Leaked — Here's the One Rule That'll Break Your Table",
+      "why_now": "The WoW/D&D crossover leak is the single biggest tabletop story of the week and begs for a dry mechanical take on how a video-game IP crossover interacts with 5e balance.",
+      "angle": "Short: predict the busted subclass/spell this crossover will spawn, then rule how you'd nerf it at your table",
       "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
     },
     {
-      "title": "Hide Action Ruling: Why Your Rogue Isn't Actually Invisible (Cloak & Dagger Edition)",
-      "why_now": "EN World's cloaks-and-daggers piece is fresh and gives a direct hook to correct a rules misconception every table gets wrong.",
-      "angle": "One-ruling short: RAW on Hide vs. heavily obscured vs. Skulker feat, with a table example of when Sneak Attack fails.",
-      "source": "https://www.enworld.org/threads/cloaks-and-daggers-at-your-gaming-table.719989/"
-    },
-    {
-      "title": "I Stole Blades in the Dark's Flashback Mechanic for My 5e Table — Here's the Exact Rule",
-      "why_now": "Gnome Stew's piece on portable Blades mechanics is timely and gives a concrete, testable house rule to demo on camera.",
-      "angle": "Mechanic-swap short: state the flashback rule verbatim, then run a 15-second mock example of a rogue 'flashback-buying' a rope in a dungeon.",
+      "title": "Steal This: Blades in the Dark's Devil's Bargain, Ported to 5e Skill Checks",
+      "why_now": "Gnome Stew's piece on portable Blades mechanics is fresh and gives a concrete system to convert for a rules-hack short.",
+      "angle": "One mechanic breakdown: show the exact 5e trigger wording so GMs can drop it in tonight's session",
       "source": "https://gnomestew.com/three-mechanics-from-blades-in-the-dark-i-want-in-all-my-games/"
     },
     {
-      "title": "Free Adventure Alert: The One Trap in 'Thief of Princes' That Will Kill a Careless Party",
-      "why_now": "The adventure just dropped free and gives a concrete, spoiler-light trap/ruling to spotlight while it's new and downloadable.",
-      "angle": "Spell/trap use-case short: break down the trap's save DC and one common player mistake, driving downloads via link in bio.",
-      "source": "https://www.enworld.org/threads/download-free-adventure-thief-of-princes.719990/"
+      "title": "Archives of Nethys Just Got Paizo's Blessing — Here's What That Means If You Still Run 5e/OGL Content",
+      "why_now": "The new Paizo/AoN agreement is timely and lets you contrast open-content policy with 5e's SRD/OGL mess in your usual dry veteran-GM tone.",
+      "angle": "Quick-take comparison: what counts as 'safe' reference material for homebrew across systems",
+      "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
+    },
+    {
+      "title": "Chaosium's New Innsmouth Book Has a Monster Your DCC Table Needs This Week",
+      "why_now": "Chaosium's definitive Innsmouth guide just dropped, giving a ready-made horror creature to reskin for a DCC or Shadowdark one-shot.",
+      "angle": "Creature tactic short: stat out a Deep One hybrid ambush encounter using DCC/Shadowdark math",
+      "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
+    },
+    {
+      "title": "White Dwarf Taught Us How to Kill PCs Fairly — Modern 5e Forgot It",
+      "why_now": "The White Dwarf Reflections retrospective is trending with old-school fans and sets up a nostalgic-but-sharp rules ruling comparing old-school lethality design to modern 5e encounter balance.",
+      "angle": "Wry veteran-GM comparison bit: one old-school trap/encounter rule vs. its watered-down 5e equivalent",
+      "source": "https://www.enworld.org/threads/white-dwarf-reflections-42.719303/"
     }
   ]
 }

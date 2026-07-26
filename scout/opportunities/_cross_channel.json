@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-25T11:27:00+00:00",
+  "generated": "2026-07-26T11:28:42+00:00",
   "plays": [
     {
-      "story": "D&D's next major product announcement leaks as a World of Warcraft crossover",
+      "story": "North Korea arrests bank-hacking ring tied to crypto laundering",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'Pyongyang Turns on Its Own: What the NK Bank-Hack Arrests Mean for Laundered Crypto Trails' — trace how the seized funds moved through mixers/exchanges and what it signals for exchange compliance teams bracing for more state-actor crackdowns.",
+        "itsalreadywhen": "Title: 'When Even North Korea Polices Its Hackers: Inside the Bank-Hacking Ring Busted for Crypto Laundering' — break down the TTPs of the arrested crew as a case study in state-sponsored crypto-laundering tradecraft and what defenders can learn from it."
+      },
+      "source": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report"
+    },
+    {
+      "story": "Robinhood CEO's X account hacked in memecoin scam",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'The CEO Tweet That Wasn't: How a Hacked X Account Pumped a Memecoin in Minutes' — dissect the pump-and-dump mechanics and what it reveals about impersonation risk driving retail memecoin volatility.",
+        "itsalreadywhen": "Title: 'One Password Reset Away From a Pump: The Robinhood CEO Account Takeover, Explained' — use the incident as a teachable moment on executive account security, SIM-swap/social-engineering vectors, and why high-profile X accounts remain soft targets."
+      },
+      "source": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam"
+    },
+    {
+      "story": "D&D's next big reveal leaks as a World of Warcraft crossover",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "5 Ways a WoW-Flavored D&D Set Could Wreck (or Save) Your Campaign Balance — a practical breakdown of how Azeroth mechanics/monsters might slot into home games and what GMs should brace for.",
-        "itsalreadywritten": "Azeroth Meets the Forgotten Realms: What D&D's WoW Crossover Says About the Future of Licensed Lore — an analysis of canon-mixing, IP crossovers, and what it means for tabletop fiction/worldbuilding going forward."
+        "bizzal-games": "Title: 'D&D x World of Warcraft: What a Crossover Ruleset Would Actually Need to Not Suck' — a design-nerd breakdown of the mechanical challenges (classes, factions, tone) in translating WoW into 5e/One D&D.",
+        "itsalreadywritten": "Title: 'Azeroth at Your Table: What the Leaked D&D/WoW Crossover Means for Shared-World Storytelling' — explore the lore/IP-blending precedent this sets, and how DMs might weave WoW factions into homebrew campaigns before the official book drops."
       },
       "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
     },
     {
-      "story": "ENNIE Award Dream Date Guide 2026",
+      "story": "Gnome Stew's Blades in the Dark mechanics essay",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Your GenCon Survival Guide: The ENNIE Dream Date Picks Worth Rearranging Your Schedule For — a play-first rundown of standout nominated games/products worth demoing at the table.",
-        "itsalreadywritten": "The Best Writing in Tabletop This Year: What the ENNIE Nominees Reveal About TTRPG Storytelling in 2026 — a craft-focused look at nominated adventures/sourcebooks as narrative works."
+        "bizzal-games": "Title: 'Steal These 3 Blades in the Dark Mechanics for Any System Tonight' — a practical toolkit piece pulling flashbacks, clocks, and position/effect into non-PbtA games at the table this weekend.",
+        "itsalreadywritten": "Title: 'Why Flashbacks Are the Best Narrative Trick Blades in the Dark Ever Stole' — a craft-focused look at how the flashback mechanic reshapes heist storytelling and pacing for GMs writing their own scores."
       },
-      "source": "https://www.enworld.org/threads/ennie-award-dream-date-guide-2026.720004/"
-    },
-    {
-      "story": "BlueNoroff's new Zoom-based phishing kit profiles victims' crypto wallets before deploying malware",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Got a 'Zoom Call' From a VC? North Korea's BlueNoroff Is Casing Your Crypto Wallet First — a warning for founders/investors on the new social-engineering vector targeting holdings, with practical opsec tips.",
-        "itsalreadywhen": "Inside BlueNoroff's New Zoom Phishing Kit: How It Fingerprints Wallets Before Dropping Malware — a technical teardown of the kit's targeting logic and delivery chain for security teams."
-      },
-      "source": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
-    },
-    {
-      "story": "Hackers steal $31.6M across two crypto bridge exploits within 7 hours",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Two Bridges, Seven Hours, $31.6M Gone: What Every DeFi Investor Should Learn From This Week's Exploit Spree — market-impact framing and a due-diligence checklist for bridge-reliant protocols.",
-        "itsalreadywhen": "Bridge Contracts Keep Breaking the Same Way: A Technical Post-Mortem on This Week's $31.6M Exploits — dissecting the shared vulnerability class behind back-to-back bridge hacks."
-      },
-      "source": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://gnomestew.com/three-mechanics-from-blades-in-the-dark-i-want-in-all-my-games/"
     }
   ]
 }
