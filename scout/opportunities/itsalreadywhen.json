@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-26T11:28:42+00:00",
+  "generated": "2026-07-27T12:04:10+00:00",
   "opportunities": [
     {
-      "title": "The Pope's Prayer App Leaked 700K Souls' Data — Even the Vatican Isn't Patch-Immune",
-      "why_now": "A widely-covered breach of a religious institution's app is a rare, highly shareable story that dropped simultaneously on The Register and Dark Reading in the last 24 hours.",
-      "angle": "Wry breach-digest writeup: what leaked (PII of 700K+ users), how a supposedly trusted app failed basic security hygiene, and the broader lesson that no org is too sacred to skip patch cadence.",
-      "source": "https://www.theregister.com/security/2026/07/24/popes-official-prayer-app-commits-cardinal-sin-leaks-700k-users-info/5278603"
+      "title": "DentaQuest Breach Hits 23 Million — Your Teeth Records Are Now Someone Else's Problem",
+      "why_now": "A single dental benefits breach just exposed nearly 1 in 14 Americans' PII, making it one of the largest healthcare breaches of the year.",
+      "angle": "Breach-digest deep dive: what DentaQuest lost, why dental/insurance data is a juicy target, and what 23M people should do now.",
+      "source": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/"
     },
     {
-      "title": "Oracle Just Shipped 1,449 Patches — And That's the New Normal",
-      "why_now": "A quarterly patch dump of nearly 1,500 fixes is a stark, quantifiable illustration of unsustainable patch cadence that fits the channel's core beat perfectly.",
-      "angle": "Data-driven patch-cadence piece: break down patch count trend over recent quarters, highlight critical CVEs buried in the pile, and ask if 'patch everything' is even achievable anymore.",
-      "source": "https://www.theregister.com/security/2026/07/23/oracle-drops-1449-security-patches-like-its-the-new-normal/5277114"
+      "title": "Coca-Cola's Data Breach Came From Its Milk, Not Its Soda — Fairlife Ransomware Explained",
+      "why_now": "A ransomware hit on Coca-Cola's Fairlife subsidiary just became a confirmed corporate breach, tying a household name to the day's ransomware economy.",
+      "angle": "Breach-of-the-day writeup connecting the ransomware group, the subsidiary attack vector, and lessons for supply-chain-adjacent breach exposure.",
+      "source": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/"
     },
     {
-      "title": "Cl0p's New Playground: Unauthenticated RCE in PTC Windchill and FlexPLM Under Active Attack",
-      "why_now": "A named ransomware crew is actively exploiting unauthenticated RCE in widely-used PLM software right now, making this a live, urgent threat-actor story.",
-      "angle": "Threat-actor spotlight: who Cl0p is, why internet-exposed PLM/PDM systems are a juicy target, and immediate mitigation steps for orgs running Windchill/FlexPLM.",
-      "source": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html"
-    },
-    {
-      "title": "Russia's Zimbra Zero-Day Has Been Quietly Hitting US and Ukraine for Months",
-      "why_now": "A nation-state-linked zero-day actively exploited against US and Ukrainian targets is exactly the inevitable-breach material this channel thrives on, and it's freshly reported.",
-      "angle": "Threat-actor + CVE deep dive: timeline of exploitation, Zimbra's patch status, and what defenders should watch for in mail-server logs.",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets"
-    },
-    {
-      "title": "Fastjson Has an RCE Being Exploited in the Wild — And There's No Patch",
-      "why_now": "Active in-the-wild exploitation of a legacy library with zero available patch is a rare 'no fix exists' emergency that demands immediate attention from dev/ops teams.",
-      "angle": "Urgent advisory-style post: explain the vuln, who's exploiting it, why Fastjson 1.x can't easily be patched, and workaround/mitigation options (WAF rules, dependency removal).",
+      "title": "Fastjson 1.x Has an RCE Being Exploited in the Wild — And There's No Patch Coming",
+      "why_now": "Active attacks are hitting a widely-used Java library with zero fix available, a rare unpatchable-CVE situation demanding immediate mitigation guidance.",
+      "angle": "Urgent CVE alert format: what's vulnerable, who's exploiting it, and mitigation-since-no-patch steps for defenders.",
       "source": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
+    },
+    {
+      "title": "Microsoft's Default Azure Setting Was a Cross-Tenant Backdoor All Along",
+      "why_now": "Researchers just disclosed that an Azure Automation default config enables full cross-tenant identity takeover, a sleeper misconfig affecting untold enterprise tenants.",
+      "angle": "Explainer + patch-cadence angle: how the default got there, what Microsoft's fix looks like, and an audit checklist for admins.",
+      "source": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover"
+    },
+    {
+      "title": "Cl0p Is Back — Now Popping PTC Windchill and FlexPLM With Unauthenticated RCE",
+      "why_now": "Cl0p affiliates are actively exploiting fresh unauthenticated RCE bugs in widely-used PLM software, echoing their pattern of mass-exploiting enterprise file/product platforms.",
+      "angle": "Threat-actor tracker piece: Cl0p's playbook, why PLM software is the new MOVEit, and exposure-check guidance for manufacturers.",
+      "source": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html"
     }
   ]
 }

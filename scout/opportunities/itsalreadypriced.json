@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-26T11:28:42+00:00",
+  "generated": "2026-07-27T12:04:10+00:00",
   "opportunities": [
     {
-      "title": "The Robinhood CEO Got Phished for a Memecoin. If Him, Then You.",
-      "why_now": "A sitting exchange CEO's X account was hijacked to shill a memecoin, proving even the most security-conscious operators are one bad click from disaster.",
-      "angle": "Incident breakdown + practical checklist on account takeover vectors execs and retail alike keep falling for",
-      "source": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Triple-A's Wallet Is Still Bleeding: How a 'Confirmed Breach' Became a Live Drain to $11.8M",
+      "why_now": "Reports show new deposits are still being swept into the attacker's wallet even after Triple-A publicly confirmed the breach, meaning the 'incident' is still active.",
+      "angle": "Timeline/forensics breakdown — show the gap between disclosure and containment, with a checklist for what a real incident response should look like vs. what Triple-A is doing",
+      "source": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report"
     },
     {
-      "title": "SummerFi Didn't Get Hacked for Millions — It Died Anyway. That's the Real Warning.",
-      "why_now": "A seven-year-old DeFi protocol is winding down citing an exploit, showing that reputational and operational damage from a hack can kill a project even without a nine-figure loss.",
-      "angle": "Postmortem essay: the slow-bleed exploit vs the headline hack, and why 'we survived the hack' is often a lie",
+      "title": "SparkKitty Is in Your Photo Roll Right Now: The Malware That Hunts Seed Phrase Screenshots",
+      "why_now": "A new mobile malware strain is confirmed scanning photo libraries specifically for crypto seed phrases, hitting the most common self-custody mistake — screenshotting your recovery phrase.",
+      "angle": "Practical opsec explainer: how SparkKitty works, why 'just a screenshot' is the #1 wallet-drainer vector, and a 3-step fix (delete screenshots, use metal backup, audit app permissions)",
+      "source": "https://www.theblock.co/post/409716/sparkkitty-malware-hidden-in-mobile-apps-scans-photos-for-crypto-wallet-seed-phrases"
+    },
+    {
+      "title": "Bitkub Didn't Just Get Hacked for $47M — It Allegedly Hid It From Regulators",
+      "why_now": "Thailand's SEC filed a criminal complaint alleging Bitkub concealed a $47M hack, turning a security incident into a disclosure-fraud case with legal teeth.",
+      "angle": "'This is how it always ends' case study: exchange hack → cover-up → regulator finds out anyway → criminal complaint. Use as a template to predict which current 'unconfirmed' incidents get this treatment next",
+      "source": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec"
+    },
+    {
+      "title": "Exploit, Bankruptcy, Wind-Down: SummerFi, Storj, Poolin and BitMart Died in the Same Week",
+      "why_now": "Four unrelated crypto entities — a DeFi protocol citing an exploit, a storage token filer, a mining pool, and an exchange — all shut down within days of each other, exposing how thin the margin for a single security failure has become.",
+      "angle": "Roundup/pattern piece: 'the shutdown wave' — map each collapse back to a security or trust failure, argue this is the new normal cost of running unaudited infra in a bear-liquidity market",
       "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
     },
     {
-      "title": "North Korea's Own Hackers Just Got Arrested — By North Korea. Read That Twice.",
-      "why_now": "State-linked hackers laundering stolen bank funds through crypto were arrested by their own government, a rare crack in the DPRK crypto-crime pipeline worth dissecting for laundering-pattern watchers.",
-      "angle": "Explainer on what this signals about DPRK internal crypto ops and whether it changes laundering flows Chainalysis-style trackers should watch",
-      "source": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "Arthur Hayes Built an 'Insider Trading Desk.' BitMEX Is Closing. Connect the Dots.",
-      "why_now": "Fresh fraud claims against BitMEX co-founders over an alleged insider desk land right as the exchange winds down, a textbook case study in how founder-level abuse eventually surfaces.",
-      "angle": "Timeline piece tracing BitMEX's history of regulatory near-misses to this final allegation, framed as 'the ending was always coming'",
-      "source": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "title": "AI Hasn't Broken DeFi Security Yet — But Every Bug It Finds First Is a Preview",
-      "why_now": "A new report says AI-driven hacking fears are overstated for now, which is exactly the calm-before-the-storm framing this channel's audience needs to hear before it's too late.",
-      "angle": "Analysis piece arguing 'not yet' is not the same as 'not going to happen,' with concrete predictions on where AI-assisted exploits hit first",
-      "source": "https://cointelegraph.com/magazine/ai-hasnt-unleashed-a-defi-hackpocalypse-but-its-making-every-weakness-more-dangerous?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Quantum Computing Won't Wait for Your Roadmap — Why Crypto Is the Canary, Not the Exception",
+      "why_now": "Security experts are flagging crypto as the first real-world casualty of quantum decryption risk, right as Hoskinson warns Bitcoin could lose dominance if it fails a 'quantum test.'",
+      "angle": "Explainer with a hard edge: what a quantum break actually does to ECDSA-signed wallets, why 'we'll upgrade later' is the same complacency that preceded every hack on this list, timeline for when this stops being theoretical",
+      "source": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say"
     }
   ]
 }

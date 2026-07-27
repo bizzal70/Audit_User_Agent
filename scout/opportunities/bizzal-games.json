@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-26T11:28:42+00:00",
+  "generated": "2026-07-27T12:04:10+00:00",
   "opportunities": [
     {
-      "title": "D&D x World of Warcraft Just Leaked — Here's the One Rule That'll Break Your Table",
-      "why_now": "The WoW/D&D crossover leak is the single biggest tabletop story of the week and begs for a dry mechanical take on how a video-game IP crossover interacts with 5e balance.",
-      "angle": "Short: predict the busted subclass/spell this crossover will spawn, then rule how you'd nerf it at your table",
+      "title": "WoW x D&D Crossover Leaked — Here's the One Monster Stat Block They'll Botch",
+      "why_now": "The leaked WoW/D&D product announcement is dominating tabletop news feeds right now and begs for a mechanical reality check.",
+      "angle": "60-sec short: predict/critique how a WoW icon (e.g., Lich King) would actually need to be statted for 5e vs Shadowdark, dry veteran-GM takedown",
       "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
     },
     {
-      "title": "Steal This: Blades in the Dark's Devil's Bargain, Ported to 5e Skill Checks",
-      "why_now": "Gnome Stew's piece on portable Blades mechanics is fresh and gives a concrete system to convert for a rules-hack short.",
-      "angle": "One mechanic breakdown: show the exact 5e trigger wording so GMs can drop it in tonight's session",
-      "source": "https://gnomestew.com/three-mechanics-from-blades-in-the-dark-i-want-in-all-my-games/"
+      "title": "The Lazy GM Ruling You're Already Breaking: Sly Flourish's Toolbox, Tested at My Table",
+      "why_now": "Sly Flourish's toolbox piece just dropped and is generating fresh discussion among GM-prep nerds this week.",
+      "angle": "One ruling per short: pick a single toolbox technique (e.g., 'strong start') and show the exact rules-legal way to execute it in 5e/Shadowdark, no fluff",
+      "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
     },
     {
-      "title": "Archives of Nethys Just Got Paizo's Blessing — Here's What That Means If You Still Run 5e/OGL Content",
-      "why_now": "The new Paizo/AoN agreement is timely and lets you contrast open-content policy with 5e's SRD/OGL mess in your usual dry veteran-GM tone.",
-      "angle": "Quick-take comparison: what counts as 'safe' reference material for homebrew across systems",
+      "title": "Archives of Nethys Just Got a Legal Blessing — Here's the 5e Move You Should Steal From PF2e SRD Culture",
+      "why_now": "Paizo/AoN's new agreement is a live news hook about open rules access that tabletop audiences are discussing right now.",
+      "angle": "Cross-system tactic short: take a PF2e mechanic newly easy to browse via AoN and show its closest 5e/DCC equivalent ruling",
       "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
     },
     {
-      "title": "Chaosium's New Innsmouth Book Has a Monster Your DCC Table Needs This Week",
-      "why_now": "Chaosium's definitive Innsmouth guide just dropped, giving a ready-made horror creature to reskin for a DCC or Shadowdark one-shot.",
-      "angle": "Creature tactic short: stat out a Deep One hybrid ambush encounter using DCC/Shadowdark math",
-      "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
+      "title": "ENNIE Nominees Are Out — The One Spell Use-Case From This Year's Best Adventure You're Not Running",
+      "why_now": "The ENNIE Dream Date Guide is circulating as the definitive nominee shortlist, giving a timely excuse to spotlight a nominated module's standout mechanic.",
+      "angle": "Pull one nominated adventure, extract a specific spell/tactic moment from it, demonstrate the ruling on camera",
+      "source": "https://www.enworld.org/threads/ennie-award-dream-date-guide-2026.720004/"
     },
     {
-      "title": "White Dwarf Taught Us How to Kill PCs Fairly — Modern 5e Forgot It",
-      "why_now": "The White Dwarf Reflections retrospective is trending with old-school fans and sets up a nostalgic-but-sharp rules ruling comparing old-school lethality design to modern 5e encounter balance.",
-      "angle": "Wry veteran-GM comparison bit: one old-school trap/encounter rule vs. its watered-down 5e equivalent",
-      "source": "https://www.enworld.org/threads/white-dwarf-reflections-42.719303/"
+      "title": "Sending Spell Isn't a Text Message: The 'Special Delivery' Ruling Nobody Runs Right",
+      "why_now": "EN World's 'Special Delivery' piece is fresh and hands us a direct hook into a chronically misplayed spell interaction.",
+      "angle": "Mechanical ruling short: break down Sending/Teleportation Circle/courier-NPC edge cases with strict RAW readings, wry delivery",
+      "source": "https://www.enworld.org/threads/rpg-evolution-special-delivery.719759/"
     }
   ]
 }

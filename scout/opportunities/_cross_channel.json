@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-26T11:28:42+00:00",
+  "generated": "2026-07-27T12:04:10+00:00",
   "plays": [
     {
-      "story": "North Korea arrests bank-hacking ring tied to crypto laundering",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'Pyongyang Turns on Its Own: What the NK Bank-Hack Arrests Mean for Laundered Crypto Trails' — trace how the seized funds moved through mixers/exchanges and what it signals for exchange compliance teams bracing for more state-actor crackdowns.",
-        "itsalreadywhen": "Title: 'When Even North Korea Polices Its Hackers: Inside the Bank-Hacking Ring Busted for Crypto Laundering' — break down the TTPs of the arrested crew as a case study in state-sponsored crypto-laundering tradecraft and what defenders can learn from it."
-      },
-      "source": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report"
-    },
-    {
-      "story": "Robinhood CEO's X account hacked in memecoin scam",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'The CEO Tweet That Wasn't: How a Hacked X Account Pumped a Memecoin in Minutes' — dissect the pump-and-dump mechanics and what it reveals about impersonation risk driving retail memecoin volatility.",
-        "itsalreadywhen": "Title: 'One Password Reset Away From a Pump: The Robinhood CEO Account Takeover, Explained' — use the incident as a teachable moment on executive account security, SIM-swap/social-engineering vectors, and why high-profile X accounts remain soft targets."
-      },
-      "source": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam"
-    },
-    {
-      "story": "D&D's next big reveal leaks as a World of Warcraft crossover",
+      "story": "A leak claims D&D's next major crossover product is a World of Warcraft tie-in, breaking right alongside a livestream podcast dissecting the leak",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'D&D x World of Warcraft: What a Crossover Ruleset Would Actually Need to Not Suck' — a design-nerd breakdown of the mechanical challenges (classes, factions, tone) in translating WoW into 5e/One D&D.",
-        "itsalreadywritten": "Title: 'Azeroth at Your Table: What the Leaked D&D/WoW Crossover Means for Shared-World Storytelling' — explore the lore/IP-blending precedent this sets, and how DMs might weave WoW factions into homebrew campaigns before the official book drops."
+        "bizzal-games": "Title: 'Is a D&D x World of Warcraft Sourcebook Really Coming? Here's What GMs Should Start Prepping For' — break down the leak's crunch: new classes/races, adventure hooks, and whether tables should hold off on homebrew Azeroth conversions until WotC confirms.",
+        "itsalreadywritten": "Title: 'The Alliance and Horde Roll Initiative: What a WoW–D&D Crossover Means for Shared-World Canon' — take the narrative/lore angle on merging two decades-deep fictional universes into one ruleset, and what gets lost or gained when Azeroth's story bends to d20 mechanics."
       },
       "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
     },
     {
-      "story": "Gnome Stew's Blades in the Dark mechanics essay",
+      "story": "Paizo and Archives of Nethys formalize their relationship, securing the future of the most-used free Pathfinder/Starfinder rules database",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'Steal These 3 Blades in the Dark Mechanics for Any System Tonight' — a practical toolkit piece pulling flashbacks, clocks, and position/effect into non-PbtA games at the table this weekend.",
-        "itsalreadywritten": "Title: 'Why Flashbacks Are the Best Narrative Trick Blades in the Dark Ever Stole' — a craft-focused look at how the flashback mechanic reshapes heist storytelling and pacing for GMs writing their own scores."
+        "bizzal-games": "Title: 'Paizo Just Locked In Your Favorite Free Pathfinder Database — Here's What Actually Changes for GMs' — practical breakdown of what the new agreement means for access, updates, and whether third-party tools built on Nethys are safe long-term.",
+        "itsalreadywritten": "Title: 'How a Fan-Run Wiki Became Pathfinder's De Facto Canon — and Why Paizo Just Made It Official' — the lore-preservation angle: when community documentation becomes the accepted record of a game's fiction, formalizing it is basically canonizing fan labor."
       },
-      "source": "https://gnomestew.com/three-mechanics-from-blades-in-the-dark-i-want-in-all-my-games/"
+      "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
+    },
+    {
+      "story": "BlueNoroff's new Zoom-based phishing kit profiles victims' crypto wallets before delivering malware, blending social engineering with targeted crypto theft",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'North Korea's BlueNoroff Is Casing Your Wallet Before the Zoom Call Even Starts' — frame as a market-risk story: state-sponsored actors are now doing reconnaissance on holdings before striking, raising the cost of careless self-custody habits ahead of any hack headlines.",
+        "itsalreadywhen": "Title: 'Recon-First Malware: Inside the Zoom Phishing Kit That Profiles You Before It Infects You' — the inevitability angle: this is the next evolution of targeted attacks — profiling precedes payload, meaning 'it's already when' the call started, not when the malware lands."
+      },
+      "source": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
+    },
+    {
+      "story": "SparkKitty malware hidden in mobile apps scans users' photo libraries specifically for crypto wallet seed phrases",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'Your Screenshot of Your Seed Phrase Is Now a Liability: SparkKitty Hunts Wallets Photo by Photo' — a self-custody wake-up call tying directly into the same week's Triple-A and WEMIX hot-wallet losses: the common thread is basic opsec failures, not protocol bugs.",
+        "itsalreadywhen": "Title: 'SparkKitty Doesn't Wait for You to Get Phished — It Just Reads Your Photos' — the passive-surveillance angle: malware that mines existing data (camera rolls) rather than tricking you into an action marks a shift toward assume-breach mobile threat models."
+      },
+      "source": "https://www.theblock.co/post/409716/sparkkitty-malware-hidden-in-mobile-apps-scans-photos-for-crypto-wallet-seed-phrases?utm_source=rss&utm_medium=rss"
     }
   ]
 }

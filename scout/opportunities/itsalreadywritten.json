@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-26T11:28:42+00:00",
+  "generated": "2026-07-27T12:04:10+00:00",
   "opportunities": [
     {
-      "title": "Archives of Nethys Just Got Paizo's Blessing—Here's What Changes for Your Rules Lookups",
-      "why_now": "A fresh official agreement between Paizo and the fan-run SRD site directly affects how players access core rules text.",
-      "angle": "News breakdown: what the agreement covers, what's now official vs. fan-hosted, and what it means for citing rules at the table",
-      "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
-    },
-    {
-      "title": "D&D Meets Azeroth: What a World of Warcraft Product Actually Means for 5E Rules",
-      "why_now": "A leak suggests WotC's next major D&D announcement is a WoW crossover, raising immediate rules-compatibility questions.",
-      "angle": "Rules-first speculation piece: new classes/subclasses, monster stat conversions, and how licensed settings typically get folded into core mechanics",
+      "title": "The D&D/Warcraft Leak Isn't a Skin—It's a New Ruleset Question",
+      "why_now": "The leaked WoW/D&D crossover announcement is the biggest rules-adjacent story of the week and fans are already speculating about mechanics.",
+      "angle": "Rules breakdown: predict what a WoW 5E/2024-rules book needs to solve (classes vs. WoW roles, races, IP-specific subsystems) before official reveal",
       "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
     },
     {
-      "title": "3 Blades in the Dark Mechanics That Should Be Errata for Every RPG",
-      "why_now": "Gnome Stew's fresh analysis names specific subsystems worth stealing, giving a rules-adaptation angle GMs can act on this weekend.",
-      "angle": "Response/expansion piece: rules-text breakdown of Position/Effect, Flashbacks, and Clocks with drop-in conversion notes for D&D/PF2e tables",
-      "source": "https://gnomestew.com/three-mechanics-from-blades-in-the-dark-i-want-in-all-my-games/"
+      "title": "Paizo Just Rewrote the Rules on 'Open' Rules Access—Here's What the Nethys Deal Actually Changes",
+      "why_now": "The new Paizo/Archives of Nethys agreement directly affects how players and GMs access official rules text, a core beat topic.",
+      "angle": "Explainer: parse the agreement's terms (licensing, content scope, update cadence) vs. what fans assumed 'open' meant",
+      "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
     },
     {
-      "title": "Chaosium's Innsmouth Book: The New Canon Source for Deep One Stats and Lore",
-      "why_now": "A newly released 'definitive guide' to Innsmouth likely codifies rules and stat blocks GMs will now treat as canonical.",
-      "angle": "Rules-facts rundown: what's mechanically new (stat blocks, scenario hooks, Sanity rules tweaks) vs. classic Call of Cthulhu material",
-      "source": "https://www.enworld.org/threads/chaosiums-new-book-on-lovecrafts-innsmouth-is-the-definitive-guide.720001/"
+      "title": "Sly Flourish's Lazy GM Toolbox: Which 'Rules' Are Actually Prep Shortcuts",
+      "why_now": "Sly Flourish's new Rise of the Lazy Gamemaster piece is fresh, high-authority GM advice ripe for a rules-first cross-check.",
+      "angle": "Annotated breakdown: map each toolbox item back to the actual rulebook mechanic it's shortcutting",
+      "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
     },
     {
-      "title": "White Dwarf's Rules That Time Forgot: What Reflections #42 Reveals",
-      "why_now": "The ongoing White Dwarf Reflections series is digging into historical rules content, perfect fodder for a 'rules archaeology' piece.",
-      "angle": "Retrospective explainer: pull specific old rules/mechanics discussed in issue #42 and compare them to modern equivalents",
-      "source": "https://www.enworld.org/threads/white-dwarf-reflections-42.719303/"
+      "title": "Anne Rice Has a TTRPG Now—What System Is It Actually Running On?",
+      "why_now": "Podcast #407 dropped the first mention of an Anne Rice TTRPG, and no one's confirmed the ruleset yet.",
+      "angle": "Investigative: track down publisher/system details, compare to other licensed-IP horror TTRPGs' mechanical choices",
+      "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
+    },
+    {
+      "title": "ENNIE Nominees, Ranked by Rules Innovation (Not Just Vibes)",
+      "why_now": "The ENNIE Dream Date Guide 2026 is circulating now while nominees are fresh in fan conversation ahead of the ceremony.",
+      "angle": "Ranked list: score nominated systems purely on mechanical innovation, ignoring art/presentation",
+      "source": "https://www.enworld.org/threads/ennie-award-dream-date-guide-2026.720004/"
     }
   ]
 }
