@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-27T12:04:10+00:00",
+  "generated": "2026-07-28T11:41:13+00:00",
   "plays": [
     {
-      "story": "A leak claims D&D's next major crossover product is a World of Warcraft tie-in, breaking right alongside a livestream podcast dissecting the leak",
+      "story": "EN World's Podcast #407 livestream teases Warcraft/D&D crossover leaks alongside news that Anne Rice's Vampire Chronicles is getting an official TTRPG adaptation",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'Is a D&D x World of Warcraft Sourcebook Really Coming? Here's What GMs Should Start Prepping For' — break down the leak's crunch: new classes/races, adventure hooks, and whether tables should hold off on homebrew Azeroth conversions until WotC confirms.",
-        "itsalreadywritten": "Title: 'The Alliance and Horde Roll Initiative: What a WoW–D&D Crossover Means for Shared-World Canon' — take the narrative/lore angle on merging two decades-deep fictional universes into one ruleset, and what gets lost or gained when Azeroth's story bends to d20 mechanics."
+        "bizzal-games": "'Warcraft Meets D&D: What the Leaked Crossover Rules Actually Say' — break down the rumored mechanics/stat blocks fans are dissecting from the podcast leak before WotC confirms anything officially.",
+        "itsalreadywritten": "'Interview with a Character Sheet: Anne Rice's Vampire Chronicles Is Becoming a TTRPG' — dig into how a beloved horror-lit universe gets translated into crunch, and what licensed-fiction RPGs tend to get right or butcher."
       },
-      "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
+      "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
     },
     {
-      "story": "Paizo and Archives of Nethys formalize their relationship, securing the future of the most-used free Pathfinder/Starfinder rules database",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Title: 'Paizo Just Locked In Your Favorite Free Pathfinder Database — Here's What Actually Changes for GMs' — practical breakdown of what the new agreement means for access, updates, and whether third-party tools built on Nethys are safe long-term.",
-        "itsalreadywritten": "Title: 'How a Fan-Run Wiki Became Pathfinder's De Facto Canon — and Why Paizo Just Made It Official' — the lore-preservation angle: when community documentation becomes the accepted record of a game's fiction, formalizing it is basically canonizing fan labor."
-      },
-      "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
-    },
-    {
-      "story": "BlueNoroff's new Zoom-based phishing kit profiles victims' crypto wallets before delivering malware, blending social engineering with targeted crypto theft",
+      "story": "A wave of crypto treasury/protocol hacks this week — Triple-A's $11.8M treasury-wallet breach, WEMIX's $724K contract exploit, and Garden Finance's $450K HTLC drain",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'North Korea's BlueNoroff Is Casing Your Wallet Before the Zoom Call Even Starts' — frame as a market-risk story: state-sponsored actors are now doing reconnaissance on holdings before striking, raising the cost of careless self-custody habits ahead of any hack headlines.",
-        "itsalreadywhen": "Title: 'Recon-First Malware: Inside the Zoom Phishing Kit That Profiles You Before It Infects You' — the inevitability angle: this is the next evolution of targeted attacks — profiling precedes payload, meaning 'it's already when' the call started, not when the malware lands."
+        "itsalreadypriced": "'Three Breaches, $13M Gone: This Week's Crypto Treasury Carnage' — tally the losses, name the projects, and ask what it says about treasury-wallet hygiene across DeFi right now.",
+        "itsalreadywhen": "'When Your Treasury Wallet Becomes Someone Else's ATM' — technical postmortem on how Triple-A's wallet and Garden Finance's HTLC got popped, and the multisig/access-control lessons every org should be stealing."
       },
-      "source": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
+      "source": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "SparkKitty malware hidden in mobile apps scans users' photo libraries specifically for crypto wallet seed phrases",
+      "story": "The Dysphoria IoT botnet has added blockchain-based command-and-control and victim relay nodes after the JackSkid takedown disrupted its old infrastructure",
+      "channels": [
+        "itsalreadywhen",
+        "itsalreadypriced"
+      ],
+      "angles": {
+        "itsalreadywhen": "'Botnet Goes Onchain: Dysphoria's Blockchain C2 Is Built to Survive Takedowns' — explain how putting command infrastructure on a public ledger makes law-enforcement disruption dramatically harder.",
+        "itsalreadypriced": "'Your Chain Is Now a Botnet's Backup Server' — what it means when malware operators start treating public blockchains as censorship-resistant infrastructure, and why regulators will use this as ammo against 'neutral' chains."
+      },
+      "source": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html"
+    },
+    {
+      "story": "Hong Kong's central bank measures lenders' quantum-computing preparedness and finds it's 'very low'",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Your Screenshot of Your Seed Phrase Is Now a Liability: SparkKitty Hunts Wallets Photo by Photo' — a self-custody wake-up call tying directly into the same week's Triple-A and WEMIX hot-wallet losses: the common thread is basic opsec failures, not protocol bugs.",
-        "itsalreadywhen": "Title: 'SparkKitty Doesn't Wait for You to Get Phished — It Just Reads Your Photos' — the passive-surveillance angle: malware that mines existing data (camera rolls) rather than tricking you into an action marks a shift toward assume-breach mobile threat models."
+        "itsalreadypriced": "'Hong Kong Banks Just Failed Their Quantum Readiness Test — Should Bitcoin Holders Care?' — translate the finding into a plain-English explainer on quantum risk to crypto custody and signature schemes, with a realistic timeline check.",
+        "itsalreadywhen": "'The Quantum Clock Is Ticking and Nobody's Ready, Says Hong Kong's Own Central Bank' — use the report as a hook to cover where post-quantum migration actually stands across critical infrastructure in 2026."
       },
-      "source": "https://www.theblock.co/post/409716/sparkkitty-malware-hidden-in-mobile-apps-scans-photos-for-crypto-wallet-seed-phrases?utm_source=rss&utm_medium=rss"
+      "source": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low"
     }
   ]
 }

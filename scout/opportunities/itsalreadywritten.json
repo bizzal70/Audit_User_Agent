@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-27T12:04:10+00:00",
+  "generated": "2026-07-28T11:41:13+00:00",
   "opportunities": [
     {
-      "title": "The D&D/Warcraft Leak Isn't a Skin—It's a New Ruleset Question",
-      "why_now": "The leaked WoW/D&D crossover announcement is the biggest rules-adjacent story of the week and fans are already speculating about mechanics.",
-      "angle": "Rules breakdown: predict what a WoW 5E/2024-rules book needs to solve (classes vs. WoW roles, races, IP-specific subsystems) before official reveal",
-      "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
+      "title": "The Jungle King's Magic Items, Fully Statted: A Rules Breakdown of EN World's Wilderness Loot Haul",
+      "why_now": "EN World just dropped a fresh wilderness magic item roundup, giving us new mechanics to dissect before every other outlet does the surface-level 'cool items!' post.",
+      "angle": "Line-by-line rules analysis: attunement requirements, action economy interactions, and how each item breaks or balances existing wilderness survival mechanics.",
+      "source": "https://www.enworld.org/threads/a-true-king-of-the-jungle-and-wilderness-themed-magic-items.720050/"
     },
     {
-      "title": "Paizo Just Rewrote the Rules on 'Open' Rules Access—Here's What the Nethys Deal Actually Changes",
-      "why_now": "The new Paizo/Archives of Nethys agreement directly affects how players and GMs access official rules text, a core beat topic.",
-      "angle": "Explainer: parse the agreement's terms (licensing, content scope, update cadence) vs. what fans assumed 'open' meant",
-      "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
-    },
-    {
-      "title": "Sly Flourish's Lazy GM Toolbox: Which 'Rules' Are Actually Prep Shortcuts",
-      "why_now": "Sly Flourish's new Rise of the Lazy Gamemaster piece is fresh, high-authority GM advice ripe for a rules-first cross-check.",
-      "angle": "Annotated breakdown: map each toolbox item back to the actual rulebook mechanic it's shortcutting",
-      "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
-    },
-    {
-      "title": "Anne Rice Has a TTRPG Now—What System Is It Actually Running On?",
-      "why_now": "Podcast #407 dropped the first mention of an Anne Rice TTRPG, and no one's confirmed the ruleset yet.",
-      "angle": "Investigative: track down publisher/system details, compare to other licensed-IP horror TTRPGs' mechanical choices",
+      "title": "Warcraft x D&D: What the Leaked Crossover Would Actually Have to Change in 5E's Rules",
+      "why_now": "The Podcast #407 livestream just surfaced fresh Warcraft/D&D leak chatter, and speculation is running ahead of any actual rules text.",
+      "angle": "Rules-first speculation piece: map Warcraft classes/races onto existing 5E chassis, flag what reprints or reskins would be needed, cite precedent from prior IP crossovers (Critical Role, Rick and Morty).",
       "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
     },
     {
-      "title": "ENNIE Nominees, Ranked by Rules Innovation (Not Just Vibes)",
-      "why_now": "The ENNIE Dream Date Guide 2026 is circulating now while nominees are fresh in fan conversation ahead of the ceremony.",
-      "angle": "Ranked list: score nominated systems purely on mechanical innovation, ignoring art/presentation",
-      "source": "https://www.enworld.org/threads/ennie-award-dream-date-guide-2026.720004/"
+      "title": "The Anne Rice TTRPG Is Real: What We Know (and Don't) About Its Rules So Far",
+      "why_now": "The same podcast confirmed movement on an Anne Rice TTRPG, and licensed-IP systems always live or die by their first rules reveal.",
+      "angle": "Fact-checked primer format: confirmed details vs. rumor, likely system base (d20? bespoke?), and what a Vampire Chronicles ruleset needs to nail (blood magic, immortal power creep, social mechanics).",
+      "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
+    },
+    {
+      "title": "RPG Evolution's 'Special Delivery': The Overlooked Mechanic Every GM Should Steal",
+      "why_now": "EN World's RPG Evolution column just went live with a fresh mechanical angle worth translating into a hard rules writeup for GMs hunting for table-ready tech.",
+      "angle": "Distill the column's core mechanic into a portable house rule/sidebar, with a clear 'how to run it at your table tonight' checklist.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-special-delivery.719759/"
+    },
+    {
+      "title": "Sly Flourish Codifies the Lazy GM Toolbox — Here's the Rules-First Version",
+      "why_now": "Sly Flourish just published a fresh breakdown of the Lazy GM's Toolbox inside Rise of the Lazy Gamemaster, and it's exactly the kind of prep-system content our audience treats as gospel.",
+      "angle": "Turn the toolbox into a numbered, rules-are-already-written checklist (the eight tools, when to use each, what they replace in traditional prep) for quick reference and shareability.",
+      "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
     }
   ]
 }

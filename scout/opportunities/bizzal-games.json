@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-27T12:04:10+00:00",
+  "generated": "2026-07-28T11:41:13+00:00",
   "opportunities": [
     {
-      "title": "WoW x D&D Crossover Leaked — Here's the One Monster Stat Block They'll Botch",
-      "why_now": "The leaked WoW/D&D product announcement is dominating tabletop news feeds right now and begs for a mechanical reality check.",
-      "angle": "60-sec short: predict/critique how a WoW icon (e.g., Lich King) would actually need to be statted for 5e vs Shadowdark, dry veteran-GM takedown",
-      "source": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/"
+      "title": "The Jungle King's Crown: One Wilderness Magic Item, Three Broken Rulings You're Making Wrong",
+      "why_now": "EN World's new wilderness magic item roundup is fresh discussion fodder for a rules-ruling short.",
+      "angle": "Pick one specific item from the article (e.g., a beast-speech circlet or vine-whip) and do a 60-second mechanical breakdown: RAW text, the ruling most tables get wrong, and the Shadowdark/DCC equivalent fix.",
+      "source": "https://www.enworld.org/threads/a-true-king-of-the-jungle-and-wilderness-themed-magic-items.720050/"
     },
     {
-      "title": "The Lazy GM Ruling You're Already Breaking: Sly Flourish's Toolbox, Tested at My Table",
-      "why_now": "Sly Flourish's toolbox piece just dropped and is generating fresh discussion among GM-prep nerds this week.",
-      "angle": "One ruling per short: pick a single toolbox technique (e.g., 'strong start') and show the exact rules-legal way to execute it in 5e/Shadowdark, no fluff",
+      "title": "Sending Spell Abuse: How 'Special Delivery' Encounters Break Your Campaign Logistics",
+      "why_now": "EN World's RPG Evolution piece on delivery-themed play is a natural tie-in to spell-based courier abuse that DMs constantly misrule.",
+      "angle": "Spell use-case short: Sending, Teleport, and Message spam for couriering goods/info — where RAW draws the line and how to rule it fast at the table.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-special-delivery.719759/"
+    },
+    {
+      "title": "Anne Rice's Vampires vs. 5e Vampire Spawn: Why Your Charm Ruling Is Backwards",
+      "why_now": "The Anne Rice TTRPG reveal on the EN World podcast gives a topical hook to correct a chronically misplayed vampire ability.",
+      "angle": "Creature tactic short: dissect Vampire Spawn's Charm and Bite action economy, the grapple-then-drain sequence DMs skip, with a Shadowdark stat-block comparison.",
+      "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
+    },
+    {
+      "title": "Steal This: The Lazy GM's 10-Minute Prep Toolbox, No Fluff Version",
+      "why_now": "Sly Flourish just published a fresh breakdown of the Lazy GM Toolbox from Rise of the Lazy Gamemaster, ripe for a condensed GM-tip short.",
+      "angle": "Direct-to-camera checklist: the 3 toolbox items every dry veteran GM actually uses before session zero prep, contrasted with bloated prep advice.",
       "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
     },
     {
-      "title": "Archives of Nethys Just Got a Legal Blessing — Here's the 5e Move You Should Steal From PF2e SRD Culture",
-      "why_now": "Paizo/AoN's new agreement is a live news hook about open rules access that tabletop audiences are discussing right now.",
-      "angle": "Cross-system tactic short: take a PF2e mechanic newly easy to browse via AoN and show its closest 5e/DCC equivalent ruling",
-      "source": "https://www.enworld.org/threads/paizo-archives-of-nethys-reach-new-agreement.720020/"
-    },
-    {
-      "title": "ENNIE Nominees Are Out — The One Spell Use-Case From This Year's Best Adventure You're Not Running",
-      "why_now": "The ENNIE Dream Date Guide is circulating as the definitive nominee shortlist, giving a timely excuse to spotlight a nominated module's standout mechanic.",
-      "angle": "Pull one nominated adventure, extract a specific spell/tactic moment from it, demonstrate the ruling on camera",
-      "source": "https://www.enworld.org/threads/ennie-award-dream-date-guide-2026.720004/"
-    },
-    {
-      "title": "Sending Spell Isn't a Text Message: The 'Special Delivery' Ruling Nobody Runs Right",
-      "why_now": "EN World's 'Special Delivery' piece is fresh and hands us a direct hook into a chronically misplayed spell interaction.",
-      "angle": "Mechanical ruling short: break down Sending/Teleportation Circle/courier-NPC edge cases with strict RAW readings, wry delivery",
-      "source": "https://www.enworld.org/threads/rpg-evolution-special-delivery.719759/"
+      "title": "Wounded Monster AI: What Monster Hunter Wilds Gets Right That Your 5e Bestiary Doesn't",
+      "why_now": "Monster Hunter Wilds' new patch reignites talk of monster flee/retreat behavior, a mechanic tabletop GMs constantly forget to run.",
+      "angle": "Creature tactic short: how to rule 'bloodied and fleeing to lair' behavior in 5e/DCC using morale-adjacent house rules, framed as a pop-culture tie-in.",
+      "source": "https://www.rpgsite.net/news/20978-monster-hunter-wilds-demo-release-date-august-2026-patch-notes-event-quest-offline-support"
     }
   ]
 }
