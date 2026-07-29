@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-28T11:41:13+00:00",
+  "generated": "2026-07-29T11:44:42+00:00",
   "opportunities": [
     {
-      "title": "Triple-A's $11.8M Treasury Breach: The Playbook Never Changes",
-      "why_now": "A confirmed treasury-wallet breach with an $11.8M loss just landed, and the mechanics almost certainly rhyme with every prior 'hot wallet as treasury' failure.",
-      "angle": "Incident teardown: reconstruct the attack chain, name the control gap (key custody/multisig threshold), end with the checklist every project ignores until it's too late.",
+      "title": "$1 Billion in Six Months: The H1 2026 Hack Tally Nobody Learned From",
+      "why_now": "Blockaid's H1 2026 report just confirmed crypto hack losses topped $1B with Ethereum and Solana leading, capping a week that added Triple-A, Garden Finance, and WEMIX to the pile.",
+      "angle": "Data-led postmortem: chart the H1 losses by chain/exploit type and argue the pattern (bridges, contract logic, treasury wallets) is now a permanent tax on the industry, not an anomaly",
+      "source": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Triple-A's $11.8M Treasury Breach Is the Same Story With a New Name",
+      "why_now": "Triple-A just confirmed a treasury-wallet breach hitting $11.8M, days after Blockaid flagged treasury wallets as a top attack vector for H1 2026.",
+      "angle": "Incident teardown: walk through what a 'treasury wallet breach' actually means operationally and why multisig/custody hygiene keeps failing at the same step",
       "source": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Three Exploits, One Week: Triple-A, Garden Finance, WEMIX — What Actually Broke",
-      "why_now": "Three distinct incidents (treasury wallet, HTLC bridge, game-token contract) hit within 48 hours, giving a rare clean sample size to compare root causes side by side.",
-      "angle": "Comparative security roundup: one paragraph per incident on the exact failure mode (custody vs. HTLC logic vs. contract permissions), then a unifying thesis on what 2026 attackers are actually targeting.",
-      "source": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "SparkKitty Is Back: The App Store Malware Hunting Your Seed Phrase",
-      "why_now": "Seed-phrase-stealing malware slipping past Apple/Google review is a direct, ongoing threat to retail holders reading this today.",
-      "angle": "Practical security explainer: how SparkKitty operates, what permissions/behaviors to check before installing any wallet-adjacent app, plus a hardware-wallet-first takeaway.",
-      "source": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet"
-    },
-    {
-      "title": "SummerFi Shuts Down After Seven Years — Another Name for the DeFi Exploit Graveyard",
-      "why_now": "A seven-year-old, presumably battle-tested protocol just cited an exploit as the reason it's closing, undercutting the 'time-tested = safe' narrative.",
-      "angle": "Obituary-style post-mortem: what SummerFi survived vs. what finally killed it, framed as a reminder that longevity isn't a security model.",
+      "title": "SummerFi Didn't Retire, It Got Exploited Into Retirement",
+      "why_now": "SummerFi is winding down after seven years and explicitly citing an exploit, a rare admission that a hack — not market conditions — killed a legacy DeFi protocol.",
+      "angle": "Obituary format: use SummerFi as a case study in how a single exploit can end a multi-year protocol, and what that says about DeFi's risk tolerance ceiling",
       "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
     },
     {
-      "title": "Hong Kong Just Measured Bank Quantum Readiness. The Score Was Ugly.",
-      "why_now": "A central bank publishing a hard, low quantum-preparedness number is a rare concrete data point in an otherwise speculative threat conversation.",
-      "angle": "Forward-looking security piece: translate the HKMA number into what it means for exchange/custodian key schemes, and why 'quantum is far off' is the same complacency that preceded every other breach on this list.",
-      "source": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low"
+      "title": "Apple's App Store Just Let a Fake Wallet Drain $1.8M in Bitcoin",
+      "why_now": "A newly filed lawsuit says a counterfeit iPhone wallet app slipped past Apple's review and stole $1.8M, reviving the 'walled garden' security myth.",
+      "angle": "Consumer-security explainer: why app store vetting doesn't catch crypto-drainer apps, with a checklist for verifying wallet apps before download",
+      "source": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin"
+    },
+    {
+      "title": "An AI Just Cracked Post-Quantum Crypto Humans Couldn't Break — Read That Again",
+      "why_now": "Reports say Anthropic's Claude broke a post-quantum cryptography scheme that had resisted years of human cryptanalysis, a live preview of the threat model crypto security teams have been modeling in theory.",
+      "angle": "Forward-looking security analysis: what this means for crypto's quantum-resistance roadmaps and whether 'post-quantum' claims across chains are actually tested against AI-assisted attacks",
+      "source": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography"
     }
   ]
 }

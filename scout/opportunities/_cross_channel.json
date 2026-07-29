@@ -1,53 +1,53 @@
 {
-  "generated": "2026-07-28T11:41:13+00:00",
+  "generated": "2026-07-29T11:44:42+00:00",
   "plays": [
     {
-      "story": "EN World's Podcast #407 livestream teases Warcraft/D&D crossover leaks alongside news that Anne Rice's Vampire Chronicles is getting an official TTRPG adaptation",
+      "story": "Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Toncoin Traders Brace as Russia Charges Durov with Terrorism Financing — what a criminal case against Telegram's founder means for TON liquidity, exchange delistings, and the app's crypto payment rails",
+        "itsalreadywhen": "When Encryption Becomes a Terrorism Charge: Durov's Indictment Is the Precedent Every App Maker Refusing a Backdoor Should Read"
+      },
+      "source": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism"
+    },
+    {
+      "story": "Blockaid: crypto hacks hit record $1B+ in H1 2026, led by Ethereum and Solana losses",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Crypto's Bloodiest H1 Yet: Inside the $1 Billion Hack Tally and What It's Doing to Your Risk Premium on ETH and SOL",
+        "itsalreadywhen": "Ethereum and Solana Top the Hack Leaderboard: The Attack Patterns (Bridge Exploits, Contract Breaches, HTLC Bugs) Driving 2026's Billion-Dollar Breach Season"
+      },
+      "source": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says"
+    },
+    {
+      "story": "John Hight steps down as WotC president amid Warcraft/D&D crossover leaks",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Warcraft Meets D&D: What the Leaked Crossover Rules Actually Say' — break down the rumored mechanics/stat blocks fans are dissecting from the podcast leak before WotC confirms anything officially.",
-        "itsalreadywritten": "'Interview with a Character Sheet: Anne Rice's Vampire Chronicles Is Becoming a TTRPG' — dig into how a beloved horror-lit universe gets translated into crunch, and what licensed-fiction RPGs tend to get right or butcher."
+        "bizzal-games": "WotC Loses Its President Mid-Leak: What Hight's Exit Means for D&D's Next Business Moves (and That Rumored Warcraft Crossover)",
+        "itsalreadywritten": "The Leaked Warcraft/D&D Crossover Already Reads Like Fan Fiction — Here's the Lore Mashup Everyone's Racing to Write First"
       },
-      "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
+      "source": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
     },
     {
-      "story": "A wave of crypto treasury/protocol hacks this week — Triple-A's $11.8M treasury-wallet breach, WEMIX's $724K contract exploit, and Garden Finance's $450K HTLC drain",
+      "story": "Sly Flourish's 'Lazy GM Toolbox' essay and Gnomecast #242 interview with Mike Shea on 'Rise of the Lazy Gamemaster'",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "bizzal-games",
+        "itsalreadywritten"
       ],
       "angles": {
-        "itsalreadypriced": "'Three Breaches, $13M Gone: This Week's Crypto Treasury Carnage' — tally the losses, name the projects, and ask what it says about treasury-wallet hygiene across DeFi right now.",
-        "itsalreadywhen": "'When Your Treasury Wallet Becomes Someone Else's ATM' — technical postmortem on how Triple-A's wallet and Garden Finance's HTLC got popped, and the multisig/access-control lessons every org should be stealing."
+        "bizzal-games": "Steal This Toolbox: 5 Prep Tricks From 'Rise of the Lazy Gamemaster' You Can Use at Tonight's Table",
+        "itsalreadywritten": "Mike Shea Says Your Best Sessions Are Improvised, Not Scripted — What That Means for Every Prewritten Adventure You Own"
       },
-      "source": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "The Dysphoria IoT botnet has added blockchain-based command-and-control and victim relay nodes after the JackSkid takedown disrupted its old infrastructure",
-      "channels": [
-        "itsalreadywhen",
-        "itsalreadypriced"
-      ],
-      "angles": {
-        "itsalreadywhen": "'Botnet Goes Onchain: Dysphoria's Blockchain C2 Is Built to Survive Takedowns' — explain how putting command infrastructure on a public ledger makes law-enforcement disruption dramatically harder.",
-        "itsalreadypriced": "'Your Chain Is Now a Botnet's Backup Server' — what it means when malware operators start treating public blockchains as censorship-resistant infrastructure, and why regulators will use this as ammo against 'neutral' chains."
-      },
-      "source": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html"
-    },
-    {
-      "story": "Hong Kong's central bank measures lenders' quantum-computing preparedness and finds it's 'very low'",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Hong Kong Banks Just Failed Their Quantum Readiness Test — Should Bitcoin Holders Care?' — translate the finding into a plain-English explainer on quantum risk to crypto custody and signature schemes, with a realistic timeline check.",
-        "itsalreadywhen": "'The Quantum Clock Is Ticking and Nobody's Ready, Says Hong Kong's Own Central Bank' — use the report as a hook to cover where post-quantum migration actually stands across critical infrastructure in 2026."
-      },
-      "source": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low"
+      "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
     }
   ]
 }

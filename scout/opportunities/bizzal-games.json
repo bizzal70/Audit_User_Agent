@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-28T11:41:13+00:00",
+  "generated": "2026-07-29T11:44:42+00:00",
   "opportunities": [
     {
-      "title": "The Jungle King's Crown: One Wilderness Magic Item, Three Broken Rulings You're Making Wrong",
-      "why_now": "EN World's new wilderness magic item roundup is fresh discussion fodder for a rules-ruling short.",
-      "angle": "Pick one specific item from the article (e.g., a beast-speech circlet or vine-whip) and do a 60-second mechanical breakdown: RAW text, the ruling most tables get wrong, and the Shadowdark/DCC equivalent fix.",
+      "title": "The Jungle King's Crown: Why That New Wilderness Magic Item Breaks Encumbrance Rules (And How to Fix It)",
+      "why_now": "EN World just published a wilderness-themed magic item list that's ripe for a rules-lawyer breakdown of exactly how a GM should adjudicate it at the table.",
+      "angle": "60-second 'ruling of the day' short: read the item, flag the ambiguous wording, give the table-ready fix in one sentence.",
       "source": "https://www.enworld.org/threads/a-true-king-of-the-jungle-and-wilderness-themed-magic-items.720050/"
     },
     {
-      "title": "Sending Spell Abuse: How 'Special Delivery' Encounters Break Your Campaign Logistics",
-      "why_now": "EN World's RPG Evolution piece on delivery-themed play is a natural tie-in to spell-based courier abuse that DMs constantly misrule.",
-      "angle": "Spell use-case short: Sending, Teleport, and Message spam for couriering goods/info — where RAW draws the line and how to rule it fast at the table.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-special-delivery.719759/"
-    },
-    {
-      "title": "Anne Rice's Vampires vs. 5e Vampire Spawn: Why Your Charm Ruling Is Backwards",
-      "why_now": "The Anne Rice TTRPG reveal on the EN World podcast gives a topical hook to correct a chronically misplayed vampire ability.",
-      "angle": "Creature tactic short: dissect Vampire Spawn's Charm and Bite action economy, the grapple-then-drain sequence DMs skip, with a Shadowdark stat-block comparison.",
-      "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
-    },
-    {
-      "title": "Steal This: The Lazy GM's 10-Minute Prep Toolbox, No Fluff Version",
-      "why_now": "Sly Flourish just published a fresh breakdown of the Lazy GM Toolbox from Rise of the Lazy Gamemaster, ripe for a condensed GM-tip short.",
-      "angle": "Direct-to-camera checklist: the 3 toolbox items every dry veteran GM actually uses before session zero prep, contrasted with bloated prep advice.",
+      "title": "Mike Shea's Lazy GM Toolbox: The One Prep Trick That Actually Saves You Time (Veteran GM Verdict)",
+      "why_now": "Sly Flourish just dropped a fresh breakdown of the Lazy GM Toolbox from Rise of the Lazy Gamemaster, giving a natural hook to react as a working GM.",
+      "angle": "Dry reaction short: pull 2-3 toolbox items, rate each 'keep/cut' for a real home game, no fluff intro.",
       "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
     },
     {
-      "title": "Wounded Monster AI: What Monster Hunter Wilds Gets Right That Your 5e Bestiary Doesn't",
-      "why_now": "Monster Hunter Wilds' new patch reignites talk of monster flee/retreat behavior, a mechanic tabletop GMs constantly forget to run.",
-      "angle": "Creature tactic short: how to rule 'bloodied and fleeing to lair' behavior in 5e/DCC using morale-adjacent house rules, framed as a pop-culture tie-in.",
-      "source": "https://www.rpgsite.net/news/20978-monster-hunter-wilds-demo-release-date-august-2026-patch-notes-event-quest-offline-support"
+      "title": "I Tried Mike Shea's Lazy GM Method Cold at the Table — Here's What Broke",
+      "why_now": "Gnomecast just released a full episode with Mike Shea discussing Rise of the Lazy Gamemaster, giving timely context for a practical field-test video.",
+      "angle": "Short 'field report' format: one session, one lazy-GM technique, honest pass/fail from the DM chair.",
+      "source": "https://gnomestew.com/gnomecast-242-rise-of-the-lazy-gm-with-mike-shea/"
+    },
+    {
+      "title": "Special Delivery Quests Are a Trap: The Courier Mission Ruling Nobody Runs Right",
+      "why_now": "EN World's RPG Evolution piece on delivery-style quests is a direct match for a one-mechanic-a-day short on running courier/escort missions without railroading.",
+      "angle": "Quick 'creature tactic/scenario' short: how to handle skill checks, ambush timing, and failure states for a delivery quest in 5e/Shadowdark.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-special-delivery.719759/"
+    },
+    {
+      "title": "WotC's President Just Stepped Down — What It Actually Means for Your Next Rulebook",
+      "why_now": "John Hight's departure as WotC president is breaking industry news that tabletop audiences are already discussing, making it a timely hook for a dry insider take.",
+      "angle": "30-second no-fluff industry take: skip the corporate speculation, focus on what it means (or doesn't) for upcoming 5e/2024 rules support.",
+      "source": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
     }
   ]
 }

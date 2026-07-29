@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-28T11:41:13+00:00",
+  "generated": "2026-07-29T11:44:42+00:00",
   "opportunities": [
     {
-      "title": "The Jungle King's Magic Items, Fully Statted: A Rules Breakdown of EN World's Wilderness Loot Haul",
-      "why_now": "EN World just dropped a fresh wilderness magic item roundup, giving us new mechanics to dissect before every other outlet does the surface-level 'cool items!' post.",
-      "angle": "Line-by-line rules analysis: attunement requirements, action economy interactions, and how each item breaks or balances existing wilderness survival mechanics.",
+      "title": "John Hight Is Out: What WotC's Leadership Shakeup Means for D&D's Rules Roadmap",
+      "why_now": "WotC's president stepping down is a rare structural event that could ripple into design priorities and release schedules.",
+      "angle": "News analysis: trace Hight's tenure decisions (OGL fallout, 2024 rules refresh) and speculate on what a new president means for upcoming rules content",
+      "source": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
+    },
+    {
+      "title": "The King of the Jungle: Grading EN World's New Wilderness Magic Items by the Rules",
+      "why_now": "A fresh wilderness-themed magic item drop is exactly the kind of new-content-vs-RAW breakdown this channel exists for.",
+      "angle": "Rules-first teardown: mechanical analysis, balance comparison to existing DMG items, verdict on rarity/pricing",
       "source": "https://www.enworld.org/threads/a-true-king-of-the-jungle-and-wilderness-themed-magic-items.720050/"
     },
     {
-      "title": "Warcraft x D&D: What the Leaked Crossover Would Actually Have to Change in 5E's Rules",
-      "why_now": "The Podcast #407 livestream just surfaced fresh Warcraft/D&D leak chatter, and speculation is running ahead of any actual rules text.",
-      "angle": "Rules-first speculation piece: map Warcraft classes/races onto existing 5E chassis, flag what reprints or reskins would be needed, cite precedent from prior IP crossovers (Critical Role, Rick and Morty).",
+      "title": "Warcraft/D&D Leaks: What the Rumors Actually Say About Rules Crossover",
+      "why_now": "Podcast #407 surfaced fresh Warcraft/D&D leak chatter that fans are already speculating about mechanically.",
+      "angle": "Leak roundup with a rules-first lens: what a Warcraft crossover ruleset would need to solve (classes, races, tone)",
       "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
     },
     {
-      "title": "The Anne Rice TTRPG Is Real: What We Know (and Don't) About Its Rules So Far",
-      "why_now": "The same podcast confirmed movement on an Anne Rice TTRPG, and licensed-IP systems always live or die by their first rules reveal.",
-      "angle": "Fact-checked primer format: confirmed details vs. rumor, likely system base (d20? bespoke?), and what a Vampire Chronicles ruleset needs to nail (blood magic, immortal power creep, social mechanics).",
-      "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
-    },
-    {
-      "title": "RPG Evolution's 'Special Delivery': The Overlooked Mechanic Every GM Should Steal",
-      "why_now": "EN World's RPG Evolution column just went live with a fresh mechanical angle worth translating into a hard rules writeup for GMs hunting for table-ready tech.",
-      "angle": "Distill the column's core mechanic into a portable house rule/sidebar, with a clear 'how to run it at your table tonight' checklist.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-special-delivery.719759/"
-    },
-    {
-      "title": "Sly Flourish Codifies the Lazy GM Toolbox — Here's the Rules-First Version",
-      "why_now": "Sly Flourish just published a fresh breakdown of the Lazy GM's Toolbox inside Rise of the Lazy Gamemaster, and it's exactly the kind of prep-system content our audience treats as gospel.",
-      "angle": "Turn the toolbox into a numbered, rules-are-already-written checklist (the eight tools, when to use each, what they replace in traditional prep) for quick reference and shareability.",
+      "title": "Mike Shea's Lazy GM Toolbox: The Rules Behind 'Winging It' Done Right",
+      "why_now": "Sly Flourish just published a toolbox breakdown from Rise of the Lazy Gamemaster, giving a concrete framework to dissect.",
+      "angle": "Rules-first response piece: formalize the 'lazy GM' techniques into explicit procedures/checklists readers can cite at the table",
       "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
+    },
+    {
+      "title": "Gnomecast Talks Lazy GM — Here's the Actual Rule of Thumb They Left Out",
+      "why_now": "Gnomecast 242 is deep-diving the same Lazy GM book this week, creating a timely two-source moment to add rules rigor to a prep philosophy conversation.",
+      "angle": "Companion/rebuttal post: pull specific claims from the podcast and check them against RAW prep advice, filling gaps with concrete rules",
+      "source": "https://gnomestew.com/gnomecast-242-rise-of-the-lazy-gm-with-mike-shea/"
     }
   ]
 }
