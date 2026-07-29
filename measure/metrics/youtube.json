@@ -1513,5 +1513,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-07-29",
+    "videos": [
+      {
+        "id": "cYZjnSap0CI",
+        "title": "Morale checks trigger at half losses or when a strong ally falls #shadowdark",
+        "published": "2026-07-28",
+        "views": 45,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "zvsd7_MtTUA",
+        "title": "Path of Wild Magic triggers random magical effects while raging #dnd5e",
+        "published": "2026-07-28",
+        "views": 156,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "hD7xKOIMk9s",
+        "title": "Mighty Deeds of Arms require no saving throw or opposed roll #dcc",
+        "published": "2026-07-28",
+        "views": 44,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "s7n2gqgSa2Y",
+        "title": "Prime Barbshell Clam's 50-foot harpoon grapple #dcc",
+        "published": "2026-07-27",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "VUVNP6yNK1A",
+        "title": "Prime Barbshell Clam's Reflex save is a weak spot #dcc",
+        "published": "2026-07-27",
+        "views": 340,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "XdYObxLTOlw",
+        "title": "Kraken • Encounter Seed #shadowdark",
+        "published": "2026-07-27",
+        "views": 27,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "3sessI1UkKY",
+        "title": "Hiding requires the DM to determine when circumstances allow it #dnd5e",
+        "published": "2026-07-27",
+        "views": 366,
+        "likes": 9,
+        "comments": 0
+      },
+      {
+        "id": "WOCeLJPycjQ",
+        "title": "Fly drops you mid-air if the spell ends unexpectedly #dcc",
+        "published": "2026-07-27",
+        "views": 4,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "WFPvkTN2KSY",
+        "title": "The Necklace Of Charm sets your Charisma stat to 18 (+4) while worn #shadowdark",
+        "published": "2026-07-26",
+        "views": 103,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "Dj1UQSsVe0o",
+        "title": "Adult Blue Dragon • Encounter Seed #dnd5e",
+        "published": "2026-07-26",
+        "views": 214,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "vm5eAxycD0s",
+        "title": "Kaundyuk • Monster Tactic #dcc",
+        "published": "2026-07-26",
+        "views": 101,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "KwumtUOUpQ8",
+        "title": "Hellhounds sense invisible foes by their heat #dcc",
+        "published": "2026-07-25",
+        "views": 202,
+        "likes": 2,
+        "comments": 0
+      }
+    ]
   }
 ]
