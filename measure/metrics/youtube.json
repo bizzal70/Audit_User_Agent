@@ -1614,5 +1614,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-07-30",
+    "videos": [
+      {
+        "id": "mh-VGRoD9us",
+        "title": "Chant is wasted without hidden threats #shadowdark",
+        "published": "2026-07-29",
+        "views": 400,
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "RhdmT0aSFnU",
+        "title": "Chant reveals hidden threats with focus-based duration #shadowdark",
+        "published": "2026-07-29",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "nmXdTvpsmcU",
+        "title": "Passwall creates a temporary tunnel for 5 rounds in a barrier you touch #shadowdark",
+        "published": "2026-07-29",
+        "views": 42,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "xskRZfy8Vpc",
+        "title": "Awakened Tree has a Strength score of 19 and a Slam attack that deals 3d6 + 4 #dnd5e",
+        "published": "2026-07-29",
+        "views": 50,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "fEn8ONVZqbA",
+        "title": "Boots of Mist-Stepping allow movement through 30 feet of air as mist, once per #dcc",
+        "published": "2026-07-29",
+        "views": 84,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "cYZjnSap0CI",
+        "title": "Morale checks trigger at half losses or when a strong ally falls #shadowdark",
+        "published": "2026-07-28",
+        "views": 93,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "zvsd7_MtTUA",
+        "title": "Path of Wild Magic triggers random magical effects while raging #dnd5e",
+        "published": "2026-07-28",
+        "views": 313,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "hD7xKOIMk9s",
+        "title": "Mighty Deeds of Arms require no saving throw or opposed roll #dcc",
+        "published": "2026-07-28",
+        "views": 112,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "s7n2gqgSa2Y",
+        "title": "Prime Barbshell Clam's 50-foot harpoon grapple #dcc",
+        "published": "2026-07-27",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "VUVNP6yNK1A",
+        "title": "Prime Barbshell Clam's Reflex save is a weak spot #dcc",
+        "published": "2026-07-27",
+        "views": 340,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "XdYObxLTOlw",
+        "title": "Kraken • Encounter Seed #shadowdark",
+        "published": "2026-07-27",
+        "views": 28,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "3sessI1UkKY",
+        "title": "Hiding requires the DM to determine when circumstances allow it #dnd5e",
+        "published": "2026-07-27",
+        "views": 448,
+        "likes": 9,
+        "comments": 0
+      }
+    ]
   }
 ]
