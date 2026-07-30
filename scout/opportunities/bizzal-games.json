@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-29T11:44:42+00:00",
+  "generated": "2026-07-30T11:38:06+00:00",
   "opportunities": [
     {
-      "title": "The Jungle King's Crown: Why That New Wilderness Magic Item Breaks Encumbrance Rules (And How to Fix It)",
-      "why_now": "EN World just published a wilderness-themed magic item list that's ripe for a rules-lawyer breakdown of exactly how a GM should adjudicate it at the table.",
-      "angle": "60-second 'ruling of the day' short: read the item, flag the ambiguous wording, give the table-ready fix in one sentence.",
+      "title": "WotC's Big Keynote: Here's the One Rule Change That'll Actually Matter (Spoiler: Probably None)",
+      "why_now": "The D&D keynote livestream is happening today, giving a same-day reaction window before the hype cycle dies.",
+      "angle": "Short reaction video posted live/day-of predicting which announced mechanic will actually see table use vs. marketing filler — deliver as a cynical veteran-GM prediction list.",
+      "source": "https://www.enworld.org/threads/how-to-watch-todays-big-dungeons-dragons-keynote-presentation.720083/"
+    },
+    {
+      "title": "WotC Just Lost Its President — Your Campaign Doesn't Care, Here's Why",
+      "why_now": "John Hight's abrupt departure is fresh industry news and ripe for a no-fluff take on why corporate churn at WotC never actually changes what happens at your table.",
+      "angle": "Dry monologue tying executive turnover to the reality that rules-as-written don't change with leadership — pivot into a concrete ruling example to keep it on-beat.",
+      "source": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
+    },
+    {
+      "title": "Jungle King Magic Items Are Broken in the Right Way — Here's the Actual Use-Case",
+      "why_now": "EN World's fresh wilderness magic item roundup gives concrete new items to mechanically stress-test before players find the article themselves.",
+      "angle": "Pick one specific jungle/wilderness item from the piece, run the numbers on an optimal use-case at a specific level, deliver as a 60-second spell/item breakdown.",
       "source": "https://www.enworld.org/threads/a-true-king-of-the-jungle-and-wilderness-themed-magic-items.720050/"
     },
     {
-      "title": "Mike Shea's Lazy GM Toolbox: The One Prep Trick That Actually Saves You Time (Veteran GM Verdict)",
-      "why_now": "Sly Flourish just dropped a fresh breakdown of the Lazy GM Toolbox from Rise of the Lazy Gamemaster, giving a natural hook to react as a working GM.",
-      "angle": "Dry reaction short: pull 2-3 toolbox items, rate each 'keep/cut' for a real home game, no fluff intro.",
-      "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
+      "title": "Doll-Type Monsters Are Just Constructs With Better PR — Tactics for Running Them",
+      "why_now": "RPG Evolution's 'Valley of the Dolls' piece is timely enough to ride the doll-horror trend into a concrete creature tactic breakdown.",
+      "angle": "Take a specific doll/construct statblock (flesh golem, animated armor reflavor) and give one nasty tactic GMs should be running against players, Shadowdark and 5e versions side by side.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-valley-of-the-dolls.719760/"
     },
     {
-      "title": "I Tried Mike Shea's Lazy GM Method Cold at the Table — Here's What Broke",
-      "why_now": "Gnomecast just released a full episode with Mike Shea discussing Rise of the Lazy Gamemaster, giving timely context for a practical field-test video.",
-      "angle": "Short 'field report' format: one session, one lazy-GM technique, honest pass/fail from the DM chair.",
+      "title": "The 'Lazy GM' Method Is Just Prep You're Already Doing Wrong — Here's the Fix",
+      "why_now": "Gnomecast's fresh episode with Mike Shea on the Lazy GM approach gives a hook to translate a popular prep philosophy into one hard ruling/technique.",
+      "angle": "Distill one specific Lazy GM technique (e.g., secret monster HP tracking or strong-start improv) into a single mechanical tip delivered in the channel's terse veteran-GM style.",
       "source": "https://gnomestew.com/gnomecast-242-rise-of-the-lazy-gm-with-mike-shea/"
-    },
-    {
-      "title": "Special Delivery Quests Are a Trap: The Courier Mission Ruling Nobody Runs Right",
-      "why_now": "EN World's RPG Evolution piece on delivery-style quests is a direct match for a one-mechanic-a-day short on running courier/escort missions without railroading.",
-      "angle": "Quick 'creature tactic/scenario' short: how to handle skill checks, ambush timing, and failure states for a delivery quest in 5e/Shadowdark.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-special-delivery.719759/"
-    },
-    {
-      "title": "WotC's President Just Stepped Down — What It Actually Means for Your Next Rulebook",
-      "why_now": "John Hight's departure as WotC president is breaking industry news that tabletop audiences are already discussing, making it a timely hook for a dry insider take.",
-      "angle": "30-second no-fluff industry take: skip the corporate speculation, focus on what it means (or doesn't) for upcoming 5e/2024 rules support.",
-      "source": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
     }
   ]
 }

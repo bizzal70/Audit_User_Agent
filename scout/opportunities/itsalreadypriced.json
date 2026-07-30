@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-29T11:44:42+00:00",
+  "generated": "2026-07-30T11:38:06+00:00",
   "opportunities": [
     {
-      "title": "$1 Billion in Six Months: The H1 2026 Hack Tally Nobody Learned From",
-      "why_now": "Blockaid's H1 2026 report just confirmed crypto hack losses topped $1B with Ethereum and Solana leading, capping a week that added Triple-A, Garden Finance, and WEMIX to the pile.",
-      "angle": "Data-led postmortem: chart the H1 losses by chain/exploit type and argue the pattern (bridges, contract logic, treasury wallets) is now a permanent tax on the industry, not an anomaly",
+      "title": "Ostium Says It Wasn't the Contract — It Was the People. That's Worse.",
+      "why_now": "Ostium just confirmed its $24M exploit was an off-chain breach, not a smart contract bug, shifting blame to ops/key security where most 'audited' protocols never get scrutinized.",
+      "angle": "Post-mortem breakdown: why 'audited, no bug found' is cold comfort when the breach vector is humans/infra, with a checklist of off-chain attack surfaces (signers, CI/CD, admin keys) devs should already assume are compromised.",
+      "source": "https://www.theblock.co/post/410122/ostium-post-mortem-exploit?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "title": "H1 2026: Ethereum and Solana Didn't Get Hacked More — They Just Have More to Steal",
+      "why_now": "Blockaid's H1 2026 report crowns ETH and Solana as the biggest hack-loss chains, confirming the thesis that TVL is a bounty, not a badge.",
+      "angle": "Data-led explainer with a chart of losses by chain, arguing liquidity concentration is the actual risk metric — not 'security' marketing from L1s/L2s.",
       "source": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Triple-A's $11.8M Treasury Breach Is the Same Story With a New Name",
-      "why_now": "Triple-A just confirmed a treasury-wallet breach hitting $11.8M, days after Blockaid flagged treasury wallets as a top attack vector for H1 2026.",
-      "angle": "Incident teardown: walk through what a 'treasury wallet breach' actually means operationally and why multisig/custody hygiene keeps failing at the same step",
-      "source": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Bitcoin's Quantum Doomsday Math Just Got a 60-Hour Update — And It's Not in Your Favor",
+      "why_now": "AI reportedly broke a cryptographic algorithm in 60 hours, directly undercutting the assumptions behind Bitcoin's 'we have decades' quantum-resistance roadmap.",
+      "angle": "Skeptical deep-dive on the gap between BIP timelines and AI-accelerated cryptanalysis, framed as 'the migration you're not doing fast enough.'",
+      "source": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours"
     },
     {
-      "title": "SummerFi Didn't Retire, It Got Exploited Into Retirement",
-      "why_now": "SummerFi is winding down after seven years and explicitly citing an exploit, a rare admission that a hack — not market conditions — killed a legacy DeFi protocol.",
-      "angle": "Obituary format: use SummerFi as a case study in how a single exploit can end a multi-year protocol, and what that says about DeFi's risk tolerance ceiling",
+      "title": "$8.5M Gone to a Fake Staking Site — Because 'Flare Network' Still Means Nothing to Most Wallets",
+      "why_now": "Seoul police confirmed an $8.5M XRP drain via a fake Flare staking site, a textbook phishing-clone loss that keeps recurring across every cycle.",
+      "angle": "Anatomy-of-a-scam breakdown (domain, UI clone, wallet approval flow) plus a blunt 'here's the tell you missed' checklist for spotting fake staking portals.",
+      "source": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police"
+    },
+    {
+      "title": "SummerFi Is Dead. The Exploit Didn't Kill It — the Trust Did",
+      "why_now": "SummerFi is winding down after seven years, explicitly citing an exploit, marking one of the clearer cases of a hack ending a protocol rather than just draining a treasury.",
+      "angle": "Obituary/retrospective on protocol mortality post-hack — why recovery plans and 'made whole' promises rarely save user trust, with lessons for anyone still holding funds in aging DeFi.",
       "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
-    },
-    {
-      "title": "Apple's App Store Just Let a Fake Wallet Drain $1.8M in Bitcoin",
-      "why_now": "A newly filed lawsuit says a counterfeit iPhone wallet app slipped past Apple's review and stole $1.8M, reviving the 'walled garden' security myth.",
-      "angle": "Consumer-security explainer: why app store vetting doesn't catch crypto-drainer apps, with a checklist for verifying wallet apps before download",
-      "source": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin"
-    },
-    {
-      "title": "An AI Just Cracked Post-Quantum Crypto Humans Couldn't Break — Read That Again",
-      "why_now": "Reports say Anthropic's Claude broke a post-quantum cryptography scheme that had resisted years of human cryptanalysis, a live preview of the threat model crypto security teams have been modeling in theory.",
-      "angle": "Forward-looking security analysis: what this means for crypto's quantum-resistance roadmaps and whether 'post-quantum' claims across chains are actually tested against AI-assisted attacks",
-      "source": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography"
     }
   ]
 }

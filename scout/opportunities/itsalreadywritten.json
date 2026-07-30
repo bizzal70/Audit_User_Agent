@@ -1,34 +1,34 @@
 {
-  "generated": "2026-07-29T11:44:42+00:00",
+  "generated": "2026-07-30T11:38:06+00:00",
   "opportunities": [
     {
-      "title": "John Hight Is Out: What WotC's Leadership Shakeup Means for D&D's Rules Roadmap",
-      "why_now": "WotC's president stepping down is a rare structural event that could ripple into design priorities and release schedules.",
-      "angle": "News analysis: trace Hight's tenure decisions (OGL fallout, 2024 rules refresh) and speculate on what a new president means for upcoming rules content",
+      "title": "Live-Blogging the D&D Keynote: Every Rules Change, Confirmed As They Announce It",
+      "why_now": "The keynote is happening today, making this the single highest-traffic moment for D&D rules news this week.",
+      "angle": "Live-updating liveblog/thread that gets rewritten into a definitive 'what changed' recap post once the keynote ends",
+      "source": "https://www.enworld.org/threads/how-to-watch-todays-big-dungeons-dragons-keynote-presentation.720083/"
+    },
+    {
+      "title": "John Hight Is Out at Wizards of the Coast — What It Actually Means for D&D's Rules Roadmap",
+      "why_now": "Leadership change at WotC directly affects the pace and direction of future rules releases, which is squarely this channel's beat.",
+      "angle": "Analysis piece tying executive turnover to concrete upcoming rules products (not personality gossip)",
       "source": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
     },
     {
-      "title": "The King of the Jungle: Grading EN World's New Wilderness Magic Items by the Rules",
-      "why_now": "A fresh wilderness-themed magic item drop is exactly the kind of new-content-vs-RAW breakdown this channel exists for.",
-      "angle": "Rules-first teardown: mechanical analysis, balance comparison to existing DMG items, verdict on rarity/pricing",
+      "title": "HackMaster's New Crowdfunding Push: What Rules Are Actually Changing This Time",
+      "why_now": "Fresh crowdfunding news gives a timely hook to dig into HackMaster's mechanical updates rather than just announce the campaign.",
+      "angle": "Rules-comparison breakdown of what backers are actually funding, old edition vs new",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-guild-seven-part-pact-hackmaster-and-more.720074/"
+    },
+    {
+      "title": "The Jungle King's New Magic Items, Ruled: Balance-Checking Every Wilderness Item",
+      "why_now": "Fresh magic item content drops give a natural excuse for a rules-first breakdown post while the article is still new.",
+      "angle": "Item-by-item rules analysis: rarity, attunement, and DM ruling edge cases",
       "source": "https://www.enworld.org/threads/a-true-king-of-the-jungle-and-wilderness-themed-magic-items.720050/"
     },
     {
-      "title": "Warcraft/D&D Leaks: What the Rumors Actually Say About Rules Crossover",
-      "why_now": "Podcast #407 surfaced fresh Warcraft/D&D leak chatter that fans are already speculating about mechanically.",
-      "angle": "Leak roundup with a rules-first lens: what a Warcraft crossover ruleset would need to solve (classes, races, tone)",
-      "source": "https://www.enworld.org/threads/podcast-407-livestream-warcraft-d-d-leaks-jimothy-anne-rice-ttrpg-the-guild-movie.720048/"
-    },
-    {
-      "title": "Mike Shea's Lazy GM Toolbox: The Rules Behind 'Winging It' Done Right",
-      "why_now": "Sly Flourish just published a toolbox breakdown from Rise of the Lazy Gamemaster, giving a concrete framework to dissect.",
-      "angle": "Rules-first response piece: formalize the 'lazy GM' techniques into explicit procedures/checklists readers can cite at the table",
-      "source": "https://slyflourish.com/lazy_gm_toolbox_in_rise.html?rss=1"
-    },
-    {
-      "title": "Gnomecast Talks Lazy GM — Here's the Actual Rule of Thumb They Left Out",
-      "why_now": "Gnomecast 242 is deep-diving the same Lazy GM book this week, creating a timely two-source moment to add rules rigor to a prep philosophy conversation.",
-      "angle": "Companion/rebuttal post: pull specific claims from the podcast and check them against RAW prep advice, filling gaps with concrete rules",
+      "title": "Mike Shea's Lazy GM Method: The Rules Are Already Written, You Just Need to Find Them Faster",
+      "why_now": "The new Gnomecast episode on Lazy GM prep is a direct on-brand tie-in to the channel's own tagline and philosophy.",
+      "angle": "Reaction/response essay riffing on the podcast, framed as validating the 'rules-first' prep ethos",
       "source": "https://gnomestew.com/gnomecast-242-rise-of-the-lazy-gm-with-mike-shea/"
     }
   ]
