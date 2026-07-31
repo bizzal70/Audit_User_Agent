@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-30T11:38:06+00:00",
+  "generated": "2026-07-31T11:42:59+00:00",
   "opportunities": [
     {
-      "title": "Live-Blogging the D&D Keynote: Every Rules Change, Confirmed As They Announce It",
-      "why_now": "The keynote is happening today, making this the single highest-traffic moment for D&D rules news this week.",
-      "angle": "Live-updating liveblog/thread that gets rewritten into a definitive 'what changed' recap post once the keynote ends",
-      "source": "https://www.enworld.org/threads/how-to-watch-todays-big-dungeons-dragons-keynote-presentation.720083/"
+      "title": "D&D's 2027 Roadmap, Decoded: What 'Seasons' Actually Means for Your Table",
+      "why_now": "The new season-based roadmap (Champions, Survival, Sword & Sorcery, Rebellion) just dropped at Gen Con and readers need the structure explained in rules terms, not marketing terms.",
+      "angle": "Explainer breaking down what a 'season' is mechanically (book cadence, tie-in adventures, digital content) vs. past release models",
+      "source": "https://www.enworld.org/threads/the-new-d-d-roadmap-brings-seasons-of-champions-survival-sword-sorcery-and-rebellion-tl-dr-version.720114/"
     },
     {
-      "title": "John Hight Is Out at Wizards of the Coast — What It Actually Means for D&D's Rules Roadmap",
-      "why_now": "Leadership change at WotC directly affects the pace and direction of future rules releases, which is squarely this channel's beat.",
-      "angle": "Analysis piece tying executive turnover to concrete upcoming rules products (not personality gossip)",
-      "source": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
+      "title": "Dark Sun's Mature Rating Is a Rules Problem, Not Just a Marketing One",
+      "why_now": "Dark Sun was just announced as D&D's first mature-rated setting, raising immediate questions about how content ratings interact with the actual rules text (defiling magic, slavery mechanics, etc.).",
+      "angle": "Rules-first analysis of what a 'mature rating' could mean for published mechanics—is it just art/tone, or will subsystems (like defiling) get harsher rules treatment?",
+      "source": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
     },
     {
-      "title": "HackMaster's New Crowdfunding Push: What Rules Are Actually Changing This Time",
-      "why_now": "Fresh crowdfunding news gives a timely hook to dig into HackMaster's mechanical updates rather than just announce the campaign.",
-      "angle": "Rules-comparison breakdown of what backers are actually funding, old edition vs new",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-guild-seven-part-pact-hackmaster-and-more.720074/"
+      "title": "Universes Beyond Meets 5e Rules: Can Star Wars and WoW Actually Fit the Chassis?",
+      "why_now": "D&D just announced Universes Beyond crossovers (Star Wars for Season of Rebellion, WoW this November) and the core question every rules-focused reader will ask is how these IPs get statted into 5e's system.",
+      "angle": "Rules-crunch speculation piece: what subclasses/mechanics would be needed to make lightsabers or WoW races work within existing 5e frameworks",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-announces-universes-beyond-line-kicking-off-ip-crossovers.720058/"
     },
     {
-      "title": "The Jungle King's New Magic Items, Ruled: Balance-Checking Every Wilderness Item",
-      "why_now": "Fresh magic item content drops give a natural excuse for a rules-first breakdown post while the article is still new.",
-      "angle": "Item-by-item rules analysis: rarity, attunement, and DM ruling edge cases",
-      "source": "https://www.enworld.org/threads/a-true-king-of-the-jungle-and-wilderness-themed-magic-items.720050/"
+      "title": "D&D's Third-Party Setting Partnerships: What 'Official Support' Actually Grants",
+      "why_now": "D&D just announced official third-party partnerships for popular campaign settings, and rules-minded readers want to know exactly what 'official' unlocks—stat blocks, rules legality, organized play?",
+      "angle": "Breakdown of what official third-party support historically has meant (5e compatibility license, playtesting, canon status) applied to this new announcement",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-announces-third-party-partnerships-to-bring-official-support-to-popular-campaign-settings.720059/"
     },
     {
-      "title": "Mike Shea's Lazy GM Method: The Rules Are Already Written, You Just Need to Find Them Faster",
-      "why_now": "The new Gnomecast episode on Lazy GM prep is a direct on-brand tie-in to the channel's own tagline and philosophy.",
-      "angle": "Reaction/response essay riffing on the podcast, framed as validating the 'rules-first' prep ethos",
-      "source": "https://gnomestew.com/gnomecast-242-rise-of-the-lazy-gm-with-mike-shea/"
+      "title": "Vampire: The Masquerade's New Edition — What Rules Actually Change",
+      "why_now": "A new V:tM edition was just announced alongside more World of Darkness games, and the rules-first audience wants a clean comparison to prior editions before hype cycles take over.",
+      "angle": "Rules comparison piece anticipating likely mechanical shifts (Hunger dice, clan mechanics) based on prior edition history and publisher statements",
+      "source": "https://www.enworld.org/threads/vampire-the-masquerade-getting-a-new-edition-more-games-coming-too.720113/"
     }
   ]
 }

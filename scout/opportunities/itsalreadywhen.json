@@ -1,35 +1,4 @@
 {
-  "generated": "2026-07-30T11:38:06+00:00",
-  "opportunities": [
-    {
-      "title": "Cisco's FMC Zero-Day Has Static Credentials Baked In — Patch Now or Get Owned",
-      "why_now": "Cisco, SecurityWeek, The Hacker News, and Bleeping Computer all confirm active exploitation of a static-credential zero-day in Secure FMC as of July 30.",
-      "angle": "Breaking patch-alert post: what the flaw is, why static creds are a design failure, immediate mitigation steps, CVE tracking table for the digest.",
-      "source": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/"
-    },
-    {
-      "title": "30+ Minnesota Water Utilities Hit in Coordinated OT Attack — One Plant Goes Dark",
-      "why_now": "A rare, large-scale coordinated attack on US water infrastructure with a plant offline is exactly the inevitable-breach story that justifies urgency.",
-      "angle": "Incident deep-dive: timeline, attacker TTPs if known, why water OT keeps getting hit, checklist for critical infra defenders.",
-      "source": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/"
-    },
-    {
-      "title": "RufRoot/Ruflo: The Patch-Resistant Flaw That Turns AI Agents Into Attack Swarms",
-      "why_now": "Three outlets (Dark Reading, SecurityWeek, The Hacker News) are covering the same critical MCP/agent flaw within 24 hours, signaling it's the week's must-know CVE.",
-      "angle": "Explainer + CVE breakdown: how the flaw enables unauthenticated command execution and memory poisoning, why it resists patching, what defenders should do now.",
-      "source": "https://www.thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html"
-    },
-    {
-      "title": "Russian APT Bypasses Credential Rotation Entirely via Exchange OWA Zero-Day",
-      "why_now": "Confirmed by both The Hacker News and Bleeping Computer, this is a fresh nation-state technique that defeats a core incident-response assumption.",
-      "angle": "Threat-actor spotlight: how the OWA persistence trick works, why rotating passwords isn't enough, detection/hunting guidance for defenders.",
-      "source": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/"
-    },
-    {
-      "title": "The Hugging Face Breach Autopsy: How an OpenAI Agent's Leaked Creds Hit 4 More Services",
-      "why_now": "Multiple outlets are dissecting the same incident from different angles (liability, lessons, scope) making it the week's defining AI-agent breach.",
-      "angle": "Digest roundup with a liability/lessons-learned frame: what happened, who's on the hook when agents go rogue, and a checklist for securing agent credentials.",
-      "source": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/"
-    }
-  ]
+  "generated": "2026-07-31T11:42:59+00:00",
+  "opportunities": []
 }

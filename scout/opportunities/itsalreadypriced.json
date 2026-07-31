@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-30T11:38:06+00:00",
+  "generated": "2026-07-31T11:42:59+00:00",
   "opportunities": [
     {
-      "title": "Ostium Says It Wasn't the Contract — It Was the People. That's Worse.",
-      "why_now": "Ostium just confirmed its $24M exploit was an off-chain breach, not a smart contract bug, shifting blame to ops/key security where most 'audited' protocols never get scrutinized.",
-      "angle": "Post-mortem breakdown: why 'audited, no bug found' is cold comfort when the breach vector is humans/infra, with a checklist of off-chain attack surfaces (signers, CI/CD, admin keys) devs should already assume are compromised.",
-      "source": "https://www.theblock.co/post/410122/ostium-post-mortem-exploit?utm_source=rss&utm_medium=rss"
+      "title": "The Coldcard Mk3 Drain: When 'AI Found The Bug' Is the Scariest Sentence in Crypto Security",
+      "why_now": "A $38M hardware-wallet sweep just happened in 25 minutes, and Coinkite itself thinks AI found the flaw — that's a paradigm shift in adversary capability, not just another hack.",
+      "angle": "Technical postmortem + 'what this means for every cold storage setup' checklist, positioned as the story hardware wallet users can't ignore",
+      "source": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "H1 2026: Ethereum and Solana Didn't Get Hacked More — They Just Have More to Steal",
-      "why_now": "Blockaid's H1 2026 report crowns ETH and Solana as the biggest hack-loss chains, confirming the thesis that TVL is a bounty, not a badge.",
-      "angle": "Data-led explainer with a chart of losses by chain, arguing liquidity concentration is the actual risk metric — not 'security' marketing from L1s/L2s.",
+      "title": "Ethereum and Solana Bled the Most in H1 2026 — Here's Why 'More Secure' Chains Keep Losing the Most Money",
+      "why_now": "Blockaid's fresh H1 2026 data quantifies exactly where hacker capital flowed, giving hard numbers to a narrative security people have suspected all year.",
+      "angle": "Data-led breakdown with chain-by-chain loss chart and a contrarian point: TVL and audits didn't save anyone",
       "source": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Bitcoin's Quantum Doomsday Math Just Got a 60-Hour Update — And It's Not in Your Favor",
-      "why_now": "AI reportedly broke a cryptographic algorithm in 60 hours, directly undercutting the assumptions behind Bitcoin's 'we have decades' quantum-resistance roadmap.",
-      "angle": "Skeptical deep-dive on the gap between BIP timelines and AI-accelerated cryptanalysis, framed as 'the migration you're not doing fast enough.'",
-      "source": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours"
+      "title": "IBM Says It Has 'Trusted Quantum Advantage.' Bitcoin's Signature Scheme Just Got a Little More Nervous",
+      "why_now": "IBM's claim lands the same week as a major wallet-drain story, letting us connect near-term custody failures to the long-term quantum countdown everyone keeps deferring.",
+      "angle": "Explainer that separates real near-term risk (bad key management, AI-assisted exploits) from distant quantum risk, and why people conflate them to sell fear",
+      "source": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage"
     },
     {
-      "title": "$8.5M Gone to a Fake Staking Site — Because 'Flare Network' Still Means Nothing to Most Wallets",
-      "why_now": "Seoul police confirmed an $8.5M XRP drain via a fake Flare staking site, a textbook phishing-clone loss that keeps recurring across every cycle.",
-      "angle": "Anatomy-of-a-scam breakdown (domain, UI clone, wallet approval flow) plus a blunt 'here's the tell you missed' checklist for spotting fake staking portals.",
-      "source": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police"
+      "title": "The IRS Doesn't Email or Mail You About Your Crypto — So Why Are Fake Letters Working?",
+      "why_now": "Bloomberg/The Block just reported a live fraud campaign using fake IRS letters to extract wallet data, a classic social-engineering vector hitting at scale right now.",
+      "angle": "Practical 'anatomy of the scam' post with the actual red flags, framed for people who think they're too savvy to fall for it",
+      "source": "https://www.theblock.co/post/410204/irs-crypto-holders-fraudster-sending-fake-letters-steal-digital-assets-data-bloomberg?utm_source=rss&utm_medium=rss"
     },
     {
-      "title": "SummerFi Is Dead. The Exploit Didn't Kill It — the Trust Did",
-      "why_now": "SummerFi is winding down after seven years, explicitly citing an exploit, marking one of the clearer cases of a hack ending a protocol rather than just draining a treasury.",
-      "angle": "Obituary/retrospective on protocol mortality post-hack — why recovery plans and 'made whole' promises rarely save user trust, with lessons for anyone still holding funds in aging DeFi.",
-      "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
+      "title": "$57M Gone Through Crypto Kiosks in Texas Alone — The Scam Vector Regulators Still Can't Kill",
+      "why_now": "Texas lawmakers are actively weighing a kiosk ban after $57M in losses, making this a live policy fight with a concrete, human-scale fraud story behind it.",
+      "angle": "Ground-level scam mechanics piece (how the kiosk con works step by step) tied to the policy debate, aimed at readers who dismiss 'boomer scams' as beneath crypto-native attention",
+      "source": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban"
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "generated": "2026-07-30T11:38:06+00:00",
+  "generated": "2026-07-31T11:42:59+00:00",
   "opportunities": [
     {
-      "title": "WotC's Big Keynote: Here's the One Rule Change That'll Actually Matter (Spoiler: Probably None)",
-      "why_now": "The D&D keynote livestream is happening today, giving a same-day reaction window before the hype cycle dies.",
-      "angle": "Short reaction video posted live/day-of predicting which announced mechanic will actually see table use vs. marketing filler — deliver as a cynical veteran-GM prediction list.",
-      "source": "https://www.enworld.org/threads/how-to-watch-todays-big-dungeons-dragons-keynote-presentation.720083/"
+      "title": "Dark Sun's 'Mature Rating' Won't Save You From a TPK: Defiler Magic Ruling in 5e Terms",
+      "why_now": "Dark Sun just got announced as D&D's first mature-rated 2027 setting, so fans want a mechanics preview before marketing hype takes over.",
+      "angle": "60-sec ruling: how to run defiling as a hard resource-drain mechanic (HP cost to terrain/allies) that actually bites, not just fluff text",
+      "source": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
     },
     {
-      "title": "WotC Just Lost Its President — Your Campaign Doesn't Care, Here's Why",
-      "why_now": "John Hight's abrupt departure is fresh industry news and ripe for a no-fluff take on why corporate churn at WotC never actually changes what happens at your table.",
-      "angle": "Dry monologue tying executive turnover to the reality that rules-as-written don't change with leadership — pivot into a concrete ruling example to keep it on-beat.",
-      "source": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
+      "title": "Star Wars Season Confirmed — Here's the Spell That Already Is a Lightsaber (No New Book Needed)",
+      "why_now": "WotC just confirmed the 2027 Season of Rebellion is a full Star Wars crossover, and players will ask 'how do I do this now' before the book drops.",
+      "angle": "Spell use-case short: stat a lightsaber duel using Green-Flame Blade/Booming Blade, no homebrew required",
+      "source": "https://www.enworld.org/threads/in-2027-d-ds-season-of-rebellion-is-star-wars.720102/"
     },
     {
-      "title": "Jungle King Magic Items Are Broken in the Right Way — Here's the Actual Use-Case",
-      "why_now": "EN World's fresh wilderness magic item roundup gives concrete new items to mechanically stress-test before players find the article themselves.",
-      "angle": "Pick one specific jungle/wilderness item from the piece, run the numbers on an optimal use-case at a specific level, deliver as a 60-second spell/item breakdown.",
-      "source": "https://www.enworld.org/threads/a-true-king-of-the-jungle-and-wilderness-themed-magic-items.720050/"
+      "title": "You Don't Need Universes Beyond — Reskin Any Monster in 10 Minutes (WoW Crossover Edition)",
+      "why_now": "The WoW crossover and Universes Beyond line just launched, prompting 'do I need to buy this' questions from GMs.",
+      "angle": "Dry veteran GM ruling: take an existing MM statblock, swap flavor text, run a 'WoW' encounter tonight for free",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-announces-universes-beyond-line-kicking-off-ip-crossovers.720058/"
     },
     {
-      "title": "Doll-Type Monsters Are Just Constructs With Better PR — Tactics for Running Them",
-      "why_now": "RPG Evolution's 'Valley of the Dolls' piece is timely enough to ride the doll-horror trend into a concrete creature tactic breakdown.",
-      "angle": "Take a specific doll/construct statblock (flesh golem, animated armor reflavor) and give one nasty tactic GMs should be running against players, Shadowdark and 5e versions side by side.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-valley-of-the-dolls.719760/"
+      "title": "D&D Icons Line: What Old-School Creator Credits Actually Change at Your Table (Spoiler: Nothing)",
+      "why_now": "The Icons line announcement leans on nostalgia for classic creators/settings, a hook for a skeptical old-guard GM take.",
+      "angle": "Wry commentary short comparing a classic-edition ruling to its 5e equivalent to show the rules haven't functionally moved",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-icons-line-announced-bringing-back-classic-creators-to-classic-settings.720054/"
     },
     {
-      "title": "The 'Lazy GM' Method Is Just Prep You're Already Doing Wrong — Here's the Fix",
-      "why_now": "Gnomecast's fresh episode with Mike Shea on the Lazy GM approach gives a hook to translate a popular prep philosophy into one hard ruling/technique.",
-      "angle": "Distill one specific Lazy GM technique (e.g., secret monster HP tracking or strong-start improv) into a single mechanical tip delivered in the channel's terse veteran-GM style.",
+      "title": "Lazy GM Prep in Under 60 Seconds: The One Habit From Mike Shea's Playbook You Should Steal Tonight",
+      "why_now": "Gnomecast just dropped an episode with Mike Shea on Lazy GM prep, giving a timely tie-in for a prep-focused tip that fits the daily-short format perfectly.",
+      "angle": "Quick-cut GM tip: adapt one Lazy GM prep step (secrets/clues list) into a Shadowdark/DCC session-zero checklist",
       "source": "https://gnomestew.com/gnomecast-242-rise-of-the-lazy-gm-with-mike-shea/"
     }
   ]
