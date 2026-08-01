@@ -1816,5 +1816,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "videos": [
+      {
+        "id": "EJNz3HLJ2ZU",
+        "title": "Awakened Tree's Slam hits harder than most parties expect at this level #dnd5e",
+        "published": "2026-07-31",
+        "views": 220,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "FJP7pQEuu58",
+        "title": "Fey Wanderer's Dreadful Strikes adds 1d4 psychic damage once per turn #dnd5e",
+        "published": "2026-07-31",
+        "views": 191,
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "id": "J64O9lsTGtc",
+        "title": "Seer focus breaks with any damage in Shadowdark",
+        "published": "2026-07-30",
+        "views": 296,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "5-pQFMK3dcs",
+        "title": "Wizard's power spike occurs at the level where spell tiers unlock #shadowdark",
+        "published": "2026-07-30",
+        "views": 71,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "rQt2VWH0DFA",
+        "title": "Green-Flame Blade has a range of 5 feet and affects two targets #dnd5e",
+        "published": "2026-07-30",
+        "views": 316,
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "RVmPQdj54sI",
+        "title": "Use Kobold Avatar as an encounter seed with clear stakes and one hard decision #dcc",
+        "published": "2026-07-30",
+        "views": 73,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "mh-VGRoD9us",
+        "title": "Chant is wasted without hidden threats #shadowdark",
+        "published": "2026-07-29",
+        "views": 542,
+        "likes": 5,
+        "comments": 0
+      },
+      {
+        "id": "RhdmT0aSFnU",
+        "title": "Chant reveals hidden threats with focus-based duration #shadowdark",
+        "published": "2026-07-29",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "nmXdTvpsmcU",
+        "title": "Passwall creates a temporary tunnel for 5 rounds in a barrier you touch #shadowdark",
+        "published": "2026-07-29",
+        "views": 59,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "fEn8ONVZqbA",
+        "title": "Boots of Mist-Stepping allow movement through 30 feet of air as mist #dcc",
+        "published": "2026-07-29",
+        "views": 211,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "cYZjnSap0CI",
+        "title": "Morale checks trigger at half losses or when a strong ally falls #shadowdark",
+        "published": "2026-07-28",
+        "views": 104,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "zvsd7_MtTUA",
+        "title": "Path of Wild Magic triggers random magical effects while raging #dnd5e",
+        "published": "2026-07-28",
+        "views": 385,
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   }
 ]
