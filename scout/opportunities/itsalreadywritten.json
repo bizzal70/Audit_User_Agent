@@ -1,34 +1,34 @@
 {
-  "generated": "2026-07-31T11:42:59+00:00",
+  "generated": "2026-08-01T11:28:36+00:00",
   "opportunities": [
     {
-      "title": "D&D's 2027 Roadmap, Decoded: What 'Seasons' Actually Means for Your Table",
-      "why_now": "The new season-based roadmap (Champions, Survival, Sword & Sorcery, Rebellion) just dropped at Gen Con and readers need the structure explained in rules terms, not marketing terms.",
-      "angle": "Explainer breaking down what a 'season' is mechanically (book cadence, tie-in adventures, digital content) vs. past release models",
-      "source": "https://www.enworld.org/threads/the-new-d-d-roadmap-brings-seasons-of-champions-survival-sword-sorcery-and-rebellion-tl-dr-version.720114/"
+      "title": "The Rulebook Says Star Wars Twice: D&D's 2027 Rebellion Season vs. Edge Studios' License",
+      "why_now": "Two separate outlets are publishing Star Wars TTRPG content under different licenses in the same window, creating real rules/IP confusion for GMs and buyers.",
+      "angle": "Explainer breaking down who owns what mechanically—stat blocks, license scope, and what's actually playable under each system",
+      "source": "https://www.enworld.org/threads/edge-studios-confirms-it-still-has-the-star-wars-license-despite-d-ds-upcoming-book.720121/"
     },
     {
-      "title": "Dark Sun's Mature Rating Is a Rules Problem, Not Just a Marketing One",
-      "why_now": "Dark Sun was just announced as D&D's first mature-rated setting, raising immediate questions about how content ratings interact with the actual rules text (defiling magic, slavery mechanics, etc.).",
-      "angle": "Rules-first analysis of what a 'mature rating' could mean for published mechanics—is it just art/tone, or will subsystems (like defiling) get harsher rules treatment?",
+      "title": "D&D's First Mature-Rated Setting: What 'Mature' Actually Changes in the Rules",
+      "why_now": "Dark Sun's 2027 return as D&D's first mature-rated setting is a rules-system first, not just a marketing label.",
+      "angle": "Rules-first breakdown of what content/mechanical restrictions or additions an 'M-rated' D&D book implies, compared to prior Dark Sun editions' survival mechanics",
       "source": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
     },
     {
-      "title": "Universes Beyond Meets 5e Rules: Can Star Wars and WoW Actually Fit the Chassis?",
-      "why_now": "D&D just announced Universes Beyond crossovers (Star Wars for Season of Rebellion, WoW this November) and the core question every rules-focused reader will ask is how these IPs get statted into 5e's system.",
-      "angle": "Rules-crunch speculation piece: what subclasses/mechanics would be needed to make lightsabers or WoW races work within existing 5e frameworks",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-announces-universes-beyond-line-kicking-off-ip-crossovers.720058/"
+      "title": "Decoding the 2027 D&D Roadmap: What 'Seasons' Actually Means for Your Table",
+      "why_now": "The full Gen Con keynote just dropped four named seasons (Champions, Survival, Sword & Sorcery, Rebellion) with concrete release cadence implications.",
+      "angle": "Reference-style breakdown of confirmed release order, rules previews, and what each season likely means for splatbook compatibility",
+      "source": "https://www.enworld.org/threads/the-new-d-d-roadmap-brings-seasons-of-champions-survival-sword-sorcery-and-rebellion-tl-dr-version.720114/"
     },
     {
-      "title": "D&D's Third-Party Setting Partnerships: What 'Official Support' Actually Grants",
-      "why_now": "D&D just announced official third-party partnerships for popular campaign settings, and rules-minded readers want to know exactly what 'official' unlocks—stat blocks, rules legality, organized play?",
-      "angle": "Breakdown of what official third-party support historically has meant (5e compatibility license, playtesting, canon status) applied to this new announcement",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-announces-third-party-partnerships-to-bring-official-support-to-popular-campaign-settings.720059/"
+      "title": "Greyhawk: Crown of the Witch Queen — What We Know About the Rules Inside",
+      "why_now": "Freshly announced 2027 adventure gives an early opportunity to parse confirmed mechanical/setting details before hype cycles blur the facts.",
+      "angle": "Fact-check style rundown separating confirmed rules content from speculation, sourced directly to the announcement",
+      "source": "https://www.enworld.org/threads/greyhawk-crown-of-the-witch-queen-announced-as-2027-adventure.720055/"
     },
     {
-      "title": "Vampire: The Masquerade's New Edition — What Rules Actually Change",
-      "why_now": "A new V:tM edition was just announced alongside more World of Darkness games, and the rules-first audience wants a clean comparison to prior editions before hype cycles take over.",
-      "angle": "Rules comparison piece anticipating likely mechanical shifts (Hunger dice, clan mechanics) based on prior edition history and publisher statements",
+      "title": "Vampire: The Masquerade's New Edition — Every Confirmed Rules Change So Far",
+      "why_now": "A new V:tM edition was just confirmed alongside other new games, meaning early rules details are ripe for a definitive tracker post.",
+      "angle": "Living reference doc/thread tracking confirmed mechanical changes vs. rumor, updated as more info surfaces",
       "source": "https://www.enworld.org/threads/vampire-the-masquerade-getting-a-new-edition-more-games-coming-too.720113/"
     }
   ]

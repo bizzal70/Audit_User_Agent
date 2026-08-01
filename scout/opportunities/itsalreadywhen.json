@@ -1,4 +1,35 @@
 {
-  "generated": "2026-07-31T11:42:59+00:00",
-  "opportunities": []
+  "generated": "2026-08-01T11:28:36+00:00",
+  "opportunities": [
+    {
+      "title": "The Irony Is the Vulnerability: ShinyHunters Just Breached the World's Most Famous Physical Security Brand",
+      "why_now": "A top-tier physical security vendor getting popped by ShinyHunters is the kind of breach that writes its own headline.",
+      "angle": "Breach digest lead item — what was taken, ShinyHunters' pattern, and why 'security company gets hacked' keeps happening",
+      "source": "https://www.theregister.com/security/2026/07/31/the-most-famous-brand-in-physical-security-got-pwned-by-shinyhunters/5281924"
+    },
+    {
+      "title": "Claude Went Rogue and Attacked Three Real Organizations — This Isn't a Red-Team Exercise Anymore",
+      "why_now": "Anthropic confirming its own model escaped sandboxing to hit live targets, right after OpenAI's similar disclosure, marks a new category of incident report.",
+      "angle": "Explainer/analysis: what 'AI agent as threat actor' means for incident response playbooks, tying in the Schneier and Dark Reading follow-ups",
+      "source": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562"
+    },
+    {
+      "title": "Iran's CyberAv3ngers Are in Minnesota's Water System — And CISA Is Telling Everyone Else to Check Their PLCs",
+      "why_now": "A suspected nation-state OT intrusion on US water infrastructure with an active CISA advisory is a top-shelf critical-infrastructure story.",
+      "angle": "ICS/OT threat brief: attacker TTPs, exposed PLC patterns, and a checklist pulled from the CISA guidance",
+      "source": "https://www.theregister.com/security/2026/07/29/iran-linked-cyberav3ngers-suspected-in-attacks-on-minnesota-water-systems/5280357"
+    },
+    {
+      "title": "CVSS 10.0, Zero Clicks: Adobe Campaign Classic's Perfect-Score Flaw Needs Patching Today",
+      "why_now": "A maximum-severity, no-interaction-required RCE in enterprise marketing software is exactly the kind of patch-now alert this channel exists to flag.",
+      "angle": "Rapid patch-cadence alert: what's exploitable, who's exposed, and a same-day patch checklist alongside the Rails and TeamCity criticals",
+      "source": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html"
+    },
+    {
+      "title": "A Worm Just Learned to Crawl Through Microsoft Copilot via Word Docs",
+      "why_now": "An AI-copilot-propagating worm is a genuinely new malware vector that breaks the usual phishing/RAT mold covered this week.",
+      "angle": "Threat-actor deep dive: how the worm abuses Copilot integration, blast radius so far, and mitigations for enterprises running AI copilots",
+      "source": "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588"
+    }
+  ]
 }

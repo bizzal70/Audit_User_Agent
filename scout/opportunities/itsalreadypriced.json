@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-31T11:42:59+00:00",
+  "generated": "2026-08-01T11:28:36+00:00",
   "opportunities": [
     {
-      "title": "The Coldcard Mk3 Drain: When 'AI Found The Bug' Is the Scariest Sentence in Crypto Security",
-      "why_now": "A $38M hardware-wallet sweep just happened in 25 minutes, and Coinkite itself thinks AI found the flaw — that's a paradigm shift in adversary capability, not just another hack.",
-      "angle": "Technical postmortem + 'what this means for every cold storage setup' checklist, positioned as the story hardware wallet users can't ignore",
-      "source": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The Coldcard Hack Didn't Touch a Single Device — That's What Should Scare You",
+      "why_now": "Losses hit $70M and CoinDesk/Cointelegraph confirm the exploit worked without physically compromising hardware, meaning the 'cold' in cold storage was never the point of failure.",
+      "angle": "Technical breakdown of the attack vector plus a 'we told you supply-chain risk isn't theoretical' thesis piece",
+      "source": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices"
     },
     {
-      "title": "Ethereum and Solana Bled the Most in H1 2026 — Here's Why 'More Secure' Chains Keep Losing the Most Money",
-      "why_now": "Blockaid's fresh H1 2026 data quantifies exactly where hacker capital flowed, giving hard numbers to a narrative security people have suspected all year.",
-      "angle": "Data-led breakdown with chain-by-chain loss chart and a contrarian point: TVL and audits didn't save anyone",
-      "source": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "CZ Says 'Diversify Your Wallets' — Translation: Even Binance's Founder Doesn't Trust Single Points of Failure",
+      "why_now": "CZ publicly reacted to the Coldcard exploit within 24 hours, giving a quotable, high-profile hook to reinforce a security thesis the channel has been arguing all along.",
+      "angle": "Quick-hit X thread breaking down CZ's advice into concrete multi-sig/wallet-diversification steps, blog cross-post with checklist",
+      "source": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit"
     },
     {
-      "title": "IBM Says It Has 'Trusted Quantum Advantage.' Bitcoin's Signature Scheme Just Got a Little More Nervous",
-      "why_now": "IBM's claim lands the same week as a major wallet-drain story, letting us connect near-term custody failures to the long-term quantum countdown everyone keeps deferring.",
-      "angle": "Explainer that separates real near-term risk (bad key management, AI-assisted exploits) from distant quantum risk, and why people conflate them to sell fear",
-      "source": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage"
+      "title": "Self-Custody's Bad Week Is Custodians' Best Marketing — And That's the Real Story",
+      "why_now": "CoinDesk reports the Coldcard exploit is already pushing investors toward ETFs, exactly the outcome skeptics of 'not your keys' purism predicted when hardware wallets get treated as bulletproof.",
+      "angle": "Contrarian analysis: security theater vs actual risk transfer, argue neither self-custody nor ETFs are 'safe,' just different threat models",
+      "source": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs"
     },
     {
-      "title": "The IRS Doesn't Email or Mail You About Your Crypto — So Why Are Fake Letters Working?",
-      "why_now": "Bloomberg/The Block just reported a live fraud campaign using fake IRS letters to extract wallet data, a classic social-engineering vector hitting at scale right now.",
-      "angle": "Practical 'anatomy of the scam' post with the actual red flags, framed for people who think they're too savvy to fall for it",
-      "source": "https://www.theblock.co/post/410204/irs-crypto-holders-fraudster-sending-fake-letters-steal-digital-assets-data-bloomberg?utm_source=rss&utm_medium=rss"
+      "title": "Tether Made $1.5B Last Quarter — and Its Safety Buffer Just Shrank by Half",
+      "why_now": "Tether's own Q2 numbers show excess reserves falling over $4B even as profit hits $1.5B, a split that's newsworthy the same week regulators are tightening stablecoin oversight via Circle's NYDFS charter.",
+      "angle": "Numbers-first breakdown: what 'excess reserves' actually buffer against, and why profit growth with shrinking buffer is a yellow flag not a green one",
+      "source": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
     },
     {
-      "title": "$57M Gone Through Crypto Kiosks in Texas Alone — The Scam Vector Regulators Still Can't Kill",
-      "why_now": "Texas lawmakers are actively weighing a kiosk ban after $57M in losses, making this a live policy fight with a concrete, human-scale fraud story behind it.",
-      "angle": "Ground-level scam mechanics piece (how the kiosk con works step by step) tied to the policy debate, aimed at readers who dismiss 'boomer scams' as beneath crypto-native attention",
-      "source": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban"
+      "title": "IBM's CEO Just Said Quantum Is Close — Bitcoin's Cold Wallets Should Be More Worried Than the Bulls",
+      "why_now": "IBM's commercial-breakthrough comments land the same week a cold-storage exploit already rattled self-custody confidence, letting the channel connect near-term wallet risk to the longer quantum-threat thesis.",
+      "angle": "Explainer tying current hardware wallet failures to the future quantum-crypto risk timeline — 'if this is what breaks custody today, what happens when quantum arrives'",
+      "source": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-07-31T11:42:59+00:00",
+  "generated": "2026-08-01T11:28:36+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun's 'Mature Rating' Won't Save You From a TPK: Defiler Magic Ruling in 5e Terms",
-      "why_now": "Dark Sun just got announced as D&D's first mature-rated 2027 setting, so fans want a mechanics preview before marketing hype takes over.",
-      "angle": "60-sec ruling: how to run defiling as a hard resource-drain mechanic (HP cost to terrain/allies) that actually bites, not just fluff text",
+      "title": "Dark Sun's Back and It's 'Mature Rated' — Here's the Ruling on Defiler Magic Nobody Remembers",
+      "why_now": "Dark Sun's 2027 return as D&D's first mature-rated setting is fresh news and defiling/preserving magic is a rules-rich mechanic ripe for a short.",
+      "angle": "Rules ruling short: how defiler spellcasting drain-damage-to-terrain should interact with 5e's spell slot economy, with a GM ruling on collateral damage to allies",
       "source": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
     },
     {
-      "title": "Star Wars Season Confirmed — Here's the Spell That Already Is a Lightsaber (No New Book Needed)",
-      "why_now": "WotC just confirmed the 2027 Season of Rebellion is a full Star Wars crossover, and players will ask 'how do I do this now' before the book drops.",
-      "angle": "Spell use-case short: stat a lightsaber duel using Green-Flame Blade/Booming Blade, no homebrew required",
+      "title": "Season of Rebellion is Star Wars — So How Does a Lightsaber Actually Work as a 5e Weapon?",
+      "why_now": "The just-announced 2027 D&D/Star Wars crossover season is the biggest crossover news of the week and begs an immediate stat-block question.",
+      "angle": "Spell/item use-case short: reverse-engineer lightsaber as a finesse weapon with the Force as a reskinned spellcasting tradition, one ruling on parrying blaster bolts",
       "source": "https://www.enworld.org/threads/in-2027-d-ds-season-of-rebellion-is-star-wars.720102/"
     },
     {
-      "title": "You Don't Need Universes Beyond — Reskin Any Monster in 10 Minutes (WoW Crossover Edition)",
-      "why_now": "The WoW crossover and Universes Beyond line just launched, prompting 'do I need to buy this' questions from GMs.",
-      "angle": "Dry veteran GM ruling: take an existing MM statblock, swap flavor text, run a 'WoW' encounter tonight for free",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-announces-universes-beyond-line-kicking-off-ip-crossovers.720058/"
+      "title": "Greyhawk's Witch Queen Adventure Is Coming — Here's the One Ruling on Coven Hag Spellcasting You're Getting Wrong",
+      "why_now": "Crown of the Witch Queen was just announced for 2027 and hags/covens are exactly the kind of mechanically fiddly creature this channel covers.",
+      "angle": "Creature tactic short: coven shared-spellcasting ruling — what happens when only two of three hags are present, action economy breakdown",
+      "source": "https://www.enworld.org/threads/greyhawk-crown-of-the-witch-queen-announced-as-2027-adventure.720055/"
     },
     {
-      "title": "D&D Icons Line: What Old-School Creator Credits Actually Change at Your Table (Spoiler: Nothing)",
-      "why_now": "The Icons line announcement leans on nostalgia for classic creators/settings, a hook for a skeptical old-guard GM take.",
-      "angle": "Wry commentary short comparing a classic-edition ruling to its 5e equivalent to show the rules haven't functionally moved",
+      "title": "D&D Icons Line Brings Back Classic Creators — So Let's Fix an OG Monster Manual Ruling They Never Clarified",
+      "why_now": "The newly announced Icons line revives classic creators/settings, a natural hook to revisit an old-school monster ambiguity with a modern ruling.",
+      "angle": "Dry veteran-GM ruling short: pick one classic 1e-era monster (e.g., displacer beast image displacement) and give the definitive modern 5e ruling on how it interacts with AoE spells",
       "source": "https://www.enworld.org/threads/dungeons-dragons-icons-line-announced-bringing-back-classic-creators-to-classic-settings.720054/"
     },
     {
-      "title": "Lazy GM Prep in Under 60 Seconds: The One Habit From Mike Shea's Playbook You Should Steal Tonight",
-      "why_now": "Gnomecast just dropped an episode with Mike Shea on Lazy GM prep, giving a timely tie-in for a prep-focused tip that fits the daily-short format perfectly.",
-      "angle": "Quick-cut GM tip: adapt one Lazy GM prep step (secrets/clues list) into a Shadowdark/DCC session-zero checklist",
-      "source": "https://gnomestew.com/gnomecast-242-rise-of-the-lazy-gm-with-mike-shea/"
+      "title": "D&D's New Roadmap Has a 'Season of Survival' — Here's the Exhaustion Ruling That'll Actually Kill Your Party",
+      "why_now": "The freshly revealed 2027 roadmap includes a Survival season, a direct tie-in to a mechanically dense, oft-misplayed subsystem.",
+      "angle": "Rules ruling short: clarify the 2024 exhaustion track stacking with forced-march rules and how DMs should apply it without derailing a session",
+      "source": "https://www.enworld.org/threads/the-new-d-d-roadmap-brings-seasons-of-champions-survival-sword-sorcery-and-rebellion-tl-dr-version.720114/"
     }
   ]
 }
