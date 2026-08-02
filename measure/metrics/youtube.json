@@ -1917,5 +1917,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-02",
+    "videos": [
+      {
+        "id": "B7_czbE26A8",
+        "title": "Backstab requires the target to be unaware of the attack for extra damage #shadowdark",
+        "published": "2026-08-01",
+        "views": 38,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "b2UD4J7ydoQ",
+        "title": "Staff of Frost's 10 charges can swing an encounter if used wisely #dnd5e",
+        "published": "2026-08-01",
+        "views": 75,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "FaBCWWQ9Ujk",
+        "title": "Alignment in DCC is about cosmic allegiance, not personal morality",
+        "published": "2026-08-01",
+        "views": 108,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "LiLOQ8E3dYc",
+        "title": "Adult Red Dragon's Commanding Presence disrupts tactics #dnd5e",
+        "published": "2026-08-01",
+        "views": 550,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "8CCTZ7s00Hc",
+        "title": "Adult Red Dragon's Fire Breath demands a DC 21 Dex save #dnd5e",
+        "published": "2026-08-01",
+        "views": 604,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "v6tUWx3Im3A",
+        "title": "Adult Red Dragon's Legendary Resistance in Lair #dnd5e",
+        "published": "2026-08-01",
+        "views": 2,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "EJNz3HLJ2ZU",
+        "title": "Awakened Tree's Slam hits harder than most parties expect at this level #dnd5e",
+        "published": "2026-07-31",
+        "views": 289,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "FJP7pQEuu58",
+        "title": "Fey Wanderer's Dreadful Strikes adds 1d4 psychic damage once per turn #dnd5e",
+        "published": "2026-07-31",
+        "views": 277,
+        "likes": 5,
+        "comments": 1
+      },
+      {
+        "id": "J64O9lsTGtc",
+        "title": "Seer focus breaks with any damage in Shadowdark",
+        "published": "2026-07-30",
+        "views": 301,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "5-pQFMK3dcs",
+        "title": "Wizard's power spike occurs at the level where spell tiers unlock #shadowdark",
+        "published": "2026-07-30",
+        "views": 95,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "rQt2VWH0DFA",
+        "title": "Green-Flame Blade has a range of 5 feet and affects two targets #dnd5e",
+        "published": "2026-07-30",
+        "views": 349,
+        "likes": 2,
+        "comments": 1
+      },
+      {
+        "id": "RVmPQdj54sI",
+        "title": "Use Kobold Avatar as an encounter seed with clear stakes and one hard decision #dcc",
+        "published": "2026-07-30",
+        "views": 80,
+        "likes": 2,
+        "comments": 0
+      }
+    ]
   }
 ]
