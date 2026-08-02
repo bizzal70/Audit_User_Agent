@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-01T11:28:36+00:00",
+  "generated": "2026-08-02T11:27:46+00:00",
   "opportunities": [
     {
-      "title": "The Coldcard Hack Didn't Touch a Single Device — That's What Should Scare You",
-      "why_now": "Losses hit $70M and CoinDesk/Cointelegraph confirm the exploit worked without physically compromising hardware, meaning the 'cold' in cold storage was never the point of failure.",
-      "angle": "Technical breakdown of the attack vector plus a 'we told you supply-chain risk isn't theoretical' thesis piece",
+      "title": "$89M and Climbing: How the Coldcard Attack Drained Wallets Without Ever Touching the Devices",
+      "why_now": "Losses have escalated daily from $38M to $70M to $89M across 4,500 addresses in under a week, with CoinDesk's technical postmortem revealing the attack never compromised the hardware itself.",
+      "angle": "Deep-dive security explainer dissecting the actual attack vector (supply chain/seed generation, not device compromise), contrasting the panic headlines with what security researchers actually found — 'we told you cold storage isn't magic' voice.",
       "source": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices"
     },
     {
-      "title": "CZ Says 'Diversify Your Wallets' — Translation: Even Binance's Founder Doesn't Trust Single Points of Failure",
-      "why_now": "CZ publicly reacted to the Coldcard exploit within 24 hours, giving a quotable, high-profile hook to reinforce a security thesis the channel has been arguing all along.",
-      "angle": "Quick-hit X thread breaking down CZ's advice into concrete multi-sig/wallet-diversification steps, blog cross-post with checklist",
+      "title": "CZ Says 'Diversify Your Wallets' — Translation: Even Crypto's Biggest Custody Advocate Doesn't Trust One Device",
+      "why_now": "CZ publicly reacted to the $70M Coldcard exploit with a 'nothing is 100%' warning, days after CryptoQuant flagged it as the biggest sub-1 BTC move since FTX.",
+      "angle": "Sharp opinion piece using CZ's own words against the industry's single-wallet gospel, framed as validation of a security-first, no-single-point-of-failure thesis.",
       "source": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit"
     },
     {
-      "title": "Self-Custody's Bad Week Is Custodians' Best Marketing — And That's the Real Story",
-      "why_now": "CoinDesk reports the Coldcard exploit is already pushing investors toward ETFs, exactly the outcome skeptics of 'not your keys' purism predicted when hardware wallets get treated as bulletproof.",
-      "angle": "Contrarian analysis: security theater vs actual risk transfer, argue neither self-custody nor ETFs are 'safe,' just different threat models",
-      "source": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs"
+      "title": "$676M Through Binance: The Iran Sanctions-Evasion Route On-Chain Forensics Should Have Caught Sooner",
+      "why_now": "Reuters reported an Iran-linked exchange moved $676M through Binance in an alleged sanctions-evasion scheme, surfacing just as regulators scrutinize CEX compliance globally.",
+      "angle": "Security/compliance analysis walking through how the flows likely worked and why on-chain monitoring tools exist precisely to catch this — 'this was always going to happen' framing for CEX AML gaps.",
+      "source": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters"
     },
     {
-      "title": "Tether Made $1.5B Last Quarter — and Its Safety Buffer Just Shrank by Half",
-      "why_now": "Tether's own Q2 numbers show excess reserves falling over $4B even as profit hits $1.5B, a split that's newsworthy the same week regulators are tightening stablecoin oversight via Circle's NYDFS charter.",
-      "angle": "Numbers-first breakdown: what 'excess reserves' actually buffer against, and why profit growth with shrinking buffer is a yellow flag not a green one",
-      "source": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
+      "title": "SummerFi Is Dead: Another DeFi Protocol Killed by an Exploit It Never Recovered From",
+      "why_now": "SummerFi announced its wind-down after seven years, explicitly citing an exploit as the cause — a fresh case study in how hacks quietly end protocols long after headlines fade.",
+      "angle": "Postmortem/obituary format tracing the exploit-to-shutdown timeline, positioned as the latest data point in the 'DeFi security debt always comes due' thesis.",
+      "source": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit"
     },
     {
-      "title": "IBM's CEO Just Said Quantum Is Close — Bitcoin's Cold Wallets Should Be More Worried Than the Bulls",
-      "why_now": "IBM's commercial-breakthrough comments land the same week a cold-storage exploit already rattled self-custody confidence, letting the channel connect near-term wallet risk to the longer quantum-threat thesis.",
-      "angle": "Explainer tying current hardware wallet failures to the future quantum-crypto risk timeline — 'if this is what breaks custody today, what happens when quantum arrives'",
-      "source": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says"
+      "title": "Solana's New CISO Just Confirmed What Security People Already Feared: AI Scams Are Getting Undetectable",
+      "why_now": "Solana Foundation's newly appointed CISO issued a direct warning this week that AI is making crypto scams significantly more convincing, right as AI-generated fraud tooling proliferates.",
+      "angle": "Commentary tying the CISO's warning to concrete recent scam patterns (deepfake voice, fake support, AI-cloned wallets), framed as an early-warning piece for the next scam wave.",
+      "source": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing"
     }
   ]
 }

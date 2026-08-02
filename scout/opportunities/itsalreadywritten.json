@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-01T11:28:36+00:00",
+  "generated": "2026-08-02T11:27:46+00:00",
   "opportunities": [
     {
-      "title": "The Rulebook Says Star Wars Twice: D&D's 2027 Rebellion Season vs. Edge Studios' License",
-      "why_now": "Two separate outlets are publishing Star Wars TTRPG content under different licenses in the same window, creating real rules/IP confusion for GMs and buyers.",
-      "angle": "Explainer breaking down who owns what mechanically—stat blocks, license scope, and what's actually playable under each system",
-      "source": "https://www.enworld.org/threads/edge-studios-confirms-it-still-has-the-star-wars-license-despite-d-ds-upcoming-book.720121/"
-    },
-    {
-      "title": "D&D's First Mature-Rated Setting: What 'Mature' Actually Changes in the Rules",
-      "why_now": "Dark Sun's 2027 return as D&D's first mature-rated setting is a rules-system first, not just a marketing label.",
-      "angle": "Rules-first breakdown of what content/mechanical restrictions or additions an 'M-rated' D&D book implies, compared to prior Dark Sun editions' survival mechanics",
-      "source": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
-    },
-    {
-      "title": "Decoding the 2027 D&D Roadmap: What 'Seasons' Actually Means for Your Table",
-      "why_now": "The full Gen Con keynote just dropped four named seasons (Champions, Survival, Sword & Sorcery, Rebellion) with concrete release cadence implications.",
-      "angle": "Reference-style breakdown of confirmed release order, rules previews, and what each season likely means for splatbook compatibility",
+      "title": "D&D's 2027 Roadmap, Decoded: What 'Seasons' Actually Means for Your Rules Books",
+      "why_now": "WotC just dropped a full four-season 2027 roadmap (Champions, Survival, Sword & Sorcery, Rebellion) at Gen Con, and players need a plain-English breakdown of what's crunch vs. what's fluff.",
+      "angle": "Numbered breakdown post: each season, what rules content ships, what's reprint vs. new mechanics",
       "source": "https://www.enworld.org/threads/the-new-d-d-roadmap-brings-seasons-of-champions-survival-sword-sorcery-and-rebellion-tl-dr-version.720114/"
     },
     {
-      "title": "Greyhawk: Crown of the Witch Queen — What We Know About the Rules Inside",
-      "why_now": "Freshly announced 2027 adventure gives an early opportunity to parse confirmed mechanical/setting details before hype cycles blur the facts.",
-      "angle": "Fact-check style rundown separating confirmed rules content from speculation, sourced directly to the announcement",
-      "source": "https://www.enworld.org/threads/greyhawk-crown-of-the-witch-queen-announced-as-2027-adventure.720055/"
+      "title": "Dark Sun's 'Mature Rating' Is a Rules Problem, Not Just a Marketing One",
+      "why_now": "Dark Sun returning as D&D's first mature-rated setting in 2027 raises real questions about what content restrictions or new subsystems (survival, defiling magic) that rating requires.",
+      "angle": "Analysis piece speculating on mechanical implications of a mature rating tier within D&D's ruleset",
+      "source": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
     },
     {
-      "title": "Vampire: The Masquerade's New Edition — Every Confirmed Rules Change So Far",
-      "why_now": "A new V:tM edition was just confirmed alongside other new games, meaning early rules details are ripe for a definitive tracker post.",
-      "angle": "Living reference doc/thread tracking confirmed mechanical changes vs. rumor, updated as more info surfaces",
+      "title": "Star Wars Under Two Systems: What Edge Studios Keeping Its License Means for D&D's 2027 Book",
+      "why_now": "Edge Studios just confirmed it retains Star Wars TTRPG rights even as D&D preps its own Star Wars-flavored 'Season of Rebellion' content, setting up a rules/IP collision worth untangling.",
+      "angle": "Explainer thread comparing what each license actually covers mechanically and where overlap/conflict could emerge",
+      "source": "https://www.enworld.org/threads/edge-studios-confirms-it-still-has-the-star-wars-license-despite-d-ds-upcoming-book.720121/"
+    },
+    {
+      "title": "Vampire: The Masquerade's New Edition — Every Rules Change We Know So Far",
+      "why_now": "A fresh V:tM edition was just announced alongside more World of Darkness games, and rules-first readers want the mechanical delta before hype cycles bury the details.",
+      "angle": "Living rules-tracker post updated as details emerge, framed as 'what changes, what stays'",
       "source": "https://www.enworld.org/threads/vampire-the-masquerade-getting-a-new-edition-more-games-coming-too.720113/"
+    },
+    {
+      "title": "Paizo's Gen Con Keynote: The Pathfinder/Starfinder Rules Roadmap Nobody's Reading Closely Enough",
+      "why_now": "Paizo just laid out a full year of Pathfinder and Starfinder plans at their keynote, giving crunch-focused readers concrete rules/product timing to plan around.",
+      "angle": "Bullet-point breakdown of confirmed rulebooks/updates with release-window speculation",
+      "source": "https://www.enworld.org/threads/paizos-gen-con-keynote-is-a-dive-into-their-plans-for-pathfinder-and-starfinder-over-the-next-year.720116/"
     }
   ]
 }
