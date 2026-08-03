@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-02T11:27:46+00:00",
+  "generated": "2026-08-03T12:05:11+00:00",
   "plays": [
     {
-      "story": "Coldcard hardware wallet flaw enables a $70M+ (now $89M across 4,500 addresses) Bitcoin theft in 41 minutes without ever touching the physical device — CZ and Galaxy Research weigh in",
+      "story": "Coldcard hardware wallet exploit balloons past $114M across a suspected 4th attack wave, dragging BTC under $63K amid a 5-year-old firmware flaw",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "The $89M Coldcard Bleed: Why CZ Says 'Diversify Your Wallets' Isn't Optional Anymore — track the market fallout, the biggest sub-1 BTC move since FTX, and what it means for cold-storage true believers.",
-        "itsalreadywhen": "41 Minutes, Zero Device Contact: Inside the Coldcard Exploit That Redefines 'Cold Storage' — a technical teardown of an attack that beat the one thing hardware wallets promised to protect."
+        "itsalreadypriced": "\"$114M and Counting: Inside the Coldcard Bleed That Sent BTC Under $63K\" — track the market fallout: record sub-1 BTC transfer volumes, Saylor's 'Bitcoin Drive engaged' non-buy, and whether this is panic or just thin August volume.",
+        "itsalreadywhen": "\"Five Years Hidden, Four Waves Deep: What the Coldcard Flaw Says About Hardware Wallet Testing\" — dig into Kraken's security chief take on the testing gap and why 'cold storage' didn't mean safe."
       },
-      "source": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges"
     },
     {
-      "story": "Hackers poison the Adform ad-serving script to silently swap crypto wallet addresses across customer websites — a supply-chain attack aimed straight at wallet-holders' clipboards",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "That Crypto Payment Address on Your Favorite Site? Hackers Just Proved It Can Be Swapped Mid-Click — what traders and merchants need to check before their next transfer.",
-        "itsalreadywhen": "Adform's Poisoned Script Turns Ad Networks Into Crypto-Theft Infrastructure — why ad-tech is becoming the newest link in the crypto supply-chain attack surface."
-      },
-      "source": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html"
-    },
-    {
-      "story": "D&D's Gen Con Vision Keynote 2027 drops a full roadmap: Star Wars as the 'Season of Rebellion,' Dark Sun's mature-rated return, a new Greyhawk adventure, and the Icons line reviving classic creators",
+      "story": "Gen Con 2026 news dump: Dark Sun revival, D&D x Warcraft crossover cover, and Edge Studios vs. D&D's new sourcebook over the Star Wars license",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Dark Sun Goes Mature, Star Wars Joins D&D: What Gen Con's 2027 Roadmap Means for Your Table — a GM's cheat-sheet to the seasons, settings, and mechanics changes worth planning around now.",
-        "itsalreadywritten": "Greyhawk's Witch Queen and the Return of Dark Sun: D&D's 2027 Roadmap Is a Love Letter to Its Own History — how bringing back classic creators reshapes canon and continuity across settings."
+        "bizzal-games": "\"Dark Sun, Warcraft Covers, and a Death Saves One-Shot: Your Gen Con 2026 Cheat Sheet for What to Actually Play\" — practical rundown of new mechanics/settings worth bringing to the table.",
+        "itsalreadywritten": "\"The Star Wars License Fight Nobody Called: Edge Studios Says It's Not Dead Yet\" — unpack the licensing drama and what it means for whose Star Wars canon gets told next."
       },
-      "source": "https://www.enworld.org/threads/d-d%E2%80%99s-gen-con-vision-keynote-2027%E2%80%94all-of-the-announcements.720101/"
+      "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
     },
     {
-      "story": "Vampire: The Masquerade is getting a new edition, with more World of Darkness games confirmed to follow",
+      "story": "Paizo's Gen Con keynote lays out a year-long roadmap for Pathfinder and Starfinder",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Vampire: The Masquerade's New Edition Is Coming — Here's What Storytellers Need to Prep For, from rules updates to what carries over from current chronicles.",
-        "itsalreadywritten": "More Games, Same Night: What VtM's New Edition Signals for the Future of World of Darkness Canon and shared-universe continuity."
+        "bizzal-games": "\"Pathfinder's Next 12 Months, Decoded: What Paizo's Keynote Actually Means for Your Table\" — break down upcoming rules/classes and what GMs should prep for now.",
+        "itsalreadywritten": "\"Is Starfinder Paizo's Big Lore Bet? Reading Between the Lines of the Gen Con Keynote\" — focus on the narrative/setting direction and what it signals for sci-fi TTRPG storytelling."
       },
-      "source": "https://www.enworld.org/threads/vampire-the-masquerade-getting-a-new-edition-more-games-coming-too.720113/"
+      "source": "https://www.enworld.org/threads/paizos-gen-con-keynote-is-a-dive-into-their-plans-for-pathfinder-and-starfinder-over-the-next-year.720116/"
+    },
+    {
+      "story": "Dueling GM-craft essays drop same week: Sly Flourish's deep dive on 'Rise of the Lazy Gamemaster' and Gnome Stew's reflection on published adventures",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "\"Beyond 'Lazy DM': The Prep Shortcuts Sly Flourish Says Actually Save Your Sunday Night\" — pull the concrete techniques for run-ready sessions.",
+        "itsalreadywritten": "\"Why Gnome Stew's 'Published Adventures and Me' Nails the Homebrew-vs-Studio Module Tension\" — angle it as a craft essay on writing adventures for other people's tables."
+      },
+      "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
     }
   ]
 }

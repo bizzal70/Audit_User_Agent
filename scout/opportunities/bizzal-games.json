@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-02T11:27:46+00:00",
+  "generated": "2026-08-03T12:05:11+00:00",
   "opportunities": [
     {
-      "title": "Death Saves, For Real: What Actually Happens on a Nat 1 vs Nat 20",
-      "why_now": "The Manganiello 'Death Saves' one-shot has people talking about the mechanic by name, perfect hook for a rules-ruling short.",
-      "angle": "30-sec ruling breakdown: stabilizing, crit fail = two failures, crit success = 1hp regain, plus the 'three strikes while unconscious' edge case GMs get wrong",
+      "title": "Death Saves the Wrong Way: What Manganiello's One-Shot Got Right (and Botched) About Dying in 5e",
+      "why_now": "The Death Saves one-shot just dropped and gives a concrete, quotable scene to dissect the actual RAW on stabilizing vs. rolling nat 20s.",
+      "angle": "60-sec rules teardown short: clip reaction + correct ruling overlay",
       "source": "https://www.enworld.org/threads/watch-the-death-saves-one-shot-with-joe-manganiello.720118/"
     },
     {
-      "title": "Dark Sun's Back — Here's the Defiler Ruling Every Wizard Player Will Try to Weasel Out Of",
-      "why_now": "Dark Sun's 2027 mature-rated return is the biggest setting news of the week and its signature mechanic (defiling vs preserving) is a rules minefield GMs need ready.",
-      "angle": "Creature/caster tactic short: how defiling damages the environment mechanically and why 'I only defile a little' isn't a rule",
-      "source": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
+      "title": "Dark Sun Is Back — Here's Why Fireball Should Never Work the Same in a Desert Campaign Again",
+      "why_now": "Gen Con's Dark Sun reveal is the biggest setting news of the year and begs for a mechanical hot take, not lore recap.",
+      "angle": "Creature/spell tactic short: reskin fire/water spell interactions for arid survival play",
+      "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
     },
     {
-      "title": "Season of Rebellion = Star Wars in 5e — Here's the Stat Block Fix for a Blaster Pistol",
-      "why_now": "The Star Wars season announcement means players will start reflavoring guns into 5e stat blocks badly; get ahead of it with a clean ruling.",
-      "angle": "Spell/equipment use-case: reskinning hand crossbow as blaster pistol, ammo-as-charges houserule, and why 'it's just a crossbow' undersells the fantasy",
-      "source": "https://www.enworld.org/threads/in-2027-d-ds-season-of-rebellion-is-star-wars.720102/"
+      "title": "The D&D x WoW Cover Is Cute. Here's the Actual Stat Block Fix You Need for Orc Warbands",
+      "why_now": "The Forrest Imel alt cover is driving crossover buzz, giving a hook to pivot from art talk into practical monster tactics.",
+      "angle": "Creature tactic short: horde-fighting adjustments (mob rules, morale) inspired by WoW orcs",
+      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-alternate-cover-by-forrest-imel.720117/"
     },
     {
-      "title": "Greyhawk's Witch Queen Adventure Is Coming — So Let's Settle How Coven Spellcasting Actually Works",
-      "why_now": "Crown of the Witch Queen was just announced for 2027 and 'witch coven' mechanics (shared spell slots, hag covens) are consistently misplayed at tables.",
-      "angle": "Creature tactic short: hag coven shared spellcasting rules, how many hags you need for the bonus spells, and the RAW loophole on distance",
-      "source": "https://www.enworld.org/threads/greyhawk-crown-of-the-witch-queen-announced-as-2027-adventure.720055/"
+      "title": "Sly Flourish Says Skip the Prep. Here's the One Encounter You Still Can't Wing",
+      "why_now": "Sly Flourish's new Lazy GM piece is fresh GM-craft discourse ripe for a contrarian, mechanical rebuttal in your voice.",
+      "angle": "Wry GM-advice short: name the specific fight/trap that breaks 'no-prep' philosophy and why",
+      "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
     },
     {
-      "title": "D&D's New 'Season of Survival' Is Coming — Here's the Exhaustion Rule Nobody Runs Correctly",
-      "why_now": "The roadmap just confirmed a full Survival-themed season, so this is the moment to nail down the exhaustion track before every table reinvents it wrong.",
-      "angle": "Rules ruling short: the 2024 exhaustion table (cumulative -2 per level vs old binary penalties) and forced march/no-food stacking math",
-      "source": "https://www.enworld.org/threads/the-new-d-d-roadmap-brings-seasons-of-champions-survival-sword-sorcery-and-rebellion-tl-dr-version.720114/"
+      "title": "Starfinder's Stamina Points Just Got a Glow-Up — Should 5e Steal It to Kill the 15-Minute Adventuring Day?",
+      "why_now": "Paizo's Gen Con keynote just teased Starfinder's next-year mechanical direction, a rare cross-system hook for a 5e-focused audience.",
+      "angle": "Mechanical comparison short: stamina vs. hit dice resource attrition, framed as a house-rule you could steal tonight",
+      "source": "https://www.enworld.org/threads/paizos-gen-con-keynote-is-a-dive-into-their-plans-for-pathfinder-and-starfinder-over-the-next-year.720116/"
     }
   ]
 }

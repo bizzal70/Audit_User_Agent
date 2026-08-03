@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-02T11:27:46+00:00",
+  "generated": "2026-08-03T12:05:11+00:00",
   "opportunities": [
     {
-      "title": "D&D's 2027 Roadmap, Decoded: What 'Seasons' Actually Means for Your Rules Books",
-      "why_now": "WotC just dropped a full four-season 2027 roadmap (Champions, Survival, Sword & Sorcery, Rebellion) at Gen Con, and players need a plain-English breakdown of what's crunch vs. what's fluff.",
-      "angle": "Numbered breakdown post: each season, what rules content ships, what's reprint vs. new mechanics",
-      "source": "https://www.enworld.org/threads/the-new-d-d-roadmap-brings-seasons-of-champions-survival-sword-sorcery-and-rebellion-tl-dr-version.720114/"
+      "title": "Death Saves, Decoded: What Manganiello's One-Shot Actually Tests About D&D's Dying Rules",
+      "why_now": "A new celebrity one-shot titled DEATH SAVES just dropped, directly naming the mechanic and inviting a rules breakdown.",
+      "angle": "Rules explainer: walk through the actual death save mechanic (DC 10, three strikes, stabilizing, massive damage) using clips/moments from the one-shot as illustration",
+      "source": "https://www.enworld.org/threads/watch-the-death-saves-one-shot-with-joe-manganiello.720118/"
     },
     {
-      "title": "Dark Sun's 'Mature Rating' Is a Rules Problem, Not Just a Marketing One",
-      "why_now": "Dark Sun returning as D&D's first mature-rated setting in 2027 raises real questions about what content restrictions or new subsystems (survival, defiling magic) that rating requires.",
-      "angle": "Analysis piece speculating on mechanical implications of a mature rating tier within D&D's ruleset",
-      "source": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
-    },
-    {
-      "title": "Star Wars Under Two Systems: What Edge Studios Keeping Its License Means for D&D's 2027 Book",
-      "why_now": "Edge Studios just confirmed it retains Star Wars TTRPG rights even as D&D preps its own Star Wars-flavored 'Season of Rebellion' content, setting up a rules/IP collision worth untangling.",
-      "angle": "Explainer thread comparing what each license actually covers mechanically and where overlap/conflict could emerge",
+      "title": "Two Star Wars RPGs, One Galaxy: What Edge Studios Keeping Its License Means for Crunch vs. D&D's Version",
+      "why_now": "Edge Studios just confirmed it retains the Star Wars license even as D&D's own Star Wars book looms, setting up a direct rules-system comparison.",
+      "angle": "Comparative rules analysis: FFG/Edge's dice-pool narrative system vs. D&D 5e-style d20 approach to the same setting",
       "source": "https://www.enworld.org/threads/edge-studios-confirms-it-still-has-the-star-wars-license-despite-d-ds-upcoming-book.720121/"
     },
     {
-      "title": "Vampire: The Masquerade's New Edition — Every Rules Change We Know So Far",
-      "why_now": "A fresh V:tM edition was just announced alongside more World of Darkness games, and rules-first readers want the mechanical delta before hype cycles bury the details.",
-      "angle": "Living rules-tracker post updated as details emerge, framed as 'what changes, what stays'",
-      "source": "https://www.enworld.org/threads/vampire-the-masquerade-getting-a-new-edition-more-games-coming-too.720113/"
+      "title": "Paizo's Gen Con Keynote: The Pathfinder/Starfinder Rules Changes Coming Down the Pike",
+      "why_now": "Paizo just used its Gen Con keynote to lay out a year of Pathfinder/Starfinder plans, giving concrete rules roadmap material.",
+      "angle": "News-first breakdown of confirmed mechanical changes/expansions, framed as 'here's what's already written for next year'",
+      "source": "https://www.enworld.org/threads/paizos-gen-con-keynote-is-a-dive-into-their-plans-for-pathfinder-and-starfinder-over-the-next-year.720116/"
     },
     {
-      "title": "Paizo's Gen Con Keynote: The Pathfinder/Starfinder Rules Roadmap Nobody's Reading Closely Enough",
-      "why_now": "Paizo just laid out a full year of Pathfinder and Starfinder plans at their keynote, giving crunch-focused readers concrete rules/product timing to plan around.",
-      "angle": "Bullet-point breakdown of confirmed rulebooks/updates with release-window speculation",
-      "source": "https://www.enworld.org/threads/paizos-gen-con-keynote-is-a-dive-into-their-plans-for-pathfinder-and-starfinder-over-the-next-year.720116/"
+      "title": "Gen Con's Big Four: Dark Sun, Warcraft, Star Wars, and Death Saves — What Each Means for Your Table's Rules",
+      "why_now": "The EN World livestream just consolidated the biggest Gen Con reveals into one news drop, ripe for a rules-first digest.",
+      "angle": "Roundup post ranking each announcement by rules impact (new subsystems, setting mechanics, crossover rules) rather than hype",
+      "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
+    },
+    {
+      "title": "Sly Flourish's 'Rest of Rise' Confirms It: The Best GM Advice Is Just Restating Rules You Already Have",
+      "why_now": "Sly Flourish just published a fresh deep-dive on Rise of the Lazy Gamemaster's remaining techniques, a natural tie-in for rules-first commentary.",
+      "angle": "Response/analysis piece: cross-reference his GM techniques against actual rulebook text to show which are 'house ruling' vs. RAW-adjacent",
+      "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
     }
   ]
 }
