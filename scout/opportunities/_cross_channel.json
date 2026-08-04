@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-03T12:05:11+00:00",
+  "generated": "2026-08-04T11:44:31+00:00",
   "plays": [
     {
-      "story": "Coldcard hardware wallet exploit balloons past $114M across a suspected 4th attack wave, dragging BTC under $63K amid a 5-year-old firmware flaw",
+      "story": "Coldcard hardware wallet hack balloons to $130M across a suspected 4th attack wave, exposing a 5-year-old undetected flaw",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "\"$114M and Counting: Inside the Coldcard Bleed That Sent BTC Under $63K\" — track the market fallout: record sub-1 BTC transfer volumes, Saylor's 'Bitcoin Drive engaged' non-buy, and whether this is panic or just thin August volume.",
-        "itsalreadywhen": "\"Five Years Hidden, Four Waves Deep: What the Coldcard Flaw Says About Hardware Wallet Testing\" — dig into Kraken's security chief take on the testing gap and why 'cold storage' didn't mean safe."
+        "itsalreadypriced": "'Coldcard Bleeds $130M, Bitcoin Barely Blinks' — dig into why BTC held near $64K through four confirmed theft waves and what that calm says about market maturity vs. investor complacency",
+        "itsalreadywhen": "'The Bug Was Five Years Old: Inside the Coldcard Testing Gap' — forensic breakdown of how a half-decade-old flaw sat undetected in a 'secure' hardware wallet, per Kraken's security chief"
       },
-      "source": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges"
+      "source": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief"
     },
     {
-      "story": "Gen Con 2026 news dump: Dark Sun revival, D&D x Warcraft crossover cover, and Edge Studios vs. D&D's new sourcebook over the Star Wars license",
+      "story": "AI-assisted hacking wave hits crypto infra (Boltz pause) while most firms lack frontier AI access to defend themselves",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'The AI Moat Crypto Firms Can't Afford' — explain why only elite players have frontier AI access and what that access gap means for exchange/custody risk pricing and insurance costs",
+        "itsalreadywhen": "'Boltz Pulls the Plug: When AI-Assisted Attacks Outpace Crypto's Defenses' — case study on the first wave of AI-orchestrated attacks forcing a live service shutdown"
+      },
+      "source": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts"
+    },
+    {
+      "story": "Dark Sun officially returns to D&D in 2027 after decades away",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "\"Dark Sun, Warcraft Covers, and a Death Saves One-Shot: Your Gen Con 2026 Cheat Sheet for What to Actually Play\" — practical rundown of new mechanics/settings worth bringing to the table.",
-        "itsalreadywritten": "\"The Star Wars License Fight Nobody Called: Edge Studios Says It's Not Dead Yet\" — unpack the licensing drama and what it means for whose Star Wars canon gets told next."
+        "bizzal-games": "'Dark Sun 2027: What a Post-Apocalyptic Athas Means for Your Table Right Now' — practical breakdown of survival mechanics, resource scarcity rules, and how to prep a session before the books even drop",
+        "itsalreadywritten": "'Athas Rises Again: Why Dark Sun's Return Is D&D's Riskiest Worldbuilding Bet Since Spelljammer' — narrative deep-dive on reviving a grim, defiant-hero setting for a modern audience"
       },
-      "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
+      "source": "https://www.tribality.com/2026/08/01/dark-sun-returns-to-dungeons-dragons-in-2027/"
     },
     {
-      "story": "Paizo's Gen Con keynote lays out a year-long roadmap for Pathfinder and Starfinder",
+      "story": "D&D announces a Star Wars crossover for 2027",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "\"Pathfinder's Next 12 Months, Decoded: What Paizo's Keynote Actually Means for Your Table\" — break down upcoming rules/classes and what GMs should prep for now.",
-        "itsalreadywritten": "\"Is Starfinder Paizo's Big Lore Bet? Reading Between the Lines of the Gen Con Keynote\" — focus on the narrative/setting direction and what it signals for sci-fi TTRPG storytelling."
+        "bizzal-games": "'Death Saves and Lightsabers: How the D&D x Star Wars Crossover Will Actually Play at the Table' — speculate on class reskins, Force-as-spellcasting, and GM-ready hooks",
+        "itsalreadywritten": "'Canon Collision: What Happens When D&D Swallows Star Wars Lore' — examine the IP mechanics of licensing two of fiction's biggest multiverses into one ruleset"
       },
-      "source": "https://www.enworld.org/threads/paizos-gen-con-keynote-is-a-dive-into-their-plans-for-pathfinder-and-starfinder-over-the-next-year.720116/"
-    },
-    {
-      "story": "Dueling GM-craft essays drop same week: Sly Flourish's deep dive on 'Rise of the Lazy Gamemaster' and Gnome Stew's reflection on published adventures",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "\"Beyond 'Lazy DM': The Prep Shortcuts Sly Flourish Says Actually Save Your Sunday Night\" — pull the concrete techniques for run-ready sessions.",
-        "itsalreadywritten": "\"Why Gnome Stew's 'Published Adventures and Me' Nails the Homebrew-vs-Studio Module Tension\" — angle it as a craft essay on writing adventures for other people's tables."
-      },
-      "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
+      "source": "https://www.tribality.com/2026/08/01/dungeons-dragons-announces-star-wars-crossover-for-2027/"
     }
   ]
 }
