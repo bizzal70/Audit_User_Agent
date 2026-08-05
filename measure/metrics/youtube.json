@@ -2220,5 +2220,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-05",
+    "videos": [
+      {
+        "id": "9kBukO4Kbso",
+        "title": "Focus Spells require concentration #shadowdark",
+        "published": "2026-08-04",
+        "views": 146,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "QvZmlvjJjnM",
+        "title": "Monk's early power spike relies on repeatable actions rather than single-turn #dnd5e",
+        "published": "2026-08-04",
+        "views": 66,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "6vYRrisX35I",
+        "title": "Regaining Spells hinges on whether a spell is 'lost' or 'not lost' after each #dcc",
+        "published": "2026-08-04",
+        "views": 63,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "EqSt72QWOQM",
+        "title": "Adventuring Equipment: Rope is more versatile than most weapons in the dark #dnd5e",
+        "published": "2026-08-04",
+        "views": 184,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "E1MY6XFKhQo",
+        "title": "Artificer: Infuse Item Power Spike at Level 2 #dnd5e",
+        "published": "2026-08-03",
+        "views": 3,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "7SepCscMhCw",
+        "title": "Open with stakes, then let Swarm Spider pressure the table into a costly #shadowdark",
+        "published": "2026-08-03",
+        "views": 32,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "8ZgEMeuM_b8",
+        "title": "Read Magic doesn't trigger magical text, but lets you comprehend it safely #dcc",
+        "published": "2026-08-03",
+        "views": 41,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "vBt2QOuWcV4",
+        "title": "Memnon's Entropic Armor nullifies non-magical weapons for a single turn #shadowdark",
+        "published": "2026-08-02",
+        "views": 820,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "LUn-oqQYDGE",
+        "title": "Open with stakes, then let Tyrannosaurus Rex pressure the table into a costly #dnd5e",
+        "published": "2026-08-02",
+        "views": 77,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "PMHXNWXOtC4",
+        "title": "Ice Lurker's camouflage grants a +10 bonus to hide when mimicking frozen water #dcc",
+        "published": "2026-08-02",
+        "views": 433,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "B7_czbE26A8",
+        "title": "Backstab requires the target to be unaware of the attack for extra damage #shadowdark",
+        "published": "2026-08-01",
+        "views": 514,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "b2UD4J7ydoQ",
+        "title": "Staff of Frost's 10 charges can swing an encounter if used wisely #dnd5e",
+        "published": "2026-08-01",
+        "views": 464,
+        "likes": 2,
+        "comments": 0
+      }
+    ]
   }
 ]
