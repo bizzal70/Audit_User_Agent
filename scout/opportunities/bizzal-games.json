@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-04T11:44:31+00:00",
+  "generated": "2026-08-05T11:41:44+00:00",
   "opportunities": [
     {
-      "title": "Death Save Ruling Nobody Gets Right: Stabilizing at 0 HP vs. Rolling Again",
-      "why_now": "Gen Con livestream headline literally name-drops 'Death Saves' as big news, giving a timely hook to correct the most common table mistake.",
-      "angle": "30-sec rules-ruling short: show the exact RAW sequence (stabilize check, nat 20 heals 1 HP, three fails = dead) and call out the common houserule error GMs default to.",
+      "title": "Dark Sun's Back — Here's How a Silt Horror Actually Kills Your Party (Not the Way You Think)",
+      "why_now": "Gen Con's Dark Sun reveal has tabletop feeds buzzing, giving a fresh excuse to break down the setting's signature monster tactics before official 5e stats exist.",
+      "angle": "60-sec creature tactic short: convert a classic Dark Sun threat (silt horror or dune reaper) into a 5e ambush tactic, dry GM voice explaining why players always underestimate it.",
       "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
     },
     {
-      "title": "Dark Sun's Defiling Rule Would Wreck Your 5e Table — Here's the Tactic",
-      "why_now": "Dark Sun's 2027 return is fresh news and its signature defiling/preserving magic mechanic is a gift for a spell use-case short.",
-      "angle": "Creature/spell tactic short: reskin defiling as a 'scorched earth' caster tactic — burn the land for extra spell slots, show the tradeoff (terrain damage, NPC reaction), one GM ruling on how to adjudicate it in 5e.",
-      "source": "https://www.tribality.com/2026/08/01/dark-sun-returns-to-dungeons-dragons-in-2027/"
+      "title": "D&D Icons Won an Award Before Making a Single Mini — Here's the Actual Ruling on Minis vs. Theater of the Mind",
+      "why_now": "The absurd 'award for vaporware' headline is a built-in hook to pivot into a real, contested rules question GMs argue about weekly.",
+      "angle": "Wry cold-open roasting the award, then a hard mechanical ruling on adjudicating positioning/reach without minis (RAW vs table-standard).",
+      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
     },
     {
-      "title": "D&D x Star Wars: The One Ruling That Breaks Force Powers as 5e Spells",
-      "why_now": "The just-announced 2027 Star Wars crossover invites an obvious 'how would this even work mechanically' angle before official rules drop.",
-      "angle": "Rules-ruling hot take: pick one Force power (e.g., Force Push as Thunderwave) and show exactly where reflavoring breaks action economy or concentration — dry veteran GM skepticism.",
-      "source": "https://www.tribality.com/2026/08/01/dungeons-dragons-announces-star-wars-crossover-for-2027/"
+      "title": "The One Fix Curse of Strahd Never Gives You (And Every Published Adventure Hides This Problem)",
+      "why_now": "Gnome Stew's fresh essay on running published adventures is circulating in GM circles right now, making this a timely tie-in for a concrete fix.",
+      "angle": "Specific rules ruling on patching a known encounter-balance gap in a popular module, framed as veteran-GM tough love.",
+      "source": "https://gnomestew.com/published-adventures-and-me/"
     },
     {
-      "title": "Sly Flourish's Prep Method, Cut to 15 Seconds: The Lazy GM Encounter Check",
-      "why_now": "Sly Flourish just published a deep-dive follow-up on Rise of the Lazy Gamemaster, giving fresh, citable authority for a prep-tactic short.",
-      "angle": "Mechanical breakdown short: distill one specific lazy-prep technique (secrets/clues list or strong-start) into a single actionable GM tactic, credit the source, no fluff.",
+      "title": "The Lazy GM's 'One Prep Question' — Stress-Tested Against an Actual Boss Fight",
+      "why_now": "Sly Flourish's follow-up piece on Lazy Gamemaster techniques is trending in prep-advice discourse this week.",
+      "angle": "Take the abstract prep advice and run it against a real spell/monster tactic decision, showing the mechanical payoff in under 60 seconds.",
       "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
     },
     {
-      "title": "Running Published Adventures? Here's the One Ruling You Have to Make Before Session 1",
-      "why_now": "Gnome Stew's fresh essay on published adventures raises the exact adjudication problem GMs hit at every table — read-aloud text vs. actual rules.",
-      "angle": "Wry veteran-GM ruling short: pick a common published-module flaw (e.g., a trap with no stated DC) and show the on-the-fly ruling to fix it, framed as 'the module didn't tell you this.'",
-      "source": "https://gnomestew.com/published-adventures-and-me/"
+      "title": "Cyberpunk Red Nails Called Shots — Here's Why 5e Still Can't, and the Houserule That Fixes It",
+      "why_now": "This week's RPG print roundup spotlighting Cyberpunk Red's reprint gives a natural comparison point for a cross-system rules gripe.",
+      "angle": "Dry mechanical comparison: contrast Cyberpunk Red's called-shot system with 5e's clunky equivalent, end with a tested houserule for D&D/Shadowdark tables.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     }
   ]
 }

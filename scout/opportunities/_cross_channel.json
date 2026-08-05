@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-04T11:44:31+00:00",
+  "generated": "2026-08-05T11:41:44+00:00",
   "plays": [
     {
-      "story": "Coldcard hardware wallet hack balloons to $130M across a suspected 4th attack wave, exposing a 5-year-old undetected flaw",
+      "story": "Coldcard hardware wallet exploited across at least 4 waves, draining $120M+ in Bitcoin from a flaw that existed for 5 years — sparking both a market panic and a self-custody security reckoning",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Coldcard Bleeds $130M, Bitcoin Barely Blinks' — dig into why BTC held near $64K through four confirmed theft waves and what that calm says about market maturity vs. investor complacency",
-        "itsalreadywhen": "'The Bug Was Five Years Old: Inside the Coldcard Testing Gap' — forensic breakdown of how a half-decade-old flaw sat undetected in a 'secure' hardware wallet, per Kraken's security chief"
+        "itsalreadypriced": "Title: 'The $120M Coldcard Heist: Why Bitcoin's Onchain Panic Might Be the Bottom Signal' — tie the K33 bottoming-pattern data and 'flat at $64k' price action directly to the hack, framing it as a buy-the-dip narrative for holders watching self-custody FUD spike.",
+        "itsalreadywhen": "Title: 'It Was Already There When You Bought It: Coldcard's 5-Year-Old Flaw and the Cost of Untested Hardware Wallets' — build a timeline showing the vulnerability predates every 'secure' purchase, using Kraken's security chief quote to hammer the 'the bomb was already planted' framing your channel name promises."
       },
-      "source": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief"
+      "source": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves"
     },
     {
-      "story": "AI-assisted hacking wave hits crypto infra (Boltz pause) while most firms lack frontier AI access to defend themselves",
+      "story": "AI-assisted hacking wave hits crypto infrastructure directly — Boltz pauses service, crypto firms admit they lack frontier AI access that attackers already have",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'The AI Moat Crypto Firms Can't Afford' — explain why only elite players have frontier AI access and what that access gap means for exchange/custody risk pricing and insurance costs",
-        "itsalreadywhen": "'Boltz Pulls the Plug: When AI-Assisted Attacks Outpace Crypto's Defenses' — case study on the first wave of AI-orchestrated attacks forcing a live service shutdown"
+        "itsalreadypriced": "Title: 'Crypto's AI Arms-Race Deficit Is Already Priced Into Every Wallet You Trust' — frame the frontier-AI access gap as a hidden cost baked into custody fees and protocol risk premiums, using Boltz's shutdown as the concrete proof point.",
+        "itsalreadywhen": "Title: 'The Attackers Got Frontier AI First: Inside the Wave That Forced Boltz Offline' — a blow-by-blow of the AI-assisted hacking timeline, positioning this as the moment the cyber-threat clock everyone predicted finally struck."
       },
       "source": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts"
     },
     {
-      "story": "Dark Sun officially returns to D&D in 2027 after decades away",
+      "story": "Gen Con 2026 news dump — Dark Sun, Warcraft, Star Wars TTRPG reveals plus WotC's D&D Icons line already winning an award before a single product ships",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Dark Sun 2027: What a Post-Apocalyptic Athas Means for Your Table Right Now' — practical breakdown of survival mechanics, resource scarcity rules, and how to prep a session before the books even drop",
-        "itsalreadywritten": "'Athas Rises Again: Why Dark Sun's Return Is D&D's Riskiest Worldbuilding Bet Since Spelljammer' — narrative deep-dive on reviving a grim, defiant-hero setting for a modern audience"
+        "bizzal-games": "Title: 'D&D Icons Won an Award Before It Shipped a Single Figure — Here's What Gen Con's Reveals Mean for Your Table' — practical breakdown of Dark Sun/Warcraft/Star Wars crossovers and what GMs should actually expect to buy and run.",
+        "itsalreadywritten": "Title: 'Dark Sun Meets Warcraft Meets Star Wars: What Gen Con's IP Mashups Say About TTRPG Storytelling in 2026' — angle on how licensed-setting crossovers are reshaping campaign narrative design and lore expectations before a single splatbook drops."
       },
-      "source": "https://www.tribality.com/2026/08/01/dark-sun-returns-to-dungeons-dragons-in-2027/"
+      "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
     },
     {
-      "story": "D&D announces a Star Wars crossover for 2027",
+      "story": "Two GM-craft essays land same week — Sly Flourish's follow-up on 'Rise of the Lazy Gamemaster' and Gnome Stew's reflection on published adventures vs. homebrew",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Death Saves and Lightsabers: How the D&D x Star Wars Crossover Will Actually Play at the Table' — speculate on class reskins, Force-as-spellcasting, and GM-ready hooks",
-        "itsalreadywritten": "'Canon Collision: What Happens When D&D Swallows Star Wars Lore' — examine the IP mechanics of licensing two of fiction's biggest multiverses into one ruleset"
+        "bizzal-games": "Title: 'The Rest of the Lazy GM Toolkit: What Sly Flourish Left Out (and How to Fill the Gap at Your Table)' — actionable prep-time hacks pulled from the essay for GMs running weekly sessions.",
+        "itsalreadywritten": "Title: 'Published Adventures and Me: Are Pre-Written Modules Killing Player-Driven Story?' — use the Gnome Stew piece to dig into the tension between canned plots and emergent narrative, a direct hit for a channel about stories already scripted."
       },
-      "source": "https://www.tribality.com/2026/08/01/dungeons-dragons-announces-star-wars-crossover-for-2027/"
+      "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
     }
   ]
 }

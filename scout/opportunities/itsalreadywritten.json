@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-04T11:44:31+00:00",
+  "generated": "2026-08-05T11:41:44+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun Is Back for 2027 — Here's What the Old Rules Already Solved (and What WotC Has to Fix)",
-      "why_now": "WotC just confirmed Dark Sun's 2027 return, reviving a setting whose survival/defiler mechanics were never fully ported to 5E rules.",
-      "angle": "Rules-history explainer comparing 2e/4e Dark Sun subsystems (psionics, defiling, gladiator combat) to what 5E currently lacks",
-      "source": "https://www.tribality.com/2026/08/01/dark-sun-returns-to-dungeons-dragons-in-2027/"
+      "title": "D&D Icons Won an Award Before a Single Rule Was Written — Here's What That Actually Means",
+      "why_now": "WotC's unreleased line just won an award, which is the rare 'news' item that's actually about rules-that-don't-exist-yet, squarely in the channel's lane.",
+      "angle": "Rules-first breakdown: separate the award hype from actual mechanical substance, predict what 'Icons' format likely means for stat blocks/rules presentation based on WotC's product patterns",
+      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
     },
     {
-      "title": "D&D x Star Wars, 2027: The Rules Problem Nobody's Talking About Yet",
-      "why_now": "The Star Wars crossover was just announced alongside Dark Sun, but blasters, starships, and the Force don't map cleanly onto 5E's math.",
-      "angle": "Predictive rules-design breakdown citing prior attempts (Star Wars Saga Edition, d20 Star Wars) and how they solved damage/tech balance",
-      "source": "https://www.tribality.com/2026/08/01/dungeons-dragons-announces-star-wars-crossover-for-2027/"
-    },
-    {
-      "title": "Death Saves Are Changing — What Gen Con's Panel Actually Confirmed",
-      "why_now": "EN World's Gen Con livestream recap flagged 'Death Saves' as a headline topic, meaning a core survival mechanic may be getting an official revision.",
-      "angle": "News breakdown parsing the panel for exact rules language, with a table comparing current vs rumored death save mechanics",
+      "title": "Dark Sun's Back: What the 5.5/2024 Rules Update Means for Athas Mechanics",
+      "why_now": "Gen Con news drop confirms Dark Sun is returning, and the channel's audience wants to know how a classic harsh-setting will map onto current rules (defiling, mutants, psionics).",
+      "angle": "Rules-prediction piece: catalog the Dark Sun-specific subsystems from 2e/4e and speculate how they'll be ported/updated for the current ruleset",
       "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
     },
     {
-      "title": "Sly Flourish's Lazy GM Playbook, Rules-Checked: What's Actually in the Book Rules and What's House Wisdom",
-      "why_now": "Sly Flourish just published a fresh breakdown of the rest of Rise of the Lazy Gamemaster's content, ripe for a rules-first fact-check.",
-      "angle": "Annotated response post separating official rules text from GM-lore advice, in the channel's 'already written' voice",
+      "title": "Call of Cthulhu, Traveller, Cyberpunk Red: The Print Renaissance and What It Says About Rules Permanence",
+      "why_now": "A single roundup of major TTRPG systems getting fresh print runs is a direct hook for a 'rules are already written' thesis piece.",
+      "angle": "Facts-first roundup with a knowing angle: compare each system's core mechanic longevity (d100, 2d6, d10 pool) and why publishers keep betting on physical rulebooks",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
+    },
+    {
+      "title": "Sly Flourish Says Prep Less — Here's the Rules-as-Written Case for Prepping More",
+      "why_now": "Sly Flourish's Lazy Gamemaster follow-up is fresh GM-advice content that the channel can directly counter or ground in official rules text.",
+      "angle": "Contrarian/companion piece: pull direct rules citations (encounter building, DC guidelines) that argue prep isn't optional busywork but embedded in the rules-as-written",
       "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
     },
     {
-      "title": "What the Rulebooks Actually Say About Running Published Adventures vs. Homebrew",
-      "why_now": "Gnome Stew's new essay on published adventures raises a debate the core rulebooks already address in their DM guidance sections.",
-      "angle": "Citation-heavy rebuttal/companion piece pulling direct DMG/adventure-design text to settle the published-vs-homebrew question",
+      "title": "Published Adventures vs. Homebrew: What the Rulebooks Actually Assume About Your Table",
+      "why_now": "Gnome Stew's fresh essay on published adventures opens a rules-grounded rebuttal/expansion about what core rulebooks explicitly assume GMs will run.",
+      "angle": "Rules-archaeology piece: cite specific rulebook language (DMG/GMG advice sections) on adventure design assumptions vs. the reality Gnome Stew describes",
       "source": "https://gnomestew.com/published-adventures-and-me/"
     }
   ]

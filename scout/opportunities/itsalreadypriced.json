@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-04T11:44:31+00:00",
+  "generated": "2026-08-05T11:41:44+00:00",
   "opportunities": [
     {
-      "title": "The Coldcard Timeline Nobody Wants to Publish: 4 Waves, $130M, and a Bug That Sat There for 5 Years",
-      "why_now": "Galaxy just confirmed a 4th attack wave and raised total losses to $130M, turning what looked like an isolated incident into a slow-motion disaster with a known origin date.",
-      "angle": "Forensic timeline post: map each wave against disclosure dates and show the gap between 'known flaw' and 'patched flaw' — this is the piece people screenshot",
-      "source": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn"
+      "title": "The Coldcard Bug Was Five Years Old. Nobody Tested For It Anyway.",
+      "why_now": "Galaxy's confirmation of a 5-year-old entropy flaw causing $100M+ across four attack waves is the clearest 'we told you so' security story of the year.",
+      "angle": "Deep-dive on the entropy/key-generation flaw with a timeline showing how long the vulnerability sat unexploited — then got mass-exploited in weeks once someone found it, framed as a lesson in why 'audited' isn't 'secure.'",
+      "source": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief"
     },
     {
-      "title": "Air-Gapped Was Never the Same as Un-Hackable — Coldcard Just Proved It",
-      "why_now": "Decrypt's explainer on air-gapped wallets is trending as retail scrambles to understand how a 'cold' wallet got drained, and the confusion is exactly the security-literacy gap this channel exists to close.",
-      "angle": "Myth-busting explainer with a blunt thesis: air-gapped reduces attack surface, it doesn't eliminate supply-chain/firmware/testing failures — end with what actually mitigates this class of bug",
-      "source": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security"
-    },
-    {
-      "title": "Hardware Wallets Are About to Get Phished Harder Than Ever — And the Vendors Just Admitted It",
-      "why_now": "Hardware wallet firms are publicly warning of a phishing surge tied directly to Coldcard panic, meaning attackers are now exploiting the fear of the hack, not just the hack itself.",
-      "angle": "Tactical warning post: screenshot-style breakdown of the phishing patterns being reported, framed as 'the second wave is social, not technical'",
-      "source": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m"
-    },
-    {
-      "title": "AI-Assisted Hacking Isn't Coming — Boltz Just Got Hit By It",
-      "why_now": "Boltz paused service specifically citing AI-assisted hacking attempts, landing the same week Cointelegraph reports most crypto firms still lack frontier AI access for defense — an asymmetry story writes itself.",
-      "angle": "Op-ed style: 'attackers have GPT-tier tooling, defenders are stuck on legacy security stacks' — pair the Boltz pause with the frontier-AI-access gap piece for a two-source argument",
+      "title": "AI Didn't Just Find the Coldcard Bug Faster — It's Now Draining Wallets Faster Too",
+      "why_now": "Boltz pausing service over AI-assisted attacks and a Bitcoin bridge shutting down because AI found bugs 'too fast' both landed within 24 hours, signaling a phase change in attacker tooling.",
+      "angle": "Trend piece connecting Boltz's pause and the bridge shutdown as the first wave of AI-accelerated exploit discovery outpacing human patch cycles — with a blunt 'your incident response SLA is now measured in hours, not weeks' takeaway.",
       "source": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts"
     },
     {
-      "title": "An FBI Agent Allegedly Stole $1M in Crypto and Asked ChatGPT How to Spend It on Vacation",
-      "why_now": "The absurdity of a federal agent using consumer AI to plan a spending spree with stolen crypto is a rare case where operational security failure is almost comedic — and it's a fresh indictment story with legs.",
-      "angle": "Short, dry, deadpan post in the channel's cynical voice — 'the eviction of common sense is now a criminal complaint exhibit' — use it to make a broader point about how digital trails never lie",
-      "source": "https://theblock.co/post/410491/fbi-agent-stealing-1-million-crypto-turned-to-chatgpt-vacation-plans"
+      "title": "15 Attackers, Same Bug, Same Wallets: What Coldcard's Copycat Wave Says About Disclosure",
+      "why_now": "Galaxy's count of at least 15 independent attackers exploiting the identical flaw shows the vulnerability was effectively public knowledge before users acted.",
+      "angle": "Analysis of the disclosure-to-exploitation gap using the 15-attacker figure as proof that 'quiet patch' strategies fail once a bug is this juicy — recommend concrete self-custody hygiene (firmware version checks, seed rotation) readers can act on today.",
+      "source": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy"
+    },
+    {
+      "title": "Onchain Panic Is a Feature, Not a Bug: Reading the Coldcard Sell-Off Correctly",
+      "why_now": "The Block/K33 report ties 2026's highest onchain activity to Coldcard panic and floats a 'bottoming pattern' — a security incident is now a market-moving event in real time.",
+      "angle": "Markets-meets-security piece arguing that hardware wallet hacks are becoming macro catalysts, using the K33 bottoming-pattern claim as a hook to explain how security news now trades like a Fed print.",
+      "source": "https://www.theblock.co/post/410835/panic-visible-onchain-bitcoin-activity-hits-2026-high-amid-coldcard-attack-as-k33-flags-potential-bottoming-pattern?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "title": "A Bitcoin Robbery Got Someone Life in Prison — Your Seed Phrase Still Isn't Worth Dying For",
+      "why_now": "The ex-LAPD officer's life sentence for a $350K bitcoin kidnapping, alongside three Missouri men charged over a home-invasion plot, shows physical custody risk is escalating alongside digital exploits.",
+      "angle": "Sharp, voice-forward piece on the rising trend of violent 'wrench attacks' tied to visible self-custody wealth, using both cases as proof that opsec now includes not posting your bag size — pairs security advice with true-crime pacing.",
+      "source": "https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss"
     }
   ]
 }
