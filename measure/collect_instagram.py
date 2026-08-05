@@ -14,15 +14,24 @@ import json
 import os
 import urllib.request
 
+# Read via the GitHub contents API, NOT raw.githubusercontent -- the raw CDN
+# caches for minutes and can serve stale data (same fix already applied in
+# reviewer/instagram.py after it caused phantom stale-caption defects there).
 _URL = os.environ.get(
     "IG_METRICS_URL",
-    "https://raw.githubusercontent.com/bizzal70/Bizzal-Games-YT-PUB/main/data/metrics/instagram.json",
+    "https://api.github.com/repos/bizzal70/Bizzal-Games-YT-PUB/contents/data/metrics/instagram.json",
 )
 
 
 def collect() -> dict | None:
     try:
-        with urllib.request.urlopen(_URL, timeout=30) as r:
+        req = urllib.request.Request(_URL)
+        req.add_header("Accept", "application/vnd.github.raw")
+        req.add_header("Cache-Control", "no-cache")
+        token = os.environ.get("GITHUB_TOKEN", "")
+        if token:
+            req.add_header("Authorization", f"Bearer {token}")
+        with urllib.request.urlopen(req, timeout=30) as r:
             data = json.loads(r.read())
     except Exception as e:  # noqa: BLE001 - degrade gracefully if not published yet
         print(f"[measure] IG metrics file unavailable: {e}")
