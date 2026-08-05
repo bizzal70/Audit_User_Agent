@@ -5,7 +5,7 @@ Returns a dict with per-criterion scores, an overall score, and prose findings.
 
 Env:
   ANTHROPIC_API_KEY   Claude API key.
-  REVIEW_MODEL        Model id (default: claude-sonnet-5). Use claude-opus-4-8
+  REVIEW_MODEL        Model id (default: claude-sonnet-5). Use claude-opus-5
                       for the sharpest critique if daily cost is acceptable.
 """
 from __future__ import annotations
