@@ -125,7 +125,7 @@ repo's published file, and all other collection is key-free.
 
 | Variable | Default | Notes |
 | --- | --- | --- |
-| `REVIEW_MODEL` | `claude-sonnet-5` | set `claude-opus-4-8` for the sharpest critique |
+| `REVIEW_MODEL` | `claude-sonnet-5` | set `claude-opus-5` for the sharpest critique |
 | `SCOUT_LOOKBACK_DAYS` | `3` | how far back the scout reads feeds |
 | `YT_CHANNEL_ID` | `UCn8fIswollQTSAJYkAshjyw` | @Bizzal_Games |
 
