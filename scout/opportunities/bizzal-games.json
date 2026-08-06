@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-05T11:41:44+00:00",
+  "generated": "2026-08-06T11:45:09+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun's Back — Here's How a Silt Horror Actually Kills Your Party (Not the Way You Think)",
-      "why_now": "Gen Con's Dark Sun reveal has tabletop feeds buzzing, giving a fresh excuse to break down the setting's signature monster tactics before official 5e stats exist.",
-      "angle": "60-sec creature tactic short: convert a classic Dark Sun threat (silt horror or dune reaper) into a 5e ambush tactic, dry GM voice explaining why players always underestimate it.",
-      "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
+      "title": "Gen Con Hits 74K—So Here's the Ruling That Saves Your 4-Hour One-Shot",
+      "why_now": "Gen Con's record 74,000 attendee count means a flood of new/returning DMs are prepping convention one-shots this week.",
+      "angle": "Quick-cut short on Readied Actions vs. Delay: the single ruling that keeps a table of 6 strangers from blowing your timeslot",
+      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
     },
     {
-      "title": "D&D Icons Won an Award Before Making a Single Mini — Here's the Actual Ruling on Minis vs. Theater of the Mind",
-      "why_now": "The absurd 'award for vaporware' headline is a built-in hook to pivot into a real, contested rules question GMs argue about weekly.",
-      "angle": "Wry cold-open roasting the award, then a hard mechanical ruling on adjudicating positioning/reach without minis (RAW vs table-standard).",
+      "title": "D&D Icons Won an Award for a Product That Doesn't Exist Yet — Here's a Cover Tactic That Already Works",
+      "why_now": "WotC's D&D Icons miniatures line just won an award before a single figure shipped, giving minis discourse a timely hook.",
+      "angle": "Wry cold-open roasting the award, pivot to a real tactic: using minis + the optional cover/flanking rule to make theater-of-the-mind DMs jealous",
       "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
     },
     {
-      "title": "The One Fix Curse of Strahd Never Gives You (And Every Published Adventure Hides This Problem)",
-      "why_now": "Gnome Stew's fresh essay on running published adventures is circulating in GM circles right now, making this a timely tie-in for a concrete fix.",
-      "angle": "Specific rules ruling on patching a known encounter-balance gap in a popular module, framed as veteran-GM tough love.",
-      "source": "https://gnomestew.com/published-adventures-and-me/"
+      "title": "Call of Cthulhu Has Sanity. 5e Just Has 'Frightened.' Here's the House Rule That Fixes That",
+      "why_now": "This week's RPG print roundup name-drops Call of Cthulhu, giving cover to compare its Sanity mechanic against 5e's thin Fear condition.",
+      "angle": "Mechanical breakdown: steal a light Sanity-style escalation for 5e horror one-shots without importing a whole subsystem",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     },
     {
-      "title": "The Lazy GM's 'One Prep Question' — Stress-Tested Against an Actual Boss Fight",
-      "why_now": "Sly Flourish's follow-up piece on Lazy Gamemaster techniques is trending in prep-advice discourse this week.",
-      "angle": "Take the abstract prep advice and run it against a real spell/monster tactic decision, showing the mechanical payoff in under 60 seconds.",
-      "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
+      "title": "Traveller's Action Economy Is Brutal — Here's Why 5e's Opportunity Attack Is Actually the Merciful Version",
+      "why_now": "Traveller's mention in the same print roundup is a rare chance to contrast a harder sci-fi ruleset against 5e's forgiving combat math.",
+      "angle": "Side-by-side ruling explainer: why 5e's single reaction/round is a design mercy, ending with a tactic for using OAs to zone enemies",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     },
     {
-      "title": "Cyberpunk Red Nails Called Shots — Here's Why 5e Still Can't, and the Houserule That Fixes It",
-      "why_now": "This week's RPG print roundup spotlighting Cyberpunk Red's reprint gives a natural comparison point for a cross-system rules gripe.",
-      "angle": "Dry mechanical comparison: contrast Cyberpunk Red's called-shot system with 5e's clunky equivalent, end with a tested houserule for D&D/Shadowdark tables.",
+      "title": "Cyberpunk Red's Netrunning vs. Counterspell: Same Problem, Two Very Different Fixes",
+      "why_now": "Cyberpunk Red's fresh print coverage sets up a natural comparison to 5e's most argued-over reaction spell.",
+      "angle": "Spell use-case short on when Counterspell actually wins the action-economy trade, framed as 'how another game solved the same interrupt problem'",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     }
   ]

@@ -1,53 +1,49 @@
 {
-  "generated": "2026-08-05T11:41:44+00:00",
+  "generated": "2026-08-06T11:45:09+00:00",
   "plays": [
     {
-      "story": "Coldcard hardware wallet exploited across at least 4 waves, draining $120M+ in Bitcoin from a flaw that existed for 5 years — sparking both a market panic and a self-custody security reckoning",
+      "story": "Coldcard hardware wallet exploit chain balloons to $100M+ stolen across three waves, with 15+ attackers and stolen funds now moving through mixers",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'The $120M Coldcard Heist: Why Bitcoin's Onchain Panic Might Be the Bottom Signal' — tie the K33 bottoming-pattern data and 'flat at $64k' price action directly to the hack, framing it as a buy-the-dip narrative for holders watching self-custody FUD spike.",
-        "itsalreadywhen": "Title: 'It Was Already There When You Bought It: Coldcard's 5-Year-Old Flaw and the Cost of Untested Hardware Wallets' — build a timeline showing the vulnerability predates every 'secure' purchase, using Kraken's security chief quote to hammer the 'the bomb was already planted' framing your channel name promises."
-      },
-      "source": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves"
+        "itsalreadypriced": "'The $100M Wallet: How Coldcard's Breach Just Repriced Cold Storage Risk' — frame this as a market story: quantify how a 'safe' hardware wallet failure changes the risk premium investors should price into self-custody vs. exchange custody, tying in the mixer laundering angle for a follow-the-money hook.",
+        "itsalreadywhen": "'Coldcard Was Already When: A Timeline of How 15 Attackers Cracked 'Unhackable' Cold Storage' — build a forensic timeline of the three attack waves (per Galaxy's research) to show this wasn't a single exploit but an escalating campaign, previewing what's coming next for hardware wallet security."
+      }
     },
     {
-      "story": "AI-assisted hacking wave hits crypto infrastructure directly — Boltz pauses service, crypto firms admit they lack frontier AI access that attackers already have",
+      "story": "AI-assisted attacks hit crypto infrastructure (Boltz pauses service, Coldcard attackers reportedly AI-assisted) just as Register/Dark Reading report agentic AI frameworks and prompt injection are actively exploited (IBM's agentic AI platform under attack, PleaseFix zero-click hijacking)",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "itsalreadywhen",
+        "itsalreadypriced"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Crypto's AI Arms-Race Deficit Is Already Priced Into Every Wallet You Trust' — frame the frontier-AI access gap as a hidden cost baked into custody fees and protocol risk premiums, using Boltz's shutdown as the concrete proof point.",
-        "itsalreadywhen": "Title: 'The Attackers Got Frontier AI First: Inside the Wave That Forced Boltz Offline' — a blow-by-blow of the AI-assisted hacking timeline, positioning this as the moment the cyber-threat clock everyone predicted finally struck."
-      },
-      "source": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts"
+        "itsalreadywhen": "'Prompt Injection Isn't the Bug — Crypto's AI Custody Stack Is' — connect Register's framework-flaw thesis directly to Boltz's shutdown, arguing agentic AI attacks on financial infra were entirely predictable and forecasting which custody platforms are next.",
+        "itsalreadypriced": "'Boltz Just Showed Why 'AI-Powered' Crypto Services Carry a Hidden Discount' — market-angle piece on how AI-assisted hacking is becoming a line-item risk for any platform marketing AI automation, with implications for valuing AI-branded crypto infra startups."
+      }
     },
     {
-      "story": "Gen Con 2026 news dump — Dark Sun, Warcraft, Star Wars TTRPG reveals plus WotC's D&D Icons line already winning an award before a single product ships",
+      "story": "Gen Con grows to 74,000 attendees, cementing its place as the tabletop industry's biggest annual signal of health and spending",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'D&D Icons Won an Award Before It Shipped a Single Figure — Here's What Gen Con's Reveals Mean for Your Table' — practical breakdown of Dark Sun/Warcraft/Star Wars crossovers and what GMs should actually expect to buy and run.",
-        "itsalreadywritten": "Title: 'Dark Sun Meets Warcraft Meets Star Wars: What Gen Con's IP Mashups Say About TTRPG Storytelling in 2026' — angle on how licensed-setting crossovers are reshaping campaign narrative design and lore expectations before a single splatbook drops."
-      },
-      "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
+        "bizzal-games": "'Gen Con Hits 74K: What the Attendance Spike Actually Means for Your Game Table in 2026' — practical read for GMs/players on what surging attendance signals for new release volume, con-exclusive content, and where to spend con budget this year.",
+        "itsalreadywritten": "'74,000 People Just Voted With Their Wallets — Here's the TTRPG IP That Should Launch at Gen Con Next Year' — publishing/design angle for creators, using the record attendance as evidence for where new IP launches and crowdfunding pushes should be timed."
+      }
     },
     {
-      "story": "Two GM-craft essays land same week — Sly Flourish's follow-up on 'Rise of the Lazy Gamemaster' and Gnome Stew's reflection on published adventures vs. homebrew",
+      "story": "WotC's newly announced 'D&D Icons' line wins an industry award before a single product has shipped",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'The Rest of the Lazy GM Toolkit: What Sly Flourish Left Out (and How to Fill the Gap at Your Table)' — actionable prep-time hacks pulled from the essay for GMs running weekly sessions.",
-        "itsalreadywritten": "Title: 'Published Adventures and Me: Are Pre-Written Modules Killing Player-Driven Story?' — use the Gnome Stew piece to dig into the tension between canned plots and emergent narrative, a direct hit for a channel about stories already scripted."
-      },
-      "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
+        "bizzal-games": "'D&D Icons Won an Award Before It Exists — Here's What GMs Should Actually Expect on the Table' — cut through the hype cycle with a grounded preview of what the miniatures/format likely means for actual play and budgets.",
+        "itsalreadywritten": "'D&D Icons: The Line That Was Already Written Into Canon Before a Single Model Was Sculpted' — lean into the brand's name for a lore/marketing-strategy angle on how WotC pre-sold narrative weight via awards buzz before shipping anything."
+      }
     }
   ]
 }

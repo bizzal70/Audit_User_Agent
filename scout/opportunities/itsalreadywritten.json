@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-05T11:41:44+00:00",
+  "generated": "2026-08-06T11:45:09+00:00",
   "opportunities": [
     {
-      "title": "D&D Icons Won an Award Before a Single Rule Was Written — Here's What That Actually Means",
-      "why_now": "WotC's unreleased line just won an award, which is the rare 'news' item that's actually about rules-that-don't-exist-yet, squarely in the channel's lane.",
-      "angle": "Rules-first breakdown: separate the award hype from actual mechanical substance, predict what 'Icons' format likely means for stat blocks/rules presentation based on WotC's product patterns",
-      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
+      "title": "D&D Icons Won an Award Before a Single Rule Was Published — Here's What That Actually Means",
+      "why_now": "WotC's unreleased 'D&D Icons' line just won an industry award with zero rules text in existence, which is a gift for a rules-first channel to interrogate.",
+      "angle": "Explainer/hot take: separate the hype from the crunch — what 'Icons' likely is mechanically (pre-gen character line? minis? campaign format?) based on WotC's naming patterns, and why awards for vaporware matter to players who care about actual rules",
+      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720186/"
     },
     {
-      "title": "Dark Sun's Back: What the 5.5/2024 Rules Update Means for Athas Mechanics",
-      "why_now": "Gen Con news drop confirms Dark Sun is returning, and the channel's audience wants to know how a classic harsh-setting will map onto current rules (defiling, mutants, psionics).",
-      "angle": "Rules-prediction piece: catalog the Dark Sun-specific subsystems from 2e/4e and speculate how they'll be ported/updated for the current ruleset",
-      "source": "https://www.enworld.org/threads/podcast-408-livestream-dark-sun-warcraft-star-wars-death-saves-all-the-big-news-out-of-gen-con.720142/"
+      "title": "Gen Con Hits 74,000: What the Numbers Say About Which Rulesets Are Actually Winning the Table",
+      "why_now": "Gen Con's fresh attendance record (74,000, #2 largest convention) is a timely hook to talk about which systems are dominating con schedules and why.",
+      "angle": "Data-driven breakdown: use Gen Con's growth to pivot into a ranked look at which non-D&D systems are gaining con-slot share (Call of Cthulhu, Traveller, Cyberpunk Red per the print news) — 'the numbers behind the hobby's biggest weekend'",
+      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
     },
     {
-      "title": "Call of Cthulhu, Traveller, Cyberpunk Red: The Print Renaissance and What It Says About Rules Permanence",
-      "why_now": "A single roundup of major TTRPG systems getting fresh print runs is a direct hook for a 'rules are already written' thesis piece.",
-      "angle": "Facts-first roundup with a knowing angle: compare each system's core mechanic longevity (d100, 2d6, d10 pool) and why publishers keep betting on physical rulebooks",
+      "title": "Cyberpunk Red, Call of Cthulhu, and Traveller All Print New Material Same Week — A Rules Comparison Nobody Asked For (But You Need)",
+      "why_now": "This week's RPG Print News round-up bundles three major non-D&D systems' new releases, perfect for a rules-first comparative breakdown.",
+      "angle": "Side-by-side rules-crunch comparison: how each system's new print material handles core resolution mechanics differently, framed as 'the rules are already written, here's what they say'",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     },
     {
-      "title": "Sly Flourish Says Prep Less — Here's the Rules-as-Written Case for Prepping More",
-      "why_now": "Sly Flourish's Lazy Gamemaster follow-up is fresh GM-advice content that the channel can directly counter or ground in official rules text.",
-      "angle": "Contrarian/companion piece: pull direct rules citations (encounter building, DC guidelines) that argue prep isn't optional busywork but embedded in the rules-as-written",
-      "source": "https://slyflourish.com/the_rest_of_rise.html?rss=1"
+      "title": "Awarding a Product Line Before Its Rules Exist: A Precedent Check on TTRPG Industry Awards",
+      "why_now": "The D&D Icons pre-release award raises a factual, rules-adjacent question about award criteria in tabletop gaming that fans will debate.",
+      "angle": "Investigative/knowing tone: pull prior examples of TTRPG awards given to unreleased or rules-less products, establish whether this is unprecedented or a pattern",
+      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720186/"
     },
     {
-      "title": "Published Adventures vs. Homebrew: What the Rulebooks Actually Assume About Your Table",
-      "why_now": "Gnome Stew's fresh essay on published adventures opens a rules-grounded rebuttal/expansion about what core rulebooks explicitly assume GMs will run.",
-      "angle": "Rules-archaeology piece: cite specific rulebook language (DMG/GMG advice sections) on adventure design assumptions vs. the reality Gnome Stew describes",
-      "source": "https://gnomestew.com/published-adventures-and-me/"
+      "title": "74,000 Strong: Gen Con's Growth Curve and What It Predicts for Next Year's Rules Reveals",
+      "why_now": "With Gen Con confirmed as world's #2 convention at a new attendance high, it's the moment to speculate on what major rules announcements (new editions, errata drops) typically land at Gen Con-scale events.",
+      "angle": "Trend/forecast post: chart Gen Con attendance history against past major rules announcements to predict what's likely revealed there next, X thread format with data points",
+      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-05T11:41:44+00:00",
+  "generated": "2026-08-06T11:45:09+00:00",
   "opportunities": [
     {
-      "title": "The Coldcard Bug Was Five Years Old. Nobody Tested For It Anyway.",
-      "why_now": "Galaxy's confirmation of a 5-year-old entropy flaw causing $100M+ across four attack waves is the clearest 'we told you so' security story of the year.",
-      "angle": "Deep-dive on the entropy/key-generation flaw with a timeline showing how long the vulnerability sat unexploited — then got mass-exploited in weeks once someone found it, framed as a lesson in why 'audited' isn't 'secure.'",
-      "source": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief"
+      "title": "64 BTC and 200 ETH just left for the mixers — the Coldcard story isn't over, it's laundering",
+      "why_now": "The hackers are actively cashing out right now, turning a disclosure story into a live forensics story.",
+      "angle": "Incident tracker: trace the mixer flows, note what this tells you about attacker sophistication and why 'wallet was secure' claims always age badly",
+      "source": "https://cointelegraph.com/news/coldcard-hackers-64-btc-200-eth-cryptocurrency-mixers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "AI Didn't Just Find the Coldcard Bug Faster — It's Now Draining Wallets Faster Too",
-      "why_now": "Boltz pausing service over AI-assisted attacks and a Bitcoin bridge shutting down because AI found bugs 'too fast' both landed within 24 hours, signaling a phase change in attacker tooling.",
-      "angle": "Trend piece connecting Boltz's pause and the bridge shutdown as the first wave of AI-accelerated exploit discovery outpacing human patch cycles — with a blunt 'your incident response SLA is now measured in hours, not weeks' takeaway.",
-      "source": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts"
+      "title": "15 different attackers found the same Coldcard bug — which means the real number who found it is unknowable",
+      "why_now": "Galaxy's count confirms this wasn't one clever hacker, it was a race, and races imply prior silent exploitation.",
+      "angle": "Security explainer: why 'independently discovered by N attackers' is the tell that a bug was live for months before anyone noticed",
+      "source": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "15 Attackers, Same Bug, Same Wallets: What Coldcard's Copycat Wave Says About Disclosure",
-      "why_now": "Galaxy's count of at least 15 independent attackers exploiting the identical flaw shows the vulnerability was effectively public knowledge before users acted.",
-      "angle": "Analysis of the disclosure-to-exploitation gap using the 15-attacker figure as proof that 'quiet patch' strategies fail once a bug is this juicy — recommend concrete self-custody hygiene (firmware version checks, seed rotation) readers can act on today.",
-      "source": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy"
+      "title": "$100M, three waves, one hardware wallet: the Coldcard timeline nobody wants to publish",
+      "why_now": "Galaxy has now confirmed the total damage crossed $100M across three distinct attack waves, giving enough data for a real postmortem.",
+      "angle": "Timeline breakdown: map wave 1/2/3 against disclosure and patch dates to show the gap attackers lived in",
+      "source": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Onchain Panic Is a Feature, Not a Bug: Reading the Coldcard Sell-Off Correctly",
-      "why_now": "The Block/K33 report ties 2026's highest onchain activity to Coldcard panic and floats a 'bottoming pattern' — a security incident is now a market-moving event in real time.",
-      "angle": "Markets-meets-security piece arguing that hardware wallet hacks are becoming macro catalysts, using the K33 bottoming-pattern claim as a hook to explain how security news now trades like a Fed print.",
-      "source": "https://www.theblock.co/post/410835/panic-visible-onchain-bitcoin-activity-hits-2026-high-amid-coldcard-attack-as-k33-flags-potential-bottoming-pattern?utm_source=rss&utm_medium=rss"
+      "title": "Bitcoin core devs just flagged 85 critical bugs and called it 'extremely bad' — so why is BTC still $65K?",
+      "why_now": "A rare on-record admission of severity from core devs, dropped the same week as a $100M hardware wallet exploit — the market hasn't priced any of it in.",
+      "angle": "Markets-meets-security op-ed: the disconnect between protocol-level risk disclosures and price action, in the channel's signature 'already priced' framing",
+      "source": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation"
     },
     {
-      "title": "A Bitcoin Robbery Got Someone Life in Prison — Your Seed Phrase Still Isn't Worth Dying For",
-      "why_now": "The ex-LAPD officer's life sentence for a $350K bitcoin kidnapping, alongside three Missouri men charged over a home-invasion plot, shows physical custody risk is escalating alongside digital exploits.",
-      "angle": "Sharp, voice-forward piece on the rising trend of violent 'wrench attacks' tied to visible self-custody wealth, using both cases as proof that opsec now includes not posting your bag size — pairs security advice with true-crime pacing.",
-      "source": "https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss"
+      "title": "Boltz just paused itself because AI agents are now running the attacks",
+      "why_now": "This is one of the first concrete instances of a crypto protocol halting service specifically due to AI-assisted intrusion attempts, a new threat category.",
+      "angle": "Trend piece: use Boltz as the case study to argue AI-assisted hacking isn't hypothetical anymore, tie to Claude Mythos AISI findings for a two-source thread",
+      "source": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }
