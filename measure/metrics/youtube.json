@@ -2422,5 +2422,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-07",
+    "videos": [
+      {
+        "id": "0FHL4fzrCfs",
+        "title": "Salamander's fire immunity negates fire-based attacks #dcc",
+        "published": "2026-08-06",
+        "views": 362,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "UnlBl-YZcZE",
+        "title": "Priest switches from support to pressure when leveraging Turn Undead after #shadowdark",
+        "published": "2026-08-06",
+        "views": 47,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "iCqtQYJvb3k",
+        "title": "Dominate Monster extends to 8 hours with a 9th-level spell slot #dnd5e",
+        "published": "2026-08-06",
+        "views": 271,
+        "likes": 2,
+        "comments": 2
+      },
+      {
+        "id": "TtLCgTN_uMI",
+        "title": "Frame Peerer as a scene where priorities collide and every win has a price #dcc",
+        "published": "2026-08-06",
+        "views": 67,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "mc4Q8NNa5jo",
+        "title": "Metal weapons melt when striking a Salamander #dcc",
+        "published": "2026-08-06",
+        "views": 205,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "l_u9174ZHg0",
+        "title": "Salamander's Constrict Attack deals ongoing fire damage #dcc",
+        "published": "2026-08-05",
+        "views": 199,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Q4cAFixD804",
+        "title": "Salamander's Metal Heating: Weapon Melting Mechanics #dcc",
+        "published": "2026-08-05",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "MBGxXBRR7CU",
+        "title": "Dimension Door's instant self-range teleport changes positioning #shadowdark",
+        "published": "2026-08-05",
+        "views": 44,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "IuyCfhM5nDk",
+        "title": "Goblin Warrior's AC 15 often deflects more attacks than expected at low levels #dnd5e",
+        "published": "2026-08-05",
+        "views": 27,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "9EPO4RLLY0g",
+        "title": "First-level priority: Staff of Disruption #dcc",
+        "published": "2026-08-05",
+        "views": 82,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "9kBukO4Kbso",
+        "title": "Focus Spells require concentration #shadowdark",
+        "published": "2026-08-04",
+        "views": 177,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "QvZmlvjJjnM",
+        "title": "Monk's early power spike relies on repeatable actions rather than single-turn #dnd5e",
+        "published": "2026-08-04",
+        "views": 110,
+        "likes": 0,
+        "comments": 0
+      }
+    ]
   }
 ]
