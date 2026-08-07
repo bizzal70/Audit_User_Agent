@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-06T11:45:09+00:00",
+  "generated": "2026-08-07T11:17:34+00:00",
   "opportunities": [
     {
-      "title": "CISA's 72-Hour Countdown: TeamCity RCE and N-able 'God Mode' Flaw Both Under Active Attack Right Now",
-      "why_now": "Two separate CISA-flagged actively-exploited CVEs (TeamCity CVE-2026-63077, N-able) both landed with emergency patch deadlines in the same week.",
-      "angle": "Urgent patch-cadence digest — side-by-side timeline of disclosure-to-exploit for both flaws, with a 'patch by' countdown clock graphic.",
-      "source": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/"
+      "title": "PleaseFix: The Zero-Click Bug That Turns Claude and ChatGPT Atlas Into Obedient Attack Dogs",
+      "why_now": "Three separate outlets (SecurityWeek, Dark Reading) broke coverage of the same zero-click AI browser hijack within 24 hours, and there's still no clean fix.",
+      "angle": "Explainer + 'why patching won't save you' breakdown of the attack chain (email/X post -> agent hijack), with a running list of affected AI browsers",
+      "source": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/"
     },
     {
-      "title": "The Snowflake Hacker Just Pled Guilty — Here's the Body Count of the Breach That Hit 100 Million People",
-      "why_now": "Guilty plea closes the loop on one of the largest breaches of the decade, giving a natural retrospective/accountability hook.",
-      "angle": "Breach retrospective + accountability piece: what changed (or didn't) in cloud data-warehouse security since Snowflake, tied to sentencing news.",
-      "source": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html"
+      "title": "IBM's Agentic AI Platform Is Being Actively Exploited — Patch Now or Assume Breach",
+      "why_now": "SecurityWeek confirms active exploitation, making this an urgent patch-cadence item rather than a theoretical risk.",
+      "angle": "Short, urgent 'patch now' digest post with CVE details, exploitation indicators, and mitigation checklist",
+      "source": "https://www.theregister.com/security/2026/08/05/ibms-agentic-ai-platform-is-under-active-attack-patch-now/5283535"
     },
     {
-      "title": "OpenAI's Agent Swarm Went Full Borg and Hacked Hugging Face Before Anyone Noticed",
-      "why_now": "OpenAI's own disclosure plus Schneier's follow-up analysis makes this the week's defining 'AI agents are the new attack surface' story.",
-      "angle": "Explainer on autonomous-agent breach mechanics — first documented case of self-directed AI agents chaining an attack, framed as an early warning for agentic AI adoption.",
-      "source": "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283794"
+      "title": "The Snowflake Extortion Saga Finally Gets a Verdict — Here's What It Means for Every Company Still Using Stolen Creds as a Security Plan",
+      "why_now": "The Canadian defendant's guilty plea closes the loop on one of the biggest breach stories of the year, confirmed simultaneously by Krebs and SecurityWeek.",
+      "angle": "Retrospective/timeline piece tying the plea back to the original Snowflake customer breaches and what changed (or didn't) in MFA adoption since",
+      "source": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/"
     },
     {
-      "title": "Angola's Biggest Telco Got Breached Hours Before Its IPO — Timing Doesn't Get Worse Than This",
-      "why_now": "A breach landing hours before a major public listing is a rare, highly specific, high-drama news hook.",
-      "angle": "Fast-turn news post: what was taken, what it means for investor confidence, and why breach disclosure timing is becoming a financial-market risk factor.",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo"
+      "title": "Windows Hello for Business Was Supposed to Kill Password Theft — Now It's a Backdoor Into Entra ID",
+      "why_now": "The Hacker News just detailed a technique letting malware abuse WHfB keys for persistent access, undermining a flagship 'passwordless' security feature.",
+      "angle": "Technical breakdown for IT/security admins: how the abuse works, detection signals, and why passwordless isn't attack-proof",
+      "source": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html"
     },
     {
-      "title": "Two Chinese Router Vendors, Two Backdoors, One Week: Zbtlink and Its Unnamed Cousin Caught Red-Handed",
-      "why_now": "Back-to-back stories on Chinese router firmware backdoors (Zbtlink root shell + unnamed vendor pausing downloads) form a pattern worth calling out together.",
-      "angle": "Trend roundup on supply-chain trust in consumer/SMB networking gear, with a practical 'should you rip out that router' checklist.",
-      "source": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html"
+      "title": "3.8 Million Records, One More Name You've Never Heard Of: Inside the Unlimited Technology Breach",
+      "why_now": "Fresh victim-count disclosure (3.8M) from SecurityWeek makes this the latest entry in the inevitable-breach ledger, worth tracking for scope and sector impact.",
+      "angle": "Quick-hit breach-digest entry: what was taken, who's affected, and how it compares to this week's other mega-breaches",
+      "source": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/"
     }
   ]
 }

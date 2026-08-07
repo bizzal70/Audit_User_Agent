@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-06T11:45:09+00:00",
+  "generated": "2026-08-07T11:17:34+00:00",
   "opportunities": [
     {
-      "title": "D&D Icons Won an Award Before a Single Rule Was Published — Here's What That Actually Means",
-      "why_now": "WotC's unreleased 'D&D Icons' line just won an industry award with zero rules text in existence, which is a gift for a rules-first channel to interrogate.",
-      "angle": "Explainer/hot take: separate the hype from the crunch — what 'Icons' likely is mechanically (pre-gen character line? minis? campaign format?) based on WotC's naming patterns, and why awards for vaporware matter to players who care about actual rules",
-      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720186/"
-    },
-    {
-      "title": "Gen Con Hits 74,000: What the Numbers Say About Which Rulesets Are Actually Winning the Table",
-      "why_now": "Gen Con's fresh attendance record (74,000, #2 largest convention) is a timely hook to talk about which systems are dominating con schedules and why.",
-      "angle": "Data-driven breakdown: use Gen Con's growth to pivot into a ranked look at which non-D&D systems are gaining con-slot share (Call of Cthulhu, Traveller, Cyberpunk Red per the print news) — 'the numbers behind the hobby's biggest weekend'",
+      "title": "Gen Con Hits 74,000: What the Official Rules Say About Surviving Tabletop's Biggest Show Floor",
+      "why_now": "Gen Con just posted record 2026 attendance numbers, making it the week's biggest tabletop story.",
+      "angle": "Rules-first breakdown of Gen Con's own badge, event-ticket, and generic-ticket policies — treat the convention itself as a ruleset to parse.",
       "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
     },
     {
-      "title": "Cyberpunk Red, Call of Cthulhu, and Traveller All Print New Material Same Week — A Rules Comparison Nobody Asked For (But You Need)",
-      "why_now": "This week's RPG Print News round-up bundles three major non-D&D systems' new releases, perfect for a rules-first comparative breakdown.",
-      "angle": "Side-by-side rules-crunch comparison: how each system's new print material handles core resolution mechanics differently, framed as 'the rules are already written, here's what they say'",
+      "title": "Call of Cthulhu's New Printing: What Actually Changed in the Rules (and What Didn't)",
+      "why_now": "This week's RPG Print News roundup confirms a fresh Call of Cthulhu print run, prompting a rules-diff.",
+      "angle": "Line-by-line comparison of the new printing against the prior edition's core mechanics, flagging real errata vs cosmetic changes.",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     },
     {
-      "title": "Awarding a Product Line Before Its Rules Exist: A Precedent Check on TTRPG Industry Awards",
-      "why_now": "The D&D Icons pre-release award raises a factual, rules-adjacent question about award criteria in tabletop gaming that fans will debate.",
-      "angle": "Investigative/knowing tone: pull prior examples of TTRPG awards given to unreleased or rules-less products, establish whether this is unprecedented or a pattern",
-      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720186/"
+      "title": "Traveller Goes Back to Press: The Career & Skill Rules That Have Survived Every Edition",
+      "why_now": "Traveller is named in this week's print news, giving a timely hook to revisit its rules lineage.",
+      "angle": "Historical rules-tracking piece — show how Traveller's core mechanics have (or haven't) evolved across five decades of reprints.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     },
     {
-      "title": "74,000 Strong: Gen Con's Growth Curve and What It Predicts for Next Year's Rules Reveals",
-      "why_now": "With Gen Con confirmed as world's #2 convention at a new attendance high, it's the moment to speculate on what major rules announcements (new editions, errata drops) typically land at Gen Con-scale events.",
-      "angle": "Trend/forecast post: chart Gen Con attendance history against past major rules announcements to predict what's likely revealed there next, X thread format with data points",
-      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
+      "title": "Cyberpunk Red Reprint Alert: The Netrunning Rule Every Table Still Gets Wrong",
+      "why_now": "Cyberpunk Red's inclusion in this week's print news reopens the door to its most-debated subsystem.",
+      "angle": "Myth-busting explainer citing the actual rulebook text against common house-rule shortcuts.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
+    },
+    {
+      "title": "D&D Icons Won an Award Before a Single Rule Was Written — Here's What We Can Already Parse From WotC's Own Language",
+      "why_now": "WotC's newly announced Icons line just won an award pre-release, making its vague scope the talk of the community.",
+      "angle": "Close-reading of WotC's official announcement wording to extract the earliest rules/format signals, in classic 'rules are already written' style.",
+      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
     }
   ]
 }

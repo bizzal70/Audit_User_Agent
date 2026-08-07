@@ -1,49 +1,53 @@
 {
-  "generated": "2026-08-06T11:45:09+00:00",
+  "generated": "2026-08-07T11:17:34+00:00",
   "plays": [
     {
-      "story": "Coldcard hardware wallet exploit chain balloons to $100M+ stolen across three waves, with 15+ attackers and stolen funds now moving through mixers",
+      "story": "Gen Con hits a record 74,000 attendees, cementing its place as the world's #2 tabletop convention",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Gen Con Just Hit 74,000 Attendees — Here's What That Growth Curve Tells Us About Your Next Favorite System' — use the attendance spike as a hook to talk industry health, new-release buzz, and what publishers are betting on for 2027.",
+        "itsalreadywritten": "'74,000 People Showed Up for Stories: What Gen Con's Record Crowd Says About the Tales We're Choosing to Tell' — pivot from the numbers into a narrative-culture piece on what genres/settings are pulling the biggest crowds this year."
+      },
+      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
+    },
+    {
+      "story": "WotC's newly announced 'D&D Icons' miniatures line wins an award before a single product has shipped",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'D&D Icons Won an Award Before It Made Anything — Here's Hasbro's Marketing Playbook Explained' — dissect the business logic of pre-launch hype and what it signals for the minis market.",
+        "itsalreadywritten": "'When the Trophy Comes Before the Tale: What D&D Icons Winning Early Tells Us About Modern Worldbuilding' — use it as a springboard to discuss lore-first vs. hype-first design in TTRPG IP."
+      },
+      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
+    },
+    {
+      "story": "Coldcard hardware wallet exploit balloons into $247M July losses, with 15+ attackers, mixer laundering, and onchain fallout still unfolding",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'The $100M Wallet: How Coldcard's Breach Just Repriced Cold Storage Risk' — frame this as a market story: quantify how a 'safe' hardware wallet failure changes the risk premium investors should price into self-custody vs. exchange custody, tying in the mixer laundering angle for a follow-the-money hook.",
-        "itsalreadywhen": "'Coldcard Was Already When: A Timeline of How 15 Attackers Cracked 'Unhackable' Cold Storage' — build a forensic timeline of the three attack waves (per Galaxy's research) to show this wasn't a single exploit but an escalating campaign, previewing what's coming next for hardware wallet security."
-      }
+        "itsalreadypriced": "'Coldcard's $247M Month: What the Worst Hardware Wallet Hack of 2026 Means for Your Cold Storage Strategy' — tie ETF inflow reactions and the 210K BTC wallet migration to a practical 'should you still trust cold storage' piece.",
+        "itsalreadywhen": "'15 Attackers, One Firmware Flaw: Inside the Coldcard Exploit Timeline' — break down the technical vulnerability chain, the mixer laundering of 64 BTC/200 ETH, and what it means for hardware wallet security audits going forward."
+      },
+      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "AI-assisted attacks hit crypto infrastructure (Boltz pauses service, Coldcard attackers reportedly AI-assisted) just as Register/Dark Reading report agentic AI frameworks and prompt injection are actively exploited (IBM's agentic AI platform under attack, PleaseFix zero-click hijacking)",
+      "story": "AI agents are now actively powering fraud and crime syndicates, while humans-in-the-loop miss a third of dangerous AI agent requests",
       "channels": [
         "itsalreadywhen",
         "itsalreadypriced"
       ],
       "angles": {
-        "itsalreadywhen": "'Prompt Injection Isn't the Bug — Crypto's AI Custody Stack Is' — connect Register's framework-flaw thesis directly to Boltz's shutdown, arguing agentic AI attacks on financial infra were entirely predictable and forecasting which custody platforms are next.",
-        "itsalreadypriced": "'Boltz Just Showed Why 'AI-Powered' Crypto Services Carry a Hidden Discount' — market-angle piece on how AI-assisted hacking is becoming a line-item risk for any platform marketing AI automation, with implications for valuing AI-branded crypto infra startups."
-      }
-    },
-    {
-      "story": "Gen Con grows to 74,000 attendees, cementing its place as the tabletop industry's biggest annual signal of health and spending",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Gen Con Hits 74K: What the Attendance Spike Actually Means for Your Game Table in 2026' — practical read for GMs/players on what surging attendance signals for new release volume, con-exclusive content, and where to spend con budget this year.",
-        "itsalreadywritten": "'74,000 People Just Voted With Their Wallets — Here's the TTRPG IP That Should Launch at Gen Con Next Year' — publishing/design angle for creators, using the record attendance as evidence for where new IP launches and crowdfunding pushes should be timed."
-      }
-    },
-    {
-      "story": "WotC's newly announced 'D&D Icons' line wins an industry award before a single product has shipped",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'D&D Icons Won an Award Before It Exists — Here's What GMs Should Actually Expect on the Table' — cut through the hype cycle with a grounded preview of what the miniatures/format likely means for actual play and budgets.",
-        "itsalreadywritten": "'D&D Icons: The Line That Was Already Written Into Canon Before a Single Model Was Sculpted' — lean into the brand's name for a lore/marketing-strategy angle on how WotC pre-sold narrative weight via awards buzz before shipping anything."
-      }
+        "itsalreadywhen": "'AI Agents Are Now Fraud's Best Employee: Inside the Playbook Global Crime Syndicates Are Using' — combine the Dark Reading fraud piece with the 'humans in the loop miss a third of dangerous requests' study to warn security teams about agentic risk blind spots.",
+        "itsalreadypriced": "'Your Next Crypto Scam Might Be Written by an AI Agent — Here's How to Spot It' — translate the AI-fraud-syndicate story into a crypto-holder-facing piece on new social-engineering and wallet-drain tactics powered by autonomous AI."
+      },
+      "source": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana"
     }
   ]
 }

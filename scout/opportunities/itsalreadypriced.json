@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-06T11:45:09+00:00",
+  "generated": "2026-08-07T11:17:34+00:00",
   "opportunities": [
     {
-      "title": "64 BTC and 200 ETH just left for the mixers — the Coldcard story isn't over, it's laundering",
-      "why_now": "The hackers are actively cashing out right now, turning a disclosure story into a live forensics story.",
-      "angle": "Incident tracker: trace the mixer flows, note what this tells you about attacker sophistication and why 'wallet was secure' claims always age badly",
-      "source": "https://cointelegraph.com/news/coldcard-hackers-64-btc-200-eth-cryptocurrency-mixers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Coldcard's $247M Month: 15 Attackers, One Laundering Trail, and 210,000 BTC That Should Never Have Moved",
+      "why_now": "The Coldcard exploit has snowballed from a single incident into July's second-worst loss month, with attacker count, mixer flows, and mass wallet migrations all confirmed within 48 hours of each other.",
+      "angle": "Timeline explainer stitching together the Galaxy attacker count, the mixer transfer, and the on-chain wallet exodus into one 'anatomy of a hardware wallet failure' piece — end with the operational lesson for anyone still holding a Coldcard-era seed.",
+      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "15 different attackers found the same Coldcard bug — which means the real number who found it is unknowable",
-      "why_now": "Galaxy's count confirms this wasn't one clever hacker, it was a race, and races imply prior silent exploitation.",
-      "angle": "Security explainer: why 'independently discovered by N attackers' is the tell that a bug was live for months before anyone noticed",
-      "source": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Bitcoin ETFs Got a Hack Bump. Nobody Can Explain Why. That's the Whole Point.",
+      "why_now": "A Bloomberg analyst is publicly puzzled that ETF inflows rose right after a major custody hack, which is exactly the kind of 'market shrugs at security' moment this channel exists to call out.",
+      "angle": "Contrarian markets-meets-security take: institutional capital doesn't price custody risk the way self-custodied users do — use it to reframe what 'already priced in' actually means for ETF buyers vs. wallet holders.",
+      "source": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$100M, three waves, one hardware wallet: the Coldcard timeline nobody wants to publish",
-      "why_now": "Galaxy has now confirmed the total damage crossed $100M across three distinct attack waves, giving enough data for a real postmortem.",
-      "angle": "Timeline breakdown: map wave 1/2/3 against disclosure and patch dates to show the gap attackers lived in",
-      "source": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "No, Your Ledger Isn't a Coldcard — But Here's the Question the Headline Is Dodging",
+      "why_now": "Cointelegraph's own magazine piece is asking whether all hardware wallets are now insecure, which is the exact panic-vs-substance question our audience wants answered without the hedging.",
+      "angle": "Direct rebuttal/explainer format: separate the Coldcard-specific firmware/supply-chain failure from generic hardware wallet risk, then give a concrete checklist for what actually needs verifying on any device.",
+      "source": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Bitcoin core devs just flagged 85 critical bugs and called it 'extremely bad' — so why is BTC still $65K?",
-      "why_now": "A rare on-record admission of severity from core devs, dropped the same week as a $100M hardware wallet exploit — the market hasn't priced any of it in.",
-      "angle": "Markets-meets-security op-ed: the disconnect between protocol-level risk disclosures and price action, in the channel's signature 'already priced' framing",
-      "source": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation"
+      "title": "France Is Now a Wrench-Attack Hotspot — Your Threat Model Needs a Physical Layer",
+      "why_now": "Chainalysis just quantified $30M in violent crypto extraction attacks in 2026 with France emerging as the epicenter, a data point that's rarely covered with real numbers attached.",
+      "angle": "Security-ops piece translating the Chainalysis research into practical opsec: visible wealth signals, multisig/duress wallets, and why 'not your keys' physical exposure matters as much as custody risk.",
+      "source": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/"
     },
     {
-      "title": "Boltz just paused itself because AI agents are now running the attacks",
-      "why_now": "This is one of the first concrete instances of a crypto protocol halting service specifically due to AI-assisted intrusion attempts, a new threat category.",
-      "angle": "Trend piece: use Boltz as the case study to argue AI-assisted hacking isn't hypothetical anymore, tie to Claude Mythos AISI findings for a two-source thread",
-      "source": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "MetaMask's New 'Autonomous' AI Wallet Is an Attack Surface With a Marketing Budget",
+      "why_now": "MetaMask just shipped a self-custodial AI wallet for autonomous trading in the same week Meta and OpenAI both disclosed AI agents independently coordinating hacks — the timing is too good to ignore.",
+      "angle": "Skeptical first-look piece: walk through what 'autonomous crypto trading' actually means for key exposure and agent permissions, tying it to the same-week AI-agent-hacking disclosures for a 'this is what's coming' warning.",
+      "source": "https://decrypt.co/375044/metamask-self-custodial-ai-wallet-autonomous-crypto-trading"
     }
   ]
 }

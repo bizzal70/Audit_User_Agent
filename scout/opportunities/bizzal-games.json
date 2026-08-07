@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-06T11:45:09+00:00",
+  "generated": "2026-08-07T11:17:34+00:00",
   "opportunities": [
     {
-      "title": "Gen Con Hits 74K—So Here's the Ruling That Saves Your 4-Hour One-Shot",
-      "why_now": "Gen Con's record 74,000 attendee count means a flood of new/returning DMs are prepping convention one-shots this week.",
-      "angle": "Quick-cut short on Readied Actions vs. Delay: the single ruling that keeps a table of 6 strangers from blowing your timeslot",
+      "title": "Gen Con Hits 74,000 — The One Ruling Every Con DM Botches in Their First 10 Minutes",
+      "why_now": "Gen Con's record attendance means a flood of new GMs running pickup one-shots for strangers this month.",
+      "angle": "60-sec short: correct ruling on surprise/initiative when a table of five strangers sits down cold — no fluff, just the RAW fix.",
       "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
     },
     {
-      "title": "D&D Icons Won an Award for a Product That Doesn't Exist Yet — Here's a Cover Tactic That Already Works",
-      "why_now": "WotC's D&D Icons miniatures line just won an award before a single figure shipped, giving minis discourse a timely hook.",
-      "angle": "Wry cold-open roasting the award, pivot to a real tactic: using minis + the optional cover/flanking rule to make theater-of-the-mind DMs jealous",
+      "title": "How to Run a 4-Hour Con One-Shot Without a TPK by Minute 20",
+      "why_now": "Same Gen Con surge means thousands of GMs are building time-boxed one-shots this exact week.",
+      "angle": "Creature tactic breakdown: how to retune a stock monster's action economy for a shorter, faster combat clock.",
+      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
+    },
+    {
+      "title": "D&D Icons Won an Award Before It Shipped a Single Stat Block",
+      "why_now": "The award-before-product news is a fresh, ready-made setup for a dry roast tying hype to actual crunch.",
+      "angle": "Cold open roast: 'Awards don't grapple' — pivot into the correct, commonly-misplayed grapple/shove ruling nobody's fixed in a decade.",
       "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
     },
     {
-      "title": "Call of Cthulhu Has Sanity. 5e Just Has 'Frightened.' Here's the House Rule That Fixes That",
-      "why_now": "This week's RPG print roundup name-drops Call of Cthulhu, giving cover to compare its Sanity mechanic against 5e's thin Fear condition.",
-      "angle": "Mechanical breakdown: steal a light Sanity-style escalation for 5e horror one-shots without importing a whole subsystem",
+      "title": "Call of Cthulhu's Sanity Mechanic, Ported Into 5e for GMs Who Refuse to Buy a New System",
+      "why_now": "This week's RPG print roundup spotlights Call of Cthulhu, a natural hook for a cross-system spell/mechanic use-case.",
+      "angle": "Spell/mechanic use-case: homebrew a Wisdom-save-based fear/sanity clock using existing 5e frightened rules — one clean houserule, no fluff.",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     },
     {
-      "title": "Traveller's Action Economy Is Brutal — Here's Why 5e's Opportunity Attack Is Actually the Merciful Version",
-      "why_now": "Traveller's mention in the same print roundup is a rare chance to contrast a harder sci-fi ruleset against 5e's forgiving combat math.",
-      "angle": "Side-by-side ruling explainer: why 5e's single reaction/round is a design mercy, ending with a tactic for using OAs to zone enemies",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
-    },
-    {
-      "title": "Cyberpunk Red's Netrunning vs. Counterspell: Same Problem, Two Very Different Fixes",
-      "why_now": "Cyberpunk Red's fresh print coverage sets up a natural comparison to 5e's most argued-over reaction spell.",
-      "angle": "Spell use-case short on when Counterspell actually wins the action-economy trade, framed as 'how another game solved the same interrupt problem'",
+      "title": "Cyberpunk Red Has Netrunning Rules. 5e Has a Shrug. Here's a Fix.",
+      "why_now": "Cyberpunk Red's mention in the same print roundup makes for a timely comparative rules bit against 5e's thin hacking support.",
+      "angle": "Dry mechanical comparison short: steal Cyberpunk Red's structure to houserule a quick 'hacking as skill challenge' subsystem for 5e/Shadowdark.",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
     }
   ]
