@@ -2523,5 +2523,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-08",
+    "videos": [
+      {
+        "id": "70div-RcvsE",
+        "title": "Frog Rain can hit allies too #shadowdark",
+        "published": "2026-08-07",
+        "views": 179,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "rvIw_pCfSG4",
+        "title": "Giant Bat's near flying movement allows it to reposition and strike before most #shadowdark",
+        "published": "2026-08-07",
+        "views": 28,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "JCl7YVclhJo",
+        "title": "Ability Checks resolve with a single roll and a single ruling #dnd5e",
+        "published": "2026-08-07",
+        "views": 69,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "K0VxCFLduLI",
+        "title": "Wizards lose a spell permanently on a natural 1 during a spell check #dcc",
+        "published": "2026-08-07",
+        "views": 33,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "0FHL4fzrCfs",
+        "title": "Salamander's fire immunity negates fire-based attacks #dcc",
+        "published": "2026-08-06",
+        "views": 409,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "UnlBl-YZcZE",
+        "title": "Priest switches from support to pressure when leveraging Turn Undead after #shadowdark",
+        "published": "2026-08-06",
+        "views": 70,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "iCqtQYJvb3k",
+        "title": "Dominate Monster extends to 8 hours with a 9th-level spell slot #dnd5e",
+        "published": "2026-08-06",
+        "views": 290,
+        "likes": 3,
+        "comments": 2
+      },
+      {
+        "id": "TtLCgTN_uMI",
+        "title": "Frame Peerer as a scene where priorities collide and every win has a price #dcc",
+        "published": "2026-08-06",
+        "views": 80,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "mc4Q8NNa5jo",
+        "title": "Metal weapons melt when striking a Salamander #dcc",
+        "published": "2026-08-06",
+        "views": 328,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "l_u9174ZHg0",
+        "title": "Salamander's Constrict Attack deals ongoing fire damage #dcc",
+        "published": "2026-08-05",
+        "views": 201,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Q4cAFixD804",
+        "title": "Salamander's Metal Heating: Weapon Melting Mechanics #dcc",
+        "published": "2026-08-05",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "MBGxXBRR7CU",
+        "title": "Dimension Door's instant self-range teleport changes positioning #shadowdark",
+        "published": "2026-08-05",
+        "views": 56,
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   }
 ]
