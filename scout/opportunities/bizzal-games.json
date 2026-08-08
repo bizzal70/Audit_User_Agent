@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-07T11:17:34+00:00",
+  "generated": "2026-08-08T11:08:58+00:00",
   "opportunities": [
     {
-      "title": "Gen Con Hits 74,000 — The One Ruling Every Con DM Botches in Their First 10 Minutes",
-      "why_now": "Gen Con's record attendance means a flood of new GMs running pickup one-shots for strangers this month.",
-      "angle": "60-sec short: correct ruling on surprise/initiative when a table of five strangers sits down cold — no fluff, just the RAW fix.",
+      "title": "Gen Con Hits 74,000 — Here's the Readied Action Ruling That Still Wrecks Organized Play Tables",
+      "why_now": "Gen Con's record attendance means more tables running AL/organized play this week, and readied actions are the #1 misplayed interrupt.",
+      "angle": "30-sec mechanical breakdown: Ready an Action vs. reaction timing, with the RAW text on-screen and a wrong-vs-right table example.",
       "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
     },
     {
-      "title": "How to Run a 4-Hour Con One-Shot Without a TPK by Minute 20",
-      "why_now": "Same Gen Con surge means thousands of GMs are building time-boxed one-shots this exact week.",
-      "angle": "Creature tactic breakdown: how to retune a stock monster's action economy for a shorter, faster combat clock.",
-      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
+      "title": "Diana Jones Winner Is a Toy Store — So Let's Actually Fix Mimic Tactics",
+      "why_now": "Mischief Toy Store just won 2026's Diana Jones Award, giving a clean pun hook for a creature-tactics short.",
+      "angle": "Creature tactic short: correct Mimic action economy (Adhesive + Grapple + Pseudopod) and why most DMs let it move-and-attack wrong.",
+      "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
     },
     {
-      "title": "D&D Icons Won an Award Before It Shipped a Single Stat Block",
-      "why_now": "The award-before-product news is a fresh, ready-made setup for a dry roast tying hype to actual crunch.",
-      "angle": "Cold open roast: 'Awards don't grapple' — pivot into the correct, commonly-misplayed grapple/shove ruling nobody's fixed in a decade.",
-      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
+      "title": "ENnies Just Handed Out Trophies — Here's the Spell Interaction Every Award Adventure Gets Wrong",
+      "why_now": "ENnies winners dropped this week and fans are combing through the winning modules, a natural traffic spike to ride.",
+      "angle": "Spell use-case short on Silence vs. Counterspell/Concentration triggers, framed as 'even the best-written adventures fumble this.'",
+      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
     },
     {
-      "title": "Call of Cthulhu's Sanity Mechanic, Ported Into 5e for GMs Who Refuse to Buy a New System",
-      "why_now": "This week's RPG print roundup spotlights Call of Cthulhu, a natural hook for a cross-system spell/mechanic use-case.",
-      "angle": "Spell/mechanic use-case: homebrew a Wisdom-save-based fear/sanity clock using existing 5e frightened rules — one clean houserule, no fluff.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
+      "title": "'Give Creators Credit' Is Trending — So Let's Credit the Community Ruling That Fixed Ranger's Favored Enemy",
+      "why_now": "EN World's creator-credit piece has the design community talking about attribution this week, a good peg for crediting a fan-sourced fix.",
+      "angle": "Wry veteran-GM bit: walk through the community houserule that patches Favored Enemy's weak RAW text, tagged as 'crediting where it's due.'",
+      "source": "https://www.enworld.org/threads/giving-creators-their-due-credit-better-practices-for-publishers-awards-and-media.720213/"
     },
     {
-      "title": "Cyberpunk Red Has Netrunning Rules. 5e Has a Shrug. Here's a Fix.",
-      "why_now": "Cyberpunk Red's mention in the same print roundup makes for a timely comparative rules bit against 5e's thin hacking support.",
-      "angle": "Dry mechanical comparison short: steal Cyberpunk Red's structure to houserule a quick 'hacking as skill challenge' subsystem for 5e/Shadowdark.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
+      "title": "This Week in Tabletop News: The One Rule Every Table Argued About at Gen Con",
+      "why_now": "The Aug 7 news digest rounds up a week of tabletop chatter, perfect springboard for a 'most-debated rule of the week' recurring segment.",
+      "angle": "Quick-hit format: cold open with the digest as a newsy hook, then deliver a single crunchy ruling (e.g., grapple + shove combo) as the payoff.",
+      "source": "https://www.enworld.org/threads/news-digest-for-august-7-2026.720215/"
     }
   ]
 }

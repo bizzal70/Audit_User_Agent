@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-07T11:17:34+00:00",
+  "generated": "2026-08-08T11:08:58+00:00",
   "opportunities": [
     {
-      "title": "Coldcard's $247M Month: 15 Attackers, One Laundering Trail, and 210,000 BTC That Should Never Have Moved",
-      "why_now": "The Coldcard exploit has snowballed from a single incident into July's second-worst loss month, with attacker count, mixer flows, and mass wallet migrations all confirmed within 48 hours of each other.",
-      "angle": "Timeline explainer stitching together the Galaxy attacker count, the mixer transfer, and the on-chain wallet exodus into one 'anatomy of a hardware wallet failure' piece — end with the operational lesson for anyone still holding a Coldcard-era seed.",
-      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Coldcard, BTCPay, and Lightning All Broke in the Same Week — That's Not a Coincidence, That's Bitcoin's Attack Surface",
+      "why_now": "Three separate Bitcoin infrastructure exploits (hardware wallet, payment processor, Lightning nodes) landed within days of each other, exposing a pattern rather than isolated incidents.",
+      "angle": "Trend analysis connecting Coldcard, BTCPay, and Lightning drains as evidence of underinvested infra security across the Bitcoin stack — end with a 'what to actually check today' checklist.",
+      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026"
     },
     {
-      "title": "Bitcoin ETFs Got a Hack Bump. Nobody Can Explain Why. That's the Whole Point.",
-      "why_now": "A Bloomberg analyst is publicly puzzled that ETF inflows rose right after a major custody hack, which is exactly the kind of 'market shrugs at security' moment this channel exists to call out.",
-      "angle": "Contrarian markets-meets-security take: institutional capital doesn't price custody risk the way self-custodied users do — use it to reframe what 'already priced in' actually means for ETF buyers vs. wallet holders.",
-      "source": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "BTCPay's Critical Flaw Is Being Exploited Right Now — Here's What Merchants Need to Do Before Reading the Rest of the Internet",
+      "why_now": "BTCPay confirmed active exploitation, meaning this is a live-fire incident, not a disclosed-then-patched CVE writeup.",
+      "angle": "Fast-turn security alert post: what's known, what's not, immediate mitigation steps, and a jab at how long merchants took to patch similar past bugs.",
+      "source": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack"
     },
     {
-      "title": "No, Your Ledger Isn't a Coldcard — But Here's the Question the Headline Is Dodging",
-      "why_now": "Cointelegraph's own magazine piece is asking whether all hardware wallets are now insecure, which is the exact panic-vs-substance question our audience wants answered without the hedging.",
-      "angle": "Direct rebuttal/explainer format: separate the Coldcard-specific firmware/supply-chain failure from generic hardware wallet risk, then give a concrete checklist for what actually needs verifying on any device.",
-      "source": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "5,000 Findings: What Bitcoin's Red Team Audit Actually Found (and Why Nobody's Talking About It)",
+      "why_now": "A sweeping security audit just surfaced thousands of findings across Bitcoin infrastructure, landing right after the worst hack month of the year — a rare chance to quantify the rot instead of just reacting to headlines.",
+      "angle": "Deep-dive breakdown of the audit's findings by severity/category, framed as 'the vulnerabilities were already there before Coldcard confirmed it.'",
+      "source": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit"
     },
     {
-      "title": "France Is Now a Wrench-Attack Hotspot — Your Threat Model Needs a Physical Layer",
-      "why_now": "Chainalysis just quantified $30M in violent crypto extraction attacks in 2026 with France emerging as the epicenter, a data point that's rarely covered with real numbers attached.",
-      "angle": "Security-ops piece translating the Chainalysis research into practical opsec: visible wealth signals, multisig/duress wallets, and why 'not your keys' physical exposure matters as much as custody risk.",
-      "source": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/"
+      "title": "Bybit Got a Court Order to Trace $1.5B From Lazarus Group — the Coldcard Hackers Just Sent Theirs to a Mixer Anyway",
+      "why_now": "Two parallel stories this week show the full spectrum of stolen-funds outcomes: legal wins for the biggest hack ever, and mixers swallowing the newest one in real time.",
+      "angle": "Side-by-side 'already priced' take on why court orders rarely outrun mixers — use both stories to make the cynical point that tracing tech and legal tools are still losing the speed game.",
+      "source": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack"
     },
     {
-      "title": "MetaMask's New 'Autonomous' AI Wallet Is an Attack Surface With a Marketing Budget",
-      "why_now": "MetaMask just shipped a self-custodial AI wallet for autonomous trading in the same week Meta and OpenAI both disclosed AI agents independently coordinating hacks — the timing is too good to ignore.",
-      "angle": "Skeptical first-look piece: walk through what 'autonomous crypto trading' actually means for key exposure and agent permissions, tying it to the same-week AI-agent-hacking disclosures for a 'this is what's coming' warning.",
-      "source": "https://decrypt.co/375044/metamask-self-custodial-ai-wallet-autonomous-crypto-trading"
+      "title": "Fake CAPTCHAs Are Now a BNB Chain Malware Delivery System — Yes, Really",
+      "why_now": "A fresh malware campaign is abusing fake CAPTCHA prompts specifically routed through BNB Chain infrastructure, a novel enough vector to warrant a specific warning post.",
+      "angle": "Explainer/warning post breaking down how the fake-CAPTCHA-to-wallet-drain chain works, with a screenshot-style walkthrough of red flags to spot before clicking 'I'm not a robot.'",
+      "source": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas"
     }
   ]
 }

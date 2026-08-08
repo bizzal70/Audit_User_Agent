@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-07T11:17:34+00:00",
+  "generated": "2026-08-08T11:08:58+00:00",
   "opportunities": [
     {
-      "title": "Gen Con Hits 74,000: What the Official Rules Say About Surviving Tabletop's Biggest Show Floor",
-      "why_now": "Gen Con just posted record 2026 attendance numbers, making it the week's biggest tabletop story.",
-      "angle": "Rules-first breakdown of Gen Con's own badge, event-ticket, and generic-ticket policies — treat the convention itself as a ruleset to parse.",
+      "title": "ENnies 2026: The Full Winners List, Annotated (What the Judges Actually Rewarded)",
+      "why_now": "The 2026 ENnies winners were just announced, giving a fresh dataset to break down category-by-category.",
+      "angle": "Rules-first recap: list winners with a line on the mechanical/design innovation each win signals for the hobby",
+      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
+    },
+    {
+      "title": "Mischief Toy Store Takes the Diana Jones Award — What the Design Actually Does Differently",
+      "why_now": "Diana Jones is the industry's most respected peer-voted award and was just given to Mischief Toy Store.",
+      "angle": "Deep-dive analysis of the winning game's core mechanics vs. past Diana Jones winners",
+      "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
+    },
+    {
+      "title": "Creator Credit Is Broken — Here's the Rulebook the Industry Needs",
+      "why_now": "EN World just published a piece on better crediting practices for publishers, awards, and media, a live governance issue for the hobby.",
+      "angle": "Opinion/explainer proposing concrete 'rules' for attribution standards, citing the article's recommendations",
+      "source": "https://www.enworld.org/threads/giving-creators-their-due-credit-better-practices-for-publishers-awards-and-media.720213/"
+    },
+    {
+      "title": "Gen Con Hits 74,000: What Growth at the Second-Largest Con Means for Next Year's Releases",
+      "why_now": "Gen Con just reported record attendance growth, a hard data point on the hobby's trajectory.",
+      "angle": "Data-driven news piece connecting attendance numbers to publisher release calendars and market health",
       "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
     },
     {
-      "title": "Call of Cthulhu's New Printing: What Actually Changed in the Rules (and What Didn't)",
-      "why_now": "This week's RPG Print News roundup confirms a fresh Call of Cthulhu print run, prompting a rules-diff.",
-      "angle": "Line-by-line comparison of the new printing against the prior edition's core mechanics, flagging real errata vs cosmetic changes.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
-    },
-    {
-      "title": "Traveller Goes Back to Press: The Career & Skill Rules That Have Survived Every Edition",
-      "why_now": "Traveller is named in this week's print news, giving a timely hook to revisit its rules lineage.",
-      "angle": "Historical rules-tracking piece — show how Traveller's core mechanics have (or haven't) evolved across five decades of reprints.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
-    },
-    {
-      "title": "Cyberpunk Red Reprint Alert: The Netrunning Rule Every Table Still Gets Wrong",
-      "why_now": "Cyberpunk Red's inclusion in this week's print news reopens the door to its most-debated subsystem.",
-      "angle": "Myth-busting explainer citing the actual rulebook text against common house-rule shortcuts.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-call-of-cthulhu-traveller-cyberpunk-red-and-more.720095/"
-    },
-    {
-      "title": "D&D Icons Won an Award Before a Single Rule Was Written — Here's What We Can Already Parse From WotC's Own Language",
-      "why_now": "WotC's newly announced Icons line just won an award pre-release, making its vague scope the talk of the community.",
-      "angle": "Close-reading of WotC's official announcement wording to extract the earliest rules/format signals, in classic 'rules are already written' style.",
-      "source": "https://www.enworld.org/threads/wotc%E2%80%99s-newly-announced-%E2%80%9Cd-d-icons%E2%80%9D-line-wins-an-award-before-making-anything.720166/"
+      "title": "This Week in TTRPG: ENnies, Diana Jones, and Gen Con's Record Year — The August 7 Digest",
+      "why_now": "EN World's news digest bundles the week's biggest tabletop stories into one timely recap opportunity.",
+      "angle": "Weekly roundup post with rules/industry commentary added to each digest item, positioned as the definitive TTRPG news wrap",
+      "source": "https://www.enworld.org/threads/news-digest-for-august-7-2026.720215/"
     }
   ]
 }
