@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-08T11:08:58+00:00",
+  "generated": "2026-08-09T11:09:14+00:00",
   "plays": [
     {
-      "story": "Coldcard hardware-wallet exploit deepens (July losses hit $247M) while Bitcoin ETF inflows spike anyway",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Coldcard Chaos: Why $247M in Hardware-Wallet Losses Isn't Scaring Bitcoin ETF Buyers Away",
-        "itsalreadywhen": "Your Hardware Wallet Isn't as Cold as You Think: Inside the Coldcard Exploit Rewriting Wallet-Security Rules"
-      },
-      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "BTCPay Server actively-exploited vulnerability drains merchant funds, days after Lightning payment servers were hit too",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Merchants Beware: BTCPay's Live Exploit and the Lightning Drain Could Cost You Real Sats",
-        "itsalreadywhen": "Two Bitcoin Payment Rails, One Bad Week: The BTCPay and Lightning Exploits IT Teams Need to Patch Now"
-      },
-      "source": "https://www.theblock.co/news/ecosystems/2026-08-07-btcpay-warns-actively-exploited-vulnerability-could-drain-funds-411170?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "story": "2026 TTRPG awards season: Mischief Toy Store wins Diana Jones Award, ENnies winners announced",
+      "story": "2026 Diana Jones Award and ENnies winners announced (Mischief Toy Store takes Diana Jones; full ENnies sweep)",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Mischief Toy Store Takes the Diana Jones Award: What This Underdog Design Says About 2026's Best TTRPGs",
-        "itsalreadywritten": "The ENnies Winners Are In: The Best-Written TTRPG Content of 2026, Ranked"
+        "bizzal-games": "'Every 2026 ENnies Winner, Ranked by How Fast You Can Get Them to Your Table' — a play-first breakdown of which award-winning titles (starting with Diana Jones winner Mischief Toy Store) are actually worth running this month, not just admiring on a shelf.",
+        "itsalreadywritten": "'What Mischief Toy Store's Diana Jones Win Says About Where TTRPG Design Writing Is Headed' — use the win as a hook to dissect the design text/voice that made judges pick it, framed as a lesson for aspiring RPG writers."
       },
       "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
     },
     {
-      "story": "Gen Con 2026 grows to 74,000 attendees, cementing its place as tabletop's biggest growth story",
+      "story": "EN World's new industry piece on giving TTRPG creators proper credit in publishing, awards, and media",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Gen Con Hits 74,000: What Tabletop's Biggest Growth Year Means for Your Next Kickstarter",
-        "itsalreadywritten": "74,000 Gamers and Counting: Why Gen Con's Boom Is a Golden Age for TTRPG Writers"
+        "bizzal-games": "'Who Actually Designed That Mechanic? The TTRPG Industry's New Push for Credit Where It's Due' — spin as consumer-facing: how to find out who really built the systems in your favorite games.",
+        "itsalreadywritten": "'Bylines Matter: Inside EN World's New Rules for Crediting TTRPG Writers' — a direct-to-freelancers piece on what better credit practices mean for getting paid and recognized in the industry."
       },
-      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
+      "source": "https://www.enworld.org/threads/giving-creators-their-due-credit-better-practices-for-publishers-awards-and-media.720213/"
+    },
+    {
+      "story": "Wave of Bitcoin infrastructure exploits — Coldcard hack pushes July to $247M in losses, and BTCPay restricts remote Lightning access after a separate drain — even as ETFs post best inflow week since April",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Coldcard Hackers Drained $247M — So Why Did Bitcoin ETFs Just Post Their Best Week Since April?' — dig into the disconnect analysts are flagging between security disasters and institutional inflows.",
+        "itsalreadywhen": "'BTCPay Just Locked Down Remote Lightning Access After Attackers Drained Merchant Nodes — Here's the Exploit Chain' — technical postmortem on how the Lightning payment servers were hit and what self-custody users need to patch now."
+      },
+      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Coldcard exploit reignites debate over private-key custody, while hardware wallet sales in Russia more than double ahead of new crypto rules",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Hardware Wallet Sales Just Doubled in Russia — Right After a $247M Coldcard Hack' — market/adoption story on how a security disaster is paradoxically driving demand for the exact device category that got exploited.",
+        "itsalreadywhen": "'Crypto's Original Sin: What the Coldcard Exploit Reveals About Private Key Security' — security-analyst deep dive (citing Blockaid's CEO) into why hardware wallets keep failing at the one job they're supposed to do."
+      },
+      "source": "https://www.theblock.co/news/regulation/2026-08-07-coldcard-bitcoin-exploit-crypto-original-sin-private-keys-blockaid-ceo-411160?utm_source=rss&utm_medium=rss"
     }
   ]
 }

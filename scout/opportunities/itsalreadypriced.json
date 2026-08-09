@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-08T11:08:58+00:00",
+  "generated": "2026-08-09T11:09:14+00:00",
   "opportunities": [
     {
-      "title": "Coldcard, BTCPay, and Lightning All Broke in the Same Week — That's Not a Coincidence, That's Bitcoin's Attack Surface",
-      "why_now": "Three separate Bitcoin infrastructure exploits (hardware wallet, payment processor, Lightning nodes) landed within days of each other, exposing a pattern rather than isolated incidents.",
-      "angle": "Trend analysis connecting Coldcard, BTCPay, and Lightning drains as evidence of underinvested infra security across the Bitcoin stack — end with a 'what to actually check today' checklist.",
-      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026"
+      "title": "The Market Didn't Blink: $1B Flowed Into Bitcoin ETFs the Same Week Coldcard Got Drained",
+      "why_now": "ETFs just posted their best inflow week since April in the immediate aftermath of a $247M hardware wallet exploit, and even Bloomberg can't tie them together — that disconnect is the whole thesis of this channel.",
+      "angle": "Markets-meets-security op-ed: security incidents no longer move price, institutional flows have priced out retail panic — with the Coldcard timeline as Exhibit A.",
+      "source": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "BTCPay's Critical Flaw Is Being Exploited Right Now — Here's What Merchants Need to Do Before Reading the Rest of the Internet",
-      "why_now": "BTCPay confirmed active exploitation, meaning this is a live-fire incident, not a disclosed-then-patched CVE writeup.",
-      "angle": "Fast-turn security alert post: what's known, what's not, immediate mitigation steps, and a jab at how long merchants took to patch similar past bugs.",
-      "source": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack"
+      "title": "Self-Custody Just Had Its Worst Month: Coldcard + BTCPay Prove 'Not Your Keys' Isn't Enough",
+      "why_now": "Coldcard's exploit made July the second-worst month of 2026 for losses, and days later BTCPay's Lightning nodes got actively drained too — two pillars of the sovereignty stack failed in the same week.",
+      "angle": "Incident post-mortem tying both hacks together: hardware wallets and self-hosted payment infra both got popped, so what's actually left of the 'not your keys, not your coins' promise.",
+      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "5,000 Findings: What Bitcoin's Red Team Audit Actually Found (and Why Nobody's Talking About It)",
-      "why_now": "A sweeping security audit just surfaced thousands of findings across Bitcoin infrastructure, landing right after the worst hack month of the year — a rare chance to quantify the rot instead of just reacting to headlines.",
-      "angle": "Deep-dive breakdown of the audit's findings by severity/category, framed as 'the vulnerabilities were already there before Coldcard confirmed it.'",
-      "source": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit"
+      "title": "Coldcard Hackers Just Told You How Confident They Are: 64 BTC and 200 ETH Straight Into Mixers",
+      "why_now": "The attackers moved the stolen funds to mixers within days of the exploit going public, giving a live case study in post-hack laundering speed and on-chain forensics.",
+      "angle": "On-chain trace breakdown: what the mixer routing reveals about attacker sophistication and whether Chainalysis-style tracing (see their Bybit/Penlink work) can still catch it.",
+      "source": "https://cointelegraph.com/news/coldcard-hackers-64-btc-200-eth-cryptocurrency-mixers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Bybit Got a Court Order to Trace $1.5B From Lazarus Group — the Coldcard Hackers Just Sent Theirs to a Mixer Anyway",
-      "why_now": "Two parallel stories this week show the full spectrum of stolen-funds outcomes: legal wins for the biggest hack ever, and mixers swallowing the newest one in real time.",
-      "angle": "Side-by-side 'already priced' take on why court orders rarely outrun mixers — use both stories to make the cynical point that tracing tech and legal tools are still losing the speed game.",
-      "source": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack"
+      "title": "Crypto's Physical Security Problem Just Got a Price Tag: $30M in Wrench Attacks, France Now a Hotspot",
+      "why_now": "Chainalysis just quantified violent crypto attacks in 2026 at $30M with France emerging as a new hotspot, turning a scary anecdote trend into hard data.",
+      "angle": "Opsec explainer: self-custody's real threat model isn't just malware, it's a wrench and your address history — practical steps to reduce visible wealth signals.",
+      "source": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/"
     },
     {
-      "title": "Fake CAPTCHAs Are Now a BNB Chain Malware Delivery System — Yes, Really",
-      "why_now": "A fresh malware campaign is abusing fake CAPTCHA prompts specifically routed through BNB Chain infrastructure, a novel enough vector to warrant a specific warning post.",
-      "angle": "Explainer/warning post breaking down how the fake-CAPTCHA-to-wallet-drain chain works, with a screenshot-style walkthrough of red flags to spot before clicking 'I'm not a robot.'",
-      "source": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas"
+      "title": "AI Is Now Finding Bitcoin's Bugs Before Humans Do — That's Not Entirely Good News",
+      "why_now": "A Bitcoin red team just went on record saying AI tooling is surfacing critical exploits across core projects, right as Coldcard and BTCPay incidents show attackers are already ahead.",
+      "angle": "Dual-use tooling analysis: if AI is finding these bugs for defenders, it's finding them for attackers too — what that means for the pace of infrastructure hacks going forward.",
+      "source": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"
     }
   ]
 }

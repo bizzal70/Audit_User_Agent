@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-08T11:08:58+00:00",
+  "generated": "2026-08-09T11:09:14+00:00",
   "opportunities": [
     {
-      "title": "N-able's 'God Mode' Flaw Wasn't Theoretical: Attackers Already Inside, Hotfix #2 Ships",
-      "why_now": "Vendor just confirmed real customer network compromise and shipped a second hotfix, proving the first patch wasn't enough — classic inevitable-breach patch-cadence failure.",
-      "angle": "Timeline breakdown: disclosure → hotfix 1 → confirmed breach → hotfix 2, with a 'what to check right now' checklist for N-central admins",
+      "title": "N-able's 'God Mode' Flaw: Two Hotfixes Later, Attackers Are Still Inside Customer Networks",
+      "why_now": "Vendor just confirmed active exploitation reached customer environments even after a second emergency patch, making this the week's clearest MSP supply-chain fire.",
+      "angle": "Breach timeline + patch-cadence scorecard: what happened, who's exposed, what to check right now",
       "source": "https://www.theregister.com/networks/2026/08/07/n-able-god-mode-flaw-vendor-confirms-attackers-reached-customer-networks-as-second-hotfix-lands/5284730"
     },
     {
-      "title": "Metabase's Zero-Day Is Live in the Wild — No Login Required, Full Admin Access",
-      "why_now": "An unauthenticated admin-access zero-day is being actively exploited right now, making this a same-week patch-or-get-owned scenario.",
-      "angle": "Rapid-fire CVE brief: what the flaw does, who's exploiting it, and the exact patch/mitigation steps — built for the 'patch cadence' recurring format",
+      "title": "Forget the CEO: Ransomware Crews Are Hunting Your 40-Something IT Manager",
+      "why_now": "Fresh Register reporting flips the usual whaling narrative and gives a concrete, memeable threat-actor targeting shift.",
+      "angle": "Threat-actor profile piece with practical 'who's actually at risk' framing for security teams",
+      "source": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499"
+    },
+    {
+      "title": "Metabase Zero-Day Lets Anyone Become Admin — No Login Required, and It's Already Being Exploited",
+      "why_now": "Confirmed in-the-wild exploitation of an unauthenticated admin-access bug is exactly the urgent, patch-now story this beat thrives on.",
+      "angle": "CVE breakdown + exploitation evidence + immediate mitigation checklist",
       "source": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html"
     },
     {
-      "title": "792 Exploit Attempts Later, Progress Kemp LoadMaster Finally Lands on CISA's KEV List",
-      "why_now": "CISA only added it to the Known Exploited Vulnerabilities catalog after nearly 800 real-world exploit attempts were logged — a perfect case study in reactive patch cadence.",
-      "angle": "Data-driven post: chart the exploit-attempt count against CISA's KEV timeline to illustrate the 'patch lag = breach window' thesis",
+      "title": "792 Exploit Attempts Later, CISA Finally Adds Kemp LoadMaster to the KEV List",
+      "why_now": "A concrete exploit-attempt count plus a fresh KEV addition is a perfect patch-cadence data point for the digest.",
+      "angle": "KEV-list tracker format: timeline from disclosure to active exploitation to federal mandate",
       "source": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"
     },
     {
-      "title": "800 Malicious npm Packages Later: Your Build Pipeline Is Already Compromised",
-      "why_now": "Nearly 800 packages delivering RATs and infostealers were just found squatting in npm, hitting cross-platform dev environments at scale.",
-      "angle": "Supply-chain breach digest: how the packages got in, what they steal, and a dependency-audit checklist for teams to run today",
-      "source": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html"
-    },
-    {
-      "title": "Ransomware Is Spiking While Everyone's Watching the AI Show",
-      "why_now": "New data shows ransomware attacks climbing precisely while security attention and headlines are consumed by AI hype — a direct hit for an 'inevitable breach' framing.",
-      "angle": "Trend piece with numbers: pair the ransomware spike stat with recent breach items (IEH Corp phishing, Unlimited Technology's 3.8M-record breach) to argue attention is the real vulnerability",
-      "source": "https://www.theregister.com/security/2026/08/07/ransomware-attacks-spike-as-world-distracted-by-ai/5284934"
+      "title": "The Snowflake Extortion Saga Finally Gets a Guilty Plea — Here's What It Confirms",
+      "why_now": "The Canadian suspect's guilty plea closes the loop on one of the year's biggest breach stories and lets us recap what actually happened.",
+      "angle": "Retrospective explainer tying the plea back to the original mass breach and its victims",
+      "source": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/"
     }
   ]
 }

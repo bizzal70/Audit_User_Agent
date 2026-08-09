@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-08T11:08:58+00:00",
+  "generated": "2026-08-09T11:09:14+00:00",
   "opportunities": [
     {
-      "title": "Gen Con Hits 74,000 — Here's the Readied Action Ruling That Still Wrecks Organized Play Tables",
-      "why_now": "Gen Con's record attendance means more tables running AL/organized play this week, and readied actions are the #1 misplayed interrupt.",
-      "angle": "30-sec mechanical breakdown: Ready an Action vs. reaction timing, with the RAW text on-screen and a wrong-vs-right table example.",
-      "source": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/"
-    },
-    {
-      "title": "Diana Jones Winner Is a Toy Store — So Let's Actually Fix Mimic Tactics",
-      "why_now": "Mischief Toy Store just won 2026's Diana Jones Award, giving a clean pun hook for a creature-tactics short.",
-      "angle": "Creature tactic short: correct Mimic action economy (Adhesive + Grapple + Pseudopod) and why most DMs let it move-and-attack wrong.",
-      "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
-    },
-    {
-      "title": "ENnies Just Handed Out Trophies — Here's the Spell Interaction Every Award Adventure Gets Wrong",
-      "why_now": "ENnies winners dropped this week and fans are combing through the winning modules, a natural traffic spike to ride.",
-      "angle": "Spell use-case short on Silence vs. Counterspell/Concentration triggers, framed as 'even the best-written adventures fumble this.'",
+      "title": "The ENnies Just Crowned Its Winners — Here's the One Ruling Half of Them Get Wrong",
+      "why_now": "The 2026 ENnies winners were announced this week, giving instant relevance to a rules-ruling breakdown pulled from a winning book's featured mechanic.",
+      "angle": "60-sec 'ruling of the day' — pick a mechanic from a Best Adventure/Best Rules winner, show the RAW ruling GMs botch, fix it on camera.",
       "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
     },
     {
-      "title": "'Give Creators Credit' Is Trending — So Let's Credit the Community Ruling That Fixed Ranger's Favored Enemy",
-      "why_now": "EN World's creator-credit piece has the design community talking about attribution this week, a good peg for crediting a fan-sourced fix.",
-      "angle": "Wry veteran-GM bit: walk through the community houserule that patches Favored Enemy's weak RAW text, tagged as 'crediting where it's due.'",
+      "title": "Mischief Toy Store Just Won the Diana Jones Award — Here's a Shadowdark Version That'll Kill Your Party",
+      "why_now": "The Diana Jones Award (industry's top prize) just went to Mischief Toy Store, making it the buzziest module GMs will be Googling this week.",
+      "angle": "Creature/encounter tactic short: convert the toy-store concept into a Shadowdark hazard room with a specific trap DC and monster behavior.",
+      "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
+    },
+    {
+      "title": "Publishers Want Better Creator Credit — So Let's Talk About Who Actually 'Homebrewed' Fireball's Errata",
+      "why_now": "EN World's piece on creator-credit practices is fresh industry discourse GMs and homebrewers are debating right now.",
+      "angle": "Dry veteran-GM rant format: trace a popular 'homebrew fix' back to its real DCC/5e source and call out the credit-stealing.",
       "source": "https://www.enworld.org/threads/giving-creators-their-due-credit-better-practices-for-publishers-awards-and-media.720213/"
     },
     {
-      "title": "This Week in Tabletop News: The One Rule Every Table Argued About at Gen Con",
-      "why_now": "The Aug 7 news digest rounds up a week of tabletop chatter, perfect springboard for a 'most-debated rule of the week' recurring segment.",
-      "angle": "Quick-hit format: cold open with the digest as a newsy hook, then deliver a single crunchy ruling (e.g., grapple + shove combo) as the payoff.",
+      "title": "This Week in 5e News: What the ENnies Wins Actually Mean for Your Table",
+      "why_now": "The EN World Aug 7 news digest rounds up a slate of award news that tabletop viewers will want distilled into 'so what do I do with this.'",
+      "angle": "Quick digest-style short: 3 winners, 3 one-line takeaways on what mechanic/spell/monster to steal for your own campaign.",
       "source": "https://www.enworld.org/threads/news-digest-for-august-7-2026.720215/"
+    },
+    {
+      "title": "Award-Winning Doesn't Mean Balanced: Grading This Year's ENnies Nominees on Action Economy",
+      "why_now": "With ENnies winners fresh in the news cycle, there's a clear timely hook to critique the crunch of celebrated releases before hype settles.",
+      "angle": "Wry mechanical breakdown: pick one winning subclass/monster and run the numbers on whether it actually holds up at the table.",
+      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
     }
   ]
 }
