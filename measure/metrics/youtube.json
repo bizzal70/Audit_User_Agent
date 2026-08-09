@@ -2624,5 +2624,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-09",
+    "videos": [
+      {
+        "id": "Qv58dI2FjvE",
+        "title": "Coordinate Frog Rain with movement spells #shadowdark",
+        "published": "2026-08-09",
+        "views": 401,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "QuUnrkhe3Rw",
+        "title": "Frog Rain: Strategic Use of a Near Cube at Far Range #shadowdark",
+        "published": "2026-08-09",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "BC5Gzjl1bRo",
+        "title": "Turn Undead functions as a spell but doesn't count toward known spells #shadowdark",
+        "published": "2026-08-08",
+        "views": 21,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "sToNaldwCUk",
+        "title": "The Crossbow Bolt Case holds exactly 20 bolts #dnd5e",
+        "published": "2026-08-08",
+        "views": 138,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "Z3YDV-KUkb4",
+        "title": "Skill Checks: An untrained Skill Check only rolls 1d10 #dcc",
+        "published": "2026-08-08",
+        "views": 28,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "70div-RcvsE",
+        "title": "Frog Rain can hit allies too #shadowdark",
+        "published": "2026-08-07",
+        "views": 277,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "rvIw_pCfSG4",
+        "title": "Giant Bat's near flying movement allows it to reposition and strike before most #shadowdark",
+        "published": "2026-08-07",
+        "views": 47,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "JCl7YVclhJo",
+        "title": "Ability Checks resolve with a single roll and a single ruling #dnd5e",
+        "published": "2026-08-07",
+        "views": 117,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "K0VxCFLduLI",
+        "title": "Wizards lose a spell permanently on a natural 1 during a spell check #dcc",
+        "published": "2026-08-07",
+        "views": 46,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "0FHL4fzrCfs",
+        "title": "Salamander's fire immunity negates fire-based attacks #dcc",
+        "published": "2026-08-06",
+        "views": 426,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "UnlBl-YZcZE",
+        "title": "Priest switches from support to pressure when leveraging Turn Undead after #shadowdark",
+        "published": "2026-08-06",
+        "views": 80,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "iCqtQYJvb3k",
+        "title": "Dominate Monster extends to 8 hours with a 9th-level spell slot #dnd5e",
+        "published": "2026-08-06",
+        "views": 321,
+        "likes": 4,
+        "comments": 2
+      }
+    ]
   }
 ]
