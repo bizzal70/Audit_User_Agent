@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-09T11:09:14+00:00",
+  "generated": "2026-08-10T11:24:03+00:00",
   "plays": [
     {
-      "story": "2026 Diana Jones Award and ENnies winners announced (Mischief Toy Store takes Diana Jones; full ENnies sweep)",
+      "story": "2026 ENnies and Diana Jones Award winners announced, spotlighting standout TTRPG design and storytelling",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Every 2026 ENnies Winner, Ranked by How Fast You Can Get Them to Your Table' — a play-first breakdown of which award-winning titles (starting with Diana Jones winner Mischief Toy Store) are actually worth running this month, not just admiring on a shelf.",
-        "itsalreadywritten": "'What Mischief Toy Store's Diana Jones Win Says About Where TTRPG Design Writing Is Headed' — use the win as a hook to dissect the design text/voice that made judges pick it, framed as a lesson for aspiring RPG writers."
+        "bizzal-games": "'What the 2026 ENnies Actually Reward: 5 Mechanical Innovations Worth Stealing for Your Next Campaign' — break down the winning systems (including Mischief Toy Store's Diana Jones win) as design case studies GMs can raid for house rules.",
+        "itsalreadywritten": "'The Stories That Won: How 2026's Diana Jones & ENnies Picks Redefine TTRPG Narrative Craft' — dig into what the winning settings/adventures say about where tabletop storytelling is heading, tying in the parallel EN World piece on creator credit practices."
       },
-      "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
+      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
     },
     {
-      "story": "EN World's new industry piece on giving TTRPG creators proper credit in publishing, awards, and media",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Who Actually Designed That Mechanic? The TTRPG Industry's New Push for Credit Where It's Due' — spin as consumer-facing: how to find out who really built the systems in your favorite games.",
-        "itsalreadywritten": "'Bylines Matter: Inside EN World's New Rules for Crediting TTRPG Writers' — a direct-to-freelancers piece on what better credit practices mean for getting paid and recognized in the industry."
-      },
-      "source": "https://www.enworld.org/threads/giving-creators-their-due-credit-better-practices-for-publishers-awards-and-media.720213/"
-    },
-    {
-      "story": "Wave of Bitcoin infrastructure exploits — Coldcard hack pushes July to $247M in losses, and BTCPay restricts remote Lightning access after a separate drain — even as ETFs post best inflow week since April",
+      "story": "BTCPay Server's actively exploited Lightning vulnerability let attackers drain funds, forcing emergency access restrictions",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Coldcard Hackers Drained $247M — So Why Did Bitcoin ETFs Just Post Their Best Week Since April?' — dig into the disconnect analysts are flagging between security disasters and institutional inflows.",
-        "itsalreadywhen": "'BTCPay Just Locked Down Remote Lightning Access After Attackers Drained Merchant Nodes — Here's the Exploit Chain' — technical postmortem on how the Lightning payment servers were hit and what self-custody users need to patch now."
+        "itsalreadypriced": "'Self-Custody's Achilles Heel: BTCPay's Lightning Hack and What It Costs Merchants Who Skip Exchanges' — frame it as a self-custody risk-premium story right as ETF inflows hit $1B and downside-protection costs spike.",
+        "itsalreadywhen": "'Inside the BTCPay Lightning Exploit: Timeline of an Actively-Exploited Vuln, From Warning to Lockdown' — technical postmortem tying the earlier 'actively exploited' warning to the emergency remote-access restriction."
       },
-      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "Coldcard exploit reignites debate over private-key custody, while hardware wallet sales in Russia more than double ahead of new crypto rules",
+      "story": "Malicious 'Solidity Pro' VS Code extensions caught stealing crypto wallets, API keys, and credentials from developers",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Hardware Wallet Sales Just Doubled in Russia — Right After a $247M Coldcard Hack' — market/adoption story on how a security disaster is paradoxically driving demand for the exact device category that got exploited.",
-        "itsalreadywhen": "'Crypto's Original Sin: What the Coldcard Exploit Reveals About Private Key Security' — security-analyst deep dive (citing Blockaid's CEO) into why hardware wallets keep failing at the one job they're supposed to do."
+        "itsalreadypriced": "'Your Smart Contract Dev Tool Was a Trojan Horse: How Solidity Pro Malware Targeted Crypto Builders' Wallets' — spotlight the direct wallet-drain angle for token holders and dev-side traders.",
+        "itsalreadywhen": "'Fake Solidity Pro Extensions Are a Supply-Chain Wake-Up Call for Every Dev Toolchain' — pair with the ~800 malicious npm packages story for a broader 'poisoned developer tools' trend piece."
       },
-      "source": "https://www.theblock.co/news/regulation/2026-08-07-coldcard-bitcoin-exploit-crypto-original-sin-private-keys-blockaid-ceo-411160?utm_source=rss&utm_medium=rss"
+      "source": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html"
+    },
+    {
+      "story": "North Korea's Kimsuky group is now integrating AI into cyberattacks specifically targeting crypto exchanges and finance",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Kimsuky 2.0: North Korea's AI-Sharpened Hackers Are Hunting Your Exchange Login' — connect to the Bybit $1.5B trace-fund court win to show the DPRK threat arc from theft to AI-assisted next-gen attacks.",
+        "itsalreadywhen": "'How Kimsuky Weaponized AI: Anatomy of North Korea's Next-Gen Crypto-Targeting Toolkit' — technical breakdown of the AI tooling, framed alongside OpenAI/Anthropic's own AI-security scramble."
+      },
+      "source": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss"
     }
   ]
 }

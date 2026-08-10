@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-09T11:09:14+00:00",
+  "generated": "2026-08-10T11:24:03+00:00",
   "opportunities": [
     {
-      "title": "The ENnies Just Crowned Its Winners — Here's the One Ruling Half of Them Get Wrong",
-      "why_now": "The 2026 ENnies winners were announced this week, giving instant relevance to a rules-ruling breakdown pulled from a winning book's featured mechanic.",
-      "angle": "60-sec 'ruling of the day' — pick a mechanic from a Best Adventure/Best Rules winner, show the RAW ruling GMs botch, fix it on camera.",
+      "title": "The Lightning Rod Rule Everyone Houserules Wrong",
+      "why_now": "Sly Flourish just published a fresh breakdown of lightning rod mechanics, giving a ready-made rules-corner topic.",
+      "angle": "60-second ruling short: define what a lightning rod actually redirects (spell vs. environmental effect) and the one edge case that trips up GMs — grounding a metal-armored PC mid-storm.",
+      "source": "https://slyflourish.com/types_of_lightning_rods.html?rss=1"
+    },
+    {
+      "title": "War Wizard Subclass: Flashy or Functional?",
+      "why_now": "EN World's fresh Dragonlance War Wizard review gives a timely hook to dissect a brand-new subclass before players start begging to reskin it.",
+      "angle": "Mechanical breakdown short: pick the subclass's signature feature, run it through a combat scenario, verdict in one line — 'reflavor-worthy or reroll.'",
+      "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
+    },
+    {
+      "title": "This Year's Best ENnies Winner You're Not Running at Your Table",
+      "why_now": "The 2026 ENnies just wrapped, so there's a built-in 'best new supplement' hook while the buzz is fresh.",
+      "angle": "Rapid-fire GM take: pull one mechanically interesting winner and show a table-ready use-case (a monster stat block or magic item pulled straight from the winning book).",
       "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
     },
     {
-      "title": "Mischief Toy Store Just Won the Diana Jones Award — Here's a Shadowdark Version That'll Kill Your Party",
-      "why_now": "The Diana Jones Award (industry's top prize) just went to Mischief Toy Store, making it the buzziest module GMs will be Googling this week.",
-      "angle": "Creature/encounter tactic short: convert the toy-store concept into a Shadowdark hazard room with a specific trap DC and monster behavior.",
+      "title": "The One Free PDF From This Week's Bundle Actually Worth Your Download Slot",
+      "why_now": "EN World's weekly freebies/sales roundup just dropped, giving a timely 'grab this before it's gone' angle GMs will click for.",
+      "angle": "Quick-hit resource pick: name the single best free item in the bundle and give one concrete way to drop it into tonight's session (a trap, a stat block, a random table).",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-august-9-2026.720232/"
+    },
+    {
+      "title": "Mischief Toy Store Won Diana Jones — Here's the Actual Design Lesson for Your Table",
+      "why_now": "The Diana Jones Award announcement is fresh industry news and gives cover to talk about a design principle (mischief/toy-like mechanics) GMs can steal.",
+      "angle": "Short GM-craft angle: extract one takeaway from why Mischief Toy Store won (simplicity/tactile mechanics) and translate it into a house rule or encounter gimmick for 5e/Shadowdark.",
       "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
-    },
-    {
-      "title": "Publishers Want Better Creator Credit — So Let's Talk About Who Actually 'Homebrewed' Fireball's Errata",
-      "why_now": "EN World's piece on creator-credit practices is fresh industry discourse GMs and homebrewers are debating right now.",
-      "angle": "Dry veteran-GM rant format: trace a popular 'homebrew fix' back to its real DCC/5e source and call out the credit-stealing.",
-      "source": "https://www.enworld.org/threads/giving-creators-their-due-credit-better-practices-for-publishers-awards-and-media.720213/"
-    },
-    {
-      "title": "This Week in 5e News: What the ENnies Wins Actually Mean for Your Table",
-      "why_now": "The EN World Aug 7 news digest rounds up a slate of award news that tabletop viewers will want distilled into 'so what do I do with this.'",
-      "angle": "Quick digest-style short: 3 winners, 3 one-line takeaways on what mechanic/spell/monster to steal for your own campaign.",
-      "source": "https://www.enworld.org/threads/news-digest-for-august-7-2026.720215/"
-    },
-    {
-      "title": "Award-Winning Doesn't Mean Balanced: Grading This Year's ENnies Nominees on Action Economy",
-      "why_now": "With ENnies winners fresh in the news cycle, there's a clear timely hook to critique the crunch of celebrated releases before hype settles.",
-      "angle": "Wry mechanical breakdown: pick one winning subclass/monster and run the numbers on whether it actually holds up at the table.",
-      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
     }
   ]
 }

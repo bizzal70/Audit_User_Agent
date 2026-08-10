@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-09T11:09:14+00:00",
+  "generated": "2026-08-10T11:24:03+00:00",
   "opportunities": [
     {
-      "title": "ENnies 2026: Every Winner, Ranked by How Much They'll Actually Change Your Rules Table",
-      "why_now": "The full 2026 ENnies winners list just dropped and TTRPG readers want the crunch-relevant picks, not just a list.",
-      "angle": "Ranked breakdown post pulling out Best Rules, Best Supplement, and Product of the Year with a 'will this show up at your table' verdict for each",
+      "title": "War Wizard, Ranked: Does Dragonlance's New Class Actually Change the Math?",
+      "why_now": "A fresh third-party review of the War Wizard class just dropped, giving us a timely hook to break down its rules mechanics before consensus forms.",
+      "angle": "Rules breakdown thread/post dissecting War Wizard's subclass features, spell list overlap, and DPR math vs. existing wizard subclasses",
+      "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
+    },
+    {
+      "title": "Lightning Rods 101: The Sly Flourish Framework for Keeping 5e Combat From Dying",
+      "why_now": "Sly Flourish just published a fresh taxonomy of 'lightning rod' monsters/tactics, a rules-adjacent GM tool ripe for a knowing breakdown.",
+      "angle": "Explainer thread codifying the lightning rod types into a reusable rules-first checklist GMs can apply at the table",
+      "source": "https://slyflourish.com/types_of_lightning_rods.html?rss=1"
+    },
+    {
+      "title": "The 2026 ENnies Winners List, Annotated: What the Rules Actually Reward",
+      "why_now": "The ENnies results just landed, giving us a timely news hook to comment on which mechanically ambitious games won.",
+      "angle": "News recap with rules-first commentary on standout winners' design innovations",
       "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
     },
     {
-      "title": "Mischief Toy Store Takes the Diana Jones Award — Here's the Design Lesson Buried in a 'Toy'",
-      "why_now": "The Diana Jones Award, TTRPG's most respected industry honor, just went to Mischief Toy Store, a pick that rewards design philosophy over crunch.",
-      "angle": "Analysis piece decoding what the award committee's choice signals about where 'good game design' credit is heading",
+      "title": "Mischief Toy Store Wins Diana Jones: What Makes Its Rules Worth Studying",
+      "why_now": "The Diana Jones Award, TTRPG's most prestigious industry honor, just went to Mischief Toy Store, a fresh news peg for a design-focused deep dive.",
+      "angle": "Short analysis piece unpacking the mechanics that earned the award, framed as 'the rules that won'",
       "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
     },
     {
-      "title": "Who Actually Wrote That Rule? EN World's New Creator-Credit Guidelines, Explained",
-      "why_now": "EN World just published concrete better-practice recommendations for crediting creators, directly touching how rules and mechanics get attributed in future publications.",
-      "angle": "Explainer/reaction thread breaking down the proposed credit practices and what publishers should adopt immediately",
+      "title": "Who Actually Wrote That Rule? The Creator-Credit Debate Publishers Can't Dodge",
+      "why_now": "EN World's new piece on creator credit practices is a timely industry-news hook for our rules-first, knowing voice to weigh in on attribution in rulebooks.",
+      "angle": "Opinion/news commentary connecting credit practices to specific rules text and design credits readers may not know",
       "source": "https://www.enworld.org/threads/giving-creators-their-due-credit-better-practices-for-publishers-awards-and-media.720213/"
-    },
-    {
-      "title": "August 7 News Digest, Fact-Checked: What's Actually Confirmed vs. Rumor",
-      "why_now": "A fresh EN World news digest just dropped bundling multiple TTRPG stories, giving a same-day chance to separate confirmed rules/announcements from speculation.",
-      "angle": "Rules-first fact-check thread on X walking through each digest item with a confirmed/unconfirmed tag",
-      "source": "https://www.enworld.org/threads/news-digest-for-august-7-2026.720215/"
-    },
-    {
-      "title": "The ENnies' Credit Problem: Why Award Categories Still Undercount the Rules Designers",
-      "why_now": "The same week EN World both announced ENnies winners and published new creator-credit guidelines, exposing a direct tension worth naming.",
-      "angle": "Opinion/analysis piece cross-referencing the ENnies winner list against the new credit-practice recommendations to show gaps",
-      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-09T11:09:14+00:00",
+  "generated": "2026-08-10T11:24:03+00:00",
   "opportunities": [
     {
-      "title": "N-able's 'God Mode' Flaw: Two Hotfixes Later, Attackers Are Still Inside Customer Networks",
-      "why_now": "Vendor just confirmed active exploitation reached customer environments even after a second emergency patch, making this the week's clearest MSP supply-chain fire.",
-      "angle": "Breach timeline + patch-cadence scorecard: what happened, who's exposed, what to check right now",
+      "title": "Metabase's Zero-Day Streak: How an Unauthenticated SQLi Emptied Framework's Customer Database",
+      "why_now": "A live, unauthenticated admin-bypass zero-day in Metabase is actively being exploited across multiple victims (Framework, Tally) right as the patch drops, making it the week's clearest patch-cadence failure.",
+      "angle": "Breach timeline + patch-now checklist: what the flaw does, who's confirmed hit, and the exact version to update to before the next scanner sweep finds you",
+      "source": "https://www.theregister.com/personal-tech/2026/08/10/framework-loses-customer-data-in-metabase-zero-day-attack/5285302"
+    },
+    {
+      "title": "792 Exploit Attempts and Counting: Progress LoadMaster Joins CISA's 'Patch or Get Owned' List",
+      "why_now": "CISA just added the actively-exploited LoadMaster flaw to KEV with a hard federal deadline, and the exploit-attempt count is escalating in near real time.",
+      "angle": "CVE deep-dive with the KEV deadline countdown, exploit telemetry, and a one-line mitigation for teams who can't patch today",
+      "source": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/"
+    },
+    {
+      "title": "N-able's 'God Mode' Bug, Hotfix #2: Why the Second Patch Matters More Than the First",
+      "why_now": "N-able just confirmed attackers actually reached customer networks through the flaw and shipped a second hotfix, signaling the first patch didn't fully close the door.",
+      "angle": "MSP supply-chain risk explainer: what changed between hotfix 1 and 2, and why every downstream customer needs to re-verify, not just re-patch",
       "source": "https://www.theregister.com/networks/2026/08/07/n-able-god-mode-flaw-vendor-confirms-attackers-reached-customer-networks-as-second-hotfix-lands/5284730"
     },
     {
-      "title": "Forget the CEO: Ransomware Crews Are Hunting Your 40-Something IT Manager",
-      "why_now": "Fresh Register reporting flips the usual whaling narrative and gives a concrete, memeable threat-actor targeting shift.",
-      "angle": "Threat-actor profile piece with practical 'who's actually at risk' framing for security teams",
+      "title": "The Private APN Trick: How Hackers Sabotaged a Second Polish Power Facility Without Touching the Internet",
+      "why_now": "This is a genuinely novel ICS attack vector—pivoting through private cellular APNs to hit a second energy facility—that breaks the 'just air-gap it' assumption security teams rely on.",
+      "angle": "Technical breakdown of the APN pivot technique with a 'this changes your OT threat model' framing for infrastructure defenders",
+      "source": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/"
+    },
+    {
+      "title": "Ransomware Gangs Now Skip the CEO — They Want Your 40-Year-Old IT Manager Instead",
+      "why_now": "Fresh intel shows attackers deliberately re-targeting mid-level IT staff over executives, a tactical shift that most phishing-awareness programs aren't trained for yet.",
+      "angle": "Threat-actor profile piece: why IT managers are the new highest-value phishing target, with the specific pretexts gangs are using",
       "source": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499"
-    },
-    {
-      "title": "Metabase Zero-Day Lets Anyone Become Admin — No Login Required, and It's Already Being Exploited",
-      "why_now": "Confirmed in-the-wild exploitation of an unauthenticated admin-access bug is exactly the urgent, patch-now story this beat thrives on.",
-      "angle": "CVE breakdown + exploitation evidence + immediate mitigation checklist",
-      "source": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html"
-    },
-    {
-      "title": "792 Exploit Attempts Later, CISA Finally Adds Kemp LoadMaster to the KEV List",
-      "why_now": "A concrete exploit-attempt count plus a fresh KEV addition is a perfect patch-cadence data point for the digest.",
-      "angle": "KEV-list tracker format: timeline from disclosure to active exploitation to federal mandate",
-      "source": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"
-    },
-    {
-      "title": "The Snowflake Extortion Saga Finally Gets a Guilty Plea — Here's What It Confirms",
-      "why_now": "The Canadian suspect's guilty plea closes the loop on one of the year's biggest breach stories and lets us recap what actually happened.",
-      "angle": "Retrospective explainer tying the plea back to the original mass breach and its victims",
-      "source": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/"
     }
   ]
 }

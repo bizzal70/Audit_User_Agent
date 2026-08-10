@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-09T11:09:14+00:00",
+  "generated": "2026-08-10T11:24:03+00:00",
   "opportunities": [
     {
-      "title": "The Market Didn't Blink: $1B Flowed Into Bitcoin ETFs the Same Week Coldcard Got Drained",
-      "why_now": "ETFs just posted their best inflow week since April in the immediate aftermath of a $247M hardware wallet exploit, and even Bloomberg can't tie them together — that disconnect is the whole thesis of this channel.",
-      "angle": "Markets-meets-security op-ed: security incidents no longer move price, institutional flows have priced out retail panic — with the Coldcard timeline as Exhibit A.",
-      "source": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "BTCPay Told You Twice: Patch or Get Drained — Same Flaw, Two News Cycles",
+      "why_now": "BTCPay warned of an actively exploited vulnerability on Aug 7, then had to restrict remote Lightning access by Aug 9 after attackers actually stole funds — a live, unfolding self-custody breach.",
+      "angle": "Timeline breakdown: disclosure → exploitation → emergency mitigation, with a 'why self-hosted Lightning nodes are a soft target' framing and concrete hardening checklist",
+      "source": "https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw"
     },
     {
-      "title": "Self-Custody Just Had Its Worst Month: Coldcard + BTCPay Prove 'Not Your Keys' Isn't Enough",
-      "why_now": "Coldcard's exploit made July the second-worst month of 2026 for losses, and days later BTCPay's Lightning nodes got actively drained too — two pillars of the sovereignty stack failed in the same week.",
-      "angle": "Incident post-mortem tying both hacks together: hardware wallets and self-hosted payment infra both got popped, so what's actually left of the 'not your keys, not your coins' promise.",
-      "source": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Quantum Computers Won't Announce Themselves — Your Wallet Will Just Look Hacked",
+      "why_now": "A Quantus founder is warning that crypto's first real quantum attack will be indistinguishable from ordinary key theft, meaning it may already be happening undetected.",
+      "angle": "Explainer/opinion on how attribution failure is the actual threat model — tie to 'already know how this ends' thesis that legacy ECDSA wallets are sitting ducks",
+      "source": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder"
     },
     {
-      "title": "Coldcard Hackers Just Told You How Confident They Are: 64 BTC and 200 ETH Straight Into Mixers",
-      "why_now": "The attackers moved the stolen funds to mixers within days of the exploit going public, giving a live case study in post-hack laundering speed and on-chain forensics.",
-      "angle": "On-chain trace breakdown: what the mixer routing reveals about attacker sophistication and whether Chainalysis-style tracing (see their Bybit/Penlink work) can still catch it.",
-      "source": "https://cointelegraph.com/news/coldcard-hackers-64-btc-200-eth-cryptocurrency-mixers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Kimsuky's AI Upgrade Is the Nation-State Threat Model You Should Be Pricing In",
+      "why_now": "North Korea's Kimsuky group has confirmed it's integrating AI into attacks on crypto and finance targets, escalating an already dominant hacking operation days after the Bybit court ruling on the $1.5B DPRK heist.",
+      "angle": "Threat-actor profile + market angle: what AI-accelerated DPRK tooling means for exchange/custody risk premiums going forward",
+      "source": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss"
     },
     {
-      "title": "Crypto's Physical Security Problem Just Got a Price Tag: $30M in Wrench Attacks, France Now a Hotspot",
-      "why_now": "Chainalysis just quantified violent crypto attacks in 2026 at $30M with France emerging as a new hotspot, turning a scary anecdote trend into hard data.",
-      "angle": "Opsec explainer: self-custody's real threat model isn't just malware, it's a wrench and your address history — practical steps to reduce visible wealth signals.",
-      "source": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/"
+      "title": "Bitcoin's Top Red Teamer Just Switched to Chinese AI — and Called It Gutting",
+      "why_now": "The founder of Bitcoin Red Team publicly admitted turning to Chinese AI tools for vulnerability research, a stark signal about where offensive security capability is actually concentrated.",
+      "angle": "Op-ed on the irony/security implications: US-led open-source Bitcoin security research now dependent on adversarial-nation AI, paired with the parallel story that AI is already surfacing critical exploits across core projects",
+      "source": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai"
     },
     {
-      "title": "AI Is Now Finding Bitcoin's Bugs Before Humans Do — That's Not Entirely Good News",
-      "why_now": "A Bitcoin red team just went on record saying AI tooling is surfacing critical exploits across core projects, right as Coldcard and BTCPay incidents show attackers are already ahead.",
-      "angle": "Dual-use tooling analysis: if AI is finding these bugs for defenders, it's finding them for attackers too — what that means for the pace of infrastructure hacks going forward.",
-      "source": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"
+      "title": "Fake CAPTCHAs on BNB Chain: The Oldest Trick Still Draining Wallets in 2026",
+      "why_now": "Hackers are actively using BNB Chain infrastructure to distribute malware disguised as CAPTCHA verification, a low-tech social-engineering vector still succeeding against sophisticated users.",
+      "angle": "Quick-hit security explainer/screenshot breakdown for X thread: how the fake CAPTCHA flow works and the exact clicks that lead to drainer approval",
+      "source": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas"
     }
   ]
 }
