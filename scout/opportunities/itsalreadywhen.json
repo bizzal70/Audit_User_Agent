@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-10T11:24:03+00:00",
+  "generated": "2026-08-11T11:17:00+00:00",
   "opportunities": [
     {
-      "title": "Metabase's Zero-Day Streak: How an Unauthenticated SQLi Emptied Framework's Customer Database",
-      "why_now": "A live, unauthenticated admin-bypass zero-day in Metabase is actively being exploited across multiple victims (Framework, Tally) right as the patch drops, making it the week's clearest patch-cadence failure.",
-      "angle": "Breach timeline + patch-now checklist: what the flaw does, who's confirmed hit, and the exact version to update to before the next scanner sweep finds you",
+      "title": "Iran-Linked Hackers Are Quietly Draining US Water Utilities — NJ and Alabama Just Joined the List",
+      "why_now": "Multistate water system attacks are widening with suspected Iranian involvement, turning a slow-burn ICS story into a breaking national-security thread.",
+      "angle": "Rolling incident tracker: map which states/utilities are hit, what OT protocol was abused, and what DEF CON's new defensive tooling actually does about it.",
+      "source": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected"
+    },
+    {
+      "title": "The Metabase Zero-Day Nobody Patched in Time: Framework's Customer Data Is Now Someone Else's Problem",
+      "why_now": "A live zero-day in a widely-deployed BI tool just burned a hardware vendor's customer data, and the patch only landed after exploitation began.",
+      "angle": "Patch-cadence postmortem: timeline from zero-day discovery to Framework breach to official fix, with a 'check if you're exposed' checklist for Metabase admins.",
       "source": "https://www.theregister.com/personal-tech/2026/08/10/framework-loses-customer-data-in-metabase-zero-day-attack/5285302"
     },
     {
-      "title": "792 Exploit Attempts and Counting: Progress LoadMaster Joins CISA's 'Patch or Get Owned' List",
-      "why_now": "CISA just added the actively-exploited LoadMaster flaw to KEV with a hard federal deadline, and the exploit-attempt count is escalating in near real time.",
-      "angle": "CVE deep-dive with the KEV deadline countdown, exploit telemetry, and a one-line mitigation for teams who can't patch today",
-      "source": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/"
+      "title": "Hackers Shut Down a Polish Power Plant Turbine — Through a Cell Network Nobody Was Watching",
+      "why_now": "A private APN/cellular breach that physically halted a turbine is a rare confirmed OT-to-physical-impact incident, and details just surfaced a year later.",
+      "angle": "Deep-dive explainer on private cellular network attack surface in critical infrastructure — the overlooked ICS entry point everyone assumed was air-gapped.",
+      "source": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/"
     },
     {
-      "title": "N-able's 'God Mode' Bug, Hotfix #2: Why the Second Patch Matters More Than the First",
-      "why_now": "N-able just confirmed attackers actually reached customer networks through the flaw and shipped a second hotfix, signaling the first patch didn't fully close the door.",
-      "angle": "MSP supply-chain risk explainer: what changed between hotfix 1 and 2, and why every downstream customer needs to re-verify, not just re-patch",
-      "source": "https://www.theregister.com/networks/2026/08/07/n-able-god-mode-flaw-vendor-confirms-attackers-reached-customer-networks-as-second-hotfix-lands/5284730"
+      "title": "Gunra Ransomware Is Chaining Fortinet and Schneider Electric Bugs — Your Patch Backlog Is the Attack Path",
+      "why_now": "US and South Korea just issued a joint advisory as Gunra actively exploits known Fortinet/Schneider flaws against government and critical infrastructure targets.",
+      "angle": "CVE-to-breach chain breakdown: list the specific Fortinet/Schneider CVEs being exploited, patch status, and why 'checklist' patching keeps failing (tie into Dark Reading's patch-chains piece).",
+      "source": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html"
     },
     {
-      "title": "The Private APN Trick: How Hackers Sabotaged a Second Polish Power Facility Without Touching the Internet",
-      "why_now": "This is a genuinely novel ICS attack vector—pivoting through private cellular APNs to hit a second energy facility—that breaks the 'just air-gap it' assumption security teams rely on.",
-      "angle": "Technical breakdown of the APN pivot technique with a 'this changes your OT threat model' framing for infrastructure defenders",
-      "source": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/"
-    },
-    {
-      "title": "Ransomware Gangs Now Skip the CEO — They Want Your 40-Year-Old IT Manager Instead",
-      "why_now": "Fresh intel shows attackers deliberately re-targeting mid-level IT staff over executives, a tactical shift that most phishing-awareness programs aren't trained for yet.",
-      "angle": "Threat-actor profile piece: why IT managers are the new highest-value phishing target, with the specific pretexts gangs are using",
-      "source": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499"
+      "title": "Your SIM Card Can Now Be Weaponized to Downgrade Your Phone to 2G and Wipe Your Files",
+      "why_now": "A fresh malicious-SIM technique lets attackers force devices back to insecure 2G and remotely brick or exfiltrate data — a novel, consumer-relevant threat vector just disclosed.",
+      "angle": "Explainer + threat-actor speculation piece: who'd use this (SIM-swap gangs? nation-states?) and what carriers/users can actually do to detect a malicious SIM before it strikes.",
+      "source": "https://www.theregister.com/security/2026/08/11/malicious-sims-can-shut-down-phones-steal-files-and-drag-5g-back-to-2g/5285482"
     }
   ]
 }

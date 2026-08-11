@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-10T11:24:03+00:00",
+  "generated": "2026-08-11T11:17:00+00:00",
   "opportunities": [
     {
-      "title": "BTCPay Told You Twice: Patch or Get Drained — Same Flaw, Two News Cycles",
-      "why_now": "BTCPay warned of an actively exploited vulnerability on Aug 7, then had to restrict remote Lightning access by Aug 9 after attackers actually stole funds — a live, unfolding self-custody breach.",
-      "angle": "Timeline breakdown: disclosure → exploitation → emergency mitigation, with a 'why self-hosted Lightning nodes are a soft target' framing and concrete hardening checklist",
-      "source": "https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw"
-    },
-    {
-      "title": "Quantum Computers Won't Announce Themselves — Your Wallet Will Just Look Hacked",
-      "why_now": "A Quantus founder is warning that crypto's first real quantum attack will be indistinguishable from ordinary key theft, meaning it may already be happening undetected.",
-      "angle": "Explainer/opinion on how attribution failure is the actual threat model — tie to 'already know how this ends' thesis that legacy ECDSA wallets are sitting ducks",
+      "title": "Crypto's First Quantum Hack Won't Announce Itself — It'll Just Look Like a Stolen Key",
+      "why_now": "A Quantus founder is warning that quantum theft will be indistinguishable from ordinary key compromise, right as the industry treats quantum risk as science fiction.",
+      "angle": "Explainer/thesis piece connecting the quantum warning to real 'unexplained' wallet drains — end with a checklist of what would actually look different forensically.",
       "source": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder"
     },
     {
-      "title": "Kimsuky's AI Upgrade Is the Nation-State Threat Model You Should Be Pricing In",
-      "why_now": "North Korea's Kimsuky group has confirmed it's integrating AI into attacks on crypto and finance targets, escalating an already dominant hacking operation days after the Bybit court ruling on the $1.5B DPRK heist.",
-      "angle": "Threat-actor profile + market angle: what AI-accelerated DPRK tooling means for exchange/custody risk premiums going forward",
-      "source": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss"
+      "title": "The Coldcard Hack Is Solved by Chain Forensics, Not Better Hardware",
+      "why_now": "New reporting details exactly how investigators traced the stolen Coldcard funds, offering a rare inside look at post-breach recovery mechanics.",
+      "angle": "Breakdown/explainer of the tracing methodology, framed as 'here's what actually happens after your hardware wallet gets popped' — pairs incident detail with hard lessons on custody.",
+      "source": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin"
     },
     {
-      "title": "Bitcoin's Top Red Teamer Just Switched to Chinese AI — and Called It Gutting",
-      "why_now": "The founder of Bitcoin Red Team publicly admitted turning to Chinese AI tools for vulnerability research, a stark signal about where offensive security capability is actually concentrated.",
-      "angle": "Op-ed on the irony/security implications: US-led open-source Bitcoin security research now dependent on adversarial-nation AI, paired with the parallel story that AI is already surfacing critical exploits across core projects",
-      "source": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai"
+      "title": "BTCPay Just Locked Down Remote Lightning Access — Translation: It Was Always the Weak Point",
+      "why_now": "BTCPay restricted remote Lightning access and posted a $190K bounty within days of attackers draining self-hosted payment servers.",
+      "angle": "Incident postmortem for self-custody infra operators — what changed, why it should've been the default from day one, and a quick self-audit checklist for anyone running BTCPay.",
+      "source": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds"
     },
     {
-      "title": "Fake CAPTCHAs on BNB Chain: The Oldest Trick Still Draining Wallets in 2026",
-      "why_now": "Hackers are actively using BNB Chain infrastructure to distribute malware disguised as CAPTCHA verification, a low-tech social-engineering vector still succeeding against sophisticated users.",
-      "angle": "Quick-hit security explainer/screenshot breakdown for X thread: how the fake CAPTCHA flow works and the exact clicks that lead to drainer approval",
-      "source": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas"
+      "title": "Coinsbuy's $8M Breach Across Two Chains Is the Multi-Chain Custody Problem Nobody Wants to Solve",
+      "why_now": "Coinsbuy confirmed wallets were drained across two blockchains and is now offering a $100K reward, a live case study in cross-chain custodial failure.",
+      "angle": "Analysis piece on why multi-chain support multiplies attack surface for exchanges, using Coinsbuy as the cautionary example — tie to broader exchange security posture.",
+      "source": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m"
+    },
+    {
+      "title": "A Bitcoin Wallet Just Woke Up After 12 Years — Cold Storage Was Never 'Set and Forget'",
+      "why_now": "Another long-dormant wallet holding millions just moved, reviving the recurring question of what happens to keys nobody's touched in over a decade.",
+      "angle": "Short, punchy piece on key custody hygiene over long time horizons — inheritance, hardware obsolescence, and why 'buy and forget' is a security anti-pattern, not a strategy.",
+      "source": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years"
     }
   ]
 }

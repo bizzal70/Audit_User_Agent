@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-10T11:24:03+00:00",
+  "generated": "2026-08-11T11:17:00+00:00",
   "opportunities": [
     {
-      "title": "War Wizard, Ranked: Does Dragonlance's New Class Actually Change the Math?",
-      "why_now": "A fresh third-party review of the War Wizard class just dropped, giving us a timely hook to break down its rules mechanics before consensus forms.",
-      "angle": "Rules breakdown thread/post dissecting War Wizard's subclass features, spell list overlap, and DPR math vs. existing wizard subclasses",
+      "title": "Dragonlance: War Wizard — Every New Rule, Subclass, and Mechanic Broken Down",
+      "why_now": "A fresh 5e Dragonlance book review just dropped, and readers want the crunch, not just vibes.",
+      "angle": "Rules-audit format: pull every new subclass/feat/mechanic from the review into a scannable list with 'is it balanced?' verdicts.",
       "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
     },
     {
-      "title": "Lightning Rods 101: The Sly Flourish Framework for Keeping 5e Combat From Dying",
-      "why_now": "Sly Flourish just published a fresh taxonomy of 'lightning rod' monsters/tactics, a rules-adjacent GM tool ripe for a knowing breakdown.",
-      "angle": "Explainer thread codifying the lightning rod types into a reusable rules-first checklist GMs can apply at the table",
+      "title": "Paizo's Missing Inventory: What Diamond's Bankruptcy Actually Means for Your Next Pathfinder Order",
+      "why_now": "Diamond's collapse has been a live supply-chain story, and news that Paizo may recover stock is a concrete update fans are tracking.",
+      "angle": "Explainer/timeline piece translating distribution/legal news into 'what this means for you buying books' facts.",
+      "source": "https://www.enworld.org/threads/paizo-may-finally-get-its-inventory-back-from-bankrupt-diamond.720248/"
+    },
+    {
+      "title": "Gen Con 2026 Awards Recap: Every Winner, Every Category, Ranked by 'Will This Actually Hit Your Table'",
+      "why_now": "The EN World podcast just livestreamed Gen Con's award sweep, giving a fresh, timely list to react to.",
+      "angle": "Rules-first ranking of winning games by mechanical innovation, not just hype.",
+      "source": "https://www.enworld.org/threads/podcast-409-livestream-gen-con-awards-awards-and-more-awards.720236/"
+    },
+    {
+      "title": "Sly Flourish's 'Lightning Rods' Are Just Encounter Design Rules in Disguise — Here's the Framework",
+      "why_now": "Sly Flourish just published a fresh D&D/5e GM technique post that's ripe for a rules-first breakdown.",
+      "angle": "Codify the technique into a repeatable 'rule' format: trigger, procedure, table example.",
       "source": "https://slyflourish.com/types_of_lightning_rods.html?rss=1"
     },
     {
-      "title": "The 2026 ENnies Winners List, Annotated: What the Rules Actually Reward",
-      "why_now": "The ENnies results just landed, giving us a timely news hook to comment on which mechanically ambitious games won.",
-      "angle": "News recap with rules-first commentary on standout winners' design innovations",
-      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
-    },
-    {
-      "title": "Mischief Toy Store Wins Diana Jones: What Makes Its Rules Worth Studying",
-      "why_now": "The Diana Jones Award, TTRPG's most prestigious industry honor, just went to Mischief Toy Store, a fresh news peg for a design-focused deep dive.",
-      "angle": "Short analysis piece unpacking the mechanics that earned the award, framed as 'the rules that won'",
-      "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
-    },
-    {
-      "title": "Who Actually Wrote That Rule? The Creator-Credit Debate Publishers Can't Dodge",
-      "why_now": "EN World's new piece on creator credit practices is a timely industry-news hook for our rules-first, knowing voice to weigh in on attribution in rulebooks.",
-      "angle": "Opinion/news commentary connecting credit practices to specific rules text and design credits readers may not know",
-      "source": "https://www.enworld.org/threads/giving-creators-their-due-credit-better-practices-for-publishers-awards-and-media.720213/"
+      "title": "This Week's Free & Discounted Rulebooks: What's Actually Worth Downloading (Aug 9 Bundle Roundup)",
+      "why_now": "EN World's fresh freebies/sales/charity bundle post is a ready-made list begging for a rules-quality filter.",
+      "angle": "Curated 'top 5 picks' from the bundle list judged purely on rules content quality, not price.",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-august-9-2026.720232/"
     }
   ]
 }

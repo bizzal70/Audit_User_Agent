@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-10T11:24:03+00:00",
+  "generated": "2026-08-11T11:17:00+00:00",
   "plays": [
     {
-      "story": "2026 ENnies and Diana Jones Award winners announced, spotlighting standout TTRPG design and storytelling",
+      "story": "Quantum computing threats to crypto are moving from theory to timeline: Quantus founder warns the first quantum attack on Bitcoin will look like an ordinary key theft, while Python just shipped a working post-quantum encryption library.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'Your Cold Wallet Has an Expiration Date: What the Quantus Founder's Warning Means for BTC Holders' — frame quantum risk as the next macro narrative for bitcoin sentiment, tying it to Vitalik's own quantum-resistance roadmap pivot as proof the smart money is already hedging.",
+        "itsalreadywhen": "Title: 'Post-Quantum Crypto Just Left the Lab: Python's New Library Says the Countdown Has Started' — use the Python library ship date as the hard 'when' marker, contrasting it against warnings that quantum attacks will be indistinguishable from routine key theft until it's too late."
+      },
+      "source": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder"
+    },
+    {
+      "story": "BTCPay Server locks down remote Lightning access after attackers drained funds through it, and the community is now crowdfunding a 3 BTC bounty to recover losses and find the exploit chain.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: '3 BTC and a Broken Promise: What the BTCPay Bounty Says About Self-Custody's Real Cost' — spin as a market/trust story: self-hosted payment infra just proved it's not immune, and that has pricing implications for merchant adoption confidence.",
+        "itsalreadywhen": "Title: 'Remote Access Was the Door They Left Open: Inside the BTCPay Lightning Exploit Timeline' — reconstruct the exposure window from 'feature enabled' to 'funds stolen' to 'access restricted,' the classic cyber postmortem arc."
+      },
+      "source": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds"
+    },
+    {
+      "story": "EN World's review of Dragonlance: War Wizard lands right as the setting's novel-to-tabletop pipeline is back in the spotlight, giving both a mechanics-review angle and a fiction-adaptation angle.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'What the 2026 ENnies Actually Reward: 5 Mechanical Innovations Worth Stealing for Your Next Campaign' — break down the winning systems (including Mischief Toy Store's Diana Jones win) as design case studies GMs can raid for house rules.",
-        "itsalreadywritten": "'The Stories That Won: How 2026's Diana Jones & ENnies Picks Redefine TTRPG Narrative Craft' — dig into what the winning settings/adventures say about where tabletop storytelling is heading, tying in the parallel EN World piece on creator credit practices."
+        "bizzal-games": "Title: 'Dragonlance: War Wizard Review — Is This the Splat Your Table Actually Needs?' — straight mechanics/utility review: what's playable, what's shelf-ware, does it earn a spot at the table this campaign.",
+        "itsalreadywritten": "Title: 'From Weis & Hickman to Your Character Sheet: How War Wizard Translates 40 Years of Dragonlance Fiction Into Crunch' — angle it as a story-to-stats adaptation piece for readers who care about canon fidelity."
       },
-      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
+      "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
     },
     {
-      "story": "BTCPay Server's actively exploited Lightning vulnerability let attackers drain funds, forcing emergency access restrictions",
+      "story": "Paizo may finally recover its inventory from bankrupt distributor Diamond — a supply-chain near-miss that threatened to choke off Pathfinder/Starfinder books at FLGS shelves nationwide.",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "bizzal-games",
+        "itsalreadywritten"
       ],
       "angles": {
-        "itsalreadypriced": "'Self-Custody's Achilles Heel: BTCPay's Lightning Hack and What It Costs Merchants Who Skip Exchanges' — frame it as a self-custody risk-premium story right as ETF inflows hit $1B and downside-protection costs spike.",
-        "itsalreadywhen": "'Inside the BTCPay Lightning Exploit: Timeline of an Actively-Exploited Vuln, From Warning to Lockdown' — technical postmortem tying the earlier 'actively exploited' warning to the emergency remote-access restriction."
+        "bizzal-games": "Title: 'Paizo's Inventory Rescue: What Getting Books Back From Diamond Actually Means for Your FLGS Shelf' — practical angle on availability, restocks, and whether Pathfinder players should expect delays or price bumps this fall.",
+        "itsalreadywritten": "Title: 'The Distributor Apocalypse: How One Bankruptcy Almost Erased a Decade of Pathfinder Lore From Store Shelves' — narrative framing on the fragility of published-world continuity when the supply chain nearly severs reader access to the canon."
       },
-      "source": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "Malicious 'Solidity Pro' VS Code extensions caught stealing crypto wallets, API keys, and credentials from developers",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Your Smart Contract Dev Tool Was a Trojan Horse: How Solidity Pro Malware Targeted Crypto Builders' Wallets' — spotlight the direct wallet-drain angle for token holders and dev-side traders.",
-        "itsalreadywhen": "'Fake Solidity Pro Extensions Are a Supply-Chain Wake-Up Call for Every Dev Toolchain' — pair with the ~800 malicious npm packages story for a broader 'poisoned developer tools' trend piece."
-      },
-      "source": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html"
-    },
-    {
-      "story": "North Korea's Kimsuky group is now integrating AI into cyberattacks specifically targeting crypto exchanges and finance",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Kimsuky 2.0: North Korea's AI-Sharpened Hackers Are Hunting Your Exchange Login' — connect to the Bybit $1.5B trace-fund court win to show the DPRK threat arc from theft to AI-assisted next-gen attacks.",
-        "itsalreadywhen": "'How Kimsuky Weaponized AI: Anatomy of North Korea's Next-Gen Crypto-Targeting Toolkit' — technical breakdown of the AI tooling, framed alongside OpenAI/Anthropic's own AI-security scramble."
-      },
-      "source": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss"
+      "source": "https://www.enworld.org/threads/paizo-may-finally-get-its-inventory-back-from-bankrupt-diamond.720248/"
     }
   ]
 }

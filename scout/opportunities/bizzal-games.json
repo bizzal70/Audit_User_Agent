@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-10T11:24:03+00:00",
+  "generated": "2026-08-11T11:17:00+00:00",
   "opportunities": [
     {
-      "title": "The Lightning Rod Rule Everyone Houserules Wrong",
-      "why_now": "Sly Flourish just published a fresh breakdown of lightning rod mechanics, giving a ready-made rules-corner topic.",
-      "angle": "60-second ruling short: define what a lightning rod actually redirects (spell vs. environmental effect) and the one edge case that trips up GMs — grounding a metal-armored PC mid-storm.",
+      "title": "The 'Lightning Rod' Trick: How to Build a Monster Nobody Wants to Melee",
+      "why_now": "Sly Flourish just published a breakdown of lightning-rod design that's ready-made fodder for a same-day creature-tactic short.",
+      "angle": "60-sec creature tactic: pick a stock monster (e.g. Hobgoblin Devastator), show how to reflavor it as a battlefield lightning rod that punishes clustering, cite the AoE math on-screen.",
       "source": "https://slyflourish.com/types_of_lightning_rods.html?rss=1"
     },
     {
-      "title": "War Wizard Subclass: Flashy or Functional?",
-      "why_now": "EN World's fresh Dragonlance War Wizard review gives a timely hook to dissect a brand-new subclass before players start begging to reskin it.",
-      "angle": "Mechanical breakdown short: pick the subclass's signature feature, run it through a combat scenario, verdict in one line — 'reflavor-worthy or reroll.'",
+      "title": "New GMs Always Skip This Ruling — Here's Why It Bites Them in Session 3",
+      "why_now": "Gnome Stew's beginner-GM piece is trending in GM circles right now, giving a hook to counter-program with a veteran's actual ruling.",
+      "angle": "Dry-voice rebuttal short: take one piece of 'start GMing' advice from the article and show the mechanical ruling it glosses over (e.g. surprise round adjudication).",
+      "source": "https://gnomestew.com/if-you-were-going-to-start-gming/"
+    },
+    {
+      "title": "War Wizard's Signature Spell: Broken at the Table or Just Misread?",
+      "why_now": "The Dragonlance: War Wizard review just dropped, so fans are actively searching for a rules breakdown of its new subclass abilities.",
+      "angle": "Spell/subclass use-case short: run the War Wizard's key spell through a mock combat round, flag the ruling most tables get wrong (concentration/timing).",
       "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
     },
     {
-      "title": "This Year's Best ENnies Winner You're Not Running at Your Table",
-      "why_now": "The 2026 ENnies just wrapped, so there's a built-in 'best new supplement' hook while the buzz is fresh.",
-      "angle": "Rapid-fire GM take: pull one mechanically interesting winner and show a table-ready use-case (a monster stat block or magic item pulled straight from the winning book).",
-      "source": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/"
+      "title": "Gen Con Just Handed Out Awards — Here's the One Rule in the Winning Adventure Nobody Follows Correctly",
+      "why_now": "The Gen Con/ENnies awards livestream is fresh and drives search traffic toward the winning products this week.",
+      "angle": "Tie a rules ruling short to an ENnies-winning adventure/module, quoting the specific mechanic and correcting the common misplay.",
+      "source": "https://www.enworld.org/threads/podcast-409-livestream-gen-con-awards-awards-and-more-awards.720236/"
     },
     {
-      "title": "The One Free PDF From This Week's Bundle Actually Worth Your Download Slot",
-      "why_now": "EN World's weekly freebies/sales roundup just dropped, giving a timely 'grab this before it's gone' angle GMs will click for.",
-      "angle": "Quick-hit resource pick: name the single best free item in the bundle and give one concrete way to drop it into tonight's session (a trap, a stat block, a random table).",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-august-9-2026.720232/"
-    },
-    {
-      "title": "Mischief Toy Store Won Diana Jones — Here's the Actual Design Lesson for Your Table",
-      "why_now": "The Diana Jones Award announcement is fresh industry news and gives cover to talk about a design principle (mischief/toy-like mechanics) GMs can steal.",
-      "angle": "Short GM-craft angle: extract one takeaway from why Mischief Toy Store won (simplicity/tactile mechanics) and translate it into a house rule or encounter gimmick for 5e/Shadowdark.",
-      "source": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/"
+      "title": "Paizo's Getting Its Stock Back From Diamond — What That Actually Means for Your Table",
+      "why_now": "Diamond's bankruptcy fallout is finally resolving, and GMs are wondering if their favorite Pathfinder/Starfinder books are coming back in print.",
+      "angle": "Quick industry-explainer short in the dry GM voice: translate the supply-chain news into 'buy print now or wait' practical advice, close with an unrelated ruling of the day to keep format consistency.",
+      "source": "https://www.enworld.org/threads/paizo-may-finally-get-its-inventory-back-from-bankrupt-diamond.720248/"
     }
   ]
 }
