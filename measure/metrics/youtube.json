@@ -2927,5 +2927,106 @@
         "comments": 1
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "videos": [
+      {
+        "id": "kA2lCqnqgnE",
+        "title": "Swarm Centipede is vulnerable to mental attacks #shadowdark",
+        "published": "2026-08-11",
+        "views": 87,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "Gk6cDvsQmrs",
+        "title": "Morale checks occur when half a monster group is defeated or a key ally falls #shadowdark",
+        "published": "2026-08-11",
+        "views": 62,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "ufDI36x3bJE",
+        "title": "Alchemist's Supplies cost 50 GP and weigh 8 pounds #dnd5e",
+        "published": "2026-08-11",
+        "views": 104,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "UGSwuhZy9xg",
+        "title": "Fumbles punish high Luck scores, making them riskier than expected #dcc",
+        "published": "2026-08-11",
+        "views": 5,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "fEJWLfyIcdU",
+        "title": "Swarm Centipede paralyzes with failed DC 12 save #shadowdark",
+        "published": "2026-08-10",
+        "views": 442,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "JNfYArdNUL4",
+        "title": "Swarm Centipede: Paralyzing Poison Mechanics Explained #shadowdark",
+        "published": "2026-08-10",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "VJFC_9zHinM",
+        "title": "Equipment Proficiencies determine which weapons and tools a character can use #dnd5e",
+        "published": "2026-08-10",
+        "views": 181,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "8VorE1SzQAQ",
+        "title": "Ray of Enfeeblement requires at least 1 point of spellburn to cast #dcc",
+        "published": "2026-08-10",
+        "views": 62,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "ipnBY632UVY",
+        "title": "Maximize Frog Rain's range to stay safe #shadowdark",
+        "published": "2026-08-09",
+        "views": 986,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "y7xvOi2q7ew",
+        "title": "Hat Of The Hound's transformation lasts only 10 rounds daily #shadowdark",
+        "published": "2026-08-09",
+        "views": 91,
+        "likes": 2,
+        "comments": 2
+      },
+      {
+        "id": "rrdxfl4BxUM",
+        "title": "Frame a Young Bronze Dragon encounter with a timer so the party must trade #dnd5e",
+        "published": "2026-08-09",
+        "views": 79,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "pxMaOMQljCc",
+        "title": "Hellthorn's tendril attack combines 1d6 damage with a grapple and poison sap #dcc",
+        "published": "2026-08-09",
+        "views": 41,
+        "likes": 3,
+        "comments": 1
+      }
+    ]
   }
 ]
