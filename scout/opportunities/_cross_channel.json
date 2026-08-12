@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-11T11:17:00+00:00",
+  "generated": "2026-08-12T11:17:46+00:00",
   "plays": [
     {
-      "story": "Quantum computing threats to crypto are moving from theory to timeline: Quantus founder warns the first quantum attack on Bitcoin will look like an ordinary key theft, while Python just shipped a working post-quantum encryption library.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'Your Cold Wallet Has an Expiration Date: What the Quantus Founder's Warning Means for BTC Holders' — frame quantum risk as the next macro narrative for bitcoin sentiment, tying it to Vitalik's own quantum-resistance roadmap pivot as proof the smart money is already hedging.",
-        "itsalreadywhen": "Title: 'Post-Quantum Crypto Just Left the Lab: Python's New Library Says the Countdown Has Started' — use the Python library ship date as the hard 'when' marker, contrasting it against warnings that quantum attacks will be indistinguishable from routine key theft until it's too late."
-      },
-      "source": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder"
-    },
-    {
-      "story": "BTCPay Server locks down remote Lightning access after attackers drained funds through it, and the community is now crowdfunding a 3 BTC bounty to recover losses and find the exploit chain.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: '3 BTC and a Broken Promise: What the BTCPay Bounty Says About Self-Custody's Real Cost' — spin as a market/trust story: self-hosted payment infra just proved it's not immune, and that has pricing implications for merchant adoption confidence.",
-        "itsalreadywhen": "Title: 'Remote Access Was the Door They Left Open: Inside the BTCPay Lightning Exploit Timeline' — reconstruct the exposure window from 'feature enabled' to 'funds stolen' to 'access restricted,' the classic cyber postmortem arc."
-      },
-      "source": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds"
-    },
-    {
-      "story": "EN World's review of Dragonlance: War Wizard lands right as the setting's novel-to-tabletop pipeline is back in the spotlight, giving both a mechanics-review angle and a fiction-adaptation angle.",
+      "story": "Paizo may finally get its inventory back from bankrupt Diamond distributor, ending a supply logjam that's starved stores of Pathfinder/Starfinder stock",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'Dragonlance: War Wizard Review — Is This the Splat Your Table Actually Needs?' — straight mechanics/utility review: what's playable, what's shelf-ware, does it earn a spot at the table this campaign.",
-        "itsalreadywritten": "Title: 'From Weis & Hickman to Your Character Sheet: How War Wizard Translates 40 Years of Dragonlance Fiction Into Crunch' — angle it as a story-to-stats adaptation piece for readers who care about canon fidelity."
-      },
-      "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
-    },
-    {
-      "story": "Paizo may finally recover its inventory from bankrupt distributor Diamond — a supply-chain near-miss that threatened to choke off Pathfinder/Starfinder books at FLGS shelves nationwide.",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Title: 'Paizo's Inventory Rescue: What Getting Books Back From Diamond Actually Means for Your FLGS Shelf' — practical angle on availability, restocks, and whether Pathfinder players should expect delays or price bumps this fall.",
-        "itsalreadywritten": "Title: 'The Distributor Apocalypse: How One Bankruptcy Almost Erased a Decade of Pathfinder Lore From Store Shelves' — narrative framing on the fragility of published-world continuity when the supply chain nearly severs reader access to the canon."
+        "bizzal-games": "'Paizo's Great Escape: What Diamond's Bankruptcy Payout Means for Your Next FLGS Order' — a practical breakdown of restock timelines, what SKUs are affected, and whether preorders will finally ship.",
+        "itsalreadywritten": "'The Adventure Was Already on the Shelf: Paizo Reclaims Its Modules From Diamond's Wreckage' — frame it as published lore/adventures sitting in limbo finally reaching the table, tying the distribution saga to the stories trapped inside those boxes."
       },
       "source": "https://www.enworld.org/threads/paizo-may-finally-get-its-inventory-back-from-bankrupt-diamond.720248/"
+    },
+    {
+      "story": "D&D's World of Warcraft crossover book reveals two alternate covers",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Double Cover Drop: Which D&D x WoW Variant Should You Preorder First?' — collector's guide comparing print runs, retailer exclusives, and resale potential.",
+        "itsalreadywritten": "'Azeroth Meets Faerûn: What the New Cover Art Quietly Tells Us About the Crossover's Plot' — a lore-deep-dive reading the cover imagery as foreshadowing for the adventure inside."
+      },
+      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-has-two-alternate-covers.720252/"
+    },
+    {
+      "story": "Coldcard hardware wallet losses and the forensic trail investigators are using to trace the stolen Bitcoin",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Cold Storage, Hot Mess: Tracing the Coldcard Hack's Stolen BTC On-Chain' — market angle on how the drained funds are moving, exchange freezes, and what it means for hardware-wallet holders' confidence.",
+        "itsalreadywhen": "'Anatomy of the Coldcard Breach: The Attack Vector Nobody Patched in Time' — technical timeline of the exploit, firmware gaps, and what device owners should check right now."
+      },
+      "source": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Harmony confirms an exploit that let attackers unauthorized-mint 4 billion ONE tokens, sparking a rollback debate",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Harmony's ONE Just Got Diluted by 4 Billion Tokens — Here's What the Rollback Fight Means for Holders' — price impact, contagion to altcoins, and the governance drama over reversing the chain.",
+        "itsalreadywhen": "'Inside the Harmony Mint Exploit: How a Smart Contract Bug Printed Billions Overnight' — technical postmortem on the vulnerability class and why bridge/mint functions keep getting hit."
+      },
+      "source": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527"
     }
   ]
 }

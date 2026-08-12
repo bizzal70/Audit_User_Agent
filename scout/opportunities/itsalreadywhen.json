@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-11T11:17:00+00:00",
+  "generated": "2026-08-12T11:17:46+00:00",
   "opportunities": [
     {
-      "title": "Iran-Linked Hackers Are Quietly Draining US Water Utilities — NJ and Alabama Just Joined the List",
-      "why_now": "Multistate water system attacks are widening with suspected Iranian involvement, turning a slow-burn ICS story into a breaking national-security thread.",
-      "angle": "Rolling incident tracker: map which states/utilities are hit, what OT protocol was abused, and what DEF CON's new defensive tooling actually does about it.",
-      "source": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected"
+      "title": "421 Holes, One Nork: Microsoft's August Patch Tuesday Is a Whole Breach Buffet",
+      "why_now": "Microsoft just shipped a record 421-bug Patch Tuesday and North Korean actors are already exploiting one of the flaws in the wild.",
+      "angle": "Digest breakdown ranking the CVEs by exploitability, spotlighting the actively-exploited zero-day, with a 'patch this first' cheat sheet",
+      "source": "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483"
     },
     {
-      "title": "The Metabase Zero-Day Nobody Patched in Time: Framework's Customer Data Is Now Someone Else's Problem",
-      "why_now": "A live zero-day in a widely-deployed BI tool just burned a hardware vendor's customer data, and the patch only landed after exploitation began.",
-      "angle": "Patch-cadence postmortem: timeline from zero-day discovery to Framework breach to official fix, with a 'check if you're exposed' checklist for Metabase admins.",
-      "source": "https://www.theregister.com/personal-tech/2026/08/10/framework-loses-customer-data-in-metabase-zero-day-attack/5285302"
+      "title": "2,500 Companies Just Got Backdoored by Their Own AI Infrastructure: Inside the LiteLLM Supply-Chain Hit",
+      "why_now": "A poisoned LiteLLM release tied to a Trivy hack has already exposed 2,100+ organizations, and the number is climbing.",
+      "angle": "Explainer on how the malicious releases slipped through, who's exposed, and immediate remediation steps for anyone running LiteLLM",
+      "source": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/"
     },
     {
-      "title": "Hackers Shut Down a Polish Power Plant Turbine — Through a Cell Network Nobody Was Watching",
-      "why_now": "A private APN/cellular breach that physically halted a turbine is a rare confirmed OT-to-physical-impact incident, and details just surfaced a year later.",
-      "angle": "Deep-dive explainer on private cellular network attack surface in critical infrastructure — the overlooked ICS entry point everyone assumed was air-gapped.",
-      "source": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/"
+      "title": "Sandworm's New Move: Fake Job Interviews That Install a VPN With Root Access to Your Life",
+      "why_now": "Sandworm-linked UAC-0145 is running fake interview lures to plant a command-capable VPN client, a fresh twist on an old playbook.",
+      "angle": "Threat-actor profile piece tracing the social-engineering chain from LinkedIn DM to remote code execution, with IOCs for job-seekers and recruiters",
+      "source": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html"
     },
     {
-      "title": "Gunra Ransomware Is Chaining Fortinet and Schneider Electric Bugs — Your Patch Backlog Is the Attack Path",
-      "why_now": "US and South Korea just issued a joint advisory as Gunra actively exploits known Fortinet/Schneider flaws against government and critical infrastructure targets.",
-      "angle": "CVE-to-breach chain breakdown: list the specific Fortinet/Schneider CVEs being exploited, patch status, and why 'checklist' patching keeps failing (tie into Dark Reading's patch-chains piece).",
-      "source": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html"
+      "title": "MFA Isn't a Moat: Gunra Ransomware Is Walking Through Fortinet Front Doors",
+      "why_now": "The Gunra gang is actively chaining Fortinet flaws to bypass MFA entirely, undercutting a control most orgs treat as a silver bullet.",
+      "angle": "Breach-mechanics deep dive on the exploit chain plus a blunt 'why your MFA won't save you here' sidebar for IT teams",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa"
     },
     {
-      "title": "Your SIM Card Can Now Be Weaponized to Downgrade Your Phone to 2G and Wipe Your Files",
-      "why_now": "A fresh malicious-SIM technique lets attackers force devices back to insecure 2G and remotely brick or exfiltrate data — a novel, consumer-relevant threat vector just disclosed.",
-      "angle": "Explainer + threat-actor speculation piece: who'd use this (SIM-swap gangs? nation-states?) and what carriers/users can actually do to detect a malicious SIM before it strikes.",
-      "source": "https://www.theregister.com/security/2026/08/11/malicious-sims-can-shut-down-phones-steal-files-and-drag-5g-back-to-2g/5285482"
+      "title": "vCenter Under Siege: The VMware Bug Giving Attackers a Permanent Backstage Pass",
+      "why_now": "Active exploitation of a vCenter flaw is granting attackers persistent remote access inside virtualized enterprise environments right now.",
+      "angle": "Incident-response style walkthrough of the attack path with detection guidance for admins running vulnerable vCenter builds",
+      "source": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
     }
   ]
 }

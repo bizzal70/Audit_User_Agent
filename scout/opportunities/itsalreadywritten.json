@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-11T11:17:00+00:00",
+  "generated": "2026-08-12T11:17:46+00:00",
   "opportunities": [
     {
-      "title": "Dragonlance: War Wizard — Every New Rule, Subclass, and Mechanic Broken Down",
-      "why_now": "A fresh 5e Dragonlance book review just dropped, and readers want the crunch, not just vibes.",
-      "angle": "Rules-audit format: pull every new subclass/feat/mechanic from the review into a scannable list with 'is it balanced?' verdicts.",
-      "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
-    },
-    {
-      "title": "Paizo's Missing Inventory: What Diamond's Bankruptcy Actually Means for Your Next Pathfinder Order",
-      "why_now": "Diamond's collapse has been a live supply-chain story, and news that Paizo may recover stock is a concrete update fans are tracking.",
-      "angle": "Explainer/timeline piece translating distribution/legal news into 'what this means for you buying books' facts.",
-      "source": "https://www.enworld.org/threads/paizo-may-finally-get-its-inventory-back-from-bankrupt-diamond.720248/"
-    },
-    {
-      "title": "Gen Con 2026 Awards Recap: Every Winner, Every Category, Ranked by 'Will This Actually Hit Your Table'",
-      "why_now": "The EN World podcast just livestreamed Gen Con's award sweep, giving a fresh, timely list to react to.",
-      "angle": "Rules-first ranking of winning games by mechanical innovation, not just hype.",
-      "source": "https://www.enworld.org/threads/podcast-409-livestream-gen-con-awards-awards-and-more-awards.720236/"
-    },
-    {
-      "title": "Sly Flourish's 'Lightning Rods' Are Just Encounter Design Rules in Disguise — Here's the Framework",
-      "why_now": "Sly Flourish just published a fresh D&D/5e GM technique post that's ripe for a rules-first breakdown.",
-      "angle": "Codify the technique into a repeatable 'rule' format: trigger, procedure, table example.",
+      "title": "Lightning Rods, Decoded: The Actual D&D 5e Rules Behind Every Type",
+      "why_now": "Sly Flourish just published a breakdown of lightning rod mechanics that begs for a rules-first deep dive comparing RAW options.",
+      "angle": "Rules-reference breakdown with a comparison table of official vs. homebrew lightning rod effects",
       "source": "https://slyflourish.com/types_of_lightning_rods.html?rss=1"
     },
     {
-      "title": "This Week's Free & Discounted Rulebooks: What's Actually Worth Downloading (Aug 9 Bundle Roundup)",
-      "why_now": "EN World's fresh freebies/sales/charity bundle post is a ready-made list begging for a rules-quality filter.",
-      "angle": "Curated 'top 5 picks' from the bundle list judged purely on rules content quality, not price.",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-august-9-2026.720232/"
+      "title": "What Paizo's Diamond Bankruptcy Mess Actually Means for Your FLGS Shelf",
+      "why_now": "News broke that Paizo may finally recover its inventory from bankrupt distributor Diamond, a concrete supply-chain fact TTRPG buyers need explained.",
+      "angle": "News explainer: timeline of the bankruptcy, what 'getting inventory back' legally means, and what it signals for Pathfinder/Starfinder restocks",
+      "source": "https://www.enworld.org/threads/paizo-may-finally-get-its-inventory-back-from-bankrupt-diamond.720248/"
+    },
+    {
+      "title": "Starting to GM? Here Are the Rules You Actually Need to Know First",
+      "why_now": "Gnome Stew's new-GM guide is a perfect springboard for a rules-first channel to cut through advice fluff with the actual core rulebook essentials.",
+      "angle": "Curated 'rules that matter on session zero' checklist, citing specific page/rule references",
+      "source": "https://gnomestew.com/if-you-were-going-to-start-gming/"
+    },
+    {
+      "title": "Dragonlance: War Wizard — Are the New Wizard Rules Actually Balanced?",
+      "why_now": "A fresh review of War Wizard just dropped, giving a timely hook to dissect its crunch against core 5e wizard rules.",
+      "angle": "Rules-crunch analysis pulling specific subclass/feature text from the review and comparing to PHB baseline",
+      "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
+    },
+    {
+      "title": "D&D x World of Warcraft: What Two Alternate Covers Tell Us About the Crossover's Rules Content",
+      "why_now": "EN World just revealed dual alternate covers for the D&D/WoW book, a concrete news item to speculate on rules/setting content ahead of release.",
+      "angle": "News-based speculation piece using cover art clues to predict included subclasses/monsters, rules-first tone",
+      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-has-two-alternate-covers.720252/"
     }
   ]
 }

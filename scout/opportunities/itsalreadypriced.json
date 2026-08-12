@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-11T11:17:00+00:00",
+  "generated": "2026-08-12T11:17:46+00:00",
   "opportunities": [
     {
-      "title": "Crypto's First Quantum Hack Won't Announce Itself — It'll Just Look Like a Stolen Key",
-      "why_now": "A Quantus founder is warning that quantum theft will be indistinguishable from ordinary key compromise, right as the industry treats quantum risk as science fiction.",
-      "angle": "Explainer/thesis piece connecting the quantum warning to real 'unexplained' wallet drains — end with a checklist of what would actually look different forensically.",
-      "source": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder"
+      "title": "Harmony Gets Hacked Again: Why 'Rollback or Rugpull' Was Always the Only Choice",
+      "why_now": "Harmony just confirmed a 4B ONE token mint exploit and is weighing a rollback, replaying its 2022 Horizon Bridge playbook almost beat for beat.",
+      "angle": "Timeline comparison piece: 2022 bridge hack vs. 2026 mint exploit, arguing chains that never fix root causes just wait for the next incident — end with what 'rollback' really signals to holders.",
+      "source": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527"
     },
     {
-      "title": "The Coldcard Hack Is Solved by Chain Forensics, Not Better Hardware",
-      "why_now": "New reporting details exactly how investigators traced the stolen Coldcard funds, offering a rare inside look at post-breach recovery mechanics.",
-      "angle": "Breakdown/explainer of the tracing methodology, framed as 'here's what actually happens after your hardware wallet gets popped' — pairs incident detail with hard lessons on custody.",
-      "source": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin"
+      "title": "Your Coldcard Wasn't the Weak Link — Your Habits Were",
+      "why_now": "Fresh reporting on how investigators are tracing Coldcard-hack proceeds gives a rare inside look at post-theft forensics most holders never see.",
+      "angle": "Explainer using the trace methodology as a teaching moment on wallet hygiene (address reuse, seed backup exposure) — position as the 'autopsy' piece for self-custody users.",
+      "source": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "BTCPay Just Locked Down Remote Lightning Access — Translation: It Was Always the Weak Point",
-      "why_now": "BTCPay restricted remote Lightning access and posted a $190K bounty within days of attackers draining self-hosted payment servers.",
-      "angle": "Incident postmortem for self-custody infra operators — what changed, why it should've been the default from day one, and a quick self-audit checklist for anyone running BTCPay.",
-      "source": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds"
+      "title": "The Quantum Attack Is Already Happening — It Just Looks Like an Ordinary Hack",
+      "why_now": "A Quantus founder just warned that crypto's first quantum break will be indistinguishable from routine key theft, which is exactly the kind of slow-motion risk this channel is built to flag before consensus catches up.",
+      "angle": "Thesis piece: list recent 'unexplained' key thefts and ask which ones could already be quantum, framed as 'priced in before anyone admits it.'",
+      "source": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Coinsbuy's $8M Breach Across Two Chains Is the Multi-Chain Custody Problem Nobody Wants to Solve",
-      "why_now": "Coinsbuy confirmed wallets were drained across two blockchains and is now offering a $100K reward, a live case study in cross-chain custodial failure.",
-      "angle": "Analysis piece on why multi-chain support multiplies attack surface for exchanges, using Coinsbuy as the cautionary example — tie to broader exchange security posture.",
-      "source": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m"
+      "title": "Ravencoin's Rollback Threat Is a Preview of Every Small Chain's Endgame",
+      "why_now": "Ravencoin just crashed 20% on a critical exploit that could force a network rollback, days after Harmony faced the same dilemma.",
+      "angle": "Comparative security note: what determines whether a chain can even attempt a rollback (miner/validator concentration), and why smaller-cap chains keep drawing these attacks.",
+      "source": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback"
     },
     {
-      "title": "A Bitcoin Wallet Just Woke Up After 12 Years — Cold Storage Was Never 'Set and Forget'",
-      "why_now": "Another long-dormant wallet holding millions just moved, reviving the recurring question of what happens to keys nobody's touched in over a decade.",
-      "angle": "Short, punchy piece on key custody hygiene over long time horizons — inheritance, hardware obsolescence, and why 'buy and forget' is a security anti-pattern, not a strategy.",
-      "source": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years"
+      "title": "A $200K XRP Bridge Drain Over Fake Deposits Is the Oldest Bug in the Book",
+      "why_now": "An XRP bridge got drained for $200K because its software 'mistook fake deposits for real ones' — the exact deposit-verification flaw that has sunk bridges for years.",
+      "angle": "Pattern-recognition post: catalog past bridge hacks caused by the same fake-deposit/verification gap, arguing bridges remain crypto's most 'already priced' attack surface.",
+      "source": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones"
     }
   ]
 }
