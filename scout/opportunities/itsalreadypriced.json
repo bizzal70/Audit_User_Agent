@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-12T11:17:46+00:00",
+  "generated": "2026-08-13T11:17:44+00:00",
   "opportunities": [
     {
-      "title": "Harmony Gets Hacked Again: Why 'Rollback or Rugpull' Was Always the Only Choice",
-      "why_now": "Harmony just confirmed a 4B ONE token mint exploit and is weighing a rollback, replaying its 2022 Horizon Bridge playbook almost beat for beat.",
-      "angle": "Timeline comparison piece: 2022 bridge hack vs. 2026 mint exploit, arguing chains that never fix root causes just wait for the next incident — end with what 'rollback' really signals to holders.",
-      "source": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527"
-    },
-    {
-      "title": "Your Coldcard Wasn't the Weak Link — Your Habits Were",
-      "why_now": "Fresh reporting on how investigators are tracing Coldcard-hack proceeds gives a rare inside look at post-theft forensics most holders never see.",
-      "angle": "Explainer using the trace methodology as a teaching moment on wallet hygiene (address reuse, seed backup exposure) — position as the 'autopsy' piece for self-custody users.",
+      "title": "Coldcard Got Hacked. $15B in Bitcoin Just Proved Nobody Trusts 'Cold' Anymore",
+      "why_now": "A hardware wallet compromise triggered a mass flight of $15B in BTC within days, and investigators are now publicly tracing the stolen funds — a rare real-time forensics story.",
+      "angle": "Explainer/postmortem: walk through how the tracing works, then pivot to the uncomfortable truth that 'cold storage' is a process, not a device — end with a checklist of what actually changes after this.",
       "source": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Quantum Attack Is Already Happening — It Just Looks Like an Ordinary Hack",
-      "why_now": "A Quantus founder just warned that crypto's first quantum break will be indistinguishable from routine key theft, which is exactly the kind of slow-motion risk this channel is built to flag before consensus catches up.",
-      "angle": "Thesis piece: list recent 'unexplained' key thefts and ask which ones could already be quantum, framed as 'priced in before anyone admits it.'",
-      "source": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Harmony Wants to Roll Back the Chain Again. We've Seen This Movie.",
+      "why_now": "Harmony is openly weighing a rollback after a suspected exploit inflated ONE supply — the same 'immutability is optional when it's inconvenient' playbook crypto has run before.",
+      "angle": "Sharp opinion piece: use the rollback discussion as the hook to revisit every prior 'temporary' rollback in crypto history and what it actually signals to sophisticated attackers about which chains are soft targets.",
+      "source": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Ravencoin's Rollback Threat Is a Preview of Every Small Chain's Endgame",
-      "why_now": "Ravencoin just crashed 20% on a critical exploit that could force a network rollback, days after Harmony faced the same dilemma.",
-      "angle": "Comparative security note: what determines whether a chain can even attempt a rollback (miner/validator concentration), and why smaller-cap chains keep drawing these attacks.",
-      "source": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback"
+      "title": "Coinsbuy's $100K Bounty Is a Confession, Not a Solution",
+      "why_now": "Coinsbuy just offered a $100K reward days after a Sunday breach reportedly drained $7.9M in wallets — the classic post-hack negotiation-via-bounty move.",
+      "angle": "Pattern piece: catalog how the 'reward for return' playbook has performed historically (recovery rates, negotiation outcomes) and what it really tells depositors about the exchange's actual security posture before the hack.",
+      "source": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "A $200K XRP Bridge Drain Over Fake Deposits Is the Oldest Bug in the Book",
-      "why_now": "An XRP bridge got drained for $200K because its software 'mistook fake deposits for real ones' — the exact deposit-verification flaw that has sunk bridges for years.",
-      "angle": "Pattern-recognition post: catalog past bridge hacks caused by the same fake-deposit/verification gap, arguing bridges remain crypto's most 'already priced' attack surface.",
-      "source": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones"
+      "title": "The XRP Bridge Didn't Get Hacked — It Just Believed What It Was Told",
+      "why_now": "A bridge was drained because its software treated fake deposits as real, a textbook trust-boundary failure rather than a sophisticated exploit.",
+      "angle": "Technical teardown for a security-literate audience: explain the specific validation gap, then generalize into 'every bridge is a trust assumption wearing a UI' — the recurring failure mode this channel is known for calling out.",
+      "source": "https://decrypt.co/375441/xrp-drained-tx-bridge"
+    },
+    {
+      "title": "Bitcoin Firms Are Asking AI Labs for the Same Tools Attackers Already Have",
+      "why_now": "Crypto companies are publicly lobbying AI firms for early access to frontier models to help Bitcoin developers — an admission that offense is already ahead of defense.",
+      "angle": "Analysis piece connecting this to the same-week 'Zoomsday' story (a critical exploit built by AI in one day): argue the asymmetry is now structural, not hypothetical, and lay out what defenders should actually do while they wait for access they may never get.",
+      "source": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have"
     }
   ]
 }

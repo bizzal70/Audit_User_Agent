@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-12T11:17:46+00:00",
+  "generated": "2026-08-13T11:17:44+00:00",
   "opportunities": [
     {
-      "title": "Lightning Rods, Decoded: The Actual D&D 5e Rules Behind Every Type",
-      "why_now": "Sly Flourish just published a breakdown of lightning rod mechanics that begs for a rules-first deep dive comparing RAW options.",
-      "angle": "Rules-reference breakdown with a comparison table of official vs. homebrew lightning rod effects",
-      "source": "https://slyflourish.com/types_of_lightning_rods.html?rss=1"
+      "title": "Paizo's Entire Catalogue Just Landed on DriveThruRPG — Here's What's Actually in the Files",
+      "why_now": "Two outlets (EN World, Tribality) confirmed the same day that DTRPG now carries Paizo's full Pathfinder & Starfinder catalogue, a major distribution shift for rules access.",
+      "angle": "News breakdown: what SKUs/editions are included, PDF vs print bundles, and how this changes where players source official rules text",
+      "source": "https://www.enworld.org/threads/dtrpg-now-has-paizos-pathfinder-starfinder-catalogue.720277/"
     },
     {
-      "title": "What Paizo's Diamond Bankruptcy Mess Actually Means for Your FLGS Shelf",
-      "why_now": "News broke that Paizo may finally recover its inventory from bankrupt distributor Diamond, a concrete supply-chain fact TTRPG buyers need explained.",
-      "angle": "News explainer: timeline of the bankruptcy, what 'getting inventory back' legally means, and what it signals for Pathfinder/Starfinder restocks",
+      "title": "Paizo vs. Diamond: The Bankruptcy Clause That Could Free Up Years of Backstock",
+      "why_now": "Diamond's bankruptcy proceedings may finally release Paizo's held inventory, a supply-chain story with direct impact on physical rulebook availability.",
+      "angle": "Explainer: the legal mechanics of reclaiming inventory from a bankrupt distributor, and what it means for print rulebook restocks",
       "source": "https://www.enworld.org/threads/paizo-may-finally-get-its-inventory-back-from-bankrupt-diamond.720248/"
     },
     {
-      "title": "Starting to GM? Here Are the Rules You Actually Need to Know First",
-      "why_now": "Gnome Stew's new-GM guide is a perfect springboard for a rules-first channel to cut through advice fluff with the actual core rulebook essentials.",
-      "angle": "Curated 'rules that matter on session zero' checklist, citing specific page/rule references",
-      "source": "https://gnomestew.com/if-you-were-going-to-start-gming/"
+      "title": "RRD Workers Unionize: What It Means for the Rules You're Buying",
+      "why_now": "Rowan, Rook and Decard staff forming a union on Aug 12 is a rare labor milestone in UK TTRPG publishing worth tracking as an industry fact.",
+      "angle": "Straight news recap with context on TTRPG labor organizing precedents and what changes (if any) for product pipelines",
+      "source": "https://www.enworld.org/threads/workers-at-british-rpg-publisher-rowan-rook-and-decard-form-union.720268/"
     },
     {
-      "title": "Dragonlance: War Wizard — Are the New Wizard Rules Actually Balanced?",
-      "why_now": "A fresh review of War Wizard just dropped, giving a timely hook to dissect its crunch against core 5e wizard rules.",
-      "angle": "Rules-crunch analysis pulling specific subclass/feature text from the review and comparing to PHB baseline",
-      "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
+      "title": "This Week's Crowdfunding Rules Drops: Deadlands, Ultimate Horrors, Forgotten Foes — What's Actually New Mechanically",
+      "why_now": "EN World's Aug 12 crowdfunding roundup bundles several live campaigns worth a rules-first triage for GMs deciding where to back.",
+      "angle": "Ledger-style rundown: system, stretch goals, and what new subsystems/monster rules each project adds",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
     },
     {
-      "title": "D&D x World of Warcraft: What Two Alternate Covers Tell Us About the Crossover's Rules Content",
-      "why_now": "EN World just revealed dual alternate covers for the D&D/WoW book, a concrete news item to speculate on rules/setting content ahead of release.",
-      "angle": "News-based speculation piece using cover art clues to predict included subclasses/monsters, rules-first tone",
-      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-has-two-alternate-covers.720252/"
+      "title": "The Feywild Job: Does the Adventure's Fey Magic Actually Follow Its Own Rules?",
+      "why_now": "A fresh review of The Feywild Job dropped Aug 13, giving an opening to audit how its fey-themed mechanics hold up under scrutiny.",
+      "angle": "Rules-audit review: pull specific mechanical claims from the adventure and verify consistency against core fey/charm rules",
+      "source": "https://www.enworld.org/threads/the-feywild-job-review.720278/"
     }
   ]
 }

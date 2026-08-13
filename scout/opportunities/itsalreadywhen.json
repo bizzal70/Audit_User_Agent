@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-12T11:17:46+00:00",
+  "generated": "2026-08-13T11:17:44+00:00",
   "opportunities": [
     {
-      "title": "421 Holes, One Nork: Microsoft's August Patch Tuesday Is a Whole Breach Buffet",
-      "why_now": "Microsoft just shipped a record 421-bug Patch Tuesday and North Korean actors are already exploiting one of the flaws in the wild.",
-      "angle": "Digest breakdown ranking the CVEs by exploitability, spotlighting the actively-exploited zero-day, with a 'patch this first' cheat sheet",
-      "source": "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483"
+      "title": "398 Flaws, One Zero-Day: Inside Microsoft's August Patch Tuesday — and Why 'ShieldBreak' Changes the Math",
+      "why_now": "Microsoft's record-setting patch batch collided with a public PoC (ShieldBreak) that bypasses Defender for SYSTEM access, and Lazarus is already using a related Windows zero-day in the wild.",
+      "angle": "Digest-style breakdown: rank the CVEs by real-world exploitation risk, spotlight ShieldBreak as the 'patch now' item, tie to Krebs/Dark Reading/SecurityWeek/THN coverage",
+      "source": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
     },
     {
-      "title": "2,500 Companies Just Got Backdoored by Their Own AI Infrastructure: Inside the LiteLLM Supply-Chain Hit",
-      "why_now": "A poisoned LiteLLM release tied to a Trivy hack has already exposed 2,100+ organizations, and the number is climbing.",
-      "angle": "Explainer on how the malicious releases slipped through, who's exposed, and immediate remediation steps for anyone running LiteLLM",
-      "source": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/"
+      "title": "The SharePoint-to-Exploit Speedrun: PoC Published, Attacks Within Days",
+      "why_now": "Attackers weaponized the SharePoint auth bypass almost immediately after proof-of-concept code went public, illustrating the shrinking patch gap defenders keep warning about.",
+      "angle": "Timeline piece — PoC release date vs first observed exploitation, framed around Dark Reading's 'Patch Gap' chain-thinking argument",
+      "source": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/"
     },
     {
-      "title": "Sandworm's New Move: Fake Job Interviews That Install a VPN With Root Access to Your Life",
-      "why_now": "Sandworm-linked UAC-0145 is running fake interview lures to plant a command-capable VPN client, a fresh twist on an old playbook.",
-      "angle": "Threat-actor profile piece tracing the social-engineering chain from LinkedIn DM to remote code execution, with IOCs for job-seekers and recruiters",
-      "source": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html"
+      "title": "Your SaaS Backdoor Has a Name: 'City-Forum' Is Quietly Draining Salesforce and ServiceNow Data",
+      "why_now": "Three separate outlets (Dark Reading, SecurityWeek, Bleeping Computer) are independently confirming a long-running, custom-toolset campaign hitting enterprise SaaS portals right now.",
+      "angle": "Threat-actor profile format — what City-Forum targets, how it evades detection, and a checklist for auditing SaaS portal access logs",
+      "source": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/"
     },
     {
-      "title": "MFA Isn't a Moat: Gunra Ransomware Is Walking Through Fortinet Front Doors",
-      "why_now": "The Gunra gang is actively chaining Fortinet flaws to bypass MFA entirely, undercutting a control most orgs treat as a silver bullet.",
-      "angle": "Breach-mechanics deep dive on the exploit chain plus a blunt 'why your MFA won't save you here' sidebar for IT teams",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa"
+      "title": "vCenter Under Siege: The Critical VMware Bug Attackers Are Using for Persistent Access",
+      "why_now": "SecurityWeek and The Hacker News both confirm active exploitation of a critical vCenter vulnerability granting attackers persistent remote access, a top target for virtualization-heavy enterprises.",
+      "angle": "Breach-risk brief: what the flaw does, who's exploiting it, and immediate mitigation steps for vSphere admins",
+      "source": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/"
     },
     {
-      "title": "vCenter Under Siege: The VMware Bug Giving Attackers a Permanent Backstage Pass",
-      "why_now": "Active exploitation of a vCenter flaw is granting attackers persistent remote access inside virtualized enterprise environments right now.",
-      "angle": "Incident-response style walkthrough of the attack path with detection guidance for admins running vulnerable vCenter builds",
-      "source": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
+      "title": "Iran-Linked Attacks on US Water Systems Are Widening — What That Means for Critical Infrastructure Defense",
+      "why_now": "Dark Reading reports the multistate water-system intrusion campaign is expanding, with attribution pointing to Iran, raising the stakes for ICS/OT security heading into the fall.",
+      "angle": "Explainer/analysis on ICS exposure plus a rundown of what's known about the intrusion vector and suspected actor",
+      "source": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected"
     }
   ]
 }

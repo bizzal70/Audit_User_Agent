@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-12T11:17:46+00:00",
+  "generated": "2026-08-13T11:17:44+00:00",
   "opportunities": [
     {
-      "title": "The Lightning Rod Rule Nobody Runs Right: Storm Giants, Chain Lightning, and Where the Bolt Actually Goes",
-      "why_now": "Sly Flourish just published a breakdown of lightning rod mechanics for 5e, giving a ready-made rules-ruling hook.",
-      "angle": "60-sec 'ruling of the day' short: read the RAW on redirecting lightning damage, then give a table-ready houserule for storm encounters",
-      "source": "https://slyflourish.com/types_of_lightning_rods.html?rss=1"
+      "title": "Redcap Tactics: Why a Feywild Encounter Needs a Grudge, Not a Grapple",
+      "why_now": "The Feywild Job review is putting fey-themed adventures back in front of DMs this week, and redcaps are the go-to Feywild grunt nobody runs right.",
+      "angle": "60-sec creature tactic short: redcap's Iron Boots trait, morale rules, and why it should chase fleeing PCs instead of standing and fighting",
+      "source": "https://www.enworld.org/threads/the-feywild-job-review.720278/"
     },
     {
-      "title": "Reskin Any Murloc Boss With the Kobold Stat Block (No New Math Required)",
-      "why_now": "The D&D x World of Warcraft crossover book just got two new alternate covers, putting WoW monsters back in the conversation.",
-      "angle": "creature-tactic short: show how to bolt WoW flavor onto an existing 5e stat block for a quick licensed-crossover encounter",
+      "title": "The Grapple Escape DC Ruling That's Wrecking Your Horror Encounters",
+      "why_now": "The 'Ultimate Horrors' crowdfunding wave has GMs stocking up on grabby monsters, and most run the escape-DC math wrong.",
+      "angle": "Rules ruling short: contested Athletics/Acrobatics vs static DC, when to use which, with a quick on-screen math example",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
+    },
+    {
+      "title": "Owl Familiar vs. Cat Familiar: The Find Familiar Math Nobody Runs",
+      "why_now": "RPG Evolution's cat-themed piece is trending on EN World, giving a hook to settle the classic familiar debate with actual numbers.",
+      "angle": "Spell use-case short: compare Help action uptime, flight vs. stealth, and scouting range for owl vs. cat, verdict in the last 5 seconds",
+      "source": "https://www.enworld.org/threads/rpg-evolution-whats-new-pussycat.719761/"
+    },
+    {
+      "title": "Running Orc Berserkers Like Warcraft Orcs — Without Breaking Rage Rules",
+      "why_now": "The new D&D x World of Warcraft crossover cover reveal has orc content trending, a perfect excuse for an orc tactics/rage ruling short.",
+      "angle": "Rules ruling short: clarify rage stacking, bonus action limits, and how to make orc berserkers feel Warcraft-brutal within RAW",
       "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-has-two-alternate-covers.720252/"
     },
     {
-      "title": "The One Dragonlance War Wizard Spell That Actually Wins Fights (Not the One You Think)",
-      "why_now": "The War Wizard review just dropped, giving a fresh subclass to mine for a concrete spell use-case.",
-      "angle": "spell use-case short: pick a specific War Wizard spell, show the exact combo/timing that breaks an encounter",
-      "source": "https://www.enworld.org/threads/dragonlance-war-wizard-review.720224/"
-    },
-    {
-      "title": "Inspiration Isn't a Reward, It's a Ruling: The Mechanic GMs Keep Forgetting",
-      "why_now": "Gnomecast's new episode on 'getting them to roleplay' is trending discussion fodder for GM tactics content.",
-      "angle": "dry veteran-GM take: reframe Inspiration as a hard mechanical lever for roleplay compliance, with a one-line ruling on when/how to grant it",
-      "source": "https://gnomestew.com/gnomecast-243-getting-them-to-roleplay/"
-    },
-    {
-      "title": "Rule of Cool vs RAW: The First Ruling Every New GM Gets Wrong",
-      "why_now": "Gnome Stew's 'If You Were Going to Start GMing' piece is fresh advice-content ripe for a sharper, rules-first counterpoint.",
-      "angle": "contrarian ruling short: veteran-GM myth-bust on when improvising beats RAW and when it actually breaks your table's trust",
-      "source": "https://gnomestew.com/if-you-were-going-to-start-gming/"
+      "title": "Porting a Pathfinder Trap Into 5e: The DC Nobody Checks",
+      "why_now": "DTRPG adding Paizo's full catalogue means more GMs are cross-shopping PF adventures for 5e tables this week.",
+      "angle": "Rules ruling short: quick conversion formula for trap DCs/damage dice between PF2e and 5e, with one worked example",
+      "source": "https://www.enworld.org/threads/dtrpg-now-has-paizos-pathfinder-starfinder-catalogue.720277/"
     }
   ]
 }
