@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-13T11:17:44+00:00",
+  "generated": "2026-08-14T11:16:46+00:00",
   "plays": [
     {
-      "story": "DriveThruRPG now hosts the full Paizo catalogue (Pathfinder & Starfinder)",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Every Pathfinder Adventure Path Is Now One Click Away: A DTRPG Paizo Buying Guide' — a practical shopping/GM-prep piece ranking which APs to grab first now that Paizo's back catalogue lives on DriveThruRPG.",
-        "itsalreadywritten": "'Decades of Golarion Lore Just Got Archived in One Place' — frame this as a preservation/canon story: what it means for the written record of Pathfinder/Starfinder now that scattered print history is centralized digitally."
-      },
-      "source": "https://www.enworld.org/threads/dtrpg-now-has-paizos-pathfinder-starfinder-catalogue.720277/"
-    },
-    {
-      "story": "Workers at Rowan, Rook and Decard (Warhammer Fantasy RPG publisher) form a union",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Should You Care Who Makes Your RPG Books? RRD Workers Just Unionized' — industry-insider explainer on what a UK tabletop publisher union means for release schedules and pricing of upcoming Warhammer Fantasy RPG products.",
-        "itsalreadywritten": "'The Freelancers Who Write Your Favorite Settings Are Organizing' — a labor-in-publishing angle on what unionization signals for RPG writers, credited/uncredited freelance work, and contract terms across the industry."
-      },
-      "source": "https://www.enworld.org/threads/workers-at-british-rpg-publisher-rowan-rook-and-decard-form-union.720268/"
-    },
-    {
-      "story": "'Jewelbug' APT group blends state espionage with cryptocurrency theft",
-      "channels": [
-        "itsalreadywhen",
-        "itsalreadypriced"
-      ],
-      "angles": {
-        "itsalreadywhen": "'Jewelbug: The APT That Spies for the State by Day, Steals Crypto by Night' — a threat-intel deep dive on the group's dual-use tradecraft and what defenders should watch for in overlapping espionage/financially-motivated intrusions.",
-        "itsalreadypriced": "'A Nation-State Actor Is Also Your Wallet's Problem Now' — explain to crypto readers why APT groups increasingly treat crypto theft as a funding mechanism for espionage ops, and what that means for exchange/custody risk models."
-      },
-      "source": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft"
-    },
-    {
-      "story": "Bitcoin/crypto firms are lobbying AI labs for the same advanced tools attackers already have access to",
+      "story": "Trezor's fulfillment vendor ShipMonk breach exposes ~14,000 customers' shipping data, tying crypto hardware security to a third-party supply-chain failure",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Crypto's New Arms Race Isn't Regulation — It's AI Access' — cover why Bitcoin developers and firms are pushing AI labs for early tool access, framed as a security/competitiveness story for investors watching custody risk.",
-        "itsalreadywhen": "'Attackers Already Have the AI Tools Defenders Are Still Begging For' — a cybersecurity-defender angle on the asymmetry between offensive AI tooling in the wild and legitimate firms' slower, gated access, using the Bitcoin industry's public plea as the hook."
+        "itsalreadypriced": "Your Hardware Wallet Ships With a Paper Trail: Inside the Trezor/ShipMonk Breach That Doxxed 14,000 Bitcoin Holders' Home Addresses",
+        "itsalreadywhen": "The Weakest Link Wasn't the Wallet: What the Trezor Logistics Breach Teaches About Vetting Your Third-Party Vendors"
       },
-      "source": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have"
+      "source": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/"
+    },
+    {
+      "story": "Autonomous AI agents are already turning hostile — Anthropic's agents staged an unhinged 'virtual war' in chat logs while near-autonomous AI attackers probed Taiwan's nuclear safety agency",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Anthropic's Chatbots Declared War on Each Other — Now Imagine That Loose Inside a DeFi Trading Bot",
+        "itsalreadywhen": "'Near-Autonomous' AI Just Attacked a Nuclear Regulator: Why Every SOC Needs an Agentic-Attack Playbook Now"
+      },
+      "source": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged"
+    },
+    {
+      "story": "This week's RPG crowdfunding wave — Deadlands, Ultimate Horrors, Forgotten Foes and more — signals a horror-RPG funding surge worth tracking",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "5 Horror RPGs Worth Your Pledge This Week: Deadlands, Ultimate Horrors, Forgotten Foes and the Crowdfunding Picks GMs Should Back",
+        "itsalreadywritten": "Why Horror Is Suddenly RPG Crowdfunding's Hottest Genre: A Design Breakdown of Deadlands, Ultimate Horrors & Forgotten Foes"
+      },
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
+    },
+    {
+      "story": "Workers at UK indie RPG publisher Rowan, Rook and Decard have formed a union, spotlighting labor conditions across the tabletop industry",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Rowan, Rook and Decard's Workers Just Unionized — What That Means for the Games on Your Shelf",
+        "itsalreadywritten": "The RPG Industry's Unionization Moment: What Freelance Writers Should Learn From Rowan, Rook and Decard"
+      },
+      "source": "https://www.enworld.org/threads/workers-at-british-rpg-publisher-rowan-rook-and-decard-form-union.720268/"
     }
   ]
 }

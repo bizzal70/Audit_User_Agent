@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-13T11:17:44+00:00",
+  "generated": "2026-08-14T11:16:46+00:00",
   "opportunities": [
     {
-      "title": "Coldcard Got Hacked. $15B in Bitcoin Just Proved Nobody Trusts 'Cold' Anymore",
-      "why_now": "A hardware wallet compromise triggered a mass flight of $15B in BTC within days, and investigators are now publicly tracing the stolen funds — a rare real-time forensics story.",
-      "angle": "Explainer/postmortem: walk through how the tracing works, then pivot to the uncomfortable truth that 'cold storage' is a process, not a device — end with a checklist of what actually changes after this.",
-      "source": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Bitcoin Firms Want AI Labs to Find Their Bugs. Read That Again.",
+      "why_now": "Crypto companies are publicly asking AI labs for early developer access to harden Bitcoin, while a separate red team is already using Chinese AI (Kimi) to hunt flaws in the protocol — the outsourcing-your-security-to-a-black-box trend is now mainstream.",
+      "angle": "Security-led op-ed: outsourcing core protocol security review to opaque AI models (foreign or domestic) is a supply-chain risk, not a fix — trace the incentive mismatch and what 'early access' actually means for adversarial actors",
+      "source": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools"
     },
     {
-      "title": "Harmony Wants to Roll Back the Chain Again. We've Seen This Movie.",
-      "why_now": "Harmony is openly weighing a rollback after a suspected exploit inflated ONE supply — the same 'immutability is optional when it's inconvenient' playbook crypto has run before.",
-      "angle": "Sharp opinion piece: use the rollback discussion as the hook to revisit every prior 'temporary' rollback in crypto history and what it actually signals to sophisticated attackers about which chains are soft targets.",
+      "title": "Trezor Just Taught 14,000 Hardware Wallet Buyers Why Shipping Metadata Is an Attack Surface",
+      "why_now": "A fulfilment partner breach exposed names/addresses of Trezor customers — the exact dataset attackers need for targeted physical and phishing attacks against known crypto holders.",
+      "angle": "Practical security explainer: what a shipping breach actually enables (SIM-swap targeting, mail theft, wrench attacks), plus a checklist for anyone who's ordered a hardware wallet in the last 2 years",
+      "source": "https://www.theblock.co/news/business/2026-08-13-trezor-shipping-provider-breach-exposes-personal-data-nearly-14000-customers-411702"
+    },
+    {
+      "title": "The $550K Google Ad That Looked Exactly Like Hyperliquid",
+      "why_now": "A single malicious Google ad drained over half a million dollars from a Hyperliquid user this week — a textbook, still-unsolved attack vector hitting sophisticated traders, not newbies.",
+      "angle": "Forensic breakdown format: how the ad spoofing worked, why platform-level trust signals failed, and the standing defense (bookmark your URLs, never click sponsored crypto links) that nobody follows",
+      "source": "https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755"
+    },
+    {
+      "title": "Harmony's Rollback Dilemma Is the Same Old Story: 'Immutable' Chains Aren't",
+      "why_now": "Harmony is weighing a rollback after a suspected exploit inflated ONE supply — reviving the exact governance-vs-immutability fight the industry claimed it settled after The DAO.",
+      "angle": "Contrarian analysis: why rollbacks keep coming back on the table, what it says about L1 security assumptions investors should have priced in already, tie to past incidents (Harmony's own 2022 bridge hack)",
       "source": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Coinsbuy's $100K Bounty Is a Confession, Not a Solution",
-      "why_now": "Coinsbuy just offered a $100K reward days after a Sunday breach reportedly drained $7.9M in wallets — the classic post-hack negotiation-via-bounty move.",
-      "angle": "Pattern piece: catalog how the 'reward for return' playbook has performed historically (recovery rates, negotiation outcomes) and what it really tells depositors about the exchange's actual security posture before the hack.",
-      "source": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "The XRP Bridge Didn't Get Hacked — It Just Believed What It Was Told",
-      "why_now": "A bridge was drained because its software treated fake deposits as real, a textbook trust-boundary failure rather than a sophisticated exploit.",
-      "angle": "Technical teardown for a security-literate audience: explain the specific validation gap, then generalize into 'every bridge is a trust assumption wearing a UI' — the recurring failure mode this channel is known for calling out.",
-      "source": "https://decrypt.co/375441/xrp-drained-tx-bridge"
-    },
-    {
-      "title": "Bitcoin Firms Are Asking AI Labs for the Same Tools Attackers Already Have",
-      "why_now": "Crypto companies are publicly lobbying AI firms for early access to frontier models to help Bitcoin developers — an admission that offense is already ahead of defense.",
-      "angle": "Analysis piece connecting this to the same-week 'Zoomsday' story (a critical exploit built by AI in one day): argue the asymmetry is now structural, not hypothetical, and lay out what defenders should actually do while they wait for access they may never get.",
-      "source": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have"
+      "title": "Tether's 'Clean' KPMG Audit Comes With No Actual Statements to Read",
+      "why_now": "Tether is loudly claiming its first full Big Four audit while simultaneously not publishing the underlying financials — a gap security-minded readers should immediately flag.",
+      "angle": "Skeptic's breakdown: what 'clean opinion' legally means vs. what transparency would require, why non-disclosure of statements undercuts the PR win, and what to actually watch for before trusting the $180B peg",
+      "source": "https://thedefiant.io/converge/cefi/tether-clears-first-full-audit-from-kpmg-without-publishing-the-statements"
     }
   ]
 }

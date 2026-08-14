@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-13T11:17:44+00:00",
+  "generated": "2026-08-14T11:16:46+00:00",
   "opportunities": [
     {
-      "title": "398 Flaws, One Zero-Day: Inside Microsoft's August Patch Tuesday — and Why 'ShieldBreak' Changes the Math",
-      "why_now": "Microsoft's record-setting patch batch collided with a public PoC (ShieldBreak) that bypasses Defender for SYSTEM access, and Lazarus is already using a related Windows zero-day in the wild.",
-      "angle": "Digest-style breakdown: rank the CVEs by real-world exploitation risk, spotlight ShieldBreak as the 'patch now' item, tie to Krebs/Dark Reading/SecurityWeek/THN coverage",
-      "source": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+      "title": "Your Crypto Wallet Is Only As Safe As Your Shipping Label: Trezor's 13,000-Customer Breach Came Through ShipMonk",
+      "why_now": "Two outlets confirm the same third-party logistics breach exposed Trezor customer data, proving supply-chain risk beats endpoint security every time",
+      "angle": "Breach postmortem — trace the blast radius from ShipMonk to Trezor customers and list every other logistics-dependent vendor that should be sweating",
+      "source": "https://www.theregister.com/security/2026/08/14/crypto-wallet-maker-trezor-confirms-13000-customers-details-exposed-in-logistics-breach/5287734"
     },
     {
-      "title": "The SharePoint-to-Exploit Speedrun: PoC Published, Attacks Within Days",
-      "why_now": "Attackers weaponized the SharePoint auth bypass almost immediately after proof-of-concept code went public, illustrating the shrinking patch gap defenders keep warning about.",
-      "angle": "Timeline piece — PoC release date vs first observed exploitation, framed around Dark Reading's 'Patch Gap' chain-thinking argument",
-      "source": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/"
+      "title": "400 Holes in One Tuesday: Inside Microsoft's Biggest Patch Dump of the Year",
+      "why_now": "Krebs and Dark Reading both flag the same record-setting Patch Tuesday, making it the week's unmissable patch-cadence story",
+      "angle": "Patch-cadence explainer — rank the CVEs by exploitability, flag which ones already have PoCs, give sysadmins a triage order",
+      "source": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
     },
     {
-      "title": "Your SaaS Backdoor Has a Name: 'City-Forum' Is Quietly Draining Salesforce and ServiceNow Data",
-      "why_now": "Three separate outlets (Dark Reading, SecurityWeek, Bleeping Computer) are independently confirming a long-running, custom-toolset campaign hitting enterprise SaaS portals right now.",
-      "angle": "Threat-actor profile format — what City-Forum targets, how it evades detection, and a checklist for auditing SaaS portal access logs",
-      "source": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/"
+      "title": "vCenter Under Siege: The Critical VMware Flaw Attackers Are Racing to Weaponize Before You Patch",
+      "why_now": "Dark Reading and The Hacker News both report active global exploitation of the same vCenter bug, signaling a live race against defenders",
+      "angle": "Threat-actor tracker — who's exploiting it, what persistence mechanism they're planting, and a patch-now checklist",
+      "source": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw"
     },
     {
-      "title": "vCenter Under Siege: The Critical VMware Bug Attackers Are Using for Persistent Access",
-      "why_now": "SecurityWeek and The Hacker News both confirm active exploitation of a critical vCenter vulnerability granting attackers persistent remote access, a top target for virtualization-heavy enterprises.",
-      "angle": "Breach-risk brief: what the flaw does, who's exploiting it, and immediate mitigation steps for vSphere admins",
-      "source": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/"
+      "title": "PoC to Pwn in Record Time: SharePoint Auth Bypass Gets Exploited the Moment the Exploit Code Drops",
+      "why_now": "The Hacker News reports active exploitation immediately following public PoC release, the exact pattern that defines 'inevitable breach' timing",
+      "angle": "Timeline breakdown — hours between disclosure, PoC, and first observed attack, with a call for faster patch windows",
+      "source": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
     },
     {
-      "title": "Iran-Linked Attacks on US Water Systems Are Widening — What That Means for Critical Infrastructure Defense",
-      "why_now": "Dark Reading reports the multistate water-system intrusion campaign is expanding, with attribution pointing to Iran, raising the stakes for ICS/OT security heading into the fall.",
-      "angle": "Explainer/analysis on ICS exposure plus a rundown of what's known about the intrusion vector and suspected actor",
-      "source": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected"
+      "title": "An AWS Key Left in JavaScript Just Cost Over 1,000 Charities Their Donor Data",
+      "why_now": "SecurityWeek confirms the Beacon CRM breach traces back to a hardcoded AWS key, a rookie mistake with a four-figure victim count",
+      "angle": "Root-cause teardown — how a single exposed credential cascaded into a mass nonprofit breach, plus a dev checklist to catch this before it ships",
+      "source": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/"
     }
   ]
 }

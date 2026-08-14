@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-13T11:17:44+00:00",
+  "generated": "2026-08-14T11:16:46+00:00",
   "opportunities": [
     {
-      "title": "Redcap Tactics: Why a Feywild Encounter Needs a Grudge, Not a Grapple",
-      "why_now": "The Feywild Job review is putting fey-themed adventures back in front of DMs this week, and redcaps are the go-to Feywild grunt nobody runs right.",
-      "angle": "60-sec creature tactic short: redcap's Iron Boots trait, morale rules, and why it should chase fleeing PCs instead of standing and fighting",
-      "source": "https://www.enworld.org/threads/the-feywild-job-review.720278/"
-    },
-    {
-      "title": "The Grapple Escape DC Ruling That's Wrecking Your Horror Encounters",
-      "why_now": "The 'Ultimate Horrors' crowdfunding wave has GMs stocking up on grabby monsters, and most run the escape-DC math wrong.",
-      "angle": "Rules ruling short: contested Athletics/Acrobatics vs static DC, when to use which, with a quick on-screen math example",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
-    },
-    {
-      "title": "Owl Familiar vs. Cat Familiar: The Find Familiar Math Nobody Runs",
-      "why_now": "RPG Evolution's cat-themed piece is trending on EN World, giving a hook to settle the classic familiar debate with actual numbers.",
-      "angle": "Spell use-case short: compare Help action uptime, flight vs. stealth, and scouting range for owl vs. cat, verdict in the last 5 seconds",
-      "source": "https://www.enworld.org/threads/rpg-evolution-whats-new-pussycat.719761/"
-    },
-    {
-      "title": "Running Orc Berserkers Like Warcraft Orcs — Without Breaking Rage Rules",
-      "why_now": "The new D&D x World of Warcraft crossover cover reveal has orc content trending, a perfect excuse for an orc tactics/rage ruling short.",
-      "angle": "Rules ruling short: clarify rage stacking, bonus action limits, and how to make orc berserkers feel Warcraft-brutal within RAW",
+      "title": "The D&D × WoW Book Dropped Alt Covers — Let's Stat a Murloc Properly",
+      "why_now": "Alternate cover reveal for the D&D x World of Warcraft book is trending today and fans are already speculating about monster stats.",
+      "angle": "60-sec stat-block short: build a murloc as a real CR-appropriate 5e monster, dry commentary on 'cute but deadly' marketing vs actual math",
       "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-has-two-alternate-covers.720252/"
     },
     {
-      "title": "Porting a Pathfinder Trap Into 5e: The DC Nobody Checks",
-      "why_now": "DTRPG adding Paizo's full catalogue means more GMs are cross-shopping PF adventures for 5e tables this week.",
-      "angle": "Rules ruling short: quick conversion formula for trap DCs/damage dice between PF2e and 5e, with one worked example",
-      "source": "https://www.enworld.org/threads/dtrpg-now-has-paizos-pathfinder-starfinder-catalogue.720277/"
+      "title": "The Feywild Job Review Reminds Me: Read the Hag's Contract Before You Sign",
+      "why_now": "Fresh review of a Feywild-themed adventure is live, giving a timely hook for fey-pact content.",
+      "angle": "Creature tactic short on running a hag's bargain mechanically — charm save DCs, escape clauses, how GMs botch the 'be careful what you wish for' trope",
+      "source": "https://www.enworld.org/threads/the-feywild-job-review.720278/"
+    },
+    {
+      "title": "New Horror Bestiary Crowdfunds Prove Nobody Learned Anything From HP Bloat",
+      "why_now": "This week's crowdfunding roundup spotlights Ultimate Horrors and Forgotten Foes bestiaries, putting monster design back in the conversation.",
+      "angle": "Rules ruling: rewrite a generic horror monster from HP-sponge to save-or-suck DCC/Shadowdark style, with before/after stat comparison",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
+    },
+    {
+      "title": "Everyone Wants Players to Roleplay More — Here's the Inspiration Rule Nobody Runs Right",
+      "why_now": "Gnomecast just dropped an episode specifically about getting players to roleplay, giving a direct GM-advice tie-in.",
+      "angle": "Rules ruling short: RAW Inspiration mechanics vs the houseruled versions most tables actually use, and why the RAW version is weaker than people think",
+      "source": "https://gnomestew.com/gnomecast-243-getting-them-to-roleplay/"
+    },
+    {
+      "title": "Dark Conspiracy Just Switched to Traveller Rules — Here's Why Bounded Accuracy Wins for Horror",
+      "why_now": "Dark Conspiracy's relaunch on Traveller's percentile system is fresh news reigniting the task-resolution debate.",
+      "angle": "Mechanical comparison short: bounded accuracy vs percentile skill checks for building dread and pacing at the table, veteran GM take",
+      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
     }
   ]
 }
