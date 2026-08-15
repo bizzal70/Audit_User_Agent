@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-14T11:16:46+00:00",
+  "generated": "2026-08-15T11:04:14+00:00",
   "opportunities": [
     {
-      "title": "Your Crypto Wallet Is Only As Safe As Your Shipping Label: Trezor's 13,000-Customer Breach Came Through ShipMonk",
-      "why_now": "Two outlets confirm the same third-party logistics breach exposed Trezor customer data, proving supply-chain risk beats endpoint security every time",
-      "angle": "Breach postmortem — trace the blast radius from ShipMonk to Trezor customers and list every other logistics-dependent vendor that should be sweating",
-      "source": "https://www.theregister.com/security/2026/08/14/crypto-wallet-maker-trezor-confirms-13000-customers-details-exposed-in-logistics-breach/5287734"
-    },
-    {
-      "title": "400 Holes in One Tuesday: Inside Microsoft's Biggest Patch Dump of the Year",
-      "why_now": "Krebs and Dark Reading both flag the same record-setting Patch Tuesday, making it the week's unmissable patch-cadence story",
-      "angle": "Patch-cadence explainer — rank the CVEs by exploitability, flag which ones already have PoCs, give sysadmins a triage order",
-      "source": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
-    },
-    {
-      "title": "vCenter Under Siege: The Critical VMware Flaw Attackers Are Racing to Weaponize Before You Patch",
-      "why_now": "Dark Reading and The Hacker News both report active global exploitation of the same vCenter bug, signaling a live race against defenders",
-      "angle": "Threat-actor tracker — who's exploiting it, what persistence mechanism they're planting, and a patch-now checklist",
+      "title": "vCenter Under Siege: Inside the Global Campaign Exploiting VMware's Critical Flaw — And Why Your Patch Window Just Shrank to Hours",
+      "why_now": "A critical VMware vCenter vulnerability is being hit by a coordinated global exploitation campaign right now, making it the week's most urgent patch-cadence story.",
+      "angle": "Breach-digest explainer: CVE details, exploitation timeline, who's affected, and a hard patch-now deadline framing",
       "source": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw"
     },
     {
-      "title": "PoC to Pwn in Record Time: SharePoint Auth Bypass Gets Exploited the Moment the Exploit Code Drops",
-      "why_now": "The Hacker News reports active exploitation immediately following public PoC release, the exact pattern that defines 'inevitable breach' timing",
-      "angle": "Timeline breakdown — hours between disclosure, PoC, and first observed attack, with a call for faster patch windows",
+      "title": "From PoC to Payload in Days: SharePoint Auth Bypass Shows the Patch Window Is Basically Gone",
+      "why_now": "Attackers began exploiting a SharePoint authentication bypass almost immediately after a public proof-of-concept dropped, underscoring the collapsing gap between disclosure and exploitation.",
+      "angle": "Timeline breakdown (disclosure → PoC → exploitation) as a recurring 'patch cadence' case study",
       "source": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
     },
     {
-      "title": "An AWS Key Left in JavaScript Just Cost Over 1,000 Charities Their Donor Data",
-      "why_now": "SecurityWeek confirms the Beacon CRM breach traces back to a hardcoded AWS key, a rookie mistake with a four-figure victim count",
-      "angle": "Root-cause teardown — how a single exposed credential cascaded into a mass nonprofit breach, plus a dev checklist to catch this before it ships",
-      "source": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/"
+      "title": "This Week's Breach Roll Call: RingCentral, ShipMonk/Trezor, Shell/Clop, and Beacon CRM — 1.6M+ Records and Counting",
+      "why_now": "Four unrelated breach disclosures landed within 48 hours, each hitting different sectors, making this the definitive 'inevitable breach' digest entry for the week.",
+      "angle": "Roundup format: quick-hit summary table of each breach, scope, and what it signals about third-party risk exposure",
+      "source": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/"
+    },
+    {
+      "title": "Lazarus Group Pops a Windows Zero-Day for SYSTEM Access — State Hackers Aren't Slowing Down",
+      "why_now": "A nation-state APT actively exploiting an unpatched Windows zero-day for privilege escalation is a top-tier threat-actor story breaking this week.",
+      "angle": "Threat-actor profile: TTPs, backdoor capabilities, and what defenders should hunt for right now",
+      "source": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
+    },
+    {
+      "title": "Adobe Just Dropped Three CVSS 10.0 Bugs — Here's Your ColdFusion/Campaign Classic Patch Priority List",
+      "why_now": "Adobe's rare trio of maximum-severity flaws in ColdFusion and Campaign Classic demands immediate attention from any org running these platforms.",
+      "angle": "Patch-cadence explainer with severity breakdown and a prioritized remediation checklist",
+      "source": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
     }
   ]
 }

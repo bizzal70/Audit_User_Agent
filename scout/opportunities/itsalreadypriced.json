@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-14T11:16:46+00:00",
+  "generated": "2026-08-15T11:04:14+00:00",
   "opportunities": [
     {
-      "title": "Bitcoin Firms Want AI Labs to Find Their Bugs. Read That Again.",
-      "why_now": "Crypto companies are publicly asking AI labs for early developer access to harden Bitcoin, while a separate red team is already using Chinese AI (Kimi) to hunt flaws in the protocol — the outsourcing-your-security-to-a-black-box trend is now mainstream.",
-      "angle": "Security-led op-ed: outsourcing core protocol security review to opaque AI models (foreign or domestic) is a supply-chain risk, not a fix — trace the incentive mismatch and what 'early access' actually means for adversarial actors",
-      "source": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools"
+      "title": "678,000 French Taxpayers Just Got Doxxed to Crypto Wrench Gangs",
+      "why_now": "A government tax leak just handed physical-attack targeting lists to criminals, and Coldcard losses already top $150M this year — the two stories are the same story.",
+      "angle": "Investigative explainer connecting the French breach to the ongoing wrench-attack wave, with concrete OPSEC steps (custody splitting, plausible deniability wallets, doxxing hygiene) — 'the state can leak you even if you never got hacked'",
+      "source": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876"
     },
     {
-      "title": "Trezor Just Taught 14,000 Hardware Wallet Buyers Why Shipping Metadata Is an Attack Surface",
-      "why_now": "A fulfilment partner breach exposed names/addresses of Trezor customers — the exact dataset attackers need for targeted physical and phishing attacks against known crypto holders.",
-      "angle": "Practical security explainer: what a shipping breach actually enables (SIM-swap targeting, mail theft, wrench attacks), plus a checklist for anyone who's ordered a hardware wallet in the last 2 years",
-      "source": "https://www.theblock.co/news/business/2026-08-13-trezor-shipping-provider-breach-exposes-personal-data-nearly-14000-customers-411702"
+      "title": "Coldcard's $150M Problem: When the 'Secure' Wallet Becomes the Attack Vector",
+      "why_now": "Galaxy's new estimate puts Coldcard-linked losses over $150M, a number big enough to force a hard look at hardware-wallet trust assumptions.",
+      "angle": "Security teardown: what actually went wrong (supply chain? seed extraction? social engineering?), scored against a 'self-custody checklist' — skeptical, not promotional",
+      "source": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million"
     },
     {
-      "title": "The $550K Google Ad That Looked Exactly Like Hyperliquid",
-      "why_now": "A single malicious Google ad drained over half a million dollars from a Hyperliquid user this week — a textbook, still-unsolved attack vector hitting sophisticated traders, not newbies.",
-      "angle": "Forensic breakdown format: how the ad spoofing worked, why platform-level trust signals failed, and the standing defense (bookmark your URLs, never click sponsored crypto links) that nobody follows",
-      "source": "https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755"
+      "title": "Tether Got Its First Audit and Still Won't Show You the Statements",
+      "why_now": "KPMG signed off on Tether's first full audit but the underlying statements weren't published, and CEO Ardoino's 'I don't care' response is doing the rounds today.",
+      "angle": "Skeptic's ledger: what an audit without disclosure actually proves (not much) — a checklist of what real transparency would require, aimed at readers who've heard 'audited' promises before",
+      "source": "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886"
     },
     {
-      "title": "Harmony's Rollback Dilemma Is the Same Old Story: 'Immutable' Chains Aren't",
-      "why_now": "Harmony is weighing a rollback after a suspected exploit inflated ONE supply — reviving the exact governance-vs-immutability fight the industry claimed it settled after The DAO.",
-      "angle": "Contrarian analysis: why rollbacks keep coming back on the table, what it says about L1 security assumptions investors should have priced in already, tie to past incidents (Harmony's own 2022 bridge hack)",
-      "source": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The $11.8M LinkedIn Job Offer: Inside Singapore's Crypto Recruiter Scam Wave",
+      "why_now": "Singapore just tallied $11.8M in losses from fake crypto job offers on LinkedIn, a vector that's scaling fast and hitting technically sophisticated targets.",
+      "angle": "Anatomy-of-a-scam piece: how the fake recruiter pipeline works step by step (interview → 'coding test' → malware/wallet drain), with a spot-the-signs checklist for anyone job-hunting in crypto",
+      "source": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore"
     },
     {
-      "title": "Tether's 'Clean' KPMG Audit Comes With No Actual Statements to Read",
-      "why_now": "Tether is loudly claiming its first full Big Four audit while simultaneously not publishing the underlying financials — a gap security-minded readers should immediately flag.",
-      "angle": "Skeptic's breakdown: what 'clean opinion' legally means vs. what transparency would require, why non-disclosure of statements undercuts the PR win, and what to actually watch for before trusting the $180B peg",
-      "source": "https://thedefiant.io/converge/cefi/tether-clears-first-full-audit-from-kpmg-without-publishing-the-statements"
+      "title": "Ireland Wants 'Enhanced Checks' on Your Private Wallet — Here's What That Actually Means",
+      "why_now": "Ireland's new AML strategy explicitly targets self-custodied wallets just as self-custody incidents (French leak, Coldcard losses) dominate headlines, setting up a security-vs-surveillance collision.",
+      "angle": "Policy-meets-security analysis: does state wallet surveillance make holders safer or just create a bigger honeypot/target list — framed for readers who already distrust both hackers and regulators equally",
+      "source": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets"
     }
   ]
 }

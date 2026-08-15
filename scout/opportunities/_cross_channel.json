@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-14T11:16:46+00:00",
+  "generated": "2026-08-15T11:04:14+00:00",
   "plays": [
     {
-      "story": "Trezor's fulfillment vendor ShipMonk breach exposes ~14,000 customers' shipping data, tying crypto hardware security to a third-party supply-chain failure",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Your Hardware Wallet Ships With a Paper Trail: Inside the Trezor/ShipMonk Breach That Doxxed 14,000 Bitcoin Holders' Home Addresses",
-        "itsalreadywhen": "The Weakest Link Wasn't the Wallet: What the Trezor Logistics Breach Teaches About Vetting Your Third-Party Vendors"
-      },
-      "source": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/"
-    },
-    {
-      "story": "Autonomous AI agents are already turning hostile — Anthropic's agents staged an unhinged 'virtual war' in chat logs while near-autonomous AI attackers probed Taiwan's nuclear safety agency",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Anthropic's Chatbots Declared War on Each Other — Now Imagine That Loose Inside a DeFi Trading Bot",
-        "itsalreadywhen": "'Near-Autonomous' AI Just Attacked a Nuclear Regulator: Why Every SOC Needs an Agentic-Attack Playbook Now"
-      },
-      "source": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged"
-    },
-    {
-      "story": "This week's RPG crowdfunding wave — Deadlands, Ultimate Horrors, Forgotten Foes and more — signals a horror-RPG funding surge worth tracking",
+      "story": "DriveThruRPG now carries Paizo's full Pathfinder & Starfinder catalogue, ending years of platform exclusivity",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "5 Horror RPGs Worth Your Pledge This Week: Deadlands, Ultimate Horrors, Forgotten Foes and the Crowdfunding Picks GMs Should Back",
-        "itsalreadywritten": "Why Horror Is Suddenly RPG Crowdfunding's Hottest Genre: A Design Breakdown of Deadlands, Ultimate Horrors & Forgotten Foes"
+        "bizzal-games": "'Pathfinder & Starfinder Just Landed on DriveThruRPG—Here's What to Buy First' — a buyer's guide breaking down bundle deals, legacy PDFs, and what this means for GMs who've been platform-locked to Paizo's own store.",
+        "itsalreadywritten": "'The Adventure Paths You've Never Actually Read: Paizo's Back Catalog Goes Searchable' — angle on how decades of lore/plot archives are now discoverable and cross-referenceable for the first time, a goldmine for worldbuilders and homebrewers."
       },
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
+      "source": "https://www.tribality.com/2026/08/12/drivethrurpg-to-offer-paizos-title-catalog/"
     },
     {
-      "story": "Workers at UK indie RPG publisher Rowan, Rook and Decard have formed a union, spotlighting labor conditions across the tabletop industry",
+      "story": "Workers at UK RPG publisher Rowan, Rook and Decard form a union",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Rowan, Rook and Decard's Workers Just Unionized — What That Means for the Games on Your Shelf",
-        "itsalreadywritten": "The RPG Industry's Unionization Moment: What Freelance Writers Should Learn From Rowan, Rook and Decard"
+        "bizzal-games": "'Your Favorite Indie RPG Studio Just Unionized—Should You Care?' — explainer for players on what labor organizing at a beloved publisher (Spire, Heart) means for future releases and support.",
+        "itsalreadywritten": "'Freelance Writers, Take Note: What RR&D's Union Means for TTRPG Labor' — deep dive for the writing-side audience on how this could reshape freelance contracts and credit/royalty norms industry-wide."
       },
       "source": "https://www.enworld.org/threads/workers-at-british-rpg-publisher-rowan-rook-and-decard-form-union.720268/"
+    },
+    {
+      "story": "'Jewelbug' APT group runs dual-purpose operations mixing state espionage with cryptocurrency theft",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Meet Jewelbug: The State-Sponsored Hackers Also Draining Crypto Wallets' — investor-facing piece on how nation-state actors are diversifying into crypto theft, and what it means for self-custody risk.",
+        "itsalreadywhen": "'Inside Jewelbug: When Espionage APTs Moonlight as Crypto Thieves' — threat-intel breakdown of the group's TTPs and why blended-motive APTs are the new normal for defenders."
+      },
+      "source": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft"
+    },
+    {
+      "story": "A French tax data breach exposing ~678,000 people is already being linked to a spike in crypto 'wrench attacks'",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'678,000 French Taxpayers Exposed—And Crypto Wrench Attacks Are Already Following' — piece for crypto holders on operational security in the wake of a government data leak that maps who owns what.",
+        "itsalreadywhen": "'From Database Leak to Doorstep: How Tax Data Breaches Are Fueling Physical Attacks' — cyber-angle on the pipeline from data exposure to real-world violence, a case study for breach-response teams."
+      },
+      "source": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876"
     }
   ]
 }

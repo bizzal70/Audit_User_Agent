@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-14T11:16:46+00:00",
+  "generated": "2026-08-15T11:04:14+00:00",
   "opportunities": [
     {
-      "title": "The D&D × WoW Book Dropped Alt Covers — Let's Stat a Murloc Properly",
-      "why_now": "Alternate cover reveal for the D&D x World of Warcraft book is trending today and fans are already speculating about monster stats.",
-      "angle": "60-sec stat-block short: build a murloc as a real CR-appropriate 5e monster, dry commentary on 'cute but deadly' marketing vs actual math",
-      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-has-two-alternate-covers.720252/"
-    },
-    {
-      "title": "The Feywild Job Review Reminds Me: Read the Hag's Contract Before You Sign",
-      "why_now": "Fresh review of a Feywild-themed adventure is live, giving a timely hook for fey-pact content.",
-      "angle": "Creature tactic short on running a hag's bargain mechanically — charm save DCs, escape clauses, how GMs botch the 'be careful what you wish for' trope",
+      "title": "Hags Don't Fight Fair: The Feywild Job's Bargain-Curse Tactic You're Not Using",
+      "why_now": "The Feywild Job review just dropped, spotlighting fey-pact villains ripe for a tactics breakdown.",
+      "angle": "60-sec 'creature tactic' short: how a hag NPC weaponizes a Feywild bargain clause mid-combat instead of just casting spells",
       "source": "https://www.enworld.org/threads/the-feywild-job-review.720278/"
     },
     {
-      "title": "New Horror Bestiary Crowdfunds Prove Nobody Learned Anything From HP Bloat",
-      "why_now": "This week's crowdfunding roundup spotlights Ultimate Horrors and Forgotten Foes bestiaries, putting monster design back in the conversation.",
-      "angle": "Rules ruling: rewrite a generic horror monster from HP-sponge to save-or-suck DCC/Shadowdark style, with before/after stat comparison",
+      "title": "Forgotten Foes: Statblock I'm Stealing Before It Even Ships",
+      "why_now": "Forgotten Foes just hit crowdfunding news, giving a fresh, on-trend monster book to riff on before the wider community digests it.",
+      "angle": "Rules-ruling short converting one teased Forgotten Foes monster ability into a legal 5e/Shadowdark stat tweak, with a GM tip on running it",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
     },
     {
-      "title": "Everyone Wants Players to Roleplay More — Here's the Inspiration Rule Nobody Runs Right",
-      "why_now": "Gnomecast just dropped an episode specifically about getting players to roleplay, giving a direct GM-advice tie-in.",
-      "angle": "Rules ruling short: RAW Inspiration mechanics vs the houseruled versions most tables actually use, and why the RAW version is weaker than people think",
-      "source": "https://gnomestew.com/gnomecast-243-getting-them-to-roleplay/"
+      "title": "PF2 Grapple vs 5e Grapple: Same Table, Two Rulings, One Correct Answer",
+      "why_now": "DTRPG adding Paizo's full catalogue puts Pathfinder 2e back in every 5e GM's feed this week, perfect setup for a system-contrast ruling.",
+      "angle": "Side-by-side dry mechanical breakdown: how a 5e grapple ruling differs from PF2, ending with 'here's the ruling I actually use'",
+      "source": "https://www.enworld.org/threads/dtrpg-now-has-paizos-pathfinder-starfinder-catalogue.720277/"
     },
     {
-      "title": "Dark Conspiracy Just Switched to Traveller Rules — Here's Why Bounded Accuracy Wins for Horror",
-      "why_now": "Dark Conspiracy's relaunch on Traveller's percentile system is fresh news reigniting the task-resolution debate.",
-      "angle": "Mechanical comparison short: bounded accuracy vs percentile skill checks for building dread and pacing at the table, veteran GM take",
+      "title": "The AD&D Ruling White Dwarf Got Right (That 5e Quietly Undid)",
+      "why_now": "White Dwarf Reflections #43 is stirring old-school nostalgia, a natural hook to contrast a classic ruling against modern 5e/Shadowdark defaults.",
+      "angle": "Veteran-GM 'then vs now' short on one specific old-school ruling (e.g. surprise round or morale check) and why it still works better at some tables",
+      "source": "https://www.enworld.org/threads/white-dwarf-reflections-43.719756/"
+    },
+    {
+      "title": "Reskinning 101: Turning Traveller's Rules Into Cosmic Horror Without Breaking Math",
+      "why_now": "Dark Conspiracy's relaunch on Traveller rules is a live case study in system-reskinning that tabletop GMs are actively discussing right now.",
+      "angle": "Wry 'how the math survives the reskin' short: pull one Traveller mechanic and show how a DCC/5e GM could steal the same trick for a horror one-shot",
       "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
     }
   ]

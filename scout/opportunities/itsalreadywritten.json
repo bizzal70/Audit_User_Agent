@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-14T11:16:46+00:00",
+  "generated": "2026-08-15T11:04:14+00:00",
   "opportunities": [
     {
-      "title": "Dark Conspiracy Returns: What Traveller's Rules Actually Change About Cosmic Horror",
-      "why_now": "A classic horror RPG is being revived on a completely different rules chassis, which is exactly the kind of system-migration story this channel exists to unpack.",
-      "angle": "Rules breakdown comparing original Dark Conspiracy mechanics vs. Traveller's task/skill system and what horror gains or loses in translation",
+      "title": "Dark Conspiracy Is Back — And It's Wearing Traveller's Rules Chassis",
+      "why_now": "A classic horror RPG just resurfaced running on the Traveller engine, giving rules-nerds a fresh system-crossover to dissect.",
+      "angle": "Rules-first breakdown: what changes when horror investigation gets bolted onto Traveller's career/skill chassis, and what carries over cleanly vs. what needs houseruling",
       "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
     },
     {
-      "title": "Pathfinder & Starfinder Just Landed on DriveThruRPG — Here's What That Means for PDF Buyers",
-      "why_now": "Paizo's full catalogue hitting DTRPG is a concrete, actionable distribution shift for anyone tracking where to actually buy rulebooks.",
-      "angle": "News-first post with practical FAQ: pricing parity, bundle availability, print-and-PDF combos, and how this affects Paizo's own store",
-      "source": "https://www.enworld.org/threads/dtrpg-now-has-paizos-pathfinder-starfinder-catalogue.720277/"
+      "title": "The Math Behind the Markup: Why Your Kickstarter Dice Tower Costs 600% More Than It Should",
+      "why_now": "A new EN World piece is naming the actual markup percentages on TTRPG crowdfunding merch, which is catnip for a facts-first audience.",
+      "angle": "Explainer with the receipts — break down manufacturing cost vs. backer price, name the pattern, no vague grumbling",
+      "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
     },
     {
-      "title": "Rowan, Rook and Decard Workers Unionize: What It Means for Your Favorite Indie RPG Books",
-      "why_now": "A UK RPG publisher's staff forming a union is fresh, verifiable industry news with direct implications for release schedules and labor practices at a company known for Fabula Ultima and Brindlewood Bay.",
-      "angle": "Facts-first explainer on what the union is asking for and precedent from other unionized game studios",
+      "title": "Paizo's Entire Catalogue Just Landed on DriveThruRPG — Here's What That Actually Changes",
+      "why_now": "Two outlets (EN World and Tribality) confirmed the same day that Pathfinder/Starfinder are now on DTRPG, a genuine distribution-rules shift worth mapping out.",
+      "angle": "News-plus-analysis: what this means for PDF availability, bundle pricing, and OGL-adjacent licensing questions readers actually care about",
+      "source": "https://www.tribality.com/2026/08/12/drivethrurpg-to-offer-paizos-title-catalog/"
+    },
+    {
+      "title": "Rowan, Rook and Decard's Staff Just Unionized — What It Means for the Rules You're Reading",
+      "why_now": "UK publisher RRD workers forming a union is a rare labor story directly tied to the people who write the rulebooks you buy.",
+      "angle": "Explainer on what a TTRPG publisher union means for release schedules, freelancer rates, and future book quality — tie back to 'who actually writes the rules'",
       "source": "https://www.enworld.org/threads/workers-at-british-rpg-publisher-rowan-rook-and-decard-form-union.720268/"
     },
     {
-      "title": "The Feywild Job Review: Does the System Match the Heist Fantasy?",
-      "why_now": "A same-week review gives an easy timely hook to dig into whether the ruleset actually supports the heist genre it's selling.",
-      "angle": "Rules-first review angle — mechanics-vs-genre fit checklist rather than prose/art critique",
-      "source": "https://www.enworld.org/threads/the-feywild-job-review.720278/"
-    },
-    {
-      "title": "Crowdfunding Roundup: Deadlands, Ultimate Horrors, and the Rules You're Actually Backing",
-      "why_now": "Multiple live crowdfunded RPGs dropped this week, and backers need to know what rules engine they're funding before pledging.",
-      "angle": "Quick-hit comparison table of each project's core system (Savage Worlds vs. custom) with pledge-decision framing",
+      "title": "This Week in Crowdfunded Rules: Deadlands, Ultimate Horrors, and the Fine Print Worth Reading",
+      "why_now": "A fresh crowdfunding digest bundles several rules-heavy campaigns (Deadlands, Ultimate Horrors, Forgotten Foes) into one timely roundup opportunity.",
+      "angle": "Curated digest format: pull the actual stretch-goal rules content from each campaign, flag which mechanics are genuinely new vs. reskins",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
     }
   ]
