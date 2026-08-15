@@ -3230,5 +3230,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-15",
+    "videos": [
+      {
+        "id": "Jm_sx8r3Tz0",
+        "title": "Sphinx's Roar can paralyze all creatures within far range for up to 4 rounds #shadowdark",
+        "published": "2026-08-14",
+        "views": 4,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "RN_FnBSZ2Hw",
+        "title": "Making an Attack allows multiple actions to trigger an attack #dnd5e",
+        "published": "2026-08-14",
+        "views": 30,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "yjY_oyA2ObM",
+        "title": "Dwarf's Shield Brother action grants an adjacent ally +2 AC by body-blocking #dcc",
+        "published": "2026-08-14",
+        "views": 9,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "IIv_m9YgifY",
+        "title": "Ras-Godai's Smoke Step allows three near teleports per day as a free action #shadowdark",
+        "published": "2026-08-13",
+        "views": 24,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "9TrO_Rq0EpU",
+        "title": "Unseen Servant's utility is often underestimated due to its non-combat nature #dnd5e",
+        "published": "2026-08-13",
+        "views": 71,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "RxnKfVx-_H4",
+        "title": "Run Fissure Wasp Architect where terrain creates risk every turn and rewards #dcc",
+        "published": "2026-08-13",
+        "views": 31,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "aKrxQAr149w",
+        "title": "Mother Of Night can drag a failed caster into The Nightfall, not just fizzle #shadowdark",
+        "published": "2026-08-12",
+        "views": 33,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "k4rPt_JbKA4",
+        "title": "Wererat's Bite attack can spread lycanthropy #dnd5e",
+        "published": "2026-08-12",
+        "views": 202,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "lpDf4LIZUf8",
+        "title": "Armor-breaker Weapon destroys armor on any critical hit #dcc",
+        "published": "2026-08-12",
+        "views": 75,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "kA2lCqnqgnE",
+        "title": "Swarm Centipede is vulnerable to mental attacks #shadowdark",
+        "published": "2026-08-11",
+        "views": 210,
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "Gk6cDvsQmrs",
+        "title": "Morale checks occur when half a monster group is defeated or a key ally falls #shadowdark",
+        "published": "2026-08-11",
+        "views": 90,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "ufDI36x3bJE",
+        "title": "Alchemist's Supplies cost 50 GP and weigh 8 pounds #dnd5e",
+        "published": "2026-08-11",
+        "views": 163,
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   }
 ]
