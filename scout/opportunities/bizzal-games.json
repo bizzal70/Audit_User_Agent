@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-15T11:04:14+00:00",
+  "generated": "2026-08-16T11:05:24+00:00",
   "opportunities": [
     {
-      "title": "Hags Don't Fight Fair: The Feywild Job's Bargain-Curse Tactic You're Not Using",
-      "why_now": "The Feywild Job review just dropped, spotlighting fey-pact villains ripe for a tactics breakdown.",
-      "angle": "60-sec 'creature tactic' short: how a hag NPC weaponizes a Feywild bargain clause mid-combat instead of just casting spells",
-      "source": "https://www.enworld.org/threads/the-feywild-job-review.720278/"
+      "title": "The 600% Kickstarter Markup Isn't the Scandal — Your Loot Table Is",
+      "why_now": "EN World's piece on TTRPG Kickstarter merch markups is stirring community outrage about pricing right now.",
+      "angle": "Dry rules-ruling short: use the merch-markup outrage as a cold open, then give the actual 5e DMG guidance for pricing magic items so GMs stop under/overcharging their own players.",
+      "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
     },
     {
-      "title": "Forgotten Foes: Statblock I'm Stealing Before It Even Ships",
-      "why_now": "Forgotten Foes just hit crowdfunding news, giving a fresh, on-trend monster book to riff on before the wider community digests it.",
-      "angle": "Rules-ruling short converting one teased Forgotten Foes monster ability into a legal 5e/Shadowdark stat tweak, with a GM tip on running it",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
+      "title": "Dark Conspiracy Is Back — Here's the 5e Statblock for Its Signature Body-Horror Monster",
+      "why_now": "The classic horror RPG's relaunch on Traveller rules is generating fresh horror-genre buzz this week.",
+      "angle": "Creature tactic short: port one iconic Dark Conspiracy horror over to 5e/Shadowdark with a specific tactic (e.g., how it targets fleeing PCs, when to use fear effects) — no lore dump, just the mechanic.",
+      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
     },
     {
-      "title": "PF2 Grapple vs 5e Grapple: Same Table, Two Rulings, One Correct Answer",
-      "why_now": "DTRPG adding Paizo's full catalogue puts Pathfinder 2e back in every 5e GM's feed this week, perfect setup for a system-contrast ruling.",
-      "angle": "Side-by-side dry mechanical breakdown: how a 5e grapple ruling differs from PF2, ending with 'here's the ruling I actually use'",
-      "source": "https://www.enworld.org/threads/dtrpg-now-has-paizos-pathfinder-starfinder-catalogue.720277/"
+      "title": "Running Cosmic Horror in DCC: The One Spell Check That Should Always Go Wrong",
+      "why_now": "Dark Conspiracy's relaunch has horror-tabletop chatter trending, a natural tie-in for DCC's brutal magic system.",
+      "angle": "Spell use-case short: take a DCC corruption-heavy spell and explain the exact ruling for when a failed check should manifest body horror instead of a whiffed effect.",
+      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
     },
     {
-      "title": "The AD&D Ruling White Dwarf Got Right (That 5e Quietly Undid)",
-      "why_now": "White Dwarf Reflections #43 is stirring old-school nostalgia, a natural hook to contrast a classic ruling against modern 5e/Shadowdark defaults.",
-      "angle": "Veteran-GM 'then vs now' short on one specific old-school ruling (e.g. surprise round or morale check) and why it still works better at some tables",
+      "title": "The Morale Rule White Dwarf Had in the 80s That 5e Still Doesn't",
+      "why_now": "EN World's White Dwarf Reflections #43 is reviving nostalgia for old-school design choices this week.",
+      "angle": "Rules ruling short: pull a specific classic morale/rout mechanic referenced in the retrospective and give GMs a drop-in 5e houserule version.",
       "source": "https://www.enworld.org/threads/white-dwarf-reflections-43.719756/"
     },
     {
-      "title": "Reskinning 101: Turning Traveller's Rules Into Cosmic Horror Without Breaking Math",
-      "why_now": "Dark Conspiracy's relaunch on Traveller rules is a live case study in system-reskinning that tabletop GMs are actively discussing right now.",
-      "angle": "Wry 'how the math survives the reskin' short: pull one Traveller mechanic and show how a DCC/5e GM could steal the same trick for a horror one-shot",
-      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
+      "title": "Today's TTRPG News Digest Had One Rules Debate Buried In It — Solved in 40 Seconds",
+      "why_now": "EN World's Aug 14 digest is the freshest aggregation of tabletop chatter, ripe for a rapid reaction format.",
+      "angle": "Rapid-fire dry-GM reaction format: skim the digest on camera, pick the one item sparking a rules argument, and deliver a definitive ruling before the clip ends.",
+      "source": "https://www.enworld.org/threads/news-digest-for-august-14-2026.720301/"
     }
   ]
 }

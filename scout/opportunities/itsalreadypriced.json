@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-15T11:04:14+00:00",
+  "generated": "2026-08-16T11:05:24+00:00",
   "opportunities": [
     {
-      "title": "678,000 French Taxpayers Just Got Doxxed to Crypto Wrench Gangs",
-      "why_now": "A government tax leak just handed physical-attack targeting lists to criminals, and Coldcard losses already top $150M this year — the two stories are the same story.",
-      "angle": "Investigative explainer connecting the French breach to the ongoing wrench-attack wave, with concrete OPSEC steps (custody splitting, plausible deniability wallets, doxxing hygiene) — 'the state can leak you even if you never got hacked'",
-      "source": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876"
-    },
-    {
-      "title": "Coldcard's $150M Problem: When the 'Secure' Wallet Becomes the Attack Vector",
-      "why_now": "Galaxy's new estimate puts Coldcard-linked losses over $150M, a number big enough to force a hard look at hardware-wallet trust assumptions.",
-      "angle": "Security teardown: what actually went wrong (supply chain? seed extraction? social engineering?), scored against a 'self-custody checklist' — skeptical, not promotional",
+      "title": "Coldcard's $150M Problem: When 'Not Your Keys, Not Your Coins' Meets a Supply-Chain Exploit",
+      "why_now": "Galaxy's new estimate pegs Coldcard-related losses near $150M, turning a niche hardware-wallet issue into a self-custody credibility crisis.",
+      "angle": "Security teardown: what actually broke (device, firmware, or human), and why 'cold storage' isn't a synonym for 'safe' — end with a checklist of what self-custody actually requires now.",
       "source": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million"
     },
     {
-      "title": "Tether Got Its First Audit and Still Won't Show You the Statements",
-      "why_now": "KPMG signed off on Tether's first full audit but the underlying statements weren't published, and CEO Ardoino's 'I don't care' response is doing the rounds today.",
-      "angle": "Skeptic's ledger: what an audit without disclosure actually proves (not much) — a checklist of what real transparency would require, aimed at readers who've heard 'audited' promises before",
+      "title": "The French Tax Leak Just Doxxed 678,000 Bitcoin Holders to Every Wrench-Attack Crew in Europe",
+      "why_now": "A government breach exposing tax data on crypto holders lands right as wrench attacks are already piling up — this is the exact failure mode the self-custody crowd never prices in.",
+      "angle": "Threat-model piece: state-held KYC/tax data as the real attack surface, not exchanges — practical opsec for people whose government already knows what they hold.",
+      "source": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876"
+    },
+    {
+      "title": "Tether's 'First Audit' Isn't an Audit — It's a Press Release With KPMG's Logo On It",
+      "why_now": "Tether just claimed its first full KPMG audit while declining to publish the actual statements, and the CEO's 'I don't care' response is a gift for a skeptical breakdown.",
+      "angle": "Explainer/takedown: audit vs. attestation vs. 'trust me,' with a plain-English list of what's still not disclosed — voice-perfect for 'people who already know how this ends.'",
       "source": "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886"
     },
     {
-      "title": "The $11.8M LinkedIn Job Offer: Inside Singapore's Crypto Recruiter Scam Wave",
-      "why_now": "Singapore just tallied $11.8M in losses from fake crypto job offers on LinkedIn, a vector that's scaling fast and hitting technically sophisticated targets.",
-      "angle": "Anatomy-of-a-scam piece: how the fake recruiter pipeline works step by step (interview → 'coding test' → malware/wallet drain), with a spot-the-signs checklist for anyone job-hunting in crypto",
-      "source": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore"
+      "title": "Neutrl Just Froze Redemptions — Here's the Reserve-Impact Story Nobody Wants to Say Out Loud",
+      "why_now": "A synthetic-dollar protocol pausing mint/redeem while 'assessing reserve impact' is the exact pre-depeg language market veterans have learned to read as a red flag.",
+      "angle": "Live incident tracker: timeline of the pause, what 'assessing reserve impact' usually precedes, and a framework for spotting the next one before it freezes your funds.",
+      "source": "https://www.thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact"
     },
     {
-      "title": "Ireland Wants 'Enhanced Checks' on Your Private Wallet — Here's What That Actually Means",
-      "why_now": "Ireland's new AML strategy explicitly targets self-custodied wallets just as self-custody incidents (French leak, Coldcard losses) dominate headlines, setting up a security-vs-surveillance collision.",
-      "angle": "Policy-meets-security analysis: does state wallet surveillance make holders safer or just create a bigger honeypot/target list — framed for readers who already distrust both hackers and regulators equally",
-      "source": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets"
+      "title": "$116M in Self-Custody Losses This Month Alone — Bitcoin's 'Not Your Keys' Mantra Has a Body Count Now",
+      "why_now": "Cointelegraph's roundup puts a hard number on the self-custody incident wave, giving the beat a clean data point to anchor a broader security thesis.",
+      "angle": "Data-led op-ed: aggregate the incident numbers (Coldcard, wrench attacks, France leak) into one 'self-custody tax' figure and argue why the market is underpricing operational security risk.",
+      "source": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

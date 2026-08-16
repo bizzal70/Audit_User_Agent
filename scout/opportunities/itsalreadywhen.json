@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-15T11:04:14+00:00",
+  "generated": "2026-08-16T11:05:24+00:00",
   "opportunities": [
     {
-      "title": "vCenter Under Siege: Inside the Global Campaign Exploiting VMware's Critical Flaw — And Why Your Patch Window Just Shrank to Hours",
-      "why_now": "A critical VMware vCenter vulnerability is being hit by a coordinated global exploitation campaign right now, making it the week's most urgent patch-cadence story.",
-      "angle": "Breach-digest explainer: CVE details, exploitation timeline, who's affected, and a hard patch-now deadline framing",
+      "title": "ChainDrop: The npm Worm That Slithers Past Your SCA Tools",
+      "why_now": "A newly discovered worm is actively crawling through the npm supply chain and evading standard defenses right now, making it a live threat to any JS shop that hasn't audited dependencies today.",
+      "angle": "Technical breakdown of ChainDrop's evasion tricks + a checklist for auditing package-lock files and CI pipelines this week",
+      "source": "https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958"
+    },
+    {
+      "title": "This Week in Inevitable Breaches: RingCentral, Trezor, and the Charities Caught in Between",
+      "why_now": "Three unrelated breaches (RingCentral/ShinyHunters, Trezor via ShipMonk, Beacon CRM hitting 1,000+ charities) landed within 48 hours, all tracing back to third-party/vendor exposure.",
+      "angle": "Digest-style roundup connecting the common thread of vendor/logistics-partner breaches as the real attack surface",
+      "source": "https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003"
+    },
+    {
+      "title": "Akira Ransomware's New Trick: Kill Your EDR by Rebooting Into Safe Mode",
+      "why_now": "Akira operators are actively using a Safe Mode trick to blind EDR tools mid-attack, a technique defenders need to detect and block now.",
+      "angle": "Threat-actor TTP explainer with detection/mitigation steps (Safe Mode boot alerts, GPO restrictions)",
+      "source": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/"
+    },
+    {
+      "title": "Global Campaign Hammers Critical VMware vCenter Flaw — Have You Patched?",
+      "why_now": "Active exploitation of a critical vCenter vulnerability is happening globally right now, making unpatched systems an immediate target.",
+      "angle": "Patch-cadence urgency post: CVE details, exploitation timeline, and a 'patch now' priority list for admins",
       "source": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw"
     },
     {
-      "title": "From PoC to Payload in Days: SharePoint Auth Bypass Shows the Patch Window Is Basically Gone",
-      "why_now": "Attackers began exploiting a SharePoint authentication bypass almost immediately after a public proof-of-concept dropped, underscoring the collapsing gap between disclosure and exploitation.",
-      "angle": "Timeline breakdown (disclosure → PoC → exploitation) as a recurring 'patch cadence' case study",
-      "source": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
-    },
-    {
-      "title": "This Week's Breach Roll Call: RingCentral, ShipMonk/Trezor, Shell/Clop, and Beacon CRM — 1.6M+ Records and Counting",
-      "why_now": "Four unrelated breach disclosures landed within 48 hours, each hitting different sectors, making this the definitive 'inevitable breach' digest entry for the week.",
-      "angle": "Roundup format: quick-hit summary table of each breach, scope, and what it signals about third-party risk exposure",
-      "source": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/"
-    },
-    {
-      "title": "Lazarus Group Pops a Windows Zero-Day for SYSTEM Access — State Hackers Aren't Slowing Down",
-      "why_now": "A nation-state APT actively exploiting an unpatched Windows zero-day for privilege escalation is a top-tier threat-actor story breaking this week.",
-      "angle": "Threat-actor profile: TTPs, backdoor capabilities, and what defenders should hunt for right now",
-      "source": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
-    },
-    {
-      "title": "Adobe Just Dropped Three CVSS 10.0 Bugs — Here's Your ColdFusion/Campaign Classic Patch Priority List",
-      "why_now": "Adobe's rare trio of maximum-severity flaws in ColdFusion and Campaign Classic demands immediate attention from any org running these platforms.",
-      "angle": "Patch-cadence explainer with severity breakdown and a prioritized remediation checklist",
-      "source": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+      "title": "Correction: It Was Trivy, Not LiteLLM, Behind the 2,500-Org Compromise",
+      "why_now": "SecurityWeek's correction reframes a major supply-chain compromise story, and getting attribution right matters for anyone who patched the wrong tool.",
+      "angle": "Myth-busting/correction piece clarifying the real vulnerable component and what orgs should actually check",
+      "source": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/"
     }
   ]
 }

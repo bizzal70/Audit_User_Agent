@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-15T11:04:14+00:00",
+  "generated": "2026-08-16T11:05:24+00:00",
   "opportunities": [
     {
-      "title": "Dark Conspiracy Is Back — And It's Wearing Traveller's Rules Chassis",
-      "why_now": "A classic horror RPG just resurfaced running on the Traveller engine, giving rules-nerds a fresh system-crossover to dissect.",
-      "angle": "Rules-first breakdown: what changes when horror investigation gets bolted onto Traveller's career/skill chassis, and what carries over cleanly vs. what needs houseruling",
+      "title": "Dark Conspiracy Returns: How Traveller's Rules Reskin Horror Without Breaking a Sweat",
+      "why_now": "Dark Conspiracy's revival using the Traveller/Cepheus engine dropped this week, giving a fresh case study in system-agnostic horror crunch.",
+      "angle": "Rules-teardown comparing Cepheus task resolution to horror-specific mechanics it's replacing (sanity, panic, lethality curves)",
       "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
     },
     {
-      "title": "The Math Behind the Markup: Why Your Kickstarter Dice Tower Costs 600% More Than It Should",
-      "why_now": "A new EN World piece is naming the actual markup percentages on TTRPG crowdfunding merch, which is catnip for a facts-first audience.",
-      "angle": "Explainer with the receipts — break down manufacturing cost vs. backer price, name the pattern, no vague grumbling",
+      "title": "The Math Behind the Markup: What 600% Kickstarter Merch Really Costs You",
+      "why_now": "The EN World piece on TTRPG Kickstarter merchandise markups is fresh and ripe for a rules-first cost breakdown backers rarely see.",
+      "angle": "Explainer/infographic breaking down manufacturing cost vs. pledge price, with a 'know before you back' checklist",
       "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
     },
     {
-      "title": "Paizo's Entire Catalogue Just Landed on DriveThruRPG — Here's What That Actually Changes",
-      "why_now": "Two outlets (EN World and Tribality) confirmed the same day that Pathfinder/Starfinder are now on DTRPG, a genuine distribution-rules shift worth mapping out.",
-      "angle": "News-plus-analysis: what this means for PDF availability, bundle pricing, and OGL-adjacent licensing questions readers actually care about",
-      "source": "https://www.tribality.com/2026/08/12/drivethrurpg-to-offer-paizos-title-catalog/"
+      "title": "White Dwarf #43, Annotated: The Rules That Aged Perfectly (and the Ones That Didn't)",
+      "why_now": "White Dwarf Reflections #43 just published, offering primary-source rules text ripe for a knowing retrospective read.",
+      "angle": "Rules-archaeology annotation post pulling direct quotes/mechanics from the issue and grading them against modern OSR practice",
+      "source": "https://www.enworld.org/threads/white-dwarf-reflections-43.719756/"
     },
     {
-      "title": "Rowan, Rook and Decard's Staff Just Unionized — What It Means for the Rules You're Reading",
-      "why_now": "UK publisher RRD workers forming a union is a rare labor story directly tied to the people who write the rulebooks you buy.",
-      "angle": "Explainer on what a TTRPG publisher union means for release schedules, freelancer rates, and future book quality — tie back to 'who actually writes the rules'",
-      "source": "https://www.enworld.org/threads/workers-at-british-rpg-publisher-rowan-rook-and-decard-form-union.720268/"
+      "title": "This Week's Digest, Decoded: The 3 Rules Stories Actually Worth Your Table's Time",
+      "why_now": "The Aug 14 EN World News Digest bundles several minor items that deserve a rules-first curator's pass.",
+      "angle": "Curated recap thread ranking digest stories by actual rules/mechanical relevance, skipping the fluff",
+      "source": "https://www.enworld.org/threads/news-digest-for-august-14-2026.720301/"
     },
     {
-      "title": "This Week in Crowdfunded Rules: Deadlands, Ultimate Horrors, and the Fine Print Worth Reading",
-      "why_now": "A fresh crowdfunding digest bundles several rules-heavy campaigns (Deadlands, Ultimate Horrors, Forgotten Foes) into one timely roundup opportunity.",
-      "angle": "Curated digest format: pull the actual stretch-goal rules content from each campaign, flag which mechanics are genuinely new vs. reskins",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-deadlands-ultimate-horrors-forgotten-foes-and-more.720265/"
+      "title": "Why Every Genre Eventually Runs on Traveller: A Rules Family Tree",
+      "why_now": "Dark Conspiracy's Traveller-powered relaunch is the latest in a pattern of genre reskins on the same chassis, worth mapping out now.",
+      "angle": "Explainer/diagram tracing Cepheus/Traveller-derived games across genres, positioning it as the 'GURPS alternative' of hard sci-fi engines",
+      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
     }
   ]
 }
