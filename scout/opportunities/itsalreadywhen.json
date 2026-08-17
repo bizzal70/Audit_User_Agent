@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-16T11:05:24+00:00",
+  "generated": "2026-08-17T11:07:16+00:00",
   "opportunities": [
     {
-      "title": "ChainDrop: The npm Worm That Slithers Past Your SCA Tools",
-      "why_now": "A newly discovered worm is actively crawling through the npm supply chain and evading standard defenses right now, making it a live threat to any JS shop that hasn't audited dependencies today.",
-      "angle": "Technical breakdown of ChainDrop's evasion tricks + a checklist for auditing package-lock files and CI pipelines this week",
+      "title": "3 Days: The New Patch Cadence Record (SAP Commerce Cloud Edition)",
+      "why_now": "A critical SAP Commerce Cloud flaw went from disclosure to active exploitation in just 72 hours, with three separate outlets confirming in-the-wild attacks.",
+      "angle": "Breach-clock explainer: timeline graphic from CVE disclosure to first exploit, plus what it means for enterprise patch SLAs",
+      "source": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/"
+    },
+    {
+      "title": "Microsoft Can't Patch Exchange Because Its AI Broke the Fix",
+      "why_now": "Microsoft is publicly blaming AI tooling for delaying a critical Exchange update with no ETA, a rare admission that undercuts the 'AI speeds up patching' narrative.",
+      "angle": "Irony-driven analysis piece contrasting this with the same week's AI-bug-hunting hype (Zhipu, NIST) — 'AI wrote the bug, AI can't fix it'",
+      "source": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227"
+    },
+    {
+      "title": "ChainDrop: The npm Worm That Slips Past Every Scanner You Trust",
+      "why_now": "A new self-propagating worm is loose in the npm supply chain and specifically evades standard defenses, a fresh escalation in the ongoing package-ecosystem crisis.",
+      "angle": "Threat-actor deep dive: how ChainDrop evades detection, IOCs, and a checklist for auditing CI/CD dependency trees today",
       "source": "https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958"
     },
     {
-      "title": "This Week in Inevitable Breaches: RingCentral, Trezor, and the Charities Caught in Between",
-      "why_now": "Three unrelated breaches (RingCentral/ShinyHunters, Trezor via ShipMonk, Beacon CRM hitting 1,000+ charities) landed within 48 hours, all tracing back to third-party/vendor exposure.",
-      "angle": "Digest-style roundup connecting the common thread of vendor/logistics-partner breaches as the real attack surface",
-      "source": "https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003"
+      "title": "678,000 vs 2 Million: Inside the French Tax Authority's Breach Math Problem",
+      "why_now": "The French tax authority initially confirmed 678,000 affected individuals days after a crook claimed to be selling 2 million records — the gap itself is the story.",
+      "angle": "Breach-disclosure forensics piece questioning why official counts keep undershooting criminal claims, with a running tally sidebar",
+      "source": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/"
     },
     {
-      "title": "Akira Ransomware's New Trick: Kill Your EDR by Rebooting Into Safe Mode",
-      "why_now": "Akira operators are actively using a Safe Mode trick to blind EDR tools mid-attack, a technique defenders need to detect and block now.",
-      "angle": "Threat-actor TTP explainer with detection/mitigation steps (Safe Mode boot alerts, GPO restrictions)",
-      "source": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/"
-    },
-    {
-      "title": "Global Campaign Hammers Critical VMware vCenter Flaw — Have You Patched?",
-      "why_now": "Active exploitation of a critical vCenter vulnerability is happening globally right now, making unpatched systems an immediate target.",
-      "angle": "Patch-cadence urgency post: CVE details, exploitation timeline, and a 'patch now' priority list for admins",
-      "source": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw"
-    },
-    {
-      "title": "Correction: It Was Trivy, Not LiteLLM, Behind the 2,500-Org Compromise",
-      "why_now": "SecurityWeek's correction reframes a major supply-chain compromise story, and getting attribution right matters for anyone who patched the wrong tool.",
-      "angle": "Myth-busting/correction piece clarifying the real vulnerable component and what orgs should actually check",
-      "source": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/"
+      "title": "ShieldBreak: The Defender Zero-Day With No Patch and a Very Bad Name",
+      "why_now": "Microsoft is scrambling to patch a zero-day in its own Defender product, a rare case of the security tool itself becoming the attack surface.",
+      "angle": "Rapid-response CVE brief: what ShieldBreak exploits, current mitigations while the patch is pending, and why 'securing the security software' is the next battleground",
+      "source": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/"
     }
   ]
 }

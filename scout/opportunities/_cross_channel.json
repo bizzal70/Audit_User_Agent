@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-16T11:05:24+00:00",
+  "generated": "2026-08-17T11:07:16+00:00",
   "plays": [
     {
-      "story": "TTRPG Kickstarter merch markups controversy (600% markups called out)",
+      "story": "SafePal wallet breach exposes ~40,000 customers' personal/order data, raising physical-security fears for crypto holders",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "\"SafePal Leak Just Made Your Cold Wallet a Target\": break down what data leaked (shipping addresses, order info) and why self-custody bros should be worried about more than just price action — the market reaction to wallet-provider trust erosion.",
+        "itsalreadywhen": "\"It Was Already Written: The Wallet Breach That Turns Data Leaks Into Home Invasions\": technical postmortem on how e-commerce-style breaches at hardware wallet vendors create real-world 'wrench attack' target lists — a case study in why physical security is now part of the threat model."
+      },
+      "source": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
+    },
+    {
+      "story": "macOS Screen Sharing zero-day exploited in the wild to silently install Monero cryptominers on exposed Macs",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "\"Your Mac Is Now Someone's Monero Rig\": explainer on the economics of stealth XMR mining botnets — why Monero (not Bitcoin) is still the coin of choice for silent hijacked compute, and what it says about privacy-coin demand.",
+        "itsalreadywhen": "\"Screen Sharing, Meet Screen Scraping: The macOS Flaw Nobody Patched in Time\": deep dive on the exploited vulnerability, Dutch NCSC's disclosure timeline, and why internet-exposed remote-access services remain the easiest door in."
+      },
+      "source": "https://www.theregister.com/security/2026/08/16/hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners/5288126"
+    },
+    {
+      "story": "French tax authority data heist exposes ~678,000–2M records, fueling a wave of crypto 'wrench attacks' against exposed asset holders",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "\"The Tax Leak That's Making Crypto Holders Buy Safes, Not Coins\": tie the breach directly to the rising wrench-attack trend — practical OpSec for anyone whose holdings might now be linkable to a real name and address via government data.",
+        "itsalreadywhen": "\"When a Government Breach Becomes a Kidnapping List\": incident-response angle on how a routine tax-agency compromise cascades into physical crime, and what agencies handling wealth-adjacent PII owe their citizens in disclosure speed."
+      },
+      "source": "https://www.theregister.com/security/2026/08/14/french-tax-authority-admits-data-heist-after-crook-touts-2m-records/5287885"
+    },
+    {
+      "story": "TTRPG industry reckoning over Kickstarter merchandise 600% markups, publisher unions, and creator labor practices",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'The $9 Dice, The $54 Pouch: We Did the Math on TTRPG Kickstarter Merch Markups' — a buyer's-guide breakdown ranking recent campaigns by markup %, so backers know which 'exclusive' add-ons are actually a rip-off before they pledge.",
-        "itsalreadywritten": "'Your Favorite Kickstarter Publisher Is Selling You a Tote Bag for the Price of a Splatbook' — narrative-craft angle: how merch upsells are quietly replacing actual written content/expansions, and what that means for the future of crowdfunded settings and lore drops."
+        "bizzal-games": "\"600% Markup or Fair Price? A GM's Field Guide to Spotting Predatory TTRPG Kickstarters Before You Pledge\": actionable checklist tying the EN World controversy to real crowdfunding red flags for backers.",
+        "itsalreadywritten": "\"The Plot Twist Nobody Backed: How TTRPG Publishers Turned Nostalgia Into a Markup Machine\": narrative-culture piece on Dragonlance/Paizo controversy as a story about who gets to profit from beloved IP — creators, unions, or shareholders."
       },
       "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
-    },
-    {
-      "story": "Classic horror Dark Conspiracy RPG revived using Traveller rules",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Dark Conspiracy Is Back, and It's Wearing Traveller's Rules Chassis' — mechanics-focused preview: how the classic 80s cyberpunk-horror setting maps onto Traveller's career/lifepath system, with a first-look session prompt for GMs wanting to run it day one.",
-        "itsalreadywritten": "'The Conspiracy Never Left: What Dark Conspiracy's Revival Says About 80s Horror Lore in 2026' — deep dive into the setting's Cold War paranoia roots and how its demon-infested near-future lore is being retooled/rewritten for modern audiences."
-      },
-      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
-    },
-    {
-      "story": "French tax authority data breach exposing ~678K–2M records fuels crypto wrench attacks",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'France's Tax Leak Just Became a Crypto Holder Hit List' — market/risk angle: how leaked wealth data is directly fueling physical 'wrench attack' extortion against known bitcoin holders, and what self-custody investors should do now.",
-        "itsalreadywhen": "'When a Tax Database Becomes a Crime Map: Inside the French Breach That's Arming Extortionists' — incident-response breakdown of how the 2M-record heist happened and why government data breaches are becoming a pipeline for targeted physical crime."
-      },
-      "source": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin"
-    },
-    {
-      "story": "Trezor customers' data exposed via third-party logistics provider ShipMonk breach",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Your Hardware Wallet Was Safe — Your Shipping Label Wasn't' — 14,000 Trezor customers now face targeted phishing/physical risk after a logistics vendor breach exposed names and addresses tied to crypto ownership.",
-        "itsalreadywhen": "'The Weakest Link Wasn't Trezor — It Was the Warehouse' — supply-chain security teardown of how a third-party fulfillment partner (ShipMonk) became the entry point for exposing sensitive customer data, a cautionary tale for vendor risk management."
-      },
-      "source": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/"
     }
   ]
 }

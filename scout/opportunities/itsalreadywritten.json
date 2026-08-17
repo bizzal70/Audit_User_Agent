@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-16T11:05:24+00:00",
+  "generated": "2026-08-17T11:07:16+00:00",
   "opportunities": [
     {
-      "title": "Dark Conspiracy Returns: How Traveller's Rules Reskin Horror Without Breaking a Sweat",
-      "why_now": "Dark Conspiracy's revival using the Traveller/Cepheus engine dropped this week, giving a fresh case study in system-agnostic horror crunch.",
-      "angle": "Rules-teardown comparing Cepheus task resolution to horror-specific mechanics it's replacing (sanity, panic, lethality curves)",
-      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
-    },
-    {
-      "title": "The Math Behind the Markup: What 600% Kickstarter Merch Really Costs You",
-      "why_now": "The EN World piece on TTRPG Kickstarter merchandise markups is fresh and ripe for a rules-first cost breakdown backers rarely see.",
-      "angle": "Explainer/infographic breaking down manufacturing cost vs. pledge price, with a 'know before you back' checklist",
+      "title": "The Math Behind the Outrage: What a '600% Markup' Actually Means for Your Kickstarter Pledge",
+      "why_now": "Two separate EN World pieces this week are dissecting TTRPG Kickstarter merch pricing, signaling real reader appetite for a rules-first cost breakdown.",
+      "angle": "Explainer/ledger format: walk through manufacturing cost, shipping, platform fees, and margin to show readers exactly where '600%' comes from and when it's actually justified",
       "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
     },
     {
-      "title": "White Dwarf #43, Annotated: The Rules That Aged Perfectly (and the Ones That Didn't)",
-      "why_now": "White Dwarf Reflections #43 just published, offering primary-source rules text ripe for a knowing retrospective read.",
-      "angle": "Rules-archaeology annotation post pulling direct quotes/mechanics from the issue and grading them against modern OSR practice",
+      "title": "Paizo, Unions, and the Business Rules Nobody Reads: What Podcast #410 Revealed",
+      "why_now": "EN World's livestream just tackled Dragonlance, Paizo, and unionization in the same breath as pricing controversy, making this a hot cross-section of industry news.",
+      "angle": "News recap with a 'rules of the industry' framing—break down the labor and licensing mechanics behind the headlines like you'd break down a rules subsystem",
+      "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
+    },
+    {
+      "title": "White Dwarf's Forgotten Rules: What Issue by Issue Reflections Teach Modern Designers",
+      "why_now": "White Dwarf Reflections just hit #43, an ongoing retrospective series that's a natural fit for a rules-history angle no one else is mining weekly.",
+      "angle": "Deep-dive column pulling 2-3 specific mechanical ideas from classic White Dwarf content and testing whether they'd work in 5e/PF2e today",
       "source": "https://www.enworld.org/threads/white-dwarf-reflections-43.719756/"
     },
     {
-      "title": "This Week's Digest, Decoded: The 3 Rules Stories Actually Worth Your Table's Time",
-      "why_now": "The Aug 14 EN World News Digest bundles several minor items that deserve a rules-first curator's pass.",
-      "angle": "Curated recap thread ranking digest stories by actual rules/mechanical relevance, skipping the fluff",
-      "source": "https://www.enworld.org/threads/news-digest-for-august-14-2026.720301/"
+      "title": "Sly Flourish's 'High-Value Tips' Fact-Checked Against the Actual Rules Text",
+      "why_now": "Sly Flourish just dropped a fresh GM tips roundup, giving us a timely peg to verify which tips are rules-supported versus pure house-rule opinion.",
+      "angle": "Rules-first response piece: take each tip and cite the specific rulebook passage it does or doesn't align with",
+      "source": "https://slyflourish.com/high-value_tips_tricks_and_tools.html?rss=1"
     },
     {
-      "title": "Why Every Genre Eventually Runs on Traveller: A Rules Family Tree",
-      "why_now": "Dark Conspiracy's Traveller-powered relaunch is the latest in a pattern of genre reskins on the same chassis, worth mapping out now.",
-      "angle": "Explainer/diagram tracing Cepheus/Traveller-derived games across genres, positioning it as the 'GURPS alternative' of hard sci-fi engines",
-      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
+      "title": "This Week in TTRPG News: The Digest You Actually Need (Aug 14 Edition, Annotated)",
+      "why_now": "EN World's own digest just went up, and a rules-focused annotation adds value beyond the raw links roundup.",
+      "angle": "Curated recap with 'why this matters to your table' one-liners under each story, positioning the channel as the knowing filter for TTRPG news",
+      "source": "https://www.enworld.org/threads/news-digest-for-august-14-2026.720301/"
     }
   ]
 }

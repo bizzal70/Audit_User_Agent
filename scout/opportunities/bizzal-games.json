@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-16T11:05:24+00:00",
+  "generated": "2026-08-17T11:07:16+00:00",
   "opportunities": [
     {
-      "title": "The 600% Kickstarter Markup Isn't the Scandal — Your Loot Table Is",
-      "why_now": "EN World's piece on TTRPG Kickstarter merch markups is stirring community outrage about pricing right now.",
-      "angle": "Dry rules-ruling short: use the merch-markup outrage as a cold open, then give the actual 5e DMG guidance for pricing magic items so GMs stop under/overcharging their own players.",
+      "title": "The One GM Tool Sly Flourish Says Actually Works (And I Disagree)",
+      "why_now": "Sly Flourish just dropped a fresh 'high-value tools' list that's already making rounds in GM circles, giving a built-in argument hook.",
+      "angle": "30-sec reaction short: pull one tool from the list, state the actual table cost/benefit, deliver a wry verdict on whether it's worth prep time.",
+      "source": "https://slyflourish.com/high-value_tips_tricks_and_tools.html?rss=1"
+    },
+    {
+      "title": "Why Your $80 Dice Tower Is a Tax on Nostalgia",
+      "why_now": "EN World's piece on TTRPG Kickstarter merchandise and 600% markups is fueling active community outrage right now.",
+      "angle": "Dry economics teardown: break down actual production cost vs retail markup on a common Kickstarter add-on, deliver GM verdict on 'is this worth backing.'",
       "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
     },
     {
-      "title": "Dark Conspiracy Is Back — Here's the 5e Statblock for Its Signature Body-Horror Monster",
-      "why_now": "The classic horror RPG's relaunch on Traveller rules is generating fresh horror-genre buzz this week.",
-      "angle": "Creature tactic short: port one iconic Dark Conspiracy horror over to 5e/Shadowdark with a specific tactic (e.g., how it targets fleeing PCs, when to use fear effects) — no lore dump, just the mechanic.",
-      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
+      "title": "The Dragonlance Rule Everyone House-Ruled Away (And Why It Was Right)",
+      "why_now": "Podcast #410's Dragonlance/Paizo discussion is trending in TTRPG news right now, giving a topical hook for a lore-mechanic deep dive.",
+      "angle": "Rules ruling short: pick a specific Dragonlance-era mechanic (e.g., dragon fear effects) and show the RAW vs how tables actually run it, deliver correct ruling.",
+      "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
     },
     {
-      "title": "Running Cosmic Horror in DCC: The One Spell Check That Should Always Go Wrong",
-      "why_now": "Dark Conspiracy's relaunch has horror-tabletop chatter trending, a natural tie-in for DCC's brutal magic system.",
-      "angle": "Spell use-case short: take a DCC corruption-heavy spell and explain the exact ruling for when a failed check should manifest body horror instead of a whiffed effect.",
-      "source": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/"
-    },
-    {
-      "title": "The Morale Rule White Dwarf Had in the 80s That 5e Still Doesn't",
-      "why_now": "EN World's White Dwarf Reflections #43 is reviving nostalgia for old-school design choices this week.",
-      "angle": "Rules ruling short: pull a specific classic morale/rout mechanic referenced in the retrospective and give GMs a drop-in 5e houserule version.",
+      "title": "The White Dwarf Ruling Modern D&D Quietly Stole",
+      "why_now": "White Dwarf Reflections #43 just published, reviving interest in classic-era rulings among old-school gamers.",
+      "angle": "Archive-dive short: pull one specific mechanic/creature tactic referenced in old White Dwarf content, show its direct lineage into 5e/Shadowdark, deliver a 'use this tonight' tip.",
       "source": "https://www.enworld.org/threads/white-dwarf-reflections-43.719756/"
     },
     {
-      "title": "Today's TTRPG News Digest Had One Rules Debate Buried In It — Solved in 40 Seconds",
-      "why_now": "EN World's Aug 14 digest is the freshest aggregation of tabletop chatter, ripe for a rapid reaction format.",
-      "angle": "Rapid-fire dry-GM reaction format: skim the digest on camera, pick the one item sparking a rules argument, and deliver a definitive ruling before the clip ends.",
-      "source": "https://www.enworld.org/threads/news-digest-for-august-14-2026.720301/"
+      "title": "Fire Emblem's Permadeath Fix Works Better Than Your Death Save Table",
+      "why_now": "Fire Emblem: Fortune's Weave commercials are driving fresh discussion of permadeath mechanics this week, a crossover hook for tabletop GMs.",
+      "angle": "Mechanical comparison short: contrast Fire Emblem's permadeath tension with 5e death saves/Shadowdark's brutal HP model, propose a one-line house rule to sharpen stakes.",
+      "source": "https://www.rpgsite.net/news/21126-fire-emblem-fortunes-weave-new-footage-japanese-tvcm-videos"
     }
   ]
 }
