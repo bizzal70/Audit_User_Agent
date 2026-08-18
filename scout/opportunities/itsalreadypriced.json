@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-17T11:07:16+00:00",
+  "generated": "2026-08-18T11:07:36+00:00",
   "opportunities": [
     {
-      "title": "SafePal's 40,000-Customer Breach Isn't a Privacy Story — It's a Targeting List for Wrench Attacks",
-      "why_now": "SafePal confirmed a breach exposing order data for ~40K wallet customers just as wrench-attack incidents (France, $116M self-custody hit) are piling up in the same week.",
-      "angle": "Security explainer connecting the dots: order-data leaks + KYC databases = physical targeting risk; practical opsec checklist for hardware wallet owners",
-      "source": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach"
+      "title": "Harmony Is Deleting 109,000 Transactions to Undo One Hack — Ask Yourself What 'Immutable' Actually Means Now",
+      "why_now": "A chain is about to unilaterally erase over 100k transactions to reverse a single exploit, reopening the 'code is law' debate in real time.",
+      "angle": "Explainer/opinion: walk through the rollback mechanics, compare to DAO fork precedent, and argue this is the quiet part said loud — chains will rewrite history when insiders are exposed, not when users are.",
+      "source": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Binance Gave Russia Your Data — And a Ukrainian Donor Got Arrested For It",
-      "why_now": "CoinDesk reports Binance handed user data to Russian authorities that led directly to an arrest, a stark case study in exchange data-sharing risk for anyone in a hostile jurisdiction.",
-      "angle": "Investigative breakdown: what data exchanges hold, when they hand it over, and why 'not your keys' also means 'not your data privacy'",
-      "source": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest"
-    },
-    {
-      "title": "The App Store Can't Protect You: DefiLlama Delayed Its Launch Because of Fake Clones Already Live",
-      "why_now": "DefiLlama's founder says phishing apps impersonating the product forced a launch delay — proof that official app store review doesn't catch crypto phishing before users get hit.",
-      "angle": "Security-led take: how to verify legit crypto apps pre-download, why 'available on Apple Store' is not a trust signal anymore",
+      "title": "DefiLlama Delayed Its Own App Because Apple's Store Was Full of Fake DefiLlama Apps",
+      "why_now": "A top DeFi data provider just admitted phishing clones beat them to launch on Apple's supposedly curated store.",
+      "angle": "Security explainer: how App Store phishing clones work, why 'official app store' is not a security boundary, checklist for verifying any crypto app before download.",
       "source": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Bitcoin Futures Market Is a Crowded Club With One Exit — Here's What Happens When Everyone Runs",
-      "why_now": "CoinDesk's structural piece on futures market crowding lands right after a $390M ETF outflow week, setting up a leverage-unwind scenario the 'already priced' crowd should see coming.",
-      "angle": "Market-structure deep dive framed as 'the setup before the squeeze' — position sizing and leverage risk for readers who know how liquidations cascade",
-      "source": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain"
+      "title": "BitMart's Founder Won't Allow an Audit While Users Report Frozen Funds — We've Seen This Movie Before",
+      "why_now": "Real-time reports of blocked withdrawals and unpaid staff plus a founder publicly refusing an audit is the exact sequence that preceded FTX, Celsius, and a dozen others.",
+      "angle": "Pattern-recognition piece: lay out the 'audit refusal → withdrawal freeze → silence' playbook with past exchange collapses as a timeline, ending on what to do with funds now, not later.",
+      "source": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees"
     },
     {
-      "title": "678,000 French Taxpayers' Data Just Leaked — Wrench Attacks Are About to Get a New Target List",
-      "why_now": "The French tax breach lands amid a documented spike in physical crypto 'wrench attacks,' making this leak a direct operational security threat, not just a privacy headline.",
-      "angle": "Pattern-recognition piece tying government/exchange data leaks to real-world violence trend, with self-custody hardening tips",
-      "source": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876"
+      "title": "The $165M 'Crypto Program' Ponzi Just Got Its Promoter Deported From Fiji — The Red Flags Were All Public",
+      "why_now": "A newly confirmed $165M Ponzi promoter's deportation gives a concrete, resolved case study while memories of the scheme's marketing are still fresh.",
+      "angle": "Post-mortem/checklist: reconstruct the promoter's public claims and yield promises, map them to standard Ponzi tells, and turn it into a reusable red-flag list for spotting the next one before it hits $165M.",
+      "source": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083"
+    },
+    {
+      "title": "Bitpanda Just Ate Europe's First MiCA Fine — Here's What It Actually Signals for Every Exchange Operating Under 'Compliant' Licenses",
+      "why_now": "This is the first published MiCA penalty in the EU, turning theoretical regulatory risk into a concrete enforcement precedent.",
+      "angle": "Analysis: decode what triggered the fine, why 'MiCA-licensed' has been treated as a safety signal by users, and what this means for trusting license badges going forward.",
+      "source": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty"
     }
   ]
 }

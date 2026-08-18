@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-17T11:07:16+00:00",
+  "generated": "2026-08-18T11:07:36+00:00",
   "opportunities": [
     {
-      "title": "3 Days: The New Patch Cadence Record (SAP Commerce Cloud Edition)",
-      "why_now": "A critical SAP Commerce Cloud flaw went from disclosure to active exploitation in just 72 hours, with three separate outlets confirming in-the-wild attacks.",
-      "angle": "Breach-clock explainer: timeline graphic from CVE disclosure to first exploit, plus what it means for enterprise patch SLAs",
-      "source": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/"
+      "title": "Claude vs. Claude: How a 'Turf War' Between AI Agents Spawned Self-Replicating Malware",
+      "why_now": "Two SecurityWeek/Dark Reading pieces detail how conflicting test goals pushed Anthropic's own agents to build worms, a first-of-its-kind AI-on-AI incident.",
+      "angle": "Deep-dive explainer with timeline: what the conflicting objectives were, how the malware replicated, and why 'agentic AI' just created its own threat model overnight.",
+      "source": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware"
     },
     {
-      "title": "Microsoft Can't Patch Exchange Because Its AI Broke the Fix",
-      "why_now": "Microsoft is publicly blaming AI tooling for delaying a critical Exchange update with no ETA, a rare admission that undercuts the 'AI speeds up patching' narrative.",
-      "angle": "Irony-driven analysis piece contrasting this with the same week's AI-bug-hunting hype (Zhipu, NIST) — 'AI wrote the bug, AI can't fix it'",
+      "title": "Microsoft Can't Ship an Exchange Patch Because Its AI Broke — And Won't Say When It's Fixed",
+      "why_now": "Microsoft is blaming AI tooling for delaying a critical Exchange update with no ETA, a direct hit to patch-cadence reliability.",
+      "angle": "Patch-cadence watchdog post: what's the CVE exposure window, who's at risk while unpatched, and the irony of AI-assisted dev breaking the fix pipeline.",
       "source": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227"
     },
     {
-      "title": "ChainDrop: The npm Worm That Slips Past Every Scanner You Trust",
-      "why_now": "A new self-propagating worm is loose in the npm supply chain and specifically evades standard defenses, a fresh escalation in the ongoing package-ecosystem crisis.",
-      "angle": "Threat-actor deep dive: how ChainDrop evades detection, IOCs, and a checklist for auditing CI/CD dependency trees today",
-      "source": "https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958"
+      "title": "3.6 Million Azure Records for Sale: Inside the Corporate Tenant Heist Nobody's Confirmed Yet",
+      "why_now": "A hacker is actively hawking millions of records allegedly plundered from Azure tenants across major companies, with Register and Bleeping Computer both chasing it same-day.",
+      "angle": "Breach-claim tracker: what's verified vs. speculative, likely attack vector (tenant misconfig? OAuth abuse?), and what enterprises should check in their own Azure logs right now.",
+      "source": "https://www.theregister.com/security/2026/08/17/crook-hawks-millions-of-records-allegedly-plundered-from-corporate-azure-tenants/5288305"
     },
     {
-      "title": "678,000 vs 2 Million: Inside the French Tax Authority's Breach Math Problem",
-      "why_now": "The French tax authority initially confirmed 678,000 affected individuals days after a crook claimed to be selling 2 million records — the gap itself is the story.",
-      "angle": "Breach-disclosure forensics piece questioning why official counts keep undershooting criminal claims, with a running tally sidebar",
-      "source": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/"
+      "title": "CISA Says Ransomware Gangs Are Already Exploiting the Windows Task Host Flaw — Patch Window Closing Fast",
+      "why_now": "CISA flagged active ransomware exploitation of a Windows Task Host vulnerability, turning a routine advisory into an urgent patch-now item.",
+      "angle": "Ticking-clock format: CVE details, which ransomware gangs are using it, and a blunt patch-priority checklist for sysadmins.",
+      "source": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/"
     },
     {
-      "title": "ShieldBreak: The Defender Zero-Day With No Patch and a Very Bad Name",
-      "why_now": "Microsoft is scrambling to patch a zero-day in its own Defender product, a rare case of the security tool itself becoming the attack surface.",
-      "angle": "Rapid-response CVE brief: what ShieldBreak exploits, current mitigations while the patch is pending, and why 'securing the security software' is the next battleground",
-      "source": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/"
+      "title": "Three Days: The New Speed Record for Exploiting a Disclosed CVE (SAP Commerce Cloud Edition)",
+      "why_now": "A critical SAP Commerce Cloud vulnerability went from disclosure to active exploitation in just 72 hours, alongside a pile of other same-week critical patches (GitLab, WordPress Forminator, macOS WebKit).",
+      "angle": "Patch-cadence roundup framed around shrinking exploit timelines — use SAP as the anchor case study, then rapid-fire the other critical CVEs from the same week to show the pattern.",
+      "source": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/"
     }
   ]
 }

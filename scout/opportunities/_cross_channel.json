@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-17T11:07:16+00:00",
+  "generated": "2026-08-18T11:07:36+00:00",
   "plays": [
     {
-      "story": "SafePal wallet breach exposes ~40,000 customers' personal/order data, raising physical-security fears for crypto holders",
+      "story": "SafePal hardware wallet breach exposes ~40,000 customers' data — covered simultaneously as a crypto-industry incident and a cybersecurity case study",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "\"SafePal Leak Just Made Your Cold Wallet a Target\": break down what data leaked (shipping addresses, order info) and why self-custody bros should be worried about more than just price action — the market reaction to wallet-provider trust erosion.",
-        "itsalreadywhen": "\"It Was Already Written: The Wallet Breach That Turns Data Leaks Into Home Invasions\": technical postmortem on how e-commerce-style breaches at hardware wallet vendors create real-world 'wrench attack' target lists — a case study in why physical security is now part of the threat model."
+        "itsalreadypriced": "Title: 'Your Cold Wallet Isn't Cold Enough: SafePal's 40K-User Leak Is a Wake-Up Call for Self-Custody.' Frame it as a market-confidence story — what a hardware wallet breach means for crypto holders' trust in 'cold storage' as truly safe, and what questions users should ask before buying the next 'secure' device.",
+        "itsalreadywhen": "Title: 'Anatomy of the SafePal Breach: How a Hardware Wallet Maker Leaked 40K Records.' Technical breakdown of the vulnerability class, lessons for hardware/IoT vendors on data handling around 'air-gapped' devices, and why physical security products still have very digital attack surfaces."
       },
-      "source": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
+      "source": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html"
     },
     {
-      "story": "macOS Screen Sharing zero-day exploited in the wild to silently install Monero cryptominers on exposed Macs",
+      "story": "Kraken parent Payward joins Anthropic's Project Glasswing, gaining access to Claude Mythos to hunt security flaws",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "\"Your Mac Is Now Someone's Monero Rig\": explainer on the economics of stealth XMR mining botnets — why Monero (not Bitcoin) is still the coin of choice for silent hijacked compute, and what it says about privacy-coin demand.",
-        "itsalreadywhen": "\"Screen Sharing, Meet Screen Scraping: The macOS Flaw Nobody Patched in Time\": deep dive on the exploited vulnerability, Dutch NCSC's disclosure timeline, and why internet-exposed remote-access services remain the easiest door in."
+        "itsalreadypriced": "Title: 'Kraken's Parent Just Outsourced Its Bug Hunting to Claude — Should Every Exchange?' Business angle: what this AI-security partnership signals about exchange security spending priorities and whether it's a genuine moat or just PR ahead of the next hack headline.",
+        "itsalreadywhen": "Title: 'Claude Mythos Goes Hunting: Inside Project Glasswing's AI-Driven Vulnerability Research.' Deep dive on how AI models are being deployed for offensive/defensive bug hunting, and what enterprise security teams should take from Payward's early-adopter role."
       },
-      "source": "https://www.theregister.com/security/2026/08/16/hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners/5288126"
+      "source": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos"
     },
     {
-      "story": "French tax authority data heist exposes ~678,000–2M records, fueling a wave of crypto 'wrench attacks' against exposed asset holders",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "\"The Tax Leak That's Making Crypto Holders Buy Safes, Not Coins\": tie the breach directly to the rising wrench-attack trend — practical OpSec for anyone whose holdings might now be linkable to a real name and address via government data.",
-        "itsalreadywhen": "\"When a Government Breach Becomes a Kidnapping List\": incident-response angle on how a routine tax-agency compromise cascades into physical crime, and what agencies handling wealth-adjacent PII owe their citizens in disclosure speed."
-      },
-      "source": "https://www.theregister.com/security/2026/08/14/french-tax-authority-admits-data-heist-after-crook-touts-2m-records/5287885"
-    },
-    {
-      "story": "TTRPG industry reckoning over Kickstarter merchandise 600% markups, publisher unions, and creator labor practices",
+      "story": "Gareth Ryder-Hanrahan's new mystery TTRPG, Merryshire Detective Club",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "\"600% Markup or Fair Price? A GM's Field Guide to Spotting Predatory TTRPG Kickstarters Before You Pledge\": actionable checklist tying the EN World controversy to real crowdfunding red flags for backers.",
-        "itsalreadywritten": "\"The Plot Twist Nobody Backed: How TTRPG Publishers Turned Nostalgia Into a Markup Machine\": narrative-culture piece on Dragonlance/Paizo controversy as a story about who gets to profit from beloved IP — creators, unions, or shareholders."
+        "bizzal-games": "Title: 'How to Run a Cozy-Noir Murder Mystery: A GM's Field Guide to Merryshire Detective Club.' Practical, table-ready angle — session structure, clue-pacing tips, and how to keep players from 'solving' the case in five minutes.",
+        "itsalreadywritten": "Title: 'Gareth Ryder-Hanrahan Proves Mystery TTRPGs Are Having a Moment — Here's the Design Trick That Makes Them Work.' Craft-focused piece dissecting how mystery narrative structure gets translated into tabletop mechanics, useful for aspiring RPG writers."
       },
-      "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
+      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
+    },
+    {
+      "story": "EN World's 'RPG Evolution: Write for RPGs Professionally' column",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Title: 'The Freelancer's Secret: How Professional Adventure Writers Structure Encounters (And How You Can Steal Their Tricks).' Actionable GM-facing piece translating pro-writing techniques into better sessions at your table.",
+        "itsalreadywritten": "Title: 'So You Want to Write for D&D: A Realistic Career Breakdown.' Career/craft piece for aspiring freelancers — pay rates, pitching process, and what separates a hobbyist homebrewer from a published RPG writer."
+      },
+      "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
     }
   ]
 }

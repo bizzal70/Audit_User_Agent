@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-17T11:07:16+00:00",
+  "generated": "2026-08-18T11:07:36+00:00",
   "opportunities": [
     {
-      "title": "The One GM Tool Sly Flourish Says Actually Works (And I Disagree)",
-      "why_now": "Sly Flourish just dropped a fresh 'high-value tools' list that's already making rounds in GM circles, giving a built-in argument hook.",
-      "angle": "30-sec reaction short: pull one tool from the list, state the actual table cost/benefit, deliver a wry verdict on whether it's worth prep time.",
+      "title": "Rune Traps Ruling: Does Detect Magic Actually Disarm a Dwarven Glyph?",
+      "why_now": "A new dwarves/runes/mines tome just dropped, giving a concrete trap-type to rules-lawyer on camera.",
+      "angle": "60-sec ruling short: read a rune-trap stat block, walk through Detect Magic vs. Dispel Magic vs. Thieves' Tools resolution in 5e/Shadowdark side-by-side.",
+      "source": "https://www.enworld.org/threads/tome-for-dwarves-runes-mines-and-monsters.720340/"
+    },
+    {
+      "title": "Run a Murder Mystery Without 40 Perception Checks",
+      "why_now": "Merryshire Detective Club just launched as a mystery-focused module, handing you a topical hook for investigation-scene mechanics.",
+      "angle": "Tactic short: show the 'clue is never behind a roll' technique, contrast with a bad GM habit, deliver as blunt GM advice.",
+      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
+    },
+    {
+      "title": "Sly Flourish's 'High-Value Tips' — Which One Actually Saves You Prep Time?",
+      "why_now": "Fresh, on-beat GM-craft article from a name your audience already follows; easy to react to or one-up.",
+      "angle": "Rapid-fire reaction short: pick 3 tips, keep 2, torch 1, deliver verdict in classic dry-veteran tone.",
       "source": "https://slyflourish.com/high-value_tips_tricks_and_tools.html?rss=1"
     },
     {
-      "title": "Why Your $80 Dice Tower Is a Tax on Nostalgia",
-      "why_now": "EN World's piece on TTRPG Kickstarter merchandise and 600% markups is fueling active community outrage right now.",
-      "angle": "Dry economics teardown: break down actual production cost vs retail markup on a common Kickstarter add-on, deliver GM verdict on 'is this worth backing.'",
-      "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
-    },
-    {
-      "title": "The Dragonlance Rule Everyone House-Ruled Away (And Why It Was Right)",
-      "why_now": "Podcast #410's Dragonlance/Paizo discussion is trending in TTRPG news right now, giving a topical hook for a lore-mechanic deep dive.",
-      "angle": "Rules ruling short: pick a specific Dragonlance-era mechanic (e.g., dragon fear effects) and show the RAW vs how tables actually run it, deliver correct ruling.",
+      "title": "600% Markups and Why Your Table Still Runs on a $20 Rulebook",
+      "why_now": "The EN World podcast just aired industry talk on Paizo/unions/pricing, giving a timely hook for an industry-cynicism aside.",
+      "angle": "Wry one-take rant: contrast mini/merch markup culture with the actual math of running a session, end on a GM-practical tip.",
       "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
     },
     {
-      "title": "The White Dwarf Ruling Modern D&D Quietly Stole",
-      "why_now": "White Dwarf Reflections #43 just published, reviving interest in classic-era rulings among old-school gamers.",
-      "angle": "Archive-dive short: pull one specific mechanic/creature tactic referenced in old White Dwarf content, show its direct lineage into 5e/Shadowdark, deliver a 'use this tonight' tip.",
-      "source": "https://www.enworld.org/threads/white-dwarf-reflections-43.719756/"
-    },
-    {
-      "title": "Fire Emblem's Permadeath Fix Works Better Than Your Death Save Table",
-      "why_now": "Fire Emblem: Fortune's Weave commercials are driving fresh discussion of permadeath mechanics this week, a crossover hook for tabletop GMs.",
-      "angle": "Mechanical comparison short: contrast Fire Emblem's permadeath tension with 5e death saves/Shadowdark's brutal HP model, propose a one-line house rule to sharpen stakes.",
-      "source": "https://www.rpgsite.net/news/21126-fire-emblem-fortunes-weave-new-footage-japanese-tvcm-videos"
+      "title": "So You Want to Write Adventures for Money — Here's the Ruling Nobody Prints",
+      "why_now": "EN World's piece on writing for RPGs professionally is fresh and taps into the channel's veteran-GM authority.",
+      "angle": "Career-advice short in-character as the grizzled GM: 3 blunt truths about freelance RPG writing pay/credit, tie back to a rules-design example.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-17T11:07:16+00:00",
+  "generated": "2026-08-18T11:07:36+00:00",
   "opportunities": [
     {
-      "title": "The Math Behind the Outrage: What a '600% Markup' Actually Means for Your Kickstarter Pledge",
-      "why_now": "Two separate EN World pieces this week are dissecting TTRPG Kickstarter merch pricing, signaling real reader appetite for a rules-first cost breakdown.",
-      "angle": "Explainer/ledger format: walk through manufacturing cost, shipping, platform fees, and margin to show readers exactly where '600%' comes from and when it's actually justified",
-      "source": "https://www.enworld.org/threads/on-ttrpg-kickstarters-merchandise-and-600-markups.720290/"
+      "title": "Merryshire Detective Club: The Rules Behind Solving a Murder at the Table",
+      "why_now": "Fresh EN World thread breaking down Gareth Ryder-Hanrahan's new mystery-focused TTRPG system.",
+      "angle": "Rules breakdown—how does the game mechanically handle clue-gathering and deduction vs. GM fiat?",
+      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
     },
     {
-      "title": "Paizo, Unions, and the Business Rules Nobody Reads: What Podcast #410 Revealed",
-      "why_now": "EN World's livestream just tackled Dragonlance, Paizo, and unionization in the same breath as pricing controversy, making this a hot cross-section of industry news.",
-      "angle": "News recap with a 'rules of the industry' framing—break down the labor and licensing mechanics behind the headlines like you'd break down a rules subsystem",
+      "title": "The New Dwarf Tome: What's Actually Crunchy Inside",
+      "why_now": "A dedicated rules/lore supplement for dwarves just dropped coverage, perfect for a rules-first breakdown.",
+      "angle": "Feature dive on new subclasses/mechanics vs. existing dwarf rules across editions",
+      "source": "https://www.enworld.org/threads/tome-for-dwarves-runes-mines-and-monsters.720340/"
+    },
+    {
+      "title": "So You Want to Write RPGs for a Living: The Actual Path (Not the Fantasy)",
+      "why_now": "EN World's RPG Evolution column just laid out the professional writing path—prime fodder for a facts-first career explainer.",
+      "angle": "Myth-busting listicle: what the industry actually pays/requires vs. common assumptions",
+      "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
+    },
+    {
+      "title": "600% Markups: The Math Behind Why Your Minis Cost So Much",
+      "why_now": "This week's EN World podcast dropped hard numbers on Paizo, unions, and markup economics in the hobby.",
+      "angle": "Explainer using their cited figures—break down the supply chain cost stack in table form",
       "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
     },
     {
-      "title": "White Dwarf's Forgotten Rules: What Issue by Issue Reflections Teach Modern Designers",
-      "why_now": "White Dwarf Reflections just hit #43, an ongoing retrospective series that's a natural fit for a rules-history angle no one else is mining weekly.",
-      "angle": "Deep-dive column pulling 2-3 specific mechanical ideas from classic White Dwarf content and testing whether they'd work in 5e/PF2e today",
-      "source": "https://www.enworld.org/threads/white-dwarf-reflections-43.719756/"
-    },
-    {
-      "title": "Sly Flourish's 'High-Value Tips' Fact-Checked Against the Actual Rules Text",
-      "why_now": "Sly Flourish just dropped a fresh GM tips roundup, giving us a timely peg to verify which tips are rules-supported versus pure house-rule opinion.",
-      "angle": "Rules-first response piece: take each tip and cite the specific rulebook passage it does or doesn't align with",
+      "title": "Sly Flourish's 'High-Value' GM Tips, Fact-Checked Against the Actual Rules",
+      "why_now": "A fresh Sly Flourish analysis piece just published on GM tools/tricks, ripe for a rules-first response.",
+      "angle": "Companion/rebuttal post: which tips are house-rule workarounds vs. what the books already say to do",
       "source": "https://slyflourish.com/high-value_tips_tricks_and_tools.html?rss=1"
-    },
-    {
-      "title": "This Week in TTRPG News: The Digest You Actually Need (Aug 14 Edition, Annotated)",
-      "why_now": "EN World's own digest just went up, and a rules-focused annotation adds value beyond the raw links roundup.",
-      "angle": "Curated recap with 'why this matters to your table' one-liners under each story, positioning the channel as the knowing filter for TTRPG news",
-      "source": "https://www.enworld.org/threads/news-digest-for-august-14-2026.720301/"
     }
   ]
 }
