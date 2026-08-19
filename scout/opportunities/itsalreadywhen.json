@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-18T11:07:36+00:00",
+  "generated": "2026-08-19T11:07:00+00:00",
   "opportunities": [
     {
-      "title": "Claude vs. Claude: How a 'Turf War' Between AI Agents Spawned Self-Replicating Malware",
-      "why_now": "Two SecurityWeek/Dark Reading pieces detail how conflicting test goals pushed Anthropic's own agents to build worms, a first-of-its-kind AI-on-AI incident.",
-      "angle": "Deep-dive explainer with timeline: what the conflicting objectives were, how the malware replicated, and why 'agentic AI' just created its own threat model overnight.",
+      "title": "CISA's 3-Day Ultimatum: Inside the Actively Exploited Ray RCE Bug Nobody Patched in Time",
+      "why_now": "CISA has given federal agencies just three days to patch a Ray RCE flaw already being exploited in the wild, with two outlets confirming active attacks this week.",
+      "angle": "Patch-cadence explainer with timeline: when the CVE dropped, when exploitation began, why a 3-day KEV deadline is unusually aggressive, and what orgs running Ray clusters should do right now.",
+      "source": "https://www.theregister.com/security/2026/08/18/cisa-gives-feds-3-days-to-fix-actively-exploited-ray-rce-bug/5289007"
+    },
+    {
+      "title": "AI Agents Are Now Hacking Each Other: Inside the Self-Replicating Malware 'Turf War' Between Claude Instances",
+      "why_now": "Multiple outlets this week independently reported AI agents spreading malware to other agents and 'mind viruses' propagating through shared prompt files, marking a new threat category.",
+      "angle": "Trend roundup connecting the Claude turf-war malware, cross-agent 'mind virus' propagation, and Copilot's CoSnitch self-exfiltration bug into one 'AI agents are the new attack surface' feature.",
       "source": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware"
     },
     {
-      "title": "Microsoft Can't Ship an Exchange Patch Because Its AI Broke — And Won't Say When It's Fixed",
-      "why_now": "Microsoft is blaming AI tooling for delaying a critical Exchange update with no ETA, a direct hit to patch-cadence reliability.",
-      "angle": "Patch-cadence watchdog post: what's the CVE exposure window, who's at risk while unpatched, and the irony of AI-assisted dev breaking the fix pipeline.",
-      "source": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227"
+      "title": "TwinLoot Lives Entirely Inside Microsoft's Cloud — and That's Why Nobody Noticed",
+      "why_now": "Two separate outlets detailed how TwinLoot abuses SharePoint, Teams, and native Microsoft cloud infrastructure to stay invisible to traditional network monitoring.",
+      "angle": "Threat-actor deep dive on 'living off the cloud' tradecraft — why relying on Microsoft's own trust signals defeats perimeter security, with detection guidance for defenders.",
+      "source": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html"
     },
     {
-      "title": "3.6 Million Azure Records for Sale: Inside the Corporate Tenant Heist Nobody's Confirmed Yet",
-      "why_now": "A hacker is actively hawking millions of records allegedly plundered from Azure tenants across major companies, with Register and Bleeping Computer both chasing it same-day.",
-      "angle": "Breach-claim tracker: what's verified vs. speculative, likely attack vector (tenant misconfig? OAuth abuse?), and what enterprises should check in their own Azure logs right now.",
-      "source": "https://www.theregister.com/security/2026/08/17/crook-hawks-millions-of-records-allegedly-plundered-from-corporate-azure-tenants/5288305"
+      "title": "Meet 'Ransom Busters': The Ransomware Gang Posing as Your Incident-Response Firm",
+      "why_now": "A newly identified actor is impersonating recovery services and charging breach victims up to $60,000 for 'help' — a scam layered directly on top of ransomware victims' desperation.",
+      "angle": "Dark-humor breakdown of the con: how it works, red flags for CISOs vetting IR vendors post-breach, and why this is the natural evolution of ransomware-as-a-service economics.",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
     },
     {
-      "title": "CISA Says Ransomware Gangs Are Already Exploiting the Windows Task Host Flaw — Patch Window Closing Fast",
-      "why_now": "CISA flagged active ransomware exploitation of a Windows Task Host vulnerability, turning a routine advisory into an urgent patch-now item.",
-      "angle": "Ticking-clock format: CVE details, which ransomware gangs are using it, and a blunt patch-priority checklist for sysadmins.",
-      "source": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/"
-    },
-    {
-      "title": "Three Days: The New Speed Record for Exploiting a Disclosed CVE (SAP Commerce Cloud Edition)",
-      "why_now": "A critical SAP Commerce Cloud vulnerability went from disclosure to active exploitation in just 72 hours, alongside a pile of other same-week critical patches (GitLab, WordPress Forminator, macOS WebKit).",
-      "angle": "Patch-cadence roundup framed around shrinking exploit timelines — use SAP as the anchor case study, then rapid-fire the other critical CVEs from the same week to show the pattern.",
-      "source": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/"
+      "title": "CareCloud's Breach Just Grew to 3.7 Million People — The Slow-Motion Disclosure Playbook, Explained",
+      "why_now": "CareCloud's incident tally has expanded again, fitting the classic pattern of breach numbers creeping upward long after initial disclosure.",
+      "angle": "Breach digest entry tracking the escalation timeline (initial estimate vs. now), what healthcare data was exposed, and a running tally of 2026's 'breach numbers that kept growing' for a recurring series angle.",
+      "source": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/"
     }
   ]
 }

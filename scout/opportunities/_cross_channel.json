@@ -1,51 +1,51 @@
 {
-  "generated": "2026-08-18T11:07:36+00:00",
+  "generated": "2026-08-19T11:07:00+00:00",
   "plays": [
     {
-      "story": "SafePal hardware wallet breach exposes ~40,000 customers' data — covered simultaneously as a crypto-industry incident and a cybersecurity case study",
+      "story": "MAYAChain halts network after ~$1.7M cross-chain exploit, days after Harmony's own rollback fallout from a similar attack pattern",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Your Cold Wallet Isn't Cold Enough: SafePal's 40K-User Leak Is a Wake-Up Call for Self-Custody.' Frame it as a market-confidence story — what a hardware wallet breach means for crypto holders' trust in 'cold storage' as truly safe, and what questions users should ask before buying the next 'secure' device.",
-        "itsalreadywhen": "Title: 'Anatomy of the SafePal Breach: How a Hardware Wallet Maker Leaked 40K Records.' Technical breakdown of the vulnerability class, lessons for hardware/IoT vendors on data handling around 'air-gapped' devices, and why physical security products still have very digital attack surfaces."
+        "itsalreadypriced": "Hook: 'MAYA Halted, Liquidity Frozen: What a $1.7M Drain Means for Cross-Chain Swap Pricing' — trace how the halt widens spreads on THORChain-adjacent pairs and what traders should watch before liquidity resumes.",
+        "itsalreadywhen": "Hook: 'Anatomy of the MAYAChain Exploit: The Bridge Logic Flaw Attackers Keep Finding' — technical breakdown of the vulnerability class behind the $1.7M drain, tying it to the same bridge-validator weaknesses seen in Harmony's ONE exploit years back."
       },
-      "source": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html"
+      "source": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "Kraken parent Payward joins Anthropic's Project Glasswing, gaining access to Claude Mythos to hunt security flaws",
+      "story": "Harmony plans a chain rollback, wiping 109,000 transactions to reverse the ONE exploit",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Kraken's Parent Just Outsourced Its Bug Hunting to Claude — Should Every Exchange?' Business angle: what this AI-security partnership signals about exchange security spending priorities and whether it's a genuine moat or just PR ahead of the next hack headline.",
-        "itsalreadywhen": "Title: 'Claude Mythos Goes Hunting: Inside Project Glasswing's AI-Driven Vulnerability Research.' Deep dive on how AI models are being deployed for offensive/defensive bug hunting, and what enterprise security teams should take from Payward's early-adopter role."
+        "itsalreadypriced": "Hook: 'Harmony Wants to Erase 109,000 Trades — Here's What That Does to ONE's Price and Your Wallet History' — explain the market and holder impact of a retroactive rollback, including what happens to trades made in the 'undone' window.",
+        "itsalreadywhen": "Hook: 'When 'Fixing' a Hack Means Rewriting the Ledger: Harmony's Rollback as an Incident-Response Precedent' — examine whether mass transaction rollbacks are becoming an accepted (if controversial) breach-recovery tool, and what that means for chain integrity guarantees."
       },
-      "source": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos"
+      "source": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "Gareth Ryder-Hanrahan's new mystery TTRPG, Merryshire Detective Club",
+      "story": "EN World's Podcast #410 covers Dragonlance, Paizo, unions, and '600% markups' in the TTRPG print/publishing industry",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'How to Run a Cozy-Noir Murder Mystery: A GM's Field Guide to Merryshire Detective Club.' Practical, table-ready angle — session structure, clue-pacing tips, and how to keep players from 'solving' the case in five minutes.",
-        "itsalreadywritten": "Title: 'Gareth Ryder-Hanrahan Proves Mystery TTRPGs Are Having a Moment — Here's the Design Trick That Makes Them Work.' Craft-focused piece dissecting how mystery narrative structure gets translated into tabletop mechanics, useful for aspiring RPG writers."
+        "bizzal-games": "Hook: '600% Markups, Union Talk, and Dragonlance's Return: What EN World's Podcast #410 Reveals About the State of TTRPG Publishing' — a news roundup framing the labor and pricing tensions gamers should know about before their next book purchase.",
+        "itsalreadywritten": "Hook: 'Paizo, Unions, and the Real Cost of Making RPG Books: What Freelance Writers Should Take From Podcast #410' — pair this with EN World's 'Write for RPGs Professionally' piece to give aspiring TTRPG writers a reality check on rates and royalties in a unionizing industry."
       },
-      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
+      "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
     },
     {
-      "story": "EN World's 'RPG Evolution: Write for RPGs Professionally' column",
+      "story": "EN World's 'RPG Evolution: Write for RPGs Professionally' guide drops alongside a wave of new print releases (Scalemail, Invincible RPG, Merryshire Detective Club, dwarf-themed Tome)",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'The Freelancer's Secret: How Professional Adventure Writers Structure Encounters (And How You Can Steal Their Tricks).' Actionable GM-facing piece translating pro-writing techniques into better sessions at your table.",
-        "itsalreadywritten": "Title: 'So You Want to Write for D&D: A Realistic Career Breakdown.' Career/craft piece for aspiring freelancers — pay rates, pitching process, and what separates a hobbyist homebrewer from a published RPG writer."
+        "bizzal-games": "Hook: 'This Week's New TTRPG Print Wave — Scalemail, Invincible RPG, and Merryshire Detective Club — Ranked for GMs' — a buyer's guide angle covering what's actually worth adding to your shelf this month.",
+        "itsalreadywritten": "Hook: 'How to Turn Your Homebrew Into a Published Adventure: Lessons From This Week's New TTRPG Releases' — use the new releases (Merryshire's mystery hooks, the dwarf-lore Tome) as case studies alongside EN World's professional-writing guide to show the path from fan content to paid freelance work."
       },
       "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
     }

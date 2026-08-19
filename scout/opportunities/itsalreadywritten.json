@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-18T11:07:36+00:00",
+  "generated": "2026-08-19T11:07:00+00:00",
   "opportunities": [
     {
-      "title": "Merryshire Detective Club: The Rules Behind Solving a Murder at the Table",
-      "why_now": "Fresh EN World thread breaking down Gareth Ryder-Hanrahan's new mystery-focused TTRPG system.",
-      "angle": "Rules breakdown—how does the game mechanically handle clue-gathering and deduction vs. GM fiat?",
+      "title": "Merryshire Detective Club: How Gareth Ryder-Hanrahan Turns 'Whodunit' Into a Rules Engine",
+      "why_now": "Fresh EN World coverage of GRH's new mystery RPG gives a concrete case study in procedural mystery design mechanics.",
+      "angle": "Rules breakdown post/thread dissecting the clue-tracking and deduction subsystems—compare to Brindlewood Bay/Gumshoe conventions.",
       "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
     },
     {
-      "title": "The New Dwarf Tome: What's Actually Crunchy Inside",
-      "why_now": "A dedicated rules/lore supplement for dwarves just dropped coverage, perfect for a rules-first breakdown.",
-      "angle": "Feature dive on new subclasses/mechanics vs. existing dwarf rules across editions",
+      "title": "Scalemail, Invincible RPG, Blades in the Dark: What's Actually New in the Crunch",
+      "why_now": "This week's print news roundup bundles three notable releases/updates worth a rules-first digest before hype cycles move on.",
+      "angle": "Quick-hit X thread + blog roundup extracting the one new mechanic from each title, skipping the marketing fluff.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-scalemail-invincible-rpg-blades-in-the-dark-and-more.720291/"
+    },
+    {
+      "title": "Dwarves, Runes, and Mines: Grading the New Tome's Crunch Against 5E/OSR Baselines",
+      "why_now": "A dedicated dwarf sourcebook just dropped, prime territory for a subsystem audit before reviewers set the narrative.",
+      "angle": "Mechanical teardown post comparing new rune/mining rules to existing subsystems (mining minigames, rune magic in other books).",
       "source": "https://www.enworld.org/threads/tome-for-dwarves-runes-mines-and-monsters.720340/"
     },
     {
-      "title": "So You Want to Write RPGs for a Living: The Actual Path (Not the Fantasy)",
-      "why_now": "EN World's RPG Evolution column just laid out the professional writing path—prime fodder for a facts-first career explainer.",
-      "angle": "Myth-busting listicle: what the industry actually pays/requires vs. common assumptions",
+      "title": "'The Rules Are Already Written—Here's How to Get Paid to Write Them'",
+      "why_now": "EN World's professional-writing piece is a perfect on-brand pun and gives aspiring designers concrete next steps.",
+      "angle": "Voice-driven op-ed using our tagline literally: demystify freelance RPG writing pathways (playtesting, freelance rates, submission calls).",
       "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
     },
     {
-      "title": "600% Markups: The Math Behind Why Your Minis Cost So Much",
-      "why_now": "This week's EN World podcast dropped hard numbers on Paizo, unions, and markup economics in the hobby.",
-      "angle": "Explainer using their cited figures—break down the supply chain cost stack in table form",
-      "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
-    },
-    {
-      "title": "Sly Flourish's 'High-Value' GM Tips, Fact-Checked Against the Actual Rules",
-      "why_now": "A fresh Sly Flourish analysis piece just published on GM tools/tricks, ripe for a rules-first response.",
-      "angle": "Companion/rebuttal post: which tips are house-rule workarounds vs. what the books already say to do",
+      "title": "Sly Flourish's 'High-Value' GM Tools, Fact-Checked Against the Actual Rulebooks",
+      "why_now": "A widely-shared GM-advice piece is trending; our rules-first angle can validate or correct which tips are RAW vs. house-rule.",
+      "angle": "Annotated response post: tag each tip as 'core rule,' 'variant rule,' or 'pure GM fiat' for credibility-driven engagement.",
       "source": "https://slyflourish.com/high-value_tips_tricks_and_tools.html?rss=1"
     }
   ]

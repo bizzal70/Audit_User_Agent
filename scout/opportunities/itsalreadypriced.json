@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-18T11:07:36+00:00",
+  "generated": "2026-08-19T11:07:00+00:00",
   "opportunities": [
     {
-      "title": "Harmony Is Deleting 109,000 Transactions to Undo One Hack — Ask Yourself What 'Immutable' Actually Means Now",
-      "why_now": "A chain is about to unilaterally erase over 100k transactions to reverse a single exploit, reopening the 'code is law' debate in real time.",
-      "angle": "Explainer/opinion: walk through the rollback mechanics, compare to DAO fork precedent, and argue this is the quiet part said loud — chains will rewrite history when insiders are exposed, not when users are.",
+      "title": "MAYAChain Halts, Then the Real Number Comes Out: $11M, Not $1.7M",
+      "why_now": "The network halted on an initial $1.7M estimate, but hours later CoinDesk reported the drained pool value at $11M — a live case study in how exploit disclosures always undercount on day one.",
+      "angle": "Timeline breakdown post: initial estimate vs. real damage, with a running note that 'the first number is never the number'",
+      "source": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Harmony's Fix for Getting Hacked (Again): Just Delete 109,000 Transactions",
+      "why_now": "Harmony is planning a rollback erasing over 100k transactions post-exploit — the same 'immutable ledger' industry once again choosing to rewrite history instead of eating the loss.",
+      "angle": "Opinion piece on rollback-as-security-theater, with a scorecard of past chains that did the same (Ethereum Classic, etc.) and what it means for 'trustlessness'",
       "source": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "DefiLlama Delayed Its Own App Because Apple's Store Was Full of Fake DefiLlama Apps",
-      "why_now": "A top DeFi data provider just admitted phishing clones beat them to launch on Apple's supposedly curated store.",
-      "angle": "Security explainer: how App Store phishing clones work, why 'official app store' is not a security boundary, checklist for verifying any crypto app before download.",
+      "title": "DefiLlama Delayed Its App Because Apple's Store Was Already Full of Fake DefiLlama Apps",
+      "why_now": "The founder says phishing clones on the official Apple Store forced a delay — proof that even the most security-conscious builders can't outrun platform-level scams.",
+      "angle": "Explainer on how app-store phishing clones work, screenshots of the fakes if available, and a checklist for verifying official crypto apps before download",
       "source": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "BitMart's Founder Won't Allow an Audit While Users Report Frozen Funds — We've Seen This Movie Before",
-      "why_now": "Real-time reports of blocked withdrawals and unpaid staff plus a founder publicly refusing an audit is the exact sequence that preceded FTX, Celsius, and a dozen others.",
-      "angle": "Pattern-recognition piece: lay out the 'audit refusal → withdrawal freeze → silence' playbook with past exchange collapses as a timeline, ending on what to do with funds now, not later.",
-      "source": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees"
+      "title": "An AI Found 'Severe' Flaws in Your Bitcoin Wallet's Firmware. Humans Missed Them.",
+      "why_now": "BitBox disclosed that AI-assisted auditing caught critical firmware bugs that passed human review, a first-of-its-kind admission for a hardware wallet maker.",
+      "angle": "Deep dive on what AI code-auditing catches that manual reviews miss, framed as a wake-up call for hardware wallet due diligence, not a marketing win",
+      "source": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware"
     },
     {
-      "title": "The $165M 'Crypto Program' Ponzi Just Got Its Promoter Deported From Fiji — The Red Flags Were All Public",
-      "why_now": "A newly confirmed $165M Ponzi promoter's deportation gives a concrete, resolved case study while memories of the scheme's marketing are still fresh.",
-      "angle": "Post-mortem/checklist: reconstruct the promoter's public claims and yield promises, map them to standard Ponzi tells, and turn it into a reusable red-flag list for spotting the next one before it hits $165M.",
-      "source": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083"
-    },
-    {
-      "title": "Bitpanda Just Ate Europe's First MiCA Fine — Here's What It Actually Signals for Every Exchange Operating Under 'Compliant' Licenses",
-      "why_now": "This is the first published MiCA penalty in the EU, turning theoretical regulatory risk into a concrete enforcement precedent.",
-      "angle": "Analysis: decode what triggered the fine, why 'MiCA-licensed' has been treated as a safety signal by users, and what this means for trusting license badges going forward.",
-      "source": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty"
+      "title": "Trump's Crypto Firm Is Running on AI Models the US Government Calls a Security Risk",
+      "why_now": "A Trump-family-linked crypto operation is reportedly built on Chinese AI infrastructure that Washington itself has flagged — a supply-chain security story hiding inside a political one.",
+      "angle": "Security-first framing: strip the politics, walk through the actual infrastructure dependency and what it means for user data/custody risk",
+      "source": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk"
     }
   ]
 }

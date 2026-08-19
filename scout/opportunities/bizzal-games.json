@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-18T11:07:36+00:00",
+  "generated": "2026-08-19T11:07:00+00:00",
   "opportunities": [
     {
-      "title": "Rune Traps Ruling: Does Detect Magic Actually Disarm a Dwarven Glyph?",
-      "why_now": "A new dwarves/runes/mines tome just dropped, giving a concrete trap-type to rules-lawyer on camera.",
-      "angle": "60-sec ruling short: read a rune-trap stat block, walk through Detect Magic vs. Dispel Magic vs. Thieves' Tools resolution in 5e/Shadowdark side-by-side.",
+      "title": "Cave-Ins Aren't a Trap, They're a Skill Challenge: Running Mine Collapses in 5e/Shadowdark",
+      "why_now": "A new dwarf/mine/rune-focused tome just dropped, giving a timely hook for a mechanics breakdown on an underused hazard type.",
+      "angle": "60-sec rules ruling: DC ladder for cave-in triggers, escape checks, and what actually kills a party vs. what just wastes their torches",
       "source": "https://www.enworld.org/threads/tome-for-dwarves-runes-mines-and-monsters.720340/"
     },
     {
-      "title": "Run a Murder Mystery Without 40 Perception Checks",
-      "why_now": "Merryshire Detective Club just launched as a mystery-focused module, handing you a topical hook for investigation-scene mechanics.",
-      "angle": "Tactic short: show the 'clue is never behind a roll' technique, contrast with a bad GM habit, deliver as blunt GM advice.",
-      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
-    },
-    {
-      "title": "Sly Flourish's 'High-Value Tips' — Which One Actually Saves You Prep Time?",
-      "why_now": "Fresh, on-beat GM-craft article from a name your audience already follows; easy to react to or one-up.",
-      "angle": "Rapid-fire reaction short: pick 3 tips, keep 2, torch 1, deliver verdict in classic dry-veteran tone.",
+      "title": "Sly Flourish's 'High-Value Tip' Is Solid — Here's Why I Still Do It Differently",
+      "why_now": "Sly Flourish just published a fresh GM-tools roundup that's already circulating among the exact audience this channel targets.",
+      "angle": "Reaction short: veteran-GM rebuttal format, agree/disagree with one specific tip, end on the house-rule fix",
       "source": "https://slyflourish.com/high-value_tips_tricks_and_tools.html?rss=1"
     },
     {
-      "title": "600% Markups and Why Your Table Still Runs on a $20 Rulebook",
-      "why_now": "The EN World podcast just aired industry talk on Paizo/unions/pricing, giving a timely hook for an industry-cynicism aside.",
-      "angle": "Wry one-take rant: contrast mini/merch markup culture with the actual math of running a session, end on a GM-practical tip.",
-      "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
+      "title": "Clue Economy 101: Why Your Murder Mystery Session Always Stalls at the Same Table",
+      "why_now": "A new detective-themed RPG (Merryshire Detective Club) just got coverage, making investigation mechanics topical.",
+      "angle": "Rules ruling on 'three clues per conclusion' pacing rule, applied to 5e Investigation checks and Shadowdark's no-skill-list approach",
+      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
     },
     {
-      "title": "So You Want to Write Adventures for Money — Here's the Ruling Nobody Prints",
-      "why_now": "EN World's piece on writing for RPGs professionally is fresh and taps into the channel's veteran-GM authority.",
-      "angle": "Career-advice short in-character as the grizzled GM: 3 blunt truths about freelance RPG writing pay/credit, tie back to a rules-design example.",
+      "title": "What Freelance Adventure Writing Actually Pays (Do the Math Before You Quit Your Day Job)",
+      "why_now": "EN World's 'write for RPGs professionally' piece is fresh and this audience skews toward homebrewers who dream of going pro.",
+      "angle": "Dry, numbers-first breakdown: per-word rates vs. hours spent, wry veteran-GM reality check, no motivational fluff",
       "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
+    },
+    {
+      "title": "The 600% Markup Problem: Why Your Beat-Up Physical Module Still Wins at the Table",
+      "why_now": "This week's podcast flagged 600% markups in the hobby, giving a sharp, quotable angle on tool bloat vs. actual play value.",
+      "angle": "Wry take: compare a $5 zine-era module's usefulness at the table to an overpriced VTT bundle, end on one concrete prep tip that costs nothing",
+      "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
     }
   ]
 }
