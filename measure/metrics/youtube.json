@@ -3634,5 +3634,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "videos": [
+      {
+        "id": "dceYXW7JMMs",
+        "title": "Encumbrance and Gear Slots catch players off guard #shadowdark",
+        "published": "2026-08-18",
+        "views": 31,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "l7eGSpM1Su0",
+        "title": "Clockwork Soul's spell list is deceptively robust #dnd5e",
+        "published": "2026-08-18",
+        "views": 230,
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "iBRr_m3uWRk",
+        "title": "Patron Bond and Invoke Patron can rewrite a wizard's personality #dcc",
+        "published": "2026-08-18",
+        "views": 5,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "oMi3Bn3AHEQ",
+        "title": "Hepsoj's Fecund Fungi shifts encounter dynamics more than it deals direct damage #dcc",
+        "published": "2026-08-17",
+        "views": 12,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "ZTbym0CWT1g",
+        "title": "Damage Types have no rules of their own #dnd5e",
+        "published": "2026-08-17",
+        "views": 323,
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "gQHsq1CBCwg",
+        "title": "Use Gargoyle as a values test: give the table two wins #shadowdark",
+        "published": "2026-08-17",
+        "views": 18,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "GAV2__gAHcs",
+        "title": "Grim Goir's bleeding effect is more dangerous than expected #dcc",
+        "published": "2026-08-16",
+        "views": 100,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "F-7rkWtI-70",
+        "title": "Giant Centipede earns its stakes fast #dnd5e",
+        "published": "2026-08-16",
+        "views": 80,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "czfg94ApKJg",
+        "title": "Shortsword (+1) often gets overestimated #dnd5e",
+        "published": "2026-08-15",
+        "views": 2,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Xd1htIb0-h8",
+        "title": "Morale checks bypass player control #dcc",
+        "published": "2026-08-15",
+        "views": 66,
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "Jm_sx8r3Tz0",
+        "title": "Sphinx's Roar can paralyze all creatures within far range for up to 4 rounds #shadowdark",
+        "published": "2026-08-14",
+        "views": 7,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "RN_FnBSZ2Hw",
+        "title": "Making an Attack allows multiple actions to trigger an attack #dnd5e",
+        "published": "2026-08-14",
+        "views": 98,
+        "likes": 2,
+        "comments": 1
+      }
+    ]
   }
 ]
