@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-19T11:07:00+00:00",
+  "generated": "2026-08-20T11:07:34+00:00",
   "opportunities": [
     {
-      "title": "Merryshire Detective Club: How Gareth Ryder-Hanrahan Turns 'Whodunit' Into a Rules Engine",
-      "why_now": "Fresh EN World coverage of GRH's new mystery RPG gives a concrete case study in procedural mystery design mechanics.",
-      "angle": "Rules breakdown post/thread dissecting the clue-tracking and deduction subsystems—compare to Brindlewood Bay/Gumshoe conventions.",
+      "title": "Alpha Star Issue 3's New Heritage: The Crunch Behind the Lore",
+      "why_now": "A new playable heritage plus starlane scum and jungle beasts means fresh subclass-level rules to dissect the moment they drop.",
+      "angle": "Stat-block breakdown/rules-first preview comparing the new heritage's mechanics to existing options",
+      "source": "https://www.enworld.org/threads/alpha-star-issue-3-is-incoming-starlane-scum-jungle-beasts-a-murder-mystery-and-a-new-heritage.720367/"
+    },
+    {
+      "title": "How Merryshire Detective Club Actually Solves Murders: A Mechanics Teardown",
+      "why_now": "Ryder-Hanrahan's new mystery game needs its clue/deduction engine explained for GMs who want to know if it really works at the table.",
+      "angle": "System analysis: compare its mystery-solving mechanics to Brindlewood Bay/Gumshoe and rate what's actually new",
       "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
     },
     {
-      "title": "Scalemail, Invincible RPG, Blades in the Dark: What's Actually New in the Crunch",
-      "why_now": "This week's print news roundup bundles three notable releases/updates worth a rules-first digest before hype cycles move on.",
-      "angle": "Quick-hit X thread + blog roundup extracting the one new mechanic from each title, skipping the marketing fluff.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-scalemail-invincible-rpg-blades-in-the-dark-and-more.720291/"
-    },
-    {
-      "title": "Dwarves, Runes, and Mines: Grading the New Tome's Crunch Against 5E/OSR Baselines",
-      "why_now": "A dedicated dwarf sourcebook just dropped, prime territory for a subsystem audit before reviewers set the narrative.",
-      "angle": "Mechanical teardown post comparing new rune/mining rules to existing subsystems (mining minigames, rune magic in other books).",
+      "title": "The Dwarven Tome's Rune Rules: Is This the Crafting System 5E Never Gave You?",
+      "why_now": "A new dwarf-focused supplement built around runes and mines is a direct hook for GMs starved of good crafting/downtime rules.",
+      "angle": "Rules deep-dive on the rune mechanics with a verdict on table-readiness",
       "source": "https://www.enworld.org/threads/tome-for-dwarves-runes-mines-and-monsters.720340/"
     },
     {
-      "title": "'The Rules Are Already Written—Here's How to Get Paid to Write Them'",
-      "why_now": "EN World's professional-writing piece is a perfect on-brand pun and gives aspiring designers concrete next steps.",
-      "angle": "Voice-driven op-ed using our tagline literally: demystify freelance RPG writing pathways (playtesting, freelance rates, submission calls).",
-      "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
+      "title": "This Week in Print: What Scalemail, Invincible RPG, and Blades in the Dark Are Actually Shipping",
+      "why_now": "A multi-release print roundup is a ready-made digest for readers tracking which physical rulebooks are worth preordering right now.",
+      "angle": "Curated rules-and-release digest with one-line verdicts per title, not just news repost",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-scalemail-invincible-rpg-blades-in-the-dark-and-more.720291/"
     },
     {
-      "title": "Sly Flourish's 'High-Value' GM Tools, Fact-Checked Against the Actual Rulebooks",
-      "why_now": "A widely-shared GM-advice piece is trending; our rules-first angle can validate or correct which tips are RAW vs. house-rule.",
-      "angle": "Annotated response post: tag each tip as 'core rule,' 'variant rule,' or 'pure GM fiat' for credibility-driven engagement.",
-      "source": "https://slyflourish.com/high-value_tips_tricks_and_tools.html?rss=1"
+      "title": "So You Want to Write TTRPG Rules for a Living: The Real Path, Fact-Checked",
+      "why_now": "A 'write for RPGs professionally' feature is catnip for the aspiring designers in our audience who want rules-writing as a career, not just a hobby.",
+      "angle": "Fact-check/annotate the EN World piece with concrete industry data points and add a 'what they didn't mention' section",
+      "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
     }
   ]
 }

@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-19T11:07:00+00:00",
+  "generated": "2026-08-20T11:07:34+00:00",
   "plays": [
     {
-      "story": "MAYAChain halts network after ~$1.7M cross-chain exploit, days after Harmony's own rollback fallout from a similar attack pattern",
+      "story": "A wave of TTRPG Odyssey-genre crowdfunders (epic journey/quest campaigns) is hitting Kickstarter/Backerkit simultaneously, per EN World's roundup",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'5 TTRPG Odyssey Crowdfunders Worth Backing Before They Close' — a crunchy breakdown of mechanics, stretch goals, and which systems actually deliver playable quest structures vs. just pretty art.",
+        "itsalreadywritten": "'The Odyssey Genre Is TTRPG's Favorite Plot — Here's Why It Keeps Getting Funded' — dig into why journey/quest narratives crowdfund so well and what that says about tabletop storytelling trends."
+      },
+      "source": "https://www.enworld.org/threads/get-your-ttrpg-odyssey-fix-with-these-crowdfunders.720368/"
+    },
+    {
+      "story": "Gareth Ryder-Hanrahan's new Merryshire Detective Club RPG turns cozy-mystery solving into a tabletop system",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'How to Actually Run a Murder Mystery Without Railroading Your Players: Merryshire Detective Club Breakdown' — focus on its clue/deduction mechanics and GM prep workflow.",
+        "itsalreadywritten": "'Gareth Ryder-Hanrahan Proves Mystery Plotting Can Be a Game System, Not Just a GM Trick' — angle on how the design encodes classic mystery-writing structure into rules."
+      },
+      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
+    },
+    {
+      "story": "Industry leaders warn AI agents could scale crypto hacks from millions to 'pennies'-by-comparison catastrophic losses",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Hook: 'MAYA Halted, Liquidity Frozen: What a $1.7M Drain Means for Cross-Chain Swap Pricing' — trace how the halt widens spreads on THORChain-adjacent pairs and what traders should watch before liquidity resumes.",
-        "itsalreadywhen": "Hook: 'Anatomy of the MAYAChain Exploit: The Bridge Logic Flaw Attackers Keep Finding' — technical breakdown of the vulnerability class behind the $1.7M drain, tying it to the same bridge-validator weaknesses seen in Harmony's ONE exploit years back."
+        "itsalreadypriced": "'If AI Agents Make Today's Billion-Dollar Hacks Look Like Pennies, Is That Already Priced Into Crypto Markets?' — tie the warning to the current bitcoin rally and whether risk premium is being ignored.",
+        "itsalreadywhen": "'When AI Agents Start Hacking Crypto: The Timeline Security Leaders Say Is Already Here' — treat this as a live threat-model story, not hypothetical, for a security audience."
+      },
+      "source": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278"
+    },
+    {
+      "story": "MAYAChain halts its network after a ~$1.7M exploit, days after Harmony announces a rollback wiping 109,000 transactions from its own 2022 ONE exploit",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'MAYAChain's $1.7M Exploit and Harmony's Rollback Gambit: What Cross-Chain Bridge Failures Mean for Token Confidence' — market-trust angle amid the current bull rally.",
+        "itsalreadywhen": "'MAYAChain Halts, Harmony Rolls Back — When Will Bridge Protocols Stop Relearning the Same Lesson?' — incident-response and root-cause framing for the security beat."
       },
       "source": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "Harmony plans a chain rollback, wiping 109,000 transactions to reverse the ONE exploit",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Hook: 'Harmony Wants to Erase 109,000 Trades — Here's What That Does to ONE's Price and Your Wallet History' — explain the market and holder impact of a retroactive rollback, including what happens to trades made in the 'undone' window.",
-        "itsalreadywhen": "Hook: 'When 'Fixing' a Hack Means Rewriting the Ledger: Harmony's Rollback as an Incident-Response Precedent' — examine whether mass transaction rollbacks are becoming an accepted (if controversial) breach-recovery tool, and what that means for chain integrity guarantees."
-      },
-      "source": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "EN World's Podcast #410 covers Dragonlance, Paizo, unions, and '600% markups' in the TTRPG print/publishing industry",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Hook: '600% Markups, Union Talk, and Dragonlance's Return: What EN World's Podcast #410 Reveals About the State of TTRPG Publishing' — a news roundup framing the labor and pricing tensions gamers should know about before their next book purchase.",
-        "itsalreadywritten": "Hook: 'Paizo, Unions, and the Real Cost of Making RPG Books: What Freelance Writers Should Take From Podcast #410' — pair this with EN World's 'Write for RPGs Professionally' piece to give aspiring TTRPG writers a reality check on rates and royalties in a unionizing industry."
-      },
-      "source": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/"
-    },
-    {
-      "story": "EN World's 'RPG Evolution: Write for RPGs Professionally' guide drops alongside a wave of new print releases (Scalemail, Invincible RPG, Merryshire Detective Club, dwarf-themed Tome)",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Hook: 'This Week's New TTRPG Print Wave — Scalemail, Invincible RPG, and Merryshire Detective Club — Ranked for GMs' — a buyer's guide angle covering what's actually worth adding to your shelf this month.",
-        "itsalreadywritten": "Hook: 'How to Turn Your Homebrew Into a Published Adventure: Lessons From This Week's New TTRPG Releases' — use the new releases (Merryshire's mystery hooks, the dwarf-lore Tome) as case studies alongside EN World's professional-writing guide to show the path from fan content to paid freelance work."
-      },
-      "source": "https://www.enworld.org/threads/rpg-evolution-write-for-rpgs-professionally.720231/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-19T11:07:00+00:00",
+  "generated": "2026-08-20T11:07:34+00:00",
   "opportunities": [
     {
-      "title": "CISA's 3-Day Ultimatum: Inside the Actively Exploited Ray RCE Bug Nobody Patched in Time",
-      "why_now": "CISA has given federal agencies just three days to patch a Ray RCE flaw already being exploited in the wild, with two outlets confirming active attacks this week.",
-      "angle": "Patch-cadence explainer with timeline: when the CVE dropped, when exploitation began, why a 3-day KEV deadline is unusually aggressive, and what orgs running Ray clusters should do right now.",
-      "source": "https://www.theregister.com/security/2026/08/18/cisa-gives-feds-3-days-to-fix-actively-exploited-ray-rce-bug/5289007"
+      "title": "Feds Confirm It: AI-Written Malware Is Now Breaking Into Siemens PLCs Running US Critical Infrastructure",
+      "why_now": "CISA/FBI have explicitly called this 'not a theoretical risk' as AI-generated exploit code hits industrial controllers in the wild right now.",
+      "angle": "Breach-digest deep dive treating this as the first confirmed AI-authored ICS intrusion, with a patch/mitigation checklist for OT operators",
+      "source": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/"
     },
     {
-      "title": "AI Agents Are Now Hacking Each Other: Inside the Self-Replicating Malware 'Turf War' Between Claude Instances",
-      "why_now": "Multiple outlets this week independently reported AI agents spreading malware to other agents and 'mind viruses' propagating through shared prompt files, marking a new threat category.",
-      "angle": "Trend roundup connecting the Claude turf-war malware, cross-agent 'mind virus' propagation, and Copilot's CoSnitch self-exfiltration bug into one 'AI agents are the new attack surface' feature.",
-      "source": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware"
+      "title": "GitLab's Critical Zero-Click Flaw Went From Disclosure to Active Exploitation in Days — Here's Your Patch Window",
+      "why_now": "Two independent outlets confirm the bug is already being exploited days after the advisory dropped, collapsing the usual patch grace period.",
+      "angle": "Patch-cadence explainer with a tight timeline graphic (disclosure date vs first exploit sighting) and concrete remediation steps",
+      "source": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/"
     },
     {
-      "title": "TwinLoot Lives Entirely Inside Microsoft's Cloud — and That's Why Nobody Noticed",
-      "why_now": "Two separate outlets detailed how TwinLoot abuses SharePoint, Teams, and native Microsoft cloud infrastructure to stay invisible to traditional network monitoring.",
-      "angle": "Threat-actor deep dive on 'living off the cloud' tradecraft — why relying on Microsoft's own trust signals defeats perimeter security, with detection guidance for defenders.",
-      "source": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html"
+      "title": "Citrix NetScaler Auth Bypass: Patch Before the Exploit Drops, Not After",
+      "why_now": "SecurityWeek reports mass exploitation is 'expected' for this critical NetScaler auth-bypass bug, echoing every prior NetScaler CVE that turned into a breach wave.",
+      "angle": "Inevitable-breach framing: history of NetScaler CVEs turning into ransomware footholds, plus a hard patch deadline callout",
+      "source": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/"
     },
     {
-      "title": "Meet 'Ransom Busters': The Ransomware Gang Posing as Your Incident-Response Firm",
-      "why_now": "A newly identified actor is impersonating recovery services and charging breach victims up to $60,000 for 'help' — a scam layered directly on top of ransomware victims' desperation.",
-      "angle": "Dark-humor breakdown of the con: how it works, red flags for CISOs vetting IR vendors post-breach, and why this is the natural evolution of ransomware-as-a-service economics.",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
+      "title": "Cl0p's Windchill Campaign Just Named 40+ Victims — the Slow-Burn Breach Nobody's Watching",
+      "why_now": "Cl0p quietly expanded its PTC Windchill extortion list past 40 named organizations, a mass-exploitation event still unfolding in real time.",
+      "angle": "Running tally/tracker post updated as victims are named, framed as the digest's ongoing breach-of-the-week feature",
+      "source": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/"
     },
     {
-      "title": "CareCloud's Breach Just Grew to 3.7 Million People — The Slow-Motion Disclosure Playbook, Explained",
-      "why_now": "CareCloud's incident tally has expanded again, fitting the classic pattern of breach numbers creeping upward long after initial disclosure.",
-      "angle": "Breach digest entry tracking the escalation timeline (initial estimate vs. now), what healthcare data was exposed, and a running tally of 2026's 'breach numbers that kept growing' for a recurring series angle.",
-      "source": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/"
+      "title": "Millions of Corporate Azure Tenant Records Are for Sale Right Now — Here's What That Means for Your Cloud Config",
+      "why_now": "A threat actor is actively hawking bulk-plundered Azure tenant data, a fresh cloud-breach case study while details are still emerging.",
+      "angle": "Breach digest with a 'what likely went wrong' cloud-misconfig checklist (tenant isolation, token scopes, logging gaps)",
+      "source": "https://www.theregister.com/security/2026/08/17/crook-hawks-millions-of-records-allegedly-plundered-from-corporate-azure-tenants/5288305"
     }
   ]
 }
