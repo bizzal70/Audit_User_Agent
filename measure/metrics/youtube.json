@@ -3836,5 +3836,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-21",
+    "videos": [
+      {
+        "id": "wsaW2wLJCuY",
+        "title": "Cursed Knight of St. Ydris: In the dark, Cursed Knight of St #shadowdark",
+        "published": "2026-08-20",
+        "views": 37,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "1iZai8jGBEw",
+        "title": "Major Image shifts the action economy more than players expect #dnd5e",
+        "published": "2026-08-20",
+        "views": 70,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "qOvyEYp6ViQ",
+        "title": "Itinerant Grasper tests the table's priorities #dcc",
+        "published": "2026-08-20",
+        "views": 22,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "znWV0R1y2OU",
+        "title": "Detect Thoughts: Risk of Alerting Your Target #shadowdark",
+        "published": "2026-08-19",
+        "views": 2,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "fFcD0b_yEN8",
+        "title": "Control Water shapes entire lakes #shadowdark",
+        "published": "2026-08-19",
+        "views": 205,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "qX0-QMoUmTA",
+        "title": "Harpy's Luring Song catches parties off guard #dnd5e",
+        "published": "2026-08-19",
+        "views": 170,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "S6YKf7rxJKo",
+        "title": "Throwing Blade's return feature catches players off guard #dcc",
+        "published": "2026-08-19",
+        "views": 68,
+        "likes": 3,
+        "comments": 1
+      },
+      {
+        "id": "dceYXW7JMMs",
+        "title": "Encumbrance and Gear Slots catch players off guard #shadowdark",
+        "published": "2026-08-18",
+        "views": 59,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "l7eGSpM1Su0",
+        "title": "Clockwork Soul's spell list is deceptively robust #dnd5e",
+        "published": "2026-08-18",
+        "views": 381,
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "iBRr_m3uWRk",
+        "title": "Patron Bond and Invoke Patron can rewrite a wizard's personality #dcc",
+        "published": "2026-08-18",
+        "views": 11,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "oMi3Bn3AHEQ",
+        "title": "Hepsoj's Fecund Fungi shifts encounter dynamics more than it deals direct damage #dcc",
+        "published": "2026-08-17",
+        "views": 20,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "ZTbym0CWT1g",
+        "title": "Damage Types have no rules of their own #dnd5e",
+        "published": "2026-08-17",
+        "views": 332,
+        "likes": 4,
+        "comments": 0
+      }
+    ]
   }
 ]
