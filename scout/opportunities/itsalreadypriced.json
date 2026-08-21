@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-20T11:07:34+00:00",
+  "generated": "2026-08-21T11:07:37+00:00",
   "opportunities": [
     {
-      "title": "Harmony's 109,000-Transaction Rollback Is the Real Exploit",
-      "why_now": "Harmony is erasing over 100k transactions to reverse a single hack, reopening the 'is a rollback worse than the hack' debate right as the network tries to move on.",
-      "angle": "Security op-ed: unpack what a rollback actually breaks (immutability, user trust, precedent for future 'fixes') and why this always ends the same way",
-      "source": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Two Chains, One Week: MANTRA and MAYAChain Both Halted While Everyone Was Watching the Candles",
+      "why_now": "MANTRA froze its entire network just hours after MAYAChain halted from a $1.7M exploit, both landing in the middle of a euphoric BTC rally that had everyone looking the other way.",
+      "angle": "Comparative incident post-mortem: what 'halt the chain' actually means for holders, why it keeps happening on newer L1s/appchains, and the checklist for judging chain-halt risk before you bridge or stake — publish while both stories are still developing.",
+      "source": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416"
     },
     {
-      "title": "MAYAChain's Six-Bug Exploit Is a Postmortem Nobody Needed to Write Twice",
-      "why_now": "A six-bug chain drained $1.7M and forced a full network halt just months after similar shared-liquidity warnings across cross-chain protocols went ignored.",
-      "angle": "Technical teardown: map the bug chain, flag the shared-liquidity design pattern as the real culprit, and predict which protocols share the same exposure",
-      "source": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "885,000 Phone Numbers Just Got Added to a Crypto Phishing Kit — Here's What That List Is Actually For",
+      "why_now": "A cybersecurity firm just disclosed a phishing campaign built around a database of 885K phone numbers, a scale large enough to matter to almost any reader with a SIM.",
+      "angle": "Explainer/threat-intel breakdown: how SMS-based phishing lists get built and monetized, what a targeted smishing message looks like in the wild, and the 3 settings (SIM lock, 2FA app vs SMS, carrier PIN) readers should check today.",
+      "source": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "When AI Agents Start Hacking DeFi, $1.7M Exploits Will Look Like Rounding Errors",
-      "why_now": "Industry leaders just warned AI-driven exploits could dwarf today's billion-dollar hacks, landing the same week MAYAChain proved a handful of bugs can still halt a network manually.",
-      "angle": "Forward-looking security thesis: use this week's manual exploits as the baseline, then argue why automated AI adversaries make current audit/bounty models obsolete",
-      "source": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278"
+      "title": "Fake 'AML Checker' Tools Are the New Approve-and-Drain Scam — Don't Paste Your Wallet Into Anything",
+      "why_now": "A fresh wave of fake AML/compliance checker sites is tricking users into wallet-draining approvals right as retail re-enters the market chasing the BTC breakout.",
+      "angle": "Threat breakdown + screenshot-style walkthrough of the scam flow, framed as 'the next generation of the fake-checker scam' with a hard rule: legitimate AML tools never ask for a signature.",
+      "source": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets"
     },
     {
-      "title": "Is the Clarity Act Already Priced In? Ask the Traders Who Just Lost $3 Billion Betting Against This Rally",
-      "why_now": "Bitcoin's breakout past $71K wiped out $3B in shorts the same week the market is openly debating whether Clarity Act optimism is already baked in — a perfect brand-name moment.",
-      "angle": "Markets column under the blog's namesake thesis: use the short squeeze data to argue skeptics got the pricing wrong, then flag what's NOT priced in yet (enforcement risk, ethics stall)",
-      "source": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says"
+      "title": "Coldcard Just Admitted Its Old Seed Generation Wasn't Good Enough — Here's What Changed and Who Should Care",
+      "why_now": "Coldcard shipped a firmware update specifically strengthening seed phrase generation, a rare public admission from a hardware wallet vendor that's worth unpacking while it's fresh.",
+      "angle": "Security-nerd deep dive: what was weak about the old entropy/generation process, why this matters even if you already have a wallet, and a clear yes/no on whether existing seeds need to be rotated.",
+      "source": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Trader Who Made $49M Shorting Crypto Just Gave Back Half of It in 12 Seconds",
-      "why_now": "A high-profile bear got run over in seconds during this week's rally, a textbook cautionary tale during a violent short squeeze that liquidated over $3B.",
-      "angle": "Voice-driven short-form piece: 'this is how it always ends' framing on conviction shorts vs. market structure risk, built for X thread + blog crosspost",
-      "source": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds"
+      "title": "Everyone's Bragging About Short Squeezes — Nobody's Asking Why Two Protocols Halted the Same Week BTC Hit $80K",
+      "why_now": "CoinDesk/The Block are running wall-to-wall euphoria coverage (BTC $80K, $800M ETF inflows, $3B in shorts liquidated) at the exact moment MANTRA and MAYAChain both broke, a split-screen the market isn't talking about.",
+      "angle": "Contrarian markets-meets-security column: 'the rally narrative vs. the incident log,' arguing that bull markets are when security debt gets exposed fastest, with a call-out list of what to actually check on your positions during a melt-up.",
+      "source": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit"
     }
   ]
 }

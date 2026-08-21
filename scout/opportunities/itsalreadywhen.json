@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-20T11:07:34+00:00",
+  "generated": "2026-08-21T11:07:37+00:00",
   "opportunities": [
     {
-      "title": "Feds Confirm It: AI-Written Malware Is Now Breaking Into Siemens PLCs Running US Critical Infrastructure",
-      "why_now": "CISA/FBI have explicitly called this 'not a theoretical risk' as AI-generated exploit code hits industrial controllers in the wild right now.",
-      "angle": "Breach-digest deep dive treating this as the first confirmed AI-authored ICS intrusion, with a patch/mitigation checklist for OT operators",
-      "source": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/"
+      "title": "Entra ID Just Got a Perfect 10 — And Attackers Already Have It",
+      "why_now": "A CVSS 10.0 RCE flaw in Microsoft's core identity platform is being actively exploited in the wild right now, making it the most urgent patch item of the week.",
+      "angle": "Breaking-news patch alert: explain blast radius (anyone federating identity through Entra), confirm exploitation status, give a hard patch-by date",
+      "source": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html"
     },
     {
-      "title": "GitLab's Critical Zero-Click Flaw Went From Disclosure to Active Exploitation in Days — Here's Your Patch Window",
-      "why_now": "Two independent outlets confirm the bug is already being exploited days after the advisory dropped, collapsing the usual patch grace period.",
-      "angle": "Patch-cadence explainer with a tight timeline graphic (disclosure date vs first exploit sighting) and concrete remediation steps",
-      "source": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/"
+      "title": "Cisco's Bug Scorecard Reads 10, 10, 9.9, 9.6, 7.5 — Nobody's Getting a Participation Trophy",
+      "why_now": "The Register's gymnastics framing is a gift; five simultaneous critical/high Cisco CVEs (including the Crosswork/Secure Workload patches) demand a single triage cheat-sheet.",
+      "angle": "Digest/listicle: rank the five CVEs by real-world exploitability, not just CVSS, with a TL;DR patch-priority table",
+      "source": "https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838"
     },
     {
-      "title": "Citrix NetScaler Auth Bypass: Patch Before the Exploit Drops, Not After",
-      "why_now": "SecurityWeek reports mass exploitation is 'expected' for this critical NetScaler auth-bypass bug, echoing every prior NetScaler CVE that turned into a breach wave.",
-      "angle": "Inevitable-breach framing: history of NetScaler CVEs turning into ransomware footholds, plus a hard patch deadline callout",
-      "source": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/"
+      "title": "245 Million Downloads Later: North Korea's Rust Crate Backdoor Was Already Inside Your Build",
+      "why_now": "A nation-state actor slipped build-time malware into wildly popular Rust crates, turning routine `cargo build` into a supply-chain compromise vector.",
+      "angle": "Deep-dive explainer: how the poisoned crates worked, who's exposed, and a checklist for auditing dependency trees this week",
+      "source": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/"
     },
     {
-      "title": "Cl0p's Windchill Campaign Just Named 40+ Victims — the Slow-Burn Breach Nobody's Watching",
-      "why_now": "Cl0p quietly expanded its PTC Windchill extortion list past 40 named organizations, a mass-exploitation event still unfolding in real time.",
-      "angle": "Running tally/tracker post updated as victims are named, framed as the digest's ongoing breach-of-the-week feature",
-      "source": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/"
+      "title": "GitLab's Zero-Click Flaw Went From Disclosure to Active Exploitation in Days — Here's the Patch Window You Missed",
+      "why_now": "CVE-2026-19478 is a zero-click GitLab bug already being exploited barely days after disclosure, collapsing the usual patch-cadence grace period.",
+      "angle": "Patch-cadence postmortem: timeline graphic from disclosure to exploit, plus why zero-click bugs in dev tooling deserve emergency-patch SLAs",
+      "source": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
     },
     {
-      "title": "Millions of Corporate Azure Tenant Records Are for Sale Right Now — Here's What That Means for Your Cloud Config",
-      "why_now": "A threat actor is actively hawking bulk-plundered Azure tenant data, a fresh cloud-breach case study while details are still emerging.",
-      "angle": "Breach digest with a 'what likely went wrong' cloud-misconfig checklist (tenant isolation, token scopes, logging gaps)",
-      "source": "https://www.theregister.com/security/2026/08/17/crook-hawks-millions-of-records-allegedly-plundered-from-corporate-azure-tenants/5288305"
+      "title": "Russia's Phishing Crews Have a New Trick: Weaponizing Your Own OAuth Consent Screen",
+      "why_now": "Two independent reports this week confirm Russian-linked actors are abusing Google OAuth and WhatsApp device-linking flows to hijack accounts without stealing a single password.",
+      "angle": "Threat-actor explainer: walk through the OAuth-abuse chain step by step and give defenders concrete consent-screen hardening tips",
+      "source": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html"
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-20T11:07:34+00:00",
+  "generated": "2026-08-21T11:07:37+00:00",
   "opportunities": [
     {
-      "title": "The Cave-In Ruling Nobody Runs Right (Dwarf Tome Tie-In)",
-      "why_now": "New dwarves/runes/mines tome dropped this week, giving a topical hook for a mechanics-heavy trap breakdown.",
-      "angle": "Rules-ruling short: structural collapse damage dice, DCs to escape, and how Shadowdark's torch timer changes the math vs 5e.",
-      "source": "https://www.enworld.org/threads/tome-for-dwarves-runes-mines-and-monsters.720340/"
+      "title": "Mind Flayer PC Playtest: The One Rule That Will Break Your Dungeon Economy",
+      "why_now": "WotC just leaked a player-facing mind flayer transformation option, giving a hard mechanical hook for a same-day breakdown.",
+      "angle": "60-sec 'ruling of the day' short: walk through the transformation's action economy and psionic feeding mechanic, flag the DM-side balance trap",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
     },
     {
-      "title": "Zone of Truth Won't Solve Your Murder Mystery — Here's Why",
-      "why_now": "Merryshire Detective Club just launched, putting whodunit play in the spotlight.",
-      "angle": "Spell use-case teardown: the exact wording gaps in Zone of Truth and Speak with Dead that let a killer walk, plus a DCC fix.",
-      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
+      "title": "Dark Sun 5.5e: What 'Sanitizing' a Setting Actually Costs You Mechanically",
+      "why_now": "Active EN World debate on whether 5.5e strips Dark Sun's harsher survival/slavery mechanics gives a topical hook for a rules-history short.",
+      "angle": "Dry veteran-GM take: compare original Dark Sun scarcity rules (no metal, defiler magic) to what a sanitized reprint likely drops, and how to houserule it back in",
+      "source": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/"
     },
     {
-      "title": "Jungle Ambush Predators Should Never Roll Initiative First",
-      "why_now": "Alpha Star issue 3 previews new jungle beasts, a timely peg for terrain-based creature tactics.",
-      "angle": "Creature tactic short: using surprise/stealth rules to run ambush predators (displacer beasts, yuan-ti) correctly in 5e/Shadowdark.",
+      "title": "Alpha Star's Jungle Beasts: A Sci-Fi Creature Tactic You Can Steal for Your Underdark",
+      "why_now": "Alpha Star issue 3 previews new jungle-beast stat blocks and a heritage, fresh material for a creature-tactic breakdown before the book drops.",
+      "angle": "Creature tactic short: pull one Alpha Star jungle beast, translate its ambush/pack tactic into a 5e or Shadowdark stat block on the fly",
       "source": "https://www.enworld.org/threads/alpha-star-issue-3-is-incoming-starlane-scum-jungle-beasts-a-murder-mystery-and-a-new-heritage.720367/"
     },
     {
-      "title": "Blades in the Dark's Position & Effect Fixes D&D's Broken Stealth Checks",
-      "why_now": "Blades in the Dark gets fresh print coverage this week, a good excuse for a cross-system mechanics comparison.",
-      "angle": "System-contrast ruling: why binary stealth checks fail and how borrowing Position/Effect tiers cleans up 5e/DCC sneaking resolution.",
+      "title": "Blades in the Dark's Clock, Ported to Your 5e Chase Scene",
+      "why_now": "This week's RPG Print News roundup spotlights Blades in the Dark, a good excuse to mine its resolution mechanics for a cross-system use-case.",
+      "angle": "Mechanical mashup short: show how a Blades-style clock resolves a 5e skill-challenge chase faster than rolling initiative for every NPC",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-scalemail-invincible-rpg-blades-in-the-dark-and-more.720291/"
     },
     {
-      "title": "Your 'Epic Odyssey' Campaign Is Dying of Light, Not Monsters",
-      "why_now": "The TTRPG Odyssey crowdfunder roundup is trending, tying into long-journey campaign design.",
-      "angle": "Rules-ruling short on Shadowdark torch/rest attrition vs 5e's abstracted travel, showing why journeys need hard resource clocks.",
+      "title": "TTRPG Odyssey Crowdfunders: The One Spell/Ability Worth Stealing Before Backing",
+      "why_now": "A fresh EN World roundup of Odyssey-system crowdfunders is live now, timely for viewers deciding where to spend backer money this week.",
+      "angle": "Quick-hit review short: pick the single strongest ability/spell-equivalent from one featured Odyssey project and show a DCC/Shadowdark conversion",
       "source": "https://www.enworld.org/threads/get-your-ttrpg-odyssey-fix-with-these-crowdfunders.720368/"
     }
   ]

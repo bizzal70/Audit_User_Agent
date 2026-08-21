@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-20T11:07:34+00:00",
+  "generated": "2026-08-21T11:07:37+00:00",
   "plays": [
     {
-      "story": "A wave of TTRPG Odyssey-genre crowdfunders (epic journey/quest campaigns) is hitting Kickstarter/Backerkit simultaneously, per EN World's roundup",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'5 TTRPG Odyssey Crowdfunders Worth Backing Before They Close' — a crunchy breakdown of mechanics, stretch goals, and which systems actually deliver playable quest structures vs. just pretty art.",
-        "itsalreadywritten": "'The Odyssey Genre Is TTRPG's Favorite Plot — Here's Why It Keeps Getting Funded' — dig into why journey/quest narratives crowdfund so well and what that says about tabletop storytelling trends."
-      },
-      "source": "https://www.enworld.org/threads/get-your-ttrpg-odyssey-fix-with-these-crowdfunders.720368/"
-    },
-    {
-      "story": "Gareth Ryder-Hanrahan's new Merryshire Detective Club RPG turns cozy-mystery solving into a tabletop system",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'How to Actually Run a Murder Mystery Without Railroading Your Players: Merryshire Detective Club Breakdown' — focus on its clue/deduction mechanics and GM prep workflow.",
-        "itsalreadywritten": "'Gareth Ryder-Hanrahan Proves Mystery Plotting Can Be a Game System, Not Just a GM Trick' — angle on how the design encodes classic mystery-writing structure into rules."
-      },
-      "source": "https://www.enworld.org/threads/solving-murders-with-gareth-ryder-hanrahan%E2%80%99s-merryshire-detective-club.720296/"
-    },
-    {
-      "story": "Industry leaders warn AI agents could scale crypto hacks from millions to 'pennies'-by-comparison catastrophic losses",
+      "story": "MANTRA blockchain halts all transactions after an exploit, tanking its token to a record low",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'If AI Agents Make Today's Billion-Dollar Hacks Look Like Pennies, Is That Already Priced Into Crypto Markets?' — tie the warning to the current bitcoin rally and whether risk premium is being ignored.",
-        "itsalreadywhen": "'When AI Agents Start Hacking Crypto: The Timeline Security Leaders Say Is Already Here' — treat this as a live threat-model story, not hypothetical, for a security audience."
+        "itsalreadypriced": "MANTRA's Freeze Button: Why Halting a 'Decentralized' Chain Just Tanked OM 18% — break down what the emergency halt means for token holders, liquidity, and trust in 'decentralized' L1s that can apparently just... stop.",
+        "itsalreadywhen": "Anatomy of the MANTRA Exploit: How One Bug Forced an Entire Blockchain to Pull the Emergency Brake — technical postmortem on the attack vector and what 'freezing a network' actually requires under the hood."
       },
-      "source": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278"
+      "source": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416"
     },
     {
-      "story": "MAYAChain halts its network after a ~$1.7M exploit, days after Harmony announces a rollback wiping 109,000 transactions from its own 2022 ONE exploit",
+      "story": "North Korean hackers linked to a Rust supply-chain attack targeting developer pipelines",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "itsalreadywhen",
+        "itsalreadypriced"
       ],
       "angles": {
-        "itsalreadypriced": "'MAYAChain's $1.7M Exploit and Harmony's Rollback Gambit: What Cross-Chain Bridge Failures Mean for Token Confidence' — market-trust angle amid the current bull rally.",
-        "itsalreadywhen": "'MAYAChain Halts, Harmony Rolls Back — When Will Bridge Protocols Stop Relearning the Same Lesson?' — incident-response and root-cause framing for the security beat."
+        "itsalreadywhen": "North Korea's Rust Playbook: Inside the Supply-Chain Attack Hitting Dev Pipelines — IOCs, package names, and how to audit your Cargo dependencies right now.",
+        "itsalreadypriced": "Why Pyongyang Keeps Hacking Developers: The Rust Supply-Chain Attack Is Just the Latest Crypto Heist Vector — connecting DPRK's software-supply-chain tactics to the billions in stolen crypto funding its weapons programs."
       },
-      "source": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/"
+    },
+    {
+      "story": "D&D is playtesting Underdark rules that let a player character transform into a mind flayer",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "D&D Playtests Let You *Become* a Mind Flayer — Here's What the New Underdark Rules Actually Do (a mechanics breakdown for GMs weighing whether to add it to their table).",
+        "itsalreadywritten": "From Victim to Illithid: What a Player-Facing Mind Flayer Transformation Means for D&D's Story Toolkit — how this shifts the narrative role of body-horror and psionic corruption in campaigns."
+      },
+      "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
+    },
+    {
+      "story": "Speculation that 5.5e's Dark Sun update will strip out the setting's most controversial elements",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Is 5.5e Sanitizing Dark Sun? What Could Actually Change in the Rules (and What GMs Should Fight to Keep) — a practical rundown of mechanical/setting elements likely on the chopping block.",
+        "itsalreadywritten": "Dark Sun's Reckoning: Can D&D Update a Brutal, Problematic Setting Without Losing Its Soul? — an essay on rewriting grimdark worldbuilding for a modern audience."
+      },
+      "source": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/"
     }
   ]
 }
