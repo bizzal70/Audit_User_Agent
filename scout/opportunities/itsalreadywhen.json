@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-21T11:07:37+00:00",
+  "generated": "2026-08-22T11:05:17+00:00",
   "opportunities": [
     {
-      "title": "Entra ID Just Got a Perfect 10 — And Attackers Already Have It",
-      "why_now": "A CVSS 10.0 RCE flaw in Microsoft's core identity platform is being actively exploited in the wild right now, making it the most urgent patch item of the week.",
-      "angle": "Breaking-news patch alert: explain blast radius (anyone federating identity through Entra), confirm exploitation status, give a hard patch-by date",
-      "source": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html"
-    },
-    {
-      "title": "Cisco's Bug Scorecard Reads 10, 10, 9.9, 9.6, 7.5 — Nobody's Getting a Participation Trophy",
-      "why_now": "The Register's gymnastics framing is a gift; five simultaneous critical/high Cisco CVEs (including the Crosswork/Secure Workload patches) demand a single triage cheat-sheet.",
-      "angle": "Digest/listicle: rank the five CVEs by real-world exploitability, not just CVSS, with a TL;DR patch-priority table",
+      "title": "Cisco's CVSS Scorecard: 10, 10, 9.9, 9.6, 7.5 — The Patch You Can't Skip This Week",
+      "why_now": "Cisco just dropped nine Crosswork/Secure Workload flaws with five perfect 10.0 scores, corroborated across The Register and The Hacker News.",
+      "angle": "Rapid patch-cadence breakdown: rank the five CVEs by exploitability, give a 'patch by EOD' checklist, and mock the absurdity of five 10-scores in one advisory.",
       "source": "https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838"
     },
     {
-      "title": "245 Million Downloads Later: North Korea's Rust Crate Backdoor Was Already Inside Your Build",
-      "why_now": "A nation-state actor slipped build-time malware into wildly popular Rust crates, turning routine `cargo build` into a supply-chain compromise vector.",
-      "angle": "Deep-dive explainer: how the poisoned crates worked, who's exposed, and a checklist for auditing dependency trees this week",
+      "title": "North Korea Just Poisoned Your Rust Toolchain — Here's What Was Stolen",
+      "why_now": "SecurityWeek confirmed the Rust crates supply-chain attack (first reported by The Register) is now attributed to North Korean actors, elevating it from 'incident' to 'nation-state campaign.'",
+      "angle": "Threat-actor deep dive: timeline of the crates.io compromise, IOCs devs should grep for, and why open-source registries remain the softest underbelly.",
       "source": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/"
     },
     {
-      "title": "GitLab's Zero-Click Flaw Went From Disclosure to Active Exploitation in Days — Here's the Patch Window You Missed",
-      "why_now": "CVE-2026-19478 is a zero-click GitLab bug already being exploited barely days after disclosure, collapsing the usual patch-cadence grace period.",
-      "angle": "Patch-cadence postmortem: timeline graphic from disclosure to exploit, plus why zero-click bugs in dev tooling deserve emergency-patch SLAs",
+      "title": "CISA Says Patch TrueConf Now — But Should You Even Be Running Russia's Zoom?",
+      "why_now": "CISA issued an urgent KEV directive for TrueConf vulnerabilities under active exploitation, confirmed by both The Register and SecurityWeek within 24 hours.",
+      "angle": "Patch-now alert with a geopolitical twist — combine the technical fix with a 'why is this software on your network at all' risk-assessment angle.",
+      "source": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-truecoy-vulnerabilities/"
+    },
+    {
+      "title": "GitLab's Newest CVE Went From Disclosure to Active Exploitation in Days",
+      "why_now": "CVE-2026-19478 is already being exploited in the wild just days after disclosure, a textbook case of the shrinking patch window.",
+      "angle": "Patch-cadence math piece: chart the disclosure-to-exploit timeline and use it as a recurring 'the clock is the threat' data point for the digest.",
       "source": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
     },
     {
-      "title": "Russia's Phishing Crews Have a New Trick: Weaponizing Your Own OAuth Consent Screen",
-      "why_now": "Two independent reports this week confirm Russian-linked actors are abusing Google OAuth and WhatsApp device-linking flows to hijack accounts without stealing a single password.",
-      "angle": "Threat-actor explainer: walk through the OAuth-abuse chain step by step and give defenders concrete consent-screen hardening tips",
-      "source": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html"
+      "title": "France's Tax Authority Breach: 600K Citizens, Including Private Messages, Now Exposed",
+      "why_now": "A fresh government breach with a concrete victim count and unusually sensitive data (private messages) makes this a clean, high-stakes breach-digest entry.",
+      "angle": "Classic inevitable-breach writeup: what was taken, what France is (or isn't) doing, and how this stacks up against other 2026 government breaches.",
+      "source": "https://www.theregister.com/security/2026/08/20/french-tax-authority-says-break-in-exposed-data-of-600k-including-some-private-messages/5290249"
     }
   ]
 }

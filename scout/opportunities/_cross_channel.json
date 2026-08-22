@@ -1,30 +1,6 @@
 {
-  "generated": "2026-08-21T11:07:37+00:00",
+  "generated": "2026-08-22T11:05:17+00:00",
   "plays": [
-    {
-      "story": "MANTRA blockchain halts all transactions after an exploit, tanking its token to a record low",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "MANTRA's Freeze Button: Why Halting a 'Decentralized' Chain Just Tanked OM 18% — break down what the emergency halt means for token holders, liquidity, and trust in 'decentralized' L1s that can apparently just... stop.",
-        "itsalreadywhen": "Anatomy of the MANTRA Exploit: How One Bug Forced an Entire Blockchain to Pull the Emergency Brake — technical postmortem on the attack vector and what 'freezing a network' actually requires under the hood."
-      },
-      "source": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416"
-    },
-    {
-      "story": "North Korean hackers linked to a Rust supply-chain attack targeting developer pipelines",
-      "channels": [
-        "itsalreadywhen",
-        "itsalreadypriced"
-      ],
-      "angles": {
-        "itsalreadywhen": "North Korea's Rust Playbook: Inside the Supply-Chain Attack Hitting Dev Pipelines — IOCs, package names, and how to audit your Cargo dependencies right now.",
-        "itsalreadypriced": "Why Pyongyang Keeps Hacking Developers: The Rust Supply-Chain Attack Is Just the Latest Crypto Heist Vector — connecting DPRK's software-supply-chain tactics to the billions in stolen crypto funding its weapons programs."
-      },
-      "source": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/"
-    },
     {
       "story": "D&D is playtesting Underdark rules that let a player character transform into a mind flayer",
       "channels": [
@@ -32,22 +8,46 @@
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "D&D Playtests Let You *Become* a Mind Flayer — Here's What the New Underdark Rules Actually Do (a mechanics breakdown for GMs weighing whether to add it to their table).",
-        "itsalreadywritten": "From Victim to Illithid: What a Player-Facing Mind Flayer Transformation Means for D&D's Story Toolkit — how this shifts the narrative role of body-horror and psionic corruption in campaigns."
+        "bizzal-games": "'We Playtested D&D's New Mind Flayer PC Rules—Here's What Your DM Needs to Know Before Session Zero' (breakdown of the mechanics, balance concerns, and how to run it at the table)",
+        "itsalreadywritten": "'From Illithid Larva to Player Character: What D&D's Mind Flayer Transformation Means for Underdark Storytelling' (lore deep-dive on what this does to canon and campaign arcs)"
       },
       "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
     },
     {
-      "story": "Speculation that 5.5e's Dark Sun update will strip out the setting's most controversial elements",
+      "story": "Speculation that 5.5e Dark Sun will strip out the setting's more controversial (slavery/racial) elements",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Is 5.5e Sanitizing Dark Sun? What Could Actually Change in the Rules (and What GMs Should Fight to Keep) — a practical rundown of mechanical/setting elements likely on the chopping block.",
-        "itsalreadywritten": "Dark Sun's Reckoning: Can D&D Update a Brutal, Problematic Setting Without Losing Its Soul? — an essay on rewriting grimdark worldbuilding for a modern audience."
+        "bizzal-games": "'Dark Sun's Ugliest Tropes Are Getting a 5.5e Rewrite—Here's What Changes at Your Table' (practical guide for DMs running the revised setting)",
+        "itsalreadywritten": "'Can You Sanitize Dark Sun Without Losing Athas? The Rewrite Every Setting Writer Is Watching' (craft angle on rewriting a beloved, flawed IP)"
       },
       "source": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/"
+    },
+    {
+      "story": "Coldcard ships emergency firmware after a $114–130M bitcoin theft, crediting AI for catching additional bugs",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Coldcard's Emergency Firmware Fix Follows a $130M Wake-Up Call—Should You Trust Your Hardware Wallet?' (investor-facing: what holders need to do now)",
+        "itsalreadywhen": "'AI Caught What Humans Missed: Inside Coldcard's Post-Breach Firmware Overhaul' (security-eng angle on AI-assisted vuln hunting after a major exploit)"
+      },
+      "source": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
+    },
+    {
+      "story": "TRM Labs reports AI adoption in crypto crime rose 40% over the past year",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'AI-Powered Scams Jumped 40% in a Year, TRM Labs Says—Is Your Wallet the Next Target?' (market-risk framing for crypto holders)",
+        "itsalreadywhen": "'The Machines Are Laundering Now: How AI Adoption in Crypto Crime Outpaced Defenses in 2026' (threat-intel angle on AI-driven fraud tooling)"
+      },
+      "source": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297"
     }
   ]
 }

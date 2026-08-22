@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-21T11:07:37+00:00",
+  "generated": "2026-08-22T11:05:17+00:00",
   "opportunities": [
     {
-      "title": "The Rules Text: D&D's New Mind Flayer Playtest — What Becoming Illithid Actually Costs You Mechanically",
-      "why_now": "WotC just dropped a player-facing mind flayer transformation option in Underdark playtest materials, and the exact rules text is the story.",
-      "angle": "Line-by-line rules breakdown: ability score changes, new powers, and the drawback/curse mechanics — with a verdict on whether it's balanced.",
+      "title": "Underdark Playtest Breakdown: What Actually Happens When You Become a Mind Flayer",
+      "why_now": "WotC just dropped a player-facing mind flayer transformation subsystem in the new Underdark playtest, and the exact mechanics (saves, stat changes, roleplay triggers) are begging for a rules teardown.",
+      "angle": "Rules-first breakdown post: quote the actual playtest text, compare to past 'monstrous PC' options (Volo's, MCDM), predict what survives to final print",
       "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
     },
     {
-      "title": "Dark Sun 5.5e: Which 'Controversial' Rules Are Actually on the Chopping Block?",
-      "why_now": "Community speculation is running ahead of facts on what WotC will sanitize in the setting update — a rules-first channel can cut through the noise.",
-      "angle": "Point-by-point: cite the specific mechanics/lore rumored for removal (defiling magic, slavery-as-mechanic, etc.) and separate confirmed changes from fan speculation.",
+      "title": "5.5e Dark Sun: Which 'Controversial' Rules Are Actually on the Chopping Block?",
+      "why_now": "Speculation is swirling about how WotC will handle Dark Sun's slavery/defiling themes in the 5.5e update, and a rules-focused audience wants the mechanical specifics, not just hot takes.",
+      "angle": "Explainer/prediction piece citing original 2e/4e defiling rules, mapping what's mechanically load-bearing vs. purely flavor, with a clear verdict on what likely gets cut or reworked",
       "source": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/"
     },
     {
-      "title": "Alpha Star Issue 3's New Heritage, Decoded: Full Stat Breakdown Before It's Even Out",
-      "why_now": "Issue 3 is confirmed incoming with a brand-new playable heritage — first-look rules coverage beats the release-day rush.",
-      "angle": "Preview breakdown of the new heritage's traits/bonuses compared to existing Alpha Star options, framed as 'is it worth building around.'",
+      "title": "Alpha Star Issue 3's New Heritage, Statted and Compared",
+      "why_now": "Issue 3 is landing with a brand-new playable heritage plus a murder-mystery module, giving a fresh, unreviewed ruleset to dig into before the wider community does.",
+      "angle": "First-look mechanical review: post the heritage's traits verbatim, benchmark against similar sci-fi TTRPG species options",
       "source": "https://www.enworld.org/threads/alpha-star-issue-3-is-incoming-starlane-scum-jungle-beasts-a-murder-mystery-and-a-new-heritage.720367/"
     },
     {
-      "title": "What's Actually Crunchy in This Week's Print Wave: Scalemail, Invincible RPG, and Blades in the Dark Compared",
-      "why_now": "Four notable print releases just got covered together — a perfect excuse for a mechanics-comparison roundup instead of a simple links post.",
-      "angle": "Side-by-side rules-system comparison: core resolution mechanic, complexity tier, and who each system is actually built for.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-scalemail-invincible-rpg-blades-in-the-dark-and-more.720291/"
+      "title": "This Week in Rules: The Aug 21 News Digest, Annotated",
+      "why_now": "EN World's digest bundles the week's scattered rules/news items, giving 'It's Already Written' a ready-made skeleton to annotate with mechanical commentary the digest itself doesn't provide.",
+      "angle": "Curated recap thread/blog post: pull 3-4 rules-relevant items from the digest, add 'here's what it actually changes at the table' commentary to each",
+      "source": "https://www.enworld.org/threads/news-digest-for-august-21-2026.720397/"
     },
     {
-      "title": "Odyssey-Genre Crowdfunders: Which Rules Engines Are They Actually Running?",
-      "why_now": "A fresh crop of Odyssey-themed crowdfunders just launched, and backers are choosing blind on mechanics — a rules audit adds real value.",
-      "angle": "Quick rules-engine ID guide for each campaign (PbtA, OSR, bespoke, etc.) so readers know exactly what they're funding before pledging.",
+      "title": "Before You Back It: The Actual Rules Inside This Week's TTRPG Odyssey Crowdfunders",
+      "why_now": "A wave of Odyssey-genre crowdfunders just launched together, and backers are flying blind on mechanics until someone reads the actual rule previews.",
+      "angle": "Comparison roundup: pull core resolution mechanics from each campaign's preview PDF, rank by rules innovation not just art/pitch",
       "source": "https://www.enworld.org/threads/get-your-ttrpg-odyssey-fix-with-these-crowdfunders.720368/"
     }
   ]

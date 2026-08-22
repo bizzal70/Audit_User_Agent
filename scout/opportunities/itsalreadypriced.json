@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-21T11:07:37+00:00",
+  "generated": "2026-08-22T11:05:17+00:00",
   "opportunities": [
     {
-      "title": "Two Chains, One Week: MANTRA and MAYAChain Both Halted While Everyone Was Watching the Candles",
-      "why_now": "MANTRA froze its entire network just hours after MAYAChain halted from a $1.7M exploit, both landing in the middle of a euphoric BTC rally that had everyone looking the other way.",
-      "angle": "Comparative incident post-mortem: what 'halt the chain' actually means for holders, why it keeps happening on newer L1s/appchains, and the checklist for judging chain-halt risk before you bridge or stake — publish while both stories are still developing.",
-      "source": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416"
-    },
-    {
-      "title": "885,000 Phone Numbers Just Got Added to a Crypto Phishing Kit — Here's What That List Is Actually For",
-      "why_now": "A cybersecurity firm just disclosed a phishing campaign built around a database of 885K phone numbers, a scale large enough to matter to almost any reader with a SIM.",
-      "angle": "Explainer/threat-intel breakdown: how SMS-based phishing lists get built and monetized, what a targeted smishing message looks like in the wild, and the 3 settings (SIM lock, 2FA app vs SMS, carrier PIN) readers should check today.",
-      "source": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "Fake 'AML Checker' Tools Are the New Approve-and-Drain Scam — Don't Paste Your Wallet Into Anything",
-      "why_now": "A fresh wave of fake AML/compliance checker sites is tricking users into wallet-draining approvals right as retail re-enters the market chasing the BTC breakout.",
-      "angle": "Threat breakdown + screenshot-style walkthrough of the scam flow, framed as 'the next generation of the fake-checker scam' with a hard rule: legitimate AML tools never ask for a signature.",
-      "source": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets"
-    },
-    {
-      "title": "Coldcard Just Admitted Its Old Seed Generation Wasn't Good Enough — Here's What Changed and Who Should Care",
-      "why_now": "Coldcard shipped a firmware update specifically strengthening seed phrase generation, a rare public admission from a hardware wallet vendor that's worth unpacking while it's fresh.",
-      "angle": "Security-nerd deep dive: what was weak about the old entropy/generation process, why this matters even if you already have a wallet, and a clear yes/no on whether existing seeds need to be rotated.",
+      "title": "The $114M Bug Was in the Random Numbers: What Coldcard's Firmware Fix Actually Admits",
+      "why_now": "Coldcard just shipped a firmware patch after a $114-130M theft traced to weak seed generation, and even used AI to find more bugs.",
+      "angle": "Technical postmortem/explainer: break down what 'weak seed generation' means in practice, why hardware wallets aren't a silver bullet, and what self-custody users should verify right now on their own devices.",
       "source": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Everyone's Bragging About Short Squeezes — Nobody's Asking Why Two Protocols Halted the Same Week BTC Hit $80K",
-      "why_now": "CoinDesk/The Block are running wall-to-wall euphoria coverage (BTC $80K, $800M ETF inflows, $3B in shorts liquidated) at the exact moment MANTRA and MAYAChain both broke, a split-screen the market isn't talking about.",
-      "angle": "Contrarian markets-meets-security column: 'the rally narrative vs. the incident log,' arguing that bull markets are when security debt gets exposed fastest, with a call-out list of what to actually check on your positions during a melt-up.",
-      "source": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit"
+      "title": "They Have Your Number: Inside the Phishing Campaign Targeting 885,000 Crypto Users by SMS",
+      "why_now": "A cybersecurity firm just unveiled a phishing operation with a target list of 885,000 phone numbers tied to crypto holders.",
+      "angle": "Threat breakdown + reader self-check: how the list was likely compiled (exchange leaks, KYC data), what the messages look like, and a checklist to know if you're on it.",
+      "source": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "MANTRA Just Hit the Off Switch — And Proved Your 'Decentralized' Chain Has One",
+      "why_now": "MANTRA froze all transactions and halted its network following an incident, reigniting the centralization-vs-decentralization debate mid-crisis.",
+      "angle": "Sharp opinion piece: catalog every chain that's frozen/halted after an exploit (Solana, BSC precedents) and argue that 'freeze capability' is now a quiet industry standard nobody disclosed upfront.",
+      "source": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416"
+    },
+    {
+      "title": "BounceBit's Answer to a $3M Hack: Abandon the Chain Entirely",
+      "why_now": "BounceBit is sunsetting its own blockchain and migrating to BNB Chain in direct response to a $3M exploit.",
+      "angle": "Case study on 'exploit-and-exit' as a security failure mode: what breaks when a project decides forking to a bigger chain is easier than fixing its own, and what it means for users' assets during migration.",
+      "source": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
+    },
+    {
+      "title": "AI Crime Is Up 40% and Everyone's Busy Watching Bitcoin Hit $80K",
+      "why_now": "TRM Labs reports AI adoption in crypto crime rose 40% over the past year, landing the same week as a euphoric market rally that's pulling attention away from security news.",
+      "angle": "Contrarian market-vs-security tension piece: while headlines chase the rally, quietly compile what AI-enabled scams/exploits actually look like now (deepfake KYC, automated phishing, AI-assisted contract exploits) and why bull markets are peak harvesting season for attackers.",
+      "source": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297"
     }
   ]
 }
