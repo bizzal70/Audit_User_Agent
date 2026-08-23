@@ -4038,5 +4038,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-23",
+    "videos": [
+      {
+        "id": "UhjQf8eZ27E",
+        "title": "Random Encounters catch parties off guard #shadowdark",
+        "published": "2026-08-22",
+        "views": 19,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "o8pMdXJNb1Y",
+        "title": "Javelin (+1) grants a bonus to attack and damage rolls #dnd5e",
+        "published": "2026-08-22",
+        "views": 74,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "HsPjZdoEiNI",
+        "title": "Turn Unholy affects only the weakest unholy creatures on a failed check #dcc",
+        "published": "2026-08-22",
+        "views": 15,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "vQ5ISVjeyYM",
+        "title": "Wizard Viperian's Focus ability disrupts spellcasters more than expected #shadowdark",
+        "published": "2026-08-21",
+        "views": 6,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "evINcF9EpBg",
+        "title": "Movement and Position: Movement often surprises players with its flexibility #dnd5e",
+        "published": "2026-08-21",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "6hNLZ_CmNeo",
+        "title": "Judge's call: Elf #dcc",
+        "published": "2026-08-21",
+        "views": 5,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "wsaW2wLJCuY",
+        "title": "Cursed Knight of St. Ydris: In the dark, Cursed Knight of St #shadowdark",
+        "published": "2026-08-20",
+        "views": 39,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "1iZai8jGBEw",
+        "title": "Major Image shifts the action economy more than players expect #dnd5e",
+        "published": "2026-08-20",
+        "views": 72,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "qOvyEYp6ViQ",
+        "title": "Itinerant Grasper tests the table's priorities #dcc",
+        "published": "2026-08-20",
+        "views": 21,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "znWV0R1y2OU",
+        "title": "Detect Thoughts: Risk of Alerting Your Target #shadowdark",
+        "published": "2026-08-19",
+        "views": 2,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "fFcD0b_yEN8",
+        "title": "Control Water shapes entire lakes #shadowdark",
+        "published": "2026-08-19",
+        "views": 206,
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "id": "qX0-QMoUmTA",
+        "title": "Harpy's Luring Song catches parties off guard #dnd5e",
+        "published": "2026-08-19",
+        "views": 170,
+        "likes": 2,
+        "comments": 0
+      }
+    ]
   }
 ]
