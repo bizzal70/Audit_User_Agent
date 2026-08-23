@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-22T11:05:17+00:00",
+  "generated": "2026-08-23T11:05:37+00:00",
   "opportunities": [
     {
-      "title": "Cisco's CVSS Scorecard: 10, 10, 9.9, 9.6, 7.5 — The Patch You Can't Skip This Week",
-      "why_now": "Cisco just dropped nine Crosswork/Secure Workload flaws with five perfect 10.0 scores, corroborated across The Register and The Hacker News.",
-      "angle": "Rapid patch-cadence breakdown: rank the five CVEs by exploitability, give a 'patch by EOD' checklist, and mock the absurdity of five 10-scores in one advisory.",
-      "source": "https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838"
+      "title": "Cisco's CVSS Scorecard Is In: 10, 10, 9.9, 9.6, 7.5 — Patch Crosswork and Secure Workload Now",
+      "why_now": "Cisco just dropped nine flaws with five hitting perfect or near-perfect severity scores, and it's the kind of gymnastics-judge absurdity that writes its own headline.",
+      "angle": "Patch-cadence rundown with a scoreboard graphic ranking the five criticals and a one-line 'do this today' for each",
+      "source": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
     },
     {
-      "title": "North Korea Just Poisoned Your Rust Toolchain — Here's What Was Stolen",
-      "why_now": "SecurityWeek confirmed the Rust crates supply-chain attack (first reported by The Register) is now attributed to North Korean actors, elevating it from 'incident' to 'nation-state campaign.'",
-      "angle": "Threat-actor deep dive: timeline of the crates.io compromise, IOCs devs should grep for, and why open-source registries remain the softest underbelly.",
+      "title": "245 Million Downloads Later: North Korea's Rust Crate Poisoning Is the Supply-Chain Breach You Already Shipped",
+      "why_now": "Multiple outlets confirm the poisoned Rust crates are now attributed to DPRK actors and the download count makes this one of the largest build-time compromises this year.",
+      "angle": "Deep-dive breach postmortem framed as 'you probably already pulled this dependency' with a remediation checklist",
       "source": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/"
     },
     {
-      "title": "CISA Says Patch TrueConf Now — But Should You Even Be Running Russia's Zoom?",
-      "why_now": "CISA issued an urgent KEV directive for TrueConf vulnerabilities under active exploitation, confirmed by both The Register and SecurityWeek within 24 hours.",
-      "angle": "Patch-now alert with a geopolitical twist — combine the technical fix with a 'why is this software on your network at all' risk-assessment angle.",
-      "source": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-truecoy-vulnerabilities/"
+      "title": "Entra ID's Perfect 10: Microsoft Patches an RCE Flaw Attackers Were Already Using",
+      "why_now": "A CVSS 10.0 Entra ID vulnerability was actively exploited before the patch landed, making it a textbook inevitable-breach case for anyone on Azure AD.",
+      "angle": "Timeline piece: disclosure-to-exploitation gap, plus what identity infra defenders should audit right now",
+      "source": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html"
     },
     {
-      "title": "GitLab's Newest CVE Went From Disclosure to Active Exploitation in Days",
-      "why_now": "CVE-2026-19478 is already being exploited in the wild just days after disclosure, a textbook case of the shrinking patch window.",
-      "angle": "Patch-cadence math piece: chart the disclosure-to-exploit timeline and use it as a recurring 'the clock is the threat' data point for the digest.",
-      "source": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
+      "title": "Your Password Vault Had a Master Key Problem: The N-able Bug Nobody Wants to Talk About",
+      "why_now": "A flaw exposing password vault master keys is the kind of foundational-trust breach that undercuts the entire premise of credential management tools.",
+      "angle": "Explainer on blast radius — what a master-key leak actually enables downstream, framed as a wake-up call for MSPs",
+      "source": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys"
     },
     {
-      "title": "France's Tax Authority Breach: 600K Citizens, Including Private Messages, Now Exposed",
-      "why_now": "A fresh government breach with a concrete victim count and unusually sensitive data (private messages) makes this a clean, high-stakes breach-digest entry.",
-      "angle": "Classic inevitable-breach writeup: what was taken, what France is (or isn't) doing, and how this stacks up against other 2026 government breaches.",
-      "source": "https://www.theregister.com/security/2026/08/20/french-tax-authority-says-break-in-exposed-data-of-600k-including-some-private-messages/5290249"
+      "title": "CISA Says Patch TrueConf Now — Because Someone's Already Exploiting Russia's Zoom Clone",
+      "why_now": "CISA issued an urgent advisory on actively exploited TrueConf vulnerabilities, a rare direct government push that fits the patch-cadence beat perfectly.",
+      "angle": "Short, punchy 'patch now' alert post with CVE specifics and who's likely still running TrueConf",
+      "source": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/"
     }
   ]
 }

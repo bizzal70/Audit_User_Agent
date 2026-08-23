@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-22T11:05:17+00:00",
+  "generated": "2026-08-23T11:05:37+00:00",
   "opportunities": [
     {
-      "title": "The $114M Bug Was in the Random Numbers: What Coldcard's Firmware Fix Actually Admits",
-      "why_now": "Coldcard just shipped a firmware patch after a $114-130M theft traced to weak seed generation, and even used AI to find more bugs.",
-      "angle": "Technical postmortem/explainer: break down what 'weak seed generation' means in practice, why hardware wallets aren't a silver bullet, and what self-custody users should verify right now on their own devices.",
-      "source": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Your Coldcard Seed Wasn't Random Enough — Here's the Fix That Came $130M Too Late",
+      "why_now": "Coldcard just shipped a firmware patch to strengthen seed generation days after reports tie it to a $114–130M theft, and CoinDesk confirms AI helped surface the bugs.",
+      "angle": "Technical explainer: what was actually wrong with entropy generation, what the patch changes, and a checklist for hardware wallet holders to verify their seed was generated safely — no hype, just 'do this now' guidance.",
+      "source": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
     },
     {
-      "title": "They Have Your Number: Inside the Phishing Campaign Targeting 885,000 Crypto Users by SMS",
-      "why_now": "A cybersecurity firm just unveiled a phishing operation with a target list of 885,000 phone numbers tied to crypto holders.",
-      "angle": "Threat breakdown + reader self-check: how the list was likely compiled (exchange leaks, KYC data), what the messages look like, and a checklist to know if you're on it.",
+      "title": "885,000 Phone Numbers Just Got Mapped to Crypto Wallets — Here's What That Actually Means",
+      "why_now": "A cybersecurity firm just disclosed a phishing campaign targeting nearly a million phone numbers, a scale that suggests industrialized SIM-swap/social-engineering infrastructure, not a one-off scam.",
+      "angle": "Breakdown of the attack chain (data source → SMS/voice phishing → wallet drain), practical defense steps (2FA hardening, number portability locks), and why 'it won't happen to me' is exactly what the last 885,000 people thought.",
       "source": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "MANTRA Just Hit the Off Switch — And Proved Your 'Decentralized' Chain Has One",
-      "why_now": "MANTRA froze all transactions and halted its network following an incident, reigniting the centralization-vs-decentralization debate mid-crisis.",
-      "angle": "Sharp opinion piece: catalog every chain that's frozen/halted after an exploit (Solana, BSC precedents) and argue that 'freeze capability' is now a quiet industry standard nobody disclosed upfront.",
-      "source": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416"
-    },
-    {
-      "title": "BounceBit's Answer to a $3M Hack: Abandon the Chain Entirely",
-      "why_now": "BounceBit is sunsetting its own blockchain and migrating to BNB Chain in direct response to a $3M exploit.",
-      "angle": "Case study on 'exploit-and-exit' as a security failure mode: what breaks when a project decides forking to a bigger chain is easier than fixing its own, and what it means for users' assets during migration.",
-      "source": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
-    },
-    {
-      "title": "AI Crime Is Up 40% and Everyone's Busy Watching Bitcoin Hit $80K",
-      "why_now": "TRM Labs reports AI adoption in crypto crime rose 40% over the past year, landing the same week as a euphoric market rally that's pulling attention away from security news.",
-      "angle": "Contrarian market-vs-security tension piece: while headlines chase the rally, quietly compile what AI-enabled scams/exploits actually look like now (deepfake KYC, automated phishing, AI-assisted contract exploits) and why bull markets are peak harvesting season for attackers.",
+      "title": "AI Crime in Crypto Is Up 40% — And the People Fighting Back Are Using the Same Tools",
+      "why_now": "TRM Labs just quantified a 40% YoY rise in AI-assisted crypto crime the same week Decrypt profiled a red-team group using AI to find bugs in Bitcoin software before attackers do.",
+      "angle": "Dueling-AI feature: pair the TRM stat with the red-team story to frame 2026 as the year attacker and defender tooling converged — end with what this means for anyone still trusting 'audited' as a safety label.",
       "source": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297"
+    },
+    {
+      "title": "Bitcoin Ripped to $80K This Week. Three Chains Got Robbed While Nobody Was Watching.",
+      "why_now": "Amid the biggest weekly BTC gain in two years, Sandbox halted bridging after an exploit, BounceBit is abandoning its own chain after a $3M hack, and Mantra halted entirely — all in the same 48 hours.",
+      "angle": "Contrarian roundup for the 'already priced' voice: euphoria and exploits aren't opposites, they're correlated — bull markets are when security debt gets called in. Frame as a pattern-recognition piece, not a hot take.",
+      "source": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
+    },
+    {
+      "title": "Zcash Just Hit an 8-Year High Because Everyone Suddenly Remembered Bitcoin Isn't Private",
+      "why_now": "ZEC surged 48% to $850 with $10B in futures volume as Grayscale's spot ETF filing advances — a privacy-coin rally happening in plain sight of chain-analysis firms and regulators.",
+      "angle": "Security-market crossover piece: what a Zcash ETF actually means for on-chain surveillance economics, and why the same institutions buying transparency-friendly BTC ETFs are now chasing the opposite trade.",
+      "source": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016"
     }
   ]
 }

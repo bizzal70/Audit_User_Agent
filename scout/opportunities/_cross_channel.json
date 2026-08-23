@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-22T11:05:17+00:00",
+  "generated": "2026-08-23T11:05:37+00:00",
   "plays": [
     {
-      "story": "D&D is playtesting Underdark rules that let a player character transform into a mind flayer",
+      "story": "D&D is playtesting a full player-side mind flayer transformation for Underdark content",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'We Playtested D&D's New Mind Flayer PC Rules—Here's What Your DM Needs to Know Before Session Zero' (breakdown of the mechanics, balance concerns, and how to run it at the table)",
-        "itsalreadywritten": "'From Illithid Larva to Player Character: What D&D's Mind Flayer Transformation Means for Underdark Storytelling' (lore deep-dive on what this does to canon and campaign arcs)"
+        "bizzal-games": "Mechanics deep-dive: 'D&D's New Mind Flayer PC Rules, Broken Down — Is Becoming an Illithid Actually Balanced?' Walk through the playtest stat changes, tadpole mechanics, and whether this is a viable subclass path or a one-shot gimmick.",
+        "itsalreadywritten": "'What Does It Cost to Become a Monster? The Narrative Weight of D&D's New Mind Flayer Transformation.' Explore the story stakes of a PC losing their humanity, and how DMs can build an arc around the slow horror of ceridian transformation instead of treating it as a mechanical unlock."
       },
       "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
     },
     {
-      "story": "Speculation that 5.5e Dark Sun will strip out the setting's more controversial (slavery/racial) elements",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Dark Sun's Ugliest Tropes Are Getting a 5.5e Rewrite—Here's What Changes at Your Table' (practical guide for DMs running the revised setting)",
-        "itsalreadywritten": "'Can You Sanitize Dark Sun Without Losing Athas? The Rewrite Every Setting Writer Is Watching' (craft angle on rewriting a beloved, flawed IP)"
-      },
-      "source": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/"
-    },
-    {
-      "story": "Coldcard ships emergency firmware after a $114–130M bitcoin theft, crediting AI for catching additional bugs",
+      "story": "Coldcard ships emergency firmware after a $130M+ bitcoin hardware wallet theft, crediting AI-assisted bug hunting",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Coldcard's Emergency Firmware Fix Follows a $130M Wake-Up Call—Should You Trust Your Hardware Wallet?' (investor-facing: what holders need to do now)",
-        "itsalreadywhen": "'AI Caught What Humans Missed: Inside Coldcard's Post-Breach Firmware Overhaul' (security-eng angle on AI-assisted vuln hunting after a major exploit)"
+        "itsalreadypriced": "'Your Cold Wallet Isn't Cold Enough: Inside the $130M Coldcard Exploit and What Holders Should Do Now.' Frame it as a market-confidence story — self-custody risk, whether hardware wallet buyers should wait for the patched batch, and what this means for the 'not your keys' crowd.",
+        "itsalreadywhen": "'AI Found the Bug Humans Missed: How Coldcard's Red Team Used AI to Catch the Flaw That Cost $130M.' Frame as a cyber case study on AI-assisted vulnerability hunting in hardware security and what it forecasts for firmware audit practices industry-wide."
       },
       "source": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
     },
     {
-      "story": "TRM Labs reports AI adoption in crypto crime rose 40% over the past year",
+      "story": "North Korean-linked actors poisoned popular Rust crates to steal developer credentials",
+      "channels": [
+        "itsalreadywhen",
+        "itsalreadypriced"
+      ],
+      "angles": {
+        "itsalreadywhen": "'Poisoned Crates: How North Korean Hackers Are Weaponizing the Rust Supply Chain.' Anatomy piece on the malicious package technique, why open-source dependency trust is the soft underbelly, and a timeline of when similar npm/PyPI attacks will likely repeat.",
+        "itsalreadypriced": "'Lazarus Is In Your Dependencies: Why Crypto Devs Are Prime Targets in the Rust Supply-Chain Hack.' Angle it toward crypto builders — wallet and DeFi devs using Rust (Solana ecosystem!) are exactly who this campaign is hunting, with a checklist for auditing dependencies before shipping."
+      },
+      "source": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/"
+    },
+    {
+      "story": "AI-powered attacks are surging on both fronts — TRM Labs reports 40% rise in AI-driven crypto crime while security pros are told to 'AI your own systems before adversaries do'",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'AI-Powered Scams Jumped 40% in a Year, TRM Labs Says—Is Your Wallet the Next Target?' (market-risk framing for crypto holders)",
-        "itsalreadywhen": "'The Machines Are Laundering Now: How AI Adoption in Crypto Crime Outpaced Defenses in 2026' (threat-intel angle on AI-driven fraud tooling)"
+        "itsalreadypriced": "'AI Scammers Are Up 40% and Coming for Your Wallet: What TRM Labs' New Report Means for Every Crypto Holder.' Translate the TRM data into practical red flags — deepfake KYC bypass, AI-cloned support agents, and how to vet a project before you ape in.",
+        "itsalreadywhen": "'If You're Not Red-Teaming With AI, the Attackers Already Are.' Use the Register piece as the spine for a forward-looking piece on why AI-vs-AI security is now table stakes, with the TRM crypto crime stat as the proof point that adversaries have already made the shift."
       },
-      "source": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297"
+      "source": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346"
     }
   ]
 }

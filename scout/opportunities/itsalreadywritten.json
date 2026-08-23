@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-22T11:05:17+00:00",
+  "generated": "2026-08-23T11:05:37+00:00",
   "opportunities": [
     {
-      "title": "Underdark Playtest Breakdown: What Actually Happens When You Become a Mind Flayer",
-      "why_now": "WotC just dropped a player-facing mind flayer transformation subsystem in the new Underdark playtest, and the exact mechanics (saves, stat changes, roleplay triggers) are begging for a rules teardown.",
-      "angle": "Rules-first breakdown post: quote the actual playtest text, compare to past 'monstrous PC' options (Volo's, MCDM), predict what survives to final print",
+      "title": "So You Want to Be a Mind Flayer: Breaking Down D&D's New Player-Transformation Rules",
+      "why_now": "WotC just began playtesting Underdark content that lets a PC become a mind flayer, a first for player-facing lore-breaking transformation mechanics.",
+      "angle": "Rules-first breakdown: mechanical costs, ability score/skill changes, and how it compares to past 'monster PC' subsystems (Volo's, MotM).",
       "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
     },
     {
-      "title": "5.5e Dark Sun: Which 'Controversial' Rules Are Actually on the Chopping Block?",
-      "why_now": "Speculation is swirling about how WotC will handle Dark Sun's slavery/defiling themes in the 5.5e update, and a rules-focused audience wants the mechanical specifics, not just hot takes.",
-      "angle": "Explainer/prediction piece citing original 2e/4e defiling rules, mapping what's mechanically load-bearing vs. purely flavor, with a clear verdict on what likely gets cut or reworked",
+      "title": "The Underdark Playtest's Other Options: What Else Is on the Table Besides Illithids",
+      "why_now": "The same playtest packet includes non-mind-flayer Underdark content that's getting overshadowed by the illithid headline.",
+      "angle": "Companion post cataloging every subclass/feat/spell in the packet with a rules-legality note (UA vs. official).",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
+    },
+    {
+      "title": "Fact-Checking the 5.5e Dark Sun Rumors: What's Actually Confirmed to Change",
+      "why_now": "Community speculation is running ahead of official statements on whether Dark Sun's darker themes survive the 5.5e update.",
+      "angle": "Source-cited myth-vs-fact list separating confirmed design notes from fan speculation, with a stance on what 'sanitizing' would mean rules-wise.",
       "source": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/"
     },
     {
-      "title": "Alpha Star Issue 3's New Heritage, Statted and Compared",
-      "why_now": "Issue 3 is landing with a brand-new playable heritage plus a murder-mystery module, giving a fresh, unreviewed ruleset to dig into before the wider community does.",
-      "angle": "First-look mechanical review: post the heritage's traits verbatim, benchmark against similar sci-fi TTRPG species options",
-      "source": "https://www.enworld.org/threads/alpha-star-issue-3-is-incoming-starlane-scum-jungle-beasts-a-murder-mystery-and-a-new-heritage.720367/"
-    },
-    {
-      "title": "This Week in Rules: The Aug 21 News Digest, Annotated",
-      "why_now": "EN World's digest bundles the week's scattered rules/news items, giving 'It's Already Written' a ready-made skeleton to annotate with mechanical commentary the digest itself doesn't provide.",
-      "angle": "Curated recap thread/blog post: pull 3-4 rules-relevant items from the digest, add 'here's what it actually changes at the table' commentary to each",
+      "title": "Rules Radar: Everything That Actually Matters From This Week's D&D News",
+      "why_now": "EN World's Aug 21 digest bundles several minor rules/product updates that deserve a sharper, ranked breakdown for players who skim headlines.",
+      "angle": "Tight X thread + blog recap ranking the week's items by actual table impact, skipping the fluff.",
       "source": "https://www.enworld.org/threads/news-digest-for-august-21-2026.720397/"
     },
     {
-      "title": "Before You Back It: The Actual Rules Inside This Week's TTRPG Odyssey Crowdfunders",
-      "why_now": "A wave of Odyssey-genre crowdfunders just launched together, and backers are flying blind on mechanics until someone reads the actual rule previews.",
-      "angle": "Comparison roundup: pull core resolution mechanics from each campaign's preview PDF, rank by rules innovation not just art/pitch",
-      "source": "https://www.enworld.org/threads/get-your-ttrpg-odyssey-fix-with-these-crowdfunders.720368/"
+      "title": "The D&D Popcorn Bucket Is Real — Here's Why Merch Like This Is a Rules-Adjacent Signal",
+      "why_now": "A novelty popcorn bucket tie-in shows WotC's brand expansion pace, which the channel can frame as a bellwether for where design/marketing resources go.",
+      "angle": "Knowing, dry commentary connecting merch cadence to what's NOT getting rules attention (e.g., long-delayed errata or playtest follow-through).",
+      "source": "https://www.enworld.org/threads/you-can-get-a-d-d-popcorn-bucket-now.720395/"
     }
   ]
 }
