@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-23T11:05:37+00:00",
+  "generated": "2026-08-24T11:09:04+00:00",
   "opportunities": [
     {
-      "title": "So You Want to Be a Mind Flayer: Breaking Down D&D's New Player-Transformation Rules",
-      "why_now": "WotC just began playtesting Underdark content that lets a PC become a mind flayer, a first for player-facing lore-breaking transformation mechanics.",
-      "angle": "Rules-first breakdown: mechanical costs, ability score/skill changes, and how it compares to past 'monster PC' subsystems (Volo's, MotM).",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
+      "title": "Dark Sun's Rules Rewrite: What Actually Changes Under the New Rules Text",
+      "why_now": "EN World's podcast just previewed concrete mechanical changes to Dark Sun, giving rules-watchers a first look at what's official versus speculation.",
+      "angle": "Breakdown post/thread parsing the announced changes against existing 5E/2024 rules text, flagging what's confirmed vs rumored",
+      "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "The Underdark Playtest's Other Options: What Else Is on the Table Besides Illithids",
-      "why_now": "The same playtest packet includes non-mind-flayer Underdark content that's getting overshadowed by the illithid headline.",
-      "angle": "Companion post cataloging every subclass/feat/spell in the packet with a rules-legality note (UA vs. official).",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
+      "title": "New Underdark Options: The Subclasses and Rules Text You'll Actually Use at the Table",
+      "why_now": "Same podcast drop teased new Underdark rules content, which is exactly the crunchy material this audience wants dissected before official release.",
+      "angle": "Rules-first preview thread ranking the new options by mechanical impact, with a 'what's already balanced vs. needs errata' prediction",
+      "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "Fact-Checking the 5.5e Dark Sun Rumors: What's Actually Confirmed to Change",
-      "why_now": "Community speculation is running ahead of official statements on whether Dark Sun's darker themes survive the 5.5e update.",
-      "angle": "Source-cited myth-vs-fact list separating confirmed design notes from fan speculation, with a stance on what 'sanitizing' would mean rules-wise.",
-      "source": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/"
+      "title": "The Rules for Moving Your Party Forward Are Already Written — Sly Flourish Just Proved It",
+      "why_now": "Sly Flourish's fresh analysis on pacing/progression mechanics is prime rules-nerd territory published this week.",
+      "angle": "Response/companion post citing the specific mechanical framework, cross-referencing official rulebooks for precedent",
+      "source": "https://slyflourish.com/move_steps_forward.html?rss=1"
     },
     {
-      "title": "Rules Radar: Everything That Actually Matters From This Week's D&D News",
-      "why_now": "EN World's Aug 21 digest bundles several minor rules/product updates that deserve a sharper, ranked breakdown for players who skim headlines.",
-      "angle": "Tight X thread + blog recap ranking the week's items by actual table impact, skipping the fluff.",
-      "source": "https://www.enworld.org/threads/news-digest-for-august-21-2026.720397/"
+      "title": "Picking the Right Game Isn't a Vibe Check — It's a Checklist, and Gnome Stew Just Wrote It",
+      "why_now": "Gnome Stew's new piece on game selection lands right as GMs plan fall campaigns, a perennial high-search moment.",
+      "angle": "Turn their advice into a structured decision-tree/checklist graphic in the channel's 'rules are already written' voice",
+      "source": "https://gnomestew.com/how-do-i-pick-the-right-game/"
     },
     {
-      "title": "The D&D Popcorn Bucket Is Real — Here's Why Merch Like This Is a Rules-Adjacent Signal",
-      "why_now": "A novelty popcorn bucket tie-in shows WotC's brand expansion pace, which the channel can frame as a bellwether for where design/marketing resources go.",
-      "angle": "Knowing, dry commentary connecting merch cadence to what's NOT getting rules attention (e.g., long-delayed errata or playtest follow-through).",
+      "title": "Yes, There's Already Lore Behind the D&D Popcorn Bucket",
+      "why_now": "The popcorn bucket just went on sale this week and is generating buzz, a rare chance to apply rules-nerd rigor to pure merch.",
+      "angle": "Tongue-in-cheek 'canon investigation' post/thread treating the bucket like a magic item with stat block and lore citations",
       "source": "https://www.enworld.org/threads/you-can-get-a-d-d-popcorn-bucket-now.720395/"
     }
   ]

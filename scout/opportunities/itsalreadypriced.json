@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-23T11:05:37+00:00",
+  "generated": "2026-08-24T11:09:04+00:00",
   "opportunities": [
     {
-      "title": "Your Coldcard Seed Wasn't Random Enough — Here's the Fix That Came $130M Too Late",
-      "why_now": "Coldcard just shipped a firmware patch to strengthen seed generation days after reports tie it to a $114–130M theft, and CoinDesk confirms AI helped surface the bugs.",
-      "angle": "Technical explainer: what was actually wrong with entropy generation, what the patch changes, and a checklist for hardware wallet holders to verify their seed was generated safely — no hype, just 'do this now' guidance.",
+      "title": "Term Finance Got Governed to Death: How $8.5M Walked Out the Front Door of 'Decentralized' Voting",
+      "why_now": "An attacker didn't hack Term Finance's code — they just bought enough governance tokens to vote themselves the treasury, the same exploit pattern that's drained DAOs for years.",
+      "angle": "Post-mortem breakdown: timeline of the vote purchase, why token-weighted governance keeps failing, and a checklist for spotting vault protocols with this exact vulnerability",
+      "source": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543"
+    },
+    {
+      "title": "BounceBit Isn't Fixing Its Chain — It's Fleeing to BNB After Getting Hit",
+      "why_now": "A $3M exploit was enough to make BounceBit abandon its own blockchain entirely rather than patch it, a rare public admission that some chains are unfixable once popped.",
+      "angle": "Sharp take/thread: what it means when a team chooses migration over remediation, and what that says about the actual security posture behind the marketing",
+      "source": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
+    },
+    {
+      "title": "Coldcard's $130M Wake-Up Call: Your Hardware Wallet Was Never as Cold as You Thought",
+      "why_now": "A $130M exploit against a device marketed as the gold standard for self-custody is forcing new security measures — exactly the kind of story that should reset overconfidence in 'cold' storage.",
+      "angle": "Explainer: what actually broke, what the new measures fix (and don't), and a hard look at hardware wallet trust assumptions",
       "source": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
     },
     {
-      "title": "885,000 Phone Numbers Just Got Mapped to Crypto Wallets — Here's What That Actually Means",
-      "why_now": "A cybersecurity firm just disclosed a phishing campaign targeting nearly a million phone numbers, a scale that suggests industrialized SIM-swap/social-engineering infrastructure, not a one-off scam.",
-      "angle": "Breakdown of the attack chain (data source → SMS/voice phishing → wallet drain), practical defense steps (2FA hardening, number portability locks), and why 'it won't happen to me' is exactly what the last 885,000 people thought.",
-      "source": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The Sandbox's Bridge Just Printed Free Money — Again, It Was a Bridge",
+      "why_now": "Attackers minted unbacked SAND across Base and BSC through a bridge exploit, the umpteenth reminder that cross-chain bridges remain crypto's weakest link even in 2026.",
+      "angle": "Pattern piece: log this alongside the year's other bridge exploits, make the case that 'contained' doesn't mean 'safe,' quick verdict on exposure",
+      "source": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc"
     },
     {
-      "title": "AI Crime in Crypto Is Up 40% — And the People Fighting Back Are Using the Same Tools",
-      "why_now": "TRM Labs just quantified a 40% YoY rise in AI-assisted crypto crime the same week Decrypt profiled a red-team group using AI to find bugs in Bitcoin software before attackers do.",
-      "angle": "Dueling-AI feature: pair the TRM stat with the red-team story to frame 2026 as the year attacker and defender tooling converged — end with what this means for anyone still trusting 'audited' as a safety label.",
-      "source": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297"
-    },
-    {
-      "title": "Bitcoin Ripped to $80K This Week. Three Chains Got Robbed While Nobody Was Watching.",
-      "why_now": "Amid the biggest weekly BTC gain in two years, Sandbox halted bridging after an exploit, BounceBit is abandoning its own chain after a $3M hack, and Mantra halted entirely — all in the same 48 hours.",
-      "angle": "Contrarian roundup for the 'already priced' voice: euphoria and exploits aren't opposites, they're correlated — bull markets are when security debt gets called in. Frame as a pattern-recognition piece, not a hot take.",
-      "source": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
-    },
-    {
-      "title": "Zcash Just Hit an 8-Year High Because Everyone Suddenly Remembered Bitcoin Isn't Private",
-      "why_now": "ZEC surged 48% to $850 with $10B in futures volume as Grayscale's spot ETF filing advances — a privacy-coin rally happening in plain sight of chain-analysis firms and regulators.",
-      "angle": "Security-market crossover piece: what a Zcash ETF actually means for on-chain surveillance economics, and why the same institutions buying transparency-friendly BTC ETFs are now chasing the opposite trade.",
-      "source": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016"
+      "title": "MANTRA Halted Its Chain and Blamed Cosmos — Convenient Timing for a Network Built on Trust",
+      "why_now": "A chain-halt blamed on infrastructure rather than internal failure is a classic move worth scrutinizing, especially from a project that's had governance and trust issues before.",
+      "angle": "Skeptical breakdown: separate the technical claim from the accountability dodge, ask what 'blame the module' actually means for users with funds locked",
+      "source": "https://thedefiant.io/news/blockchains/mantra-halts-chain-blames-cosmos-evm-module"
     }
   ]
 }

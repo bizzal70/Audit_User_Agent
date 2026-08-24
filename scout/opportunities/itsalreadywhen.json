@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-23T11:05:37+00:00",
+  "generated": "2026-08-24T11:09:04+00:00",
   "opportunities": [
     {
-      "title": "Cisco's CVSS Scorecard Is In: 10, 10, 9.9, 9.6, 7.5 — Patch Crosswork and Secure Workload Now",
-      "why_now": "Cisco just dropped nine flaws with five hitting perfect or near-perfect severity scores, and it's the kind of gymnastics-judge absurdity that writes its own headline.",
-      "angle": "Patch-cadence rundown with a scoreboard graphic ranking the five criticals and a one-line 'do this today' for each",
-      "source": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
+      "title": "Four Days Dark: How Iran-Linked Hackers Knocked Out a UK Power Plant",
+      "why_now": "A nation-state group taking down critical infrastructure for four straight days is exactly the inevitable-breach story this channel exists to dissect.",
+      "angle": "Incident timeline breakdown + what OT defenders should be asking their vendors this week",
+      "source": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/"
     },
     {
-      "title": "245 Million Downloads Later: North Korea's Rust Crate Poisoning Is the Supply-Chain Breach You Already Shipped",
-      "why_now": "Multiple outlets confirm the poisoned Rust crates are now attributed to DPRK actors and the download count makes this one of the largest build-time compromises this year.",
-      "angle": "Deep-dive breach postmortem framed as 'you probably already pulled this dependency' with a remediation checklist",
-      "source": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/"
+      "title": "CISA Says Drop Everything: Zimbra Zero-Day Is Being Exploited Right Now",
+      "why_now": "An active-exploitation CISA directive is the clearest 'patch now' signal in the cycle and drives urgent search traffic.",
+      "angle": "Patch-cadence alert post with CVE details, affected versions, and a copy-paste remediation checklist",
+      "source": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/"
     },
     {
-      "title": "Entra ID's Perfect 10: Microsoft Patches an RCE Flaw Attackers Were Already Using",
-      "why_now": "A CVSS 10.0 Entra ID vulnerability was actively exploited before the patch landed, making it a textbook inevitable-breach case for anyone on Azure AD.",
-      "angle": "Timeline piece: disclosure-to-exploitation gap, plus what identity infra defenders should audit right now",
-      "source": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html"
+      "title": "Your Antivirus Is the Attack Surface: Microsoft Defender's Driver Can Be Weaponized to Kill Security Software",
+      "why_now": "A flaw letting attackers use Defender itself to disable endpoint protection at boot is a darkly ironic, high-share story for security pros.",
+      "angle": "BYOVD explainer — why signed-driver abuse keeps working and what EDR vendors still won't fix",
+      "source": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
     },
     {
-      "title": "Your Password Vault Had a Master Key Problem: The N-able Bug Nobody Wants to Talk About",
-      "why_now": "A flaw exposing password vault master keys is the kind of foundational-trust breach that undercuts the entire premise of credential management tools.",
-      "angle": "Explainer on blast radius — what a master-key leak actually enables downstream, framed as a wake-up call for MSPs",
-      "source": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys"
+      "title": "Hundreds of Leaked AWS Keys Are Sitting in Plain Sight — And Attackers Found Them First",
+      "why_now": "Full corporate cloud takeover via leaked keys is a classic, recurring failure mode worth a fresh breach-digest entry with concrete numbers.",
+      "angle": "Root-cause rundown (repos, CI logs, misconfigured secrets) plus a rapid self-audit checklist for readers",
+      "source": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/"
     },
     {
-      "title": "CISA Says Patch TrueConf Now — Because Someone's Already Exploiting Russia's Zoom Clone",
-      "why_now": "CISA issued an urgent advisory on actively exploited TrueConf vulnerabilities, a rare direct government push that fits the patch-cadence beat perfectly.",
-      "angle": "Short, punchy 'patch now' alert post with CVE specifics and who's likely still running TrueConf",
-      "source": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/"
+      "title": "Supply Chain Rot: Rust Crates and npm Packages Are Now Delivering Backdoors and Credential Stealers",
+      "why_now": "Two parallel poisoned-package campaigns (Rust crates + 14 trojanized npm packages) in the same week signal an accelerating dev-ecosystem trend worth flagging together.",
+      "angle": "Side-by-side comparison of both campaigns' TTPs, framed as 'trust nothing in your lockfile' guidance for dev teams",
+      "source": "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075"
     }
   ]
 }

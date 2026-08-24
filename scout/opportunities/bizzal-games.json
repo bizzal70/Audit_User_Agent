@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-23T11:05:37+00:00",
+  "generated": "2026-08-24T11:09:04+00:00",
   "opportunities": [
     {
-      "title": "So You Want to Be a Mind Flayer: What the New UA Transformation Actually Costs You",
-      "why_now": "WotC just dropped an Underdark playtest letting a PC transform into a mind flayer, and every table is going to ask about it this week.",
-      "angle": "Rules-ruling short breaking down the mechanical trade-offs (stat changes, alignment/roleplay locks, tentacle attack math) in dry veteran-GM tone.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
+      "title": "Dark Sun's Sunlight Rule Is Getting Fixed — Here's the RAW Ruling You've Been Using Wrong",
+      "why_now": "EN World's livestream just previewed concrete Dark Sun mechanical changes, giving a hot hook for a rules-ruling short.",
+      "angle": "60-sec 'ruling of the day': explain old sunlight/heat exhaustion rule, show the new fix, end with 'here's how to houserule it until the book drops'",
+      "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "The Underdark Playtest's Other Options Nobody's Talking About",
-      "why_now": "Coverage is all mind flayer, but the same playtest packet has drow/duergar subclass tweaks worth a ruling before it's buried in the news cycle.",
-      "angle": "Quick 'what else is in the packet' short, GM verdict on whether the non-illithid options are actually playable.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/"
+      "title": "New Underdark Options Just Dropped — The Mind Flayer Tactic Nobody Runs Right",
+      "why_now": "Same EN World preview teases new Underdark subsystems, perfect excuse to cover a classic Underdark monster tactic.",
+      "angle": "Creature tactic short: mind flayer stun-lock/extract sequence, tie in one new Underdark option as the 'why now' hook",
+      "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "Dark Sun 5.5e Is Reportedly Sanding Off Defiling — Here's What That Mechanic Actually Did",
-      "why_now": "Fresh EN World speculation on whether 5.5e Dark Sun cuts controversial setting elements gives a hook to explain the original defiler/preserver mechanic before it's gone.",
-      "angle": "Explainer/ruling on the classic defiling magic rule (arcane caster kills the land for bonus power) and what a 'softened' version would need to keep the tension.",
-      "source": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/"
-    },
-    {
-      "title": "The D&D Popcorn Bucket Has Better AC Than Your Fighter's Shield",
-      "why_now": "The absurd D&D popcorn bucket merch drop is trending and gives an easy comedic bridge into a real armor-class mechanics bit.",
-      "angle": "Joke-cold-open into a genuine short on shield AC math and cover rules, using the bucket as the visual gag.",
+      "title": "You Can Now Buy a D&D Popcorn Bucket — So Let's Rule On Bag of Holding vs. Snack Storage",
+      "why_now": "The D&D popcorn bucket just went on sale, giving a viral, low-effort tie-in for a rules gag with real mechanical payoff.",
+      "angle": "Wry bit: 'official ruling' on whether a Bag of Holding can hold popcorn without setting off the suffocation clause, delivered dead serious",
       "source": "https://www.enworld.org/threads/you-can-get-a-d-d-popcorn-bucket-now.720395/"
     },
     {
-      "title": "Running a T-Rex in 5e: Why It Should Always Grapple Before It Chomps",
-      "why_now": "A podcast literally titled 'T-Rex Chomp' just dropped, giving a timely excuse to correct how most tables mishandle the tyrannosaurus stat block's bite/grapple interaction.",
-      "angle": "Creature-tactic short: RAW breakdown of Multiattack + swallow rules and why grapple-first is the optimal DM play.",
-      "source": "https://www.rpgsite.net/podcast/21166-tetracast-456-t-rex-chomp"
+      "title": "Sly Flourish Says 'Move Steps Forward' — Here's the One-Line GM Ruling That Actually Does It",
+      "why_now": "Sly Flourish's fresh analysis on pacing gives a timely peg to convert prep advice into a hard mechanical technique.",
+      "angle": "GM-technique short: turn the 'move steps forward' philosophy into a concrete skill-challenge/clock ruling you can use tonight",
+      "source": "https://slyflourish.com/move_steps_forward.html?rss=1"
+    },
+    {
+      "title": "Shadowdark, DCC, or 5e? The Real Test Gnome Stew Missed",
+      "why_now": "Gnome Stew's new 'how to pick the right game' piece is a direct opening to give a sharper, mechanics-first answer for this channel's exact systems.",
+      "angle": "Comparison short: one scenario (e.g., a locked door with a trap) run through 5e skill DC, Shadowdark's d20 roll-under, and DCC's funnel-brutality lens to show which system actually fits which table",
+      "source": "https://gnomestew.com/how-do-i-pick-the-right-game/"
     }
   ]
 }
