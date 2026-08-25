@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-24T11:09:04+00:00",
+  "generated": "2026-08-25T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "Term Finance Got Governed to Death: How $8.5M Walked Out the Front Door of 'Decentralized' Voting",
-      "why_now": "An attacker didn't hack Term Finance's code — they just bought enough governance tokens to vote themselves the treasury, the same exploit pattern that's drained DAOs for years.",
-      "angle": "Post-mortem breakdown: timeline of the vote purchase, why token-weighted governance keeps failing, and a checklist for spotting vault protocols with this exact vulnerability",
-      "source": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543"
+      "title": "1,789 BTC and Counting: What the Coldcard Hack Says About Self-Custody Theater",
+      "why_now": "Galaxy just quantified a nine-figure Coldcard compromise with 87% of stolen funds still sitting untouched, which is a security post-mortem tailor-made for this beat.",
+      "angle": "Deep-dive incident breakdown: how the exploit worked, why 'not your keys not your coins' didn't save anyone here, and what the unmoved 87% tells you about the attacker's endgame (or law enforcement's leverage).",
+      "source": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "BounceBit Isn't Fixing Its Chain — It's Fleeing to BNB After Getting Hit",
-      "why_now": "A $3M exploit was enough to make BounceBit abandon its own blockchain entirely rather than patch it, a rare public admission that some chains are unfixable once popped.",
-      "angle": "Sharp take/thread: what it means when a team chooses migration over remediation, and what that says about the actual security posture behind the marketing",
-      "source": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
+      "title": "Term Finance's $8.5M Governance Exploit Is the DeFi Bug That Never Stops Happening",
+      "why_now": "Another vault governance exploit landed within 24 hours of the Coldcard news, reinforcing a pattern the channel's audience already expects.",
+      "angle": "Pattern-recognition piece: catalog the governance-exploit playbook across 2026 incidents and argue why 'audited' protocols keep falling to the same vector.",
+      "source": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Coldcard's $130M Wake-Up Call: Your Hardware Wallet Was Never as Cold as You Thought",
-      "why_now": "A $130M exploit against a device marketed as the gold standard for self-custody is forcing new security measures — exactly the kind of story that should reset overconfidence in 'cold' storage.",
-      "angle": "Explainer: what actually broke, what the new measures fix (and don't), and a hard look at hardware wallet trust assumptions",
-      "source": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
-    },
-    {
-      "title": "The Sandbox's Bridge Just Printed Free Money — Again, It Was a Bridge",
-      "why_now": "Attackers minted unbacked SAND across Base and BSC through a bridge exploit, the umpteenth reminder that cross-chain bridges remain crypto's weakest link even in 2026.",
-      "angle": "Pattern piece: log this alongside the year's other bridge exploits, make the case that 'contained' doesn't mean 'safe,' quick verdict on exposure",
+      "title": "The Sandbox Bridge Exploit: 'Contained' Is Doing a Lot of Work in That Headline",
+      "why_now": "A cross-chain bridge just minted unbacked SAND across two chains and the project is already spinning it as handled, a classic setup for skeptical scrutiny.",
+      "angle": "Skeptical breakdown of the incident response language versus what actually got fixed, plus what 'contained' means for holders who bought the unbacked tokens before detection.",
       "source": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc"
     },
     {
-      "title": "MANTRA Halted Its Chain and Blamed Cosmos — Convenient Timing for a Network Built on Trust",
-      "why_now": "A chain-halt blamed on infrastructure rather than internal failure is a classic move worth scrutinizing, especially from a project that's had governance and trust issues before.",
-      "angle": "Skeptical breakdown: separate the technical claim from the accountability dodge, ask what 'blame the module' actually means for users with funds locked",
-      "source": "https://thedefiant.io/news/blockchains/mantra-halts-chain-blames-cosmos-evm-module"
+      "title": "280 Years for $24M: The Math on Crypto Fraud Sentencing Finally Bites",
+      "why_now": "A Las Vegas AI-mining Ponzi operator just got a sentence recommendation that dwarfs the size of the fraud, a rare case where consequences actually scale with the beat's 'this is how it ends' thesis.",
+      "angle": "Explainer on sentencing math in crypto fraud cases, why this one is an outlier, and what it signals for the current wave of AI-washed investment scams still running.",
+      "source": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690"
+    },
+    {
+      "title": "Bitcoin Just Ripped 25% in a Week While Three Hacks Landed — Nobody Noticed",
+      "why_now": "The same 72 hours that produced an $80K breakout and a short squeeze also produced a nine-figure hardware wallet hack, an $8.5M DeFi exploit, and a bridge mint exploit — a perfect 'priced in' juxtaposition piece.",
+      "angle": "Contrast format: split-screen the euphoria headlines against the security incident log from the same week, arguing that rallies don't pause the threat model.",
+      "source": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-24T11:09:04+00:00",
+  "generated": "2026-08-25T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun's Rules Rewrite: What Actually Changes Under the New Rules Text",
-      "why_now": "EN World's podcast just previewed concrete mechanical changes to Dark Sun, giving rules-watchers a first look at what's official versus speculation.",
-      "angle": "Breakdown post/thread parsing the announced changes against existing 5E/2024 rules text, flagging what's confirmed vs rumored",
+      "title": "Arcana Unleashed: Deadfall — What the Preview Actually Changes About Character Building",
+      "why_now": "Fresh preview dropped today with concrete mechanical details worth parsing before hype takes over.",
+      "angle": "Rules breakdown: pull the specific subsystem changes from the preview and compare them line-by-line to base Arcana Unleashed, X thread + blog deep-dive",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-arcana-unleashed-deadfall-preview.720419/"
+    },
+    {
+      "title": "Dark Sun's Rules Are Changing — Here's Every Confirmed Mechanical Shift From Podcast #411",
+      "why_now": "Livestream just aired with specific Dark Sun and Underdark rules reveals that fans will be searching for a clean summary of.",
+      "angle": "Timestamped rules digest: list every confirmed mechanic/subsystem change mentioned, no fluff, just the facts",
       "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "New Underdark Options: The Subclasses and Rules Text You'll Actually Use at the Table",
-      "why_now": "Same podcast drop teased new Underdark rules content, which is exactly the crunchy material this audience wants dissected before official release.",
-      "angle": "Rules-first preview thread ranking the new options by mechanical impact, with a 'what's already balanced vs. needs errata' prediction",
-      "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
-    },
-    {
-      "title": "The Rules for Moving Your Party Forward Are Already Written — Sly Flourish Just Proved It",
-      "why_now": "Sly Flourish's fresh analysis on pacing/progression mechanics is prime rules-nerd territory published this week.",
-      "angle": "Response/companion post citing the specific mechanical framework, cross-referencing official rulebooks for precedent",
+      "title": "Sly Flourish Says 'Move Steps Forward' — Here's the Actual Rule Behind the Advice",
+      "why_now": "New Sly Flourish piece is getting GM-community attention right as prep-lite play philosophies trend.",
+      "angle": "Rules-first rebuttal/expansion: cite the specific mechanical hooks (pacing, initiative, scene framing) that make 'stepping forward' work in actual system text",
       "source": "https://slyflourish.com/move_steps_forward.html?rss=1"
     },
     {
-      "title": "Picking the Right Game Isn't a Vibe Check — It's a Checklist, and Gnome Stew Just Wrote It",
-      "why_now": "Gnome Stew's new piece on game selection lands right as GMs plan fall campaigns, a perennial high-search moment.",
-      "angle": "Turn their advice into a structured decision-tree/checklist graphic in the channel's 'rules are already written' voice",
+      "title": "'How Do I Pick the Right Game?' — A Rules Checklist Gnome Stew Didn't Give You",
+      "why_now": "Gnome Stew's game-selection piece is fresh but stays conceptual; readers want the concrete rules criteria to actually compare systems.",
+      "angle": "Companion checklist post: turn the advice into a hard rules-comparison rubric (action economy, resolution mechanic, prep load) for picking a system",
       "source": "https://gnomestew.com/how-do-i-pick-the-right-game/"
     },
     {
-      "title": "Yes, There's Already Lore Behind the D&D Popcorn Bucket",
-      "why_now": "The popcorn bucket just went on sale this week and is generating buzz, a rare chance to apply rules-nerd rigor to pure merch.",
-      "angle": "Tongue-in-cheek 'canon investigation' post/thread treating the bucket like a magic item with stat block and lore citations",
-      "source": "https://www.enworld.org/threads/you-can-get-a-d-d-popcorn-bucket-now.720395/"
+      "title": "This Week's Free & Discounted TTRPG Rulebooks Worth Your Download Slot",
+      "why_now": "The weekly EN World freebies/sales/charity roundup just posted with time-sensitive deals.",
+      "angle": "Curated X thread: rank the actual rules-heavy freebies (not fluff/art books) worth grabbing before sales end",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-august-23-2026.720416/"
     }
   ]
 }

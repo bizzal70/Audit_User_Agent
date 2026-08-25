@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-24T11:09:04+00:00",
+  "generated": "2026-08-25T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun's Sunlight Rule Is Getting Fixed — Here's the RAW Ruling You've Been Using Wrong",
-      "why_now": "EN World's livestream just previewed concrete Dark Sun mechanical changes, giving a hot hook for a rules-ruling short.",
-      "angle": "60-sec 'ruling of the day': explain old sunlight/heat exhaustion rule, show the new fix, end with 'here's how to houserule it until the book drops'",
+      "title": "Dark Sun's 'No Metal' Rule: The Actual Encumbrance Fix Nobody Runs Right",
+      "why_now": "This week's EN World podcast previewed Dark Sun's updated equipment restrictions, giving a concrete hook to clarify a rule GMs constantly fumble.",
+      "angle": "60-sec ruling breakdown: show the RAW penalty for metal armor/weapons in Athas-style settings and how to houserule it cleanly for 5e or DCC without breaking martial classes.",
       "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "New Underdark Options Just Dropped — The Mind Flayer Tactic Nobody Runs Right",
-      "why_now": "Same EN World preview teases new Underdark subsystems, perfect excuse to cover a classic Underdark monster tactic.",
-      "angle": "Creature tactic short: mind flayer stun-lock/extract sequence, tie in one new Underdark option as the 'why now' hook",
+      "title": "New Underdark Options Just Dropped—Here's the Grimlock Tactic Everyone Ignores",
+      "why_now": "The same podcast teased new Underdark rules content, a perfect excuse to cover an underused creature tactic tied to darkvision/blindsight interactions.",
+      "angle": "Creature tactic short: Grimlocks vs. darkvision PCs, showing how blindsight negates invisibility tricks players rely on underground.",
       "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "You Can Now Buy a D&D Popcorn Bucket — So Let's Rule On Bag of Holding vs. Snack Storage",
-      "why_now": "The D&D popcorn bucket just went on sale, giving a viral, low-effort tie-in for a rules gag with real mechanical payoff.",
-      "angle": "Wry bit: 'official ruling' on whether a Bag of Holding can hold popcorn without setting off the suffocation clause, delivered dead serious",
-      "source": "https://www.enworld.org/threads/you-can-get-a-d-d-popcorn-bucket-now.720395/"
+      "title": "Arcana Unleashed: Deadfall's New Spell Broke My Encounter Math—Here's the Fix",
+      "why_now": "Deadfall's preview just published this week, so reacting fast to its new spell content is a timely third-party crossover angle.",
+      "angle": "Spell use-case short: pull one new spell from the Deadfall preview, run it through an action-economy stress test, and give a DM ruling on fair counterplay.",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-arcana-unleashed-deadfall-preview.720419/"
     },
     {
-      "title": "Sly Flourish Says 'Move Steps Forward' — Here's the One-Line GM Ruling That Actually Does It",
-      "why_now": "Sly Flourish's fresh analysis on pacing gives a timely peg to convert prep advice into a hard mechanical technique.",
-      "angle": "GM-technique short: turn the 'move steps forward' philosophy into a concrete skill-challenge/clock ruling you can use tonight",
+      "title": "Sly Flourish Says 'Move Steps Forward'—Translated Into an Actual Initiative Ruling",
+      "why_now": "Sly Flourish's new essay on advancing scenes is trending in GM circles this week and maps directly onto a concrete tabletop ruling about combat pacing.",
+      "angle": "Dry mechanical breakdown: turn the 'move steps forward' GM philosophy into a hard rule for skipping dead rounds in 5e/Shadowdark initiative, with a before/after example.",
       "source": "https://slyflourish.com/move_steps_forward.html?rss=1"
     },
     {
-      "title": "Shadowdark, DCC, or 5e? The Real Test Gnome Stew Missed",
-      "why_now": "Gnome Stew's new 'how to pick the right game' piece is a direct opening to give a sharper, mechanics-first answer for this channel's exact systems.",
-      "angle": "Comparison short: one scenario (e.g., a locked door with a trap) run through 5e skill DC, Shadowdark's d20 roll-under, and DCC's funnel-brutality lens to show which system actually fits which table",
+      "title": "5e, Shadowdark, or DCC: The One-Rule Test That Picks Your System for You",
+      "why_now": "Gnome Stew's fresh 'how do I pick the right game' piece is generating discussion, giving a timely peg for a cross-system comparison the channel already specializes in.",
+      "angle": "Mechanical comparison short: pick one mechanic (death saves, initiative, funnel) and show how each system resolves it differently to help viewers choose fast.",
       "source": "https://gnomestew.com/how-do-i-pick-the-right-game/"
     }
   ]
