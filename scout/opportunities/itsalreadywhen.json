@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-25T11:08:02+00:00",
+  "generated": "2026-08-26T11:08:57+00:00",
   "opportunities": [
     {
-      "title": "72 Hours to Patch or Die: CISA's Fastest-Ever Deadline for a Perfect 10 Oracle Flaw",
-      "why_now": "CISA just issued its tightest three-day emergency directive ever for an actively exploited, maximum-severity Oracle WebLogic bug.",
-      "angle": "Breaking patch-cadence alert with countdown framing — timeline of the CVE, exploitation evidence, and exact remediation steps for affected orgs",
+      "title": "Oracle Patched Everything. They Got Breached Anyway — Inside CISA's 3-Day 'Perfect 10' Scramble",
+      "why_now": "Two Oracle stories break same day: a critical CVSS-10 flaw with the tightest CISA deadline ever, and proof that full patch compliance didn't stop an attack.",
+      "angle": "Explainer + timeline mashup: what the CVE is, why 3-day patching exists, and why patching alone isn't enough — classic 'inevitable breach' framing",
       "source": "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107"
     },
     {
-      "title": "When Hackers Turn Off the Lights: Iran-Linked Attack Knocks Out a UK Power Plant",
-      "why_now": "A nation-state actor successfully shut down critical UK energy infrastructure, marking an escalation from espionage to disruption.",
-      "angle": "Threat-actor deep dive on Iranian OT/ICS capability and what it means for Western critical infrastructure defenders",
+      "title": "Iran Just Turned Off a UK Power Plant — Critical Infrastructure Is Not Hypothetical Anymore",
+      "why_now": "A nation-state actor successfully shut down UK energy infrastructure, and the US just sanctioned the group behind similar attacks — this is the story that makes ICS risk real.",
+      "angle": "Breaking-news style breakdown of the attack chain + tie-in to US sanctions announcement for narrative arc",
       "source": "https://www.theregister.com/security/2026/08/24/iran-linked-cyberattack-shut-down-a-uk-power-plant/5291930"
     },
     {
-      "title": "The Zimbra Zero-Day Nobody Patched in Time — Now It's a CISA Mandate",
-      "why_now": "CISA just ordered urgent patching of an actively exploited Zimbra flaw days after Dark Reading flagged the shrinking window between disclosure and exploitation.",
-      "angle": "Patch-cadence explainer combining the CISA order with the broader 'vulnerability gap' trend story for a two-source narrative",
-      "source": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/"
+      "title": "Gitea's Critical RCE Is Already Being Exploited to Mine Crypto — Here's the Patch Window You Have Left",
+      "why_now": "CISA warning + three separate outlets (Register/HN/Bleeping) confirm active exploitation dropping miner payloads within days of disclosure.",
+      "angle": "Patch-cadence urgency post: CVE details, exploitation timeline, what to check right now if you self-host Gitea",
+      "source": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html"
     },
     {
-      "title": "Sleepwalker: The Windows Backdoor That Doesn't Want You to Wake Up",
-      "why_now": "A newly documented stealthy backdoor is actively targeting Windows machines with techniques designed to evade detection.",
-      "angle": "Threat-actor/malware profile with IOCs and defender checklist, framed as 'what to hunt for this week'",
-      "source": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021"
+      "title": "Sleepwalker: The Windows Backdoor That Does Nothing Until One Packet Wakes It Up",
+      "why_now": "Fresh technical disclosure of a dormant backdoor triggered by a single crafted packet — a genuinely novel evasion technique worth explaining to readers.",
+      "angle": "Threat-actor deep dive: how the trigger mechanism works, detection difficulty, and why 'quiet' malware is the new normal",
+      "source": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html"
     },
     {
-      "title": "ShinyHunters Breached a Threat Intel Firm — And ReliaQuest Says It's 'Fine'",
-      "why_now": "A security vendor built to detect breaches just confirmed it was breached by ShinyHunters, raising questions about its own claim of 'limited impact.'",
-      "angle": "Skeptical breach-digest analysis questioning vendor damage-control language, tying into Schneier's Black Hat vendor-trust piece",
-      "source": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/"
+      "title": "Mirage2FA Just Hit 4,500 Companies by Abusing the MFA You Trust Most",
+      "why_now": "A live phishing campaign is defeating Microsoft 365 MFA at scale right now, directly undercutting the 'MFA = safe' assumption security teams rely on.",
+      "angle": "Pair with SecurityWeek's MFA Identity Trap piece for a 'your MFA isn't saving you' feature with concrete IOCs and defense tips",
+      "source": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html"
     }
   ]
 }

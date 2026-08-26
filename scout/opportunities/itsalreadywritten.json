@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-25T11:08:02+00:00",
+  "generated": "2026-08-26T11:08:57+00:00",
   "opportunities": [
     {
-      "title": "Arcana Unleashed: Deadfall — What the Preview Actually Changes About Character Building",
-      "why_now": "Fresh preview dropped today with concrete mechanical details worth parsing before hype takes over.",
-      "angle": "Rules breakdown: pull the specific subsystem changes from the preview and compare them line-by-line to base Arcana Unleashed, X thread + blog deep-dive",
-      "source": "https://www.enworld.org/threads/arcana-unleashed-arcana-unleashed-deadfall-preview.720419/"
-    },
-    {
-      "title": "Dark Sun's Rules Are Changing — Here's Every Confirmed Mechanical Shift From Podcast #411",
-      "why_now": "Livestream just aired with specific Dark Sun and Underdark rules reveals that fans will be searching for a clean summary of.",
-      "angle": "Timestamped rules digest: list every confirmed mechanic/subsystem change mentioned, no fluff, just the facts",
+      "title": "Dark Sun's New Rules, Decoded: What Changed and Why It Matters at the Table",
+      "why_now": "Podcast #411 just dropped concrete details on Dark Sun's rules revisions and new Underdark subsystems, prime material for a rules breakdown.",
+      "angle": "Rules-first explainer breaking down each mechanical change with citations to the panel discussion, formatted as a numbered ruling reference",
       "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "Sly Flourish Says 'Move Steps Forward' — Here's the Actual Rule Behind the Advice",
-      "why_now": "New Sly Flourish piece is getting GM-community attention right as prep-lite play philosophies trend.",
-      "angle": "Rules-first rebuttal/expansion: cite the specific mechanical hooks (pacing, initiative, scene framing) that make 'stepping forward' work in actual system text",
+      "title": "Arcana Unleashed: Deadfall — A First Look at Its Rules Engine, Not Just Its Art",
+      "why_now": "The preview just went live and most coverage will focus on flavor; a rules-first breakdown of its subsystems is an open lane.",
+      "angle": "System-analysis piece dissecting the crunch (classes, resolution mechanics, subsystems) vs. the setting fluff",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-arcana-unleashed-deadfall-preview.720419/"
+    },
+    {
+      "title": "The Cypher System Just Got New Crowdfunded Support — Here's What Rules It Actually Adds",
+      "why_now": "This week's crowdfunding roundup name-drops new Cypher System material, and Cypher's modular rules make every supplement worth cataloging.",
+      "angle": "Quick-hit 'what's actually new mechanically' rundown for GMs deciding whether to back it",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-crows-cypher-monsters-of-rend-world-and-more.720438/"
+    },
+    {
+      "title": "D&D's Warlock Game Is Set in Ravenloft — Here's What the Rules Actually Say About the Demiplane of Dread",
+      "why_now": "The new gameplay footage reveal is driving traffic to Ravenloft searches, and most outlets won't cover the tabletop rules behind the setting.",
+      "angle": "Reference piece pulling official Ravenloft mechanics (Dark Powers checks, domain rules) the game is (loosely) adapting",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
+    },
+    {
+      "title": "'Move Steps Forward' Isn't a House Rule — It's Already in the Book. Here's the Citation.",
+      "why_now": "Sly Flourish's new piece on pacing technique is exactly the kind of GM advice that sounds like a house rule but maps to existing published guidance.",
+      "angle": "Rules-are-already-written rebuttal/companion post citing the actual rulebook text that supports the technique",
       "source": "https://slyflourish.com/move_steps_forward.html?rss=1"
-    },
-    {
-      "title": "'How Do I Pick the Right Game?' — A Rules Checklist Gnome Stew Didn't Give You",
-      "why_now": "Gnome Stew's game-selection piece is fresh but stays conceptual; readers want the concrete rules criteria to actually compare systems.",
-      "angle": "Companion checklist post: turn the advice into a hard rules-comparison rubric (action economy, resolution mechanic, prep load) for picking a system",
-      "source": "https://gnomestew.com/how-do-i-pick-the-right-game/"
-    },
-    {
-      "title": "This Week's Free & Discounted TTRPG Rulebooks Worth Your Download Slot",
-      "why_now": "The weekly EN World freebies/sales/charity roundup just posted with time-sensitive deals.",
-      "angle": "Curated X thread: rank the actual rules-heavy freebies (not fluff/art books) worth grabbing before sales end",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-august-23-2026.720416/"
     }
   ]
 }

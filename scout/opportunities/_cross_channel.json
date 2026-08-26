@@ -1,4 +1,53 @@
 {
-  "generated": "2026-08-25T11:08:02+00:00",
-  "plays": []
+  "generated": "2026-08-26T11:08:57+00:00",
+  "plays": [
+    {
+      "story": "D&D: Warlock video game debuts first gameplay footage, confirmed to be set in Ravenloft",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'D&D's New Warlock Game Just Showed Us How NOT to Run Pact Magic at Your Table' — break down the gameplay footage's spellcasting/pact mechanics and translate what actually works (or doesn't) for tabletop warlocks.",
+        "itsalreadywritten": "'Ravenloft Gets a Video Game — Here's the Domain of Dread Lore It's Borrowing (and Butchering)' — a lore-nerd teardown of how faithfully the trailer's setting matches the Ravenloft canon."
+      },
+      "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
+    },
+    {
+      "story": "This week's RPG crowdfunding roundup spotlights Crows, Cypher System expansions, and Monsters of Rend World",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'5 TTRPG Kickstarters Worth Your Money This Week: Crows, a Cypher Refresh, and Rend World's New Bestiary' — a buyer's-guide style rundown ranking the campaigns by table-value.",
+        "itsalreadywritten": "'Monsters of Rend World: The Crowdfunded Bestiary Quietly Building 2026's Best New Setting' — dig into the lore/worldbuilding behind Rend World's monster design as a setting showcase."
+      },
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-crows-cypher-monsters-of-rend-world-and-more.720438/"
+    },
+    {
+      "story": "Galaxy pegs Coldcard hardware wallet hack losses at 1,789 BTC, with 87% still unmoved on-chain",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'1,789 BTC Frozen in Plain Sight: What the Coldcard Hack Tells Us About On-Chain Forensics' — trace the unmoved funds and what it signals for BTC supply/price psychology.",
+        "itsalreadywhen": "'The Cold Wallet That Got Hot: Inside the Coldcard Hack and What It Means for Hardware Supply Chains' — treat it as a hardware-security failure story, not just a crypto-market one."
+      },
+      "source": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Same week, Iran runs a two-front offensive — OFAC sanctions crypto-for-oil payment networks while Iran-linked hackers knock out a UK power plant",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Crypto-for-Oil: Inside OFAC's New Sanctions on Iran's Intelligence Ministry — and the Wallets That Move the Money' — map the sanctioned crypto rails and what it means for exchanges' compliance risk.",
+        "itsalreadywhen": "'Same Regime, Same Week: Iran's Hackers Just Took Down a UK Power Plant — Are the Sanctions Even Working?' — tie the OFAC action to the live critical-infrastructure attack as evidence of a coordinated state threat actor."
+      },
+      "source": "https://www.chainalysis.com/blog/ofac-iran-oil-payments-august-2026/"
+    }
+  ]
 }

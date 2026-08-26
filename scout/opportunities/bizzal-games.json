@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-25T11:08:02+00:00",
+  "generated": "2026-08-26T11:08:57+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun's 'No Metal' Rule: The Actual Encumbrance Fix Nobody Runs Right",
-      "why_now": "This week's EN World podcast previewed Dark Sun's updated equipment restrictions, giving a concrete hook to clarify a rule GMs constantly fumble.",
-      "angle": "60-sec ruling breakdown: show the RAW penalty for metal armor/weapons in Athas-style settings and how to houserule it cleanly for 5e or DCC without breaking martial classes.",
+      "title": "Ravenloft Fear Rules: Why Your Warlock's Hex Doesn't Work on a Frightened Target",
+      "why_now": "The new D&D: Warlock game footage just dropped its Ravenloft setting, giving you a hook to clarify a rules interaction players constantly get wrong.",
+      "angle": "60-sec rules ruling short: read the Frightened condition, show the Hex/attack roll interaction, end with the correct table ruling.",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
+    },
+    {
+      "title": "Dark Sun's Defiler Magic Isn't Just Flavor — Here's the 5e Ruling You Need",
+      "why_now": "Podcast #411 just previewed Dark Sun's mechanical changes, so viewers are primed for a concrete conversion ruling before the book drops.",
+      "angle": "Creature/spell use-case short: show a defiler casting a spell, narrate the environmental damage penalty, give a table-ready ruling.",
       "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "New Underdark Options Just Dropped—Here's the Grimlock Tactic Everyone Ignores",
-      "why_now": "The same podcast teased new Underdark rules content, a perfect excuse to cover an underused creature tactic tied to darkvision/blindsight interactions.",
-      "angle": "Creature tactic short: Grimlocks vs. darkvision PCs, showing how blindsight negates invisibility tricks players rely on underground.",
+      "title": "Underdark Ambush Tactics: Why Your Drow Patrol Keeps Losing Initiative",
+      "why_now": "The same podcast teased new Underdark options, giving a timely reason to break down a specific monster tactic GMs mess up.",
+      "angle": "Creature tactic short: map a 3-enemy drow ambush, show darkness/stealth mechanics, correct the common GM mistake.",
       "source": "https://www.enworld.org/threads/podcast-411-livestream-dark-suns-changes-new-underdark-options-d-d-popcorn-odyssey-themed-rpgs.720420/"
     },
     {
-      "title": "Arcana Unleashed: Deadfall's New Spell Broke My Encounter Math—Here's the Fix",
-      "why_now": "Deadfall's preview just published this week, so reacting fast to its new spell content is a timely third-party crossover angle.",
-      "angle": "Spell use-case short: pull one new spell from the Deadfall preview, run it through an action-economy stress test, and give a DM ruling on fair counterplay.",
-      "source": "https://www.enworld.org/threads/arcana-unleashed-arcana-unleashed-deadfall-preview.720419/"
-    },
-    {
-      "title": "Sly Flourish Says 'Move Steps Forward'—Translated Into an Actual Initiative Ruling",
-      "why_now": "Sly Flourish's new essay on advancing scenes is trending in GM circles this week and maps directly onto a concrete tabletop ruling about combat pacing.",
-      "angle": "Dry mechanical breakdown: turn the 'move steps forward' GM philosophy into a hard rule for skipping dead rounds in 5e/Shadowdark initiative, with a before/after example.",
+      "title": "Sly Flourish Says 'Move Steps Forward' — Here's the DCC Version of That Advice",
+      "why_now": "Sly Flourish's fresh essay on pacing gives a discussion-worthy GM technique to translate into a system-specific ruling for DCC/Shadowdark fans.",
+      "angle": "Wry veteran-GM take: contrast 5e's turn structure with DCC's mercy die/luck mechanics as a faster 'step forward' tool.",
       "source": "https://slyflourish.com/move_steps_forward.html?rss=1"
     },
     {
-      "title": "5e, Shadowdark, or DCC: The One-Rule Test That Picks Your System for You",
-      "why_now": "Gnome Stew's fresh 'how do I pick the right game' piece is generating discussion, giving a timely peg for a cross-system comparison the channel already specializes in.",
-      "angle": "Mechanical comparison short: pick one mechanic (death saves, initiative, funnel) and show how each system resolves it differently to help viewers choose fast.",
-      "source": "https://gnomestew.com/how-do-i-pick-the-right-game/"
+      "title": "Arcana Unleashed's New Subclass Preview: One Spell Use-Case Worth Stealing",
+      "why_now": "Arcana Unleashed: Deadfall just previewed new subclass content, giving a fresh spell interaction to test on camera before the crowd's seen it played.",
+      "angle": "Spell use-case short: pick one preview spell/ability, run it against a common monster stat block, show the exact damage/save math.",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-arcana-unleashed-deadfall-preview.720419/"
     }
   ]
 }

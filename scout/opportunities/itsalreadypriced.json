@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-25T11:08:02+00:00",
+  "generated": "2026-08-26T11:08:57+00:00",
   "opportunities": [
     {
-      "title": "1,789 BTC and Counting: What the Coldcard Hack Says About Self-Custody Theater",
-      "why_now": "Galaxy just quantified a nine-figure Coldcard compromise with 87% of stolen funds still sitting untouched, which is a security post-mortem tailor-made for this beat.",
-      "angle": "Deep-dive incident breakdown: how the exploit worked, why 'not your keys not your coins' didn't save anyone here, and what the unmoved 87% tells you about the attacker's endgame (or law enforcement's leverage).",
+      "title": "1,789 BTC Gone, 87% Still Sitting There: What the Coldcard Hack Actually Tells Us",
+      "why_now": "Galaxy's fresh loss estimate on a hardware wallet exploit is exactly the kind of 'trusted device, broken assumption' story this channel exists for.",
+      "angle": "Forensic security breakdown — walk through the attack vector, why hardware wallets aren't magic, and what the unmoved 87% signals about attacker behavior/timing",
       "source": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Term Finance's $8.5M Governance Exploit Is the DeFi Bug That Never Stops Happening",
-      "why_now": "Another vault governance exploit landed within 24 hours of the Coldcard news, reinforcing a pattern the channel's audience already expects.",
-      "angle": "Pattern-recognition piece: catalog the governance-exploit playbook across 2026 incidents and argue why 'audited' protocols keep falling to the same vector.",
+      "title": "$8.5M Gone in a Single Governance Vote: Term Finance and the Myth of 'Decentralized' Vaults",
+      "why_now": "A governance-exploit drain that just forced Term Finance to permanently shut its Meta Vaults is a live case study in how 'decentralized' controls get gamed.",
+      "angle": "Explainer/teardown of the governance attack mechanics, tying it to a broader pattern of vault-governance exploits this year",
       "source": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Sandbox Bridge Exploit: 'Contained' Is Doing a Lot of Work in That Headline",
-      "why_now": "A cross-chain bridge just minted unbacked SAND across two chains and the project is already spinning it as handled, a classic setup for skeptical scrutiny.",
-      "angle": "Skeptical breakdown of the incident response language versus what actually got fixed, plus what 'contained' means for holders who bought the unbacked tokens before detection.",
-      "source": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc"
+      "title": "One Shared Bug, Three Chains Drained: Why EVM Clones Keep Inheriting the Same Vulnerabilities",
+      "why_now": "Cosmos Labs' active halt-recommendation across multiple EVM chains sharing one exploitable bug is an urgent, ongoing security event worth flagging in real time.",
+      "angle": "Rapid-response security alert style post — explain the shared codebase risk and why forking EVM chains means forking their bugs too",
+      "source": "https://thedefiant.io/news/blockchains/cosmos-labs-urges-evm-chains-halt-shared-bug-drains-three-networks"
     },
     {
-      "title": "280 Years for $24M: The Math on Crypto Fraud Sentencing Finally Bites",
-      "why_now": "A Las Vegas AI-mining Ponzi operator just got a sentence recommendation that dwarfs the size of the fraud, a rare case where consequences actually scale with the beat's 'this is how it ends' thesis.",
-      "angle": "Explainer on sentencing math in crypto fraud cases, why this one is an outlier, and what it signals for the current wave of AI-washed investment scams still running.",
-      "source": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690"
+      "title": "$36M Liquidated Because an Oracle Moved: Pendle's Reminder That Price Feeds Are Still the Weak Link",
+      "why_now": "A same-day $36M liquidation cascade tied to an oracle move is a textbook example of DeFi's recurring single-point-of-failure problem.",
+      "angle": "Short, sharp postmortem connecting this incident to the long history of oracle-triggered liquidation cascades — 'we've seen this movie before'",
+      "source": "https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million"
     },
     {
-      "title": "Bitcoin Just Ripped 25% in a Week While Three Hacks Landed — Nobody Noticed",
-      "why_now": "The same 72 hours that produced an $80K breakout and a short squeeze also produced a nine-figure hardware wallet hack, an $8.5M DeFi exploit, and a bridge mint exploit — a perfect 'priced in' juxtaposition piece.",
-      "angle": "Contrast format: split-screen the euphoria headlines against the security incident log from the same week, arguing that rallies don't pause the threat model.",
-      "source": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses"
+      "title": "Extreme Greed Is Back for the First Time Since the $19B Wipeout — Here's What Always Happens Next",
+      "why_now": "The fear/greed gauge just hit its highest reading since the pre-crash euphoria of October, giving this channel's 'already know how this ends' framing a perfect market-psychology hook.",
+      "angle": "Data-driven markets piece pairing the greed index spike with historical drawdown patterns, framed as a security-minded warning rather than a price call",
+      "source": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout"
     }
   ]
 }
