@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-26T11:08:57+00:00",
+  "generated": "2026-08-27T14:41:11+00:00",
   "opportunities": [
     {
-      "title": "1,789 BTC Gone, 87% Still Sitting There: What the Coldcard Hack Actually Tells Us",
-      "why_now": "Galaxy's fresh loss estimate on a hardware wallet exploit is exactly the kind of 'trusted device, broken assumption' story this channel exists for.",
-      "angle": "Forensic security breakdown — walk through the attack vector, why hardware wallets aren't magic, and what the unmoved 87% signals about attacker behavior/timing",
+      "title": "1,789 BTC and Counting: What the Coldcard Hack Actually Broke",
+      "why_now": "Galaxy's fresh loss tally (87% of funds still unmoved) turns a live hack into a forensic case study on hardware-wallet trust assumptions.",
+      "angle": "Incident breakdown: what attack vector likely worked, why 'cold' didn't mean safe, and what self-custody users should check today",
       "source": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$8.5M Gone in a Single Governance Vote: Term Finance and the Myth of 'Decentralized' Vaults",
-      "why_now": "A governance-exploit drain that just forced Term Finance to permanently shut its Meta Vaults is a live case study in how 'decentralized' controls get gamed.",
-      "angle": "Explainer/teardown of the governance attack mechanics, tying it to a broader pattern of vault-governance exploits this year",
-      "source": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Lightning Network Has No Patch and No Timeline — Here's What 'Go Offline' Actually Means",
+      "why_now": "Core Lightning operators were told to shut down nodes over an AI-discovered bug with zero published fix, a rare admission of an unresolved live threat.",
+      "angle": "Explainer + risk checklist: severity assessment, what AI bug-hunting changes about disclosure timelines, and who should actually pull the plug",
+      "source": "https://thedefiant.io/news/security/core-lightning-tells-node-operators-to-go-offline-with-no-patch-published"
     },
     {
-      "title": "One Shared Bug, Three Chains Drained: Why EVM Clones Keep Inheriting the Same Vulnerabilities",
-      "why_now": "Cosmos Labs' active halt-recommendation across multiple EVM chains sharing one exploitable bug is an urgent, ongoing security event worth flagging in real time.",
-      "angle": "Rapid-response security alert style post — explain the shared codebase risk and why forking EVM chains means forking their bugs too",
-      "source": "https://thedefiant.io/news/blockchains/cosmos-labs-urges-evm-chains-halt-shared-bug-drains-three-networks"
+      "title": "Moonwell's Base Exploit Is a Reminder: 'Audited' Was Never the Same as 'Safe'",
+      "why_now": "A multimillion-dollar exploit is unfolding in real time on a lending market security firms are still investigating, making it a live-fire teaching moment.",
+      "angle": "Rapid-response thread/post tracking the exploit mechanics as they're confirmed, tying back to recurring DeFi lending-market failure patterns",
+      "source": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913"
     },
     {
-      "title": "$36M Liquidated Because an Oracle Moved: Pendle's Reminder That Price Feeds Are Still the Weak Link",
-      "why_now": "A same-day $36M liquidation cascade tied to an oracle move is a textbook example of DeFi's recurring single-point-of-failure problem.",
-      "angle": "Short, sharp postmortem connecting this incident to the long history of oracle-triggered liquidation cascades — 'we've seen this movie before'",
-      "source": "https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million"
+      "title": "Bithumb Just Won the Case That Should Terrify Every Exchange's Ops Team",
+      "why_now": "A court ruling on a 620,000 BTC fat-finger error sets real legal precedent for who eats the cost of operational mistakes at custodians.",
+      "angle": "Legal/security crossover analysis: what the ruling means for exchange liability and why 'fat finger' risk is a security problem, not just an ops one",
+      "source": "https://www.theblock.co/news/regulation/2026-08-27-bithumb-wins-lawsuit-btc-412893"
     },
     {
-      "title": "Extreme Greed Is Back for the First Time Since the $19B Wipeout — Here's What Always Happens Next",
-      "why_now": "The fear/greed gauge just hit its highest reading since the pre-crash euphoria of October, giving this channel's 'already know how this ends' framing a perfect market-psychology hook.",
-      "angle": "Data-driven markets piece pairing the greed index spike with historical drawdown patterns, framed as a security-minded warning rather than a price call",
-      "source": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout"
+      "title": "The First Quantum-Resistant Bitcoin Transaction Just Happened — Nobody Panicked, Which Is the Point",
+      "why_now": "StarkWare's milestone lands right as bulls debate $80K, giving a chance to reframe the quantum threat as already-priced infrastructure work, not doomsday speculation.",
+      "angle": "'Already priced' framing piece: what this transaction proves, what it doesn't, and why the migration timeline matters more than the headline",
+      "source": "https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863"
     }
   ]
 }

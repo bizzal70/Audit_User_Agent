@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-26T11:08:57+00:00",
+  "generated": "2026-08-27T14:41:11+00:00",
   "plays": [
     {
-      "story": "D&D: Warlock video game debuts first gameplay footage, confirmed to be set in Ravenloft",
+      "story": "Original Dark Sun creators are officially updating their Dragon Kings setting for 5E, reviving one of TTRPG's most beloved post-apocalyptic worlds",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'D&D's New Warlock Game Just Showed Us How NOT to Run Pact Magic at Your Table' — break down the gameplay footage's spellcasting/pact mechanics and translate what actually works (or doesn't) for tabletop warlocks.",
-        "itsalreadywritten": "'Ravenloft Gets a Video Game — Here's the Domain of Dread Lore It's Borrowing (and Butchering)' — a lore-nerd teardown of how faithfully the trailer's setting matches the Ravenloft canon."
+        "bizzal-games": "\"Dark Sun's Dragon Kings Return: A DM's Guide to Running Athas in 5E\" — break down how the classic defiler/preserver magic system, psionics, and survival-brutal ecology translate into 5E mechanics, with practical conversion tips for tables wanting that grim desert vibe.",
+        "itsalreadywritten": "\"The World That Refused to Die: Dragon Kings' Return to Dark Sun's Untold Lore\" — a narrative deep-dive on the setting's legendary worldbuilding (sorcerer-kings, dying sun, slave revolts) and what its original creators are choosing to preserve vs. reinvent for a new generation of readers/players."
+      },
+      "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
+    },
+    {
+      "story": "D&D: Warlock reveals first gameplay footage, confirmed to be set in Ravenloft",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "\"What D&D: Warlock's Ravenloft Gameplay Just Taught Us About Running Gothic Horror at the Table\" — mine the footage for encounter design, fog/mist mechanics, and dread-building tricks GMs can steal for their own Curse of Strahd sessions.",
+        "itsalreadywritten": "\"Strahd's Realm, Reimagined: How D&D: Warlock Reinterprets Ravenloft's Gothic Legacy\" — a lore-focused look at how the game's take on the Demiplane of Dread stacks up against decades of Ravenloft fiction and source material."
       },
       "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
     },
     {
-      "story": "This week's RPG crowdfunding roundup spotlights Crows, Cypher System expansions, and Monsters of Rend World",
+      "story": "This week's RPG crowdfunding roundup features Crows, Cypher, Monsters of Rend World, and more indie campaigns worth backer attention",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'5 TTRPG Kickstarters Worth Your Money This Week: Crows, a Cypher Refresh, and Rend World's New Bestiary' — a buyer's-guide style rundown ranking the campaigns by table-value.",
-        "itsalreadywritten": "'Monsters of Rend World: The Crowdfunded Bestiary Quietly Building 2026's Best New Setting' — dig into the lore/worldbuilding behind Rend World's monster design as a setting showcase."
+        "bizzal-games": "\"Backer's Radar: The Crunchiest Systems in This Week's RPG Crowdfunding Slate\" — rank the campaigns by mechanical innovation (Cypher-adjacent systems, Monsters of Rend World's creature-building rules) for GMs hunting new toolkits.",
+        "itsalreadywritten": "\"Worlds Worth Funding: The Standout Settings in This Week's TTRPG Crowdfunding Wave\" — spotlight the strongest lore and setting concepts among Crows and Rend World, framed as 'stories you can help write into existence.'"
       },
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-crows-cypher-monsters-of-rend-world-and-more.720438/"
     },
     {
-      "story": "Galaxy pegs Coldcard hardware wallet hack losses at 1,789 BTC, with 87% still unmoved on-chain",
+      "story": "AI-generated bug reports triggered an emergency warning for Bitcoin Lightning node operators, exposing a new AI-driven attack surface in crypto infrastructure",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'1,789 BTC Frozen in Plain Sight: What the Coldcard Hack Tells Us About On-Chain Forensics' — trace the unmoved funds and what it signals for BTC supply/price psychology.",
-        "itsalreadywhen": "'The Cold Wallet That Got Hot: Inside the Coldcard Hack and What It Means for Hardware Supply Chains' — treat it as a hardware-security failure story, not just a crypto-market one."
+        "itsalreadypriced": "\"AI Just Sent Bitcoin Lightning Node Operators Into Emergency Mode — What It Means for Your BTC Stack\" — explain the market/investor angle: how infra scares like this ripple into custody risk, exchange liquidity, and why traders watching the $79k-$83k range should care about node-level vulnerabilities.",
+        "itsalreadywhen": "\"When AI Writes Your Vulnerability Reports: The Lightning Network Emergency Patch, Explained\" — dig into the security mechanics: how AI-generated bug reports created false urgency (or real risk), what it reveals about AI's growing role in vuln disclosure pipelines, and lessons for infra teams bracing for more of this."
       },
-      "source": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "Same week, Iran runs a two-front offensive — OFAC sanctions crypto-for-oil payment networks while Iran-linked hackers knock out a UK power plant",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Crypto-for-Oil: Inside OFAC's New Sanctions on Iran's Intelligence Ministry — and the Wallets That Move the Money' — map the sanctioned crypto rails and what it means for exchanges' compliance risk.",
-        "itsalreadywhen": "'Same Regime, Same Week: Iran's Hackers Just Took Down a UK Power Plant — Are the Sanctions Even Working?' — tie the OFAC action to the live critical-infrastructure attack as evidence of a coordinated state threat actor."
-      },
-      "source": "https://www.chainalysis.com/blog/ofac-iran-oil-payments-august-2026/"
+      "source": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators"
     }
   ]
 }

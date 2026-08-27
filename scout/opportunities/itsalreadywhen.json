@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-26T11:08:57+00:00",
+  "generated": "2026-08-27T14:41:11+00:00",
   "opportunities": [
     {
-      "title": "Oracle Patched Everything. They Got Breached Anyway — Inside CISA's 3-Day 'Perfect 10' Scramble",
-      "why_now": "Two Oracle stories break same day: a critical CVSS-10 flaw with the tightest CISA deadline ever, and proof that full patch compliance didn't stop an attack.",
-      "angle": "Explainer + timeline mashup: what the CVE is, why 3-day patching exists, and why patching alone isn't enough — classic 'inevitable breach' framing",
+      "title": "1,449 Patches, Still Pwned: Inside the Oracle Flaw That Made Full Compliance Worthless",
+      "why_now": "A fresh Register report shows an org that applied every single Oracle patch got hit anyway, exposing the gap between 'patched' and 'secure.'",
+      "angle": "Breach-digest deep dive on patch-cadence theater — pair with CISA's 3-day emergency directive on the same perfect-10 Oracle flaw to show the before/after urgency curve.",
+      "source": "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335"
+    },
+    {
+      "title": "CISA's Fastest-Ever Patch Clock: 3 Days to Fix a Perfect-10 Oracle Bug",
+      "why_now": "CISA just issued its tightest patching deadline on record for a critical Oracle flaw, days after news broke that full patching still wasn't enough.",
+      "angle": "Ticking-clock explainer with a timeline graphic: CVE disclosure → exploitation → CISA directive → patch deadline, framed as 'the inevitable breach' countdown.",
       "source": "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107"
     },
     {
-      "title": "Iran Just Turned Off a UK Power Plant — Critical Infrastructure Is Not Hypothetical Anymore",
-      "why_now": "A nation-state actor successfully shut down UK energy infrastructure, and the US just sanctioned the group behind similar attacks — this is the story that makes ICS risk real.",
-      "angle": "Breaking-news style breakdown of the attack chain + tie-in to US sanctions announcement for narrative arc",
-      "source": "https://www.theregister.com/security/2026/08/24/iran-linked-cyberattack-shut-down-a-uk-power-plant/5291930"
+      "title": "Boston Scientific's 'Global Disruption': When a Cyberattack Hits Medical Device Supply Chains",
+      "why_now": "An ongoing, still-unfolding cyberattack at a major medical device maker is causing worldwide operational disruption, a rare live-breach situation worth tracking in real time.",
+      "angle": "Live-breach tracker post updated as details emerge — tie to broader 2026 trend of critical-infrastructure-adjacent manufacturers getting hit.",
+      "source": "https://www.theregister.com/security/2026/08/26/boston-scientific-discloses-global-disruption-in-ongoing-cyberattack/5292641"
     },
     {
-      "title": "Gitea's Critical RCE Is Already Being Exploited to Mine Crypto — Here's the Patch Window You Have Left",
-      "why_now": "CISA warning + three separate outlets (Register/HN/Bleeping) confirm active exploitation dropping miner payloads within days of disclosure.",
-      "angle": "Patch-cadence urgency post: CVE details, exploitation timeline, what to check right now if you self-host Gitea",
-      "source": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html"
+      "title": "ShinyHunters Said 26M Carhartt Records, Reality Was 12.9M — The Breach Math Doesn't Add Up",
+      "why_now": "Carhartt's confirmed breach total is half of what the extortion group claimed, a clean data point for the recurring 'threat actors lie about scale' story.",
+      "angle": "Breach-claim vs. reality comparison chart, with a running tally of how often ShinyHunters/other groups inflate victim counts.",
+      "source": "https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626"
     },
     {
-      "title": "Sleepwalker: The Windows Backdoor That Does Nothing Until One Packet Wakes It Up",
-      "why_now": "Fresh technical disclosure of a dormant backdoor triggered by a single crafted packet — a genuinely novel evasion technique worth explaining to readers.",
-      "angle": "Threat-actor deep dive: how the trigger mechanism works, detection difficulty, and why 'quiet' malware is the new normal",
-      "source": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html"
-    },
-    {
-      "title": "Mirage2FA Just Hit 4,500 Companies by Abusing the MFA You Trust Most",
-      "why_now": "A live phishing campaign is defeating Microsoft 365 MFA at scale right now, directly undercutting the 'MFA = safe' assumption security teams rely on.",
-      "angle": "Pair with SecurityWeek's MFA Identity Trap piece for a 'your MFA isn't saving you' feature with concrete IOCs and defense tips",
-      "source": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html"
+      "title": "100+ Water Utilities Hacked in One Month: July's Quiet Critical-Infrastructure Crisis",
+      "why_now": "New reporting reveals over 100 water systems were compromised in July alone, a scale that's easy to miss amid bigger-name breaches but signals systemic exposure.",
+      "angle": "Data-driven roundup mapping attack count against known ICS/OT vulnerabilities and patch cadence for water utilities — the 'nobody's watching this' angle.",
+      "source": "https://www.theregister.com/cyber-crime/2026/08/26/more-than-100-water-systems-were-hit-in-july-cyberattacks/5292685"
     }
   ]
 }
