@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-27T14:41:11+00:00",
+  "generated": "2026-08-28T15:00:24+00:00",
   "opportunities": [
     {
-      "title": "The Long Rest Rule Half of You Are Already Houseruling Wrong",
-      "why_now": "A new D&D tavern-sim just made 'long rest' cozy again, but the actual 5e rule (one long rest per 24 hrs, interrupted by 1hr+ of combat/spellcasting) trips up more tables than any other resource rule.",
-      "angle": "60-sec 'ruling of the day': read the exact PHB long rest interruption clause, give the classic 'watch got attacked at hour 7' ruling.",
+      "title": "Long Rest Tavern Wants Cozy — Here's What a Long Rest Actually Resets (5e RAW)",
+      "why_now": "A cozy D&D business-sim built around 'long rest' just got announced, making it a timely hook to correct common long-rest misplays.",
+      "angle": "60-second RAW breakdown: what resets, what doesn't, and the one houserule DMs get wrong every session.",
       "source": "https://www.enworld.org/threads/dungeons-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
     },
     {
-      "title": "Dark Sun's Defiler Magic Would Break 5e's Spell Slots — Here's the Fix",
-      "why_now": "The original Dark Sun creators just announced a 5e conversion of their Athasian setting, reviving the defiler/preserver magic split that vanilla 5e has no rules for.",
-      "angle": "Mechanical breakdown: propose a clean 5e subsystem (extra damage die vs. terrain drain) as a 'if you're bringing Dark Sun to 5e, steal this' short.",
+      "title": "Dark Sun's Back in 5e — Here's How to Rule Defiler Magic Without Breaking the Table",
+      "why_now": "The original Dark Sun creators just announced a 5e update to their Dragon Kings setting, reviving interest in defiler/preserver magic mechanics.",
+      "angle": "One dry ruling: an optional 5e subsystem for defiling damage/environmental cost, framed as 'if you're gonna run Dark Sun, do it right.'",
       "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
     },
     {
-      "title": "Warlock's New Game Is Set in Ravenloft — So Here's How the Mists Actually Trap You (RAW)",
-      "why_now": "First gameplay footage for the D&D Warlock game just dropped confirming a Ravenloft setting, and most tables misplay the Mists as 'just fog' instead of the sentient plot device it is in 5e's Domains rules.",
-      "angle": "Rules ruling short: how Domains of Dread pull PCs in/out per Van Richten's, and the correct Dark Lord 'testing' trigger.",
+      "title": "New Warlock Video Game Is Ravenloft-Set — Steal This Curse Tactic for Your Table",
+      "why_now": "First gameplay footage for the Ravenloft-based Warlock game just dropped, giving a hook to talk real domain-of-dread mechanics.",
+      "angle": "Creature/NPC tactic short: how to run a Mists escape check or curse-bound villain in 5e/Shadowdark using the game's premise as bait.",
       "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
     },
     {
-      "title": "Arcana Unleashed's Deadfall Preview Has a Spell That Actually Solves the Fall Damage Problem",
-      "why_now": "The Arcana Unleashed: Deadfall preview just went up showcasing new spell content aimed at fall/environmental hazards, a use-case veteran GMs constantly improvise around.",
-      "angle": "Spell use-case short: compare RAW fall damage math to the new spell's fix, verdict on whether it's worth porting into a home 5e/Shadowdark game.",
-      "source": "https://www.enworld.org/threads/arcana-unleashed-arcana-unleashed-deadfall-preview.720419/"
+      "title": "Your Table's Getting Older — One Ruling That Saves a Legacy Campaign",
+      "why_now": "Gnome Stew's fresh 'As Your Table Ages' piece hits on long-running group fatigue, which is prime material for a mechanical fix.",
+      "angle": "Wry veteran GM ruling: an optional retirement/legacy-bonus rule for aging PCs that doesn't wreck encounter balance.",
+      "source": "https://gnomestew.com/as-your-table-ages/"
     },
     {
-      "title": "Improvising Rules Mid-Session Without Breaking Your Table (DCC/Shadowdark Edition)",
-      "why_now": "Gnomecast 244 just dropped a full episode on worldbuilding in the moment, a direct hit for the daily 'ruling of the day' format on how to adjudicate fast under OSR-style light rulesets.",
-      "angle": "Wry veteran-GM take: one concrete on-the-fly ruling example (e.g., improvised trap DC) contrasted between DCC judge-call style vs. 5e's codified DCs.",
-      "source": "https://gnomestew.com/gnomecast-244-worldbuilding-in-the-moment/"
+      "title": "This Week's Crowdfunds Are Stuffed With New Monsters — Here's a Rend World Tactic Worth Stealing",
+      "why_now": "EN World's crowdfunding roundup flags Monsters of Rend World among this week's fresh releases, a natural tie-in for a creature-tactic segment.",
+      "angle": "Plug-and-play creature tactic short adapting a Rend World-style monster concept for Shadowdark or DCC play.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-crows-cypher-monsters-of-rend-world-and-more.720438/"
     }
   ]
 }

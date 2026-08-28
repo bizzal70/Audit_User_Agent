@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-27T14:41:11+00:00",
+  "generated": "2026-08-28T15:00:24+00:00",
   "plays": [
     {
-      "story": "Original Dark Sun creators are officially updating their Dragon Kings setting for 5E, reviving one of TTRPG's most beloved post-apocalyptic worlds",
+      "story": "D&D reveals first gameplay footage for its new Warlock video game, confirmed to be set in Ravenloft",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "\"Dark Sun's Dragon Kings Return: A DM's Guide to Running Athas in 5E\" — break down how the classic defiler/preserver magic system, psionics, and survival-brutal ecology translate into 5E mechanics, with practical conversion tips for tables wanting that grim desert vibe.",
-        "itsalreadywritten": "\"The World That Refused to Die: Dragon Kings' Return to Dark Sun's Untold Lore\" — a narrative deep-dive on the setting's legendary worldbuilding (sorcerer-kings, dying sun, slave revolts) and what its original creators are choosing to preserve vs. reinvent for a new generation of readers/players."
-      },
-      "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
-    },
-    {
-      "story": "D&D: Warlock reveals first gameplay footage, confirmed to be set in Ravenloft",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "\"What D&D: Warlock's Ravenloft Gameplay Just Taught Us About Running Gothic Horror at the Table\" — mine the footage for encounter design, fog/mist mechanics, and dread-building tricks GMs can steal for their own Curse of Strahd sessions.",
-        "itsalreadywritten": "\"Strahd's Realm, Reimagined: How D&D: Warlock Reinterprets Ravenloft's Gothic Legacy\" — a lore-focused look at how the game's take on the Demiplane of Dread stacks up against decades of Ravenloft fiction and source material."
+        "bizzal-games": "First Look: D&D's New Warlock Game Turns Ravenloft Into a Gothic Horror RPG — What Tabletop GMs Should Steal From the Footage",
+        "itsalreadywritten": "Ravenloft Goes Digital: What D&D's Warlock Reveal Tells Us About Writing Horror Campaigns That Actually Scare Players"
       },
       "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
     },
     {
-      "story": "This week's RPG crowdfunding roundup features Crows, Cypher, Monsters of Rend World, and more indie campaigns worth backer attention",
+      "story": "Original Dark Sun creators are updating their Dragon Kings setting for 5E",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "\"Backer's Radar: The Crunchiest Systems in This Week's RPG Crowdfunding Slate\" — rank the campaigns by mechanical innovation (Cypher-adjacent systems, Monsters of Rend World's creature-building rules) for GMs hunting new toolkits.",
-        "itsalreadywritten": "\"Worlds Worth Funding: The Standout Settings in This Week's TTRPG Crowdfunding Wave\" — spotlight the strongest lore and setting concepts among Crows and Rend World, framed as 'stories you can help write into existence.'"
+        "bizzal-games": "Dark Sun Is Back: The Original Creators Bring Dragon Kings to 5E — Here's What Your Next Desert Apocalypse Campaign Needs",
+        "itsalreadywritten": "Dragon Kings Returns After Decades: A Masterclass in Reviving Post-Apocalyptic Worldbuilding for a New Rules Edition"
       },
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-crows-cypher-monsters-of-rend-world-and-more.720438/"
+      "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
     },
     {
-      "story": "AI-generated bug reports triggered an emergency warning for Bitcoin Lightning node operators, exposing a new AI-driven attack surface in crypto infrastructure",
+      "story": "OneKey reproduces a transaction replacement attack on outdated Ledger Ethereum firmware, exposing hardware wallet vulnerabilities",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "\"AI Just Sent Bitcoin Lightning Node Operators Into Emergency Mode — What It Means for Your BTC Stack\" — explain the market/investor angle: how infra scares like this ripple into custody risk, exchange liquidity, and why traders watching the $79k-$83k range should care about node-level vulnerabilities.",
-        "itsalreadywhen": "\"When AI Writes Your Vulnerability Reports: The Lightning Network Emergency Patch, Explained\" — dig into the security mechanics: how AI-generated bug reports created false urgency (or real risk), what it reveals about AI's growing role in vuln disclosure pipelines, and lessons for infra teams bracing for more of this."
+        "itsalreadypriced": "Your Ledger Might Be Lying to You: OneKey Just Proved a Classic Transaction-Swap Attack Still Works on Old Firmware",
+        "itsalreadywhen": "Transaction Replacement Attacks Are Back: What OneKey's Ledger Exploit Reveals About Hardware Wallet Security Debt"
       },
-      "source": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators"
+      "source": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "The Sandbox suffers a $700K bridge exploit and pledges 1:1 user repayment",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "The Sandbox Vows Full Repayment After $700K Bridge Hack — Can a Metaverse Buy Back Trust?",
+        "itsalreadywhen": "Another Bridge Falls: How Attackers Drained $700K From The Sandbox and What It Means for Cross-Chain Security"
+      },
+      "source": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

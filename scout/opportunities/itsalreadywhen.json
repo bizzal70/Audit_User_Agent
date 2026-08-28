@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-27T14:41:11+00:00",
+  "generated": "2026-08-28T15:00:24+00:00",
   "opportunities": [
     {
-      "title": "1,449 Patches, Still Pwned: Inside the Oracle Flaw That Made Full Compliance Worthless",
-      "why_now": "A fresh Register report shows an org that applied every single Oracle patch got hit anyway, exposing the gap between 'patched' and 'secure.'",
-      "angle": "Breach-digest deep dive on patch-cadence theater — pair with CISA's 3-day emergency directive on the same perfect-10 Oracle flaw to show the before/after urgency curve.",
-      "source": "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335"
+      "title": "PaperCut's 0-Day Diary: From 'Under Attack' to 'Emergency Patch' in 24 Hours — Are You Still Exposed?",
+      "why_now": "PaperCut confirmed active zero-day exploitation and rushed an emergency patch within a day, giving admins a live, ticking-clock story.",
+      "angle": "Timeline breakdown + patch-now checklist for all NG/MF versions still unpatched",
+      "source": "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168"
     },
     {
-      "title": "CISA's Fastest-Ever Patch Clock: 3 Days to Fix a Perfect-10 Oracle Bug",
-      "why_now": "CISA just issued its tightest patching deadline on record for a critical Oracle flaw, days after news broke that full patching still wasn't enough.",
-      "angle": "Ticking-clock explainer with a timeline graphic: CVE disclosure → exploitation → CISA directive → patch deadline, framed as 'the inevitable breach' countdown.",
-      "source": "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107"
+      "title": "Three CVSS 10.0s in One Product: ServiceNow's Trifecta of 'Just Take the Whole Server'",
+      "why_now": "A trio of maximum-severity, unauthenticated RCE/SQLi flaws in a platform millions of enterprises run for ITSM is about as bad as CVSS scoring gets.",
+      "angle": "Explainer on what unauthenticated CVSS 10 actually means for attack chains + patch urgency ranking",
+      "source": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html"
     },
     {
-      "title": "Boston Scientific's 'Global Disruption': When a Cyberattack Hits Medical Device Supply Chains",
-      "why_now": "An ongoing, still-unfolding cyberattack at a major medical device maker is causing worldwide operational disruption, a rare live-breach situation worth tracking in real time.",
-      "angle": "Live-breach tracker post updated as details emerge — tie to broader 2026 trend of critical-infrastructure-adjacent manufacturers getting hit.",
-      "source": "https://www.theregister.com/security/2026/08/26/boston-scientific-discloses-global-disruption-in-ongoing-cyberattack/5292641"
+      "title": "CISA Says We've Known How to Fix These Bugs Since the Disco Era — So Why Are They Still Top Exploited?",
+      "why_now": "CISA's blunt admission that decades-old, well-understood vulnerability classes remain the most exploited lands the same week PaperCut and ServiceNow prove the point.",
+      "angle": "Op-ed style digest tying CISA's report directly to the week's live 0-days as receipts",
+      "source": "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194"
     },
     {
-      "title": "ShinyHunters Said 26M Carhartt Records, Reality Was 12.9M — The Breach Math Doesn't Add Up",
-      "why_now": "Carhartt's confirmed breach total is half of what the extortion group claimed, a clean data point for the recurring 'threat actors lie about scale' story.",
-      "angle": "Breach-claim vs. reality comparison chart, with a running tally of how often ShinyHunters/other groups inflate victim counts.",
-      "source": "https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626"
+      "title": "Your Router Shipped With a Backdoor: ZBT's China-Made Devices Have Root Access Built In",
+      "why_now": "Two separate implants granting unauthenticated root access on widely-sold ZBT routers is a supply-chain nightmare landing alongside broader 'Chinese routers worldwide' reporting.",
+      "angle": "Supply-chain threat breakdown + 'how to check if your router is on the list' service piece",
+      "source": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html"
     },
     {
-      "title": "100+ Water Utilities Hacked in One Month: July's Quiet Critical-Infrastructure Crisis",
-      "why_now": "New reporting reveals over 100 water systems were compromised in July alone, a scale that's easy to miss amid bigger-name breaches but signals systemic exposure.",
-      "angle": "Data-driven roundup mapping attack count against known ICS/OT vulnerabilities and patch cadence for water utilities — the 'nobody's watching this' angle.",
-      "source": "https://www.theregister.com/cyber-crime/2026/08/26/more-than-100-water-systems-were-hit-in-july-cyberattacks/5292685"
+      "title": "ATF Confirms 'Major' Cyber Incident — Ransomware Gang Claims Score Against Federal Firearms Regulator",
+      "why_now": "A US federal law enforcement agency confirming a ransomware-linked breach is a rare, high-profile admission worth tracking as details emerge.",
+      "angle": "Breaking-news style breach tracker: what's confirmed vs. what the gang claims, updated as facts land",
+      "source": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/"
     }
   ]
 }
