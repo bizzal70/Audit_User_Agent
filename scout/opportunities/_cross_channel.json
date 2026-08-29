@@ -1,53 +1,53 @@
 {
-  "generated": "2026-08-28T15:00:24+00:00",
+  "generated": "2026-08-29T11:06:42+00:00",
   "plays": [
     {
-      "story": "D&D reveals first gameplay footage for its new Warlock video game, confirmed to be set in Ravenloft",
+      "story": "Monte Cook Games pulls a promotional video and issues a public statement after backlash over undisclosed AI-generated assets in the clip.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "First Look: D&D's New Warlock Game Turns Ravenloft Into a Gothic Horror RPG — What Tabletop GMs Should Steal From the Footage",
-        "itsalreadywritten": "Ravenloft Goes Digital: What D&D's Warlock Reveal Tells Us About Writing Horror Campaigns That Actually Scare Players"
+        "bizzal-games": "'We Replaced the Video': Inside Monte Cook Games' AI Marketing Misstep — what the walkback reveals about how TTRPG studios vet promo content, and a checklist for publishers who don't want to be next.",
+        "itsalreadywritten": "Read the Apology Like a Designer: Line-by-Line Breakdown of Monte Cook's AI Statement — how a company known for its prose handled its own crisis writing, and what it says about authorship anxiety in the industry."
       },
-      "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
+      "source": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/"
     },
     {
-      "story": "Original Dark Sun creators are updating their Dragon Kings setting for 5E",
+      "story": "The original Dark Sun creators are updating their Dragon Kings setting to run on 5E, bringing a classic post-apocalyptic world back to modern tables.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Dark Sun Is Back: The Original Creators Bring Dragon Kings to 5E — Here's What Your Next Desert Apocalypse Campaign Needs",
-        "itsalreadywritten": "Dragon Kings Returns After Decades: A Masterclass in Reviving Post-Apocalyptic Worldbuilding for a New Rules Edition"
+        "bizzal-games": "Dragon Kings Rises Again: What the 5E Conversion Means for Your Athas Campaign — mechanical changes GMs need to know before running it.",
+        "itsalreadywritten": "Same World, New Rules: How Dark Sun's Original Writers Are Protecting Dragon Kings' Voice in the 5E Jump — a look at adapting decades-old lore without losing what made it dangerous."
       },
       "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
     },
     {
-      "story": "OneKey reproduces a transaction replacement attack on outdated Ledger Ethereum firmware, exposing hardware wallet vulnerabilities",
+      "story": "OneKey researchers reproduce a transaction-replacement attack against outdated Ledger Ethereum app firmware, exposing users who haven't updated.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Your Ledger Might Be Lying to You: OneKey Just Proved a Classic Transaction-Swap Attack Still Works on Old Firmware",
-        "itsalreadywhen": "Transaction Replacement Attacks Are Back: What OneKey's Ledger Exploit Reveals About Hardware Wallet Security Debt"
+        "itsalreadypriced": "Your Ledger Might Be Lying to You: The Transaction-Replacement Attack That Swaps Your Payout Address — what holders need to check before their next send.",
+        "itsalreadywhen": "Old Firmware, Live Exploit: Researchers Just Proved Ledger's Ethereum App Can Be Hijacked Mid-Signing — a patch-now warning with the technical breakdown."
       },
       "source": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "The Sandbox suffers a $700K bridge exploit and pledges 1:1 user repayment",
+      "story": "A known Cosmos EVM vulnerability that Cosmos Labs had already flagged internally was exploited before every affected chain patched, turning a disclosed risk into a live incident.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "The Sandbox Vows Full Repayment After $700K Bridge Hack — Can a Metaverse Buy Back Trust?",
-        "itsalreadywhen": "Another Bridge Falls: How Attackers Drained $700K From The Sandbox and What It Means for Cross-Chain Security"
+        "itsalreadypriced": "Cosmos Labs Knew. Chains Got Hit Anyway: Inside the EVM Flaw That Turned a Warning Into a Loss — what token holders on affected chains should watch for next.",
+        "itsalreadywhen": "The Disclosure Gap That Became an Exploit: Timeline of the Cosmos EVM Bug Cosmos Labs Saw Coming — a case study in why 'we knew' isn't the same as 'we patched.'"
       },
-      "source": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
     }
   ]
 }

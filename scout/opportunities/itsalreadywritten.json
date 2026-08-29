@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-28T15:00:24+00:00",
+  "generated": "2026-08-29T11:06:42+00:00",
   "opportunities": [
     {
-      "title": "Dragon Kings' 5E Conversion: What Happens to Defiling and Psionics When Original Dark Sun Creators Do the Math",
-      "why_now": "The original Dark Sun designers just published their own 5E update, making this the first authoritative test of whether 5E's chassis can handle Athas's signature mechanics.",
-      "angle": "Rules breakdown comparing 2E Dark Sun subsystems (defiling, psionics-as-class) to their 5E translation, with a verdict on fidelity",
+      "title": "Monte Cook Games Pulls AI-Tainted Trailer: What the Statement Actually Admits (And Doesn't)",
+      "why_now": "MCG's public walk-back after fan backlash over AI assets is a live credibility story in the RPG industry right now.",
+      "angle": "Rules-first breakdown: quote the statement verbatim, annotate what's promised vs. vague, tie to broader 'AI disclosure' debate in TTRPG publishing",
+      "source": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/"
+    },
+    {
+      "title": "Dragon Kings Is Dark Sun's Spiritual Heir — Here's What Changes Mechanically for 5E",
+      "why_now": "The original Dark Sun creators just announced a 5E conversion, giving longtime fans a concrete new setting to evaluate against 2e canon.",
+      "angle": "Comparative rules analysis: defiling magic, mutant PC options, survival mechanics — what's kept, what's modernized for 5E math",
       "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
     },
     {
-      "title": "Ravenloft's Rules Say Barovia Traps You — Does D&D's New Warlock Game Know That?",
-      "why_now": "First gameplay footage for the Warlock game just dropped and it's explicitly set in Ravenloft, inviting a rules-accuracy check against tabletop's Mists mechanics.",
-      "angle": "Tabletop-vs-adaptation ledger: pull the actual Curse of Strahd/Van Richten's domain rules and score what the trailer gets right or invents",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
+      "title": "D&D Goes Cozy: What Long Rest Tavern Says About Where the Brand Is Headed",
+      "why_now": "A licensed D&D business-sim breaking from combat/dungeon norms signals a strategic pivot in how the IP gets extended beyond tabletop rules.",
+      "angle": "News analysis with a rules-lens: how does a 'cozy sim' relate to (or ignore) actual 5E mechanics, and what does that mean for brand-adjacent content",
+      "source": "https://www.enworld.org/threads/dungeons-d-and-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
     },
     {
-      "title": "Cypher System Keeps Shipping: A Rules-First Look at the Crowdfunding Roundup's Crunchiest Bets",
-      "why_now": "This week's crowdfunding digest bundles new Cypher System and Monsters of Rend World content, both worth vetting before backers commit.",
-      "angle": "Quick-hit mechanical previews of what each funded system actually adds to its ruleset, not just flavor text",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-crows-cypher-monsters-of-rend-world-and-more.720438/"
-    },
-    {
-      "title": "Dark Heresy's Voice Cast Is Set — Here's What the Original Tabletop Rules Demand From These Characters",
-      "why_now": "The first voice cast reveal for the Dark Heresy adaptation is a hook to revisit what the source RPG's Acolyte careers and Insanity/Corruption rules actually require of these roles.",
-      "angle": "Explainer pairing cast announcement with a primer on the tabletop system's core mechanics it's adapting",
-      "source": "https://www.rpgsite.net/news/21228-warhammer-40000-dark-heresy-reveals-first-round-its-voice-cast"
-    },
-    {
-      "title": "'As Your Table Ages' Is Really an Argument for Rules-Lite Onboarding — Here's the System Angle",
-      "why_now": "Gnome Stew's fresh analysis on aging tables is generating discussion, and it under-addresses how rule complexity itself is a barrier worth naming directly.",
-      "angle": "Response/rebuttal post citing specific rules-crunch thresholds (initiative complexity, character sheet load) that push aging groups toward lighter systems",
+      "title": "The Rules Don't Age — But Your Table Does: A Framework for GMing Long-Term Groups",
+      "why_now": "Gnome Stew's fresh analysis on aging tables is a rare piece tackling group longevity, a topic rules-first voices can sharpen with concrete house-rule fixes.",
+      "angle": "Response/rebuttal essay: pull out 3 concrete rule adjustments (session zero updates, pacing houserules, retirement mechanics) that address the aging-table problems raised",
       "source": "https://gnomestew.com/as-your-table-ages/"
+    },
+    {
+      "title": "This Week in TTRPG: The One Digest Item Every GM Needs to Know",
+      "why_now": "The Aug 28 EN World digest aggregates the week's scattered news, giving a natural hook to distill it into one authoritative rules-adjacent roundup.",
+      "angle": "Curated digest-of-the-digest: pick 3 items with direct rules/mechanics implications and explain the 'so what' for GMs prepping sessions this week",
+      "source": "https://www.enworld.org/threads/news-digest-for-august-28-2026.720476/"
     }
   ]
 }

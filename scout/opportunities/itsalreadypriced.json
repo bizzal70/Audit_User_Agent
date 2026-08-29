@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-28T15:00:24+00:00",
+  "generated": "2026-08-29T11:06:42+00:00",
   "opportunities": [
     {
-      "title": "Ledger says 'we weren't hacked'—but if you didn't update, you were exposed",
-      "why_now": "OneKey just reproduced a live transaction-replacement exploit against outdated Ledger Ethereum apps, and Ledger's rebuttal that it was 'already patched' is the real story for anyone who hasn't updated firmware in months.",
-      "angle": "Security explainer: walk through the attack mechanics, why 'patched' doesn't help users who never update, and a checklist to verify your Ledger app version right now.",
+      "title": "Another Trump Coin, Another Rug: GOLD Token Followed the Script to the Letter",
+      "why_now": "A Trump-promoted account touted GOLD right before the token collapsed, matching a pattern this channel has called every time.",
+      "angle": "Autopsy thread: timeline of the promotion-to-collapse, overlay with prior Trump-linked token charts to show the copy-paste playbook",
+      "source": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Your Ledger Isn't Safe If You Skipped the Update: Transaction Replacement Attack Reproduced Live",
+      "why_now": "OneKey just proved a working exploit against outdated Ledger Ethereum apps that lets attackers swap transaction details post-signing.",
+      "angle": "Security explainer with step-by-step of the attack + a blunt checklist: how to verify your firmware version right now",
       "source": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$8.7M gone in one price manipulation: how Moonwell's oracle got played on Base",
-      "why_now": "A fresh, quantifiable DeFi exploit (MAMO price manipulation) just hit Moonwell, offering a concrete case study while the wound is still open.",
-      "angle": "Post-mortem breakdown of the oracle/price manipulation vector, contrasted with 'this keeps happening' pattern across lending protocols—end with a checklist for evaluating collateral oracle risk before you deposit.",
-      "source": "https://thedefiant.io/news/hacks/moonwell-loses-8-7-million-to-mamo-price-manipulation-on-base"
-    },
-    {
-      "title": "Kraken locked users out over sanctioned funds—your compliance exposure isn't hypothetical anymore",
-      "why_now": "Users were briefly frozen after a flood of sanctioned transactions hit Kraken, a real-time demonstration of how OFAC exposure can lock retail accounts with zero warning.",
-      "angle": "Security/compliance piece: explain how sanctioned-address contamination spreads through mixers/exchanges, and practical steps to avoid getting your account frozen (wallet hygiene, screening tools).",
-      "source": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions"
-    },
-    {
-      "title": "ChatGPT is quietly logging into your accounts—what that means for your seed phrase",
-      "why_now": "OpenAI's agentic ChatGPT signing into accounts without explicit user action is a direct preview of the attack surface AI agents create for anyone storing crypto credentials nearby.",
-      "angle": "Opinion/warning piece connecting agentic AI account access to crypto custody risk—if an agent can sign into your accounts, what happens when one has exchange API keys or a hot wallet extension open?",
-      "source": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you"
-    },
-    {
-      "title": "The Sandbox will make bridge-hack victims whole—but the bridge model is still the weak link",
-      "why_now": "The Sandbox's $700K bridge exploit and 1:1 repayment pledge is fresh and gives a clean hook to revisit why bridges remain crypto's most-hacked category.",
-      "angle": "Analysis: use the incident as a jumping-off point for a 'bridges are still the soft underbelly' piece, tallying cumulative bridge losses and what reimbursement pledges do (and don't) fix.",
+      "title": "The Sandbox Bridge Gets Drained for $700K — Compensation Doesn't Fix the Architecture",
+      "why_now": "Fresh $700K bridge exploit with an immediate 1:1 repayment pledge — the standard 'we'll make you whole' PR move after a preventable hack.",
+      "angle": "Pattern-recognition piece: bridge exploits + compensation pledges as a repeating genre, what actually changed in the code vs. just optics",
       "source": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "1,685 Users, $500K Gone: Live Draining of a Solana Neobank in Real Time",
+      "why_now": "Avici's Rain Card contract was actively exploited with users watching funds disappear in real time — a fresh case study in smart contract failure under live conditions.",
+      "angle": "Incident breakdown: what the exploit targeted, why 'neobank' branding didn't mean bank-grade security, lessons for anyone holding a Rain-style card",
+      "source": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack"
+    },
+    {
+      "title": "$4.7 Billion Underwater: The Receipts on Every Trump Crypto Venture",
+      "why_now": "Public Citizen just quantified what many predicted — investors are billions deep in losses across Trump-branded crypto projects.",
+      "angle": "Data-led post: aggregate the number against the GOLD token collapse and other launches to show the full scoreboard of 'told you so'",
+      "source": "https://www.theblock.co/news/business/2026-08-28-investors-at-least-4-7-billion-underwater-across-trump-crypto-ventures-public-citizen-says-413003"
     }
   ]
 }

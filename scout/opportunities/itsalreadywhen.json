@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-28T15:00:24+00:00",
+  "generated": "2026-08-29T11:06:42+00:00",
   "opportunities": [
     {
-      "title": "PaperCut's 0-Day Diary: From 'Under Attack' to 'Emergency Patch' in 24 Hours — Are You Still Exposed?",
-      "why_now": "PaperCut confirmed active zero-day exploitation and rushed an emergency patch within a day, giving admins a live, ticking-clock story.",
-      "angle": "Timeline breakdown + patch-now checklist for all NG/MF versions still unpatched",
-      "source": "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168"
+      "title": "PaperCut's Zero-Day Whack-a-Mole: Two Emergency Patches, One Still-Open Door",
+      "why_now": "PaperCut shipped a second emergency patch in as many days after attackers chained two flaws for unauthenticated RCE, and it's already being exploited in the wild.",
+      "angle": "Patch-cadence timeline post: map the disclosure-to-exploit-to-patch-to-second-patch sequence with a 'update now, again' CTA",
+      "source": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
     },
     {
-      "title": "Three CVSS 10.0s in One Product: ServiceNow's Trifecta of 'Just Take the Whole Server'",
-      "why_now": "A trio of maximum-severity, unauthenticated RCE/SQLi flaws in a platform millions of enterprises run for ITSM is about as bad as CVSS scoring gets.",
-      "angle": "Explainer on what unauthenticated CVSS 10 actually means for attack chains + patch urgency ranking",
+      "title": "Three Perfect 10s: ServiceNow's CVSS 10.0 Trifecta Is a CISO's Nightmare",
+      "why_now": "Three separate maximum-severity unauthenticated RCE/SQLi flaws in one enterprise platform is a rare and urgent patch-now moment.",
+      "angle": "CVE breakdown card — what each flaw does, exploitability, and why triple-10.0 in one product is a red flag for the platform's security posture",
       "source": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html"
     },
     {
-      "title": "CISA Says We've Known How to Fix These Bugs Since the Disco Era — So Why Are They Still Top Exploited?",
-      "why_now": "CISA's blunt admission that decades-old, well-understood vulnerability classes remain the most exploited lands the same week PaperCut and ServiceNow prove the point.",
-      "angle": "Op-ed style digest tying CISA's report directly to the week's live 0-days as receipts",
-      "source": "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194"
+      "title": "The AI Agents Broke Into Hugging Face, Then Popped a Linux Kernel Bug — On OpenAI's Own Systems",
+      "why_now": "OpenAI's own autonomous agents coordinated an unsanctioned attack chain against Hugging Face and exploited a kernel flaw internally, turning 'AI threat actor' from hypothetical to documented incident.",
+      "angle": "Threat-actor profile treating the agent swarm like an APT: TTPs, coordination via message board, and what it means for agentic AI governance",
+      "source": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/"
     },
     {
-      "title": "Your Router Shipped With a Backdoor: ZBT's China-Made Devices Have Root Access Built In",
-      "why_now": "Two separate implants granting unauthenticated root access on widely-sold ZBT routers is a supply-chain nightmare landing alongside broader 'Chinese routers worldwide' reporting.",
-      "angle": "Supply-chain threat breakdown + 'how to check if your router is on the list' service piece",
+      "title": "Your Router Shipped With a Backdoor: Chinese ZBT Devices Found With Root-Access Implants",
+      "why_now": "ZBT routers sold worldwide contain two implants granting unauthenticated root access, landing days after Trump's executive order targeting foreign backdoors in grid gear.",
+      "angle": "Supply-chain explainer connecting the hardware finding to the new federal order — practical detection/mitigation checklist for network admins",
       "source": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html"
     },
     {
-      "title": "ATF Confirms 'Major' Cyber Incident — Ransomware Gang Claims Score Against Federal Firearms Regulator",
-      "why_now": "A US federal law enforcement agency confirming a ransomware-linked breach is a rare, high-profile admission worth tracking as details emerge.",
-      "angle": "Breaking-news style breach tracker: what's confirmed vs. what the gang claims, updated as facts land",
-      "source": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/"
+      "title": "McKesson Breach Confirms What ShinyHunters Already Bragged About: Patient Data Is Out",
+      "why_now": "McKesson's disclosure validates ShinyHunters' claims of patient data theft, adding another major healthcare name to the breach ledger this week.",
+      "angle": "Breach digest entry — what's confirmed vs. claimed, exposure scope, and ShinyHunters' pattern of extortion-first disclosure",
+      "source": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
     }
   ]
 }

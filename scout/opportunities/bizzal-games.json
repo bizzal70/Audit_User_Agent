@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-28T15:00:24+00:00",
+  "generated": "2026-08-29T11:06:42+00:00",
   "opportunities": [
     {
-      "title": "Long Rest Tavern Wants Cozy — Here's What a Long Rest Actually Resets (5e RAW)",
-      "why_now": "A cozy D&D business-sim built around 'long rest' just got announced, making it a timely hook to correct common long-rest misplays.",
-      "angle": "60-second RAW breakdown: what resets, what doesn't, and the one houserule DMs get wrong every session.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
-    },
-    {
-      "title": "Dark Sun's Back in 5e — Here's How to Rule Defiler Magic Without Breaking the Table",
-      "why_now": "The original Dark Sun creators just announced a 5e update to their Dragon Kings setting, reviving interest in defiler/preserver magic mechanics.",
-      "angle": "One dry ruling: an optional 5e subsystem for defiling damage/environmental cost, framed as 'if you're gonna run Dark Sun, do it right.'",
+      "title": "Dark Sun's Back — Here's the 5e Ruling on Defiling Everyone Forgets",
+      "why_now": "Original Dark Sun creators just announced a 5e conversion of Dragon Kings, reviving interest in defiler/preserver magic mechanics that don't map cleanly to 5e's spell system.",
+      "angle": "60-sec ruling: how to houserule defiling (temp HP drain to terrain, area-of-effect blight) using existing 5e frameworks, tagged to the announcement.",
       "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
     },
     {
-      "title": "New Warlock Video Game Is Ravenloft-Set — Steal This Curse Tactic for Your Table",
-      "why_now": "First gameplay footage for the Ravenloft-based Warlock game just dropped, giving a hook to talk real domain-of-dread mechanics.",
-      "angle": "Creature/NPC tactic short: how to run a Mists escape check or curse-bound villain in 5e/Shadowdark using the game's premise as bait.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/"
+      "title": "An AI Can't Make This Call: Opportunity Attacks in Dim Light",
+      "why_now": "Monte Cook Games' AI-asset controversy is the industry's hot debate this week, giving a natural wry hook to contrast real GM rulings against AI 'good enough' answers.",
+      "angle": "Dry cold-open: 'AI generated my promo video. It still can't rule on this.' Then deliver an actual dim-light/stealth attack ruling using RAW.",
+      "source": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/"
     },
     {
-      "title": "Your Table's Getting Older — One Ruling That Saves a Legacy Campaign",
-      "why_now": "Gnome Stew's fresh 'As Your Table Ages' piece hits on long-running group fatigue, which is prime material for a mechanical fix.",
-      "angle": "Wry veteran GM ruling: an optional retirement/legacy-bonus rule for aging PCs that doesn't wreck encounter balance.",
+      "title": "Long Rest Tavern Is Cozy. Your Long Rest Rules Interruption Isn't.",
+      "why_now": "D&D's new cozy tavern-sim game trends on the exact mechanic GMs argue about most: what breaks a long rest.",
+      "angle": "Use the game announcement as clickbait framing, then deliver the actual RAW ruling on interrupted long rests (1hr combat resets the clock, spell slot recovery timing).",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
+    },
+    {
+      "title": "Your Table Got Older. Your Funnel Should Get Meaner.",
+      "why_now": "Gnome Stew's piece on aging tables is fresh and taps into a real GM pain point about pacing/lethality shifts as players' lives change.",
+      "angle": "DCC-specific tactic: adjust funnel lethality and session length for time-crunched veteran tables — practical GM advice, no fluff.",
       "source": "https://gnomestew.com/as-your-table-ages/"
     },
     {
-      "title": "This Week's Crowdfunds Are Stuffed With New Monsters — Here's a Rend World Tactic Worth Stealing",
-      "why_now": "EN World's crowdfunding roundup flags Monsters of Rend World among this week's fresh releases, a natural tie-in for a creature-tactic segment.",
-      "angle": "Plug-and-play creature tactic short adapting a Rend World-style monster concept for Shadowdark or DCC play.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-crows-cypher-monsters-of-rend-world-and-more.720438/"
+      "title": "Shadowdark Ruling: Torches Don't Care About Your Cozy Tavern Vibes",
+      "why_now": "Piggybacks on the cozy-tavern-sim trend to contrast Shadowdark's harsh light/resource economy, a signature differentiator of the system.",
+      "angle": "Quick mechanical breakdown of Shadowdark's real-time torch tracking vs 5e's abstracted light rules, framed as a genre-clash gag.",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
     }
   ]
 }
