@@ -4745,5 +4745,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-30",
+    "videos": [
+      {
+        "id": "AI76X5-oS7U",
+        "title": "Torchlight briefing: Spell Casting Check #shadowdark",
+        "published": "2026-08-29",
+        "views": 133,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "5MxTkzW-wQ4",
+        "title": "Nine Lives Stealer: Nine Lives Stealer's instant kill potential only triggers on a natural 20 #dnd5e",
+        "published": "2026-08-29",
+        "views": 52,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "EfQi_UYFvQo",
+        "title": "Ability Score Loss can disable a character entirely #dcc",
+        "published": "2026-08-29",
+        "views": 17,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "_XV2XtF_YwA",
+        "title": "Planar Step's infinite range requires a high spell check #dcc",
+        "published": "2026-08-28",
+        "views": 40,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "A6jpsDCvIOE",
+        "title": "Cleric spells hinge on divine favor #dcc",
+        "published": "2026-08-28",
+        "views": 10,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "S1nZ3HTGgkQ",
+        "title": "Dunefiend's Howl disrupts resting parties #shadowdark",
+        "published": "2026-08-28",
+        "views": 21,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "i-U2o6dCmio",
+        "title": "Saving Throws often surprise DMs #dnd5e",
+        "published": "2026-08-28",
+        "views": 213,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "1GpBVR4Z8BQ",
+        "title": "Arcane Shot uses are limited per short rest #dnd5e",
+        "published": "2026-08-28",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "88mv2GEjsE0",
+        "title": "Arcane Archer: Infuse Arrows with Magic #dnd5e",
+        "published": "2026-08-28",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "kAUXwY0VtgM",
+        "title": "Psi-Bolstered Knack needs proficiency #dnd5e",
+        "published": "2026-08-28",
+        "views": 588,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "EB_QAU7Iurg",
+        "title": "Soulknife: Mastering Psionic Power in D&D 5e #dnd5e",
+        "published": "2026-08-28",
+        "views": 3,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "ujZZEOTHz1w",
+        "title": "Mass Suggestion's duration surprises many #dnd5e",
+        "published": "2026-08-27",
+        "views": 233,
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   }
 ]
