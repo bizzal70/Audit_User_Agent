@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-29T11:06:42+00:00",
+  "generated": "2026-08-30T11:07:13+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun's Back — Here's the 5e Ruling on Defiling Everyone Forgets",
-      "why_now": "Original Dark Sun creators just announced a 5e conversion of Dragon Kings, reviving interest in defiler/preserver magic mechanics that don't map cleanly to 5e's spell system.",
-      "angle": "60-sec ruling: how to houserule defiling (temp HP drain to terrain, area-of-effect blight) using existing 5e frameworks, tagged to the announcement.",
-      "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
-    },
-    {
-      "title": "An AI Can't Make This Call: Opportunity Attacks in Dim Light",
-      "why_now": "Monte Cook Games' AI-asset controversy is the industry's hot debate this week, giving a natural wry hook to contrast real GM rulings against AI 'good enough' answers.",
-      "angle": "Dry cold-open: 'AI generated my promo video. It still can't rule on this.' Then deliver an actual dim-light/stealth attack ruling using RAW.",
+      "title": "Your Promo Video Rolled a Nat 1: What Monte Cook's AI Blowback Teaches GMs About Vetting Content",
+      "why_now": "MCG just had to pull and re-release a promo video over AI assets, making trust-in-source a live industry issue this week.",
+      "angle": "Dry commentary short: treat the controversy like a rules dispute — walk through how a GM should 'adjudicate' AI-generated maps/art/statblocks before they hit the table.",
       "source": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/"
     },
     {
-      "title": "Long Rest Tavern Is Cozy. Your Long Rest Rules Interruption Isn't.",
-      "why_now": "D&D's new cozy tavern-sim game trends on the exact mechanic GMs argue about most: what breaks a long rest.",
-      "angle": "Use the game announcement as clickbait framing, then deliver the actual RAW ruling on interrupted long rests (1hr combat resets the clock, spell slot recovery timing).",
+      "title": "Running a Tavern Isn't a Downtime Activity, It's a Business — 5e's Actual Rules vs. Long Rest Tavern's Cozy Fantasy",
+      "why_now": "The newly announced D&D tavern-sim game gives a timely hook to correct the common misuse of the Downtime rules for running an inn.",
+      "angle": "Mechanical breakdown: DMG downtime activity costs, staffing, and income vs. what a cozy sim game will inevitably oversimplify.",
       "source": "https://www.enworld.org/threads/dungeons-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
     },
     {
-      "title": "Your Table Got Older. Your Funnel Should Get Meaner.",
-      "why_now": "Gnome Stew's piece on aging tables is fresh and taps into a real GM pain point about pacing/lethality shifts as players' lives change.",
-      "angle": "DCC-specific tactic: adjust funnel lethality and session length for time-crunched veteran tables — practical GM advice, no fluff.",
+      "title": "Your Table Aged, Your Math Didn't: Fixing Encounter Balance for Veteran Players",
+      "why_now": "Gnome Stew's piece on aging tables is fresh and speaks directly to the long-running-campaign problem GMs are quietly dealing with right now.",
+      "angle": "Wry veteran-GM ruling on adjusting CR/threat math and DCC funnel lethality as player system-mastery outpaces the numbers.",
       "source": "https://gnomestew.com/as-your-table-ages/"
     },
     {
-      "title": "Shadowdark Ruling: Torches Don't Care About Your Cozy Tavern Vibes",
-      "why_now": "Piggybacks on the cozy-tavern-sim trend to contrast Shadowdark's harsh light/resource economy, a signature differentiator of the system.",
-      "angle": "Quick mechanical breakdown of Shadowdark's real-time torch tracking vs 5e's abstracted light rules, framed as a genre-clash gag.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
+      "title": "Frogs Are Cool, Also Lethal: Bullywug Ambush Tactics Nobody Runs Right",
+      "why_now": "Tetracast's 'Frogs are Cool' episode title is trending in RPG circles this week, giving a natural crossover hook into an actual creature tactic breakdown.",
+      "angle": "Creature tactic short: Bullywug pack ambush using terrain/swamp advantage, Giant Frog swallow-and-grapple interaction, played completely straight.",
+      "source": "https://www.rpgsite.net/podcast/21246-tetracast-457-frogs-are-cool"
+    },
+    {
+      "title": "Fable Spent 18 Minutes on One Quest — Here's the Encounter Budget for a One-Shot That Long",
+      "why_now": "Fable's newly released 18-minute Bowerstone quest walkthrough gives a concrete runtime to reverse-engineer pacing for a tabletop session.",
+      "angle": "Mechanical pacing breakdown: map an 18-minute video-game quest arc to actual table time (roleplay/exploration/combat splits) for a Shadowdark one-shot.",
+      "source": "https://www.rpgsite.net/news/21241-fable-new-gameplay-quest-ps5-xbox-pc-steam"
     }
   ]
 }

@@ -1,53 +1,55 @@
 {
-  "generated": "2026-08-29T11:06:42+00:00",
+  "generated": "2026-08-30T11:07:13+00:00",
   "plays": [
     {
-      "story": "Monte Cook Games pulls a promotional video and issues a public statement after backlash over undisclosed AI-generated assets in the clip.",
+      "story": "Hasbro data breach exposes employee personal information",
+      "channels": [
+        "itsalreadywhen",
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "itsalreadywhen": "'Hasbro Got Hacked: Why Toy & Game Conglomerates Are Now Prime Ransomware Bait' — break down what was exposed (HR/PII), how a legacy-IT giant with dozens of acquired studios becomes an easy lateral-movement target, and what enterprise security teams should take from it.",
+        "bizzal-games": "'D&D's Parent Company Just Got Hacked — Here's What Players Actually Need to Know' — cut through the breach jargon for the D&D fanbase already wary of Hasbro post-OGL, addressing whether player/account data (D&D Beyond) is at risk.",
+        "itsalreadywritten": "'Freelancers Beware: What Hasbro's Breach Means for Your Next Adventure Pitch' — angle for TTRPG writers who submit manuscripts/contracts to WotC-adjacent studios, on data hygiene and IP protection when pitching to corporate-owned brands."
+      },
+      "source": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/"
+    },
+    {
+      "story": "Monte Cook Games pulls AI-generated promotional video after backlash",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'We Replaced the Video': Inside Monte Cook Games' AI Marketing Misstep — what the walkback reveals about how TTRPG studios vet promo content, and a checklist for publishers who don't want to be next.",
-        "itsalreadywritten": "Read the Apology Like a Designer: Line-by-Line Breakdown of Monte Cook's AI Statement — how a company known for its prose handled its own crisis writing, and what it says about authorship anxiety in the industry."
+        "bizzal-games": "'Monte Cook Games Pulls Its Own Trailer After Getting Caught Using AI Assets' — industry accountability piece: what happened, the statement, and why publishers keep underestimating fan sensitivity to AI in marketing.",
+        "itsalreadywritten": "'When the Pitch Is Fake: Monte Cook's AI Video Scandal and the Line Between Marketing and Storytelling' — narrative-integrity angle for writers: if a studio can't be trusted to hand-craft its trailer, what does that say about trusting AI in adventure writing itself?"
       },
       "source": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/"
     },
     {
-      "story": "The original Dark Sun creators are updating their Dragon Kings setting to run on 5E, bringing a classic post-apocalyptic world back to modern tables.",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Dragon Kings Rises Again: What the 5E Conversion Means for Your Athas Campaign — mechanical changes GMs need to know before running it.",
-        "itsalreadywritten": "Same World, New Rules: How Dark Sun's Original Writers Are Protecting Dragon Kings' Voice in the 5E Jump — a look at adapting decades-old lore without losing what made it dangerous."
-      },
-      "source": "https://www.enworld.org/threads/original-dark-sun-creators-update-their-dragon-kings-world-to-5e.720456/"
-    },
-    {
-      "story": "OneKey researchers reproduce a transaction-replacement attack against outdated Ledger Ethereum app firmware, exposing users who haven't updated.",
+      "story": "OneKey reproduces a transaction-replacement attack against outdated Ledger Ethereum app",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Your Ledger Might Be Lying to You: The Transaction-Replacement Attack That Swaps Your Payout Address — what holders need to check before their next send.",
-        "itsalreadywhen": "Old Firmware, Live Exploit: Researchers Just Proved Ledger's Ethereum App Can Be Hijacked Mid-Signing — a patch-now warning with the technical breakdown."
+        "itsalreadypriced": "'Your Ledger Might Be Lying to You: The Firmware Bug That Lets Attackers Swap Your Transaction' — investor-facing explainer on why outdated hardware wallet firmware is a silent portfolio risk, with a checklist for verifying you're patched.",
+        "itsalreadywhen": "'Transaction Replacement 101: How a Researcher Broke an Old Ledger App — and Why This Attack Class Never Dies' — technical deep dive on the exploit mechanics for a security-ops audience, framed as a case study in why legacy firmware = attack surface."
       },
       "source": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "A known Cosmos EVM vulnerability that Cosmos Labs had already flagged internally was exploited before every affected chain patched, turning a disclosed risk into a live incident.",
+      "story": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Cosmos Labs Knew. Chains Got Hit Anyway: Inside the EVM Flaw That Turned a Warning Into a Loss — what token holders on affected chains should watch for next.",
-        "itsalreadywhen": "The Disclosure Gap That Became an Exploit: Timeline of the Cosmos EVM Bug Cosmos Labs Saw Coming — a case study in why 'we knew' isn't the same as 'we patched.'"
+        "itsalreadypriced": "'The Sandbox Promises to Make Everyone Whole After Its $700K Bridge Hack — Should You Believe It?' — angle on what a repayment pledge actually means for token holders and whether 'we'll cover it' promises historically hold up.",
+        "itsalreadywhen": "'Another Bridge, Another Exploit: Dissecting The Sandbox's $700K Breach' — technical postmortem framing bridges as the recurring soft underbelly of Web3 infrastructure, useful for a cyber-defense audience tracking attack patterns."
       },
-      "source": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
+      "source": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-29T11:06:42+00:00",
+  "generated": "2026-08-30T11:07:13+00:00",
   "opportunities": [
     {
-      "title": "Another Trump Coin, Another Rug: GOLD Token Followed the Script to the Letter",
-      "why_now": "A Trump-promoted account touted GOLD right before the token collapsed, matching a pattern this channel has called every time.",
-      "angle": "Autopsy thread: timeline of the promotion-to-collapse, overlay with prior Trump-linked token charts to show the copy-paste playbook",
-      "source": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "They Blamed 'Bad Actors.' The Bad Actor Was the Business Model.",
+      "why_now": "A Trump-linked account promoted GOLD before it collapsed, and the entity now denies launching it while pointing at 'bad actors' — a script this channel has seen a hundred times.",
+      "angle": "Pattern-recognition breakdown: annotate the promote-crash-deny timeline with a checklist readers can reuse next time a 'trusted' account shills a token",
+      "source": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Your Ledger Isn't Safe If You Skipped the Update: Transaction Replacement Attack Reproduced Live",
-      "why_now": "OneKey just proved a working exploit against outdated Ledger Ethereum apps that lets attackers swap transaction details post-signing.",
-      "angle": "Security explainer with step-by-step of the attack + a blunt checklist: how to verify your firmware version right now",
+      "title": "Your Ledger Is Only as Safe as Your Last Update: The Replacement Attack Nobody Patched",
+      "why_now": "OneKey just reproduced a transaction-replacement exploit on an outdated Ledger Ethereum app, proving 'cold storage' isn't a security state, it's a maintenance schedule.",
+      "angle": "Technical explainer + firmware-check callout, framed as 'the hack that only works because you didn't update' — evergreen security PSA with a fresh proof-of-concept hook",
       "source": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Sandbox Bridge Gets Drained for $700K — Compensation Doesn't Fix the Architecture",
-      "why_now": "Fresh $700K bridge exploit with an immediate 1:1 repayment pledge — the standard 'we'll make you whole' PR move after a preventable hack.",
-      "angle": "Pattern-recognition piece: bridge exploits + compensation pledges as a repeating genre, what actually changed in the code vs. just optics",
-      "source": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Cosmos Labs Cleared the Bug. The Bug Then Caused a $5.7M Six-Chain Hack.",
+      "why_now": "Cosmos Labs admitted it wrongly signed off on the exact bug that later enabled a six-chain exploit, exposing how little 'audited' actually guarantees.",
+      "angle": "Audit-theater takedown: use this as Exhibit A in a running series on why security reviews fail, ending with a rule of thumb for evaluating 'audited' claims",
+      "source": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
     },
     {
-      "title": "1,685 Users, $500K Gone: Live Draining of a Solana Neobank in Real Time",
-      "why_now": "Avici's Rain Card contract was actively exploited with users watching funds disappear in real time — a fresh case study in smart contract failure under live conditions.",
-      "angle": "Incident breakdown: what the exploit targeted, why 'neobank' branding didn't mean bank-grade security, lessons for anyone holding a Rain-style card",
+      "title": "One Wallet, 10% of Supply: How Fogo's Mainnet Got Halted by a Single Exploit",
+      "why_now": "An attacker received 400 million FOGO — a tenth of circulating supply — forcing the L1 to halt mainnet, a governance/security failure at a scale that demands a postmortem before the official one drops.",
+      "angle": "Fast-turn incident breakdown with a supply-concentration risk lens: what a 10% mint/transfer to one address says about validator/permission design",
+      "source": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064"
+    },
+    {
+      "title": "The Card Was the Attack Surface: How a $1.1M Exploit Crashed a Neobank's Token 49%",
+      "why_now": "A live drain on a Solana neobank's card contract (Avici/Rain) tanked the token 49% in real time, showing how 'crypto debit card' products quietly reintroduce custodial attack surfaces.",
+      "angle": "Deep-dive on crypto-card architecture risk — tie together the Avici exploit and the CoinDesk neobank piece as one trend, warn readers evaluating card products",
       "source": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack"
-    },
-    {
-      "title": "$4.7 Billion Underwater: The Receipts on Every Trump Crypto Venture",
-      "why_now": "Public Citizen just quantified what many predicted — investors are billions deep in losses across Trump-branded crypto projects.",
-      "angle": "Data-led post: aggregate the number against the GOLD token collapse and other launches to show the full scoreboard of 'told you so'",
-      "source": "https://www.theblock.co/news/business/2026-08-28-investors-at-least-4-7-billion-underwater-across-trump-crypto-ventures-public-citizen-says-413003"
     }
   ]
 }
