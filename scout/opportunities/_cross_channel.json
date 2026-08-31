@@ -1,55 +1,53 @@
 {
-  "generated": "2026-08-30T11:07:13+00:00",
+  "generated": "2026-08-31T11:08:12+00:00",
   "plays": [
     {
-      "story": "Hasbro data breach exposes employee personal information",
-      "channels": [
-        "itsalreadywhen",
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "itsalreadywhen": "'Hasbro Got Hacked: Why Toy & Game Conglomerates Are Now Prime Ransomware Bait' — break down what was exposed (HR/PII), how a legacy-IT giant with dozens of acquired studios becomes an easy lateral-movement target, and what enterprise security teams should take from it.",
-        "bizzal-games": "'D&D's Parent Company Just Got Hacked — Here's What Players Actually Need to Know' — cut through the breach jargon for the D&D fanbase already wary of Hasbro post-OGL, addressing whether player/account data (D&D Beyond) is at risk.",
-        "itsalreadywritten": "'Freelancers Beware: What Hasbro's Breach Means for Your Next Adventure Pitch' — angle for TTRPG writers who submit manuscripts/contracts to WotC-adjacent studios, on data hygiene and IP protection when pitching to corporate-owned brands."
-      },
-      "source": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/"
-    },
-    {
-      "story": "Monte Cook Games pulls AI-generated promotional video after backlash",
+      "story": "Monte Cook Games pulls promotional video after backlash over AI-generated assets, issues statement",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Monte Cook Games Pulls Its Own Trailer After Getting Caught Using AI Assets' — industry accountability piece: what happened, the statement, and why publishers keep underestimating fan sensitivity to AI in marketing.",
-        "itsalreadywritten": "'When the Pitch Is Fake: Monte Cook's AI Video Scandal and the Line Between Marketing and Storytelling' — narrative-integrity angle for writers: if a studio can't be trusted to hand-craft its trailer, what does that say about trusting AI in adventure writing itself?"
+        "bizzal-games": "'Monte Cook Games Yanks AI Trailer After Backlash: The New Rules for TTRPG Studios Using AI Assets' — break down what got flagged, MCG's statement, and what other publishers should learn before their next Kickstarter trailer drops.",
+        "itsalreadywritten": "'When the Promo Video Wasn't Actually Written (or Drawn) by Anyone: Monte Cook Games and the Trust Problem in TTRPG Marketing' — dig into the credibility stakes for a studio built on hand-crafted worldbuilding getting caught with AI shortcuts."
       },
       "source": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/"
     },
     {
-      "story": "OneKey reproduces a transaction-replacement attack against outdated Ledger Ethereum app",
+      "story": "Cronos network halts entirely after $75M Tectonic lending exploit",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Your Ledger Might Be Lying to You: The Firmware Bug That Lets Attackers Swap Your Transaction' — investor-facing explainer on why outdated hardware wallet firmware is a silent portfolio risk, with a checklist for verifying you're patched.",
-        "itsalreadywhen": "'Transaction Replacement 101: How a Researcher Broke an Old Ledger App — and Why This Attack Class Never Dies' — technical deep dive on the exploit mechanics for a security-ops audience, framed as a case study in why legacy firmware = attack surface."
+        "itsalreadypriced": "'Crypto.com's Chain Just Stopped: What a Full Cronos Halt After the $75M Tectonic Hack Means for CRO Holders and DeFi Trust' — cover the market reaction, halt mechanics, and precedent for centralized emergency stops on 'decentralized' chains.",
+        "itsalreadywhen": "'Anatomy of a $75M DeFi Hack That Froze an Entire Blockchain: Inside the Tectonic Exploit on Cronos' — technical breakdown of the exploit vector and why halting a live network is both a security save and a red flag."
       },
-      "source": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic"
     },
     {
-      "story": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
+      "story": "Cosmos Labs admits it wrongly cleared the vulnerability behind a $5.7M six-chain hack before Cosmos EVM was exploited",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'The Sandbox Promises to Make Everyone Whole After Its $700K Bridge Hack — Should You Believe It?' — angle on what a repayment pledge actually means for token holders and whether 'we'll cover it' promises historically hold up.",
-        "itsalreadywhen": "'Another Bridge, Another Exploit: Dissecting The Sandbox's $700K Breach' — technical postmortem framing bridges as the recurring soft underbelly of Web3 infrastructure, useful for a cyber-defense audience tracking attack patterns."
+        "itsalreadypriced": "'Cosmos Labs Knew and Cleared It Anyway: What the $5.7M Six-Chain Hack Means for Trust in Cosmos Ecosystem Tokens' — examine investor exposure across the affected chains and what a botched disclosure does to confidence.",
+        "itsalreadywhen": "'The Bug Cosmos Labs Said Was Fixed: A Disclosure Failure Timeline Behind the Cosmos EVM Exploit' — trace how a known flaw got waved through and what it means for cross-chain audit accountability."
       },
-      "source": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
+    },
+    {
+      "story": "Dark Sun's original creators announced to be building a new TTRPG world, previewed alongside Arcana Unleashed",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Dark Sun's Original Team Is Back — First Details on Their New TTRPG World' — cover what's been revealed at the Podcast #412 livestream, mechanics hints, and how it stacks up against classic Dark Sun.",
+        "itsalreadywritten": "'What Made Dark Sun's Setting Writing Legendary — And What Its Creators' New World Has to Live Up To' — a lore/worldbuilding retrospective angle tied to the new project's narrative promise."
+      },
+      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
     }
   ]
 }

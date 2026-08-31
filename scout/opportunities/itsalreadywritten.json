@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-30T11:07:13+00:00",
+  "generated": "2026-08-31T11:08:12+00:00",
   "opportunities": [
     {
-      "title": "MCG's AI Video Misstep: What the Statement Actually Admits (and Doesn't)",
-      "why_now": "Monte Cook Games just pulled a promo video over AI assets and issued a public statement, a rare direct admission from a major publisher.",
-      "angle": "Line-by-line breakdown of the statement, mapped against MCG's own Cypher System ethics/creator-credit language",
+      "title": "Arcana Unleashed: What Actually Changed in the Rules (Not Just the Art)",
+      "why_now": "EN World's Podcast #412 just previewed Arcana Unleashed, giving us the first real look at its mechanical content.",
+      "angle": "Rules-breakdown post: pull every confirmed mechanical change from the preview and compare to core 5E, ending with a 'ruling' on whether it's a real update or reskin.",
+      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
+    },
+    {
+      "title": "Dark Sun's Creators Are Building a New World — Here's What Its Rules Need to Steal From the Original",
+      "why_now": "The same podcast reveals Dark Sun's original designers are making a new setting, a direct nostalgia hook for grognards.",
+      "angle": "Analysis piece: list the defiling/preserving magic, mutant PCs, and survival subsystems that made Dark Sun's rules distinct, framed as 'what the new world must get right.'",
+      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
+    },
+    {
+      "title": "Monte Cook Games' AI Video Mess: What the Actual Statement Says, Line by Line",
+      "why_now": "MCG just replaced a promo video and issued a statement after backlash over AI-generated assets, a fresh industry-ethics flashpoint.",
+      "angle": "Fact-check/annotation format: quote the statement verbatim and add knowing commentary on what it does and doesn't commit to.",
       "source": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/"
     },
     {
-      "title": "D&D Goes Cozy: What 'Long Rest Tavern' Says About WotC's Licensing Rules",
-      "why_now": "The freshly announced business-sim spinoff is a new data point on how strictly WotC gates D&D IP for non-combat, non-canon spinoffs.",
-      "angle": "Rules-first explainer on D&D's third-party/licensing tiers using this announcement as the case study",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
-    },
-    {
-      "title": "House Rules for the Long Haul: Codifying Table Changes as Your Players Age",
-      "why_now": "Gnome Stew's new piece on aging tables is a direct prompt to formalize what usually stays informal house-rule drift.",
-      "angle": "Turn the analysis into an actual 'ruleset' — a printable house-rule template for pacing, session length, and rules-lite fallback options",
-      "source": "https://gnomestew.com/as-your-table-ages/"
-    },
-    {
-      "title": "This Week in TTRPG Rules: The Digest Behind the Digest",
-      "why_now": "EN World's Aug 28 news digest is a grab-bag; readers want the signal, not just links.",
-      "angle": "Curated recap post pulling only the rules/mechanics-relevant threads from the digest, with 'why it matters to your table' notes",
+      "title": "This Week in TTRPG Rules: The Five Things Buried in EN World's News Digest",
+      "why_now": "The Aug 28 digest rounds up scattered industry news that casual readers will miss without a rules-first filter.",
+      "angle": "Curated digest-of-the-digest: pull out only the mechanically/legally relevant items and explain why they matter to GMs and designers.",
       "source": "https://www.enworld.org/threads/news-digest-for-august-28-2026.720476/"
     },
     {
-      "title": "Frogfolk, Officially: Building Stat Blocks for the Internet's Favorite Amphibian Ancestry",
-      "why_now": "RPGSite's 'Frogs are Cool' episode is riding a wave of frog-content love that TTRPG homebrewers can capitalize on immediately.",
-      "angle": "Rules-first homebrew stat block/ancestry writeup (5e + PF2e stat conversions) timed to the trend",
-      "source": "https://www.rpgsite.net/podcast/21246-tetracast-457-frogs-are-cool"
+      "title": "No, Fate/Extra Isn't Powered by FATE — A Quick Ruling on the Name Confusion",
+      "why_now": "Aniplex's Fate/Extra Record news is flooding search results and social feeds, creating accidental overlap with the FATE tabletop system's name.",
+      "angle": "Short, witty 'rules clarification' post capitalizing on search traffic confusion, explaining the actual FATE Core system vs. the anime franchise.",
+      "source": "https://www.rpgsite.net/news/21253-fateextra-record-now-being-published-by-aniplex-developed-by-meteorise-with-additional-switch-2-release"
     }
   ]
 }

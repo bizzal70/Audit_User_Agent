@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-30T11:07:13+00:00",
+  "generated": "2026-08-31T11:08:12+00:00",
   "opportunities": [
     {
-      "title": "They Blamed 'Bad Actors.' The Bad Actor Was the Business Model.",
-      "why_now": "A Trump-linked account promoted GOLD before it collapsed, and the entity now denies launching it while pointing at 'bad actors' — a script this channel has seen a hundred times.",
-      "angle": "Pattern-recognition breakdown: annotate the promote-crash-deny timeline with a checklist readers can reuse next time a 'trusted' account shills a token",
-      "source": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Cronos Just Proved Every 'Decentralized' Chain Has an Undo Button",
+      "why_now": "Crypto.com's Cronos halted its entire network after a $75M Tectonic exploit, the second major chain to freeze mid-hack this week.",
+      "angle": "Security-led explainer on validator-controlled halts as the industry's real disaster recovery plan — and what that means for 'decentralization' marketing",
+      "source": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic"
     },
     {
-      "title": "Your Ledger Is Only as Safe as Your Last Update: The Replacement Attack Nobody Patched",
-      "why_now": "OneKey just reproduced a transaction-replacement exploit on an outdated Ledger Ethereum app, proving 'cold storage' isn't a security state, it's a maintenance schedule.",
-      "angle": "Technical explainer + firmware-check callout, framed as 'the hack that only works because you didn't update' — evergreen security PSA with a fresh proof-of-concept hook",
-      "source": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "Cosmos Labs Cleared the Bug. The Bug Then Caused a $5.7M Six-Chain Hack.",
-      "why_now": "Cosmos Labs admitted it wrongly signed off on the exact bug that later enabled a six-chain exploit, exposing how little 'audited' actually guarantees.",
-      "angle": "Audit-theater takedown: use this as Exhibit A in a running series on why security reviews fail, ending with a rule of thumb for evaluating 'audited' claims",
-      "source": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
-    },
-    {
-      "title": "One Wallet, 10% of Supply: How Fogo's Mainnet Got Halted by a Single Exploit",
-      "why_now": "An attacker received 400 million FOGO — a tenth of circulating supply — forcing the L1 to halt mainnet, a governance/security failure at a scale that demands a postmortem before the official one drops.",
-      "angle": "Fast-turn incident breakdown with a supply-concentration risk lens: what a 10% mint/transfer to one address says about validator/permission design",
+      "title": "An Attacker Just Got 10% of Fogo's Supply. The Fix Was to Turn the Chain Off.",
+      "why_now": "Fogo halted mainnet after an attacker received 400M FOGO tokens (10% of circulating supply), one of two chain-level halts in 48 hours.",
+      "angle": "Short, sharp breakdown of what a supply-shock exploit does to a token's game theory, and why halting is the tell that governance is more centralized than advertised",
       "source": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064"
     },
     {
-      "title": "The Card Was the Attack Surface: How a $1.1M Exploit Crashed a Neobank's Token 49%",
-      "why_now": "A live drain on a Solana neobank's card contract (Avici/Rain) tanked the token 49% in real time, showing how 'crypto debit card' products quietly reintroduce custodial attack surfaces.",
-      "angle": "Deep-dive on crypto-card architecture risk — tie together the Avici exploit and the CoinDesk neobank piece as one trend, warn readers evaluating card products",
-      "source": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack"
+      "title": "Cosmos Labs Cleared a Bug That Was Actually Live. Then $5.7M Walked Out the Door.",
+      "why_now": "Cosmos Labs admitted it wrongly signed off on the exact vulnerability behind a six-chain $5.7M exploit.",
+      "angle": "Audit-trust postmortem — what 'wrongly cleared' means for anyone relying on a security review as a green light",
+      "source": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
+    },
+    {
+      "title": "Real Trump Coins Says the GOLD Rug Wasn't Them. Convenient.",
+      "why_now": "A Trump-linked account promoted GOLD before it collapsed, and the official entity is now blaming 'bad actors' for the token it appeared to endorse.",
+      "angle": "Security-skeptic take on affiliation laundering — how token launches borrow credibility from brands that later deny involvement, and what to check before the next 'endorsed' coin drops",
+      "source": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "A $1.1M Card Hack Just Wiped 49% Off a Neobank's Token — Here's the Math That Made That Possible",
+      "why_now": "A relatively small $1.1M exploit crashed a crypto neobank's token by nearly half, showing how thin the buffer is between operational security and token price.",
+      "angle": "Numbers-driven piece connecting security failures directly to tokenomics fragility — a template for sizing 'how bad can this get' before investing in any card/neobank token",
+      "source": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49"
     }
   ]
 }

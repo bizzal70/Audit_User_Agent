@@ -1,34 +1,34 @@
 {
-  "generated": "2026-08-30T11:07:13+00:00",
+  "generated": "2026-08-31T11:08:12+00:00",
   "opportunities": [
     {
-      "title": "Your Promo Video Rolled a Nat 1: What Monte Cook's AI Blowback Teaches GMs About Vetting Content",
-      "why_now": "MCG just had to pull and re-release a promo video over AI assets, making trust-in-source a live industry issue this week.",
-      "angle": "Dry commentary short: treat the controversy like a rules dispute — walk through how a GM should 'adjudicate' AI-generated maps/art/statblocks before they hit the table.",
+      "title": "Arcana Unleashed Leaked Spells: Which Ones Actually Break Your Table (Ruling Breakdown)",
+      "why_now": "EN World's livestream preview of Arcana Unleashed gives fresh, unreleased spell/mechanic content to dissect before anyone else covers it.",
+      "angle": "Rules-ruling short: pick one previewed spell, show the RAW text, then give the GM ruling on how to adjudicate it at range/concentration/action economy.",
+      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
+    },
+    {
+      "title": "AI Assets in Your Kickstarter Trailer: The GM Ruling on Trust (Monte Cook Edition)",
+      "why_now": "Monte Cook Games just publicly retracted a promo video over AI assets, making this a live, controversial industry moment worth a dry take.",
+      "angle": "Wry veteran-GM commentary bit: treat the studio's PR statement like a rules dispute at the table — 'here's the ruling, here's the precedent, here's why it matters for your home game trust.'",
       "source": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/"
     },
     {
-      "title": "Running a Tavern Isn't a Downtime Activity, It's a Business — 5e's Actual Rules vs. Long Rest Tavern's Cozy Fantasy",
-      "why_now": "The newly announced D&D tavern-sim game gives a timely hook to correct the common misuse of the Downtime rules for running an inn.",
-      "angle": "Mechanical breakdown: DMG downtime activity costs, staffing, and income vs. what a cozy sim game will inevitably oversimplify.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-long-rest-tavern-announced-cozy-business-sim-for-pc.720460/"
+      "title": "Dark Sun's Creators Are Back — Here's the Desert Survival Rule You Should Steal Right Now",
+      "why_now": "News that Dark Sun's original designers are building a new setting is a rare hook to revisit harsh-survival mechanics for 5e/Shadowdark tables.",
+      "angle": "Creature/environment tactic short: adapt a Dark Sun-style hazard (heat exhaustion, scarce water) into a plug-and-play Shadowdark or 5e survival rule.",
+      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
     },
     {
-      "title": "Your Table Aged, Your Math Didn't: Fixing Encounter Balance for Veteran Players",
-      "why_now": "Gnome Stew's piece on aging tables is fresh and speaks directly to the long-running-campaign problem GMs are quietly dealing with right now.",
-      "angle": "Wry veteran-GM ruling on adjusting CR/threat math and DCC funnel lethality as player system-mastery outpaces the numbers.",
-      "source": "https://gnomestew.com/as-your-table-ages/"
+      "title": "What Geralt Knows That Your Party Doesn't: Monster Weakness Tactics for D&D Creatures",
+      "why_now": "The Witcher 3 Remastered relaunch is trending and gives a pop-culture hook to talk about 'know your monster' mechanics.",
+      "angle": "Creature tactic short: use the Witcher's bestiary-knowledge gimmick as a frame to teach players how Investigation/Nature checks should reveal real weaknesses in 5e stat blocks.",
+      "source": "https://www.rpgsite.net/news/21243-the-witcher-3-remaster-ps5-pro-features-ray-tracing-performance-mode-frame-rate-unlock"
     },
     {
-      "title": "Frogs Are Cool, Also Lethal: Bullywug Ambush Tactics Nobody Runs Right",
-      "why_now": "Tetracast's 'Frogs are Cool' episode title is trending in RPG circles this week, giving a natural crossover hook into an actual creature tactic breakdown.",
-      "angle": "Creature tactic short: Bullywug pack ambush using terrain/swamp advantage, Giant Frog swallow-and-grapple interaction, played completely straight.",
-      "source": "https://www.rpgsite.net/podcast/21246-tetracast-457-frogs-are-cool"
-    },
-    {
-      "title": "Fable Spent 18 Minutes on One Quest — Here's the Encounter Budget for a One-Shot That Long",
-      "why_now": "Fable's newly released 18-minute Bowerstone quest walkthrough gives a concrete runtime to reverse-engineer pacing for a tabletop session.",
-      "angle": "Mechanical pacing breakdown: map an 18-minute video-game quest arc to actual table time (roleplay/exploration/combat splits) for a Shadowdark one-shot.",
+      "title": "Fable's 18-Minute Quest Video Has a Skill-Challenge Problem — Here's the DCC/5e Fix",
+      "why_now": "Fable's new gamescom gameplay video is generating buzz around open-ended quest design, a natural jumping-off point for exploration/skill-challenge rulings.",
+      "angle": "Rules-ruling short: critique a beat from the Fable quest footage, then show the tighter DCC-style skill challenge or 5e exploration procedure that avoids the same pitfall.",
       "source": "https://www.rpgsite.net/news/21241-fable-new-gameplay-quest-ps5-xbox-pc-steam"
     }
   ]

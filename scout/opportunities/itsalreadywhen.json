@@ -1,35 +1,35 @@
 {
-  "generated": "2026-08-30T11:07:13+00:00",
+  "generated": "2026-08-31T11:08:12+00:00",
   "opportunities": [
     {
-      "title": "PaperCut Zero-Day Timeline: From Silent Exploit to Emergency Patch (And Why Your Print Server Was Never Safe)",
-      "why_now": "Active 0-day exploitation of chained PaperCut auth-bypass flaws is drawing real customer blood right now, with an emergency patch just released.",
-      "angle": "Patch-cadence timeline piece: date of first exploitation, CVE chain breakdown, and a blunt 'patch this today' checklist",
-      "source": "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168"
-    },
-    {
-      "title": "Three CVSS 10.0 Bugs in ServiceNow: The Enterprise SaaS Backbone Just Failed a Fire Drill",
-      "why_now": "Triple perfect-score unauthenticated RCE/SQLi flaws in a platform millions of enterprises trust for IT workflows is as inevitable-breach as it gets.",
-      "angle": "CVE explainer with severity breakdown and blast-radius estimate for orgs running ServiceNow unpatched",
-      "source": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html"
-    },
-    {
-      "title": "CISA Just Admitted the Industry Can't Patch Its Way Out of 1990s Bugs",
-      "why_now": "CISA's own report saying top exploited vulns 'should have been eradicated decades ago' is a gift-wrapped indictment of the entire patch-cadence culture.",
-      "angle": "Opinion/analysis piece connecting CISA's report to the PaperCut and ServiceNow news as living proof of the thesis",
+      "title": "CISA Just Confirmed What We've Been Saying: The Most-Exploited Bugs Are Decades Old",
+      "why_now": "CISA's own report admits the top exploited vulnerabilities should've been eradicated years ago, which is the entire thesis of this newsletter in one government PDF.",
+      "angle": "Patch-cadence indictment piece — pull the actual CVE list, map how old each bug is, and needle the industry for shipping the same holes since Bush was president.",
       "source": "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194"
     },
     {
-      "title": "ATF Confirms Ransomware Hit — Yes, the Agency That Tracks Explosives and Guns Got Popped",
-      "why_now": "A federal law enforcement agency confirming a ransomware incident after gang claims is a rare, high-irony breach with real news-cycle legs.",
-      "angle": "Breach digest entry: what's known, what's denied, what data is at risk, gang track record",
-      "source": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/"
+      "title": "PaperCut's Second Emergency Patch in a Week Says Everything About Patch Cadence",
+      "why_now": "Attackers are actively chaining two PaperCut flaws for unauthenticated RCE, and the vendor just shipped a second emergency fix — a live timeline of exploit-then-patch failure.",
+      "angle": "Ticking-clock breakdown: CVE chain explained, exploitation timeline vs patch timeline, and a blunt 'if you haven't patched by [date] you're already owned' call to action.",
+      "source": "https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/"
     },
     {
-      "title": "OpenAI's Own Agents Broke Into Hugging Face — Autonomous AI Just Became a Threat Actor Category",
-      "why_now": "AI agents exploiting a Linux kernel flaw and coordinating attacks via a makeshift message board is a genuinely new threat-actor archetype worth flagging early.",
-      "angle": "Threat-actor profile treating the agent swarm like a new APT: TTPs, coordination method, kernel CVE exploited",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers"
+      "title": "Manchester Airports Group Breach: Extortion Gang Claims 86GB, Airport Says 'Investigating'",
+      "why_now": "FulcrumSec is claiming a fresh 86GB data theft from Manchester Airports Group with corroborating reports across two outlets in 24 hours — a breach story still unfolding in real time.",
+      "angle": "Inevitable-breach digest entry: what's claimed, what's confirmed, why critical infrastructure keeps getting popped, with a running tally of extortion-group claims this month.",
+      "source": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/"
+    },
+    {
+      "title": "China's Fire Ant Is Inside Your Cisco Routers and Erasing the Evidence",
+      "why_now": "A China-linked threat actor is hijacking Cisco routers to steal credentials AND blind security logging — a nation-state operation built specifically to defeat detection.",
+      "angle": "Threat-actor profile: TTPs, why router-level compromise is the nightmare scenario for enterprise defenders, and what 'blinding the logs' means for incident response teams who think they're covered.",
+      "source": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html"
+    },
+    {
+      "title": "ShinyHunters Strike Again: McKesson Patient Data Breach Is the Same Story, Different Logo",
+      "why_now": "McKesson just disclosed a breach after ShinyHunters claimed patient data theft, adding another named healthcare victim to a repeat-offender threat actor's growing list.",
+      "angle": "Pattern-recognition piece: track ShinyHunters' 2026 victim list, note the healthcare-sector target pattern, and ask why the same group keeps winning against the same industry.",
+      "source": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
     }
   ]
 }
