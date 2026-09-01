@@ -4947,5 +4947,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-09-01",
+    "videos": [
+      {
+        "id": "D6XbMxd17Zg",
+        "title": "Planar Step's Will save complicates targeting foes #dcc",
+        "published": "2026-08-31",
+        "views": 22,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "pJ3VL38wPZg",
+        "title": "Planar Step: Infinite Range Requires Careful Planning #dcc",
+        "published": "2026-08-31",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "jcIODhj1g-c",
+        "title": "Winter Wolf earns its stakes fast #shadowdark",
+        "published": "2026-08-31",
+        "views": 9,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Y8ORxMuyGRc",
+        "title": "Cover often gets misinterpreted #dnd5e",
+        "published": "2026-08-31",
+        "views": 73,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "HFqDT75ki0U",
+        "title": "Cure Paralysis changes encounter dynamics more than players expect #dcc",
+        "published": "2026-08-31",
+        "views": 17,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "TR0HyUQpPGc",
+        "title": "Sphere Of Annihilation obliterates everything it touches #shadowdark",
+        "published": "2026-08-30",
+        "views": 93,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "KLcrrWun_Fg",
+        "title": "Run Quickling as a moral-choice encounter: they can protect everyone #dnd5e",
+        "published": "2026-08-30",
+        "views": 89,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "0f8vfkBrHMQ",
+        "title": "Large Scorpion's poison is more potent than expected #dcc",
+        "published": "2026-08-30",
+        "views": 20,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "AI76X5-oS7U",
+        "title": "Torchlight briefing: Spell Casting Check #shadowdark",
+        "published": "2026-08-29",
+        "views": 259,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "5MxTkzW-wQ4",
+        "title": "Nine Lives Stealer: Nine Lives Stealer's instant kill potential only triggers on a natural 20 #dnd5e",
+        "published": "2026-08-29",
+        "views": 114,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "EfQi_UYFvQo",
+        "title": "Ability Score Loss can disable a character entirely #dcc",
+        "published": "2026-08-29",
+        "views": 45,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "_XV2XtF_YwA",
+        "title": "Planar Step's infinite range requires a high spell check #dcc",
+        "published": "2026-08-28",
+        "views": 59,
+        "likes": 0,
+        "comments": 0
+      }
+    ]
   }
 ]
