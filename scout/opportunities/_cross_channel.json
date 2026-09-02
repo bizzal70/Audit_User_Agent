@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-01T11:08:30+00:00",
+  "generated": "2026-09-02T11:08:25+00:00",
   "plays": [
     {
-      "story": "Dark Sun's original designers are quietly building a brand-new campaign setting, revealed on EN World's podcast #412 livestream alongside new D&D video game news",
+      "story": "EN World's Podcast #412 livestream previews Arcana Unleashed and new D&D video games, plus reveals that Dark Sun's original creators are building an entirely new setting from scratch.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'The Dark Sun Team Is Back — Here's What GMs Should Steal Before Their New World Even Ships': breaking down what's known about mechanics, tone, and survival-focused design so DMs can start prepping homebrew inspired by the reveal now.",
-        "itsalreadywritten": "'Dark Sun's Original Writers Are Building a New Apocalypse — What 30-Year-Old Worldbuilding Lessons Still Hold Up': a lore-first look at why the same creative minds returning to build a setting from scratch matters for TTRPG canon and long-form campaign writing."
+        "bizzal-games": "Arcana Unleashed Just Got Previewed — Here's Every Mechanic GMs Need to Know Before It Drops",
+        "itsalreadywritten": "The Original Dark Sun Creators Are Building a New World From Scratch — What Decades of Worldbuilding Experience Teaches Us About Setting Design"
       },
       "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
     },
     {
-      "story": "North Korean state hackers are laundering tens of millions through Hyperliquid even as Trump pushes to onshore the platform, while separate reporting shows DPRK job-fraud schemes expanding into healthcare and sales",
+      "story": "Sly Flourish publishes a guide to running lazy, improvised monsters in Daggerheart, offering GM shortcuts that lean on the system's narrative-first design.",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "bizzal-games",
+        "itsalreadywritten"
       ],
       "angles": {
-        "itsalreadypriced": "'Hyperliquid's Onshoring Push Has a DPRK Problem': what North Korean money movement through the exchange means for its US regulatory ambitions, HYPE token sentiment, and institutional adoption risk right as Trump-adjacent political interest heats up.",
-        "itsalreadywhen": "'North Korea's Playbook Just Got Bigger: From Hyperliquid Laundering to Fake Healthcare Hires': mapping how the same state actor is diversifying from crypto exfiltration into remote-work fraud across new industries — a pattern defenders need to watch."
+        "bizzal-games": "Steal These Lazy Improvised Monster Rules for Your Next Daggerheart Session — No Prep Required",
+        "itsalreadywritten": "Improv Monsters, Instant Story: How Daggerheart Turns Snap GM Decisions Into Narrative Gold"
       },
-      "source": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform"
+      "source": "https://slyflourish.com/lazy_improvised_monsters_for_daggerheart.html?rss=1"
     },
     {
-      "story": "Cronos halts its network after a Tectonic protocol exploit drains an estimated $75M, following the $9.3M More Markets lending drain — a fresh wave of DeFi lending exploits",
+      "story": "OpenAI announces its new 'Astra' model can autonomously build cyberattacks without human help, a claim covered by both crypto and cybersecurity outlets as a critical threshold moment.",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "itsalreadywhen",
+        "itsalreadypriced"
       ],
       "angles": {
-        "itsalreadypriced": "'Cronos Just Halted Its Chain Over a $75M Exploit — What It Means for CRO and DeFi Lending Confidence': tracking token price reaction, exchange/network halt precedent, and whether more chains will freeze first and ask questions later.",
-        "itsalreadywhen": "'Inside the Tectonic Exploit: How a $75M Lending Drain Forced an Entire Chain to Halt': a technical postmortem angle on the attack vector, contrasted with the smaller $9.3M More Markets drain the same week — what pattern connects them."
+        "itsalreadywhen": "OpenAI's Astra Can Build Cyberattacks Solo — What Security Teams Must Change Starting Today",
+        "itsalreadypriced": "Autonomous AI Attacks Are Coming for Crypto: What Astra Means for Exchange and Wallet Security"
       },
-      "source": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/"
     },
     {
-      "story": "Anthropic is cracking down on hijacked Claude accounts being used to mine AI tokens and warns users of infostealer-driven session theft — a crypto-mining-meets-AI-credential heist story",
+      "story": "Lazarus Group-linked wallets move $30M through Hyperliquid, the latest in a wave of major DeFi exploits (Cronos, More Markets) this week that blend crypto laundering with nation-state cyber tradecraft.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Hackers Are Stealing AI Logins to Mine Crypto Tokens — Is This the New Cloud-Jacking?': framing hijacked Claude accounts as the AI-era version of cloud cryptomining abuse, and what it signals about token economics tied to compute-for-crypto schemes.",
-        "itsalreadywhen": "'Anthropic's Infostealer Problem: Session Theft, Hijacked Accounts, and the $600K METR API Heist': tying together Anthropic's account crackdown with the separate METR API key theft to show a broader trend of attackers draining AI credits/credentials like a new form of cash."
+        "itsalreadypriced": "Lazarus Group Just Laundered $30M Through Hyperliquid — Tracing the Trail Through DeFi's Biggest Exploit Week",
+        "itsalreadywhen": "North Korea's Lazarus Group Adds Hyperliquid to Its Laundering Playbook — Why Defenders Need to Watch DeFi Rails"
       },
-      "source": "https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461"
+      "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-01T11:08:30+00:00",
+  "generated": "2026-09-02T11:08:25+00:00",
   "opportunities": [
     {
-      "title": "Cronos Just Proved Its 'Blockchain' Has an Off Switch — $75M Tectonic Exploit Triggers Network Halt",
-      "why_now": "A live $75M exploit forced Cronos to halt the entire network, reigniting the decentralization-theater debate exactly when investors need it most.",
-      "angle": "Security teardown: walk through the exploit mechanics, then pivot to the real story — a chain that can be paused was never decentralized, and this is what 'trustless' buys you when it breaks.",
+      "title": "Cronos Halted Its Own Chain After a $75M Exploit — That's Not Decentralization, That's a Kill Switch",
+      "why_now": "Cronos froze the network after the Tectonic exploit, exposing the admin-key reality behind 'decentralized' L1s.",
+      "angle": "Security teardown: walk through what 'halting a chain' actually requires (validator coordination, multisig authority) and why that centralization is the real story, not the exploit itself.",
       "source": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Two Chains Hit Their Halt Button in One Week — Cronos and Ontology Just Showed You Who's Really in Charge",
-      "why_now": "Ontology halted mainnet over a 'potential security concern' within days of Cronos's exploit-driven halt, giving a clean two-data-point trend to call out.",
-      "angle": "Pattern piece / thread: 'immutable' ledgers keep discovering they have admin keys — list every halt this year and ask what 'decentralized' is actually insuring against.",
-      "source": "https://thedefiant.io/news/blockchains/ontology-halts-mainnet-block-production-over-potential-security-concern"
+      "title": "$114M in 48 Hours: Lazarus, More Markets, and Tectonic Are the Same Story Wearing Different Masks",
+      "why_now": "Three unrelated-looking incidents (Lazarus $30M through Hyperliquid, More Markets $9.3M drain, Cronos/Tectonic $75M) hit within 48 hours, all traceable to the same category of failure: unaudited reserve logic and lax bridge/oracle controls.",
+      "angle": "Pattern-recognition roundup — a single chart/timeline post showing the total weekly hack tally and the recurring root causes, closing with 'you already know how this ends' framing.",
+      "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "North Korean Hackers Are Laundering Millions on Hyperliquid — While Washington Tries to Bring It Onshore",
-      "why_now": "CoinDesk reports Lazarus-style actors moving tens of millions through Hyperliquid just as US regulators and Trump push to legitimize perps trading there.",
-      "angle": "Irony-forward analysis: pair the DPRK flows with the onshoring push and former SEC/CFTC officials calling for a 'lighter touch' — ask who's really being protected.",
-      "source": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform"
+      "title": "Lazarus Just Used Hyperliquid Like a Bank — Perp DEXs Are the New Laundering Rail",
+      "why_now": "On-chain sleuths tied $30M in Lazarus-linked funds moving through Hyperliquid, showing state-sponsored actors now treat high-liquidity DEXs as exit liquidity.",
+      "angle": "Explainer/thread on how sanctioned actors exploit permissionless perp venues for laundering, and what that means for Hyperliquid's growing TradFi partnerships (tie to Hyperliquid Strategies' $2.5B facility news).",
+      "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$9.3M Drained From More Markets — Another Lending Reserve, Another 'Oracle Issue'",
-      "why_now": "Blockaid caught the More Markets drain in real time, giving a fresh, concrete case study of lending-reserve risk the same week as the much larger Cronos hit.",
-      "angle": "Mechanics explainer: dissect the reserve-drain vector, compare it to the last five 'lending protocol' exploits, and make the case that reserve models are the recurring failure mode DeFi refuses to fix.",
-      "source": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "OpenAI's Astra Can Build Attacks Without a Human — Crypto's Smart Contract Audits Just Got a Countdown Clock",
+      "why_now": "OpenAI disclosed Astra can autonomously construct attacks, a direct threat multiplier for an industry that just lost $114M+ to human-built exploits in one week.",
+      "angle": "Forward-looking security op-ed: if AI can now automate exploit discovery, audit firms and bug bounty timelines are already obsolete — what protocols need to change now.",
+      "source": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help"
     },
     {
-      "title": "'Bad Actors' Launched a Fake Trump Token Again — And Nobody's Surprised Anymore",
-      "why_now": "Real Trump Coins' denial of the GOLD token launch is the latest entry in a now-predictable playbook of political-brand memecoin scams with zero recourse.",
-      "angle": "Skeptic's field guide: use this incident to catalog the tell-tale signs of brand-hijack token scams and why 'we didn't launch this' statements never come with refunds.",
-      "source": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Tether Froze $42.4M Before the Warrant Existed — 'Not Your Keys' Was Never About Hackers",
+      "why_now": "A new lawsuit alleges Tether froze funds months before any U.S. warrant was issued, reviving the custody-risk argument right as institutions pile into stablecoin ventures (Citi/Goldman) and RWA rails.",
+      "angle": "Security-led custody piece: frame stablecoin issuer discretion as the same risk category as exchange hacks — funds you don't control, seized without due process, dressed up as compliance.",
+      "source": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant"
     }
   ]
 }
