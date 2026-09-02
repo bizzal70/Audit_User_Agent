@@ -5048,5 +5048,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-09-02",
+    "videos": [
+      {
+        "id": "5YFlJskrupk",
+        "title": "Torch and Light often gets mismanaged #shadowdark",
+        "published": "2026-09-01",
+        "views": 10,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "nPwuVyyDjGI",
+        "title": "College of Glamour's Mantle of Inspiration surprises with its efficiency #dnd5e",
+        "published": "2026-09-01",
+        "views": 44,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "jEIwSb3L8L0",
+        "title": "Experience Points are earned in small amounts #dcc",
+        "published": "2026-09-01",
+        "views": 10,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "D6XbMxd17Zg",
+        "title": "Planar Step's Will save complicates targeting foes #dcc",
+        "published": "2026-08-31",
+        "views": 36,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "pJ3VL38wPZg",
+        "title": "Planar Step: Infinite Range Requires Careful Planning #dcc",
+        "published": "2026-08-31",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "jcIODhj1g-c",
+        "title": "Winter Wolf earns its stakes fast #shadowdark",
+        "published": "2026-08-31",
+        "views": 13,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Y8ORxMuyGRc",
+        "title": "Cover often gets misinterpreted #dnd5e",
+        "published": "2026-08-31",
+        "views": 103,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "HFqDT75ki0U",
+        "title": "Cure Paralysis changes encounter dynamics more than players expect #dcc",
+        "published": "2026-08-31",
+        "views": 28,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "TR0HyUQpPGc",
+        "title": "Sphere Of Annihilation obliterates everything it touches #shadowdark",
+        "published": "2026-08-30",
+        "views": 102,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "KLcrrWun_Fg",
+        "title": "Run Quickling as a moral-choice encounter: they can protect everyone #dnd5e",
+        "published": "2026-08-30",
+        "views": 96,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "0f8vfkBrHMQ",
+        "title": "Large Scorpion's poison is more potent than expected #dcc",
+        "published": "2026-08-30",
+        "views": 20,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "AI76X5-oS7U",
+        "title": "Torchlight briefing: Spell Casting Check #shadowdark",
+        "published": "2026-08-29",
+        "views": 260,
+        "likes": 2,
+        "comments": 0
+      }
+    ]
   }
 ]
