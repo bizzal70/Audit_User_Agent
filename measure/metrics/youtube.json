@@ -5149,5 +5149,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-09-03",
+    "videos": [
+      {
+        "id": "6bbDCqD-4jU",
+        "title": "Curse alters the game state more than players expect #shadowdark",
+        "published": "2026-09-02",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "uVHiMnA2uOU",
+        "title": "Stone Giant's Boulder attack surprises with its reach #dnd5e",
+        "published": "2026-09-02",
+        "views": 63,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "izECXdVJ3EI",
+        "title": "Death Dealer (Bane Weapon) delivers instant death to its bane #dcc",
+        "published": "2026-09-02",
+        "views": 45,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "5YFlJskrupk",
+        "title": "Torch and Light often gets mismanaged #shadowdark",
+        "published": "2026-09-01",
+        "views": 19,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "nPwuVyyDjGI",
+        "title": "College of Glamour's Mantle of Inspiration surprises with its efficiency #dnd5e",
+        "published": "2026-09-01",
+        "views": 63,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "jEIwSb3L8L0",
+        "title": "Experience Points are earned in small amounts #dcc",
+        "published": "2026-09-01",
+        "views": 15,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "D6XbMxd17Zg",
+        "title": "Planar Step's Will save complicates targeting foes #dcc",
+        "published": "2026-08-31",
+        "views": 38,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "pJ3VL38wPZg",
+        "title": "Planar Step: Infinite Range Requires Careful Planning #dcc",
+        "published": "2026-08-31",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "jcIODhj1g-c",
+        "title": "Winter Wolf earns its stakes fast #shadowdark",
+        "published": "2026-08-31",
+        "views": 13,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Y8ORxMuyGRc",
+        "title": "Cover often gets misinterpreted #dnd5e",
+        "published": "2026-08-31",
+        "views": 105,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "HFqDT75ki0U",
+        "title": "Cure Paralysis changes encounter dynamics more than players expect #dcc",
+        "published": "2026-08-31",
+        "views": 28,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "TR0HyUQpPGc",
+        "title": "Sphere Of Annihilation obliterates everything it touches #shadowdark",
+        "published": "2026-08-30",
+        "views": 108,
+        "likes": 2,
+        "comments": 0
+      }
+    ]
   }
 ]
