@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-02T11:08:25+00:00",
+  "generated": "2026-09-03T11:07:47+00:00",
   "opportunities": [
     {
-      "title": "Sly Flourish's Lazy Monster Rules Could Fix Daggerheart's Biggest GM Prep Problem",
-      "why_now": "Sly Flourish just published a fresh improvised-monster framework for Daggerheart, giving a concrete rules hack to dissect against the official statblock system.",
-      "angle": "Rules breakdown: compare Sly Flourish's method line-by-line to Daggerheart's official adversary-building rules and flag where it bends or breaks them",
-      "source": "https://slyflourish.com/lazy_improvised_monsters_for_daggerheart.html?rss=1"
+      "title": "Crowdfunding Roundup: The Actual Rules Skullcrusher, Time Without Tide, and Jadestorm Are Promising",
+      "why_now": "Three fresh TTRPG Kickstarters just dropped, giving readers a same-week comparison of stated mechanics before backing.",
+      "angle": "Rules-first breakdown table comparing core mechanics, dice systems, and stretch-goal rule additions across all three campaigns",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
     },
     {
-      "title": "Arcana Unleashed Previewed: The Rules We Actually Know So Far",
-      "why_now": "EN World's podcast livestream just previewed Arcana Unleashed, giving the first crack of rules detail to parse before hype outruns facts.",
-      "angle": "Fact-check/rules digest pulling exact mechanical claims from the podcast preview, flagging what's confirmed vs. speculative",
-      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
-    },
-    {
-      "title": "Dark Sun's Original Designers Are Back — Which Rules DNA Survives?",
-      "why_now": "News just dropped that Dark Sun's original creators are building a new world, inviting a rules-history retrospective while the announcement is fresh.",
-      "angle": "Rules retrospective: catalog Dark Sun 2e's defining mechanics (defiling/preserving magic, mutant PC options, low-magic economy) and predict which survive in the new setting",
-      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
-    },
-    {
-      "title": "New D&D Video Games Announced — History Says They Won't Use D&D's Actual Rules",
-      "why_now": "The same podcast teased new D&D video games, timely enough to run a rules-fidelity track record piece before official mechanics are revealed.",
-      "angle": "Knowing listicle: audit past D&D video game adaptations (Baldur's Gate 3, Neverwinter, Dark Alliance) against tabletop 5e rules to set expectations",
-      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
-    },
-    {
-      "title": "The Rules for Starting a TTRPG Podcast, Fact-Checked",
-      "why_now": "EN World just posted a how-to on launching a TTRPG podcast, a perfect target for the channel's 'rules are already written' voice applied to content creation itself.",
-      "angle": "Knowing rebuttal/annotation: take EN World's guide point-by-point and add the missing legal/rules-clearance facts (using published game terms, actual play licensing, etc.)",
+      "title": "The Rules for Starting a TTRPG Podcast Were Already Written — Here's the Checklist EN World Left Out",
+      "why_now": "EN World's podcast launch piece is timely but soft; readers want the concrete rules-doc equivalent for actual play production.",
+      "angle": "Numbered rules-style checklist (recording standards, session-zero disclosure, IP/OGL considerations for actual play) styled as a 'ruleset' for podcasting",
       "source": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-podcast.720233/"
+    },
+    {
+      "title": "What a Non-TTRPG Reading List Reveals About the Rules We Steal",
+      "why_now": "Gnome Stew's fresh reading list is analysis-adjacent; our channel can sharpen it into a rules-mechanics lens most blogs won't.",
+      "angle": "Take each book/genre on the list and name the specific published TTRPG subsystem it most resembles or inspired",
+      "source": "https://gnomestew.com/you-are-what-you-eat-a-non-ttrpg-reading-list/"
+    },
+    {
+      "title": "Monster Hunter Wilds' Event Quest Schedule Is Basically a Published Bestiary Rotation — Here's the Tabletop Equivalent",
+      "why_now": "RPGSite's detailed event-quest guide just dropped, giving a hook to explain how tabletop monster-hunting games (Monster of the Week, Trophy Gold) already codify the same reward-loop rules digitally.",
+      "angle": "Side-by-side rules comparison: MH Wilds event structure vs. published TTRPG bounty/hunt subsystems",
+      "source": "https://www.rpgsite.net/guide/16923-monster-hunter-wilds-event-quest-list-guide-rewards-full-schedule-how-to-unlock-challenge-quest"
+    },
+    {
+      "title": "Dragon's Dogma 2's Vocation Overhaul Just Proved a Rule Tabletop Designers Already Knew",
+      "why_now": "The fresh 3.2 title update reworking vocations is a live case study for class-design balance patches, timely for a rules-facts angle.",
+      "angle": "Analysis post translating the patch notes into TTRPG class-balance principles (multiclassing, subclass power creep, respec rules)",
+      "source": "https://www.rpgsite.net/news/21270-dragons-dogma-2-september-2026-new-title-update-performance-frame-rate-ps5-pro-xbox-series-x-s-pc-improvement"
     }
   ]
 }

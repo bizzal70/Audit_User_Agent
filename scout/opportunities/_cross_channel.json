@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-02T11:08:25+00:00",
+  "generated": "2026-09-03T11:07:47+00:00",
   "plays": [
     {
-      "story": "EN World's Podcast #412 livestream previews Arcana Unleashed and new D&D video games, plus reveals that Dark Sun's original creators are building an entirely new setting from scratch.",
+      "story": "Weekly RPG crowdfunding roundup spotlighting Skullcrusher, Time Without Tide, and Jadestorm",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Arcana Unleashed Just Got Previewed — Here's Every Mechanic GMs Need to Know Before It Drops",
-        "itsalreadywritten": "The Original Dark Sun Creators Are Building a New World From Scratch — What Decades of Worldbuilding Experience Teaches Us About Setting Design"
+        "bizzal-games": "\"Which TTRPG Kickstarters Are Actually Worth Backing This Week? Skullcrusher, Time Without Tide & Jadestorm Ranked by Table-Readiness\" — a practical backer's guide grading each project on rules, art, and shipping risk.",
+        "itsalreadywritten": "\"Three New TTRPGs, Three Different Apocalypses: What Time Without Tide and Jadestorm Reveal About Where Fantasy Worldbuilding Is Headed\" — a lore/setting-craft teardown of the fiction behind this week's crowdfunded settings."
       },
-      "source": "https://www.enworld.org/threads/podcast-412-livestream-arcana-unleashed-previewed-new-d-d-video-games-dark-suns-original-creators-make-new-world.720490/"
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
     },
     {
-      "story": "Sly Flourish publishes a guide to running lazy, improvised monsters in Daggerheart, offering GM shortcuts that lean on the system's narrative-first design.",
+      "story": "Gnome Stew's 'You Are What You Eat' non-TTRPG reading list for GMs",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Steal These Lazy Improvised Monster Rules for Your Next Daggerheart Session — No Prep Required",
-        "itsalreadywritten": "Improv Monsters, Instant Story: How Daggerheart Turns Snap GM Decisions Into Narrative Gold"
+        "bizzal-games": "\"Stop Reading RPG Books: The Non-TTRPG Reading List Every GM Needs to Run Better Sessions\" — turning Gnome Stew's picks into concrete prep homework for game masters.",
+        "itsalreadywritten": "\"The Novels Smart GMs Steal From: Decoding Gnome Stew's Non-TTRPG Reading List for Writers\" — mining the same list for narrative-craft lessons novelists and DM-writers can lift directly."
       },
-      "source": "https://slyflourish.com/lazy_improvised_monsters_for_daggerheart.html?rss=1"
+      "source": "https://gnomestew.com/you-are-what-you-eat-a-non-ttrpg-reading-list/"
     },
     {
-      "story": "OpenAI announces its new 'Astra' model can autonomously build cyberattacks without human help, a claim covered by both crypto and cybersecurity outlets as a critical threshold moment.",
-      "channels": [
-        "itsalreadywhen",
-        "itsalreadypriced"
-      ],
-      "angles": {
-        "itsalreadywhen": "OpenAI's Astra Can Build Cyberattacks Solo — What Security Teams Must Change Starting Today",
-        "itsalreadypriced": "Autonomous AI Attacks Are Coming for Crypto: What Astra Means for Exchange and Wallet Security"
-      },
-      "source": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/"
-    },
-    {
-      "story": "Lazarus Group-linked wallets move $30M through Hyperliquid, the latest in a wave of major DeFi exploits (Cronos, More Markets) this week that blend crypto laundering with nation-state cyber tradecraft.",
+      "story": "Lazarus Group-linked wallets move $30M through Hyperliquid",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Lazarus Group Just Laundered $30M Through Hyperliquid — Tracing the Trail Through DeFi's Biggest Exploit Week",
-        "itsalreadywhen": "North Korea's Lazarus Group Adds Hyperliquid to Its Laundering Playbook — Why Defenders Need to Watch DeFi Rails"
+        "itsalreadypriced": "\"Lazarus Group Just Moved $30M Through Hyperliquid — What North Korea's Laundering Route Means for DeFi Liquidity and Your Portfolio\" — market-impact read on state-actor flows through a top perp DEX.",
+        "itsalreadywhen": "\"North Korea's Hackers Are Laundering Through DeFi Now: Inside the Lazarus-Hyperliquid $30M Trail\" — threat-intel breakdown of the APT's evolving on-chain tradecraft."
       },
       "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "ClickFix malware campaign compromises 31 organizations by abusing the Polygon blockchain",
+      "channels": [
+        "itsalreadywhen",
+        "itsalreadypriced"
+      ],
+      "angles": {
+        "itsalreadywhen": "\"ClickFix Just Hit 31 Orgs by Hijacking Polygon as C2 Infrastructure — the New Playbook for Blockchain-Powered Malware\" — a defender's guide to detecting on-chain command-and-control traffic.",
+        "itsalreadypriced": "\"Hackers Are Using Polygon as Malware Infrastructure: What the ClickFix Campaign Means for Chain Reputation and Enterprise Adoption\" — the crypto-market angle on how abuse cases affect L2 credibility."
+      },
+      "source": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain"
     }
   ]
 }

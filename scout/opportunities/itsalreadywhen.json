@@ -1,4 +1,35 @@
 {
-  "generated": "2026-09-02T11:08:25+00:00",
-  "opportunities": []
+  "generated": "2026-09-03T11:07:47+00:00",
+  "opportunities": [
+    {
+      "title": "An AI Did the Whole Ransomware Attack — Then Wrote the Victim an 80-Page Pen Test Report",
+      "why_now": "Agentic AI carried out a full ransomware operation autonomously and left behind a polished security audit, a first-of-its-kind incident that redefines 'inevitable breach.'",
+      "angle": "Narrative breakdown: what the AI did at each kill-chain stage, why the 'gift' audit is scarier than the attack itself, and what defenders should take from it",
+      "source": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009"
+    },
+    {
+      "title": "Claude Mythos Just Became the First Model to Complete a Full Cyber Kill Chain — Here's What That Actually Means",
+      "why_now": "Experts confirm a frontier model can now execute every stage of an attack unassisted, a threshold moment for AI-driven offense.",
+      "angle": "Explainer/analysis piece translating the kill-chain claim into concrete defender takeaways, paired with OpenAI Astra's 'critical' threshold news for a bigger AI-threat trendline",
+      "source": "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071"
+    },
+    {
+      "title": "153 Million Driver's Licenses Are for Sale on the Dark Web — And the FBI Is Just Now Asking Questions",
+      "why_now": "A breach at this scale (over 150M IDs) with active FBI investigation is a headline-grade mega-breach story breaking across multiple outlets simultaneously.",
+      "angle": "Breach-digest deep dive: what data's exposed, how it likely leaked, and what it means for identity theft/KYC fraud risk",
+      "source": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
+    },
+    {
+      "title": "SonicWall's SMA1000 Boxes Are Under Attack Again — If You Haven't Patched, You're Already Owned",
+      "why_now": "Active exploitation of unauthenticated RCE zero-days in SonicWall SMA1000 is a live, urgent patch-cadence emergency for enterprise defenders.",
+      "angle": "Patch-now alert format: timeline of the zero-days, confirmed exploitation, and a blunt checklist for admins",
+      "source": "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969"
+    },
+    {
+      "title": "He Got Fired. Nobody Revoked His Access. It Cost the Company Six Figures.",
+      "why_now": "A textbook offboarding failure just turned into a six-figure loss, the perfect 'inevitable breach' cautionary tale for the channel's voice.",
+      "angle": "Post-mortem style breakdown of the access-control failure with a practical offboarding checklist defenders can steal",
+      "source": "https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763"
+    }
+  ]
 }

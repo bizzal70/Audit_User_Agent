@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-02T11:08:25+00:00",
+  "generated": "2026-09-03T11:07:47+00:00",
   "opportunities": [
     {
-      "title": "Cronos Halted Its Own Chain After a $75M Exploit — That's Not Decentralization, That's a Kill Switch",
-      "why_now": "Cronos froze the network after the Tectonic exploit, exposing the admin-key reality behind 'decentralized' L1s.",
-      "angle": "Security teardown: walk through what 'halting a chain' actually requires (validator coordination, multisig authority) and why that centralization is the real story, not the exploit itself.",
-      "source": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Your Hardware Wallet Was Never the Weak Link — The Coldcard Hacker's Exit Route Was",
+      "why_now": "The Coldcard theft only became 'real' once the stolen BTC hit THORChain for an ETH swap, exposing the actual laundering rail attackers rely on.",
+      "angle": "Forensic breakdown of the swap path — argue self-custody security theater ends where cross-chain liquidity begins; tie to why THORChain keeps showing up in hack post-mortems",
+      "source": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$114M in 48 Hours: Lazarus, More Markets, and Tectonic Are the Same Story Wearing Different Masks",
-      "why_now": "Three unrelated-looking incidents (Lazarus $30M through Hyperliquid, More Markets $9.3M drain, Cronos/Tectonic $75M) hit within 48 hours, all traceable to the same category of failure: unaudited reserve logic and lax bridge/oracle controls.",
-      "angle": "Pattern-recognition roundup — a single chart/timeline post showing the total weekly hack tally and the recurring root causes, closing with 'you already know how this ends' framing.",
+      "title": "Lazarus Just Ran $30M Through Hyperliquid — Perps Are the New Mixer",
+      "why_now": "DPRK-linked addresses moving through a top perp DEX signals laundering has moved from bridges to derivatives venues, a structural shift security desks need to price in now.",
+      "angle": "Explainer on why perp DEXs are becoming preferred laundering infrastructure; checklist for what compliance teams should be watching on Hyperliquid-style venues",
       "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Lazarus Just Used Hyperliquid Like a Bank — Perp DEXs Are the New Laundering Rail",
-      "why_now": "On-chain sleuths tied $30M in Lazarus-linked funds moving through Hyperliquid, showing state-sponsored actors now treat high-liquidity DEXs as exit liquidity.",
-      "angle": "Explainer/thread on how sanctioned actors exploit permissionless perp venues for laundering, and what that means for Hyperliquid's growing TradFi partnerships (tie to Hyperliquid Strategies' $2.5B facility news).",
-      "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Tether Froze $42M to Stop a Scam — Now the Victims Are Suing Tether",
+      "why_now": "This is the first major test case of whether Tether's freeze powers protect victims or just create new legal liability, with real money and real plaintiffs.",
+      "angle": "Legal/security explainer: what Tether's freeze actually does, why 'centralized stablecoin as fraud backstop' cuts both ways, and what it means for anyone relying on issuer intervention",
+      "source": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "OpenAI's Astra Can Build Attacks Without a Human — Crypto's Smart Contract Audits Just Got a Countdown Clock",
-      "why_now": "OpenAI disclosed Astra can autonomously construct attacks, a direct threat multiplier for an industry that just lost $114M+ to human-built exploits in one week.",
-      "angle": "Forward-looking security op-ed: if AI can now automate exploit discovery, audit firms and bug bounty timelines are already obsolete — what protocols need to change now.",
-      "source": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help"
+      "title": "Full Sail Is Dead Because an Oracle Was Wrong — Again",
+      "why_now": "A Sui DeFi protocol just wound down entirely because of a Switchboard oracle incident, another entry in the growing pile of 'oracle failure kills protocol' case studies.",
+      "angle": "Pattern-recognition piece: catalog oracle-triggered protocol deaths, argue this is the most underpriced risk vector in DeFi right now, not smart contract bugs",
+      "source": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Tether Froze $42.4M Before the Warrant Existed — 'Not Your Keys' Was Never About Hackers",
-      "why_now": "A new lawsuit alleges Tether froze funds months before any U.S. warrant was issued, reviving the custody-risk argument right as institutions pile into stablecoin ventures (Citi/Goldman) and RWA rails.",
-      "angle": "Security-led custody piece: frame stablecoin issuer discretion as the same risk category as exchange hacks — funds you don't control, seized without due process, dressed up as compliance.",
-      "source": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant"
+      "title": "Ukraine Busted a $1M/Month Drainer Ring — Yours Is Still Live",
+      "why_now": "Law enforcement just confirmed the scale of organized wallet-drainer operations, a concrete number that makes the abstract threat immediate and quantifiable.",
+      "angle": "Practical security piece: how drainer kits actually work, why busts like this barely dent the supply chain, and what signing hygiene actually prevents it",
+      "source": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly"
     }
   ]
 }
