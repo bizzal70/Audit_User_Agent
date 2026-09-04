@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-03T11:07:47+00:00",
+  "generated": "2026-09-04T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "Your Hardware Wallet Was Never the Weak Link — The Coldcard Hacker's Exit Route Was",
-      "why_now": "The Coldcard theft only became 'real' once the stolen BTC hit THORChain for an ETH swap, exposing the actual laundering rail attackers rely on.",
-      "angle": "Forensic breakdown of the swap path — argue self-custody security theater ends where cross-chain liquidity begins; tie to why THORChain keeps showing up in hack post-mortems",
+      "title": "The Coldcard Hack Wasn't the Story — The THORChain Laundering Was",
+      "why_now": "A hardware wallet compromise just got cross-chain-swapped from BTC to ETH via THORChain within days, showing exactly how stolen self-custodied funds move once they're out.",
+      "angle": "Forensic breakdown/thread: trace the swap path, explain why THORChain is the laundering rail of choice, end with the cold-storage lesson everyone ignores until it's their seed phrase.",
       "source": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Lazarus Just Ran $30M Through Hyperliquid — Perps Are the New Mixer",
-      "why_now": "DPRK-linked addresses moving through a top perp DEX signals laundering has moved from bridges to derivatives venues, a structural shift security desks need to price in now.",
-      "angle": "Explainer on why perp DEXs are becoming preferred laundering infrastructure; checklist for what compliance teams should be watching on Hyperliquid-style venues",
+      "title": "Lazarus Just Ran $30M Through Hyperliquid — Perps Platforms Are the New Mixers",
+      "why_now": "DPRK-linked addresses moved $30M through a major perp DEX, proving on-chain leverage venues are now sanctioned-actor laundering infrastructure, not just degen casinos.",
+      "angle": "Explainer + warning: how state hackers exploit deep-liquidity perp books for clean exits, and what it means for any platform courting 'no-KYC' volume.",
       "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Tether Froze $42M to Stop a Scam — Now the Victims Are Suing Tether",
-      "why_now": "This is the first major test case of whether Tether's freeze powers protect victims or just create new legal liability, with real money and real plaintiffs.",
-      "angle": "Legal/security explainer: what Tether's freeze actually does, why 'centralized stablecoin as fraud backstop' cuts both ways, and what it means for anyone relying on issuer intervention",
+      "title": "Tether Just Proved Your 'Stablecoin' Has an Off Switch",
+      "why_now": "Thai victims of a $61M pig-butchering scam are suing Tether for freezing $42M — a live case study in who actually controls 'decentralized' dollars.",
+      "angle": "Take piece: freezing power is a feature for victims and a liability for holders — walk through what Tether's discretion means for anyone treating USDT as neutral cash.",
       "source": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Full Sail Is Dead Because an Oracle Was Wrong — Again",
-      "why_now": "A Sui DeFi protocol just wound down entirely because of a Switchboard oracle incident, another entry in the growing pile of 'oracle failure kills protocol' case studies.",
-      "angle": "Pattern-recognition piece: catalog oracle-triggered protocol deaths, argue this is the most underpriced risk vector in DeFi right now, not smart contract bugs",
-      "source": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "$12.7 Billion: FinCEN Just Put a Number on the Scam Compound Economy",
+      "why_now": "FinCEN's fresh figure quantifies just how industrialized pig-butchering has become, landing the same week as the Tether freeze lawsuit — the two stories are the same story.",
+      "angle": "Data-led post: size the compound economy, map it against the Tether case, argue this is now systemic risk, not isolated fraud.",
+      "source": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds"
     },
     {
-      "title": "Ukraine Busted a $1M/Month Drainer Ring — Yours Is Still Live",
-      "why_now": "Law enforcement just confirmed the scale of organized wallet-drainer operations, a concrete number that makes the abstract threat immediate and quantifiable.",
-      "angle": "Practical security piece: how drainer kits actually work, why busts like this barely dent the supply chain, and what signing hygiene actually prevents it",
-      "source": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly"
+      "title": "Robinhood's Tokenized AMC Shares Aren't Shares — Here's What You Actually Own",
+      "why_now": "AMC's CEO just called Robinhood's stock tokens 'contemptible' and 'vile,' putting a spotlight on synthetic-share custody risk right as tokenized-securities hype (South Korea, Coinbase perps) accelerates.",
+      "angle": "Security-first breakdown of what a tokenized share legally represents, counterparty risk if the wrapper fails, and why 'it's on-chain' isn't the same as 'you own it.'",
+      "source": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513"
     }
   ]
 }

@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-03T11:07:47+00:00",
+  "generated": "2026-09-04T11:08:02+00:00",
   "plays": [
     {
-      "story": "Weekly RPG crowdfunding roundup spotlighting Skullcrusher, Time Without Tide, and Jadestorm",
+      "story": "Netflix greenlights a Ravenloft TV series while killing its Forgotten Realms show — signaling a pivot from epic high fantasy to gothic horror IP",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "\"Which TTRPG Kickstarters Are Actually Worth Backing This Week? Skullcrusher, Time Without Tide & Jadestorm Ranked by Table-Readiness\" — a practical backer's guide grading each project on rules, art, and shipping risk.",
-        "itsalreadywritten": "\"Three New TTRPGs, Three Different Apocalypses: What Time Without Tide and Jadestorm Reveal About Where Fantasy Worldbuilding Is Headed\" — a lore/setting-craft teardown of the fiction behind this week's crowdfunded settings."
+        "bizzal-games": "Netflix Just Told Us Gothic Horror Beats Epic Fantasy: What Ravenloft's Green Light Means for Your Next Campaign — break down why Ravenloft's mechanics (Domains of Dread, Dark Powers checks) translate to screen better than the Realms' sprawl, and what that says about running horror one-shots at your table right now.",
+        "itsalreadywritten": "Forgotten Realms Is Dead, Long Live Ravenloft: Why Netflix Chose Curses Over Kingdoms — a writing-craft piece on how Ravenloft's tight, character-driven horror structure (a handful of doomed domains, personal tragedy arcs) is simply easier to adapt than FR's 40 years of continuity bloat."
+      },
+      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+    },
+    {
+      "story": "This week's RPG crowdfunding roundup — Skullcrusher, Time Without Tide, Jadestorm, and more — hits EN World",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Backer's Triage: Which of September's TTRPG Kickstarters (Skullcrusher, Time Without Tide, Jadestorm) Actually Ship Playable Rules — a hands-on comparison of mechanics, stretch goals, and creator track records to help readers decide where to put money before deadlines close.",
+        "itsalreadywritten": "The Lore Behind the Pledge: What Jadestorm and Time Without Tide's Settings Reveal About 2026's TTRPG Storytelling Trends — dig into the worldbuilding pitches of these crowdfunded games as a lens on where indie tabletop fiction is heading."
       },
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
     },
     {
-      "story": "Gnome Stew's 'You Are What You Eat' non-TTRPG reading list for GMs",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "\"Stop Reading RPG Books: The Non-TTRPG Reading List Every GM Needs to Run Better Sessions\" — turning Gnome Stew's picks into concrete prep homework for game masters.",
-        "itsalreadywritten": "\"The Novels Smart GMs Steal From: Decoding Gnome Stew's Non-TTRPG Reading List for Writers\" — mining the same list for narrative-craft lessons novelists and DM-writers can lift directly."
-      },
-      "source": "https://gnomestew.com/you-are-what-you-eat-a-non-ttrpg-reading-list/"
-    },
-    {
-      "story": "Lazarus Group-linked wallets move $30M through Hyperliquid",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "\"Lazarus Group Just Moved $30M Through Hyperliquid — What North Korea's Laundering Route Means for DeFi Liquidity and Your Portfolio\" — market-impact read on state-actor flows through a top perp DEX.",
-        "itsalreadywhen": "\"North Korea's Hackers Are Laundering Through DeFi Now: Inside the Lazarus-Hyperliquid $30M Trail\" — threat-intel breakdown of the APT's evolving on-chain tradecraft."
-      },
-      "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "ClickFix malware campaign compromises 31 organizations by abusing the Polygon blockchain",
+      "story": "OpenAI commits $1 billion in AI credits to frontline cyber defenders — the same week its AI models are shown completing full offensive 'kill chains'",
       "channels": [
         "itsalreadywhen",
         "itsalreadypriced"
       ],
       "angles": {
-        "itsalreadywhen": "\"ClickFix Just Hit 31 Orgs by Hijacking Polygon as C2 Infrastructure — the New Playbook for Blockchain-Powered Malware\" — a defender's guide to detecting on-chain command-and-control traffic.",
-        "itsalreadypriced": "\"Hackers Are Using Polygon as Malware Infrastructure: What the ClickFix Campaign Means for Chain Reputation and Enterprise Adoption\" — the crypto-market angle on how abuse cases affect L2 credibility."
+        "itsalreadywhen": "OpenAI's $1B Defense Bet Arrives Right After Claude Mythos Ran a Full Cyber Kill Chain — What Machine-Speed Defense Actually Buys You — pair the funding announcement with the Dark Reading/Register pieces on AI cutting attack time from two weeks to 10 hours, asking whether credits can outpace agentic attackers.",
+        "itsalreadypriced": "AI Cyber-Defense Money Is Flooding In — Is Crypto Security Next? — use OpenAI's $1B pledge plus fresh raises (HiddenLayer's $100M, AIR Security's $50M) as a signal for where crypto custody/exchange security vendors should be looking for their own AI-defense arms race, especially after the Coldcard hacker's ETH swap via THORChain."
       },
-      "source": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain"
+      "source": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days"
+    },
+    {
+      "story": "Lazarus Group-linked wallets move $30M through Hyperliquid, the latest in a string of state-sponsored crypto laundering incidents",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Lazarus Group's $30M Hyperliquid Run: What It Means for DeFi's 'No KYC' Liquidity Problem — cover the market/regulatory fallout, tying it to Chainalysis's new HyperEVM tracking support as the compliance response.",
+        "itsalreadywhen": "Inside North Korea's $30M Cash-Out: How Lazarus Group Turns Stolen Bitcoin Into Untraceable ETH — a threat-intel breakdown of the laundering chain (Coldcard hack → THORChain swap → Hyperliquid move) as a case study in state-actor tradecraft for defenders to watch for."
+      },
+      "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

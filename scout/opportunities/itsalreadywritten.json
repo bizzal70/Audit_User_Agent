@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-03T11:07:47+00:00",
+  "generated": "2026-09-04T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "Crowdfunding Roundup: The Actual Rules Skullcrusher, Time Without Tide, and Jadestorm Are Promising",
-      "why_now": "Three fresh TTRPG Kickstarters just dropped, giving readers a same-week comparison of stated mechanics before backing.",
-      "angle": "Rules-first breakdown table comparing core mechanics, dice systems, and stretch-goal rule additions across all three campaigns",
+      "title": "Ravenloft Is Coming to Netflix — Here's What the Actual Domains of Dread Rules Say About Horror",
+      "why_now": "Netflix's Ravenloft series announcement is a rare mainstream spotlight on a D&D setting whose horror mechanics (Dark Powers checks, domain rules) are wildly misunderstood outside the tabletop.",
+      "angle": "Rules explainer: pull the actual Van Richten's Guide to Ravenloft mechanics and predict which get flattened for TV",
+      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+    },
+    {
+      "title": "Forgotten Realms TV Is Dead. The Sourcebook Isn't Going Anywhere.",
+      "why_now": "The cancellation news is a timely hook to remind readers the Forgotten Realms Campaign Setting rules and lore remain fully codified regardless of Hollywood's plans.",
+      "angle": "Knowing-voice reaction post: 'The rules are already written' framing—canon lore vs. screen adaptation risk",
+      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+    },
+    {
+      "title": "Skullcrusher, Time Without Tide, Jadestorm: The Rules Hiding Inside This Week's Crowdfunding Slate",
+      "why_now": "Fresh crowdfunding roundup gives concrete new systems to mine for mechanical breakdowns before backers commit.",
+      "angle": "Rules-first crowdfunding digest: extract and compare core mechanics/resolution systems from each campaign",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
     },
     {
-      "title": "The Rules for Starting a TTRPG Podcast Were Already Written — Here's the Checklist EN World Left Out",
-      "why_now": "EN World's podcast launch piece is timely but soft; readers want the concrete rules-doc equivalent for actual play production.",
-      "angle": "Numbered rules-style checklist (recording standards, session-zero disclosure, IP/OGL considerations for actual play) styled as a 'ruleset' for podcasting",
-      "source": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-podcast.720233/"
-    },
-    {
-      "title": "What a Non-TTRPG Reading List Reveals About the Rules We Steal",
-      "why_now": "Gnome Stew's fresh reading list is analysis-adjacent; our channel can sharpen it into a rules-mechanics lens most blogs won't.",
-      "angle": "Take each book/genre on the list and name the specific published TTRPG subsystem it most resembles or inspired",
+      "title": "You Are What You Eat: A Non-TTRPG Reading List, Annotated for Rules Nerds",
+      "why_now": "Gnome Stew's inspiration-focused reading list is a chance to contrast 'vibes' inspiration with the actual codified mechanics designers eventually have to write down.",
+      "angle": "Response/annotation piece: for each book on the list, name the rule or subsystem it most likely inspired",
       "source": "https://gnomestew.com/you-are-what-you-eat-a-non-ttrpg-reading-list/"
     },
     {
-      "title": "Monster Hunter Wilds' Event Quest Schedule Is Basically a Published Bestiary Rotation — Here's the Tabletop Equivalent",
-      "why_now": "RPGSite's detailed event-quest guide just dropped, giving a hook to explain how tabletop monster-hunting games (Monster of the Week, Trophy Gold) already codify the same reward-loop rules digitally.",
-      "angle": "Side-by-side rules comparison: MH Wilds event structure vs. published TTRPG bounty/hunt subsystems",
-      "source": "https://www.rpgsite.net/guide/16923-monster-hunter-wilds-event-quest-list-guide-rewards-full-schedule-how-to-unlock-challenge-quest"
-    },
-    {
-      "title": "Dragon's Dogma 2's Vocation Overhaul Just Proved a Rule Tabletop Designers Already Knew",
-      "why_now": "The fresh 3.2 title update reworking vocations is a live case study for class-design balance patches, timely for a rules-facts angle.",
-      "angle": "Analysis post translating the patch notes into TTRPG class-balance principles (multiclassing, subclass power creep, respec rules)",
-      "source": "https://www.rpgsite.net/news/21270-dragons-dogma-2-september-2026-new-title-update-performance-frame-rate-ps5-pro-xbox-series-x-s-pc-improvement"
+      "title": "Two D&D Settings, Two Fates: What Ravenloft's Netflix Greenlight and Forgotten Realms' Cancellation Say About Rules-Faithful Adaptation",
+      "why_now": "Both stories broke together, making this the week's clearest natural comparison for a rules-and-canon-focused audience.",
+      "angle": "Analysis/thread: track record of adaptations that kept vs. ignored core setting mechanics, predicting Ravenloft's fidelity",
+      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
     }
   ]
 }

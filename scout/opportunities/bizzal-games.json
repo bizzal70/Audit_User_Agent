@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-03T11:07:47+00:00",
+  "generated": "2026-09-04T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "Skullcrusher's Crit Table vs. 5e's Crit-Fumble House Rules: Which One Actually Speeds Up Combat?",
-      "why_now": "This week's crowdfunding roundup surfaces Skullcrusher, a system built around a brutal crit mechanic, giving a timely peg to compare it against common 5e house rules.",
-      "angle": "Side-by-side mechanical breakdown short: read Skullcrusher's crit table on screen, then show the equivalent 5e fumble house rule and call which resolves faster at the table.",
+      "title": "Ravenloft's Dark Powers, RAW: the checks nobody runs correctly",
+      "why_now": "Netflix's Ravenloft series announcement puts the setting in search trends, and most tables misuse the Dark Powers check mechanic anyway.",
+      "angle": "60-sec ruling breakdown: read the actual DMG check, correct DC logic, one worked example at the table",
+      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+    },
+    {
+      "title": "Forgotten Realms show is dead. Your Forgotten Realms lore was never load-bearing anyway",
+      "why_now": "The cancellation is a live news hook; letting a wry veteran GM take a shot at lore-vs-crunch culture is on-brand and shareable.",
+      "angle": "Dry hot-take short: 3 examples where FR lore contradicts core 5e rules, so nothing changes at your table",
+      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+    },
+    {
+      "title": "Monster Wrangling, but make it Ranger: fixing Beast Master with Dragon Quest Monsters logic",
+      "why_now": "The Monster Wrangler trailer just dropped during State of Play, giving a timely visual hook for a perennial 5e subclass complaint.",
+      "angle": "Homebrew fix short: capture/bond mechanic ported to Beast Master, one clean houserule, no fluff",
+      "source": "https://www.rpgsite.net/news/21280-dragon-quest-monsters-the-withered-world-monster-wrangler-trailer-state-of-play-ps5"
+    },
+    {
+      "title": "Crit tables from indie crowdfunders vs 5e's flat crit rule: which one actually speeds up combat",
+      "why_now": "This week's crowdfunding roundup (Skullcrusher etc.) surfaces alt-crit systems worth a mechanical comparison for 5e/DCC/Shadowdark GMs.",
+      "angle": "Side-by-side rules-math short: 5e double-dice crit vs a crowdfunded crit-table system, verdict on table speed",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
     },
     {
-      "title": "Monster Hunter Wilds' Boost Bracer Is Just Bardic Inspiration With Extra Steps — Here's the 5e Stat Block",
-      "why_now": "RPGSite's daily weapon showcase for Wilds' new Boost Bracer mechanic gives a fresh, high-search-volume video game term to reskin into a tabletop ruling.",
-      "angle": "Quick 'steal this mechanic' short: explain Boost Bracer, then convert it into a homebrew Bard feature or magic item with an actual 5e-legal wording.",
-      "source": "https://www.rpgsite.net/news/21272-monster-hunter-wilds-ascendance-boost-bracer-hunting-action-all-weapons-new-gameplay-showcase-guide"
-    },
-    {
-      "title": "Dragon's Dogma 2's New Pawn AI Patch Is the Legendary Action Table Your Boss Monster Is Missing",
-      "why_now": "The just-shipped 3.2 title update overhauling companion AI behavior gives a concrete, timely analogy for designing reactive legendary monsters.",
-      "angle": "Creature tactic short: use the patch notes as a jumping-off point to build a legendary action list that reacts to party positioning like an AI companion would.",
-      "source": "https://www.rpgsite.net/news/21270-dragons-dogma-2-september-2026-new-title-update-performance-frame-rate-ps5-pro-xbox-series-x-s-pc-improvement"
-    },
-    {
-      "title": "Gnome Stew Says Read Outside TTRPG — Here's the One Nonfiction Chapter That Fixed My Trap Design",
-      "why_now": "Gnome Stew's fresh reading-list piece is a direct hit to GM-craft content, letting the channel pick one concrete cross-genre source and turn it into an actionable ruling.",
-      "angle": "Wry veteran-GM monologue: name a specific book/chapter from the list, extract one design principle, apply it to a trap or encounter with a stated DC/effect.",
+      "title": "A GM's reading list that isn't a rulebook: what to steal from non-TTRPG books for tomorrow's session",
+      "why_now": "Gnome Stew's non-TTRPG reading list is fresh analysis content adjacent to prep culture, easy to convert into a punchy creature/scene-tactic tie-in.",
+      "angle": "Quick-hit list format: 3 books, 3 stolen tactics you can drop into a Shadowdark or DCC encounter tonight",
       "source": "https://gnomestew.com/you-are-what-you-eat-a-non-ttrpg-reading-list/"
-    },
-    {
-      "title": "Time Without Tide's Funding Page Buries a Genuinely Good Rule for Running Underwater Combat in 5e",
-      "why_now": "The crowdfunding roundup name-drops Time Without Tide, an aquatic-themed project, timely enough to mine for an underwater-combat ruling most 5e tables get wrong.",
-      "angle": "Rules-ruling short: state the RAW 5e underwater combat penalties, contrast with what Time Without Tide does differently, and give a one-line houserule fix.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
     }
   ]
 }
