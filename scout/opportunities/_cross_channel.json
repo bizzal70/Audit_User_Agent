@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-04T11:08:02+00:00",
+  "generated": "2026-09-05T11:07:05+00:00",
   "plays": [
     {
-      "story": "Netflix greenlights a Ravenloft TV series while killing its Forgotten Realms show — signaling a pivot from epic high fantasy to gothic horror IP",
+      "story": "D&D: Honor Among Thieves sequel script is finished and Hasbro/eOne are shopping for a studio to make it",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Netflix Just Told Us Gothic Horror Beats Epic Fantasy: What Ravenloft's Green Light Means for Your Next Campaign — break down why Ravenloft's mechanics (Domains of Dread, Dark Powers checks) translate to screen better than the Realms' sprawl, and what that says about running horror one-shots at your table right now.",
-        "itsalreadywritten": "Forgotten Realms Is Dead, Long Live Ravenloft: Why Netflix Chose Curses Over Kingdoms — a writing-craft piece on how Ravenloft's tight, character-driven horror structure (a handful of doomed domains, personal tragedy arcs) is simply easier to adapt than FR's 40 years of continuity bloat."
+        "bizzal-games": "'The Sequel Script Is Done — Here's What a Green-Lit Honor Among Thieves 2 Means for Your Table': break down what a studio-shopped script means for the D&D brand's momentum, tie-in product timing, and whether a movie deal could reshape 5.5E/VTT marketing pushes.",
+        "itsalreadywritten": "'They Finished the Script Before They Found a Studio — What That Says About How D&D Stories Get Told': use the stalled greenlight as a hook to dissect what made the first film's narrative work (found-family heist structure) and what a sequel script has to solve narratively to top it."
+      },
+      "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
+    },
+    {
+      "story": "Netflix moves forward on a Ravenloft series while the Forgotten Realms TV series is confirmed dead",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Netflix Just Told Wizards Which D&D IP Sells: Gothic Horror, Not Core Setting' — analyze the business signal behind killing the flagship Forgotten Realms show in favor of Ravenloft, and what it means for which settings get licensing dollars next.",
+        "itsalreadywritten": "'Ravenloft Already Wrote Netflix's Show For Them: A Curse of Strahd Adaptation Primer' — walk through how decades of Ravenloft modules (I6, Curse of Strahd) already contain the arcs, villains, and set pieces a showrunner would need, and where the source material could trip up a TV adaptation."
       },
       "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
     },
     {
-      "story": "This week's RPG crowdfunding roundup — Skullcrusher, Time Without Tide, Jadestorm, and more — hits EN World",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Backer's Triage: Which of September's TTRPG Kickstarters (Skullcrusher, Time Without Tide, Jadestorm) Actually Ship Playable Rules — a hands-on comparison of mechanics, stretch goals, and creator track records to help readers decide where to put money before deadlines close.",
-        "itsalreadywritten": "The Lore Behind the Pledge: What Jadestorm and Time Without Tide's Settings Reveal About 2026's TTRPG Storytelling Trends — dig into the worldbuilding pitches of these crowdfunded games as a lens on where indie tabletop fiction is heading."
-      },
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
-    },
-    {
-      "story": "OpenAI commits $1 billion in AI credits to frontline cyber defenders — the same week its AI models are shown completing full offensive 'kill chains'",
-      "channels": [
-        "itsalreadywhen",
-        "itsalreadypriced"
-      ],
-      "angles": {
-        "itsalreadywhen": "OpenAI's $1B Defense Bet Arrives Right After Claude Mythos Ran a Full Cyber Kill Chain — What Machine-Speed Defense Actually Buys You — pair the funding announcement with the Dark Reading/Register pieces on AI cutting attack time from two weeks to 10 hours, asking whether credits can outpace agentic attackers.",
-        "itsalreadypriced": "AI Cyber-Defense Money Is Flooding In — Is Crypto Security Next? — use OpenAI's $1B pledge plus fresh raises (HiddenLayer's $100M, AIR Security's $50M) as a signal for where crypto custody/exchange security vendors should be looking for their own AI-defense arms race, especially after the Coldcard hacker's ETH swap via THORChain."
-      },
-      "source": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days"
-    },
-    {
-      "story": "Lazarus Group-linked wallets move $30M through Hyperliquid, the latest in a string of state-sponsored crypto laundering incidents",
+      "story": "Trezor discloses a second wave of breach notifications (67K US customers) tied to third-party vendor ShipMonk",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Lazarus Group's $30M Hyperliquid Run: What It Means for DeFi's 'No KYC' Liquidity Problem — cover the market/regulatory fallout, tying it to Chainalysis's new HyperEVM tracking support as the compliance response.",
-        "itsalreadywhen": "Inside North Korea's $30M Cash-Out: How Lazarus Group Turns Stolen Bitcoin Into Untraceable ETH — a threat-intel breakdown of the laundering chain (Coldcard hack → THORChain swap → Hyperliquid move) as a case study in state-actor tradecraft for defenders to watch for."
+        "itsalreadypriced": "'Trezor's Breach Keeps Growing — Here's What Self-Custody Users Should Actually Do' — cover the phishing/mail-scam risk this creates for hardware wallet holders and what it means for trust in cold storage vendors amid a bull market.",
+        "itsalreadywhen": "'One Vendor, Two Breaches: The ShipMonk Incident Is a Supply-Chain Case Study' — dig into how a single fulfillment/logistics vendor compromise re-surfaced months later, and what third-party risk lessons security teams should take from Trezor's repeat disclosure."
       },
-      "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540"
+    },
+    {
+      "story": "The Coldcard hardware-wallet hacker launders stolen Bitcoin into ETH via THORChain",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Stolen Bitcoin Just Went Through THORChain — What That Means for On-Chain Tracing' — explain the cross-chain laundering trend, why THORChain keeps showing up in hacks, and what it signals for exchange/compliance risk.",
+        "itsalreadywhen": "'How a Hardware Wallet Hack Becomes an Untraceable Payday: Inside the Coldcard-to-THORChain Playbook' — break down the technical laundering chain as a case study in post-breach threat-actor tradecraft and cross-chain bridge exploitation."
+      },
+      "source": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

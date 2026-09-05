@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-04T11:08:02+00:00",
+  "generated": "2026-09-05T11:07:05+00:00",
   "opportunities": [
     {
-      "title": "Ravenloft Is Coming to Netflix — Here's What the Actual Domains of Dread Rules Say About Horror",
-      "why_now": "Netflix's Ravenloft series announcement is a rare mainstream spotlight on a D&D setting whose horror mechanics (Dark Powers checks, domain rules) are wildly misunderstood outside the tabletop.",
-      "angle": "Rules explainer: pull the actual Van Richten's Guide to Ravenloft mechanics and predict which get flattened for TV",
+      "title": "Ravenloft Lives, Forgotten Realms Dies: What Netflix's Cancellation Actually Means for D&D's IP Strategy",
+      "why_now": "Netflix just confirmed a Ravenloft series while killing the previously announced Forgotten Realms show, a major reversal in WotC's screen strategy.",
+      "angle": "Explainer breaking down the official statements and what setting got greenlit vs shelved, with sourced quotes—no speculation, just what's confirmed.",
       "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
     },
     {
-      "title": "Forgotten Realms TV Is Dead. The Sourcebook Isn't Going Anywhere.",
-      "why_now": "The cancellation news is a timely hook to remind readers the Forgotten Realms Campaign Setting rules and lore remain fully codified regardless of Hollywood's plans.",
-      "angle": "Knowing-voice reaction post: 'The rules are already written' framing—canon lore vs. screen adaptation risk",
-      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+      "title": "The Diamond Bankruptcy Isn't Over: Sparkle Pop's Objection, Explained",
+      "why_now": "A new objection just hit the settlement, meaning the FLGS supply-chain crisis from Diamond's collapse is still legally unresolved.",
+      "angle": "Timeline/facts piece: what Sparkle Pop is objecting to, what it means for creditors and retailers, sourced directly from the filing coverage.",
+      "source": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/"
     },
     {
-      "title": "Skullcrusher, Time Without Tide, Jadestorm: The Rules Hiding Inside This Week's Crowdfunding Slate",
-      "why_now": "Fresh crowdfunding roundup gives concrete new systems to mine for mechanical breakdowns before backers commit.",
-      "angle": "Rules-first crowdfunding digest: extract and compare core mechanics/resolution systems from each campaign",
+      "title": "Honor Among Thieves 2 Has a Script—Here's What That Actually Means (and Doesn't)",
+      "why_now": "The sequel script is finished and shopping for a studio, a concrete production milestone worth separating from hype.",
+      "angle": "Rules-first status update: script-done ≠ greenlit; walk through what stages remain before this becomes a real movie.",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
+    },
+    {
+      "title": "This Week's TTRPG Crowdfunding Ledger: Skullcrusher, Time Without Tide, Jadestorm",
+      "why_now": "Fresh crowdfunding roundup gives concrete, fundable projects worth flagging before campaigns close.",
+      "angle": "Fact-sheet format: funding goals, stretch goals, delivery dates—just the numbers, no fluff.",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
     },
     {
-      "title": "You Are What You Eat: A Non-TTRPG Reading List, Annotated for Rules Nerds",
-      "why_now": "Gnome Stew's inspiration-focused reading list is a chance to contrast 'vibes' inspiration with the actual codified mechanics designers eventually have to write down.",
-      "angle": "Response/annotation piece: for each book on the list, name the rule or subsystem it most likely inspired",
-      "source": "https://gnomestew.com/you-are-what-you-eat-a-non-ttrpg-reading-list/"
-    },
-    {
-      "title": "Two D&D Settings, Two Fates: What Ravenloft's Netflix Greenlight and Forgotten Realms' Cancellation Say About Rules-Faithful Adaptation",
-      "why_now": "Both stories broke together, making this the week's clearest natural comparison for a rules-and-canon-focused audience.",
-      "angle": "Analysis/thread: track record of adaptations that kept vs. ignored core setting mechanics, predicting Ravenloft's fidelity",
-      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+      "title": "The Week in TTRPG Fact-Checking: Parsing the September 3 News Digest",
+      "why_now": "EN World's own digest is a grab-bag of claims and rumors that deserve a sourced, sorted breakdown.",
+      "angle": "A 'signal vs. noise' post: sort the digest's items into confirmed fact, official statement, and pure rumor.",
+      "source": "https://www.enworld.org/threads/news-digest-for-september-4-2026.720560/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-04T11:08:02+00:00",
+  "generated": "2026-09-05T11:07:05+00:00",
   "opportunities": [
     {
-      "title": "The Coldcard Hack Wasn't the Story — The THORChain Laundering Was",
-      "why_now": "A hardware wallet compromise just got cross-chain-swapped from BTC to ETH via THORChain within days, showing exactly how stolen self-custodied funds move once they're out.",
-      "angle": "Forensic breakdown/thread: trace the swap path, explain why THORChain is the laundering rail of choice, end with the cold-storage lesson everyone ignores until it's their seed phrase.",
+      "title": "Trezor's Third Breach Notice in a Row: Why 'Cold Storage' Companies Keep Leaking Warm Data",
+      "why_now": "Trezor just disclosed a second wave of 67K affected US customers from the same ShipMonk fulfillment breach, and it's being covered as routine news rather than a pattern.",
+      "angle": "Analysis piece tracing the breach timeline and arguing that hardware wallet security theater ends at the shipping label — pair with a checklist on verifying device authenticity post-breach",
+      "source": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "The Coldcard Hacker's THORChain Move Is a Live Masterclass in Laundering — Here's the On-Chain Trail",
+      "why_now": "The thief converted stolen BTC to ETH via THORChain within days of the theft, giving a fresh, traceable case study while it's still unfolding.",
+      "angle": "On-chain forensic walkthrough (screenshots of the swap tx, THORChain routing) framed as 'this is how they always do it' — evergreen educational content wrapped in breaking news",
       "source": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Lazarus Just Ran $30M Through Hyperliquid — Perps Platforms Are the New Mixers",
-      "why_now": "DPRK-linked addresses moved $30M through a major perp DEX, proving on-chain leverage venues are now sanctioned-actor laundering infrastructure, not just degen casinos.",
-      "angle": "Explainer + warning: how state hackers exploit deep-liquidity perp books for clean exits, and what it means for any platform courting 'no-KYC' volume.",
-      "source": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Full Sail Is Dead Because an Oracle Lied: The Switchboard Incident Nobody Priced In",
+      "why_now": "A live Sui DeFi protocol is winding down days after a Switchboard oracle incident, a rare case of a full protocol death from an oracle failure rather than a smart contract bug.",
+      "angle": "Post-mortem breakdown of oracle manipulation as an attack surface that's still underpriced by users chasing yield on new L1 DeFi — cautionary tale format",
+      "source": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Tether Just Proved Your 'Stablecoin' Has an Off Switch",
-      "why_now": "Thai victims of a $61M pig-butchering scam are suing Tether for freezing $42M — a live case study in who actually controls 'decentralized' dollars.",
-      "angle": "Take piece: freezing power is a feature for victims and a liability for holders — walk through what Tether's discretion means for anyone treating USDT as neutral cash.",
+      "title": "Tether Just Got Sued for Doing Exactly What Everyone Warned It Could Do",
+      "why_now": "Thai businessmen are suing Tether over a $42M USDT freeze tied to a pig-butchering case, a concrete test case for stablecoin custodial power that's usually only discussed in theory.",
+      "angle": "Explainer on Tether's freeze authority and legal precedent risk — 'not your keys, not your coins' extended to stablecoins, written for readers who already assumed this was coming",
       "source": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$12.7 Billion: FinCEN Just Put a Number on the Scam Compound Economy",
-      "why_now": "FinCEN's fresh figure quantifies just how industrialized pig-butchering has become, landing the same week as the Tether freeze lawsuit — the two stories are the same story.",
-      "angle": "Data-led post: size the compound economy, map it against the Tether case, argue this is now systemic risk, not isolated fraud.",
-      "source": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds"
-    },
-    {
-      "title": "Robinhood's Tokenized AMC Shares Aren't Shares — Here's What You Actually Own",
-      "why_now": "AMC's CEO just called Robinhood's stock tokens 'contemptible' and 'vile,' putting a spotlight on synthetic-share custody risk right as tokenized-securities hype (South Korea, Coinbase perps) accelerates.",
-      "angle": "Security-first breakdown of what a tokenized share legally represents, counterparty risk if the wrapper fails, and why 'it's on-chain' isn't the same as 'you own it.'",
-      "source": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513"
+      "title": "G7 Says Quantum Computers Are Coming for Your Coins — the Industry Still Has No Real Fix",
+      "why_now": "The G7 issued a formal quantum threat warning just as crypto markets rally to $2.82T, a stark contrast between price euphoria and unresolved existential security risk.",
+      "angle": "Contrarian market-vs-security piece: while everyone's counting inflows and ATHs, walk through which chains/wallets are quantum-exposed and what 'already priced' actually means here (it isn't)",
+      "source": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes"
     }
   ]
 }

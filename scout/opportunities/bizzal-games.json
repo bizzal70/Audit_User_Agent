@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-04T11:08:02+00:00",
+  "generated": "2026-09-05T11:07:05+00:00",
   "opportunities": [
     {
-      "title": "Ravenloft's Dark Powers, RAW: the checks nobody runs correctly",
-      "why_now": "Netflix's Ravenloft series announcement puts the setting in search trends, and most tables misuse the Dark Powers check mechanic anyway.",
-      "angle": "60-sec ruling breakdown: read the actual DMG check, correct DC logic, one worked example at the table",
+      "title": "Netflix's Ravenloft Show Is Coming — Here's How 'Fear' Actually Works at the Table (5e vs Shadowdark)",
+      "why_now": "Netflix just greenlit a Ravenloft series while Forgotten Realms TV died, making Ravenloft the hot IP this week.",
+      "angle": "60-sec rules ruling: compare 5e's Frightened condition to Shadowdark's Fear/Insanity checks, with a Strahd-specific ruling example",
       "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
     },
     {
-      "title": "Forgotten Realms show is dead. Your Forgotten Realms lore was never load-bearing anyway",
-      "why_now": "The cancellation is a live news hook; letting a wry veteran GM take a shot at lore-vs-crunch culture is on-brand and shareable.",
-      "angle": "Dry hot-take short: 3 examples where FR lore contradicts core 5e rules, so nothing changes at your table",
-      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+      "title": "The Movie Sequel Is Written — Let's Break Down Why the Displacer Beast Fight Actually Worked (Mechanically)",
+      "why_now": "Honor Among Thieves 2's script just wrapped, reigniting chatter about the first film's monster encounters.",
+      "angle": "Creature tactic breakdown: displacement mechanic, how a GM replicates the film's beat using the Monster Manual stat block without homebrewing",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
     },
     {
-      "title": "Monster Wrangling, but make it Ranger: fixing Beast Master with Dragon Quest Monsters logic",
-      "why_now": "The Monster Wrangler trailer just dropped during State of Play, giving a timely visual hook for a perennial 5e subclass complaint.",
-      "angle": "Homebrew fix short: capture/bond mechanic ported to Beast Master, one clean houserule, no fluff",
-      "source": "https://www.rpgsite.net/news/21280-dragon-quest-monsters-the-withered-world-monster-wrangler-trailer-state-of-play-ps5"
+      "title": "Monster Hunter's 'Boost Bracer' Is Basically a Homebrew Action Surge — Here's the Legal 5e Version",
+      "why_now": "MH Wilds: Ascendance is dropping daily gameplay videos on its new Boost Bracer mechanic this week, giving crossover appeal.",
+      "angle": "Wry mechanical comparison short: map the video game ability to existing 5e/DCC options (Action Surge, Deed Die) so viewers can reskin it at their table",
+      "source": "https://www.rpgsite.net/news/21272-monster-hunter-wilds-ascendance-boost-bracer-hunting-action-all-weapons-new-gameplay-showcase-guide"
     },
     {
-      "title": "Crit tables from indie crowdfunders vs 5e's flat crit rule: which one actually speeds up combat",
-      "why_now": "This week's crowdfunding roundup (Skullcrusher etc.) surfaces alt-crit systems worth a mechanical comparison for 5e/DCC/Shadowdark GMs.",
-      "angle": "Side-by-side rules-math short: 5e double-dice crit vs a crowdfunded crit-table system, verdict on table speed",
+      "title": "'Skullcrusher' Just Funded — What a Funnel-Killer Ogre Actually Looks Like in DCC",
+      "why_now": "This week's RPG crowdfunding roundup spotlights Skullcrusher, a name that begs for a brutal creature tactic breakdown.",
+      "angle": "Creature tactic short: stat out an ogre-tier bruiser's optimal action economy in a 0-level DCC funnel, contrasted with 5e CR math",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
     },
     {
-      "title": "A GM's reading list that isn't a rulebook: what to steal from non-TTRPG books for tomorrow's session",
-      "why_now": "Gnome Stew's non-TTRPG reading list is fresh analysis content adjacent to prep culture, easy to convert into a punchy creature/scene-tactic tie-in.",
-      "angle": "Quick-hit list format: 3 books, 3 stolen tactics you can drop into a Shadowdark or DCC encounter tonight",
-      "source": "https://gnomestew.com/you-are-what-you-eat-a-non-ttrpg-reading-list/"
+      "title": "Diamond's Bankruptcy Mess Means Your FLGS Might Run Out of Dice Sets — Here's the Print-and-Play Ruling You Need",
+      "why_now": "Sparkle Pop's objection to the Diamond settlement is dragging out distribution chaos, threatening physical stock for game stores.",
+      "angle": "Quick PSA-style rules ruling: how to run sessions with digital/print-at-home tools when your usual battlemat/minis supply chain is disrupted",
+      "source": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/"
     }
   ]
 }
