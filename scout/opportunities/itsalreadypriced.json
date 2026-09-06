@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-05T11:07:05+00:00",
+  "generated": "2026-09-06T11:06:51+00:00",
   "opportunities": [
     {
-      "title": "Trezor's Third Breach Notice in a Row: Why 'Cold Storage' Companies Keep Leaking Warm Data",
-      "why_now": "Trezor just disclosed a second wave of 67K affected US customers from the same ShipMonk fulfillment breach, and it's being covered as routine news rather than a pattern.",
-      "angle": "Analysis piece tracing the breach timeline and arguing that hardware wallet security theater ends at the shipping label — pair with a checklist on verifying device authenticity post-breach",
+      "title": "Trezor Got Breached Again — The Cold Wallet Was Never the Weak Link, ShipMonk Was",
+      "why_now": "Trezor just disclosed a second wave of 67K affected US customers from the same ShipMonk fulfillment-partner breach, proving supply-chain exposure beats device security every time.",
+      "angle": "Explainer/rant: why hardware wallet security is only as strong as the vendor's weakest third-party integration; checklist for what data was actually exposed and what to do now",
       "source": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Coldcard Hacker's THORChain Move Is a Live Masterclass in Laundering — Here's the On-Chain Trail",
-      "why_now": "The thief converted stolen BTC to ETH via THORChain within days of the theft, giving a fresh, traceable case study while it's still unfolding.",
-      "angle": "On-chain forensic walkthrough (screenshots of the swap tx, THORChain routing) framed as 'this is how they always do it' — evergreen educational content wrapped in breaking news",
-      "source": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Robinhood Chain 'Never Stopped' — Except When Its Blobs Stopped Reaching Ethereum for 14 Minutes",
+      "why_now": "A brand-new L2 for tokenized stocks just had a data-availability outage within days of the AMC fight going public, undercutting the uptime marketing in real time.",
+      "angle": "Skeptic's postmortem: what a blob outage actually means for settlement finality on a chain hosting real equities, and why 'it never stopped' is a marketing claim, not a security guarantee",
+      "source": "https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes"
     },
     {
-      "title": "Full Sail Is Dead Because an Oracle Lied: The Switchboard Incident Nobody Priced In",
-      "why_now": "A live Sui DeFi protocol is winding down days after a Switchboard oracle incident, a rare case of a full protocol death from an oracle failure rather than a smart contract bug.",
-      "angle": "Post-mortem breakdown of oracle manipulation as an attack surface that's still underpriced by users chasing yield on new L1 DeFi — cautionary tale format",
-      "source": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "Tether Just Got Sued for Doing Exactly What Everyone Warned It Could Do",
-      "why_now": "Thai businessmen are suing Tether over a $42M USDT freeze tied to a pig-butchering case, a concrete test case for stablecoin custodial power that's usually only discussed in theory.",
-      "angle": "Explainer on Tether's freeze authority and legal precedent risk — 'not your keys, not your coins' extended to stablecoins, written for readers who already assumed this was coming",
-      "source": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "G7 Says Quantum Computers Are Coming for Your Coins — the Industry Still Has No Real Fix",
-      "why_now": "The G7 issued a formal quantum threat warning just as crypto markets rally to $2.82T, a stark contrast between price euphoria and unresolved existential security risk.",
-      "angle": "Contrarian market-vs-security piece: while everyone's counting inflows and ATHs, walk through which chains/wallets are quantum-exposed and what 'already priced' actually means here (it isn't)",
+      "title": "G7 Just Said the Quiet Part: Quantum Computers Are Coming for Your Keys",
+      "why_now": "G7 issued a formal warning on quantum threats to crypto just as the industry is still arguing about which chains even have a migration plan.",
+      "angle": "Deep dive: which major chains/wallets have post-quantum roadmaps vs. which are still pretending this is a 2030s problem — rank the exposure",
       "source": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes"
+    },
+    {
+      "title": "Chrome Zero-Day Was Live Before the Patch — Here's What It Means for Your Wallet Extensions",
+      "why_now": "Google just patched a Chrome flaw that was already being actively exploited, and most crypto users run their wallet extensions inside that exact browser.",
+      "angle": "Actionable security brief: what the exploit chain looked like, why browser-based wallets are a bigger attack surface than people admit, update urgency framing",
+      "source": "https://decrypt.co/377501/google-chrome-zero-day-exploited"
+    },
+    {
+      "title": "The AMC-Robinhood Tokenized Stock Fight Was Never About Lawyers — It's About Who Owns the Custody Risk",
+      "why_now": "AMC's CEO demanding a halt and Robinhood's 'send your lawyers' response has turned into an industry-wide argument over competing tokenization models with real custody and disclosure gaps.",
+      "angle": "Security-led breakdown: compare the underlying custody/collateral models of the tokenized stock issuers in this fight and flag which structure fails first in a stress event",
+      "source": "https://thedefiant.io/news/tradfi-and-fintech/the-amc-fight-turned-into-an-industry-argument-over-which-tokenized-stock-model-wins"
     }
   ]
 }

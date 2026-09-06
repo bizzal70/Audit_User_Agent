@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-05T11:07:05+00:00",
+  "generated": "2026-09-06T11:06:51+00:00",
   "opportunities": [
     {
-      "title": "Ravenloft Lives, Forgotten Realms Dies: What Netflix's Cancellation Actually Means for D&D's IP Strategy",
-      "why_now": "Netflix just confirmed a Ravenloft series while killing the previously announced Forgotten Realms show, a major reversal in WotC's screen strategy.",
-      "angle": "Explainer breaking down the official statements and what setting got greenlit vs shelved, with sourced quotes—no speculation, just what's confirmed.",
+      "title": "The WFRP 5E PDF Is Loose — Here's What Actually Changed in the Rules",
+      "why_now": "The 5E PDF just leaked/went live, giving fans their first real look at the ruleset before the official release conversation catches up.",
+      "angle": "Rules breakdown/comparison post: pull specific mechanics (career system, combat, magic) from the leaked PDF and compare line-by-line to WFRP 4E, citing page references",
+      "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
+    },
+    {
+      "title": "Ravenloft Is Coming to Netflix — But Which Domains of Dread Are 'Canon' Enough to Adapt?",
+      "why_now": "Netflix's Ravenloft series was just confirmed while the Forgotten Realms show got killed, making Ravenloft the flagship D&D property to watch.",
+      "angle": "Rules-and-lore explainer: catalog the official Ravenloft domains and Darklords as published across editions, then predict/rank which are 'TV-ready' based on source material scope",
       "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
     },
     {
-      "title": "The Diamond Bankruptcy Isn't Over: Sparkle Pop's Objection, Explained",
-      "why_now": "A new objection just hit the settlement, meaning the FLGS supply-chain crisis from Diamond's collapse is still legally unresolved.",
-      "angle": "Timeline/facts piece: what Sparkle Pop is objecting to, what it means for creditors and retailers, sourced directly from the filing coverage.",
-      "source": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/"
+      "title": "Forgotten Realms TV Is Dead. Here's What the Setting's Actual Canon Timeline Still Has Going For It",
+      "why_now": "The cancellation news just dropped, making this the moment to reassert what's factually 'written' about the Realms versus what Hollywood almost did to it.",
+      "angle": "Facts-first retrospective: map the current published Forgotten Realms timeline/canon post-Absolute chaos, positioning it against what got scrapped",
+      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
     },
     {
-      "title": "Honor Among Thieves 2 Has a Script—Here's What That Actually Means (and Doesn't)",
-      "why_now": "The sequel script is finished and shopping for a studio, a concrete production milestone worth separating from hype.",
-      "angle": "Rules-first status update: script-done ≠ greenlit; walk through what stages remain before this becomes a real movie.",
+      "title": "Honor Among Thieves 2's Script Is Done — Will It Actually Use D&D Rules, or Just the Skin?",
+      "why_now": "News just broke that the sequel script is finished and shopping for a studio, reopening debate on how 'rules-accurate' the franchise should be.",
+      "angle": "Opinion/analysis piece grading the first film's rules fidelity (spells as written, class features, skill checks) as a benchmark for what the sequel should get right",
       "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
     },
     {
-      "title": "This Week's TTRPG Crowdfunding Ledger: Skullcrusher, Time Without Tide, Jadestorm",
-      "why_now": "Fresh crowdfunding roundup gives concrete, fundable projects worth flagging before campaigns close.",
-      "angle": "Fact-sheet format: funding goals, stretch goals, delivery dates—just the numbers, no fluff.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/"
-    },
-    {
-      "title": "The Week in TTRPG Fact-Checking: Parsing the September 3 News Digest",
-      "why_now": "EN World's own digest is a grab-bag of claims and rumors that deserve a sourced, sorted breakdown.",
-      "angle": "A 'signal vs. noise' post: sort the digest's items into confirmed fact, official statement, and pure rumor.",
-      "source": "https://www.enworld.org/threads/news-digest-for-september-4-2026.720560/"
+      "title": "Diamond's Bankruptcy Just Got Messier — What It Means for Your FLGS's TTRPG Shelf",
+      "why_now": "Sparkle Pop's objection just filed, adding a new twist to the ongoing Diamond bankruptcy saga that affects physical book distribution.",
+      "angle": "News explainer with a rules-first industry lens: trace how distribution collapse historically changes what rulebooks/editions actually reach stores",
+      "source": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/"
     }
   ]
 }

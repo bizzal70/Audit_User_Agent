@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-05T11:07:05+00:00",
+  "generated": "2026-09-06T11:06:51+00:00",
   "plays": [
     {
-      "story": "D&D: Honor Among Thieves sequel script is finished and Hasbro/eOne are shopping for a studio to make it",
+      "story": "Netflix's Ravenloft TV series moves forward while the Forgotten Realms show is scrapped, alongside news that the Honor Among Thieves movie sequel script is finished and hunting for a studio",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'The Sequel Script Is Done — Here's What a Green-Lit Honor Among Thieves 2 Means for Your Table': break down what a studio-shopped script means for the D&D brand's momentum, tie-in product timing, and whether a movie deal could reshape 5.5E/VTT marketing pushes.",
-        "itsalreadywritten": "'They Finished the Script Before They Found a Studio — What That Says About How D&D Stories Get Told': use the stalled greenlight as a hook to dissect what made the first film's narrative work (found-family heist structure) and what a sequel script has to solve narratively to top it."
-      },
-      "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
-    },
-    {
-      "story": "Netflix moves forward on a Ravenloft series while the Forgotten Realms TV series is confirmed dead",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Netflix Just Told Wizards Which D&D IP Sells: Gothic Horror, Not Core Setting' — analyze the business signal behind killing the flagship Forgotten Realms show in favor of Ravenloft, and what it means for which settings get licensing dollars next.",
-        "itsalreadywritten": "'Ravenloft Already Wrote Netflix's Show For Them: A Curse of Strahd Adaptation Primer' — walk through how decades of Ravenloft modules (I6, Curse of Strahd) already contain the arcs, villains, and set pieces a showrunner would need, and where the source material could trip up a TV adaptation."
+        "bizzal-games": "'Ravenloft Is Coming to Netflix — Here's How to Run Its Gothic Horror at Your Table Before the Show Airs': a practical GM guide translating the Domains of Dread into a one-shot, timed to ride the Netflix announcement wave.",
+        "itsalreadywritten": "'Forgotten Realms Is Dead, Long Live Ravenloft: What Wizards' TV Pivot Says About D&D's Story Priorities' — a lore/narrative deep-dive on why gothic horror beat epic fantasy for the screen, plus what it hints about the finished Honor Among Thieves sequel script."
       },
       "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
     },
     {
-      "story": "Trezor discloses a second wave of breach notifications (67K US customers) tied to third-party vendor ShipMonk",
+      "story": "The Warhammer Fantasy Roleplay 5E PDF has leaked online ahead of official release",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'WFRP 5E Leaked: The Rules Changes Grimdark Fans Are Already Arguing About' — a first-look mechanics breakdown (careers, combat, corruption rules) sourced from the leaked PDF, framed as a spoiler-free preview for GMs prepping their next campaign.",
+        "itsalreadywritten": "'The Old World Just Got Rewritten: What the Leaked WFRP 5E PDF Reveals About the New Grimdark Canon' — a story/lore-focused piece on how the setting's fiction and factions have shifted for this edition."
+      },
+      "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
+    },
+    {
+      "story": "Trezor confirms its ShipMonk fulfillment-partner breach now affects another 67,000 US customers, a supply-chain hack hitting hardware wallet holders",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Trezor's Breach Keeps Growing — Here's What Self-Custody Users Should Actually Do' — cover the phishing/mail-scam risk this creates for hardware wallet holders and what it means for trust in cold storage vendors amid a bull market.",
-        "itsalreadywhen": "'One Vendor, Two Breaches: The ShipMonk Incident Is a Supply-Chain Case Study' — dig into how a single fulfillment/logistics vendor compromise re-surfaced months later, and what third-party risk lessons security teams should take from Trezor's repeat disclosure."
+        "itsalreadypriced": "'Trezor's ShipMonk Breach Just Doubled — What 134K Exposed Wallet Owners Means for Self-Custody's Price of Trust' — market/consumer-risk angle on hardware wallet vendor exposure and what holders should do now.",
+        "itsalreadywhen": "'When Your Fulfillment Vendor Becomes Your Attack Surface: Trezor's ShipMonk Breach Is a Preview of the Next Supply-Chain Wave' — a predictive piece on third-party logistics as the next big enterprise breach vector."
       },
       "source": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540"
     },
     {
-      "story": "The Coldcard hardware-wallet hacker launders stolen Bitcoin into ETH via THORChain",
+      "story": "Google patches its 6th Chrome zero-day of 2026, already being actively exploited",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Stolen Bitcoin Just Went Through THORChain — What That Means for On-Chain Tracing' — explain the cross-chain laundering trend, why THORChain keeps showing up in hacks, and what it signals for exchange/compliance risk.",
-        "itsalreadywhen": "'How a Hardware Wallet Hack Becomes an Untraceable Payday: Inside the Coldcard-to-THORChain Playbook' — break down the technical laundering chain as a case study in post-breach threat-actor tradecraft and cross-chain bridge exploitation."
+        "itsalreadypriced": "'Crypto Holders, Update Chrome Now: The 6th Zero-Day of 2026 Is Already Being Used to Drain MetaMask Sessions' — actionable security piece tying the exploit directly to wallet/exchange login risk.",
+        "itsalreadywhen": "'Six Zero-Days and Counting: What Chrome's 2026 Track Record Tells Us About When the Next Exploit Lands' — a pattern-analysis piece on Chrome's exploit cadence and what it forecasts for enterprise patch cycles."
       },
-      "source": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/"
     }
   ]
 }
