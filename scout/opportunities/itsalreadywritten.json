@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-06T11:06:51+00:00",
+  "generated": "2026-09-07T11:08:23+00:00",
   "opportunities": [
     {
-      "title": "The WFRP 5E PDF Is Loose — Here's What Actually Changed in the Rules",
-      "why_now": "The 5E PDF just leaked/went live, giving fans their first real look at the ruleset before the official release conversation catches up.",
-      "angle": "Rules breakdown/comparison post: pull specific mechanics (career system, combat, magic) from the leaked PDF and compare line-by-line to WFRP 4E, citing page references",
+      "title": "The WFRP 5E PDF Is Loose: What's Actually Different in the Career and Advance System",
+      "why_now": "The Warhammer Fantasy Roleplay 5E PDF just leaked into circulation, giving fans their first real look at the finished rules text.",
+      "angle": "Rules-first breakdown comparing WFRP 5E's career/advance mechanics to 4E and older editions, citing specific page/table changes",
       "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
     },
     {
-      "title": "Ravenloft Is Coming to Netflix — But Which Domains of Dread Are 'Canon' Enough to Adapt?",
-      "why_now": "Netflix's Ravenloft series was just confirmed while the Forgotten Realms show got killed, making Ravenloft the flagship D&D property to watch.",
-      "angle": "Rules-and-lore explainer: catalog the official Ravenloft domains and Darklords as published across editions, then predict/rank which are 'TV-ready' based on source material scope",
-      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+      "title": "Sly Flourish Says Write Down Your Procedures. Here's the Checklist That Actually Does It",
+      "why_now": "Sly Flourish's new 'Procedures' piece is a direct match for a rules-first audience and just dropped this week.",
+      "angle": "Response/expansion post: turn his analysis into a concrete, numbered procedure checklist GMs can copy-paste into session notes",
+      "source": "https://slyflourish.com/procedures.html?rss=1"
     },
     {
-      "title": "Forgotten Realms TV Is Dead. Here's What the Setting's Actual Canon Timeline Still Has Going For It",
-      "why_now": "The cancellation news just dropped, making this the moment to reassert what's factually 'written' about the Realms versus what Hollywood almost did to it.",
-      "angle": "Facts-first retrospective: map the current published Forgotten Realms timeline/canon post-Absolute chaos, positioning it against what got scrapped",
-      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+      "title": "Ravenloft Is Coming to Netflix — Here Are the Domains of Dread Rules It Has to Get Right",
+      "why_now": "This week's EN World podcast confirmed Ravenloft's Netflix adaptation alongside WFRP 5E talk, making it a live topic.",
+      "angle": "Rules explainer on Ravenloft's Dark Lords/Domain mechanics from the D&D sourcebook, framed as a 'canon check' for the show",
+      "source": "https://www.enworld.org/threads/podcast-413-livestream-ravenloft-on-netflix-new-d-d-movie-script-wfrp-5e.720574/"
     },
     {
-      "title": "Honor Among Thieves 2's Script Is Done — Will It Actually Use D&D Rules, or Just the Skin?",
-      "why_now": "News just broke that the sequel script is finished and shopping for a studio, reopening debate on how 'rules-accurate' the franchise should be.",
-      "angle": "Opinion/analysis piece grading the first film's rules fidelity (spells as written, class features, skill checks) as a benchmark for what the sequel should get right",
+      "title": "This Week's Free & Charity TTRPG Bundles, Ranked by How Much Actual Rules Content You Get",
+      "why_now": "EN World's September 7 freebies/sales roundup is fresh and packed with charity bundle links worth sorting through.",
+      "angle": "Curated, opinionated ranking list prioritizing crunch-heavy PDFs over fluff, written in the 'knowing' voice",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-september-7-2026.720584/"
+    },
+    {
+      "title": "Honor Among Thieves 2 Has a Finished Script — Will It Finally Nail a Wild Magic Table?",
+      "why_now": "News broke this week that the D&D movie sequel script is complete and shopping for a studio.",
+      "angle": "Speculative but rules-grounded piece predicting which 5E mechanics (wild magic, bardic inspiration, etc.) the sequel might dramatize, judging the first film's rules fidelity",
       "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
-    },
-    {
-      "title": "Diamond's Bankruptcy Just Got Messier — What It Means for Your FLGS's TTRPG Shelf",
-      "why_now": "Sparkle Pop's objection just filed, adding a new twist to the ongoing Diamond bankruptcy saga that affects physical book distribution.",
-      "angle": "News explainer with a rules-first industry lens: trace how distribution collapse historically changes what rulebooks/editions actually reach stores",
-      "source": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-06T11:06:51+00:00",
+  "generated": "2026-09-07T11:08:23+00:00",
   "opportunities": [
     {
-      "title": "Strahd's Charm Person Isn't Optional: The Ravenloft Domain Rule Everyone Houses Wrong",
-      "why_now": "Netflix's Ravenloft series announcement puts Strahd and Domains of Dread back in the discourse this week.",
-      "angle": "60-sec ruling breakdown: RAW on Charm/Dominate interactions inside a Domain of Dread, with a table example of a party arguing about it",
-      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+      "title": "'Procedures' Is Just a Fancy Word for the Ruling You Already Improvise — Here's How to Steal It",
+      "why_now": "Sly Flourish just dropped a fresh essay on structured GM procedures, giving a ready-made hook for a short on codifying table rulings.",
+      "angle": "60-sec dry breakdown: pick one 'procedure' (e.g., morale checks) and show the RAW gap Sly Flourish is patching, then give your own tighter version.",
+      "source": "https://slyflourish.com/procedures.html?rss=1"
     },
     {
-      "title": "WFRP 5E's Corruption Track vs. 5e's Madness Rules: One Actually Kills PCs",
-      "why_now": "The WFRP 5E PDF just leaked/dropped, giving a fresh reason to compare its horror mechanics to D&D's toothless madness tables.",
-      "angle": "Side-by-side mechanical teardown, ending with a one-line verdict a GM can steal for their own homebrew fear mechanic",
+      "title": "WFRP 5E's Corruption Table Just Made Your 5e Madness Houserules Look Lazy",
+      "why_now": "The WFRP 5E PDF leaked into the wild this week, giving a fresh system to mine for a direct mechanical comparison.",
+      "angle": "Side-by-side rules-ruling short: WFRP corruption vs 5e long-term madness table, verdict on which actually threatens players.",
       "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
     },
     {
-      "title": "The Owlbear Tactic the Honor Among Thieves Sequel Will Definitely Get Wrong",
-      "why_now": "The HAT sequel script just got finished and is shopping for a studio, reviving interest in the franchise's signature monster.",
-      "angle": "Creature tactic short: correct grapple/Multiattack sequencing for an Owlbear vs. the Hollywood version, dry mockery optional",
+      "title": "Ravenloft's Coming to Netflix — Here's the Domain of Dread Rule Every DM Gets Wrong",
+      "why_now": "This week's podcast confirmed a Ravenloft Netflix deal, making Strahd/Domains of Dread content instantly click-worthy for the D&D crowd.",
+      "angle": "Creature-tactic short on Strahd's mist/regeneration interaction or the Mists of Ravenloft banishment rule, tied to the Netflix news hook.",
+      "source": "https://www.enworld.org/threads/podcast-413-livestream-ravenloft-on-netflix-new-d-d-movie-script-wfrp-5e.720574/"
+    },
+    {
+      "title": "Honor Among Thieves 2 Script Is Done — The Simulacrum Trick the First Movie Never Used",
+      "why_now": "News just broke that the HAT sequel script is finished and shopping for a studio, giving a timely pop-culture peg for a spell-use-case short.",
+      "angle": "Spell use-case short: pick a high-level spell (Simulacrum, Modify Memory, Wish) the heist crew could've used and rule how it actually plays at the table.",
       "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
     },
     {
-      "title": "Why Ravenloft Beats Forgotten Realms on TV: It's the Fear Check, Not the Story",
-      "why_now": "Netflix greenlit Ravenloft the same week Forgotten Realms' TV series died, inviting a mechanical explanation for why one setting translates and the other doesn't.",
-      "angle": "Rules-nerd hot take: breakdown of DMG optional Fear/Horror checks and why Ravenloft is built around them structurally",
-      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
-    },
-    {
-      "title": "Steal This: A Boost-Bracer-Style Mobility Action for Your Next Shadowdark Chase Scene",
-      "why_now": "Monster Hunter Wilds' new Boost Bracer mechanic is trending in gaming news and maps cleanly onto a gap in Shadowdark's chase/mobility rules.",
-      "angle": "Homebrew mechanic short: adapt a video-game mobility gimmick into a one-shot Shadowdark stunt rule, framed as GM tactic not fan fluff",
-      "source": "https://www.rpgsite.net/news/21272-monster-hunter-wilds-ascendance-boost-bracer-hunting-action-all-weapons-new-gameplay-showcase-guide"
+      "title": "Diamond's Bankruptcy Mess Is Why Your FLGS Shelf Is Empty — Here's What DMs Should Stock Instead",
+      "why_now": "The Diamond bankruptcy settlement hit a new snag this week (Sparkle Pop objection), a live industry story affecting print supply for gaming tables.",
+      "angle": "Quick explainer/PSA short: what the distributor chaos means for buying physical rulebooks/minis, with a wry 'stock your own emergency kit' tie-in.",
+      "source": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/"
     }
   ]
 }

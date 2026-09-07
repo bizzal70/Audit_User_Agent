@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-06T11:06:51+00:00",
+  "generated": "2026-09-07T11:08:23+00:00",
   "plays": [
     {
-      "story": "Netflix's Ravenloft TV series moves forward while the Forgotten Realms show is scrapped, alongside news that the Honor Among Thieves movie sequel script is finished and hunting for a studio",
+      "story": "Dungeons & Dragons: Honor Among Thieves sequel script finished, still hunting for a studio",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Ravenloft Is Coming to Netflix — Here's How to Run Its Gothic Horror at Your Table Before the Show Airs': a practical GM guide translating the Domains of Dread into a one-shot, timed to ride the Netflix announcement wave.",
-        "itsalreadywritten": "'Forgotten Realms Is Dead, Long Live Ravenloft: What Wizards' TV Pivot Says About D&D's Story Priorities' — a lore/narrative deep-dive on why gothic horror beat epic fantasy for the screen, plus what it hints about the finished Honor Among Thieves sequel script."
+        "bizzal-games": "'The D&D Movie Sequel Script Is Done—Here's What a Second Honor Among Thieves Means for Your Table': cover the brand momentum, likely tie-in modules/minis, and whether a second film could finally get 5E splatbooks the pop-culture push Baldur's Gate 3 gave the game.",
+        "itsalreadywritten": "'Script's Finished, Studio's Not: Inside Hollywood's Habit of Shelving Completed D&D Stories': lead with the irony that the narrative is literally already written and finished, then dig into adaptation-rights limbo, past D&D film flops, and what a stalled greenlight says about IP strategy."
       },
-      "source": "https://www.enworld.org/threads/ravenloft-tv-series-in-development-by-netflix-forgotten-realms-tv-series-is-dead.720538/"
+      "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
     },
     {
-      "story": "The Warhammer Fantasy Roleplay 5E PDF has leaked online ahead of official release",
+      "story": "Warhammer Fantasy Roleplay 5E's PDF leaks online ahead of official release",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'WFRP 5E Leaked: The Rules Changes Grimdark Fans Are Already Arguing About' — a first-look mechanics breakdown (careers, combat, corruption rules) sourced from the leaked PDF, framed as a spoiler-free preview for GMs prepping their next campaign.",
-        "itsalreadywritten": "'The Old World Just Got Rewritten: What the Leaked WFRP 5E PDF Reveals About the New Grimdark Canon' — a story/lore-focused piece on how the setting's fiction and factions have shifted for this edition."
+        "bizzal-games": "'WFRP 5E's PDF Leaked Early — A First Look at the Grim & Perilous Rules Before Launch Day': break down what the leaked mechanics reveal about the new edition's combat/careers system for GMs deciding whether to buy in.",
+        "itsalreadywritten": "'The Rulebook Was Finished Weeks Before You Saw It: What the WFRP 5E Leak Reveals About Publishing Pipelines': frame it as a story about writing-to-print lag, leak culture, and how finished manuscripts sit in limbo before release — same beat as the D&D script story."
       },
       "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
     },
     {
-      "story": "Trezor confirms its ShipMonk fulfillment-partner breach now affects another 67,000 US customers, a supply-chain hack hitting hardware wallet holders",
+      "story": "Liquid Network pauses after 'white hat' hackers withdraw $320M in BTC",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Trezor's ShipMonk Breach Just Doubled — What 134K Exposed Wallet Owners Means for Self-Custody's Price of Trust' — market/consumer-risk angle on hardware wallet vendor exposure and what holders should do now.",
-        "itsalreadywhen": "'When Your Fulfillment Vendor Becomes Your Attack Surface: Trezor's ShipMonk Breach Is a Preview of the Next Supply-Chain Wave' — a predictive piece on third-party logistics as the next big enterprise breach vector."
+        "itsalreadypriced": "'Liquid Network's $320M 'White Hat' Heist: What a Bitcoin Sidechain Exploit Does to BTC Sentiment Right as ETF Inflows Hit a 2026 High': contrast the exploit with the $987M weekly ETF inflow story to frame a 'good news/bad news' price narrative for holders.",
+        "itsalreadywhen": "'The Bug Was Always There: Liquid Network's $320M Exploit Was a Matter of When, Not If': treat it as a case study in dormant sidechain vulnerabilities, how 'white hat' framing is used post-hoc, and what it means for exchange custody risk."
       },
-      "source": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540"
+      "source": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal"
     },
     {
-      "story": "Google patches its 6th Chrome zero-day of 2026, already being actively exploited",
+      "story": "Coldcard 'Wave 3' attacker moves 45% of stolen Bitcoin, Trezor also discloses a fresh breach affecting 67K users",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Crypto Holders, Update Chrome Now: The 6th Zero-Day of 2026 Is Already Being Used to Drain MetaMask Sessions' — actionable security piece tying the exploit directly to wallet/exchange login risk.",
-        "itsalreadywhen": "'Six Zero-Days and Counting: What Chrome's 2026 Track Record Tells Us About When the Next Exploit Lands' — a pattern-analysis piece on Chrome's exploit cadence and what it forecasts for enterprise patch cycles."
+        "itsalreadypriced": "'Coldcard Hacker Cashes Out 45% of Stolen BTC — Tracing $7.7M Through the Chain': market/on-chain-forensics angle on where the funds are moving and what it signals about hot vs. cold storage confidence heading into a volatile pricing week.",
+        "itsalreadywhen": "'Third Wave, Same Flaw: Why Coldcard and Trezor Keep Getting Hit and What Comes Next': analyze the pattern of repeat hardware-wallet attack waves and the Trezor breach as a predictable-in-hindsight security failure, not a one-off."
       },
-      "source": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/"
+      "source": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen"
     }
   ]
 }
