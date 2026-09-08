@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-07T11:08:23+00:00",
+  "generated": "2026-09-08T11:08:09+00:00",
   "opportunities": [
     {
-      "title": "'Procedures' Is Just a Fancy Word for the Ruling You Already Improvise — Here's How to Steal It",
-      "why_now": "Sly Flourish just dropped a fresh essay on structured GM procedures, giving a ready-made hook for a short on codifying table rulings.",
-      "angle": "60-sec dry breakdown: pick one 'procedure' (e.g., morale checks) and show the RAW gap Sly Flourish is patching, then give your own tighter version.",
-      "source": "https://slyflourish.com/procedures.html?rss=1"
+      "title": "Ravenloft's Reprint Is Back — Here's the One Mist Rule Every DM Forgets",
+      "why_now": "Castle Ravenloft board game just got a reprint announcement, putting Barovia mechanics back in the feed's algorithm.",
+      "angle": "60-sec ruling breakdown: how the Mists of Ravenloft actually work as a DM tool to trap PCs in Strahd's domain, with a 5e adaptation note.",
+      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-get-reprint-from-renegade-games.720596/"
     },
     {
-      "title": "WFRP 5E's Corruption Table Just Made Your 5e Madness Houserules Look Lazy",
-      "why_now": "The WFRP 5E PDF leaked into the wild this week, giving a fresh system to mine for a direct mechanical comparison.",
-      "angle": "Side-by-side rules-ruling short: WFRP corruption vs 5e long-term madness table, verdict on which actually threatens players.",
-      "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
-    },
-    {
-      "title": "Ravenloft's Coming to Netflix — Here's the Domain of Dread Rule Every DM Gets Wrong",
-      "why_now": "This week's podcast confirmed a Ravenloft Netflix deal, making Strahd/Domains of Dread content instantly click-worthy for the D&D crowd.",
-      "angle": "Creature-tactic short on Strahd's mist/regeneration interaction or the Mists of Ravenloft banishment rule, tied to the Netflix news hook.",
+      "title": "Strahd's Charm Gaze Is Broken RAW — Here's the Fix Every Table Needs",
+      "why_now": "Netflix's Ravenloft project was just discussed on the EN World podcast, spiking interest in Strahd content right now.",
+      "angle": "Creature tactic short: run Strahd's Charm as a legendary action trap, not a save-or-lose gotcha — show the correct sequencing.",
       "source": "https://www.enworld.org/threads/podcast-413-livestream-ravenloft-on-netflix-new-d-d-movie-script-wfrp-5e.720574/"
     },
     {
-      "title": "Honor Among Thieves 2 Script Is Done — The Simulacrum Trick the First Movie Never Used",
-      "why_now": "News just broke that the HAT sequel script is finished and shopping for a studio, giving a timely pop-culture peg for a spell-use-case short.",
-      "angle": "Spell use-case short: pick a high-level spell (Simulacrum, Modify Memory, Wish) the heist crew could've used and rule how it actually plays at the table.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
+      "title": "WFRP 5E's Crit Table Just Dropped — Why D&D's 'Roll Max Damage' Crit Is Weak Sauce",
+      "why_now": "WFRP 5E PDF just leaked into the wild, giving a fresh comparison point against 5e's crit rules.",
+      "angle": "Side-by-side mechanical breakdown: WFRP's brutal crit/fumble charts vs 5e's flat crit rule, with a house-rule you can steal.",
+      "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
     },
     {
-      "title": "Diamond's Bankruptcy Mess Is Why Your FLGS Shelf Is Empty — Here's What DMs Should Stock Instead",
-      "why_now": "The Diamond bankruptcy settlement hit a new snag this week (Sparkle Pop objection), a live industry story affecting print supply for gaming tables.",
-      "angle": "Quick explainer/PSA short: what the distributor chaos means for buying physical rulebooks/minis, with a wry 'stock your own emergency kit' tie-in.",
-      "source": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/"
+      "title": "Junkpunk's Gear Decay Rule Is the Durability System Shadowdark Should've Had",
+      "why_now": "Junkpunk RPG just got coverage, and its scrap/decay resource mechanic is a natural fit for gritty OSR-adjacent tables.",
+      "angle": "Spell/gear use-case short: adapt Junkpunk's junk-weapon breakage into a Shadowdark torch-and-ration-style resource ruling.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-heaps-of-trouble-in-junkpunk.719763/"
+    },
+    {
+      "title": "Stop Prepping Encounters, Start Prepping Procedures — Sly Flourish Nailed It",
+      "why_now": "Sly Flourish's new 'Procedures' piece is fresh GM-craft content ripe for a rebuttal/agreement short in your veteran-GM voice.",
+      "angle": "Wry hot-take short: react to the procedures-over-plots framing with your own one-procedure-per-session rule for 5e/DCC tables.",
+      "source": "https://slyflourish.com/procedures.html?rss=1"
     }
   ]
 }

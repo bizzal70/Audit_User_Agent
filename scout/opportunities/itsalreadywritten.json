@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-07T11:08:23+00:00",
+  "generated": "2026-09-08T11:08:09+00:00",
   "opportunities": [
     {
-      "title": "The WFRP 5E PDF Is Loose: What's Actually Different in the Career and Advance System",
-      "why_now": "The Warhammer Fantasy Roleplay 5E PDF just leaked into circulation, giving fans their first real look at the finished rules text.",
-      "angle": "Rules-first breakdown comparing WFRP 5E's career/advance mechanics to 4E and older editions, citing specific page/table changes",
+      "title": "WFRP 5E's PDF Just Leaked Early — Here's What the Rules Actually Changed From 4E",
+      "why_now": "The WFRP 5E PDF is now circulating publicly, giving us first look at concrete rules text before official release.",
+      "angle": "Rules comparison breakdown: careers, combat resolution, and corruption mechanics vs. 4E, with citations",
       "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
     },
     {
-      "title": "Sly Flourish Says Write Down Your Procedures. Here's the Checklist That Actually Does It",
-      "why_now": "Sly Flourish's new 'Procedures' piece is a direct match for a rules-first audience and just dropped this week.",
-      "angle": "Response/expansion post: turn his analysis into a concrete, numbered procedure checklist GMs can copy-paste into session notes",
+      "title": "Sly Flourish Says GMs Need 'Procedures,' Not Rules — We Checked the Actual Rulebooks to See Who's Right",
+      "why_now": "A widely-read GM advice piece just argued procedures matter more than rules, which is a direct challenge to our whole premise.",
+      "angle": "Rebuttal/analysis format: pull specific rulebook procedures (initiative, exploration turns) and show they ARE the rules, already written",
       "source": "https://slyflourish.com/procedures.html?rss=1"
     },
     {
-      "title": "Ravenloft Is Coming to Netflix — Here Are the Domains of Dread Rules It Has to Get Right",
-      "why_now": "This week's EN World podcast confirmed Ravenloft's Netflix adaptation alongside WFRP 5E talk, making it a live topic.",
-      "angle": "Rules explainer on Ravenloft's Dark Lords/Domain mechanics from the D&D sourcebook, framed as a 'canon check' for the show",
+      "title": "Castle Ravenloft Board Game Returns — Here's Exactly What Rules Changed in the Renegade Reprint",
+      "why_now": "Renegade Games just announced the reprint, and fans will want to know if this is a straight reprint or a rules revision.",
+      "angle": "Rules-diff explainer: compare original WotC edition mechanics to what's known/rumored about the Renegade version",
+      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-get-reprint-from-renegade-games.720596/"
+    },
+    {
+      "title": "Ravenloft Goes to Netflix: What the Show Can (and Can't) Take From the Actual Domains of Dread Rules",
+      "why_now": "Podcast #413 just dropped news of a Ravenloft Netflix adaptation plus a new D&D movie script, prime territory for a rules-fidelity take.",
+      "angle": "Explainer: map canonical Ravenloft mechanics (Dark Powers checks, Domain rules) against what a screen adaptation would need to cut or simplify",
       "source": "https://www.enworld.org/threads/podcast-413-livestream-ravenloft-on-netflix-new-d-d-movie-script-wfrp-5e.720574/"
     },
     {
-      "title": "This Week's Free & Charity TTRPG Bundles, Ranked by How Much Actual Rules Content You Get",
-      "why_now": "EN World's September 7 freebies/sales roundup is fresh and packed with charity bundle links worth sorting through.",
-      "angle": "Curated, opinionated ranking list prioritizing crunch-heavy PDFs over fluff, written in the 'knowing' voice",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-september-7-2026.720584/"
-    },
-    {
-      "title": "Honor Among Thieves 2 Has a Finished Script — Will It Finally Nail a Wild Magic Table?",
-      "why_now": "News broke this week that the D&D movie sequel script is complete and shopping for a studio.",
-      "angle": "Speculative but rules-grounded piece predicting which 5E mechanics (wild magic, bardic inspiration, etc.) the sequel might dramatize, judging the first film's rules fidelity",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-honor-among-thieves-sequel-script-finished-looking-for-studio.720557/"
+      "title": "Junkpunk's New System Explained: The Rules Behind the Wasteland Genre's Latest Contender",
+      "why_now": "EN World's RPG Evolution column just spotlighted Junkpunk, a fresh system worth a rules-first primer before it gets buried in the news cycle.",
+      "angle": "System breakdown: core mechanics, dice resolution, and how it differentiates itself from Fallout-adjacent TTRPGs",
+      "source": "https://www.enworld.org/threads/rpg-evolution-heaps-of-trouble-in-junkpunk.719763/"
     }
   ]
 }

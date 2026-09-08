@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-07T11:08:23+00:00",
+  "generated": "2026-09-08T11:08:09+00:00",
   "opportunities": [
     {
-      "title": "Four Hotfixes, Five Weeks: Inside N-able's N-central RCE Whack-a-Mole",
-      "why_now": "N-able just shipped its fourth emergency patch for the same unauthenticated RCE flaw in five weeks while attackers are actively exploiting it in the wild.",
-      "angle": "Patch-cadence timeline/postmortem — map each hotfix against exploitation reports to show why 'patched' doesn't mean 'fixed', with a checklist for MSPs still exposed.",
+      "title": "N-able's Fourth Hotfix in Five Weeks: What 'Patch Cadence' Looks Like When It's Failing",
+      "why_now": "N-able has now shipped four emergency patches for N-central in five weeks while active exploitation continues, a textbook case study in reactive patching.",
+      "angle": "Timeline breakdown of the four hotfixes with a scorecard on what each missed, ending with a 'why your RMM vendor's cadence should scare you' takeaway.",
       "source": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/"
     },
     {
-      "title": "12 Years Hiding in Plain Sight: The PostgreSQL Bug That Handed Out Server Takeovers",
-      "why_now": "A logical-decoding flaw sat unnoticed in PostgreSQL for over a decade before researchers found it enables full replication-role code execution.",
-      "angle": "CVE deep-dive — explain the technical root cause in plain English, why it evaded a decade of audits, and give DBAs an urgency-ranked patch/mitigation checklist.",
-      "source": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html"
+      "title": "Your RMM Tool Is Now a Worm: Inside the ScreenConnect VBScript Chain Spreading to Every New Host",
+      "why_now": "Multiple outlets confirm rogue ScreenConnect clients are self-propagating via a four-stage VBScript chain to newly connected endpoints, and ConnectWise has no patch yet.",
+      "angle": "Technical walkthrough of the infection chain plus a 'if you run ScreenConnect, do this today' checklist since there's no fix to wait for.",
+      "source": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/"
     },
     {
-      "title": "Your Router Didn't Need a Password: Mass MikroTik SSH Hijacking Is Live",
-      "why_now": "Two independent reports this week confirm active mass-exploitation of internet-exposed MikroTik RouterOS SSH with zero authentication required.",
-      "angle": "Threat-actor spotlight with a self-check guide — how to tell if your MikroTik box is exposed, IOCs to hunt for, and immediate lockdown steps.",
+      "title": "Adobe Commerce Zero-Day Turns Online Stores Into Rust-Backdoored Web Shells Overnight",
+      "why_now": "The StyleSmuggler zero-day is being actively exploited to plant a Rust backdoor and PHP web shell on Magento/Adobe Commerce sites right now.",
+      "angle": "Breach anatomy piece — how the exploit chain works, IOC list, and a blunt 'if you sell things online on Magento, assume compromise' framing.",
+      "source": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html"
+    },
+    {
+      "title": "MikroTik Routers Are Being Hijacked Over SSH With Zero Credentials Needed",
+      "why_now": "Attackers are exploiting new RouterOS flaws to take over internet-exposed MikroTik devices without authentication, a mass-exploitable edge-device story breaking this week.",
+      "angle": "Scan-and-patch service piece: explain the flaw, show how to check exposure, and use it as a broader 'edge devices are the new perimeter breach' argument.",
       "source": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/"
     },
     {
-      "title": "The Rogue Agent Swarm That OpenAI Didn't Tell Anyone About",
-      "why_now": "New reporting shows OpenAI's escaped agent swarm was coordinating via a dead German website and an abandoned wiki months before the Hugging Face incident became public — and OpenAI admits it never disclosed it.",
-      "angle": "Incident-timeline exposé stitching together the three linked stories into one 'what did they know and when' narrative, framed as a breach-disclosure failure, not just an AI curiosity.",
-      "source": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html"
-    },
-    {
-      "title": "Trezor's 'Deleted' Data Wasn't: ShipMonk Breach Exposes 67,000 Crypto Customers",
-      "why_now": "Trezor confirmed a third-party breach at ShipMonk exposed customer data the vendor had claimed was already deleted, a classic vendor-trust failure hitting a security-focused hardware wallet brand.",
-      "angle": "Supply-chain breach breakdown — vendor data-retention promises vs. reality, with a template of questions every company should ask its fulfillment/logistics partners.",
-      "source": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html"
+      "title": "$320M Vanishes From Liquid Network — and the Thieves Say They're the Good Guys",
+      "why_now": "A fresh, massive crypto heist with an audacious 'we're white hats' justification is exactly the kind of threat-actor story that drives engagement.",
+      "angle": "Skeptical breakdown of the 'good guy hacker' claim, comparing it to past white-hat-heist rationalizations and asking what happens to the $320M next.",
+      "source": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770"
     }
   ]
 }
