@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-08T11:08:09+00:00",
+  "generated": "2026-09-09T11:08:17+00:00",
   "opportunities": [
     {
-      "title": "N-able's Fourth Hotfix in Five Weeks: What 'Patch Cadence' Looks Like When It's Failing",
-      "why_now": "N-able has now shipped four emergency patches for N-central in five weeks while active exploitation continues, a textbook case study in reactive patching.",
-      "angle": "Timeline breakdown of the four hotfixes with a scorecard on what each missed, ending with a 'why your RMM vendor's cadence should scare you' takeaway.",
-      "source": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/"
+      "title": "974 and Counting: Inside the Biggest Patch Tuesday in History (and Why Your Backlog Just Got Worse)",
+      "why_now": "Microsoft just shattered its own CVE record with 974 fixes in a single Patch Tuesday, including two zero-days already under active exploitation.",
+      "angle": "Data-driven breakdown of the 974 CVEs by severity/product, with a triage cheat-sheet for sysadmins on what to patch first (the two exploited zero-days) vs. what can wait",
+      "source": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160"
     },
     {
-      "title": "Your RMM Tool Is Now a Worm: Inside the ScreenConnect VBScript Chain Spreading to Every New Host",
-      "why_now": "Multiple outlets confirm rogue ScreenConnect clients are self-propagating via a four-stage VBScript chain to newly connected endpoints, and ConnectWise has no patch yet.",
-      "angle": "Technical walkthrough of the infection chain plus a 'if you run ScreenConnect, do this today' checklist since there's no fix to wait for.",
-      "source": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/"
+      "title": "SAP's CVSS 10.0 Kernel Bug: The Perfect Unauthenticated RCE Nobody's Talking About Enough",
+      "why_now": "A maximum-severity, pre-auth remote code execution flaw in SAP's kernel is exactly the kind of thing ransomware crews build automated exploit chains around within days.",
+      "angle": "Explainer on why CVSS 10.0 + unauthenticated + kernel-level is a worst-case combo, with a countdown framing (days until mass exploitation) and patch-now call to action",
+      "source": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html"
     },
     {
-      "title": "Adobe Commerce Zero-Day Turns Online Stores Into Rust-Backdoored Web Shells Overnight",
-      "why_now": "The StyleSmuggler zero-day is being actively exploited to plant a Rust backdoor and PHP web shell on Magento/Adobe Commerce sites right now.",
-      "angle": "Breach anatomy piece — how the exploit chain works, IOC list, and a blunt 'if you sell things online on Magento, assume compromise' framing.",
-      "source": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html"
+      "title": "F5's Invisible Web Shell: Malware That Lives in Memory So Your AV Never Sees It",
+      "why_now": "F5 BIG-IP APM malware injecting PHP web shells directly into memory to dodge disk scans is a fresh evasion technique enterprise defenders need to know about now.",
+      "angle": "Technical deep-dive on the memory-resident evasion technique, what detection signatures actually catch it, and why disk-based AV is increasingly obsolete",
+      "source": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html"
     },
     {
-      "title": "MikroTik Routers Are Being Hijacked Over SSH With Zero Credentials Needed",
-      "why_now": "Attackers are exploiting new RouterOS flaws to take over internet-exposed MikroTik devices without authentication, a mass-exploitable edge-device story breaking this week.",
-      "angle": "Scan-and-patch service piece: explain the flaw, show how to check exposure, and use it as a broader 'edge devices are the new perimeter breach' argument.",
-      "source": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/"
+      "title": "Chrome's Seventh Zero-Day of 2026: The V8 Sandbox Escape Nobody Can Ignore",
+      "why_now": "Chrome 153 just patched an actively-exploited V8 zero-day enabling code execution inside the sandbox — the seventh this year, a pace worth flagging.",
+      "angle": "Trend piece tracking Chrome's 2026 zero-day count as a barometer for browser exploit markets, urging immediate update with a simple 'check your Chrome version' CTA",
+      "source": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/"
     },
     {
-      "title": "$320M Vanishes From Liquid Network — and the Thieves Say They're the Good Guys",
-      "why_now": "A fresh, massive crypto heist with an audacious 'we're white hats' justification is exactly the kind of threat-actor story that drives engagement.",
-      "angle": "Skeptical breakdown of the 'good guy hacker' claim, comparing it to past white-hat-heist rationalizations and asking what happens to the $320M next.",
-      "source": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770"
+      "title": "AI Agents Now Hack Faster Than You Can Read This Sentence: 6 Hours, Thousands of Credentials",
+      "why_now": "A fresh report shows autonomous AI agents compromising thousands of credentials in under six hours — a concrete, alarming benchmark for AI-driven attack speed.",
+      "angle": "Feature framing this as the arrival of 'AI-speed breaches,' contrasting traditional incident response timelines against six-hour agent-driven compromise, ending on what defenders can realistically do",
+      "source": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html"
     }
   ]
 }

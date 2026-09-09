@@ -1,4 +1,53 @@
 {
-  "generated": "2026-09-08T11:08:09+00:00",
-  "plays": []
+  "generated": "2026-09-09T11:08:17+00:00",
+  "plays": [
+    {
+      "story": "Liquid Network's $320M Bitcoin 'white hat' hack-and-return saga (Cointelegraph/Register/SecurityWeek coverage of the exploit, pause, and refund)",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'Liquid Gave Back $320M in BTC — But the Market Already Priced the Fear.' Angle: trace how BTC dipped and recovered around the exploit, tie to this week's ETF inflow data and what 'white hat returns' do to sidechain trust and token liquidity.",
+        "itsalreadywhen": "Title: 'Anatomy of a Reversible Heist: How Liquid Network's $320M Exploit Got Unwound in 48 Hours.' Angle: build an incident timeline from breach to 4000 BTC recovery, extracting custody/response lessons enterprises should bake into their own DR playbooks."
+      },
+      "source": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770"
+    },
+    {
+      "story": "Munchkin card game becomes a full 5E-powered RPG",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Title: 'Munchkin Goes 5E: Is This the Silliest Serious RPG of the Year?' Angle: practical breakdown of what the 5E conversion adds/strips from the card game, and whether existing 5E groups should slot it in for a one-shot.",
+        "itsalreadywritten": "Title: 'From Deck to Dungeon: What Munchkin's RPG Leap Reveals About Adapting Satire Into Story.' Angle: explore the writing challenge of turning a joke-card-game's meta-humor into sustained narrative structure and character arcs."
+      },
+      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
+    },
+    {
+      "story": "Castle Ravenloft board game gets a Renegade Games reprint",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Title: 'Castle Ravenloft Rises Again: Reprint vs. Original — Which Box Should You Buy?' Angle: a buyer's-guide comparing the new Renegade edition to vintage copies, covering component quality, price, and availability.",
+        "itsalreadywritten": "Title: 'Why Ravenloft's Gothic Horror Still Haunts Tabletop Storytelling 15 Years Later.' Angle: dig into what made the original's narrative design (Strahd, dread mechanics) endure, and what the reprint signals about horror-story demand in TTRPG."
+      },
+      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-gets-reprint-from-renegade-games.720596/"
+    },
+    {
+      "story": "Sly Flourish's 'Procedures' framework for running smoother TTRPG sessions",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Title: 'Stop Improvising Everything: Sly Flourish's New Session Procedures, Tested at the Table.' Angle: hands-on review of the procedure framework as a GM toolkit, with a checklist readers can steal for their next session.",
+        "itsalreadywritten": "Title: 'Plot by Procedure: How Invisible GM Frameworks Secretly Author Your Campaign.' Angle: reframe 'procedures' as narrative scaffolding — show how structured GM routines quietly shape story beats and pacing."
+      },
+      "source": "https://slyflourish.com/procedures.html?rss=1"
+    }
+  ]
 }

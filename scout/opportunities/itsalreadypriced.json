@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-08T11:08:09+00:00",
+  "generated": "2026-09-09T11:08:17+00:00",
   "opportunities": [
     {
-      "title": "Cronos Just Proved 'Immutable' Was Always a Marketing Word",
-      "why_now": "Cronos executed a full chain rollback to claw back $111M from the Tectonic exploit, yet $9.2M still walked away — a live case study in what 'code is law' actually means when it's inconvenient.",
-      "angle": "Explainer/op-ed dissecting the rollback mechanics and the precedent it sets for every L1 that claims immutability, with the $9.2M shortfall as proof rollbacks don't even work cleanly",
-      "source": "https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724"
+      "title": "The Liquid Network 'Hack' That Wasn't: $320M Moved, $270M Returned, $47M Still Missing",
+      "why_now": "A live, unresolved incident where Blockstream is negotiating with the people who took the funds, and the network is paused mid-restart.",
+      "angle": "Timeline/explainer breaking down the white-hat framing vs. what an exploit actually looks like, ending on the still-missing $47M as the real story nobody's tracking.",
+      "source": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat"
     },
     {
-      "title": "Liquid's 'White Hat' Story Is the Most Convenient Hack Narrative of 2026",
-      "why_now": "An attacker took $320M, returned $270M+ 3,400 BTC, kept ~600 BTC, and the network is now negotiating with them like a business partner — a pattern our readers have seen before and know rarely ends clean.",
-      "angle": "Skeptical timeline piece questioning the 'white hat' framing, comparing to past exploit-then-negotiate playbooks, and asking what happens to the retained 600 BTC",
-      "source": "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673"
+      "title": "Cronos Rewound Two Hours of Blockchain History — and $9.2M Still Got Away",
+      "why_now": "A chain literally erased transactions to reverse a $111M exploit, proving 'immutable' is negotiable when the money's big enough — yet attackers still escaped with millions.",
+      "angle": "Security-led op-ed on what a rollback actually means for finality guarantees, framed as 'this is the precedent, not the exception.'",
+      "source": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Coldcard 'Wave 3' Attacker Is Cashing Out — Here's What Hardware Wallet Owners Missed",
-      "why_now": "Galaxy confirms the Coldcard exploiter has moved 45% of Wave 3 stolen funds, meaning the theft is transitioning from breach to liquidation in real time.",
-      "angle": "Security-focused breakdown of the Coldcard attack vector and why hardware wallet users assumed they were safe from exactly this",
-      "source": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661"
+      "title": "The Coldcard Attacker Is Still Cashing Out — Round Three, 45% Gone",
+      "why_now": "An ongoing, multi-wave laundering operation against a hardware wallet brand people trust as 'the secure option.'",
+      "angle": "Incident tracker piece: what changed between wave 1 and wave 3, and why hardware security doesn't stop post-compromise fund movement.",
+      "source": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Zondacrypto's Body Count Hits Five — This Is What a $100M Exchange Fraud Prosecution Actually Looks Like",
-      "why_now": "Polish prosecutors just charged a fifth suspect and are seeking pretrial detention, turning what looked like an isolated hack into a coordinated fraud operation.",
-      "angle": "Legal-process explainer tracking the expanding suspect list, framed as a template for how exchange collapses eventually unravel into criminal charges",
-      "source": "https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745"
+      "title": "22, Singaporean, $245M: The Ringleader Who Pled Guilty Before You Even Heard His Name",
+      "why_now": "Fresh guilty plea in one of the largest crypto fraud racketeering cases of the year, breaking simultaneously on The Block and CoinDesk.",
+      "angle": "Profile-style breakdown of the scheme mechanics — how it scaled to $245M and who the actual victims were — as a cautionary case study.",
+      "source": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case"
     },
     {
-      "title": "Malone Lam's Plea Hearing Is a Reminder: Social Engineering Beats Every Cold Wallet",
-      "why_now": "The $245M Bitcoin theft case is heading to a plea hearing, closing the loop on one of the largest social-engineering heists in crypto history.",
-      "angle": "Retrospective on the Lam case as a case study in why human-layer security failures dwarf protocol-layer ones, tying to the current wave of hacks in the news",
-      "source": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft"
+      "title": "Poland Just Charged Someone in the Zondacrypto Case — Here's Why Exchange Hacks Eventually Get a Name Attached",
+      "why_now": "Prosecutors are seeking pretrial detention, giving a rare concrete accountability update in an exchange-hack case.",
+      "angle": "'How this ends' franchise piece: use Zondacrypto as the latest data point in a running thesis that hack anonymity is temporary, not permanent.",
+      "source": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

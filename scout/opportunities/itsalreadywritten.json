@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-08T11:08:09+00:00",
+  "generated": "2026-09-09T11:08:17+00:00",
   "opportunities": [
     {
-      "title": "WFRP 5E's PDF Just Leaked Early — Here's What the Rules Actually Changed From 4E",
-      "why_now": "The WFRP 5E PDF is now circulating publicly, giving us first look at concrete rules text before official release.",
-      "angle": "Rules comparison breakdown: careers, combat resolution, and corruption mechanics vs. 4E, with citations",
-      "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
+      "title": "Munchkin Goes 5E: What Happens When a Card Game Inherits D&D's Chassis",
+      "why_now": "EN World just broke that Munchkin is becoming a 5E-powered RPG, a direct crossover of rules systems worth dissecting.",
+      "angle": "Rules breakdown: predict how Munchkin's absurdist mechanics (curses, bonuses, backstabbing) will be translated into 5E's action economy and classes; call out likely friction points",
+      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
     },
     {
-      "title": "Sly Flourish Says GMs Need 'Procedures,' Not Rules — We Checked the Actual Rulebooks to See Who's Right",
-      "why_now": "A widely-read GM advice piece just argued procedures matter more than rules, which is a direct challenge to our whole premise.",
-      "angle": "Rebuttal/analysis format: pull specific rulebook procedures (initiative, exploration turns) and show they ARE the rules, already written",
+      "title": "Castle Ravenloft's Reprint Is a Reminder D&D Already Wrote the Rules for Board-Gaming Itself",
+      "why_now": "Renegade Games just announced the reprint, giving an easy hook to revisit how Castle Ravenloft's tile-and-power-card system pre-solved problems modern 5E hombrewers still fight over.",
+      "angle": "Rules-history piece: trace which Ravenloft mechanics (skill checks, monster AI, treasure decks) got absorbed or ignored by later 5E design",
+      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-gets-reprint-from-renegade-games.720596/"
+    },
+    {
+      "title": "Junkpunk's Rules Are Already Written, Just in Salvage Metal Instead of Vellum",
+      "why_now": "EN World's RPG Evolution column spotlighted Junkpunk this week, and the genre's scavenging/crafting mechanics are ripe for a rules-first teardown.",
+      "angle": "System analysis: compare Junkpunk's improvised-gear rules to established crafting subsystems (5E, Mothership, Numenera) and rate which solved the 'junk economy' problem best",
+      "source": "https://www.enworld.org/threads/rpg-evolution-heaps-of-trouble-in-junkpunk.719763/"
+    },
+    {
+      "title": "Sly Flourish's 'Procedures' Is the Rulebook Every DM Screen Should Have Printed on It",
+      "why_now": "Sly Flourish just published a fresh breakdown of GM procedures, a perfect match for a channel built on 'the rules are already written.'",
+      "angle": "Response/annotation post: take Sly Flourish's procedure list and cross-reference it against actual 5E/2024 rulebook text to show what's official vs. house-invented",
       "source": "https://slyflourish.com/procedures.html?rss=1"
     },
     {
-      "title": "Castle Ravenloft Board Game Returns — Here's Exactly What Rules Changed in the Renegade Reprint",
-      "why_now": "Renegade Games just announced the reprint, and fans will want to know if this is a straight reprint or a rules revision.",
-      "angle": "Rules-diff explainer: compare original WotC edition mechanics to what's known/rumored about the Renegade version",
-      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-get-reprint-from-renegade-games.720596/"
-    },
-    {
-      "title": "Ravenloft Goes to Netflix: What the Show Can (and Can't) Take From the Actual Domains of Dread Rules",
-      "why_now": "Podcast #413 just dropped news of a Ravenloft Netflix adaptation plus a new D&D movie script, prime territory for a rules-fidelity take.",
-      "angle": "Explainer: map canonical Ravenloft mechanics (Dark Powers checks, Domain rules) against what a screen adaptation would need to cut or simplify",
-      "source": "https://www.enworld.org/threads/podcast-413-livestream-ravenloft-on-netflix-new-d-d-movie-script-wfrp-5e.720574/"
-    },
-    {
-      "title": "Junkpunk's New System Explained: The Rules Behind the Wasteland Genre's Latest Contender",
-      "why_now": "EN World's RPG Evolution column just spotlighted Junkpunk, a fresh system worth a rules-first primer before it gets buried in the news cycle.",
-      "angle": "System breakdown: core mechanics, dice resolution, and how it differentiates itself from Fallout-adjacent TTRPGs",
-      "source": "https://www.enworld.org/threads/rpg-evolution-heaps-of-trouble-in-junkpunk.719763/"
+      "title": "Pitching a Campaign Isn't Improv — Gnomecast Just Gave You the Rulebook for It",
+      "why_now": "Gnomecast's new episode on pitching campaigns lands as a structured, rules-adjacent topic that fits the channel's 'knowing' voice perfectly.",
+      "angle": "Turn the podcast's advice into a numbered 'Session Zero Pitch Checklist' framed as codified procedure, with direct callouts to episode timestamps",
+      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
     }
   ]
 }

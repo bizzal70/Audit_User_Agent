@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-08T11:08:09+00:00",
+  "generated": "2026-09-09T11:08:17+00:00",
   "opportunities": [
     {
-      "title": "Ravenloft's Reprint Is Back — Here's the One Mist Rule Every DM Forgets",
-      "why_now": "Castle Ravenloft board game just got a reprint announcement, putting Barovia mechanics back in the feed's algorithm.",
-      "angle": "60-sec ruling breakdown: how the Mists of Ravenloft actually work as a DM tool to trap PCs in Strahd's domain, with a 5e adaptation note.",
-      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-get-reprint-from-renegade-games.720596/"
+      "title": "Munchkin Is Getting a 5E Engine — Here's the One Rule That Will Break It",
+      "why_now": "EN World just confirmed Munchkin is being converted to run on 5E, a system built on bounded accuracy fighting a game built on unbounded power creep.",
+      "angle": "Short: dissect how Munchkin's escalating +bonuses collide with 5E's math, end with a house-rule fix a real GM would use",
+      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
     },
     {
-      "title": "Strahd's Charm Gaze Is Broken RAW — Here's the Fix Every Table Needs",
-      "why_now": "Netflix's Ravenloft project was just discussed on the EN World podcast, spiking interest in Strahd content right now.",
-      "angle": "Creature tactic short: run Strahd's Charm as a legendary action trap, not a save-or-lose gotcha — show the correct sequencing.",
-      "source": "https://www.enworld.org/threads/podcast-413-livestream-ravenloft-on-netflix-new-d-d-movie-script-wfrp-5e.720574/"
+      "title": "Castle Ravenloft Is Back — Here's the Strahd Tactic the Board Game Teaches You",
+      "why_now": "Renegade Games just announced a reprint of Castle Ravenloft, putting Strahd's board-game AI back in players' hands right as tabletop tables gear up for fall Curse of Strahd runs.",
+      "angle": "Creature tactic short: pull one Strahd movement/ambush pattern straight from the board game's mechanics and translate it into a 5e ruling for mist form or charm escape",
+      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-gets-reprint-from-renegade-games.720596/"
     },
     {
-      "title": "WFRP 5E's Crit Table Just Dropped — Why D&D's 'Roll Max Damage' Crit Is Weak Sauce",
-      "why_now": "WFRP 5E PDF just leaked into the wild, giving a fresh comparison point against 5e's crit rules.",
-      "angle": "Side-by-side mechanical breakdown: WFRP's brutal crit/fumble charts vs 5e's flat crit rule, with a house-rule you can steal.",
-      "source": "https://www.enworld.org/threads/the-pdf-for-warhammer-fantasy-roleplay-5e-is-out-in-the-wild.720565/"
-    },
-    {
-      "title": "Junkpunk's Gear Decay Rule Is the Durability System Shadowdark Should've Had",
-      "why_now": "Junkpunk RPG just got coverage, and its scrap/decay resource mechanic is a natural fit for gritty OSR-adjacent tables.",
-      "angle": "Spell/gear use-case short: adapt Junkpunk's junk-weapon breakage into a Shadowdark torch-and-ration-style resource ruling.",
+      "title": "Junkpunk's 'Heaps of Trouble' — The Hazardous Terrain Rule DCC Already Had",
+      "why_now": "EN World's fresh RPG Evolution piece spotlights Junkpunk's junk-heap hazards, a mechanic DCC GMs have been faking with funnel-level improvisation for years.",
+      "angle": "Rules ruling short: formalize a scrap-heap hazard table using DCC's crit/fumble die logic, credit the Junkpunk inspiration",
       "source": "https://www.enworld.org/threads/rpg-evolution-heaps-of-trouble-in-junkpunk.719763/"
     },
     {
-      "title": "Stop Prepping Encounters, Start Prepping Procedures — Sly Flourish Nailed It",
-      "why_now": "Sly Flourish's new 'Procedures' piece is fresh GM-craft content ripe for a rebuttal/agreement short in your veteran-GM voice.",
-      "angle": "Wry hot-take short: react to the procedures-over-plots framing with your own one-procedure-per-session rule for 5e/DCC tables.",
+      "title": "Sly Flourish Says 'Procedures' Beat Prep — Here's the One I Steal Every Session",
+      "why_now": "Sly Flourish just published a widely-shared analysis on running games via procedures instead of scripts, a direct hit on this channel's daily-ruling format.",
+      "angle": "Wry GM take: pick one concrete procedure (e.g., handling a skill challenge or travel montage) and show the exact steps, no fluff",
       "source": "https://slyflourish.com/procedures.html?rss=1"
+    },
+    {
+      "title": "Gnome Stew's Pitching Campaigns Episode — The One Sentence That Gets Players to Say Yes",
+      "why_now": "Gnomecast just dropped a fresh episode specifically on pitching campaigns, timely for fall session-zero season across D&D, Shadowdark, and DCC tables.",
+      "angle": "Quick-hit veteran GM advice: contrast a bad campaign pitch vs. a mechanically-honest one that sets player expectations for lethality (Shadowdark) or funnel chaos (DCC)",
+      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
     }
   ]
 }
