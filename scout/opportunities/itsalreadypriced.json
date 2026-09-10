@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-09T11:08:17+00:00",
+  "generated": "2026-09-10T11:08:10+00:00",
   "opportunities": [
     {
-      "title": "The Liquid Network 'Hack' That Wasn't: $320M Moved, $270M Returned, $47M Still Missing",
-      "why_now": "A live, unresolved incident where Blockstream is negotiating with the people who took the funds, and the network is paused mid-restart.",
-      "angle": "Timeline/explainer breaking down the white-hat framing vs. what an exploit actually looks like, ending on the still-missing $47M as the real story nobody's tracking.",
-      "source": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat"
+      "title": "Trezor's Email Got Popped, Not Your Seed — But Here's Why That Distinction Won't Save the Next Victim",
+      "why_now": "Trezor confirmed a third-party breach sent phishing emails from its own legitimate domain, blurring the line users rely on to trust official comms.",
+      "angle": "Security teardown: explain the supply-chain vector, what Trezor did right (hardware isolation) vs. what phishing-from-legit-domain defeats, and a checklist for verifying comms going forward.",
+      "source": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email"
     },
     {
-      "title": "Cronos Rewound Two Hours of Blockchain History — and $9.2M Still Got Away",
-      "why_now": "A chain literally erased transactions to reverse a $111M exploit, proving 'immutable' is negotiable when the money's big enough — yet attackers still escaped with millions.",
-      "angle": "Security-led op-ed on what a rollback actually means for finality guarantees, framed as 'this is the precedent, not the exception.'",
-      "source": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "A Family Was Murdered for a Cold Wallet — The Wrench Attack Isn't Theoretical Anymore",
+      "why_now": "A Mexican musician and his family were killed over a suspected multimillion-dollar cold wallet, a stark real-world escalation of the $5 wrench attack meme.",
+      "angle": "Sober, unflinching op-ed on physical security failures of self-custody culture — multisig, duress wallets, and why flaunting holdings is a death sentence, not flex.",
+      "source": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet"
     },
     {
-      "title": "The Coldcard Attacker Is Still Cashing Out — Round Three, 45% Gone",
-      "why_now": "An ongoing, multi-wave laundering operation against a hardware wallet brand people trust as 'the secure option.'",
-      "angle": "Incident tracker piece: what changed between wave 1 and wave 3, and why hardware security doesn't stop post-compromise fund movement.",
-      "source": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Liquid's $320M Exploit, Autopsied: How White Hats Clawed Back $270M and Why $9.2M Still Got Out",
+      "why_now": "Chainalysis published the full technical breakdown of the Liquid Network hack right as the network prepares to restart, with Cronos separately confirming leakage despite its Tectonic rollback.",
+      "angle": "Comparative postmortem: contrast Liquid's white-hat recovery against Cronos's incomplete rollback to show why 'we reversed it' headlines oversell actual security outcomes.",
+      "source": "https://www.chainalysis.com/blog/320m-exploit-liquid-network/"
     },
     {
-      "title": "22, Singaporean, $245M: The Ringleader Who Pled Guilty Before You Even Heard His Name",
-      "why_now": "Fresh guilty plea in one of the largest crypto fraud racketeering cases of the year, breaking simultaneously on The Block and CoinDesk.",
-      "angle": "Profile-style breakdown of the scheme mechanics — how it scaled to $245M and who the actual victims were — as a cautionary case study.",
-      "source": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case"
+      "title": "OFAC Just Sanctioned a Multibillion-Dollar Scam Mall — Here's Why Xinbi Won't Be the Last",
+      "why_now": "Treasury/DOJ sanctioned Xinbi Guarantee and Secret Service froze $52.8M tied to it, the latest in a pattern of Telegram-based crypto scam marketplaces getting dismantled.",
+      "angle": "Explainer connecting the enforcement dots across OFAC, DOJ, and Secret Service actions — what Xinbi's business model reveals about the scam-market economy still operating in plain sight.",
+      "source": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
     },
     {
-      "title": "Poland Just Charged Someone in the Zondacrypto Case — Here's Why Exchange Hacks Eventually Get a Name Attached",
-      "why_now": "Prosecutors are seeking pretrial detention, giving a rare concrete accountability update in an exchange-hack case.",
-      "angle": "'How this ends' franchise piece: use Zondacrypto as the latest data point in a running thesis that hack anonymity is temporary, not permanent.",
-      "source": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "LAPTOP's 99% Crash Wasn't Bots — It Was the Business Model",
+      "why_now": "Hunter Biden's LAPTOP memecoin blamed 'sniper bots' for a 99% launch-day collapse that left traders with six-figure losses, a script this channel's readers have seen a hundred times.",
+      "angle": "Pattern-recognition piece: walk through the thin-liquidity/sniper mechanics that make near-certain 99% dumps predictable, and why blaming bots is the tell that management knew exactly what would happen.",
+      "source": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses"
     }
   ]
 }

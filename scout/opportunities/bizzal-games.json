@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-09T11:08:17+00:00",
+  "generated": "2026-09-10T11:08:10+00:00",
   "opportunities": [
     {
-      "title": "Munchkin Is Getting a 5E Engine — Here's the One Rule That Will Break It",
-      "why_now": "EN World just confirmed Munchkin is being converted to run on 5E, a system built on bounded accuracy fighting a game built on unbounded power creep.",
-      "angle": "Short: dissect how Munchkin's escalating +bonuses collide with 5E's math, end with a house-rule fix a real GM would use",
-      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
-    },
-    {
-      "title": "Castle Ravenloft Is Back — Here's the Strahd Tactic the Board Game Teaches You",
-      "why_now": "Renegade Games just announced a reprint of Castle Ravenloft, putting Strahd's board-game AI back in players' hands right as tabletop tables gear up for fall Curse of Strahd runs.",
-      "angle": "Creature tactic short: pull one Strahd movement/ambush pattern straight from the board game's mechanics and translate it into a 5e ruling for mist form or charm escape",
+      "title": "Strahd's Charm Person Loop: The One Spell That Wins Ravenloft Without a Fight",
+      "why_now": "Castle Ravenloft board game just got reprinted, putting Strahd back in players' feeds and search results.",
+      "angle": "60-sec spell use-case: break down how Strahd chains Charm Person + Suggestion to bypass combat entirely, tying the ruling to the reprint news for search relevance.",
       "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-gets-reprint-from-renegade-games.720596/"
     },
     {
-      "title": "Junkpunk's 'Heaps of Trouble' — The Hazardous Terrain Rule DCC Already Had",
-      "why_now": "EN World's fresh RPG Evolution piece spotlights Junkpunk's junk-heap hazards, a mechanic DCC GMs have been faking with funnel-level improvisation for years.",
-      "angle": "Rules ruling short: formalize a scrap-heap hazard table using DCC's crit/fumble die logic, credit the Junkpunk inspiration",
-      "source": "https://www.enworld.org/threads/rpg-evolution-heaps-of-trouble-in-junkpunk.719763/"
+      "title": "'Powered by 5E' Doesn't Mean What You Think: Munchkin RPG Edition",
+      "why_now": "Munchkin just announced it's going 5E-powered, and the term gets thrown around loosely enough to warrant a mechanical gut-check.",
+      "angle": "Dry explainer ruling: what actually carries over from the 5E chassis (d20, proficiency, classes) vs. what a licensed IP always guts, using Munchkin as the punching bag.",
+      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
     },
     {
-      "title": "Sly Flourish Says 'Procedures' Beat Prep — Here's the One I Steal Every Session",
-      "why_now": "Sly Flourish just published a widely-shared analysis on running games via procedures instead of scripts, a direct hit on this channel's daily-ruling format.",
-      "angle": "Wry GM take: pick one concrete procedure (e.g., handling a skill challenge or travel montage) and show the exact steps, no fluff",
-      "source": "https://slyflourish.com/procedures.html?rss=1"
-    },
-    {
-      "title": "Gnome Stew's Pitching Campaigns Episode — The One Sentence That Gets Players to Say Yes",
-      "why_now": "Gnomecast just dropped a fresh episode specifically on pitching campaigns, timely for fall session-zero season across D&D, Shadowdark, and DCC tables.",
-      "angle": "Quick-hit veteran GM advice: contrast a bad campaign pitch vs. a mechanically-honest one that sets player expectations for lethality (Shadowdark) or funnel chaos (DCC)",
+      "title": "Junk Golem Tactics: Reskinning the Flesh Golem for Scrapyard Campaigns",
+      "why_now": "Gnome Stew's Junkpunk column is putting salvage-setting mechanics in front of GMs looking for reskins right now.",
+      "angle": "Creature tactic short: take the stock Flesh Golem stat block, swap fluff for scrap-metal construct, and cover the one tactic (immunity/vulnerability abuse) that actually changes at the table.",
       "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
+    },
+    {
+      "title": "Session Zero Ruling: Three Things Your Campaign Pitch Should Never Skip",
+      "why_now": "Gnomecast's new episode on pitching campaigns is fresh GM-advice content ripe for a sharper, more mechanical rebuttal/companion take.",
+      "angle": "Wry veteran-GM list format: the pitch elements that prevent table blowups (tone, lethality expectations, safety tools) stated as flat rulings, not suggestions.",
+      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
+    },
+    {
+      "title": "Paranoia's Death Rule vs. DCC's Funnel: Which Actually Kills More PCs?",
+      "why_now": "RPG Print News just resurfaced Paranoia alongside Troika!, giving a natural excuse to compare its clone-death mechanic against DCC's funnel meat-grinder.",
+      "angle": "Mechanical comparison short: two systems built to kill characters fast, one ruling from each that a GM can steal for brutal one-shots.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-the-smurfs-rpg-paranoia-troika-and-more.720549/"
     }
   ]
 }

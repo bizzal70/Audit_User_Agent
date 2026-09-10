@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-09T11:08:17+00:00",
+  "generated": "2026-09-10T11:08:10+00:00",
   "opportunities": [
     {
-      "title": "Munchkin Goes 5E: What Happens When a Card Game Inherits D&D's Chassis",
-      "why_now": "EN World just broke that Munchkin is becoming a 5E-powered RPG, a direct crossover of rules systems worth dissecting.",
-      "angle": "Rules breakdown: predict how Munchkin's absurdist mechanics (curses, bonuses, backstabbing) will be translated into 5E's action economy and classes; call out likely friction points",
+      "title": "Munchkin Goes 5E: What 'Powered By' Actually Means for the Rules",
+      "why_now": "A card game brand jumping into D&D's chassis is a perfect test case for what license-compatible really means mechanically.",
+      "angle": "Rules-breakdown thread comparing Munchkin's card-based chaos to 5E's structured math—predict where the seams will show",
       "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
     },
     {
-      "title": "Castle Ravenloft's Reprint Is a Reminder D&D Already Wrote the Rules for Board-Gaming Itself",
-      "why_now": "Renegade Games just announced the reprint, giving an easy hook to revisit how Castle Ravenloft's tile-and-power-card system pre-solved problems modern 5E hombrewers still fight over.",
-      "angle": "Rules-history piece: trace which Ravenloft mechanics (skill checks, monster AI, treasure decks) got absorbed or ignored by later 5E design",
+      "title": "Castle Ravenloft's Reprint Is a Reminder: D&D's Board Game Line Wrote Adventure Design Rules Before 5E Did",
+      "why_now": "Renegade's reprint puts a foundational D&D Adventure System game back on shelves right as new GMs look for structured dungeon design.",
+      "angle": "Explainer connecting Ravenloft's tile/encounter rules to how 5E modules structure pacing today",
       "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-gets-reprint-from-renegade-games.720596/"
     },
     {
-      "title": "Junkpunk's Rules Are Already Written, Just in Salvage Metal Instead of Vellum",
-      "why_now": "EN World's RPG Evolution column spotlighted Junkpunk this week, and the genre's scavenging/crafting mechanics are ripe for a rules-first teardown.",
-      "angle": "System analysis: compare Junkpunk's improvised-gear rules to established crafting subsystems (5E, Mothership, Numenera) and rate which solved the 'junk economy' problem best",
+      "title": "Paranoia vs. Troika! vs. The Smurfs RPG: Three Rulesets, Three Philosophies of 'Fun'",
+      "why_now": "This week's print roundup lines up three wildly different rules philosophies for direct comparison.",
+      "angle": "Side-by-side rules-crunch comparison: lethality, tone-enforcement mechanics, and how each system's rules *are* its comedy",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-the-smurfs-rpg-paranoia-troika-and-more.720549/"
+    },
+    {
+      "title": "Junkpunk's Rules for Scarcity: How a New Setting Mechanizes 'Trouble'",
+      "why_now": "RPG Evolution's Junkpunk piece surfaces a genre trying to turn resource scarcity into an actual subsystem, not just flavor text.",
+      "angle": "Rules-first breakdown of how Junkpunk mechanizes junk/scrap economy versus other post-apoc systems (Mutant Year Zero, Fallout RPG)",
       "source": "https://www.enworld.org/threads/rpg-evolution-heaps-of-trouble-in-junkpunk.719763/"
     },
     {
-      "title": "Sly Flourish's 'Procedures' Is the Rulebook Every DM Screen Should Have Printed on It",
-      "why_now": "Sly Flourish just published a fresh breakdown of GM procedures, a perfect match for a channel built on 'the rules are already written.'",
-      "angle": "Response/annotation post: take Sly Flourish's procedure list and cross-reference it against actual 5E/2024 rulebook text to show what's official vs. house-invented",
-      "source": "https://slyflourish.com/procedures.html?rss=1"
-    },
-    {
-      "title": "Pitching a Campaign Isn't Improv — Gnomecast Just Gave You the Rulebook for It",
-      "why_now": "Gnomecast's new episode on pitching campaigns lands as a structured, rules-adjacent topic that fits the channel's 'knowing' voice perfectly.",
-      "angle": "Turn the podcast's advice into a numbered 'Session Zero Pitch Checklist' framed as codified procedure, with direct callouts to episode timestamps",
+      "title": "Pitching a Campaign Is Also a Rules Problem — Here's the Session Zero Contract You're Missing",
+      "why_now": "Gnomecast's new episode on campaign pitching is really about codifying expectations before play, which is exactly this channel's territory.",
+      "angle": "Turn the podcast's advice into a concrete 'session zero rules doc' template readers can copy-paste",
       "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
     }
   ]

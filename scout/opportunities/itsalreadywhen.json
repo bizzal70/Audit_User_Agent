@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-09T11:08:17+00:00",
+  "generated": "2026-09-10T11:08:10+00:00",
   "opportunities": [
     {
-      "title": "974 and Counting: Inside the Biggest Patch Tuesday in History (and Why Your Backlog Just Got Worse)",
-      "why_now": "Microsoft just shattered its own CVE record with 974 fixes in a single Patch Tuesday, including two zero-days already under active exploitation.",
-      "angle": "Data-driven breakdown of the 974 CVEs by severity/product, with a triage cheat-sheet for sysadmins on what to patch first (the two exploited zero-days) vs. what can wait",
-      "source": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160"
+      "title": "974 CVEs in One Tuesday: Microsoft Just Set the Record Nobody Wanted",
+      "why_now": "Patch Tuesday hit an all-time high of 974 CVEs the same week Android shipped 180 more and Nvidia/AMD/Arm all issued advisories, making this the single biggest patch-load story of the year.",
+      "angle": "Digest/roundup with a 'what to patch first' triage list, tying in the Krebs and Dark Reading coverage plus the 'human bottleneck' angle on vuln overload",
+      "source": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves"
     },
     {
-      "title": "SAP's CVSS 10.0 Kernel Bug: The Perfect Unauthenticated RCE Nobody's Talking About Enough",
-      "why_now": "A maximum-severity, pre-auth remote code execution flaw in SAP's kernel is exactly the kind of thing ransomware crews build automated exploit chains around within days.",
-      "angle": "Explainer on why CVSS 10.0 + unauthenticated + kernel-level is a worst-case combo, with a countdown framing (days until mass exploitation) and patch-now call to action",
-      "source": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html"
+      "title": "Chrome's V8 Zero-Day Is Already Being Exploited — Here's Why Your Sandbox Isn't Saving You",
+      "why_now": "A Chrome V8 zero-day enabling code execution inside the sandbox is being actively exploited in the wild right now, days after four separate spy groups were caught sharing the same Chrome/Windows exploit kit.",
+      "angle": "Breaking-news brief with patch-now urgency, cross-reference the shared exploit kit story to show how fast these bugs get weaponized across threat actors",
+      "source": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
     },
     {
-      "title": "F5's Invisible Web Shell: Malware That Lives in Memory So Your AV Never Sees It",
-      "why_now": "F5 BIG-IP APM malware injecting PHP web shells directly into memory to dodge disk scans is a fresh evasion technique enterprise defenders need to know about now.",
-      "angle": "Technical deep-dive on the memory-resident evasion technique, what detection signatures actually catch it, and why disk-based AV is increasingly obsolete",
+      "title": "CISA Confirms It: That WatchGuard Bug Is Now a Ransomware Delivery Mechanism",
+      "why_now": "CISA just confirmed active ransomware exploitation of a WatchGuard RCE flaw, landing the same week as confirmed Cisco Secure FMC and Fortinet exploitation — a perimeter-appliance pile-up.",
+      "angle": "Threat-actor-focused explainer: 'edge devices are the new frontline,' with a quick-hit sidebar on the parallel Cisco and Fortinet exploitation stories",
+      "source": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/"
+    },
+    {
+      "title": "Invisible Web Shell: F5 BIG-IP Malware Now Lives Only in Memory to Dodge Your Disk Scanner",
+      "why_now": "A newly disclosed F5 BIG-IP APM malware campaign injects a PHP web shell directly into memory specifically to evade disk-based detection, a notable evolution in enterprise persistence tradecraft.",
+      "angle": "Technical deep-dive on memory-resident malware and what it means for EDR/AV assumptions, framed as 'the scan that can't find what isn't there'",
       "source": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html"
     },
     {
-      "title": "Chrome's Seventh Zero-Day of 2026: The V8 Sandbox Escape Nobody Can Ignore",
-      "why_now": "Chrome 153 just patched an actively-exploited V8 zero-day enabling code execution inside the sandbox — the seventh this year, a pace worth flagging.",
-      "angle": "Trend piece tracking Chrome's 2026 zero-day count as a barometer for browser exploit markets, urging immediate update with a simple 'check your Chrome version' CTA",
-      "source": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/"
-    },
-    {
-      "title": "AI Agents Now Hack Faster Than You Can Read This Sentence: 6 Hours, Thousands of Credentials",
-      "why_now": "A fresh report shows autonomous AI agents compromising thousands of credentials in under six hours — a concrete, alarming benchmark for AI-driven attack speed.",
-      "angle": "Feature framing this as the arrival of 'AI-speed breaches,' contrasting traditional incident response timelines against six-hour agent-driven compromise, ending on what defenders can realistically do",
-      "source": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html"
+      "title": "'sk-1234': The Default Admin Key Still Guarding 1 in 10 Exposed AI Gateways",
+      "why_now": "Nearly 10% of internet-exposed LiteLLM gateways were found still using the literal example admin key from the docs, a perfect, absurd case study in AI infrastructure security debt.",
+      "angle": "Snarky breach-inevitability piece — 'the password is literally in the README' — with a checklist for auditing LLM gateway configs",
+      "source": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html"
     }
   ]
 }

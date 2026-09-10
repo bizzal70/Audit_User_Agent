@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-09T11:08:17+00:00",
+  "generated": "2026-09-10T11:08:10+00:00",
   "plays": [
     {
-      "story": "Liquid Network's $320M Bitcoin 'white hat' hack-and-return saga (Cointelegraph/Register/SecurityWeek coverage of the exploit, pause, and refund)",
+      "story": "Gnomecast 245 tackles the art of pitching a campaign to players before you ever roll dice",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'The 5-Minute Pitch That Gets Your Table to Say Yes' — break down Gnomecast 245's framework into a GM checklist for selling a new campaign concept to a skeptical group, with examples for different genres.",
+        "itsalreadywritten": "'Your Campaign Pitch Is a Query Letter in Disguise' — reframe the episode's advice as a writing craft lesson: hook, stakes, and voice are the same whether you're selling a novel or a Saturday night dungeon crawl."
+      },
+      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
+    },
+    {
+      "story": "Munchkin, the beloved card-game satire of fantasy tropes, is getting a full 5E-powered RPG treatment",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Can Munchkin's Chaos Survive a d20?' — analyze how a card game built on backstabbing and loot-grabbing translates into structured 5E mechanics, and whether it'll play more like a real RPG or a board game with initiative.",
+        "itsalreadywritten": "'The Card Game That Mocked RPGs Is Now One' — dig into the narrative irony: a satire of dungeon-crawl tropes becoming canon lore, and what that says about how licensed IP gets 'legitimized' through adaptation."
+      },
+      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
+    },
+    {
+      "story": "Trezor confirms a third-party vendor breach let attackers send phishing emails from its own legitimate domain",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Liquid Gave Back $320M in BTC — But the Market Already Priced the Fear.' Angle: trace how BTC dipped and recovered around the exploit, tie to this week's ETF inflow data and what 'white hat returns' do to sidechain trust and token liquidity.",
-        "itsalreadywhen": "Title: 'Anatomy of a Reversible Heist: How Liquid Network's $320M Exploit Got Unwound in 48 Hours.' Angle: build an incident timeline from breach to 4000 BTC recovery, extracting custody/response lessons enterprises should bake into their own DR playbooks."
+        "itsalreadypriced": "'Your Hardware Wallet's Email Just Lied to You' — explain to holders what happened, why 'it came from Trezor.com' is no longer proof of safety, and concrete steps to verify any wallet communication going forward.",
+        "itsalreadywhen": "'Anatomy of a Trusted-Domain Hijack: Timeline of the Trezor Vendor Breach' — reconstruct when the third-party compromise occurred, how long attackers had domain access, and what it reveals about supply-chain blind spots in security-hardware vendors."
       },
-      "source": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770"
+      "source": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086"
     },
     {
-      "story": "Munchkin card game becomes a full 5E-powered RPG",
+      "story": "OFAC and DOJ take down Xinbi, a multibillion-dollar crypto marketplace built for cybercriminals",
       "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
+        "itsalreadypriced",
+        "itsalreadywhen"
       ],
       "angles": {
-        "bizzal-games": "Title: 'Munchkin Goes 5E: Is This the Silliest Serious RPG of the Year?' Angle: practical breakdown of what the 5E conversion adds/strips from the card game, and whether existing 5E groups should slot it in for a one-shot.",
-        "itsalreadywritten": "Title: 'From Deck to Dungeon: What Munchkin's RPG Leap Reveals About Adapting Satire Into Story.' Angle: explore the writing challenge of turning a joke-card-game's meta-humor into sustained narrative structure and character arcs."
+        "itsalreadypriced": "'Inside the Multibillion-Dollar Crypto Bazaar the US Just Shut Down' — cover what Xinbi actually traded, how it moved money for scammers, and what the sanctions mean for exchanges and OTC desks that unknowingly touched its liquidity.",
+        "itsalreadywhen": "'How Xinbi Ran a Cybercrime Supermarket for Years Before the Takedown' — timeline the infrastructure (marketplace, escrow, laundering rails) that let it operate, and what indicators defenders missed until the joint OFAC/DOJ action."
       },
-      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
-    },
-    {
-      "story": "Castle Ravenloft board game gets a Renegade Games reprint",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Title: 'Castle Ravenloft Rises Again: Reprint vs. Original — Which Box Should You Buy?' Angle: a buyer's-guide comparing the new Renegade edition to vintage copies, covering component quality, price, and availability.",
-        "itsalreadywritten": "Title: 'Why Ravenloft's Gothic Horror Still Haunts Tabletop Storytelling 15 Years Later.' Angle: dig into what made the original's narrative design (Strahd, dread mechanics) endure, and what the reprint signals about horror-story demand in TTRPG."
-      },
-      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-gets-reprint-from-renegade-games.720596/"
-    },
-    {
-      "story": "Sly Flourish's 'Procedures' framework for running smoother TTRPG sessions",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Title: 'Stop Improvising Everything: Sly Flourish's New Session Procedures, Tested at the Table.' Angle: hands-on review of the procedure framework as a GM toolkit, with a checklist readers can steal for their next session.",
-        "itsalreadywritten": "Title: 'Plot by Procedure: How Invisible GM Frameworks Secretly Author Your Campaign.' Angle: reframe 'procedures' as narrative scaffolding — show how structured GM routines quietly shape story beats and pacing."
-      },
-      "source": "https://slyflourish.com/procedures.html?rss=1"
+      "source": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
     }
   ]
 }
