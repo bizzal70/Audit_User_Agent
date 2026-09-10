@@ -5856,5 +5856,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-09-10",
+    "videos": [
+      {
+        "id": "9znL_sKV7Do",
+        "title": "Homunculus disrupts party plans more than expected #dnd5e",
+        "published": "2026-09-09",
+        "views": 6,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "cTtMqHoL88Y",
+        "title": "Evoke Rage flips the morale game #shadowdark",
+        "published": "2026-09-09",
+        "views": 17,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "E2XrK4_oj_4",
+        "title": "Death Kiss pressures parties more than they expect #dnd5e",
+        "published": "2026-09-09",
+        "views": 6,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "M8OUf7mtRCs",
+        "title": "The Grimoire of Zulmak grants three unique 3rd-level spells instantly #dcc",
+        "published": "2026-09-09",
+        "views": 4,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "UJFiVE3eVcQ",
+        "title": "Difficulty Class impacts planning significantly #shadowdark",
+        "published": "2026-09-08",
+        "views": 61,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "4hRnVRGIyBI",
+        "title": "Swashbuckler shifts from evasive to aggressive effortlessly #dnd5e",
+        "published": "2026-09-08",
+        "views": 224,
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "xQbigGHwl8o",
+        "title": "Birth Augur ties your Luck modifier to a specific roll type for life #dcc",
+        "published": "2026-09-08",
+        "views": 18,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "LKlvslsPwDE",
+        "title": "Halflings get +4 AC vs. large creatures #dcc",
+        "published": "2026-09-07",
+        "views": 580,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "5YgFVl_eqwE",
+        "title": "Halfling: Mastering Good Fortune and Luck Economy #dcc",
+        "published": "2026-09-07",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "dYx8m620TFQ",
+        "title": "Pirate encounters escalate faster than expected #shadowdark",
+        "published": "2026-09-07",
+        "views": 57,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "klMkrhLi21c",
+        "title": "Hit Points aren't just a measure of physical health #dnd5e",
+        "published": "2026-09-07",
+        "views": 79,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7O9gjGHnMLs",
+        "title": "Divine Symbol's power shifts encounter dynamics #dcc",
+        "published": "2026-09-07",
+        "views": 183,
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   }
 ]
