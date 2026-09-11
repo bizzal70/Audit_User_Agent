@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-10T11:08:10+00:00",
+  "generated": "2026-09-11T11:08:15+00:00",
   "opportunities": [
     {
-      "title": "Trezor's Email Got Popped, Not Your Seed — But Here's Why That Distinction Won't Save the Next Victim",
-      "why_now": "Trezor confirmed a third-party breach sent phishing emails from its own legitimate domain, blurring the line users rely on to trust official comms.",
-      "angle": "Security teardown: explain the supply-chain vector, what Trezor did right (hardware isolation) vs. what phishing-from-legit-domain defeats, and a checklist for verifying comms going forward.",
-      "source": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email"
+      "title": "Liquid Said No: Inside the $320M Exploit Blockstream Refused to Ransom",
+      "why_now": "Blockstream just publicly rejected the ransom demand from hackers holding ~600 BTC, days after the exploit and network restart, giving a rare live look at an issuer choosing scorched earth over payout.",
+      "angle": "Incident postmortem timeline (exploit → Chainalysis trace → ransom demand → refusal → block production resumed) with a 'what this means for federated sidechain trust models' close",
+      "source": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin"
     },
     {
-      "title": "A Family Was Murdered for a Cold Wallet — The Wrench Attack Isn't Theoretical Anymore",
-      "why_now": "A Mexican musician and his family were killed over a suspected multimillion-dollar cold wallet, a stark real-world escalation of the $5 wrench attack meme.",
-      "angle": "Sober, unflinching op-ed on physical security failures of self-custody culture — multisig, duress wallets, and why flaunting holdings is a death sentence, not flex.",
-      "source": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet"
+      "title": "AI Just Cut the Cost of Breaking Bitcoin's Crypto in Half — Here's the Actual Math",
+      "why_now": "Researchers halved the quantum resource benchmark for the key operation used to attack Bitcoin/Ethereum, and separately AI agents are being credited with slashing quantum attack costs — two stories, one countdown.",
+      "angle": "Explainer that translates 'benchmark halved' into a real timeline estimate, contrasted with how little of the ecosystem (wallets, cold storage) is quantum-ready",
+      "source": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121"
     },
     {
-      "title": "Liquid's $320M Exploit, Autopsied: How White Hats Clawed Back $270M and Why $9.2M Still Got Out",
-      "why_now": "Chainalysis published the full technical breakdown of the Liquid Network hack right as the network prepares to restart, with Cronos separately confirming leakage despite its Tectonic rollback.",
-      "angle": "Comparative postmortem: contrast Liquid's white-hat recovery against Cronos's incomplete rollback to show why 'we reversed it' headlines oversell actual security outcomes.",
-      "source": "https://www.chainalysis.com/blog/320m-exploit-liquid-network/"
+      "title": "Anthropic's Fourth Disclosure: Claude Is Now a Repeat Offender in Crypto Hacks",
+      "why_now": "Anthropic disclosed its fourth Claude-linked hacking/surveillance incident this week, establishing a pattern rather than a one-off, right as regulators debate AI oversight.",
+      "angle": "Pattern-recognition piece cataloguing all four disclosed incidents, what tooling/guardrails failed each time, and what it means for security teams assuming 'AI-assisted' threat actors are now baseline",
+      "source": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "OFAC Just Sanctioned a Multibillion-Dollar Scam Mall — Here's Why Xinbi Won't Be the Last",
-      "why_now": "Treasury/DOJ sanctioned Xinbi Guarantee and Secret Service froze $52.8M tied to it, the latest in a pattern of Telegram-based crypto scam marketplaces getting dismantled.",
-      "angle": "Explainer connecting the enforcement dots across OFAC, DOJ, and Secret Service actions — what Xinbi's business model reveals about the scam-market economy still operating in plain sight.",
+      "title": "Xinbi Takedown: What a Multibillion-Dollar Cybercrime Marketplace Getting Sanctioned Actually Changes",
+      "why_now": "OFAC and DOJ just struck Xinbi, a marketplace Chainalysis had already mapped in detail, offering a rare before/after look at whether sanctions actually dry up laundering rails.",
+      "angle": "Deep-dive using Chainalysis's own research to grade the takedown — did the flows stop, or just relocate — with lessons for exchanges doing compliance",
       "source": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
     },
     {
-      "title": "LAPTOP's 99% Crash Wasn't Bots — It Was the Business Model",
-      "why_now": "Hunter Biden's LAPTOP memecoin blamed 'sniper bots' for a 99% launch-day collapse that left traders with six-figure losses, a script this channel's readers have seen a hundred times.",
-      "angle": "Pattern-recognition piece: walk through the thin-liquidity/sniper mechanics that make near-certain 99% dumps predictable, and why blaming bots is the tell that management knew exactly what would happen.",
-      "source": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses"
+      "title": "BIS to Banks: You Have Minutes, Not Weeks, Before AI-Speed Attacks Land",
+      "why_now": "A new BIS warning lands the same week as the Liquid exploit and Claude's fourth incident, making 'AI-accelerated attack timelines' a documented regulatory concern rather than a thought experiment.",
+      "angle": "Synthesis piece connecting BIS's warning to the week's actual incidents (Liquid, Claude) as proof-of-concept, framed as 'the warning arrived after the evidence, not before'",
+      "source": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis"
     }
   ]
 }

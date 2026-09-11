@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-10T11:08:10+00:00",
+  "generated": "2026-09-11T11:08:15+00:00",
   "opportunities": [
     {
-      "title": "Strahd's Charm Person Loop: The One Spell That Wins Ravenloft Without a Fight",
-      "why_now": "Castle Ravenloft board game just got reprinted, putting Strahd back in players' feeds and search results.",
-      "angle": "60-sec spell use-case: break down how Strahd chains Charm Person + Suggestion to bypass combat entirely, tying the ruling to the reprint news for search relevance.",
-      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-gets-reprint-from-renegade-games.720596/"
+      "title": "Underdark Testing Round 2: Can a Drow Actually Shove You Off a Ledge as a Bonus Action?",
+      "why_now": "WotC just leaked another wave of Underdark subclasses/species tests, so Underdark terrain rulings are suddenly searchable.",
+      "angle": "60-sec ruling short: Shove-to-prone vs Shove-to-move interaction with darkvision and chasm terrain, dry 'here's what actually happens at your table' delivery",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
     },
     {
-      "title": "'Powered by 5E' Doesn't Mean What You Think: Munchkin RPG Edition",
-      "why_now": "Munchkin just announced it's going 5E-powered, and the term gets thrown around loosely enough to warrant a mechanical gut-check.",
-      "angle": "Dry explainer ruling: what actually carries over from the 5E chassis (d20, proficiency, classes) vs. what a licensed IP always guts, using Munchkin as the punching bag.",
-      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
+      "title": "Munchkin Is Getting a 5E RPG — Here's the Actual Ruling on Looting a Corpse Mid-Fight",
+      "why_now": "Munchkin-as-5E-RPG just got announced twice this week (EN World + Tribality), giving a comedic hook for a real action-economy ruling.",
+      "angle": "Wry cold-open joke about munchkinism, then straight mechanical breakdown of interact-with-object vs. action for looting during combat",
+      "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
     },
     {
-      "title": "Junk Golem Tactics: Reskinning the Flesh Golem for Scrapyard Campaigns",
-      "why_now": "Gnome Stew's Junkpunk column is putting salvage-setting mechanics in front of GMs looking for reskins right now.",
-      "angle": "Creature tactic short: take the stock Flesh Golem stat block, swap fluff for scrap-metal construct, and cover the one tactic (immunity/vulnerability abuse) that actually changes at the table.",
+      "title": "The Boost Bracer Problem: Why Stacking Rage, Bless, and Haste Isn't Free at Your Table",
+      "why_now": "Monster Hunter Wilds' new Boost Bracer buff mechanic is trending, giving a natural video-game-to-tabletop bridge for buff-stacking rules.",
+      "angle": "Spell/ability use-case short comparing MH's buff button to D&D concentration limits and bonus action economy, veteran-GM 'no, you can't do that' tone",
+      "source": "https://www.rpgsite.net/news/21272-monster-hunter-wilds-ascendance-boost-bracer-hunting-action-all-weapons-new-gameplay-showcase-guide-boosted"
+    },
+    {
+      "title": "Pitching a Campaign Isn't a TED Talk: The One Session Zero Rule Every DM Skips",
+      "why_now": "Gnomecast just dropped a full episode on pitching campaigns, making campaign-pitch advice topical this week.",
+      "angle": "Dry GM-voice short on the single concrete Session Zero deliverable (tone/lines-and-veils contract) that prevents 80% of campaign blowups",
       "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
     },
     {
-      "title": "Session Zero Ruling: Three Things Your Campaign Pitch Should Never Skip",
-      "why_now": "Gnomecast's new episode on pitching campaigns is fresh GM-advice content ripe for a sharper, more mechanical rebuttal/companion take.",
-      "angle": "Wry veteran-GM list format: the pitch elements that prevent table blowups (tone, lethality expectations, safety tools) stated as flat rulings, not suggestions.",
-      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
-    },
-    {
-      "title": "Paranoia's Death Rule vs. DCC's Funnel: Which Actually Kills More PCs?",
-      "why_now": "RPG Print News just resurfaced Paranoia alongside Troika!, giving a natural excuse to compare its clone-death mechanic against DCC's funnel meat-grinder.",
-      "angle": "Mechanical comparison short: two systems built to kill characters fast, one ruling from each that a GM can steal for brutal one-shots.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-the-smurfs-rpg-paranoia-troika-and-more.720549/"
+      "title": "Yo-Kai Watch's Catch-a-Monster Loop Is Why Wild Shape Needs a Cooldown, Not a Nerf",
+      "why_now": "Yo-Kai Watch 2: Haunted Domain's monster-collecting reveal is fresh news that maps neatly onto a perennial Druid balance gripe.",
+      "angle": "Creature/spell tactic short: compare monster-catching resets to Wild Shape/Polymorph duration rulings across 5e, Shadowdark, and DCC",
+      "source": "https://www.rpgsite.net/news/21348-yo-kai-watch-2-haunted-domain-coming-to-nintendo-switch-2-sony-playstation-5-pc-steam"
     }
   ]
 }

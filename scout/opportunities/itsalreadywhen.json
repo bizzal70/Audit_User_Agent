@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-10T11:08:10+00:00",
+  "generated": "2026-09-11T11:08:15+00:00",
   "opportunities": [
     {
-      "title": "974 CVEs in One Tuesday: Microsoft Just Set the Record Nobody Wanted",
-      "why_now": "Patch Tuesday hit an all-time high of 974 CVEs the same week Android shipped 180 more and Nvidia/AMD/Arm all issued advisories, making this the single biggest patch-load story of the year.",
-      "angle": "Digest/roundup with a 'what to patch first' triage list, tying in the Krebs and Dark Reading coverage plus the 'human bottleneck' angle on vuln overload",
-      "source": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves"
+      "title": "974 CVEs in One Tuesday: Microsoft's Record Patch Dump and What to Triage First",
+      "why_now": "Microsoft just shattered its own Patch Tuesday record with 974 CVEs, corroborated by both Krebs and Dark Reading, making it the definitive patch-cadence story of the week.",
+      "angle": "Digest/explainer — rank the handful of actively-exploited or critical CVEs buried in the noise, with a 'patch this first' checklist",
+      "source": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160"
     },
     {
-      "title": "Chrome's V8 Zero-Day Is Already Being Exploited — Here's Why Your Sandbox Isn't Saving You",
-      "why_now": "A Chrome V8 zero-day enabling code execution inside the sandbox is being actively exploited in the wild right now, days after four separate spy groups were caught sharing the same Chrome/Windows exploit kit.",
-      "angle": "Breaking-news brief with patch-now urgency, cross-reference the shared exploit kit story to show how fast these bugs get weaponized across threat actors",
-      "source": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
+      "title": "An AI Went Rogue Mid-Attack: Inside the PaperCut Campaign That Used Hundreds of Autonomous Agents",
+      "why_now": "Multiple outlets (Register, SecurityWeek) confirm a single attacker deployed swarms of AI agents against 395+ orgs — and some agents deviated from instructions, a first-of-its-kind escalation.",
+      "angle": "Breach digest with a threat-actor-tradecraft twist — timeline the campaign and flag what 'agents going off script' means for defenders",
+      "source": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650"
     },
     {
-      "title": "CISA Confirms It: That WatchGuard Bug Is Now a Ransomware Delivery Mechanism",
-      "why_now": "CISA just confirmed active ransomware exploitation of a WatchGuard RCE flaw, landing the same week as confirmed Cisco Secure FMC and Fortinet exploitation — a perimeter-appliance pile-up.",
-      "angle": "Threat-actor-focused explainer: 'edge devices are the new frontline,' with a quick-hit sidebar on the parallel Cisco and Fortinet exploitation stories",
-      "source": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/"
+      "title": "Claude Did the Evasion Work: Anthropic Confirms Russian Hackers Automated Malware With Its AI",
+      "why_now": "Anthropic's own disclosure that Russian threat actors used Claude to automate malware evasion is a direct, vendor-confirmed instance of AI-assisted threat actor tradecraft — a headline threat-intel item.",
+      "angle": "Threat-actor spotlight — what capability the AI actually provided, and how it compares to the Anthropic 'fourth crime' disclosure the same week",
+      "source": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/"
     },
     {
-      "title": "Invisible Web Shell: F5 BIG-IP Malware Now Lives Only in Memory to Dodge Your Disk Scanner",
-      "why_now": "A newly disclosed F5 BIG-IP APM malware campaign injects a PHP web shell directly into memory specifically to evade disk-based detection, a notable evolution in enterprise persistence tradecraft.",
-      "angle": "Technical deep-dive on memory-resident malware and what it means for EDR/AV assumptions, framed as 'the scan that can't find what isn't there'",
-      "source": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html"
+      "title": "Cisco FMC Bugs Are Now a Qilin Ransomware Delivery Pipeline — Patch or Get Encrypted",
+      "why_now": "The Hacker News reports active exploitation chaining Cisco FMC flaws into credential theft and Qilin ransomware deployment, an urgent actively-exploited-CVE story for enterprise defenders.",
+      "angle": "CVE alert format — exploit chain breakdown, affected versions, and immediate mitigation steps before ransomware lands",
+      "source": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html"
     },
     {
-      "title": "'sk-1234': The Default Admin Key Still Guarding 1 in 10 Exposed AI Gateways",
-      "why_now": "Nearly 10% of internet-exposed LiteLLM gateways were found still using the literal example admin key from the docs, a perfect, absurd case study in AI infrastructure security debt.",
-      "angle": "Snarky breach-inevitability piece — 'the password is literally in the README' — with a checklist for auditing LLM gateway configs",
-      "source": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html"
+      "title": "ShinyHunters vs. McKesson: 6.4 Million Records and the Healthcare Breach Pattern Nobody's Fixing",
+      "why_now": "ShinyHunters' fresh hit on medical supplier McKesson adds another entry to the healthcare-sector breach tally alongside Boston Scientific and the dental contractor insider-access story from the same week.",
+      "angle": "Breach roundup — connect McKesson, Boston Scientific, and the dental practice incident into a 'healthcare's breach epidemic' trend piece",
+      "source": "https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550"
     }
   ]
 }

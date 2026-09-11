@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-10T11:08:10+00:00",
+  "generated": "2026-09-11T11:08:15+00:00",
   "opportunities": [
     {
-      "title": "Munchkin Goes 5E: What 'Powered By' Actually Means for the Rules",
-      "why_now": "A card game brand jumping into D&D's chassis is a perfect test case for what license-compatible really means mechanically.",
-      "angle": "Rules-breakdown thread comparing Munchkin's card-based chaos to 5E's structured math—predict where the seams will show",
-      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
+      "title": "Unearthed Arcana Goes Deeper: What the New Underdark Subclasses and Species Actually Change",
+      "why_now": "Fresh UA drop gives us new mechanics to dissect before the ink (or playtest survey) dries.",
+      "angle": "Rules breakdown/analysis post: pull the exact subclass features and species traits, compare to existing Underdark options, flag what's balanced vs. broken",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
     },
     {
-      "title": "Castle Ravenloft's Reprint Is a Reminder: D&D's Board Game Line Wrote Adventure Design Rules Before 5E Did",
-      "why_now": "Renegade's reprint puts a foundational D&D Adventure System game back on shelves right as new GMs look for structured dungeon design.",
-      "angle": "Explainer connecting Ravenloft's tile/encounter rules to how 5E modules structure pacing today",
-      "source": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-gets-reprint-from-renegade-games.720596/"
+      "title": "Munchkin Gets a Rulebook: What '5.5E' Actually Means for a Card Game Going Tabletop RPG",
+      "why_now": "Two outlets (EN World, Tribality) confirm Lynnvander's Munchkin RPG is officially 5E-powered — first look at mechanics is a must-cover crossover story.",
+      "angle": "Rules-first explainer: what carries over from Munchkin's card mechanics into a 5E chassis, what changes, is this a real ruleset or a reskin",
+      "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
     },
     {
-      "title": "Paranoia vs. Troika! vs. The Smurfs RPG: Three Rulesets, Three Philosophies of 'Fun'",
-      "why_now": "This week's print roundup lines up three wildly different rules philosophies for direct comparison.",
-      "angle": "Side-by-side rules-crunch comparison: lethality, tone-enforcement mechanics, and how each system's rules *are* its comedy",
+      "title": "Paranoia's Rules Are Already Written (And They're Still Delightfully Broken) — What's New in the Latest Print Run",
+      "why_now": "Paranoia gets fresh print coverage alongside Troika! and Smurfs RPG, a chance to spotlight a classic rules-satire system for readers who missed it",
+      "angle": "System spotlight/retrospective: how Paranoia's secret-society mechanics still hold up, tie into the broader print roundup",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-the-smurfs-rpg-paranoia-troika-and-more.720549/"
     },
     {
-      "title": "Junkpunk's Rules for Scarcity: How a New Setting Mechanizes 'Trouble'",
-      "why_now": "RPG Evolution's Junkpunk piece surfaces a genre trying to turn resource scarcity into an actual subsystem, not just flavor text.",
-      "angle": "Rules-first breakdown of how Junkpunk mechanizes junk/scrap economy versus other post-apoc systems (Mutant Year Zero, Fallout RPG)",
-      "source": "https://www.enworld.org/threads/rpg-evolution-heaps-of-trouble-in-junkpunk.719763/"
+      "title": "Pitching a Campaign Is Its Own Ruleset: Breaking Down Gnomecast's Framework",
+      "why_now": "Gnomecast just dropped a fresh episode on campaign pitches, giving us GM-facing rules-adjacent content to react to",
+      "angle": "Reaction/summary post distilling their framework into a checklist GMs can actually use at the table",
+      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
     },
     {
-      "title": "Pitching a Campaign Is Also a Rules Problem — Here's the Session Zero Contract You're Missing",
-      "why_now": "Gnomecast's new episode on campaign pitching is really about codifying expectations before play, which is exactly this channel's territory.",
-      "angle": "Turn the podcast's advice into a concrete 'session zero rules doc' template readers can copy-paste",
-      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
+      "title": "Species Playtest Fatigue: Why WotC Keeps Sending Underdark Content Back to the Lab",
+      "why_now": "This is at least the second/third Underdark playtest wave — a pattern worth tracking for readers who follow UA cycles closely",
+      "angle": "Trend piece/timeline: chart every Underdark UA revision to date and predict what final publication will look like",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
     }
   ]
 }

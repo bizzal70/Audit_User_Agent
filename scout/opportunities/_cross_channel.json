@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-10T11:08:10+00:00",
+  "generated": "2026-09-11T11:08:15+00:00",
   "plays": [
     {
-      "story": "Gnomecast 245 tackles the art of pitching a campaign to players before you ever roll dice",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'The 5-Minute Pitch That Gets Your Table to Say Yes' — break down Gnomecast 245's framework into a GM checklist for selling a new campaign concept to a skeptical group, with examples for different genres.",
-        "itsalreadywritten": "'Your Campaign Pitch Is a Query Letter in Disguise' — reframe the episode's advice as a writing craft lesson: hook, stakes, and voice are the same whether you're selling a novel or a Saturday night dungeon crawl."
-      },
-      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
-    },
-    {
-      "story": "Munchkin, the beloved card-game satire of fantasy tropes, is getting a full 5E-powered RPG treatment",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Can Munchkin's Chaos Survive a d20?' — analyze how a card game built on backstabbing and loot-grabbing translates into structured 5E mechanics, and whether it'll play more like a real RPG or a board game with initiative.",
-        "itsalreadywritten": "'The Card Game That Mocked RPGs Is Now One' — dig into the narrative irony: a satire of dungeon-crawl tropes becoming canon lore, and what that says about how licensed IP gets 'legitimized' through adaptation."
-      },
-      "source": "https://www.enworld.org/threads/the-iconic-card-game-munchkin-is-becoming-a-roleplaying-game-powered-by-5e.720603/"
-    },
-    {
-      "story": "Trezor confirms a third-party vendor breach let attackers send phishing emails from its own legitimate domain",
+      "story": "Anthropic reports Claude AI is being used by Russian hackers and others to automate malware evasion, surveillance, and multiple 'AI-committed crimes,' with PaperCut attackers deploying hundreds of AI agents against 395+ orgs",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Your Hardware Wallet's Email Just Lied to You' — explain to holders what happened, why 'it came from Trezor.com' is no longer proof of safety, and concrete steps to verify any wallet communication going forward.",
-        "itsalreadywhen": "'Anatomy of a Trusted-Domain Hijack: Timeline of the Trezor Vendor Breach' — reconstruct when the third-party compromise occurred, how long attackers had domain access, and what it reveals about supply-chain blind spots in security-hardware vendors."
+        "itsalreadypriced": "Anthropic's rogue-AI headlines land right as OKX and other platforms open pre-IPO betting on OpenAI/Anthropic — pitch: 'Claude Just Automated Malware Evasion. Traders Are Betting on Anthropic Anyway' — tie the crime wave to the growing pre-IPO AI options market.",
+        "itsalreadywhen": "Straight incident round-up: 'Anthropic Just Confirmed Claude's Fourth Real-World Crime — And 395 Companies Already Paid For It' — walk through the PaperCut agent swarm and what 'some went off script' actually means for SOC teams."
       },
-      "source": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086"
+      "source": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic"
     },
     {
-      "story": "OFAC and DOJ take down Xinbi, a multibillion-dollar crypto marketplace built for cybercriminals",
+      "story": "Blockstream's Liquid Network suffers a $320M exploit; hackers hold ~600 BTC hostage and Blockstream refuses to pay ransom, network resumes block production",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Inside the Multibillion-Dollar Crypto Bazaar the US Just Shut Down' — cover what Xinbi actually traded, how it moved money for scammers, and what the sanctions mean for exchanges and OTC desks that unknowingly touched its liquidity.",
-        "itsalreadywhen": "'How Xinbi Ran a Cybercrime Supermarket for Years Before the Takedown' — timeline the infrastructure (marketplace, escrow, laundering rails) that let it operate, and what indicators defenders missed until the joint OFAC/DOJ action."
+        "itsalreadypriced": "Market/standoff angle: 'Blockstream Says No: Inside the Standoff Over 600 Stolen Bitcoin' — cover the ransom refusal, what it means for sidechain trust, and price/liquidity ripple effects.",
+        "itsalreadywhen": "Technical postmortem: 'How a $320M Liquid Network Heist Actually Worked — And Why Your Bridge Is Next,' using the Chainalysis breakdown to explain the exploit mechanics for a security-literate audience."
       },
-      "source": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
+      "source": "https://www.chainalysis.com/blog/320m-exploit-liquid-network/"
+    },
+    {
+      "story": "Researchers cut in half the quantum computing resources needed for the key operation used to attack Bitcoin and Ethereum private keys",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Quantum Computers Just Got Twice as Close to Cracking Your Bitcoin Keys — Should You Care?' — translate the benchmark into a timeline/urgency piece for holders and exchanges.",
+        "itsalreadywhen": "'The Quantum Countdown Just Sped Up' — deep dive on the specific resource-halving breakthrough and what it means for enterprise crypto custody and post-quantum migration planning."
+      },
+      "source": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121"
+    },
+    {
+      "story": "Lynnvander Studios announces Munchkin 5.5E, turning the iconic card game into a full 5E-powered roleplaying game",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Mechanics-focused hot take: 'Munchkin Goes 5E: Can a Card Game About Killing the Monster and Taking Its Stuff Survive a Full RPG Ruleset?' — dig into how 5.5E rules translate Munchkin's power-creep humor into stat blocks.",
+        "itsalreadywritten": "Narrative/licensing angle: 'From Card Table to Campaign: Munchkin's Absurdist Humor Gets a Full Story Engine' — explore what a Munchkin campaign structure and setting lore even look like."
+      },
+      "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
     }
   ]
 }
