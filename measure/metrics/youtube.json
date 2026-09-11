@@ -5957,5 +5957,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-09-11",
+    "videos": [
+      {
+        "id": "CDH_tnQSQF4",
+        "title": "Pit Fighter progression stalls harder than players expect #shadowdark",
+        "published": "2026-09-10",
+        "views": 42,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "GBYijP918YM",
+        "title": "Water Walk is often underestimated for its tactical value #dnd5e",
+        "published": "2026-09-10",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "dopltHD97lo",
+        "title": "Blood Boulder Pebble Swarm forces a costly choice #dcc",
+        "published": "2026-09-10",
+        "views": 5,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "9znL_sKV7Do",
+        "title": "Homunculus disrupts party plans more than expected #dnd5e",
+        "published": "2026-09-09",
+        "views": 13,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "cTtMqHoL88Y",
+        "title": "Evoke Rage flips the morale game #shadowdark",
+        "published": "2026-09-09",
+        "views": 18,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "E2XrK4_oj_4",
+        "title": "Death Kiss pressures parties more than they expect #dnd5e",
+        "published": "2026-09-09",
+        "views": 9,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "M8OUf7mtRCs",
+        "title": "The Grimoire of Zulmak grants three unique 3rd-level spells instantly #dcc",
+        "published": "2026-09-09",
+        "views": 12,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "UJFiVE3eVcQ",
+        "title": "Difficulty Class impacts planning significantly #shadowdark",
+        "published": "2026-09-08",
+        "views": 64,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "4hRnVRGIyBI",
+        "title": "Swashbuckler shifts from evasive to aggressive effortlessly #dnd5e",
+        "published": "2026-09-08",
+        "views": 224,
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "id": "xQbigGHwl8o",
+        "title": "Birth Augur ties your Luck modifier to a specific roll type for life #dcc",
+        "published": "2026-09-08",
+        "views": 18,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "LKlvslsPwDE",
+        "title": "Halflings get +4 AC vs. large creatures #dcc",
+        "published": "2026-09-07",
+        "views": 580,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "5YgFVl_eqwE",
+        "title": "Halfling: Mastering Good Fortune and Luck Economy #dcc",
+        "published": "2026-09-07",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      }
+    ]
   }
 ]
