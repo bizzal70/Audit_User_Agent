@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-11T11:08:15+00:00",
+  "generated": "2026-09-12T11:06:38+00:00",
   "opportunities": [
     {
-      "title": "Underdark Testing Round 2: Can a Drow Actually Shove You Off a Ledge as a Bonus Action?",
-      "why_now": "WotC just leaked another wave of Underdark subclasses/species tests, so Underdark terrain rulings are suddenly searchable.",
-      "angle": "60-sec ruling short: Shove-to-prone vs Shove-to-move interaction with darkvision and chasm terrain, dry 'here's what actually happens at your table' delivery",
+      "title": "Underdark 2.0: What the New UA Subclasses Actually Fix at the Table",
+      "why_now": "WotC just dropped another Underdark playtest wave, giving fresh subclass/species mechanics worth a ruling breakdown before the next packet buries them.",
+      "angle": "Rules-ruling short: pick one new subclass feature, run the exact wording, flag the ambiguity, give your table ruling.",
       "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
     },
     {
-      "title": "Munchkin Is Getting a 5E RPG — Here's the Actual Ruling on Looting a Corpse Mid-Fight",
-      "why_now": "Munchkin-as-5E-RPG just got announced twice this week (EN World + Tribality), giving a comedic hook for a real action-economy ruling.",
-      "angle": "Wry cold-open joke about munchkinism, then straight mechanical breakdown of interact-with-object vs. action for looting during combat",
+      "title": "Troika! vs 5e: How a One-Page Species Table Beats Your Race Feat Tree",
+      "why_now": "This week's RPG Print News roundup spotlights Troika!'s minimalist chargen, a good foil for a system-comparison bit.",
+      "angle": "Wry comparison short: read Troika!'s species table cold, then show the 5e equivalent bloat, land on a design-lesson punchline.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-the-smurfs-rpg-paranoia-troika-and-more.720549/"
+    },
+    {
+      "title": "Munchkin Gets a 5.5E Chassis — Here's the One Rule It Steals From Real 5e",
+      "why_now": "Lynnvander's Munchkin 5.5E RPG announcement is fresh and lets you dissect a satire system through a real-GM lens.",
+      "angle": "Deadpan teardown: pull one actual mechanic from the announcement, compare it to core 5e math, rate whether it's a joke or a genuine houserule.",
       "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
     },
     {
-      "title": "The Boost Bracer Problem: Why Stacking Rage, Bless, and Haste Isn't Free at Your Table",
-      "why_now": "Monster Hunter Wilds' new Boost Bracer buff mechanic is trending, giving a natural video-game-to-tabletop bridge for buff-stacking rules.",
-      "angle": "Spell/ability use-case short comparing MH's buff button to D&D concentration limits and bonus action economy, veteran-GM 'no, you can't do that' tone",
-      "source": "https://www.rpgsite.net/news/21272-monster-hunter-wilds-ascendance-boost-bracer-hunting-action-all-weapons-new-gameplay-showcase-guide-boosted"
+      "title": "This Week in TTRPG News, Filtered for Things That'll Actually Change Your Session",
+      "why_now": "The Sept 11 EN World news digest is a grab-bag; a GM-voice filter turns it into a fast, opinionated roundup instead of noise.",
+      "angle": "Rapid-fire digest short: 3 items from the roundup, one-sentence verdict each on 'matters for your table' vs 'skip it.'",
+      "source": "https://www.enworld.org/threads/news-digest-for-september-11-2026.720634/"
     },
     {
-      "title": "Pitching a Campaign Isn't a TED Talk: The One Session Zero Rule Every DM Skips",
-      "why_now": "Gnomecast just dropped a full episode on pitching campaigns, making campaign-pitch advice topical this week.",
-      "angle": "Dry GM-voice short on the single concrete Session Zero deliverable (tone/lines-and-veils contract) that prevents 80% of campaign blowups",
-      "source": "https://gnomestew.com/gnomecast-245-pitching-campaigns/"
-    },
-    {
-      "title": "Yo-Kai Watch's Catch-a-Monster Loop Is Why Wild Shape Needs a Cooldown, Not a Nerf",
-      "why_now": "Yo-Kai Watch 2: Haunted Domain's monster-collecting reveal is fresh news that maps neatly onto a perennial Druid balance gripe.",
-      "angle": "Creature/spell tactic short: compare monster-catching resets to Wild Shape/Polymorph duration rulings across 5e, Shadowdark, and DCC",
-      "source": "https://www.rpgsite.net/news/21348-yo-kai-watch-2-haunted-domain-coming-to-nintendo-switch-2-sony-playstation-5-pc-steam"
+      "title": "IKEA's Free Skyrim Dungeon Mod: A Masterclass in Furniture-as-Trap Design",
+      "why_now": "IKEA's new Skyrim Creations mod (flatpack dungeon, storage-themed quests) is a viral gaming story with an obvious tabletop trap-design lesson.",
+      "angle": "Creature/encounter tactic spin: use the mod's flatpack dungeon gimmick as a template for a 'mundane object as deadly trap' 5e encounter idea.",
+      "source": "https://www.rpgsite.net/news/21359-skyrim-free-ikea-mod-kallax-storageborn-quests-dungeons"
     }
   ]
 }

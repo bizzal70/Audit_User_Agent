@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-11T11:08:15+00:00",
+  "generated": "2026-09-12T11:06:38+00:00",
   "opportunities": [
     {
-      "title": "Liquid Said No: Inside the $320M Exploit Blockstream Refused to Ransom",
-      "why_now": "Blockstream just publicly rejected the ransom demand from hackers holding ~600 BTC, days after the exploit and network restart, giving a rare live look at an issuer choosing scorched earth over payout.",
-      "angle": "Incident postmortem timeline (exploit → Chainalysis trace → ransom demand → refusal → block production resumed) with a 'what this means for federated sidechain trust models' close",
+      "title": "Blockstream Says No: The $320M Liquid Heist Becomes a Referendum on Ransom Culture",
+      "why_now": "Blockstream is publicly refusing a live ransom demand for the remaining 600 BTC from the Liquid exploit, turning a hack into a test case for how protocols should respond to extortion.",
+      "angle": "Timeline explainer + opinion: walk through the exploit mechanics (via Chainalysis research), then argue why paying ransoms is the actual systemic risk, not the hack itself",
       "source": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin"
     },
     {
-      "title": "AI Just Cut the Cost of Breaking Bitcoin's Crypto in Half — Here's the Actual Math",
-      "why_now": "Researchers halved the quantum resource benchmark for the key operation used to attack Bitcoin/Ethereum, and separately AI agents are being credited with slashing quantum attack costs — two stories, one countdown.",
-      "angle": "Explainer that translates 'benchmark halved' into a real timeline estimate, contrasted with how little of the ecosystem (wallets, cold storage) is quantum-ready",
-      "source": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121"
+      "title": "Revolut Got Social-Engineered by a Fake Government Request — And Handed Over Your Bitcoin History",
+      "why_now": "Fresh breaking story: Revolut exposed user bitcoin activity and passport data after falling for a fraudulent government data request.",
+      "angle": "Security breakdown piece dissecting the social-engineering vector against custodians/exchanges holding both fiat KYC and crypto activity data — the 'soft target' angle",
+      "source": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request"
     },
     {
-      "title": "Anthropic's Fourth Disclosure: Claude Is Now a Repeat Offender in Crypto Hacks",
-      "why_now": "Anthropic disclosed its fourth Claude-linked hacking/surveillance incident this week, establishing a pattern rather than a one-off, right as regulators debate AI oversight.",
-      "angle": "Pattern-recognition piece cataloguing all four disclosed incidents, what tooling/guardrails failed each time, and what it means for security teams assuming 'AI-assisted' threat actors are now baseline",
-      "source": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Anthropic Just Admitted Claude Was Weaponized for Cyberattacks — The AI Arms Race Nobody Priced In",
+      "why_now": "Anthropic's own disclosure that Claude was used in real-world offensive cyber operations and surveillance is a watershed admission from a frontier AI lab.",
+      "angle": "Analysis connecting this to AI-accelerated attack tooling in crypto (pairs with the AI quantum-benchmark story) — 'the attackers upgraded, has your custody stack?'",
+      "source": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic"
     },
     {
-      "title": "Xinbi Takedown: What a Multibillion-Dollar Cybercrime Marketplace Getting Sanctioned Actually Changes",
-      "why_now": "OFAC and DOJ just struck Xinbi, a marketplace Chainalysis had already mapped in detail, offering a rare before/after look at whether sanctions actually dry up laundering rails.",
-      "angle": "Deep-dive using Chainalysis's own research to grade the takedown — did the flows stop, or just relocate — with lessons for exchanges doing compliance",
+      "title": "OFAC Just Shut Down Crypto Crime's Amazon: Inside the Xinbi Sanctions",
+      "why_now": "DOJ/OFAC's coordinated strike on the multibillion-dollar Xinbi marketplace is a major enforcement action against crypto-native cybercrime infrastructure.",
+      "angle": "Explainer on how Xinbi actually operated (laundering rails, buyer/seller mechanics) and a skeptical take on whether sanctions dent it or just rebrand it",
       "source": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
     },
     {
-      "title": "BIS to Banks: You Have Minutes, Not Weeks, Before AI-Speed Attacks Land",
-      "why_now": "A new BIS warning lands the same week as the Liquid exploit and Claude's fourth incident, making 'AI-accelerated attack timelines' a documented regulatory concern rather than a thought experiment.",
-      "angle": "Synthesis piece connecting BIS's warning to the week's actual incidents (Liquid, Claude) as proof-of-concept, framed as 'the warning arrived after the evidence, not before'",
-      "source": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis"
+      "title": "AI Agents Just Cut Bitcoin's Quantum-Attack Timeline by 86% — 'Store Now, Decrypt Later' Isn't a Thought Experiment Anymore",
+      "why_now": "A new benchmark shows AI-assisted attacks compressing the theoretical quantum threat window against BTC, a concrete milestone in a risk markets still treat as decades away.",
+      "angle": "Explainer for the security-literate reader: what the benchmark actually measured, why it matters for cold storage timelines, and why 'already priced' doesn't apply here yet",
+      "source": "https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86"
     }
   ]
 }
