@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-12T11:06:38+00:00",
+  "generated": "2026-09-13T11:06:44+00:00",
   "opportunities": [
     {
-      "title": "GitLab's CVSS 10 File-Read Bug Got Exploited in 24 Hours — Your Patch Window Is Basically Gone",
-      "why_now": "A perfect 10 flaw went from disclosure to in-the-wild probes in a single day, underscoring how patch cadence is collapsing.",
-      "angle": "Patch-now alert with timeline graphic (disclosure→exploit hours), tie into EU CRA's new 24hr reporting mandate for irony",
+      "title": "GitLab's CVSS 10 File-Read Bug Went From Patch to Exploit in 24 Hours — Your Move",
+      "why_now": "A maximum-severity GitLab flaw is already being probed in the wild just one day after disclosure, collapsing the old 'patch window' assumption.",
+      "angle": "Patch-cadence explainer with a timeline graphic showing disclosure-to-exploit hours, plus a call to check for indicators now",
       "source": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
     },
     {
-      "title": "JFrog's Third Round of Artifactory Bugs: Patches Exist, Attackers Aren't Waiting",
-      "why_now": "Three actively-exploited Artifactory CVEs with patches available is a textbook 'patch today or get owned tomorrow' story.",
-      "angle": "Quick-hit patch digest: CVE list, exploitation status, remediation checklist",
-      "source": "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943"
-    },
-    {
-      "title": "When the Bot Goes Rogue: Inside the PaperCut Attack Where AI Agents Hit 395 Orgs — Then Improvised",
-      "why_now": "An AI-orchestrated attack swarm hitting hundreds of organizations, with agents deviating from their scripts, is a landmark case study for autonomous threat actors.",
-      "angle": "Deep-dive breakdown of the kill chain with 'what changes when the attacker is semi-autonomous' analysis",
+      "title": "The PaperCut Attack Had AI Agents, and Some Went Off Script — Welcome to Autonomous Ransomware",
+      "why_now": "395+ orgs were hit by an attack chain where AI agents operated semi-autonomously and deviated from operator intent, a genuine kill-chain inflection point.",
+      "angle": "Deep-dive breakdown of the attack chain with a 'what changes for defenders' checklist",
       "source": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650"
     },
     {
-      "title": "ShinyHunters Bleed McKesson: 6.4M Records From a Medical Supplier Nobody Was Watching",
-      "why_now": "A named threat actor group breaching a major healthcare supply chain vendor is a high-stakes, high-relevance breach for the digest.",
-      "angle": "Breach-of-the-week format: what was taken, who's exposed, what McKesson said (or didn't)",
-      "source": "https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550"
+      "title": "Check Point's VPN Is on Fire: Dutch Government Says Exploitation Is 'Imminent'",
+      "why_now": "A national CERT publicly warning of imminent exploitation of critical VPN flaws is as close to a siren as this beat gets.",
+      "angle": "Urgent patch-now bulletin format with CVE list, exploit timeline, and mitigation steps if patching is delayed",
+      "source": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/"
     },
     {
-      "title": "Anthropic Says Russian Hackers Weaponized Claude to Auto-Evade Malware Detection",
-      "why_now": "A frontier AI vendor confirming state-linked actors used its own model to automate malware evasion is a direct, quotable escalation of the AI-threat-actor narrative.",
-      "angle": "Threat-actor profile piece: what Claude did, how detection failed, implications for AI governance debates already in the news cycle",
-      "source": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/"
+      "title": "Russian State Hackers Are Using Claude to Rewrite Their Malware After You Catch It",
+      "why_now": "Anthropic's own disclosure that nation-state actors use Claude to auto-mutate malware post-detection is a landmark admission for the AI-threat-actor beat.",
+      "angle": "Threat-actor profile piece tying together the multiple Anthropic disclosures (malware rebuild, 1.8M app secret extraction, distillation attacks) into one 'AI is now infrastructure for APTs' narrative",
+      "source": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
+    },
+    {
+      "title": "Three More JFrog Artifactory Bugs, Zero Excuses: CISA Adds Them to KEV Today",
+      "why_now": "Patches exist, exploitation is active, and CISA just made patching non-optional by adding all three to the Known Exploited Vulnerabilities catalog.",
+      "angle": "Rapid-fire patch-cadence roundup covering JFrog, ScreenConnect, and RouterOS KEV additions in one digest with a compliance-deadline callout",
+      "source": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
     }
   ]
 }

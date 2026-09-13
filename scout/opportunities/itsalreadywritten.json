@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-12T11:06:38+00:00",
+  "generated": "2026-09-13T11:06:44+00:00",
   "opportunities": [
     {
-      "title": "The Underdark Playtest, Rules-Checked: What's Actually New in These Subclasses and Species",
-      "why_now": "Fresh UA drop gives concrete mechanics to parse before the discourse cycle moves on.",
-      "angle": "Rules breakdown post: table comparing new subclass features/species traits vs. existing options, flagging power outliers",
+      "title": "Leaked Underdark Playtest: Every New Subclass and Species Rules Text, Annotated",
+      "why_now": "WotC just dropped fresh Underdark playtest material for subclasses and species, giving rules-watchers first crack at parsing the actual text before it's finalized.",
+      "angle": "Line-by-line rules breakdown comparing playtest wording to existing D&D 2024 baseline classes/species",
       "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
     },
     {
-      "title": "Munchkin 5.5E: Can a Card Game Actually Survive Becoming a d20 RPG?",
-      "why_now": "A niche property announcement is a rare chance to do rules-first speculation before any mechanics are public.",
-      "angle": "Analytical preview thread: what 'Munchkin' mechanics (levels, loot, curses) would need to become to work in 5.5E's chassis",
+      "title": "What WotC's Underdark Playtest Pattern Tells Us About the Next Splatbook",
+      "why_now": "This is the second/third wave of Underdark playtest content in recent weeks, enough to spot a shape for the eventual release.",
+      "angle": "Trend analysis piece tracking playtest cadence and predicting final subclass/species lineup",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
+    },
+    {
+      "title": "Munchkin Gets Real Rules: What Lynnvander's 5.5E RPG Keeps (and Kills) From the Card Game",
+      "why_now": "Lynnvander just announced a full RPG adaptation of Munchkin, a rare case of a card game getting genuine crunch, worth dissecting before release hype takes over.",
+      "angle": "Rules-first comparison of Munchkin's card mechanics vs. announced RPG systems (classes, leveling, combat)",
       "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
     },
     {
-      "title": "This Week in TTRPG: The Rules Stories Buried in the Print News Roundup",
-      "why_now": "Paranoia and Troika! updates mentioned in passing deserve a dedicated rules-nerd lens the roundup didn't give them.",
-      "angle": "Curated X thread pulling out the 2-3 system-relevant items from the print digest with mechanical commentary",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-the-smurfs-rpg-paranoia-troika-and-more.720549/"
+      "title": "Why Munchkin Calling Itself '5.5E' Is a Bigger Deal Than It Sounds",
+      "why_now": "The naming choice directly references D&D's 2024 ruleset shorthand, a branding move worth unpacking for what it signals about audience expectations.",
+      "angle": "Media/language analysis: how third-party RPGs borrow rules-nomenclature to signal compatibility or lineage",
+      "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
     },
     {
-      "title": "September 11 Digest, Annotated: The Three Rules Changes Worth Tracking",
-      "why_now": "The daily digest is a firehose; a rules-first filter turns it into a must-read for GMs who don't have time to click everything.",
-      "angle": "Short blog post + X thread ranking digest items by actual mechanical impact vs. flavor news",
+      "title": "EN World's Sept 11 Digest: The Three Rules Stories Buried in the Noise",
+      "why_now": "The daily digest rounds up scattered TTRPG news; a curated read-through separates genuine rules developments from filler.",
+      "angle": "Curated/annotated digest recap highlighting only mechanically significant items with commentary",
       "source": "https://www.enworld.org/threads/news-digest-for-september-11-2026.720634/"
-    },
-    {
-      "title": "Species vs. Subclass Power Creep: What the New Underdark UA Tells Us About Where 5.5E Is Headed",
-      "why_now": "A second consecutive Underdark playtest wave signals a pattern worth tracking, not just a one-off.",
-      "angle": "Trend-analysis piece comparing this UA wave to the prior one to spot design-philosophy shifts",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
     }
   ]
 }

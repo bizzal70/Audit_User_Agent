@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-12T11:06:38+00:00",
+  "generated": "2026-09-13T11:06:44+00:00",
   "opportunities": [
     {
-      "title": "Underdark 2.0: What the New UA Subclasses Actually Fix at the Table",
-      "why_now": "WotC just dropped another Underdark playtest wave, giving fresh subclass/species mechanics worth a ruling breakdown before the next packet buries them.",
-      "angle": "Rules-ruling short: pick one new subclass feature, run the exact wording, flag the ambiguity, give your table ruling.",
+      "title": "New Underdark Subclasses Are Basically 'How Many Free Spells Can We Give a Drow'",
+      "why_now": "WotC's fresh UA drop for Underdark subclasses/species is actively testing innate spellcasting stacking that GMs will have to rule on at tables this week.",
+      "angle": "Rules-ruling short: walk through a drow multiclass build abusing innate spellcasting + new subclass slot, then give the 'as written vs as intended' verdict.",
       "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
     },
     {
-      "title": "Troika! vs 5e: How a One-Page Species Table Beats Your Race Feat Tree",
-      "why_now": "This week's RPG Print News roundup spotlights Troika!'s minimalist chargen, a good foil for a system-comparison bit.",
-      "angle": "Wry comparison short: read Troika!'s species table cold, then show the 5e equivalent bloat, land on a design-lesson punchline.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-the-smurfs-rpg-paranoia-troika-and-more.720549/"
-    },
-    {
-      "title": "Munchkin Gets a 5.5E Chassis — Here's the One Rule It Steals From Real 5e",
-      "why_now": "Lynnvander's Munchkin 5.5E RPG announcement is fresh and lets you dissect a satire system through a real-GM lens.",
-      "angle": "Deadpan teardown: pull one actual mechanic from the announcement, compare it to core 5e math, rate whether it's a joke or a genuine houserule.",
+      "title": "Munchkin 5.5E Is a Parody, But It's Also a Better Rules Critique Than Half of Reddit",
+      "why_now": "Lynnvander just announced a full 5.5E-styled Munchkin RPG, a direct satirical jab at current 5e power creep worth reacting to while it's news.",
+      "angle": "Wry commentary format: compare a real 5e 'balance' rule to its Munchkin 5.5E parody equivalent, one-liner per comparison.",
       "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
     },
     {
-      "title": "This Week in TTRPG News, Filtered for Things That'll Actually Change Your Session",
-      "why_now": "The Sept 11 EN World news digest is a grab-bag; a GM-voice filter turns it into a fast, opinionated roundup instead of noise.",
-      "angle": "Rapid-fire digest short: 3 items from the roundup, one-sentence verdict each on 'matters for your table' vs 'skip it.'",
+      "title": "This Week's D&D News Digest Has Three Rulings Buried in It — Here's the One That Matters",
+      "why_now": "EN World's Sept 11 digest is the week's roundup of dev chatter and errata hints that tables will start arguing about by the weekend.",
+      "angle": "Digest-reaction short: pull one buried rules implication from the digest and give the GM verdict before anyone else does.",
       "source": "https://www.enworld.org/threads/news-digest-for-september-11-2026.720634/"
     },
     {
-      "title": "IKEA's Free Skyrim Dungeon Mod: A Masterclass in Furniture-as-Trap Design",
-      "why_now": "IKEA's new Skyrim Creations mod (flatpack dungeon, storage-themed quests) is a viral gaming story with an obvious tabletop trap-design lesson.",
-      "angle": "Creature/encounter tactic spin: use the mod's flatpack dungeon gimmick as a template for a 'mundane object as deadly trap' 5e encounter idea.",
-      "source": "https://www.rpgsite.net/news/21359-skyrim-free-ikea-mod-kallax-storageborn-quests-dungeons"
+      "title": "Monster Hunter's 'Boost Bracer' Is Just Legendary Action Economy — Here's the 5e Version",
+      "why_now": "RPGSite's showcase of Boost Bracer hunting action gives a timely hook to translate a trendy action-economy mechanic into a homebrew monster tactic.",
+      "angle": "Creature tactic short: build a 5e/Shadowdark boss ability inspired by Boost Bracer's burst-window mechanic, with action economy math.",
+      "source": "https://www.rpgsite.net/news/21272-monster-hunter-wilds-ascendance-boost-bracer-hunting-action-all-weapons-new-gameplay-showcase-guide-boosted"
+    },
+    {
+      "title": "Diablo IV's Loot Bloat Is a Warning Label for Your 5e Magic Item Table",
+      "why_now": "The Age of Hatred Collection relaunch (Sept 15) is renewing chatter about itemization overload, a direct parallel to attunement-slot arguments GMs face weekly.",
+      "angle": "Mechanical ruling short: use Diablo's loot glut as a cold open, then deliver the actual 5e ruling on attunement caps and magic item bloat at the table.",
+      "source": "https://www.rpgsite.net/news/21365-diablo-iv-age-of-hatred-collection-switch-2-release-date"
     }
   ]
 }
