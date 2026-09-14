@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-13T11:06:44+00:00",
+  "generated": "2026-09-14T11:08:45+00:00",
   "opportunities": [
     {
-      "title": "Leaked Underdark Playtest: Every New Subclass and Species Rules Text, Annotated",
-      "why_now": "WotC just dropped fresh Underdark playtest material for subclasses and species, giving rules-watchers first crack at parsing the actual text before it's finalized.",
-      "angle": "Line-by-line rules breakdown comparing playtest wording to existing D&D 2024 baseline classes/species",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
+      "title": "Underdark by the Numbers: What EN World's Podcast #414 Actually Confirms About New D&D Options",
+      "why_now": "Podcast #414 just dropped fresh Underdark content details worth fact-checking against the books.",
+      "angle": "Rules-first breakdown: list every confirmed mechanic/subclass/race option mentioned, cite page/source, flag what's still speculation",
+      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
     },
     {
-      "title": "What WotC's Underdark Playtest Pattern Tells Us About the Next Splatbook",
-      "why_now": "This is the second/third wave of Underdark playtest content in recent weeks, enough to spot a shape for the eventual release.",
-      "angle": "Trend analysis piece tracking playtest cadence and predicting final subclass/species lineup",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
+      "title": "Munchkin Gets Its Own RPG: What 'RPG' Actually Means When It Comes From a Card Game Studio",
+      "why_now": "Podcast #414 revealed Munchkin's new RPG, a genuine rules-system pedigree question worth settling now before hype narratives form.",
+      "angle": "Explainer comparing card-game-to-RPG conversions historically (e.g., Munchkin's design DNA) and predicting what mechanics will carry over",
+      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
     },
     {
-      "title": "Munchkin Gets Real Rules: What Lynnvander's 5.5E RPG Keeps (and Kills) From the Card Game",
-      "why_now": "Lynnvander just announced a full RPG adaptation of Munchkin, a rare case of a card game getting genuine crunch, worth dissecting before release hype takes over.",
-      "angle": "Rules-first comparison of Munchkin's card mechanics vs. announced RPG systems (classes, leveling, combat)",
-      "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
+      "title": "Arcana Unleashed Delay: What the Fine Print of the Bundle Actually Promised You",
+      "why_now": "The Ultimate Bundle delay in US/Canada just broke, and backers want clarity on what's guaranteed vs. speculative.",
+      "angle": "Rules-of-the-deal breakdown: pull exact bundle contents/timeline language, compare to prior Kickstarter delay patterns",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-ultimate-bundle-delayed-in-us-and-canada.720654/"
     },
     {
-      "title": "Why Munchkin Calling Itself '5.5E' Is a Bigger Deal Than It Sounds",
-      "why_now": "The naming choice directly references D&D's 2024 ruleset shorthand, a branding move worth unpacking for what it signals about audience expectations.",
-      "angle": "Media/language analysis: how third-party RPGs borrow rules-nomenclature to signal compatibility or lineage",
-      "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
+      "title": "The Session Zero Rulebook: Answering Gnome Stew's 'Where Do I Start With a Campaign?' With Actual Mechanics",
+      "why_now": "Gnome Stew's campaign-start piece is a hook to lay out a rules-first checklist GMs can act on immediately.",
+      "angle": "Companion piece: turn the soft advice into a hard, step-by-step system-agnostic starter framework citing specific rulebook sections",
+      "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
     },
     {
-      "title": "EN World's Sept 11 Digest: The Three Rules Stories Buried in the Noise",
-      "why_now": "The daily digest rounds up scattered TTRPG news; a curated read-through separates genuine rules developments from filler.",
-      "angle": "Curated/annotated digest recap highlighting only mechanically significant items with commentary",
-      "source": "https://www.enworld.org/threads/news-digest-for-september-11-2026.720634/"
+      "title": "'What Excites You?' Is a Feeling — Here's the Rule That Actually Produces It",
+      "why_now": "Sly Flourish's prep-philosophy post begs a rules-first counterpoint: excitement is designed into specific mechanics, not vibes.",
+      "angle": "Reaction essay: identify concrete published mechanics (fail-forward, downtime, faction clocks) that generate the 'excitement' Sly Flourish describes",
+      "source": "https://slyflourish.com/what_excites_you.html?rss=1"
     }
   ]
 }

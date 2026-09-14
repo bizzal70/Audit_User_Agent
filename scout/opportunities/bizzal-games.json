@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-13T11:06:44+00:00",
+  "generated": "2026-09-14T11:08:45+00:00",
   "opportunities": [
     {
-      "title": "New Underdark Subclasses Are Basically 'How Many Free Spells Can We Give a Drow'",
-      "why_now": "WotC's fresh UA drop for Underdark subclasses/species is actively testing innate spellcasting stacking that GMs will have to rule on at tables this week.",
-      "angle": "Rules-ruling short: walk through a drow multiclass build abusing innate spellcasting + new subclass slot, then give the 'as written vs as intended' verdict.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/"
+      "title": "Underdark Ambush 101: How to Run a Mind Flayer Encounter That Doesn't TPK (or Bore) Your Table",
+      "why_now": "EN World's Sept 14 podcast is spotlighting new Underdark options, making Underdark tactics a hot search topic this week.",
+      "angle": "60-sec creature tactic short: stat out a mind flayer ambush with a specific ruling on Mind Blast save order and cover.",
+      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
     },
     {
-      "title": "Munchkin 5.5E Is a Parody, But It's Also a Better Rules Critique Than Half of Reddit",
-      "why_now": "Lynnvander just announced a full 5.5E-styled Munchkin RPG, a direct satirical jab at current 5e power creep worth reacting to while it's news.",
-      "angle": "Wry commentary format: compare a real 5e 'balance' rule to its Munchkin 5.5E parody equivalent, one-liner per comparison.",
-      "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
+      "title": "Ravenloft's Coming Back — Here's the One Domain of Dread Rule Every DM Gets Wrong",
+      "why_now": "The Ravenloft board game's return (per the Sept 14 podcast) is reviving interest in Domains of Dread mechanics.",
+      "angle": "Rules ruling short: how the mist actually works when a party tries to leave a domain, with a DCC/5e crossover note.",
+      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
     },
     {
-      "title": "This Week's D&D News Digest Has Three Rulings Buried in It — Here's the One That Matters",
-      "why_now": "EN World's Sept 11 digest is the week's roundup of dev chatter and errata hints that tables will start arguing about by the weekend.",
-      "angle": "Digest-reaction short: pull one buried rules implication from the digest and give the GM verdict before anyone else does.",
-      "source": "https://www.enworld.org/threads/news-digest-for-september-11-2026.720634/"
+      "title": "Munchkin Got an RPG. Here's Why Your 5e Fighter Still Can't Kick Down That Door for Free",
+      "why_now": "Munchkin's new RPG announcement (Sept 14 podcast) is a fresh hook to contrast rules-lite comedy design against 5e's action economy.",
+      "angle": "Dry comparison bit: use the Munchkin news as a cold open, then deliver a real 5e ruling on improvised actions vs. the Athletics check.",
+      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
     },
     {
-      "title": "Monster Hunter's 'Boost Bracer' Is Just Legendary Action Economy — Here's the 5e Version",
-      "why_now": "RPGSite's showcase of Boost Bracer hunting action gives a timely hook to translate a trendy action-economy mechanic into a homebrew monster tactic.",
-      "angle": "Creature tactic short: build a 5e/Shadowdark boss ability inspired by Boost Bracer's burst-window mechanic, with action economy math.",
-      "source": "https://www.rpgsite.net/news/21272-monster-hunter-wilds-ascendance-boost-bracer-hunting-action-all-weapons-new-gameplay-showcase-guide-boosted"
+      "title": "'What Excites You?' Is the Only Prep Question That Matters — Here's the 90-Second Version",
+      "why_now": "Sly Flourish's Sept 14 post on session excitement is trending in GM circles right now.",
+      "angle": "Wry veteran-GM take: turn Sly Flourish's prep philosophy into a single actionable ruling for trimming prep time before session one.",
+      "source": "https://slyflourish.com/what_excites_you.html?rss=1"
     },
     {
-      "title": "Diablo IV's Loot Bloat Is a Warning Label for Your 5e Magic Item Table",
-      "why_now": "The Age of Hatred Collection relaunch (Sept 15) is renewing chatter about itemization overload, a direct parallel to attunement-slot arguments GMs face weekly.",
-      "angle": "Mechanical ruling short: use Diablo's loot glut as a cold open, then deliver the actual 5e ruling on attunement caps and magic item bloat at the table.",
-      "source": "https://www.rpgsite.net/news/21365-diablo-iv-age-of-hatred-collection-switch-2-release-date"
+      "title": "'Where Do I Start a Campaign?' — The Session Zero Rule That Saves You Six Sessions of Cleanup",
+      "why_now": "Gnome Stew's Sept 14 piece on campaign starts is fresh and hits a perennial pain point new and veteran DMs both search for.",
+      "angle": "Spell/ruling-style short but for campaign structure: one concrete Session Zero checklist item framed as a hard rule, not advice.",
+      "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
     }
   ]
 }

@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-13T11:06:44+00:00",
+  "generated": "2026-09-14T11:08:45+00:00",
   "plays": [
     {
-      "story": "Anthropic reveals Claude has been used for cyberattacks, surveillance, and even weapons research (including bioweapons and drone attacks tied to Houthi-held Yemen) — turning an AI safety report into a live threat-intel document",
+      "story": "Revolut confirms customer KYC and Bitcoin transaction data was exposed after attackers spoofed a government domain to request records",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Anthropic Just Confirmed What Crypto Security Teams Feared: AI Agents Are Now Running Cyberattacks and Surveillance Ops — What It Means for Exchange and Wallet Security",
-        "itsalreadywhen": "Anthropic's Yemen Bombshell: When an AI Safety Report Reads Like a Threat Intel Briefing — Kamikaze Drones, Bioweapons, and the Case for AI Governance Now"
+        "itsalreadypriced": "'Revolut's Bitcoin Users Just Got Doxxed by a Fake .gov Email' — what the KYC/BTC transaction leak means for custodial trust and whether exchanges will see outflows priced in this week",
+        "itsalreadywhen": "'When a Forged Government Email Beats Your Fraud Team' — breaking down the impersonation technique that fooled Revolut and what it signals for when your org gets hit next"
       },
-      "source": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/"
+      "source": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516"
     },
     {
-      "story": "Revolut customer KYC and Bitcoin transaction data exposed after attackers spoofed a government email domain to extract sensitive records",
+      "story": "AI is simultaneously being hyped as an autonomous spender (Decrypt's 'AI agents aren't really spending money yet') and weaponized at scale for fraud (Dark Reading's 1M personalized fraud emails in 3 days)",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Revolut Leaked Your Bitcoin Transaction History to a Fake Government Email — What Crypto Users Should Do Right Now",
-        "itsalreadywhen": "The Fake .gov Domain That Fooled Revolut: A Masterclass in Social Engineering That Every Fintech Should Study"
+        "itsalreadypriced": "'AI Agents Can't Spend Your Money Yet — But Scammers Already Can' — why the crypto AI-agent narrative is ahead of reality while AI-powered wallet-draining is already live",
+        "itsalreadywhen": "'1,000,000 Fraud Emails in 72 Hours' — inside the AI tooling behind the new personalized phishing wave and when your inbox becomes the next target"
       },
-      "source": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request"
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days"
     },
     {
-      "story": "Blockstream refuses a ransom demand from Liquid Network hackers holding ~600 BTC, while the network resumes block production after the $320M exploit",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "600 BTC and No Ransom: Inside Blockstream's Standoff With the Liquid Network Hackers",
-        "itsalreadywhen": "From Exploit to Extortion: Breaking Down the Liquid Network Attack Chain and Why the Ransom Refusal Matters"
-      },
-      "source": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247"
-    },
-    {
-      "story": "Lynnvander Studios announces Munchkin 5.5E, converting the parody card game into a full tabletop RPG",
+      "story": "EN World's Podcast #414 rounds up Underdark D&D content, Munchkin's new RPG line, and the returning Ravenloft board game",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Munchkin Goes Crunchy: What a 5.5E Card-Game-to-RPG Conversion Actually Plays Like at the Table",
-        "itsalreadywritten": "Can a Parody Deck Carry a Campaign? Munchkin 5.5E's Worldbuilding Problem — and How Writers Might Solve It"
+        "bizzal-games": "'Ravenloft's Board Game Comeback: Is Table-Ready Gothic Horror Finally Worth the Shelf Space?' — a mechanics-first look at what's changed since the last edition",
+        "itsalreadywritten": "'Munchkin Just Became an RPG — So What Happens to All That Pre-Written Card Flavor Text?' — examining how a card game's built-in lore gets stretched into a full campaign framework"
       },
-      "source": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/"
+      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
+    },
+    {
+      "story": "Two GM-advice pieces dropped the same week tackling opposite ends of campaign prep — Sly Flourish's 'What Excites You?' and Gnome Stew's 'Where Do I Start With a Campaign?'",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Start With What Excites You, Not the Outline' — turning Sly Flourish's prep philosophy into a practical session-zero checklist for your table",
+        "itsalreadywritten": "'How Much Should Already Be Written Before Session One?' — Gnome Stew's campaign-start advice reframed as a debate between blank-page GMs and pre-written-module GMs"
+      },
+      "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
     }
   ]
 }
