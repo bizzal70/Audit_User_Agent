@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-14T11:08:45+00:00",
+  "generated": "2026-09-15T11:08:36+00:00",
   "opportunities": [
     {
-      "title": "Underdark by the Numbers: What EN World's Podcast #414 Actually Confirms About New D&D Options",
-      "why_now": "Podcast #414 just dropped fresh Underdark content details worth fact-checking against the books.",
-      "angle": "Rules-first breakdown: list every confirmed mechanic/subclass/race option mentioned, cite page/source, flag what's still speculation",
+      "title": "Arcana Unleashed, Rules-Audited: What the Deep Dive Review Actually Confirms About the System",
+      "why_now": "A fresh deep-dive review just dropped, giving us hard mechanical details to fact-check against the ruleset instead of hype.",
+      "angle": "Rules breakdown post pulling every crunchy claim from the EN World review into a verified cheat-sheet, with citations",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
+    },
+    {
+      "title": "WotC Admits the OGL Fiasco Broke Trust — Here's the Rules Timeline They're Still Recovering From",
+      "why_now": "Dan Ayoub just went on record calling the OGL rollout a 'loud public misstep,' reopening a defining rules-and-licensing controversy.",
+      "angle": "Timeline explainer: OGL 1.0a vs 1.1 vs 1.2, what changed on paper, and what Ayoub's comments confirm or contradict",
+      "source": "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
+    },
+    {
+      "title": "Want to Publish Your Own TTRPG? Here's the Legal and Licensing Checklist Nobody Tells You",
+      "why_now": "EN World's 'Launch Your Own RPG Company' piece is fresh and pairs naturally with the OGL news for a rules-of-the-industry angle.",
+      "angle": "Practical checklist post: OGL/ORC compliance, trademark landmines, and licensing pitfalls for new publishers",
+      "source": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-rpg-company.720234/"
+    },
+    {
+      "title": "Munchkin's New RPG and the Ravenloft Board Game Return: What Rules Carry Over (and What Doesn't)",
+      "why_now": "Podcast #414 just previewed both Munchkin's RPG adaptation and a returning Ravenloft board game, both begging for a rules-fidelity comparison.",
+      "angle": "Comparison piece: card-game-to-RPG rule conversions vs. classic Ravenloft board game mechanics returning intact",
       "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
     },
     {
-      "title": "Munchkin Gets Its Own RPG: What 'RPG' Actually Means When It Comes From a Card Game Studio",
-      "why_now": "Podcast #414 revealed Munchkin's new RPG, a genuine rules-system pedigree question worth settling now before hype narratives form.",
-      "angle": "Explainer comparing card-game-to-RPG conversions historically (e.g., Munchkin's design DNA) and predicting what mechanics will carry over",
-      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
-    },
-    {
-      "title": "Arcana Unleashed Delay: What the Fine Print of the Bundle Actually Promised You",
-      "why_now": "The Ultimate Bundle delay in US/Canada just broke, and backers want clarity on what's guaranteed vs. speculative.",
-      "angle": "Rules-of-the-deal breakdown: pull exact bundle contents/timeline language, compare to prior Kickstarter delay patterns",
-      "source": "https://www.enworld.org/threads/arcana-unleashed-ultimate-bundle-delayed-in-us-and-canada.720654/"
-    },
-    {
-      "title": "The Session Zero Rulebook: Answering Gnome Stew's 'Where Do I Start With a Campaign?' With Actual Mechanics",
-      "why_now": "Gnome Stew's campaign-start piece is a hook to lay out a rules-first checklist GMs can act on immediately.",
-      "angle": "Companion piece: turn the soft advice into a hard, step-by-step system-agnostic starter framework citing specific rulebook sections",
+      "title": "'Where Do I Start a Campaign?' — The Actual Rules Answer, Not Just the Vibes Answer",
+      "why_now": "Gnome Stew's advice piece is trending among GMs but stays philosophical; there's a clear opening to ground it in specific system rules (session zero mechanics, safety tools, character creation gates).",
+      "angle": "Rules-first rebuttal/companion post: turn the soft advice into a hard checklist citing actual rulebook sections (D&D, PbtA, etc.)",
       "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
-    },
-    {
-      "title": "'What Excites You?' Is a Feeling — Here's the Rule That Actually Produces It",
-      "why_now": "Sly Flourish's prep-philosophy post begs a rules-first counterpoint: excitement is designed into specific mechanics, not vibes.",
-      "angle": "Reaction essay: identify concrete published mechanics (fail-forward, downtime, faction clocks) that generate the 'excitement' Sly Flourish describes",
-      "source": "https://slyflourish.com/what_excites_you.html?rss=1"
     }
   ]
 }

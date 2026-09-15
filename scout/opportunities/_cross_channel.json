@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-14T11:08:45+00:00",
+  "generated": "2026-09-15T11:08:36+00:00",
   "plays": [
     {
-      "story": "Revolut confirms customer KYC and Bitcoin transaction data was exposed after attackers spoofed a government domain to request records",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Revolut's Bitcoin Users Just Got Doxxed by a Fake .gov Email' — what the KYC/BTC transaction leak means for custodial trust and whether exchanges will see outflows priced in this week",
-        "itsalreadywhen": "'When a Forged Government Email Beats Your Fraud Team' — breaking down the impersonation technique that fooled Revolut and what it signals for when your org gets hit next"
-      },
-      "source": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516"
-    },
-    {
-      "story": "AI is simultaneously being hyped as an autonomous spender (Decrypt's 'AI agents aren't really spending money yet') and weaponized at scale for fraud (Dark Reading's 1M personalized fraud emails in 3 days)",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'AI Agents Can't Spend Your Money Yet — But Scammers Already Can' — why the crypto AI-agent narrative is ahead of reality while AI-powered wallet-draining is already live",
-        "itsalreadywhen": "'1,000,000 Fraud Emails in 72 Hours' — inside the AI tooling behind the new personalized phishing wave and when your inbox becomes the next target"
-      },
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days"
-    },
-    {
-      "story": "EN World's Podcast #414 rounds up Underdark D&D content, Munchkin's new RPG line, and the returning Ravenloft board game",
+      "story": "WotC's Dan Ayoub publicly admits OGL rollout was a 'loud public misstep' and details the recovery plan",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Ravenloft's Board Game Comeback: Is Table-Ready Gothic Horror Finally Worth the Shelf Space?' — a mechanics-first look at what's changed since the last edition",
-        "itsalreadywritten": "'Munchkin Just Became an RPG — So What Happens to All That Pre-Written Card Flavor Text?' — examining how a card game's built-in lore gets stretched into a full campaign framework"
+        "bizzal-games": "'What WotC Actually Fixed (and Didn't): A Designer's Read on the New OGL Terms' — break down the concrete licensing changes for third-party publishers and whether indie TTRPG makers should trust the truce.",
+        "itsalreadywritten": "'The OGL Redemption Arc: How D&D's Biggest PR Disaster Became a Case Study in Corporate Storytelling' — treat Ayoub's mea culpa as a narrative beat and mine it for lessons on trust-rebuilding arcs, tying back to campaign villain redemption tropes."
       },
-      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
+      "source": "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
     },
     {
-      "story": "Two GM-advice pieces dropped the same week tackling opposite ends of campaign prep — Sly Flourish's 'What Excites You?' and Gnome Stew's 'Where Do I Start With a Campaign?'",
+      "story": "Arcana Unleashed gets a major deep-dive review right as its Ultimate Bundle hits a US/Canada delay",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Start With What Excites You, Not the Outline' — turning Sly Flourish's prep philosophy into a practical session-zero checklist for your table",
-        "itsalreadywritten": "'How Much Should Already Be Written Before Session One?' — Gnome Stew's campaign-start advice reframed as a debate between blank-page GMs and pre-written-module GMs"
+        "bizzal-games": "'Arcana Unleashed, Reviewed: Is This the D&D Alternative Your Table Has Been Waiting For?' — mechanics-first breakdown of the system, with a note on the bundle delay so readers know whether to wait or buy digital now.",
+        "itsalreadywritten": "'What Arcana Unleashed's Lore Gets Right (and Where It Borrows)' — a worldbuilding-focused read of the setting/fiction in the new review, framed for GMs mining it for campaign material."
       },
-      "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
+      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
+    },
+    {
+      "story": "Revolut confirms customer data exposed via a fake government email phishing attack",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Your Crypto On-Ramp Just Got Phished: What the Revolut Breach Means If You Fund Wallets Through Fintech Apps' — connect the breach to crypto users who rely on Revolut for fiat rails and what data exposure means for their exchange/wallet security.",
+        "itsalreadywhen": "'The Fake Government Email That Cracked Revolut: Anatomy of an Impersonation Attack' — technical teardown of the social-engineering vector, framed as a template attackers will reuse against other fintechs and enterprises."
+      },
+      "source": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email"
+    },
+    {
+      "story": "A 'Perfect-10' maximum-severity GitLab flaw is under active attack just days after the patch dropped, putting software supply chains at risk",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'DeFi Runs on GitLab Too: Why This Perfect-10 Flaw Should Worry Every Protocol Team' — flag that crypto/DeFi dev shops hosting smart-contract repos on GitLab are exposed, tying to the Balancer/Symbiosis hack headlines already in the cycle.",
+        "itsalreadywhen": "'Patched Doesn't Mean Safe: How a Perfect-10 GitLab Bug Went From Fix to Exploit in Days' — analysis of the exploit timeline as a case study in patch-lag risk for enterprise supply chains."
+      },
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-14T11:08:45+00:00",
+  "generated": "2026-09-15T11:08:36+00:00",
   "opportunities": [
     {
-      "title": "Revolut Got Phished by a Fake Government Email — And Handed Over Your BTC History",
-      "why_now": "A neobank with millions of crypto-linked users just admitted KYC and Bitcoin transaction data leaked because someone emailed them pretending to be a regulator.",
-      "angle": "Security post-mortem: walk through the social-engineering vector, note it's not a 'hack' but a process failure, and ask why crypto-adjacent fintechs still trust inbound email for data requests.",
-      "source": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email"
+      "title": "Balancer Isn't Restructuring. It's Being Buried.",
+      "why_now": "Balancer just proposed winding down and distributing its remaining treasury to BAL holders after a hack-driven revenue collapse it never recovered from.",
+      "angle": "Postmortem/obituary format tracing the hack-to-death timeline, framed as the inevitable endgame we've seen before with other exploited protocols",
+      "source": "https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782"
     },
     {
-      "title": "Bridge Gets Hacked, Offers Attacker a 20% Finder's Fee — The Ransom Playbook Nobody Admits Is a Playbook",
-      "why_now": "Symbiosis just recovered 15 BTC and dangled a standard 'keep 20%, return the rest' bounty, the same script as every bridge hack before it.",
-      "angle": "Pattern-recognition piece: list every bridge exploit that ended in a negotiated bounty, argue this is now just the industry's insurance model in disguise.",
+      "title": "The $7.8M Bug Was One Line of Code — Here's the Line",
+      "why_now": "CoinDesk just published the technical breakdown of exactly how a simple coding mistake let a hacker drain $7.8 million, giving us a rare concrete root-cause to dissect.",
+      "angle": "Line-by-line technical teardown for developers/auditors — 'read this before you ship' security explainer",
+      "source": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet"
+    },
+    {
+      "title": "Symbiosis Got 15 BTC Back and Is Now Paying the Hacker to Keep the Rest",
+      "why_now": "Symbiosis just recovered 15 BTC from its bridge exploiter and is offering a 20% bounty, reviving the tired 'whitehat negotiation' playbook.",
+      "angle": "Cynical breakdown of the recovery-bounty ritual as institutionalized ransom, with a scoreboard of past bridge-hack 'negotiations'",
       "source": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Bitcoin's Golden Cross Just Flickered Off — And $81,700 Is the Only Number That Matters Now",
-      "why_now": "CryptoQuant's resistance call and the fading golden cross give a concrete, falsifiable level right as bitcoin sits out the AI selloff at $78K.",
-      "angle": "Levels-and-skepticism market note: state the thesis plainly, note what invalidates it, avoid hopium — classic 'already priced' framing.",
-      "source": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519"
+      "title": "CoinEx Didn't Get Hacked This Time — It Just Ran Out of Reasons to Exist",
+      "why_now": "CoinEx is shutting down after 9 years citing market slump, a quiet exchange death happening the same week Balancer is winding down too.",
+      "angle": "Trend piece: 'quiet exchange deaths' as the other side of the security coin — no exploit needed when the business model was already priced to fail",
+      "source": "https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788"
     },
     {
-      "title": "A Hidden Crypto Mine in Mexico Was Stealing Power and Laundering Cash — This Is What 'Decentralized' Actually Looks Like on the Ground",
-      "why_now": "Authorities just raided a covert mining operation tied to power theft and money laundering, a reminder that mining security failures aren't just cyber.",
-      "angle": "Physical-security explainer: use the raid as a case study in how mining ops become laundering fronts, tying back to why institutional miners now over-invest in compliance theater.",
-      "source": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564"
-    },
-    {
-      "title": "Bernstein Says the Clarity Act Surprise 'Isn't Priced In' — We've Heard That Before",
-      "why_now": "A major desk is telling clients the market is underestimating regulatory progress, exactly the kind of consensus-defying call this channel exists to stress-test.",
-      "angle": "Contrarian-of-the-contrarian take: trace the last three times a bank said a crypto regulatory catalyst 'wasn't priced in' and check what actually happened to price.",
-      "source": "https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593"
+      "title": "Revolut Got Phished by a Fake Government Email — What That Says About Everyone Else",
+      "why_now": "Revolut disclosed customer data exposure via a fake government email, showing even well-resourced fintechs fall for basic social engineering.",
+      "angle": "Security-led explainer on government-impersonation phishing as an underrated attack vector, with a checklist for spotting it",
+      "source": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }
