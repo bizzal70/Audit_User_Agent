@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-15T11:08:36+00:00",
+  "generated": "2026-09-16T11:08:11+00:00",
   "opportunities": [
     {
-      "title": "Grimlock Pack Tactics: Why 'Blindsight in Darkness' Wrecks Your Underdark Ambush (RAW vs RAI)",
-      "why_now": "EN World's live podcast just dropped fresh Underdark options for D&D, making darkvision/blindsight interactions timely table talk.",
-      "angle": "60-sec creature tactic breakdown: grimlock stat block, how darkness+pack tactics stacks, and the ruling most DMs get wrong",
-      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
-    },
-    {
-      "title": "Arcana Unleashed's New Metamagic Broke Concentration — Here's the Actual Ruling",
-      "why_now": "EN World's deep-dive review of Arcana Unleashed is fresh and third-party crunch always needs a sanity check against core rules.",
-      "angle": "Rules ruling short: pull one flashy new metamagic option from the review, run it against 5e concentration RAW, deliver verdict",
-      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
-    },
-    {
-      "title": "OGL 2.0 'Fixes' Won't Save Your Homebrew Stat Block — Here's What Still Counts as SRD",
-      "why_now": "WotC's Dan Ayoub is publicly discussing OGL mistakes, so creators are asking what's actually safe to reuse.",
-      "angle": "Dry legal-mechanical explainer: which monster stat block elements are SRD-safe vs proprietary, aimed at DMs publishing homebrew",
+      "title": "WotC Admits OGL 'Loud Public Missteps'—Here's the One Rule That Still Hasn't Been Fixed",
+      "why_now": "Dan Ayoub's fresh comments reopen the OGL wound just as third-party 5e content keeps flooding tables.",
+      "angle": "60-sec dry take: what changed on paper vs. what actually changed for a table running homebrew content",
       "source": "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
     },
     {
-      "title": "The Spell I Run Every Session and Why Wall of Force Still Beats Most 'Excitement' Metas",
-      "why_now": "Sly Flourish's 'What Excites You' piece is fresh GM-prep discourse; counter it with a hard mechanical use-case.",
-      "angle": "Spell use-case short: Wall of Force tactical applications DMs undersell, tied loosely to the excitement-in-prep discussion",
+      "title": "Underdark Options Ranked: Is the New Podcast #414 Content Better Than Out of the Abyss?",
+      "why_now": "Podcast #414 just dropped fresh Underdark options, giving GMs new material to weigh against the existing canon.",
+      "angle": "Rapid-fire ruling: compare mechanical utility of new Underdark options vs. existing subclasses/monsters for a session",
+      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
+    },
+    {
+      "title": "Gnome Stew Asked 'Where Do I Start a Campaign?'—Here's the Session Zero Ruling Most Tables Skip",
+      "why_now": "Gnome Stew's fresh piece on campaign starts is a direct match for a GM-advice short that converts into subscriber trust.",
+      "angle": "Dry veteran-GM breakdown: the one campaign-start decision (stakes vs. hook) that determines if session 3 survives",
+      "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
+    },
+    {
+      "title": "Sly Flourish Asked 'What Excites You?'—Here's Why That Question Breaks in Shadowdark vs. 5e",
+      "why_now": "Sly Flourish's new prep-philosophy post is timely fodder for a cross-system prep comparison in the channel's exact lane.",
+      "angle": "Side-by-side: how 'GM excitement-driven prep' plays differently in 5e (options paralysis) vs. Shadowdark (forced brevity)",
       "source": "https://slyflourish.com/what_excites_you.html?rss=1"
     },
     {
-      "title": "Shadowdark's Torch Timer Is Your Session Zero — Not Your Backstory",
-      "why_now": "Gnome Stew just published a 'where do I start a campaign' piece, prime bait for a contrarian mechanical rebuttal.",
-      "angle": "Wry veteran-GM take: campaign start ruling framed around Shadowdark's real-time light resource forcing structure over lore dumps",
-      "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
+      "title": "Mothership's Panic Rules Just Got Print News—Here's the Fear Mechanic 5e Wishes It Had",
+      "why_now": "Mothership's fresh print coverage puts its panic system back in the conversation right as horror one-shots trend in the DCC/Shadowdark crowd.",
+      "angle": "Mechanical comparison short: run Mothership's Panic Save alongside 5e's Frightened condition to show which actually generates table tension",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
     }
   ]
 }

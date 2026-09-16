@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-15T11:08:36+00:00",
+  "generated": "2026-09-16T11:08:11+00:00",
   "opportunities": [
     {
-      "title": "Cisco's Email Gateway Has a Root-Access Problem, and Attackers Already Have the Keys",
-      "why_now": "A max-severity Cisco Secure Email Gateway RCE is under active exploitation right now, confirmed independently by SecurityWeek, The Hacker News, and Bleeping Computer within hours of each other.",
-      "angle": "Breaking-patch alert format: what the CVE does, indicators of compromise, and a hard patch-now deadline for admins",
-      "source": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/"
+      "title": "Cisco's Triple Threat: Root-by-Email Bug, Sandworm's Cyclops Blink, and a Live Exploit — All in One Week",
+      "why_now": "Three separate Register/Dark Reading/Hacker News stories this week all point to the same Cisco Secure Email Gateway flaw being actively chained by state actors, making it the week's most urgent enterprise patch item.",
+      "angle": "Timeline-style breakdown connecting the CVE, the Sandworm campaign, and in-the-wild exploitation into one 'patch this now' alert",
+      "source": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604"
     },
     {
-      "title": "GitLab's Perfect 10 Wasn't Perfect Enough: Exploits Landed Before Most Admins Even Patched",
-      "why_now": "A CVSS 10.0 GitLab flaw is already being weaponized in the wild just days after the fix shipped, exposing how thin the patch-to-exploit window has gotten for supply-chain-critical tools.",
-      "angle": "Patch-cadence teardown: timeline from disclosure to exploitation, plus a supply-chain blast-radius estimate for self-hosted GitLab instances",
-      "source": "https://www.theregister.com/security/2026/09/14/perfect-10-gitlab-bug-under-attack-days-after-patch-lands/5296176"
+      "title": "Apple's Record-Setting iBug Dump: Why This 'Vulnpocalypse' Patch Tuesday Is Different",
+      "why_now": "The Register reports Apple just shipped a record number of patches in a single release, a milestone worth flagging for admins tracking patch cadence.",
+      "angle": "Patch-cadence breakdown: what's in the dump, which CVEs are already being exploited, and what it signals for iOS/macOS update urgency",
+      "source": "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679"
     },
     {
-      "title": "Sandworm Is Back Inside Cisco Gear, and Cyclops Blink Never Really Left",
-      "why_now": "Dark Reading confirms the Russian GRU-linked Sandworm crew is chaining multiple Cisco vulnerabilities to redeploy its Cyclops Blink implant, a threat that DOJ/CISA thought they'd disrupted years ago.",
-      "angle": "Threat-actor profile refresh: what changed in the Cisco exploit chain, why Cyclops Blink keeps resurrecting, and what network defenders should hunt for",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink"
+      "title": "Microsoft's Emergency Out-of-Band Fixes Prove Mythos Made 2026 Patching Hell",
+      "why_now": "Dark Reading's report on Microsoft's emergency fixes lands days after The Register's piece framing 2026 as a brutal patching year because of the Mythos vulnerability class — a direct cause-and-effect worth connecting.",
+      "angle": "Explainer tying the Mythos vuln class to Microsoft's scramble, with a forward look at whether 2027 really gets easier as claimed",
+      "source": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday"
     },
     {
-      "title": "DDRop Just Broke the 'Confidential' in Confidential Computing",
-      "why_now": "A new hardware attack (DDRop) is reported to defeat both Intel TDX and AMD SEV-SNP, the two flagship confidential-computing protections cloud providers have sold as unbreakable for years.",
-      "angle": "Explainer with stakes: how the attack works at the DRAM level, which cloud workloads are exposed, and whether any mitigation exists yet",
-      "source": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
+      "title": "CenterPoint Energy Confirms Breach After Hacker Leak — Critical Infrastructure's Bad Week Continues",
+      "why_now": "A Texas utility confirming a breach after data was already leaked is a textbook inevitable-breach story with critical-infrastructure stakes.",
+      "angle": "Breach-digest post: what was leaked, utility sector's breach track record in 2026, and questions CenterPoint hasn't answered yet",
+      "source": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/"
     },
     {
-      "title": "Passkeys Were Supposed to Kill Phishing. Attackers Found the Workaround.",
-      "why_now": "Just as UK.gov begins retiring passwords for 23 million users, The Hacker News reports active campaigns using passkey phishing to hijack Microsoft cloud accounts, undercutting the industry's core passwordless promise.",
-      "angle": "Counter-narrative piece pairing the UK passwordless rollout with the new bypass technique, framed as a reality-check for phishing-resistant auth claims",
-      "source": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html"
+      "title": "Forged Admin Tokens in the Wild: WSO2 API Manager's JWT Bypass Is Being Actively Exploited Right Now",
+      "why_now": "Two independent outlets (SecurityWeek and The Hacker News) confirm active exploitation of the same WSO2 flaw within 24 hours, signaling real-world urgency beyond a routine advisory.",
+      "angle": "CVE spotlight with IOC/detection angle — what forged tokens look like and why patch-now beats wait-and-see",
+      "source": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-15T11:08:36+00:00",
+  "generated": "2026-09-16T11:08:11+00:00",
   "opportunities": [
     {
-      "title": "Arcana Unleashed, Rules-Audited: What the Deep Dive Review Actually Confirms About the System",
-      "why_now": "A fresh deep-dive review just dropped, giving us hard mechanical details to fact-check against the ruleset instead of hype.",
-      "angle": "Rules breakdown post pulling every crunchy claim from the EN World review into a verified cheat-sheet, with citations",
-      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
-    },
-    {
-      "title": "WotC Admits the OGL Fiasco Broke Trust — Here's the Rules Timeline They're Still Recovering From",
-      "why_now": "Dan Ayoub just went on record calling the OGL rollout a 'loud public misstep,' reopening a defining rules-and-licensing controversy.",
-      "angle": "Timeline explainer: OGL 1.0a vs 1.1 vs 1.2, what changed on paper, and what Ayoub's comments confirm or contradict",
+      "title": "The OGL Post-Mortem: What Dan Ayoub's Admission Actually Changes for Your License",
+      "why_now": "WotC's Dan Ayoub just went on record calling the OGL fallout 'loud public missteps,' giving rules-watchers a rare official statement to parse against the actual license text.",
+      "angle": "Clause-by-clause breakdown comparing his statement to current OGL/ORC language, with a verdict on whether anything is legally different now",
       "source": "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
     },
     {
-      "title": "Want to Publish Your Own TTRPG? Here's the Legal and Licensing Checklist Nobody Tells You",
-      "why_now": "EN World's 'Launch Your Own RPG Company' piece is fresh and pairs naturally with the OGL news for a rules-of-the-industry angle.",
-      "angle": "Practical checklist post: OGL/ORC compliance, trademark landmines, and licensing pitfalls for new publishers",
+      "title": "Mothership, Dragonbane, Mecha Hack: The Print Rules You'll Actually Need to Learn This Season",
+      "why_now": "Fresh print-run news bundles three distinct rules systems shipping at once, a natural excuse for a comparative crunch primer.",
+      "angle": "Side-by-side rules-system cheat sheet (core mechanic, dice, stress/heat systems) for the three named titles",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+    },
+    {
+      "title": "Arcana Unleashed's Rules Deep Dive: What's Actually New Mechanically (Not Just Reskinned)",
+      "why_now": "A fresh deep-dive review just dropped, but reviews rarely isolate the mechanical deltas—an opening for a rules-only companion piece.",
+      "angle": "Mechanics-only breakdown pulled from the review, ranking which subsystems are genuinely novel vs. reflavored d20 chassis",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
+    },
+    {
+      "title": "So You Want to Publish a TTRPG: The Rules Nobody Tells You (Licensing, SRDs, and Liability)",
+      "why_now": "EN World's 'Launch Your Own RPG Company' piece is inspirational but skips the legal/rules infrastructure new publishers actually need.",
+      "angle": "Follow-up explainer on SRD choices, ORC vs OGL vs full-custom rules text, and IP pitfalls for first-time designers",
       "source": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-rpg-company.720234/"
     },
     {
-      "title": "Munchkin's New RPG and the Ravenloft Board Game Return: What Rules Carry Over (and What Doesn't)",
-      "why_now": "Podcast #414 just previewed both Munchkin's RPG adaptation and a returning Ravenloft board game, both begging for a rules-fidelity comparison.",
-      "angle": "Comparison piece: card-game-to-RPG rule conversions vs. classic Ravenloft board game mechanics returning intact",
+      "title": "Underdark by the Book: What D&D's New Options Actually Change at the Table",
+      "why_now": "Podcast #414 teased new Underdark options for D&D, a concrete rules-content hook before the full breakdown circulates elsewhere.",
+      "angle": "Preview roundup of the mechanical additions with a 'first ruling' take on how DMs should adjudicate them day one",
       "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
-    },
-    {
-      "title": "'Where Do I Start a Campaign?' — The Actual Rules Answer, Not Just the Vibes Answer",
-      "why_now": "Gnome Stew's advice piece is trending among GMs but stays philosophical; there's a clear opening to ground it in specific system rules (session zero mechanics, safety tools, character creation gates).",
-      "angle": "Rules-first rebuttal/companion post: turn the soft advice into a hard checklist citing actual rulebook sections (D&D, PbtA, etc.)",
-      "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
     }
   ]
 }

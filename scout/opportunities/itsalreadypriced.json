@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-15T11:08:36+00:00",
+  "generated": "2026-09-16T11:08:11+00:00",
   "opportunities": [
     {
-      "title": "Balancer Isn't Restructuring. It's Being Buried.",
-      "why_now": "Balancer just proposed winding down and distributing its remaining treasury to BAL holders after a hack-driven revenue collapse it never recovered from.",
-      "angle": "Postmortem/obituary format tracing the hack-to-death timeline, framed as the inevitable endgame we've seen before with other exploited protocols",
-      "source": "https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782"
+      "title": "The MEV Bot Ate the Hacker: How $7.7M in Stolen rsETH Got Re-Stolen in One Block",
+      "why_now": "A live exploit was intercepted by a rival MEV bot within the same block, and Kelp then froze the address — a rare three-way security drama playing out on-chain right now.",
+      "angle": "Blow-by-blow security breakdown of the exploit-vs-MEV-bot race, framed as 'there is no honor among thieves' — end with what this means for anyone still trusting mempool privacy.",
+      "source": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit"
     },
     {
-      "title": "The $7.8M Bug Was One Line of Code — Here's the Line",
-      "why_now": "CoinDesk just published the technical breakdown of exactly how a simple coding mistake let a hacker drain $7.8 million, giving us a rare concrete root-cause to dissect.",
-      "angle": "Line-by-line technical teardown for developers/auditors — 'read this before you ship' security explainer",
-      "source": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet"
+      "title": "Balancer Isn't Dying From the Hack — It's Dying From What Came After",
+      "why_now": "Balancer is reportedly considering a wind-down after restructuring failed to revive revenue, months after its exploit, proving the hack was the beginning of the end, not the end.",
+      "angle": "Post-mortem timeline piece: hack date vs. TVL/revenue decay vs. wind-down news, making the case that 'recovery theater' rarely works once trust is gone.",
+      "source": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue"
     },
     {
-      "title": "Symbiosis Got 15 BTC Back and Is Now Paying the Hacker to Keep the Rest",
-      "why_now": "Symbiosis just recovered 15 BTC from its bridge exploiter and is offering a 20% bounty, reviving the tired 'whitehat negotiation' playbook.",
-      "angle": "Cynical breakdown of the recovery-bounty ritual as institutionalized ransom, with a scoreboard of past bridge-hack 'negotiations'",
-      "source": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "CoinEx Just Became Exhibit #47 in Why 'Nine Years Old' Means Nothing",
+      "why_now": "CoinEx is shutting down after nine years in business, giving users a hard December deadline to withdraw — another reminder that exchange age is not a security guarantee.",
+      "angle": "Listicle/thread: 'exchanges that looked permanent and weren't,' with a blunt reminder to self-custody before the deadline, in the channel's fatalistic voice.",
+      "source": "https://decrypt.co/378324/coinex-shutting-down"
     },
     {
-      "title": "CoinEx Didn't Get Hacked This Time — It Just Ran Out of Reasons to Exist",
-      "why_now": "CoinEx is shutting down after 9 years citing market slump, a quiet exchange death happening the same week Balancer is winding down too.",
-      "angle": "Trend piece: 'quiet exchange deaths' as the other side of the security coin — no exploit needed when the business model was already priced to fail",
-      "source": "https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788"
+      "title": "Two Robinhood Engineers Allegedly Front-Ran Their Own Listings on Hyperliquid — This Is What Insider Trading Looks Like Onchain",
+      "why_now": "DOJ just charged two former Robinhood engineers with using inside knowledge of upcoming listings to trade Hyperliquid perpetuals ahead of the public.",
+      "angle": "Security/market-structure explainer: how 'transparent' onchain markets still get gamed by information asymmetry, and why perp DEXs are the new insider-trading playground.",
+      "source": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865"
     },
     {
-      "title": "Revolut Got Phished by a Fake Government Email — What That Says About Everyone Else",
-      "why_now": "Revolut disclosed customer data exposure via a fake government email, showing even well-resourced fintechs fall for basic social engineering.",
-      "angle": "Security-led explainer on government-impersonation phishing as an underrated attack vector, with a checklist for spotting it",
-      "source": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "$570M Liquidated in a Day Because a Bill Failed a Procedural Vote — Congratulations, It Was Never Priced In",
+      "why_now": "Clarity Act's Senate defeat triggered $450M in ETF outflows and $570M in long liquidations within 24 hours, exposing how fragile 'regulatory clarity' pricing really was.",
+      "angle": "Markets-meets-security piece: dissect the leverage cascade as a structural risk story, not a political one — the real lesson is about overexposed longs, not Washington.",
+      "source": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails"
     }
   ]
 }
