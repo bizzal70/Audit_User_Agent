@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-16T11:08:11+00:00",
+  "generated": "2026-09-17T11:08:58+00:00",
   "opportunities": [
     {
-      "title": "WotC Admits OGL 'Loud Public Missteps'—Here's the One Rule That Still Hasn't Been Fixed",
-      "why_now": "Dan Ayoub's fresh comments reopen the OGL wound just as third-party 5e content keeps flooding tables.",
-      "angle": "60-sec dry take: what changed on paper vs. what actually changed for a table running homebrew content",
+      "title": "WotC Says They're 'Recovering' From the OGL Mess—Here's the One License Rule That Still Trips Up Homebrewers",
+      "why_now": "Dan Ayoub's fresh comments reopen the OGL wound right when creators are asking if it's safe to publish 5e content again.",
+      "angle": "60-sec dry explainer: what you can and can't legally sell under current WotC licensing, no legalese fluff",
       "source": "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
     },
     {
-      "title": "Underdark Options Ranked: Is the New Podcast #414 Content Better Than Out of the Abyss?",
-      "why_now": "Podcast #414 just dropped fresh Underdark options, giving GMs new material to weigh against the existing canon.",
-      "angle": "Rapid-fire ruling: compare mechanical utility of new Underdark options vs. existing subclasses/monsters for a session",
-      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
-    },
-    {
-      "title": "Gnome Stew Asked 'Where Do I Start a Campaign?'—Here's the Session Zero Ruling Most Tables Skip",
-      "why_now": "Gnome Stew's fresh piece on campaign starts is a direct match for a GM-advice short that converts into subscriber trust.",
-      "angle": "Dry veteran-GM breakdown: the one campaign-start decision (stakes vs. hook) that determines if session 3 survives",
-      "source": "https://gnomestew.com/where-do-i-start-with-a-campaign/"
-    },
-    {
-      "title": "Sly Flourish Asked 'What Excites You?'—Here's Why That Question Breaks in Shadowdark vs. 5e",
-      "why_now": "Sly Flourish's new prep-philosophy post is timely fodder for a cross-system prep comparison in the channel's exact lane.",
-      "angle": "Side-by-side: how 'GM excitement-driven prep' plays differently in 5e (options paralysis) vs. Shadowdark (forced brevity)",
-      "source": "https://slyflourish.com/what_excites_you.html?rss=1"
-    },
-    {
-      "title": "Mothership's Panic Rules Just Got Print News—Here's the Fear Mechanic 5e Wishes It Had",
-      "why_now": "Mothership's fresh print coverage puts its panic system back in the conversation right as horror one-shots trend in the DCC/Shadowdark crowd.",
-      "angle": "Mechanical comparison short: run Mothership's Panic Save alongside 5e's Frightened condition to show which actually generates table tension",
+      "title": "Dragonbane's Death Spiral vs. 5e Death Saves: Same Tension, Half the Table Time",
+      "why_now": "Dragonbane just got fresh print-media coverage, giving a timely hook to contrast its brutal one-roll dying mechanic against 5e's three-strike system.",
+      "angle": "Side-by-side mechanic teardown short comparing resolution speed and lethality, veteran-GM verdict on which to steal",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+    },
+    {
+      "title": "Mecha Hack Runs Giant Robots on d6 Damage Dice—Steal It for Your Next Shadowdark Giant Fight",
+      "why_now": "Mecha Hack's print coverage highlights its scaling combat trick, which maps cleanly onto Shadowdark's love of brutal, fast math.",
+      "angle": "Creature/encounter tactic short: homebrew a 'scale damage die' rule for oversized Shadowdark monsters",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+    },
+    {
+      "title": "Arcana Unleashed Claims to 'Fix' Wild Magic—Does It Actually Beat 5e's Table, or Just Reskin It?",
+      "why_now": "The new deep-dive review is fresh enough to ride the wave of readers actively comparing it to core 5e wild magic.",
+      "angle": "Spell use-case teardown: pull 3 Arcana Unleashed wild magic entries vs 5e Sorcerer table, rule which is actually better design",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
+    },
+    {
+      "title": "Everyone's Launching an RPG Company Right Now—Here's the Licensing Clause That'll Bite You First",
+      "why_now": "The 'launch your own RPG company' piece is drawing a wave of aspiring publishers who don't know the rules risk waiting for them.",
+      "angle": "Dry veteran-GM PSA format: one specific OGL/ORC clause pitfall explained in plain mechanical terms, no motivational fluff",
+      "source": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-rpg-company.720234/"
     }
   ]
 }

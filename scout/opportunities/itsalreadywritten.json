@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-16T11:08:11+00:00",
+  "generated": "2026-09-17T11:08:58+00:00",
   "opportunities": [
     {
-      "title": "The OGL Post-Mortem: What Dan Ayoub's Admission Actually Changes for Your License",
-      "why_now": "WotC's Dan Ayoub just went on record calling the OGL fallout 'loud public missteps,' giving rules-watchers a rare official statement to parse against the actual license text.",
-      "angle": "Clause-by-clause breakdown comparing his statement to current OGL/ORC language, with a verdict on whether anything is legally different now",
+      "title": "Dan Ayoub Says WotC Is 'Recovering' From the OGL Fiasco — Here's What Actually Changed in the License Text",
+      "why_now": "WotC's own licensing lead is publicly reflecting on the OGL 1.1 controversy, inviting a rules-first fact-check of what was promised vs. what's actually written into the current license.",
+      "angle": "Side-by-side breakdown: OGL 1.0a vs. OGL 1.2/current terms, quoting specific clauses Ayoub references",
       "source": "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
     },
     {
-      "title": "Mothership, Dragonbane, Mecha Hack: The Print Rules You'll Actually Need to Learn This Season",
-      "why_now": "Fresh print-run news bundles three distinct rules systems shipping at once, a natural excuse for a comparative crunch primer.",
-      "angle": "Side-by-side rules-system cheat sheet (core mechanic, dice, stress/heat systems) for the three named titles",
+      "title": "Mecha Hack vs. Lancer vs. BattleTech: How Three Mech Systems Actually Handle Heat and Structural Damage",
+      "why_now": "Mecha Hack just got fresh print coverage, making this the moment to compare its crunch against established mech RPGs.",
+      "angle": "Rules comparison table pulling exact damage/heat mechanics from each rulebook",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
     },
     {
-      "title": "Arcana Unleashed's Rules Deep Dive: What's Actually New Mechanically (Not Just Reskinned)",
-      "why_now": "A fresh deep-dive review just dropped, but reviews rarely isolate the mechanical deltas—an opening for a rules-only companion piece.",
-      "angle": "Mechanics-only breakdown pulled from the review, ranking which subsystems are genuinely novel vs. reflavored d20 chassis",
-      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
+      "title": "Dragonbane's Death Spiral: The Exact Rule That Makes Combat Deadly (And Why It Works)",
+      "why_now": "Dragonbane is back in print news cycles, giving a hook to dig into its specific injury/death mechanics for players deciding whether to run it.",
+      "angle": "Rules explainer citing the exact conditions table and dice thresholds from the core book",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
     },
     {
-      "title": "So You Want to Publish a TTRPG: The Rules Nobody Tells You (Licensing, SRDs, and Liability)",
-      "why_now": "EN World's 'Launch Your Own RPG Company' piece is inspirational but skips the legal/rules infrastructure new publishers actually need.",
-      "angle": "Follow-up explainer on SRD choices, ORC vs OGL vs full-custom rules text, and IP pitfalls for first-time designers",
+      "title": "If You Launch Your Own RPG Company Tomorrow, Which License Do You Actually Pick — OGL, ORC, or Nothing?",
+      "why_now": "EN World's 'Launch Your Own RPG Company' piece raises the business question, but skips the legal rules comparison indie creators need most.",
+      "angle": "Rules-first legal breakdown of ORC vs. OGL 1.2 vs. custom license, with clause-by-clause pros/cons",
       "source": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-rpg-company.720234/"
     },
     {
-      "title": "Underdark by the Book: What D&D's New Options Actually Change at the Table",
-      "why_now": "Podcast #414 teased new Underdark options for D&D, a concrete rules-content hook before the full breakdown circulates elsewhere.",
-      "angle": "Preview roundup of the mechanical additions with a 'first ruling' take on how DMs should adjudicate them day one",
-      "source": "https://www.enworld.org/threads/podcast-414-livestream-underdark-options-for-d-d-munchkins-new-rpg-ravenloft-board-game-returns.720655/"
+      "title": "Arcana Unleashed's Review Is Glowing — But Does the Spellcasting Math Actually Hold Up?",
+      "why_now": "A fresh deep-dive review just dropped, but it's light on crunch verification, leaving room to interrogate the actual rules text.",
+      "angle": "Rules-audit response post: pull specific spell tables/DCs and stress-test the math the review praised",
+      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
     }
   ]
 }

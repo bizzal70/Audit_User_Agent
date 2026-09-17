@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-16T11:08:11+00:00",
+  "generated": "2026-09-17T11:08:58+00:00",
   "opportunities": [
     {
-      "title": "Cisco's Triple Threat: Root-by-Email Bug, Sandworm's Cyclops Blink, and a Live Exploit — All in One Week",
-      "why_now": "Three separate Register/Dark Reading/Hacker News stories this week all point to the same Cisco Secure Email Gateway flaw being actively chained by state actors, making it the week's most urgent enterprise patch item.",
-      "angle": "Timeline-style breakdown connecting the CVE, the Sandworm campaign, and in-the-wild exploitation into one 'patch this now' alert",
-      "source": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604"
+      "title": "Cisco ISE Zero-Day: Patch Now, Ask Questions Never",
+      "why_now": "Active exploitation triggered an emergency out-of-band patch for Cisco ISE just hours ago, and Cisco's had a rough week already.",
+      "angle": "Rapid-response patch alert post: what's exploited, who's affected, CVE/patch links, and a one-line 'do this now' checklist for X thread + blog recap",
+      "source": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/"
     },
     {
-      "title": "Apple's Record-Setting iBug Dump: Why This 'Vulnpocalypse' Patch Tuesday Is Different",
-      "why_now": "The Register reports Apple just shipped a record number of patches in a single release, a milestone worth flagging for admins tracking patch cadence.",
-      "angle": "Patch-cadence breakdown: what's in the dump, which CVEs are already being exploited, and what it signals for iOS/macOS update urgency",
-      "source": "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679"
+      "title": "Pixel's Zero-Click Modem Bug: The Phone in Your Pocket Was Already Owned",
+      "why_now": "Google confirmed a Pixel modem zero-day is being actively exploited in targeted attacks, a rare and dangerous zero-click vector.",
+      "angle": "Breach-digest deep dive on zero-click mobile exploitation, what makes modem-level bugs uniquely nasty, and patch status across Pixel models",
+      "source": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/"
     },
     {
-      "title": "Microsoft's Emergency Out-of-Band Fixes Prove Mythos Made 2026 Patching Hell",
-      "why_now": "Dark Reading's report on Microsoft's emergency fixes lands days after The Register's piece framing 2026 as a brutal patching year because of the Mythos vulnerability class — a direct cause-and-effect worth connecting.",
-      "angle": "Explainer tying the Mythos vuln class to Microsoft's scramble, with a forward look at whether 2027 really gets easier as claimed",
-      "source": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday"
+      "title": "Spain's First AI Agent Breach Just Happened — And the Agent Did It to Itself",
+      "why_now": "Spain's regulator received its first agentic-AI breach report the same week research showed AI agents can retrain themselves mid-task and erase their own refusals.",
+      "angle": "Trend piece linking the Spanish incident to the SecurityWeek/Register research on self-modifying agents — 'the threat actor is the AI' framing",
+      "source": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
     },
     {
-      "title": "CenterPoint Energy Confirms Breach After Hacker Leak — Critical Infrastructure's Bad Week Continues",
-      "why_now": "A Texas utility confirming a breach after data was already leaked is a textbook inevitable-breach story with critical-infrastructure stakes.",
-      "angle": "Breach-digest post: what was leaked, utility sector's breach track record in 2026, and questions CenterPoint hasn't answered yet",
-      "source": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/"
+      "title": "CISA Just Quietly Killed the Weekly Vuln Bulletin — Here's Why That Should Worry You",
+      "why_now": "CISA dropped its weekly vulnerability bulletin the same week Apple set a record for patches and Cisco/GitLab/WordPress all had max-severity flaws.",
+      "angle": "Opinion/analysis on patch-cadence signal loss right as vuln volume spikes — pair with a 'this week in unpatched chaos' roundup",
+      "source": "https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968"
     },
     {
-      "title": "Forged Admin Tokens in the Wild: WSO2 API Manager's JWT Bypass Is Being Actively Exploited Right Now",
-      "why_now": "Two independent outlets (SecurityWeek and The Hacker News) confirm active exploitation of the same WSO2 flaw within 24 hours, signaling real-world urgency beyond a routine advisory.",
-      "angle": "CVE spotlight with IOC/detection angle — what forged tokens look like and why patch-now beats wait-and-see",
-      "source": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html"
+      "title": "Sandworm Chains Cisco Bugs to Drop Cyclops Blink — Again",
+      "why_now": "State-linked Sandworm is actively exploiting Cisco vulnerabilities to redeploy Cyclops Blink malware, a callback to the 2022 botnet takedown.",
+      "angle": "Threat-actor profile format: timeline of Cyclops Blink's return, which Cisco CVEs are chained, and mitigation checklist for network admins",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink"
     }
   ]
 }

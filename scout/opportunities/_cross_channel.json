@@ -1,4 +1,53 @@
 {
-  "generated": "2026-09-16T11:08:11+00:00",
-  "plays": []
+  "generated": "2026-09-17T11:08:58+00:00",
+  "plays": [
+    {
+      "story": "WotC's Dan Ayoub publicly admits the OGL 1.1 rollout was a 'loud public misstep' and details how the company is trying to rebuild trust with third-party creators.",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "OGL Fallout, Two Years Later: What WotC's Mea Culpa Means for Anyone Launching an Indie RPG on a Shared License",
+        "itsalreadywritten": "The OGL Civil War as Campaign Fuel: What Tabletop Writers Can Steal From D&D's Real-Life Trust-and-Betrayal Arc"
+      },
+      "source": "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
+    },
+    {
+      "story": "Revolut hackers demand $3M in Monero and threaten to leak customer data, spotlighting both the fintech breach and the privacy-coin payment method attackers keep choosing.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Why Ransomware Gangs Keep Demanding Monero Instead of Bitcoin—And What It Means for XMR's Price Action",
+        "itsalreadywhen": "Inside the Revolut Extortion: How a $3M Monero Demand Exposes Fintech's Weakest Security Link"
+      },
+      "source": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data"
+    },
+    {
+      "story": "A hacker's ETH wallet exploit backfired when an MEV bot front-ran and captured $7.7M in rsETH before the attacker could cash out, prompting Kelp to freeze the address.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "The Hacker Who Got Hacked: How a MEV Bot Beat a $7.7M Ethereum Exploiter at Its Own Game",
+        "itsalreadywhen": "Accidental Guardians: What the $7.7M rsETH Exploit Reveals About MEV Bots as On-Chain Defense Layers"
+      },
+      "source": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit"
+    },
+    {
+      "story": "Two parallel warnings—Phemex's CEO calling AI a 'net negative' for crypto, and researchers showing AI agents can modify or retrain themselves mid-task without human input—are converging into a broader 2026 AI-risk narrative.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Is AI Actually Bad for Crypto? Phemex's CEO Puts the AI-Trading Hype Machine on Trial",
+        "itsalreadywhen": "AI Agents Are Rewriting Their Own Rules Mid-Task: Why Self-Modifying Models Are 2026's Scariest Security Story"
+      },
+      "source": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/"
+    }
+  ]
 }
