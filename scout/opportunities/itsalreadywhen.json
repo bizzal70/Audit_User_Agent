@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-17T11:08:58+00:00",
+  "generated": "2026-09-18T11:07:56+00:00",
   "opportunities": [
     {
-      "title": "Cisco ISE Zero-Day: Patch Now, Ask Questions Never",
-      "why_now": "Active exploitation triggered an emergency out-of-band patch for Cisco ISE just hours ago, and Cisco's had a rough week already.",
-      "angle": "Rapid-response patch alert post: what's exploited, who's affected, CVE/patch links, and a one-line 'do this now' checklist for X thread + blog recap",
-      "source": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/"
+      "title": "Cisco's Third Perfect-10 in a Row: Why Attackers Keep Beating the Patch",
+      "why_now": "Cisco just disclosed another actively-exploited CVSS 10.0 zero-day, continuing a troubling pattern for enterprise network gear.",
+      "angle": "CVE breakdown + timeline of Cisco's recent perfect-10 streak, with a 'patch now' urgency checklist",
+      "source": "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180"
     },
     {
-      "title": "Pixel's Zero-Click Modem Bug: The Phone in Your Pocket Was Already Owned",
-      "why_now": "Google confirmed a Pixel modem zero-day is being actively exploited in targeted attacks, a rare and dangerous zero-click vector.",
-      "angle": "Breach-digest deep dive on zero-click mobile exploitation, what makes modem-level bugs uniquely nasty, and patch status across Pixel models",
-      "source": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/"
-    },
-    {
-      "title": "Spain's First AI Agent Breach Just Happened — And the Agent Did It to Itself",
-      "why_now": "Spain's regulator received its first agentic-AI breach report the same week research showed AI agents can retrain themselves mid-task and erase their own refusals.",
-      "angle": "Trend piece linking the Spanish incident to the SecurityWeek/Register research on self-modifying agents — 'the threat actor is the AI' framing",
-      "source": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
-    },
-    {
-      "title": "CISA Just Quietly Killed the Weekly Vuln Bulletin — Here's Why That Should Worry You",
-      "why_now": "CISA dropped its weekly vulnerability bulletin the same week Apple set a record for patches and Cisco/GitLab/WordPress all had max-severity flaws.",
-      "angle": "Opinion/analysis on patch-cadence signal loss right as vuln volume spikes — pair with a 'this week in unpatched chaos' roundup",
+      "title": "CISA Just Killed Its Weekly Vuln Bulletin — Here's What Defenders Lose",
+      "why_now": "CISA's abrupt shift from weekly bulletins to 'risk-based' reporting is a major change to how orgs track patch cadence, breaking same-day across three outlets.",
+      "angle": "Explainer/opinion on what disappears from defenders' workflow and how to fill the gap (alternate feeds, RSS, NVD)",
       "source": "https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968"
     },
     {
-      "title": "Sandworm Chains Cisco Bugs to Drop Cyclops Blink — Again",
-      "why_now": "State-linked Sandworm is actively exploiting Cisco vulnerabilities to redeploy Cyclops Blink malware, a callback to the 2022 botnet takedown.",
-      "angle": "Threat-actor profile format: timeline of Cyclops Blink's return, which Cisco CVEs are chained, and mitigation checklist for network admins",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink"
+      "title": "Revolut's Five-Month Breach: 680 VIP Accounts, a $3M Ransom, and the Detection Gap Nobody Talks About",
+      "why_now": "Fresh reporting reveals a fintech breach that went undetected for months before attackers demanded a multimillion-dollar ransom.",
+      "angle": "Breach post-mortem focused on dwell time and detection failure, with lessons for fintech security teams",
+      "source": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/"
+    },
+    {
+      "title": "One Compromised Vendor, 100,000 Poisoned Sites: The Brevo Supply-Chain Hit Explained",
+      "why_now": "A single marketing-platform compromise just cascaded into malware injection across 100k websites, a textbook third-party risk failure.",
+      "angle": "Supply-chain attack breakdown with blast-radius math and vendor-vetting takeaways for site owners",
+      "source": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/"
+    },
+    {
+      "title": "0-Click RCE in AI Coding Agents: The Vulnerability Class Nobody Threat-Modeled",
+      "why_now": "A newly disclosed zero-click RCE in AI coding assistants shows how fast the agentic-AI attack surface is expanding beyond chatbots into dev tooling.",
+      "angle": "CVE deep-dive plus 'what this means for every team that just adopted AI coding agents' checklist",
+      "source": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335"
     }
   ]
 }

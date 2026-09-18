@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-17T11:08:58+00:00",
+  "generated": "2026-09-18T11:07:56+00:00",
   "opportunities": [
     {
-      "title": "The Exploiter Got Exploited: How an MEV Bot Turned a $7.7M Hack Into a Wallet-Freeze Standoff",
-      "why_now": "A live ETH wallet exploit was intercepted mid-flight by an MEV bot and Kelp is now racing to freeze the address, a rare case of predator-eats-predator unfolding in real time.",
-      "angle": "Blow-by-blow incident breakdown with a wry 'crime doesn't pay (someone else gets there first)' framing, plus what it says about MEV as an unintentional security layer",
+      "title": "North Korea Is Hiding Malware in Smart Contracts Now — Chainalysis Just Proved It",
+      "why_now": "Chainalysis just published two linked reports showing a 420%/5.2x YoY surge in state-sponsored onchain malware, including a new 'EtherHiding' technique using contracts as dead drops.",
+      "angle": "Technical explainer + threat-intel breakdown: how DPRK/Iran use blockchain immutability against defenders, with IOCs and what to watch for next",
+      "source": "https://www.chainalysis.com/blog/etherhiding-blockchain-dead-drops/"
+    },
+    {
+      "title": "The Hacker Got Hacked: How a MEV Bot Turned a $7.7M Exploit Into Its Own Payday",
+      "why_now": "A live ETH wallet exploit was intercepted mid-transaction by a MEV bot before the original attacker could cash out, and Kelp froze the address — a rare 'thief steals from thief' onchain story breaking this week.",
+      "angle": "Narrative postmortem with transaction trace/timeline graphic; frame as proof that MEV infrastructure is now part of the security stack, for better or worse",
       "source": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Balancer's Slow-Motion Death: What a Protocol Wind-Down Looks Like After the Hack Nobody Fixed",
-      "why_now": "Balancer is reportedly eyeing a wind-down after failing to revive revenue post-restructuring, turning a security incident into a case study in protocol mortality.",
-      "angle": "Postmortem-style piece tracing the line from exploit to TVL exodus to shutdown, framed as 'this is how it always ends' for protocols that don't rebuild trust fast enough",
-      "source": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Iran's Bitcoin Toll Booth on the Strait of Hormuz Just Got Sanctioned — Here's the Onchain Trail",
+      "why_now": "Treasury sanctioned BitBank this week for allegedly running IRGC bitcoin payments tied to Hormuz shipping tolls, a rare concrete link between crypto rails and sanctions-evasion logistics.",
+      "angle": "Investigative-style breakdown of the sanctions filing and wallet flows, positioned as 'this is what state-level crypto laundering actually looks like'",
+      "source": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says"
     },
     {
-      "title": "Revolut Hackers Want $3M in Monero — Here's Why That Currency Choice Isn't an Accident",
-      "why_now": "Attackers threatening to sell Revolut customer data specifically demanded Monero, a live example of privacy-coin ransom economics playing out against a major fintech.",
-      "angle": "Security explainer on why XMR is the ransomware currency of choice, what it means for custodial platforms, and what users should actually do now",
-      "source": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data"
+      "title": "S&P Global Just Bought a Smart Contract Auditor. That Tells You Where the Market Thinks the Risk Lives",
+      "why_now": "S&P Global's acquisition of OpenZeppelin this week is the clearest signal yet that traditional finance is pricing onchain security as core infrastructure, not a niche service.",
+      "angle": "Markets-meets-security analysis: what the acquisition price/terms imply about institutional risk models, and what it means for the audit industry's incentives",
+      "source": "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360"
     },
     {
-      "title": "HBO Max's Reddit Account Got Hijacked to Spread Crypto Malware — Your Wallet Doesn't Care Whose Account Posted It",
-      "why_now": "A trusted, verified brand account was weaponized to distribute crypto-stealing malware, a textbook social-engineering vector hitting mainstream audiences.",
-      "angle": "Quick-hit security alert/explainer on why verified-account trust is a false signal, with practical wallet-hygiene takeaways",
-      "source": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware"
-    },
-    {
-      "title": "Celsius vs. BitMEX: The 2020 Liquidations Lawsuit Is a Receipt for Everyone Who Warned About Leverage",
-      "why_now": "Celsius is suing BitMEX for $495M over 2020 crash liquidations, resurfacing exactly the kind of counterparty/leverage risk this channel has been flagging since before it was cool.",
-      "angle": "'Told you so' retrospective connecting 2020 liquidation cascades to today's leverage-heavy market structure, with a nod to current $345M liquidation wipeout",
-      "source": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations"
+      "title": "Corporate Treasuries Bought Just 5,900 BTC in 3 Months — The Bull Case Was Already Priced In",
+      "why_now": "New CoinDesk data shows corporate treasury BTC demand cratering even as O'Leary and Grayscale talk up a 'watershed moment' and 'green light' for bulls this same week.",
+      "angle": "Contrarian markets take contrasting weak demand signals against bullish headlines/ETF outflows, in classic 'it's already priced in' skeptic voice",
+      "source": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too"
     }
   ]
 }

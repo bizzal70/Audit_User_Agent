@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-17T11:08:58+00:00",
+  "generated": "2026-09-18T11:07:56+00:00",
   "opportunities": [
     {
-      "title": "Dan Ayoub Says WotC Is 'Recovering' From the OGL Fiasco — Here's What Actually Changed in the License Text",
-      "why_now": "WotC's own licensing lead is publicly reflecting on the OGL 1.1 controversy, inviting a rules-first fact-check of what was promised vs. what's actually written into the current license.",
-      "angle": "Side-by-side breakdown: OGL 1.0a vs. OGL 1.2/current terms, quoting specific clauses Ayoub references",
-      "source": "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
-    },
-    {
-      "title": "Mecha Hack vs. Lancer vs. BattleTech: How Three Mech Systems Actually Handle Heat and Structural Damage",
-      "why_now": "Mecha Hack just got fresh print coverage, making this the moment to compare its crunch against established mech RPGs.",
-      "angle": "Rules comparison table pulling exact damage/heat mechanics from each rulebook",
+      "title": "Mothership's New Print Run: What Actually Changed in the Rules (Not Just the Cover)",
+      "why_now": "EN World's print roundup flags a new Mothership printing, and rules-first readers want the errata, not the art notes.",
+      "angle": "Side-by-side comparison of panic/stress table wording old vs. new printing, cite exact rulebook pages",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
     },
     {
-      "title": "Dragonbane's Death Spiral: The Exact Rule That Makes Combat Deadly (And Why It Works)",
-      "why_now": "Dragonbane is back in print news cycles, giving a hook to dig into its specific injury/death mechanics for players deciding whether to run it.",
-      "angle": "Rules explainer citing the exact conditions table and dice thresholds from the core book",
+      "title": "Dragonbane in Print: The Six Rules That Make It Faster Than 5E",
+      "why_now": "Dragonbane's continued print presence in this roundup is a hook to explain why its rules-light system keeps winning converts from D&D tables.",
+      "angle": "Numbered rules breakdown (boon/bane, HP-as-resource, no save-or-suck) with page citations",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
     },
     {
-      "title": "If You Launch Your Own RPG Company Tomorrow, Which License Do You Actually Pick — OGL, ORC, or Nothing?",
-      "why_now": "EN World's 'Launch Your Own RPG Company' piece raises the business question, but skips the legal rules comparison indie creators need most.",
-      "angle": "Rules-first legal breakdown of ORC vs. OGL 1.2 vs. custom license, with clause-by-clause pros/cons",
-      "source": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-rpg-company.720234/"
+      "title": "Mecha Hack Is a Black Hack Descendant — Here's the Rules Lineage",
+      "why_now": "Mecha Hack's print listing is a chance to trace its mechanical DNA back to the Black Hack SRD, which most readers won't know.",
+      "angle": "Genealogy chart/thread: Black Hack roll-under → Mecha Hack heat/mech systems, with rules text quoted",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
     },
     {
-      "title": "Arcana Unleashed's Review Is Glowing — But Does the Spellcasting Math Actually Hold Up?",
-      "why_now": "A fresh deep-dive review just dropped, but it's light on crunch verification, leaving room to interrogate the actual rules text.",
-      "angle": "Rules-audit response post: pull specific spell tables/DCs and stress-test the math the review praised",
-      "source": "https://www.enworld.org/threads/arcana-unleashed-a-deep-dive-review.720663/"
+      "title": "This Week's Print RPG News, Fact-Checked: What's Actually a New Edition vs. a Reprint",
+      "why_now": "Print news roundups blur reprints with real rules revisions; a rules-first channel can cut through the ambiguity for the whole list.",
+      "angle": "Myth-busting X thread: item-by-item verdict (new rules? same rules, new print?) sourced from publisher pages",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+    },
+    {
+      "title": "Print Availability Isn't a Rules Change — Why 'Back in Stock' News Still Matters to Your Table",
+      "why_now": "The roundup's framing (stock/print news) is itself a teachable moment about how physical availability affects which rulesets actually get played.",
+      "angle": "Short op-ed/blog post distinguishing supply-chain news from rules news, using this roundup as the example",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
     }
   ]
 }
