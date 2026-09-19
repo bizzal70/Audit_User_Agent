@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-18T11:07:56+00:00",
+  "generated": "2026-09-19T11:07:03+00:00",
   "opportunities": [
     {
-      "title": "Mothership's Stress Die vs. 5e's Frightened Condition: Which Actually Makes Players Scared?",
-      "why_now": "EN World's roundup just spotlighted Mothership's print run alongside Dragonbane and Mecha Hack, putting fear/stress mechanics back in the conversation this week.",
-      "angle": "60-sec system comparison: run the same 'zombie horde reveal' through Mothership's Stress check and 5e's Frightened save, show which one actually stops table chatter.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+      "title": "Telekinesis vs. Grapple: Can You RAW-Yeet a Pinned Enemy Off a Cliff?",
+      "why_now": "Control Resonant's reality-bending telekinesis mechanics are dominating discussion this week, giving a hook to break down the actual 5e Telekinesis spell interaction with grappled/restrained targets.",
+      "angle": "60-sec rules ruling: read the spell text, cite the grapple-condition interaction, give a definitive DM ruling with the RAW citation on screen.",
+      "source": "https://www.rpgsite.net/review/21427-control-resonant-review"
     },
     {
-      "title": "Steal Monster Hunter's Wound System for Your Next 5e Dragon Fight",
-      "why_now": "Wilds' Switch 2 specs are dominating RPG news cycles this week, keeping monster-hunting mechanics top of mind for the audience.",
-      "angle": "Creature tactic short: houserule a 'severable part' mechanic onto a homebrew dragon stat block, with the exact damage threshold math (RAW-adjacent, not official).",
+      "title": "Steal This: Give Your Dragon a Monster Hunter Weather Phase",
+      "why_now": "Monster Hunter Wilds' Switch 2 rollout has monster-hunting mechanics trending, and its multi-phase environmental fights are a free design lesson for tabletop solo bosses.",
+      "angle": "Creature tactic short: show how to bolt a 'terrain/weather shift at bloodied' trigger onto any 5e dragon stat block for a free legendary-feeling phase change.",
       "source": "https://www.rpgsite.net/news/21431-monster-hunter-wilds-switch-2-resolution-frame-rate-revealed-docked-handheld-capcom"
     },
     {
-      "title": "Naoto Shirogane's 'Detective Prince' Gimmick Is Just a Bad Homebrew Feat — Here's the RAW Fix",
-      "why_now": "Persona 4 Revival's new Naoto trailer just dropped, giving a recognizable character hook for a mechanics teardown.",
-      "angle": "Spell/feature use-case bit: build 'Detective's Insight' as a legal 5e feat using Guidance + passive Investigation stacking, called out as intentionally overtuned for comedy.",
-      "source": "https://www.rpgsite.net/news/21422-persona-4-revival-naoto-shirogane-gameplay-trailer-tgs-2026"
-    },
-    {
-      "title": "Diablo IV's Loot Beam Problem Is Also Your Treasure Table Problem",
-      "why_now": "This week's Diablo IV Switch 2 review calls out itemization pain points, a live gripe players will recognize.",
-      "angle": "Wry GM rant format: 3 sentences on why over-tuned magic item drop rates wreck a 5e campaign the same way Diablo's loot bloat does, ending on a concrete DMG-table fix.",
+      "title": "Diablo IV's Uber Bosses Called — Your Solo Monster's Action Economy Is Broken",
+      "why_now": "Diablo IV's Switch 2 port impressions this week are reigniting talk about its boss design, a natural springboard to fix the classic 'one monster vs. four PCs' action economy problem in 5e/Shadowdark.",
+      "angle": "Dry veteran-GM breakdown: math out why solo monsters lose without legendary actions/lair actions, prescribe a quick homebrew fix ratio.",
       "source": "https://www.rpgsite.net/feature/21421-diablo-4-nintendo-switch-2-port-review-impressions-vs-ps5-pro-steam-deck-pc-ps4"
     },
     {
-      "title": "FF7 Revelation Needs 200GB — Your Prep Notes Shouldn't Need 200 Pages",
-      "why_now": "Hamaguchi's '200GB' comment is trending as a punchline this week, giving a ready-made joke hook.",
-      "angle": "Dry one-liner + prep tip: cold open on the 200GB stat, cut to 'your session zero doc should fit on an index card,' close with one concrete Shadowdark-style minimal-prep tip.",
-      "source": "https://www.rpgsite.net/news/21430-final-fantasy-vii-revelation-200gb-download-size-naoki-hamaguchi"
+      "title": "Running a Persona-Style Shadow Fight: When the Monster Is a Mirror of the Party",
+      "why_now": "Persona 4 Revival's soundtrack drop is putting Shadow encounters back in the discourse, which maps cleanly onto doppelganger/mirror-image encounter design in D&D and Shadowdark.",
+      "angle": "Creature tactic short: how to reskin a doppelganger or shapechanger to fight using a PC's own abilities against them, with initiative/telegraphing tips.",
+      "source": "https://www.rpgsite.net/news/21432-persona-4-revival-true-story-revival-streaming-spotify-apple-music-youtube"
+    },
+    {
+      "title": "Bloodstained's New Trailer Has a Vampire Lord — Here's the Legendary Resistance Math Nobody Explains Right",
+      "why_now": "Bloodstained: The Scarlet Engagement's fresh TGS gameplay trailer is putting vampire-hunting back in front of RPG audiences, a timely excuse to clarify a commonly-misplayed 5e mechanic.",
+      "angle": "Mechanical ruling short: walk through exactly how Legendary Resistance interacts with save-or-suck spells turn by turn, correcting a common misplay.",
+      "source": "https://www.rpgsite.net/news/21424-bloodstained-the-scarlet-engagement-new-gameplay-video-tgs-2026-xbox"
     }
   ]
 }

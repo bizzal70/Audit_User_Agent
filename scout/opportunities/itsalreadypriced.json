@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-18T11:07:56+00:00",
+  "generated": "2026-09-19T11:07:03+00:00",
   "opportunities": [
     {
-      "title": "North Korea Is Hiding Malware in Smart Contracts Now — Chainalysis Just Proved It",
-      "why_now": "Chainalysis just published two linked reports showing a 420%/5.2x YoY surge in state-sponsored onchain malware, including a new 'EtherHiding' technique using contracts as dead drops.",
-      "angle": "Technical explainer + threat-intel breakdown: how DPRK/Iran use blockchain immutability against defenders, with IOCs and what to watch for next",
+      "title": "EtherHiding: North Korea and Iran Just Turned the Blockchain Into a Dead-Drop Network",
+      "why_now": "Chainalysis just documented a 420%/5.2x YoY surge in state-sponsored blockchain-assisted malware, with DPRK and Iran using onchain data as covert C2 infrastructure.",
+      "angle": "Explainer/analysis breaking down the EtherHiding technique, why immutability makes it unpatchable, and what it means for anyone running node infra or wallets — 'the ledger doesn't forget, and neither do they.'",
       "source": "https://www.chainalysis.com/blog/etherhiding-blockchain-dead-drops/"
     },
     {
-      "title": "The Hacker Got Hacked: How a MEV Bot Turned a $7.7M Exploit Into Its Own Payday",
-      "why_now": "A live ETH wallet exploit was intercepted mid-transaction by a MEV bot before the original attacker could cash out, and Kelp froze the address — a rare 'thief steals from thief' onchain story breaking this week.",
-      "angle": "Narrative postmortem with transaction trace/timeline graphic; frame as proof that MEV infrastructure is now part of the security stack, for better or worse",
-      "source": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Haruko Got Hit — And 15 Institutional Clients Are Finding Out What 'Non-Custodial' Really Means",
+      "why_now": "A crypto tech/infra provider was breached with client funds lost, a fresh incident hitting the institutional side of the market that's supposed to be the 'safe' rail.",
+      "angle": "Incident post-mortem style breakdown of what Haruko's breach reveals about vendor/API risk in institutional crypto stacks, framed as a checklist of questions every fund should be asking their tech providers today.",
+      "source": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost"
     },
     {
-      "title": "Iran's Bitcoin Toll Booth on the Strait of Hormuz Just Got Sanctioned — Here's the Onchain Trail",
-      "why_now": "Treasury sanctioned BitBank this week for allegedly running IRGC bitcoin payments tied to Hormuz shipping tolls, a rare concrete link between crypto rails and sanctions-evasion logistics.",
-      "angle": "Investigative-style breakdown of the sanctions filing and wallet flows, positioned as 'this is what state-level crypto laundering actually looks like'",
+      "title": "The Bitcoin Toll Booth at Hormuz: How Iran Turned a Crypto Exchange Into a Sanctions Bypass",
+      "why_now": "Treasury just sanctioned BitBank for allegedly running bitcoin payments for IRGC-linked tolls on tankers transiting Hormuz — a live case study in crypto as sanctions-evasion rail amid rising Brent/hike odds.",
+      "angle": "Deep-dive on the mechanics of the toll scheme, why bitcoin (not stablecoins) was the tool of choice here, and what it signals for exchange compliance risk going forward.",
       "source": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says"
     },
     {
-      "title": "S&P Global Just Bought a Smart Contract Auditor. That Tells You Where the Market Thinks the Risk Lives",
-      "why_now": "S&P Global's acquisition of OpenZeppelin this week is the clearest signal yet that traditional finance is pricing onchain security as core infrastructure, not a niche service.",
-      "angle": "Markets-meets-security analysis: what the acquisition price/terms imply about institutional risk models, and what it means for the audit industry's incentives",
-      "source": "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360"
+      "title": "Crypto Laundering Ring Tied to Contract Killings Just Got Rolled Up — Here's the Onchain Trail That Got Them",
+      "why_now": "UAE and Sweden just arrested seven people in a $7.1M laundering ring connected to contract killings, a rare case where crypto forensics directly intersects violent crime.",
+      "angle": "Trace-the-money style breakdown of how the ring moved funds and got caught, positioned as proof that 'anonymous' crypto laundering has a shelf life — good for the 'already priced' skepticism angle.",
+      "source": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings"
     },
     {
-      "title": "Corporate Treasuries Bought Just 5,900 BTC in 3 Months — The Bull Case Was Already Priced In",
-      "why_now": "New CoinDesk data shows corporate treasury BTC demand cratering even as O'Leary and Grayscale talk up a 'watershed moment' and 'green light' for bulls this same week.",
-      "angle": "Contrarian markets take contrasting weak demand signals against bullish headlines/ETF outflows, in classic 'it's already priced in' skeptic voice",
-      "source": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too"
+      "title": "O'Leary Says Bitcoin Hits $1M — But Buried in His Own Pitch Is the Quantum Bomb Nobody's Pricing In",
+      "why_now": "O'Leary's bullish $1M call comes with an explicit quantum-computing caveat, a rare moment a mainstream bull admits the security risk everyone else ignores in bull-market euphoria.",
+      "angle": "Contrarian markets-meets-security piece: use O'Leary's own admission as the hook to lay out where quantum resistance actually stands for BTC custody today, and why 'shrug it off' rallies never price tail risk.",
+      "source": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch"
     }
   ]
 }

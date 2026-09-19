@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-18T11:07:56+00:00",
+  "generated": "2026-09-19T11:07:03+00:00",
   "opportunities": [
     {
-      "title": "Cisco's Third Perfect-10 in a Row: Why Attackers Keep Beating the Patch",
-      "why_now": "Cisco just disclosed another actively-exploited CVSS 10.0 zero-day, continuing a troubling pattern for enterprise network gear.",
-      "angle": "CVE breakdown + timeline of Cisco's recent perfect-10 streak, with a 'patch now' urgency checklist",
+      "title": "Cisco's Second 'Perfect 10' in Weeks: The Exploited Zero-Day You Need to Patch Today",
+      "why_now": "Cisco just dropped another actively-exploited CVSS 10 flaw, and Dark Reading's API-auth deep dive shows a pattern worth flagging before more networks get popped.",
+      "angle": "Patch-cadence alert post: timeline of Cisco's back-to-back perfect-10s, exploit status, and a hard patch-by date",
       "source": "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180"
     },
     {
-      "title": "CISA Just Killed Its Weekly Vuln Bulletin — Here's What Defenders Lose",
-      "why_now": "CISA's abrupt shift from weekly bulletins to 'risk-based' reporting is a major change to how orgs track patch cadence, breaking same-day across three outlets.",
-      "angle": "Explainer/opinion on what disappears from defenders' workflow and how to fill the gap (alternate feeds, RSS, NVD)",
-      "source": "https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968"
+      "title": "Researchers Used Claude to Hack OpenAI's Own Staff — Then an AI-Built Exploit Got Into Internal Code",
+      "why_now": "Two same-week stories (Register + SecurityWeek) show AI tools were used both offensively to breach OpenAI employees and to build the exploit that reached internal source — the loop just closed.",
+      "angle": "Threat-actor explainer connecting the two OpenAI stories into one 'AI hacking AI' narrative with a threat-model diagram",
+      "source": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517"
     },
     {
-      "title": "Revolut's Five-Month Breach: 680 VIP Accounts, a $3M Ransom, and the Detection Gap Nobody Talks About",
-      "why_now": "Fresh reporting reveals a fintech breach that went undetected for months before attackers demanded a multimillion-dollar ransom.",
-      "angle": "Breach post-mortem focused on dwell time and detection failure, with lessons for fintech security teams",
-      "source": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/"
+      "title": "Orkes Conductor's Pre-Auth RCE Is Already Being Exploited — Here's Your Patch-Or-Die Checklist",
+      "why_now": "THN and SecurityWeek both confirm active in-the-wild exploitation of a critical unauthenticated RCE in the Orkes Conductor workflow platform, a classic inevitable-breach setup.",
+      "angle": "CVE breakdown post: what Conductor does, exploit mechanics, IOC list, and patch/mitigation steps",
+      "source": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
     },
     {
-      "title": "One Compromised Vendor, 100,000 Poisoned Sites: The Brevo Supply-Chain Hit Explained",
-      "why_now": "A single marketing-platform compromise just cascaded into malware injection across 100k websites, a textbook third-party risk failure.",
-      "angle": "Supply-chain attack breakdown with blast-radius math and vendor-vetting takeaways for site owners",
-      "source": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/"
+      "title": "CISA Flags 3 Linux Kernel Bugs Under Attack While Exploits Drop for 4 More — The Root-Access Pile-Up",
+      "why_now": "Same week, CISA adds three actively-exploited Linux kernel CVEs to KEV and public PoCs land for four separate local-root flaws — a patch-cadence nightmare for fleet admins.",
+      "angle": "Roundup/digest format: table of all 7 kernel CVEs, exploit status, and prioritized patch order",
+      "source": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
     },
     {
-      "title": "0-Click RCE in AI Coding Agents: The Vulnerability Class Nobody Threat-Modeled",
-      "why_now": "A newly disclosed zero-click RCE in AI coding assistants shows how fast the agentic-AI attack surface is expanding beyond chatbots into dev tooling.",
-      "angle": "CVE deep-dive plus 'what this means for every team that just adopted AI coding agents' checklist",
-      "source": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335"
+      "title": "Google Gemini 'Accidentally' Hacked a Real Company Because a Test Domain Mix-Up",
+      "why_now": "An agentic AI breached live company systems due to a security-test misconfiguration, landing right alongside Dark Reading's piece on AI agents modifying themselves without human input — the agentic-AI risk story is compounding fast.",
+      "angle": "Incident post-mortem: what went wrong, why 'test vs prod' still trips up AI agents, and what this means for agentic AI governance",
+      "source": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
     }
   ]
 }

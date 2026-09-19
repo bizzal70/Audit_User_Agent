@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-18T11:07:56+00:00",
+  "generated": "2026-09-19T11:07:03+00:00",
   "opportunities": [
     {
-      "title": "Mothership's New Print Run: What Actually Changed in the Rules (Not Just the Cover)",
-      "why_now": "EN World's print roundup flags a new Mothership printing, and rules-first readers want the errata, not the art notes.",
-      "angle": "Side-by-side comparison of panic/stress table wording old vs. new printing, cite exact rulebook pages",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+      "title": "This Week's Actual TTRPG News, Rules-First: Decoding the Sept 18 EN World Digest",
+      "why_now": "Fresh digest dropped yesterday and is the only direct TTRPG source in the feed, ripe for a distilled, citation-heavy breakdown.",
+      "angle": "Numbered rundown pulling out concrete rule/product changes from the digest, framed as 'what actually matters to your table this week'",
+      "source": "https://www.enworld.org/threads/news-digest-for-september-18-2026.720695/"
     },
     {
-      "title": "Dragonbane in Print: The Six Rules That Make It Faster Than 5E",
-      "why_now": "Dragonbane's continued print presence in this roundup is a hook to explain why its rules-light system keeps winning converts from D&D tables.",
-      "angle": "Numbered rules breakdown (boon/bane, HP-as-resource, no save-or-suck) with page citations",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+      "title": "Monster Hunter Wilds' Three Frame-Rate Modes Are a Masterclass in Action Economy Tradeoffs",
+      "why_now": "Capcom just revealed specific docked/handheld performance targets, a concrete numbers story to hook on.",
+      "angle": "Use the docked-vs-handheld tradeoff (resolution vs speed) as a lens to explain action economy design choices in TTRPG combat systems",
+      "source": "https://www.rpgsite.net/news/21431-monster-hunter-wilds-switch-2-resolution-frame-rate-revealed-docked-handheld-capcom"
     },
     {
-      "title": "Mecha Hack Is a Black Hack Descendant — Here's the Rules Lineage",
-      "why_now": "Mecha Hack's print listing is a chance to trace its mechanical DNA back to the Black Hack SRD, which most readers won't know.",
-      "angle": "Genealogy chart/thread: Black Hack roll-under → Mecha Hack heat/mech systems, with rules text quoted",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+      "title": "Diablo IV's Switch 2 Loot Tables Prove Itemization Bloat Isn't Just a Tabletop Problem",
+      "why_now": "The Switch 2 port impressions piece dropped this week highlighting build/itemization friction.",
+      "angle": "Compare digital loot table complexity to tabletop treasure/crunch bloat, extract 3 design lessons GMs can steal",
+      "source": "https://www.rpgsite.net/feature/21421-diablo-4-nintendo-switch-2-port-review-impressions-vs-ps5-pro-steam-deck-pc-ps4"
     },
     {
-      "title": "This Week's Print RPG News, Fact-Checked: What's Actually a New Edition vs. a Reprint",
-      "why_now": "Print news roundups blur reprints with real rules revisions; a rules-first channel can cut through the ambiguity for the whole list.",
-      "angle": "Myth-busting X thread: item-by-item verdict (new rules? same rules, new print?) sourced from publisher pages",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+      "title": "FF7 Revelation Will Be 200GB — Here's What That Says About Rulebook Bloat",
+      "why_now": "Hamaguchi's fresh 200GB comment is a striking, quotable number to riff off of.",
+      "angle": "Turn the install-size shock into a rules-first essay on splatbook creep and when a game system has 'outgrown the table'",
+      "source": "https://www.rpgsite.net/news/21430-final-fantasy-vii-revelation-200gb-download-size-naoki-hamaguchi"
     },
     {
-      "title": "Print Availability Isn't a Rules Change — Why 'Back in Stock' News Still Matters to Your Table",
-      "why_now": "The roundup's framing (stock/print news) is itself a teachable moment about how physical availability affects which rulesets actually get played.",
-      "angle": "Short op-ed/blog post distinguishing supply-chain news from rules news, using this roundup as the example",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-mothership-dragonbane-mecha-hack-and-more.720648/"
+      "title": "Trails in the Sky 2nd Chapter's Turn Order, Rules-First",
+      "why_now": "Global launch just happened, giving a concrete, playable system to dissect immediately.",
+      "angle": "Break down the JRPG's turn-based mechanics like a rules document and translate its initiative logic into tabletop-ready house rules",
+      "source": "https://www.rpgsite.net/news/21390-trails-in-the-sky-2nd-chapter-launch-trailer-download-available-now"
     }
   ]
 }
