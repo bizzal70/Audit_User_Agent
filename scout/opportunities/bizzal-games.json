@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-19T11:07:03+00:00",
+  "generated": "2026-09-20T11:07:15+00:00",
   "opportunities": [
     {
-      "title": "Telekinesis vs. Grapple: Can You RAW-Yeet a Pinned Enemy Off a Cliff?",
-      "why_now": "Control Resonant's reality-bending telekinesis mechanics are dominating discussion this week, giving a hook to break down the actual 5e Telekinesis spell interaction with grappled/restrained targets.",
-      "angle": "60-sec rules ruling: read the spell text, cite the grapple-condition interaction, give a definitive DM ruling with the RAW citation on screen.",
-      "source": "https://www.rpgsite.net/review/21427-control-resonant-review"
-    },
-    {
-      "title": "Steal This: Give Your Dragon a Monster Hunter Weather Phase",
-      "why_now": "Monster Hunter Wilds' Switch 2 rollout has monster-hunting mechanics trending, and its multi-phase environmental fights are a free design lesson for tabletop solo bosses.",
-      "angle": "Creature tactic short: show how to bolt a 'terrain/weather shift at bloodied' trigger onto any 5e dragon stat block for a free legendary-feeling phase change.",
-      "source": "https://www.rpgsite.net/news/21431-monster-hunter-wilds-switch-2-resolution-frame-rate-revealed-docked-handheld-capcom"
-    },
-    {
-      "title": "Diablo IV's Uber Bosses Called — Your Solo Monster's Action Economy Is Broken",
-      "why_now": "Diablo IV's Switch 2 port impressions this week are reigniting talk about its boss design, a natural springboard to fix the classic 'one monster vs. four PCs' action economy problem in 5e/Shadowdark.",
-      "angle": "Dry veteran-GM breakdown: math out why solo monsters lose without legendary actions/lair actions, prescribe a quick homebrew fix ratio.",
+      "title": "Diablo IV's Necromancer Just Solved Your 5e Minion Action-Economy Problem",
+      "why_now": "Diablo IV hit Switch 2 this week, reviving chatter about necromancer minion management right as players ask how to run Animate Dead armies without grinding the table to a halt.",
+      "angle": "Short: show the Diablo 'command all minions' UI, then give the actual 5e ruling on how many actions a Zombie/Skeleton horde really costs a caster per RAW.",
       "source": "https://www.rpgsite.net/feature/21421-diablo-4-nintendo-switch-2-port-review-impressions-vs-ps5-pro-steam-deck-pc-ps4"
     },
     {
-      "title": "Running a Persona-Style Shadow Fight: When the Monster Is a Mirror of the Party",
-      "why_now": "Persona 4 Revival's soundtrack drop is putting Shadow encounters back in the discourse, which maps cleanly onto doppelganger/mirror-image encounter design in D&D and Shadowdark.",
-      "angle": "Creature tactic short: how to reskin a doppelganger or shapechanger to fight using a PC's own abilities against them, with initiative/telegraphing tips.",
-      "source": "https://www.rpgsite.net/news/21432-persona-4-revival-true-story-revival-streaming-spotify-apple-music-youtube"
+      "title": "Control's Telekinesis Is a Better Ruling Than Half the Tables Use for the Spell",
+      "why_now": "Control Resonant just reviewed with its telekinesis-throwing combat as the headline mechanic, giving a visual hook to correct a commonly-misplayed 5e spell.",
+      "angle": "Show a Control telekinesis clip/screenshot, then break down RAW range/weight limits and the correct action to hurl an object as an attack.",
+      "source": "https://www.rpgsite.net/review/21427-control-resonant-review"
     },
     {
-      "title": "Bloodstained's New Trailer Has a Vampire Lord — Here's the Legendary Resistance Math Nobody Explains Right",
-      "why_now": "Bloodstained: The Scarlet Engagement's fresh TGS gameplay trailer is putting vampire-hunting back in front of RPG audiences, a timely excuse to clarify a commonly-misplayed 5e mechanic.",
-      "angle": "Mechanical ruling short: walk through exactly how Legendary Resistance interacts with save-or-suck spells turn by turn, correcting a common misplay.",
-      "source": "https://www.rpgsite.net/news/21424-bloodstained-the-scarlet-engagement-new-gameplay-video-tgs-2026-xbox"
+      "title": "Monster Hunter Wilds' Two AI Modes Are Why Your Dragon Fights Are Boring",
+      "why_now": "Capcom just detailed Wilds' docked vs handheld behavior differences on Switch 2, a good excuse to talk about monsters that actually change tactics mid-fight.",
+      "angle": "Creature tactic breakdown: give a dragon/owlbear two behavior 'modes' (aggressive vs wounded) like a boss AI, with specific trigger HP thresholds.",
+      "source": "https://www.rpgsite.net/news/21431-monster-hunter-wilds-switch-2-resolution-frame-rate-revealed-docked-handheld-capcom"
+    },
+    {
+      "title": "Persona's Shadow Self Is the Doppelganger Encounter Your Table Is Sleeping On",
+      "why_now": "Atlus just dropped a 30th-anniversary video showing 'shadow versions' of every character, a timely visual hook for building mirror-match encounters.",
+      "angle": "Creature tactic: how to build a shadow-copy of a PC as a 5e statblock swap (same stats, inverted alignment/tactics) for a quick memorable boss.",
+      "source": "https://www.rpgsite.net/news/21434-persona-30th-anniversary-celebration-video-shadow-version-atlus"
+    },
+    {
+      "title": "Bayonetta's Witch Time Is Uncanny Dodge — Here's the RAW Version",
+      "why_now": "The new Stellar Blade x Bayonetta trailer is putting Witch Time back in feeds this week, a perfect visual anchor for explaining a frequently botched Rogue class feature.",
+      "angle": "Quick ruling short: clip of Witch Time slow-mo dodge, cut to RAW text on Uncanny Dodge — when it triggers, what it doesn't do (no reaction cost, single attack only).",
+      "source": "https://www.rpgsite.net/news/21436-new-stellar-blade-bayonetta-collaboration-gameplay-outfits-trailer-costumes"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-19T11:07:03+00:00",
+  "generated": "2026-09-20T11:07:15+00:00",
   "opportunities": [
     {
-      "title": "This Week's Actual TTRPG News, Rules-First: Decoding the Sept 18 EN World Digest",
-      "why_now": "Fresh digest dropped yesterday and is the only direct TTRPG source in the feed, ripe for a distilled, citation-heavy breakdown.",
-      "angle": "Numbered rundown pulling out concrete rule/product changes from the digest, framed as 'what actually matters to your table this week'",
+      "title": "EN World's Sept. 18 Digest, Annotated: The Three Rules Changes Actually Worth Reading",
+      "why_now": "The digest just dropped and is the only genuine TTRPG-adjacent source in this batch, ripe for a rules-first breakdown before other outlets summarize it generically.",
+      "angle": "Numbered breakdown post: pull the actual rules/errata items from the digest and rank them by mechanical impact, ending with a 'ruling of the week' verdict.",
       "source": "https://www.enworld.org/threads/news-digest-for-september-18-2026.720695/"
     },
     {
-      "title": "Monster Hunter Wilds' Three Frame-Rate Modes Are a Masterclass in Action Economy Tradeoffs",
-      "why_now": "Capcom just revealed specific docked/handheld performance targets, a concrete numbers story to hook on.",
-      "angle": "Use the docked-vs-handheld tradeoff (resolution vs speed) as a lens to explain action economy design choices in TTRPG combat systems",
+      "title": "Monster Hunter Wilds' Three Switch 2 Modes Are Basically a Lesson in Action Economy",
+      "why_now": "Capcom just revealed docked/handheld frame-rate tradeoffs, giving a timely hook to compare video-game performance modes to TTRPG hunt-and-track subsystems.",
+      "angle": "Explainer thread comparing MH's mode tradeoffs to how PF2e's Hunt Prey and Trophy Gold's tracking rules manage tempo vs. detail — 'the rules already solved this.'",
       "source": "https://www.rpgsite.net/news/21431-monster-hunter-wilds-switch-2-resolution-frame-rate-revealed-docked-handheld-capcom"
     },
     {
-      "title": "Diablo IV's Switch 2 Loot Tables Prove Itemization Bloat Isn't Just a Tabletop Problem",
-      "why_now": "The Switch 2 port impressions piece dropped this week highlighting build/itemization friction.",
-      "angle": "Compare digital loot table complexity to tabletop treasure/crunch bloat, extract 3 design lessons GMs can steal",
+      "title": "Control Resonant Proves Why the SCP Rules Chassis Still Wins",
+      "why_now": "The Control Resonant review just published, and Control's Bureau-of-Weird-Objects premise maps directly onto popular SCP-style TTRPG frameworks.",
+      "angle": "Rules comparison piece: use the game's Object of Power mechanics as a springboard to rate three tabletop 'anomalous object' subsystems (SCP CB, Delta Green artifacts, Control-inspired homebrew) for actual playability.",
+      "source": "https://www.rpgsite.net/review/21427-control-resonant-review"
+    },
+    {
+      "title": "Diablo IV's Switch 2 Loot Problem Is a Rules Problem, Not a Hardware One",
+      "why_now": "The fresh Switch 2 port impressions call out itemization friction, a perfect news hook for a rules-first take on loot table design.",
+      "angle": "Opinion/analysis: dissect Diablo IV's affix bloat against tabletop itemization models (ICRPG's simplicity vs. D&D's rarity tiers) to argue good rules scale, good UX doesn't fix bad rules.",
       "source": "https://www.rpgsite.net/feature/21421-diablo-4-nintendo-switch-2-port-review-impressions-vs-ps5-pro-steam-deck-pc-ps4"
     },
     {
-      "title": "FF7 Revelation Will Be 200GB — Here's What That Says About Rulebook Bloat",
-      "why_now": "Hamaguchi's fresh 200GB comment is a striking, quotable number to riff off of.",
-      "angle": "Turn the install-size shock into a rules-first essay on splatbook creep and when a game system has 'outgrown the table'",
+      "title": "200GB of Final Fantasy VII Is Basically Every D&D Splatbook Ever Printed — Here's the Actual Math",
+      "why_now": "Hamaguchi's 200GB comment is a viral, easily quotable stat that invites a cheeky but rules-literate comparison to tabletop rulebook bloat.",
+      "angle": "Data-flavored X thread: calculate rulebook page-count/word-count equivalents to 200GB, then pivot into a serious point about power creep and splatbook fatigue in long-running TTRPG lines.",
       "source": "https://www.rpgsite.net/news/21430-final-fantasy-vii-revelation-200gb-download-size-naoki-hamaguchi"
-    },
-    {
-      "title": "Trails in the Sky 2nd Chapter's Turn Order, Rules-First",
-      "why_now": "Global launch just happened, giving a concrete, playable system to dissect immediately.",
-      "angle": "Break down the JRPG's turn-based mechanics like a rules document and translate its initiative logic into tabletop-ready house rules",
-      "source": "https://www.rpgsite.net/news/21390-trails-in-the-sky-2nd-chapter-launch-trailer-download-available-now"
     }
   ]
 }

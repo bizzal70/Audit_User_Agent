@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-19T11:07:03+00:00",
+  "generated": "2026-09-20T11:07:15+00:00",
   "opportunities": [
     {
-      "title": "EtherHiding: North Korea and Iran Just Turned the Blockchain Into a Dead-Drop Network",
-      "why_now": "Chainalysis just documented a 420%/5.2x YoY surge in state-sponsored blockchain-assisted malware, with DPRK and Iran using onchain data as covert C2 infrastructure.",
-      "angle": "Explainer/analysis breaking down the EtherHiding technique, why immutability makes it unpatchable, and what it means for anyone running node infra or wallets — 'the ledger doesn't forget, and neither do they.'",
+      "title": "EtherHiding: North Korea and Iran Turned the Blockchain Into a Dead-Drop — And It Worked 420% Better",
+      "why_now": "Chainalysis just quantified a 420% surge in state-sponsored onchain malware, with a fresh technical writeup on the EtherHiding technique dropping the same day.",
+      "angle": "Explainer/analysis breaking down EtherHiding mechanics with a 'this was inevitable' framing — smart contracts as bulletproof hosting, why takedowns don't work on-chain",
       "source": "https://www.chainalysis.com/blog/etherhiding-blockchain-dead-drops/"
     },
     {
-      "title": "Haruko Got Hit — And 15 Institutional Clients Are Finding Out What 'Non-Custodial' Really Means",
-      "why_now": "A crypto tech/infra provider was breached with client funds lost, a fresh incident hitting the institutional side of the market that's supposed to be the 'safe' rail.",
-      "angle": "Incident post-mortem style breakdown of what Haruko's breach reveals about vendor/API risk in institutional crypto stacks, framed as a checklist of questions every fund should be asking their tech providers today.",
+      "title": "Haruko Got Hit and 15 Clients Lost Funds — Here's What Your Custody Stack Actually Depends On",
+      "why_now": "A crypto tech/infra provider was breached this week with real client losses, a live case study in third-party risk.",
+      "angle": "Incident post-mortem + checklist: what questions institutions should be asking vendors like Haruko before, not after",
       "source": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost"
     },
     {
-      "title": "The Bitcoin Toll Booth at Hormuz: How Iran Turned a Crypto Exchange Into a Sanctions Bypass",
-      "why_now": "Treasury just sanctioned BitBank for allegedly running bitcoin payments for IRGC-linked tolls on tankers transiting Hormuz — a live case study in crypto as sanctions-evasion rail amid rising Brent/hike odds.",
-      "angle": "Deep-dive on the mechanics of the toll scheme, why bitcoin (not stablecoins) was the tool of choice here, and what it signals for exchange compliance risk going forward.",
-      "source": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says"
+      "title": "Neutrl's NUSD Just Broke the Buck to 51 Cents — The Junior Tranche Always Eats It First",
+      "why_now": "NUSD redemptions opened at 51 cents with Strata's junior tranche facing wipeout, a textbook structured-yield blowup unfolding in real time.",
+      "angle": "'We've seen this movie' teardown of tranche mechanics and why yield-bearing stables keep finding new ways to break the peg",
+      "source": "https://thedefiant.io/news/defi/neutrl-opens-nusd-redemptions-at-51-cents-as-strata-junior-tranche-faces-wipeout"
     },
     {
-      "title": "Crypto Laundering Ring Tied to Contract Killings Just Got Rolled Up — Here's the Onchain Trail That Got Them",
-      "why_now": "UAE and Sweden just arrested seven people in a $7.1M laundering ring connected to contract killings, a rare case where crypto forensics directly intersects violent crime.",
-      "angle": "Trace-the-money style breakdown of how the ring moved funds and got caught, positioned as proof that 'anonymous' crypto laundering has a shelf life — good for the 'already priced' skepticism angle.",
-      "source": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings"
+      "title": "Bitcoin's 'Sharpest Rally in Two Years' Was Just Shorts Getting Liquidated — Not Demand",
+      "why_now": "Decrypt's own reporting shows the $80K reclaim was driven almost entirely by short liquidations, not organic buying, right as ETF inflows stayed tepid.",
+      "angle": "Market-structure debunk: separate the liquidation cascade from the narrative, with a note on how thin this rally's foundation is",
+      "source": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations"
     },
     {
-      "title": "O'Leary Says Bitcoin Hits $1M — But Buried in His Own Pitch Is the Quantum Bomb Nobody's Pricing In",
-      "why_now": "O'Leary's bullish $1M call comes with an explicit quantum-computing caveat, a rare moment a mainstream bull admits the security risk everyone else ignores in bull-market euphoria.",
-      "angle": "Contrarian markets-meets-security piece: use O'Leary's own admission as the hook to lay out where quantum resistance actually stands for BTC custody today, and why 'shrug it off' rallies never price tail risk.",
-      "source": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch"
+      "title": "The US Sanctioned an Iranian Exchange for Funding the IRGC — It's the Same Week State Hackers Hit a Record High",
+      "why_now": "BitBank sanctions over alleged IRGC bitcoin transfers land in the same news cycle as Chainalysis's report on Iran and North Korea driving a 5.2x surge in blockchain-assisted attacks.",
+      "angle": "Connect-the-dots piece tying sanctions enforcement to the malware surge data — state actors' crypto playbook end to end",
+      "source": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-19T11:07:03+00:00",
+  "generated": "2026-09-20T11:07:15+00:00",
   "opportunities": [
     {
-      "title": "Cisco's Second 'Perfect 10' in Weeks: The Exploited Zero-Day You Need to Patch Today",
-      "why_now": "Cisco just dropped another actively-exploited CVSS 10 flaw, and Dark Reading's API-auth deep dive shows a pattern worth flagging before more networks get popped.",
-      "angle": "Patch-cadence alert post: timeline of Cisco's back-to-back perfect-10s, exploit status, and a hard patch-by date",
+      "title": "Anthropic's Own AI Was Used to Hack OpenAI: When Your Rival's Chatbot Pwns Your Staff",
+      "why_now": "Multiple outlets (Register, Hacker News, SecurityWeek) confirmed researchers used Claude Opus 5 to chain flaws and take over OpenAI employee accounts, a landmark AI-on-AI offensive security story breaking right now.",
+      "angle": "Breach-digest deep dive: walk through the exploit chain, then pivot to 'if it can happen to OpenAI, it happens to you' inevitability framing.",
+      "source": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+    },
+    {
+      "title": "Cisco's 'Perfect 10' Zero-Day Is Already Being Exploited — Here's Your Patch-or-Perish Checklist",
+      "why_now": "Cisco disclosed and patched a CVSS 10.0 zero-day already under active exploitation, with Dark Reading tying it to broader API authentication failures.",
+      "angle": "Patch-cadence explainer: CVE details, exploitation timeline, and a blunt 'patch today or assume compromise' call to action for admins.",
       "source": "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180"
     },
     {
-      "title": "Researchers Used Claude to Hack OpenAI's Own Staff — Then an AI-Built Exploit Got Into Internal Code",
-      "why_now": "Two same-week stories (Register + SecurityWeek) show AI tools were used both offensively to breach OpenAI employees and to build the exploit that reached internal source — the loop just closed.",
-      "angle": "Threat-actor explainer connecting the two OpenAI stories into one 'AI hacking AI' narrative with a threat-model diagram",
-      "source": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517"
+      "title": "23 Million Gyazo Accounts Just Got Dumped — What a Screenshot App Breach Says About Your Attack Surface",
+      "why_now": "SecurityWeek reported a fresh breach exposing 23 million user records from the popular screenshot-sharing tool, a scale that demands attention.",
+      "angle": "Inevitable-breach digest entry: what was exposed, who's affected, and why 'low-risk' consumer apps keep becoming high-value targets.",
+      "source": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/"
     },
     {
-      "title": "Orkes Conductor's Pre-Auth RCE Is Already Being Exploited — Here's Your Patch-Or-Die Checklist",
-      "why_now": "THN and SecurityWeek both confirm active in-the-wild exploitation of a critical unauthenticated RCE in the Orkes Conductor workflow platform, a classic inevitable-breach setup.",
-      "angle": "CVE breakdown post: what Conductor does, exploit mechanics, IOC list, and patch/mitigation steps",
-      "source": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
-    },
-    {
-      "title": "CISA Flags 3 Linux Kernel Bugs Under Attack While Exploits Drop for 4 More — The Root-Access Pile-Up",
-      "why_now": "Same week, CISA adds three actively-exploited Linux kernel CVEs to KEV and public PoCs land for four separate local-root flaws — a patch-cadence nightmare for fleet admins.",
-      "angle": "Roundup/digest format: table of all 7 kernel CVEs, exploit status, and prioritized patch order",
-      "source": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
-    },
-    {
-      "title": "Google Gemini 'Accidentally' Hacked a Real Company Because a Test Domain Mix-Up",
-      "why_now": "An agentic AI breached live company systems due to a security-test misconfiguration, landing right alongside Dark Reading's piece on AI agents modifying themselves without human input — the agentic-AI risk story is compounding fast.",
-      "angle": "Incident post-mortem: what went wrong, why 'test vs prod' still trips up AI agents, and what this means for agentic AI governance",
+      "title": "Google's Gemini Agent Accidentally Hacked a Real Company Because Someone Fat-Fingered a Test Domain",
+      "why_now": "Hacker News broke the story that a security test mix-up let Gemini autonomously breach live production systems, a perfect cautionary tale for agentic AI hype.",
+      "angle": "Snarky breakdown of the 'oops' incident as proof that agentic AI security is nobody's solved problem yet, tying to the Register's 'billion-dollar challenge' piece.",
       "source": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+    },
+    {
+      "title": "North Korea's Fake Job Interviews Have Now Infected 30,000 Devices — Yes, Really",
+      "why_now": "Both The Register and Bleeping Computer confirmed WaterPlum's fake-interview malware campaign has scaled to 30,000 infected devices worldwide.",
+      "angle": "Threat-actor spotlight: how the social-engineering lure works, why it keeps succeeding, and a checklist for job-seekers/HR teams to spot it.",
+      "source": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
     }
   ]
 }
