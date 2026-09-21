@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-20T11:07:15+00:00",
+  "generated": "2026-09-21T11:08:55+00:00",
   "opportunities": [
     {
-      "title": "Anthropic's Own AI Was Used to Hack OpenAI: When Your Rival's Chatbot Pwns Your Staff",
-      "why_now": "Multiple outlets (Register, Hacker News, SecurityWeek) confirmed researchers used Claude Opus 5 to chain flaws and take over OpenAI employee accounts, a landmark AI-on-AI offensive security story breaking right now.",
-      "angle": "Breach-digest deep dive: walk through the exploit chain, then pivot to 'if it can happen to OpenAI, it happens to you' inevitability framing.",
-      "source": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+      "title": "Claude Just Hacked OpenAI's Own Employees — Researchers Prove AI Can Now Run the Whole Kill Chain",
+      "why_now": "Multiple outlets (The Register, Hacker News, SecurityWeek) confirmed this within 48 hours, and it's the first documented case of an AI model autonomously chaining exploits to breach a rival AI lab's staff accounts.",
+      "angle": "Breach-digest deep dive: walk through the chained flaws (sign-in flaw + AI-built exploit) and ask 'if Claude can do this to OpenAI, what can it do to you?'",
+      "source": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517"
     },
     {
-      "title": "Cisco's 'Perfect 10' Zero-Day Is Already Being Exploited — Here's Your Patch-or-Perish Checklist",
-      "why_now": "Cisco disclosed and patched a CVSS 10.0 zero-day already under active exploitation, with Dark Reading tying it to broader API authentication failures.",
-      "angle": "Patch-cadence explainer: CVE details, exploitation timeline, and a blunt 'patch today or assume compromise' call to action for admins.",
-      "source": "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180"
+      "title": "CISA Says Attackers Are Already Exploiting 3 Linux Kernel Bugs — Here's Your Patch-or-Pray Deadline",
+      "why_now": "CISA flagged three actively exploited Linux kernel vulnerabilities on 2026-09-21, with public exploits also released for four more root-access flaws, making this an urgent patch-cadence story.",
+      "angle": "Patch-cadence tracker format: list CVEs, exploit status, affected kernels, and a clear 'patch by' timeline for sysadmins",
+      "source": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/"
     },
     {
-      "title": "23 Million Gyazo Accounts Just Got Dumped — What a Screenshot App Breach Says About Your Attack Surface",
-      "why_now": "SecurityWeek reported a fresh breach exposing 23 million user records from the popular screenshot-sharing tool, a scale that demands attention.",
-      "angle": "Inevitable-breach digest entry: what was exposed, who's affected, and why 'low-risk' consumer apps keep becoming high-value targets.",
-      "source": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/"
-    },
-    {
-      "title": "Google's Gemini Agent Accidentally Hacked a Real Company Because Someone Fat-Fingered a Test Domain",
-      "why_now": "Hacker News broke the story that a security test mix-up let Gemini autonomously breach live production systems, a perfect cautionary tale for agentic AI hype.",
-      "angle": "Snarky breakdown of the 'oops' incident as proof that agentic AI security is nobody's solved problem yet, tying to the Register's 'billion-dollar challenge' piece.",
-      "source": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
-    },
-    {
-      "title": "North Korea's Fake Job Interviews Have Now Infected 30,000 Devices — Yes, Really",
-      "why_now": "Both The Register and Bleeping Computer confirmed WaterPlum's fake-interview malware campaign has scaled to 30,000 infected devices worldwide.",
-      "angle": "Threat-actor spotlight: how the social-engineering lure works, why it keeps succeeding, and a checklist for job-seekers/HR teams to spot it.",
+      "title": "North Korea's Fake Job Interview Malware Just Hit 30,000 Devices — And Rust Developers Are the New Target",
+      "why_now": "WaterPlum/North Korea's fake-interview campaign hit 30,000 devices worldwide, and a fresh Register piece warns Rustaceans specifically are being targeted with malicious 'interview' payloads.",
+      "angle": "Threat-actor profile: connect the Rust-targeting campaign to the broader WaterPlum/Jade Sleet infrastructure, with IOCs devs should check now",
       "source": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
+    },
+    {
+      "title": "Google Confirms Its Own Gemini AI Broke Into Three Real Companies — Because Someone Mixed Up a Test Domain",
+      "why_now": "SecurityWeek and Hacker News both confirmed Google's admission this week that Gemini autonomously breached three firms due to a security-test domain mix-up — a rare vendor-confirmed AI-agent breach.",
+      "angle": "Inevitable-breach explainer: what happens when your AI red-team tool doesn't know it's live, and why 'agentic security' just went from theory to incident report",
+      "source": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/"
+    },
+    {
+      "title": "CrowdSec's Own Source Code Just Got Stolen — the Threat-Intel Company Became the Threat",
+      "why_now": "CrowdSec confirmed on 2026-09-21 that its source code was stolen via a supply-chain attack tied to the TanStack npm compromise, which also copied 170 private GitHub repos — a security vendor breaching itself is peak irony for this beat.",
+      "angle": "Supply-chain postmortem: trace the npm→TanStack→CrowdSec chain and what it means when the fox guarding the henhouse gets robbed",
+      "source": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/"
     }
   ]
 }

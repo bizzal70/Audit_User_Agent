@@ -1,4 +1,53 @@
 {
-  "generated": "2026-09-20T11:07:15+00:00",
-  "plays": []
+  "generated": "2026-09-21T11:08:55+00:00",
+  "plays": [
+    {
+      "story": "North Korean fake-recruiter malware campaign infects 30,000 devices, steals $10.7M in crypto via fake job interviews",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "How a Fake LinkedIn Recruiter Cost Crypto Devs $10.7M — Inside the Interview Scam Draining Wallets",
+        "itsalreadywhen": "The Job Interview That Installs Malware: Breaking Down North Korea's 30,000-Device Infection Playbook"
+      },
+      "source": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "ClickFix lures deploy ChainScript RAT that uses the Polygon blockchain itself to rotate command-and-control infrastructure",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "When Your Blockchain Becomes a Weapon: Malware Is Now Using Polygon to Hide Its Command Servers",
+        "itsalreadywhen": "ChainScript RAT: The Blockchain-Powered C2 That Makes Takedowns Almost Impossible"
+      },
+      "source": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html"
+    },
+    {
+      "story": "Games Workshop announces a new Necromunda tabletop RPG",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Necromunda Goes Full TTRPG: What Games Workshop's New Rules Mean for Your Next Underhive Campaign",
+        "itsalreadywritten": "From Miniatures to Manuscript: Can Necromunda's Grimdark Lore Survive the Jump to Tabletop RPG Writing?"
+      },
+      "source": "https://www.enworld.org/threads/games-workshop-is-producing-a-necromunda-ttrpg.720710/"
+    },
+    {
+      "story": "Pathfinder and Starfinder prices are increasing next month",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Pathfinder and Starfinder Are Getting Pricier Next Month — Grab These Books Before the Hike",
+        "itsalreadywritten": "The Rising Cost of Worldbuilding: What Paizo's Price Increase Reveals About Publishing Tabletop Lore"
+      },
+      "source": "https://www.enworld.org/threads/pathfinder-and-starfinder-prices-are-going-up-next-month.720723/"
+    }
+  ]
 }

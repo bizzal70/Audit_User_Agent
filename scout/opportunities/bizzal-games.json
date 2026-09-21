@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-20T11:07:15+00:00",
+  "generated": "2026-09-21T11:08:55+00:00",
   "opportunities": [
     {
-      "title": "Diablo IV's Necromancer Just Solved Your 5e Minion Action-Economy Problem",
-      "why_now": "Diablo IV hit Switch 2 this week, reviving chatter about necromancer minion management right as players ask how to run Animate Dead armies without grinding the table to a halt.",
-      "angle": "Short: show the Diablo 'command all minions' UI, then give the actual 5e ruling on how many actions a Zombie/Skeleton horde really costs a caster per RAW.",
-      "source": "https://www.rpgsite.net/feature/21421-diablo-4-nintendo-switch-2-port-review-impressions-vs-ps5-pro-steam-deck-pc-ps4"
+      "title": "Stealing Sly Flourish's Initiative Fix: Does 'Elective Action Order' Break Shadowdark?",
+      "why_now": "A fresh initiative variant just dropped from a major 5e voice, and it's the kind of crunchy rules debate this channel exists to settle.",
+      "angle": "60-sec rules ruling short: run the variant through a Shadowdark combat round and DCC crit-die interaction, verdict at the end",
+      "source": "https://slyflourish.com/elective_action_order.html?rss=1"
     },
     {
-      "title": "Control's Telekinesis Is a Better Ruling Than Half the Tables Use for the Spell",
-      "why_now": "Control Resonant just reviewed with its telekinesis-throwing combat as the headline mechanic, giving a visual hook to correct a commonly-misplayed 5e spell.",
-      "angle": "Show a Control telekinesis clip/screenshot, then break down RAW range/weight limits and the correct action to hurl an object as an attack.",
-      "source": "https://www.rpgsite.net/review/21427-control-resonant-review"
+      "title": "GW Is Making a Necromunda TTRPG — Here's the D&D Tactic It's Going to Steal",
+      "why_now": "Games Workshop just confirmed a Necromunda TTRPG, giving tabletop audiences a reason to care about gang-warfare tactics right now.",
+      "angle": "Creature/unit tactic short: break down cover-and-suppression mechanics and how a GM could reskin them as a 5e/DCC skirmish encounter",
+      "source": "https://www.enworld.org/threads/games-workshop-is-producing-a-necromunda-ttrpg.720710/"
     },
     {
-      "title": "Monster Hunter Wilds' Two AI Modes Are Why Your Dragon Fights Are Boring",
-      "why_now": "Capcom just detailed Wilds' docked vs handheld behavior differences on Switch 2, a good excuse to talk about monsters that actually change tactics mid-fight.",
-      "angle": "Creature tactic breakdown: give a dragon/owlbear two behavior 'modes' (aggressive vs wounded) like a boss AI, with specific trigger HP thresholds.",
-      "source": "https://www.rpgsite.net/news/21431-monster-hunter-wilds-switch-2-resolution-frame-rate-revealed-docked-handheld-capcom"
+      "title": "Pathfinder's Price Hike Just Made Shadowdark's One-Book Design Look Genius",
+      "why_now": "EN World reported Paizo's price increase this week, a direct opening to contrast bloat-heavy systems against lean OSR design.",
+      "angle": "Wry system-comparison short: cost-per-session math, ending on a spell/rule use-case that Shadowdark handles in one line vs. Pathfinder's three books",
+      "source": "https://www.enworld.org/threads/pathfinder-and-starfinder-prices-are-going-up-next-month.720723/"
     },
     {
-      "title": "Persona's Shadow Self Is the Doppelganger Encounter Your Table Is Sleeping On",
-      "why_now": "Atlus just dropped a 30th-anniversary video showing 'shadow versions' of every character, a timely visual hook for building mirror-match encounters.",
-      "angle": "Creature tactic: how to build a shadow-copy of a PC as a 5e statblock swap (same stats, inverted alignment/tactics) for a quick memorable boss.",
-      "source": "https://www.rpgsite.net/news/21434-persona-30th-anniversary-celebration-video-shadow-version-atlus"
+      "title": "Modiphius Is Dumping £5 Hardcovers — Which Ones Actually Steal Ideas Your DM Can Use",
+      "why_now": "The warehouse clearance sale is time-limited and gives a legit reason to send viewers shopping while tying back to rules content.",
+      "angle": "Rapid-fire 'loot the sale' short: pick 2-3 cheap hardcovers and extract one stealable mechanic each (an encounter table, a crit chart) for 5e/DCC use",
+      "source": "https://www.enworld.org/threads/modiphius-warehouse-clearance-sale-includes-hardcover-games-for-just-%C2%A35.720720/"
     },
     {
-      "title": "Bayonetta's Witch Time Is Uncanny Dodge — Here's the RAW Version",
-      "why_now": "The new Stellar Blade x Bayonetta trailer is putting Witch Time back in feeds this week, a perfect visual anchor for explaining a frequently botched Rogue class feature.",
-      "angle": "Quick ruling short: clip of Witch Time slow-mo dodge, cut to RAW text on Uncanny Dodge — when it triggers, what it doesn't do (no reaction cost, single attack only).",
-      "source": "https://www.rpgsite.net/news/21436-new-stellar-blade-bayonetta-collaboration-gameplay-outfits-trailer-costumes"
+      "title": "'Dungeon Masters' Is Doing a WoW Season — Here's the Boss Fight Ruling They'll Have to Get Right",
+      "why_now": "The actual-play show's WoW-set season announcement is a built-in audience for a creature-tactic breakdown using a recognizable IP hook.",
+      "angle": "Creature tactic short: pick a classic WoW boss mechanic (enrage timer, add phase) and translate it into a legal 5e/DCC monster stat block ruling",
+      "source": "https://www.enworld.org/threads/dungeon-masters-new-actual-play-season-will-be-set-in-world-of-warcraft.720722/"
     }
   ]
 }

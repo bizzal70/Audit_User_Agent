@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-20T11:07:15+00:00",
+  "generated": "2026-09-21T11:08:55+00:00",
   "opportunities": [
     {
-      "title": "EtherHiding: North Korea and Iran Turned the Blockchain Into a Dead-Drop — And It Worked 420% Better",
-      "why_now": "Chainalysis just quantified a 420% surge in state-sponsored onchain malware, with a fresh technical writeup on the EtherHiding technique dropping the same day.",
-      "angle": "Explainer/analysis breaking down EtherHiding mechanics with a 'this was inevitable' framing — smart contracts as bulletproof hosting, why takedowns don't work on-chain",
-      "source": "https://www.chainalysis.com/blog/etherhiding-blockchain-dead-drops/"
+      "title": "The Recruiter Was Never Real: How North Korea Turned 30,000 Job Interviews Into a $10.7M Heist",
+      "why_now": "Fresh Cointelegraph report quantifies a fake-recruiter campaign at a scale that shows social engineering, not smart contracts, is still the biggest attack surface in crypto.",
+      "angle": "Security post-mortem breaking down the infection funnel (fake job → malware → wallet drain) with a checklist for spotting the same lure next time",
+      "source": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Haruko Got Hit and 15 Clients Lost Funds — Here's What Your Custody Stack Actually Depends On",
-      "why_now": "A crypto tech/infra provider was breached this week with real client losses, a live case study in third-party risk.",
-      "angle": "Incident post-mortem + checklist: what questions institutions should be asking vendors like Haruko before, not after",
-      "source": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost"
+      "title": "They Didn't Hack a Wallet. They Kidnapped a Family: Inside the Latest French Wrench Attack",
+      "why_now": "A crypto worker's children were held hostage in France for $46,000, marking an escalation from wallet-draining to physical extortion that's becoming a pattern in France specifically.",
+      "angle": "Sober security explainer on why self-custody visibility (on-chain flexing, KYC leaks) is now a physical safety issue, with concrete opsec steps for high-net-worth holders",
+      "source": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken"
     },
     {
-      "title": "Neutrl's NUSD Just Broke the Buck to 51 Cents — The Junior Tranche Always Eats It First",
-      "why_now": "NUSD redemptions opened at 51 cents with Strata's junior tranche facing wipeout, a textbook structured-yield blowup unfolding in real time.",
-      "angle": "'We've seen this movie' teardown of tranche mechanics and why yield-bearing stables keep finding new ways to break the peg",
-      "source": "https://thedefiant.io/news/defi/neutrl-opens-nusd-redemptions-at-51-cents-as-strata-junior-tranche-faces-wipeout"
+      "title": "Polymarket's CEO Chose Growth Over Compliance — Then a $10M Fraud Attempt Showed the Bill",
+      "why_now": "WSJ's report ties a near-miss fraud directly to a documented internal decision to prioritize growth, giving a rare paper trail from governance choice to security incident.",
+      "angle": "Governance-as-security piece: map the decision points that let the fraud attempt get as close as it did, framed as a cautionary tale for every platform scaling fast",
+      "source": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875"
     },
     {
-      "title": "Bitcoin's 'Sharpest Rally in Two Years' Was Just Shorts Getting Liquidated — Not Demand",
-      "why_now": "Decrypt's own reporting shows the $80K reclaim was driven almost entirely by short liquidations, not organic buying, right as ETF inflows stayed tepid.",
-      "angle": "Market-structure debunk: separate the liquidation cascade from the narrative, with a note on how thin this rally's foundation is",
+      "title": "224 People Followed an 'AI Bot' Tutorial and Drained Their Own Wallets — Here's the Script They Ran",
+      "why_now": "A fresh Defiant report on fake AI-trading-bot tutorials shows the self-drainer social engineering pattern is scaling with the AI hype cycle right now.",
+      "angle": "Breakdown of the exact tutorial-to-drainer flow with a 'red flags in the video' annotated walkthrough readers can use to vet any 'set up this bot' content",
+      "source": "https://thedefiant.io/news/security/fake-ai-bot-tutorials-tricked-224-victims-into-deploying-their-own-drainers"
+    },
+    {
+      "title": "Bitcoin's 'Sharpest Rally in Two Years' Was Just Shorts Getting Liquidated — Not Conviction",
+      "why_now": "Multiple outlets confirm the $85K move was driven almost entirely by $648M+ in forced short liquidations, not spot demand, which is exactly the kind of fragile rally this audience has seen unwind before.",
+      "angle": "Skeptical markets-are-security-too take: explain the mechanics of a liquidation cascade and why leverage-driven pumps are a structural risk, not a bull signal",
       "source": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations"
-    },
-    {
-      "title": "The US Sanctioned an Iranian Exchange for Funding the IRGC — It's the Same Week State Hackers Hit a Record High",
-      "why_now": "BitBank sanctions over alleged IRGC bitcoin transfers land in the same news cycle as Chainalysis's report on Iran and North Korea driving a 5.2x surge in blockchain-assisted attacks.",
-      "angle": "Connect-the-dots piece tying sanctions enforcement to the malware surge data — state actors' crypto playbook end to end",
-      "source": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462"
     }
   ]
 }
