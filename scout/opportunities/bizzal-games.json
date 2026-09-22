@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-21T11:08:55+00:00",
+  "generated": "2026-09-22T11:08:20+00:00",
   "opportunities": [
     {
-      "title": "Stealing Sly Flourish's Initiative Fix: Does 'Elective Action Order' Break Shadowdark?",
-      "why_now": "A fresh initiative variant just dropped from a major 5e voice, and it's the kind of crunchy rules debate this channel exists to settle.",
-      "angle": "60-sec rules ruling short: run the variant through a Shadowdark combat round and DCC crit-die interaction, verdict at the end",
+      "title": "Elective Action Order: Should You Ditch d20 Initiative? A GM's Verdict",
+      "why_now": "Sly Flourish just published a full initiative variant breakdown that's already circulating in GM circles this week.",
+      "angle": "Rules-ruling short: run one combat round both ways (standard vs elective) and give a blunt verdict on table speed and tactical depth.",
       "source": "https://slyflourish.com/elective_action_order.html?rss=1"
     },
     {
-      "title": "GW Is Making a Necromunda TTRPG — Here's the D&D Tactic It's Going to Steal",
-      "why_now": "Games Workshop just confirmed a Necromunda TTRPG, giving tabletop audiences a reason to care about gang-warfare tactics right now.",
-      "angle": "Creature/unit tactic short: break down cover-and-suppression mechanics and how a GM could reskin them as a 5e/DCC skirmish encounter",
-      "source": "https://www.enworld.org/threads/games-workshop-is-producing-a-necromunda-ttrpg.720710/"
+      "title": "Khezu Taught Me How to Run an Ambush Predator in 5e/Shadowdark",
+      "why_now": "Monster Hunter Wilds just dropped new Khezu gameplay showing its blind electric-ambush ceiling-lurk behavior.",
+      "angle": "Creature tactic short: translate Khezu's hide-strike-retreat pattern into a Roper/Mimic-style ambush stat block and initiative trick.",
+      "source": "https://www.rpgsite.net/news/21443-monster-hunter-wilds-ascendance-khezu-gameplay"
     },
     {
-      "title": "Pathfinder's Price Hike Just Made Shadowdark's One-Book Design Look Genius",
-      "why_now": "EN World reported Paizo's price increase this week, a direct opening to contrast bloat-heavy systems against lean OSR design.",
-      "angle": "Wry system-comparison short: cost-per-session math, ending on a spell/rule use-case that Shadowdark handles in one line vs. Pathfinder's three books",
-      "source": "https://www.enworld.org/threads/pathfinder-and-starfinder-prices-are-going-up-next-month.720723/"
+      "title": "Dune's Sandworm Made Me Rethink Purple Worm Tactics",
+      "why_now": "Dune: Awakening's console launch and new solo mode are putting sandworm-survival mechanics in front of a wide audience right now.",
+      "angle": "Creature tactic short: purple worm swallow/regurgitate ruling plus a burrow-detection house rule for solo-survivor scenarios.",
+      "source": "https://www.rpgsite.net/news/21445-dune-awakenings-full-console-launch-arrives-tomorrow-new-single-player-mode-available-for-all"
     },
     {
-      "title": "Modiphius Is Dumping £5 Hardcovers — Which Ones Actually Steal Ideas Your DM Can Use",
-      "why_now": "The warehouse clearance sale is time-limited and gives a legit reason to send viewers shopping while tying back to rules content.",
-      "angle": "Rapid-fire 'loot the sale' short: pick 2-3 cheap hardcovers and extract one stealable mechanic each (an encounter table, a crit chart) for 5e/DCC use",
-      "source": "https://www.enworld.org/threads/modiphius-warehouse-clearance-sale-includes-hardcover-games-for-just-%C2%A35.720720/"
+      "title": "Whip Weapons Are Broken RAW — Here's the Fix (Castlevania Made Me Check)",
+      "why_now": "Castlevania: Belmont's Curse demo drops Oct 1 and its whip-focused hunter is fresh in players' feeds.",
+      "angle": "Rules ruling short: clarify reach/disarm interactions for whip-type weapons in 5e and the tighter Shadowdark equivalent.",
+      "source": "https://www.rpgsite.net/news/21441-castlevania-belmonts-curse-demo-launches-on-october-1-save-data-carries-over-to-full-game"
     },
     {
-      "title": "'Dungeon Masters' Is Doing a WoW Season — Here's the Boss Fight Ruling They'll Have to Get Right",
-      "why_now": "The actual-play show's WoW-set season announcement is a built-in audience for a creature-tactic breakdown using a recognizable IP hook.",
-      "angle": "Creature tactic short: pick a classic WoW boss mechanic (enrage timer, add phase) and translate it into a legal 5e/DCC monster stat block ruling",
-      "source": "https://www.enworld.org/threads/dungeon-masters-new-actual-play-season-will-be-set-in-world-of-warcraft.720722/"
+      "title": "Keep Driving's Fuel Gauge Is a Better Torch Rule Than Yours",
+      "why_now": "Keep Driving's Sept 28 console launch is spotlighting its tense resource-management loop this week.",
+      "angle": "Spell/resource-use-case short: apply the same tension to Shadowdark torch tracking with a stricter, road-trip-style depletion house rule.",
+      "source": "https://www.rpgsite.net/news/21444-atmospheric-management-rpg-keep-driving-ps5-xbox-series-nintendo-switch-release-date-pc-steam-modding-support"
     }
   ]
 }

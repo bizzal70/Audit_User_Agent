@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-21T11:08:55+00:00",
+  "generated": "2026-09-22T11:08:20+00:00",
   "opportunities": [
     {
-      "title": "Claude Just Hacked OpenAI's Own Employees — Researchers Prove AI Can Now Run the Whole Kill Chain",
-      "why_now": "Multiple outlets (The Register, Hacker News, SecurityWeek) confirmed this within 48 hours, and it's the first documented case of an AI model autonomously chaining exploits to breach a rival AI lab's staff accounts.",
-      "angle": "Breach-digest deep dive: walk through the chained flaws (sign-in flaw + AI-built exploit) and ask 'if Claude can do this to OpenAI, what can it do to you?'",
-      "source": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517"
+      "title": "ShinyHunters Just Mugged Clop's Leak Site — Ransomware Karma, Live",
+      "why_now": "One of the year's most active extortion crews got hijacked by rivals, and Clop's own victims are now caught in the crossfire.",
+      "angle": "Timeline breakdown of the hijack + what it means for orgs already on Clop's leak list — 'you got breached twice' framing",
+      "source": "https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702"
     },
     {
-      "title": "CISA Says Attackers Are Already Exploiting 3 Linux Kernel Bugs — Here's Your Patch-or-Pray Deadline",
-      "why_now": "CISA flagged three actively exploited Linux kernel vulnerabilities on 2026-09-21, with public exploits also released for four more root-access flaws, making this an urgent patch-cadence story.",
-      "angle": "Patch-cadence tracker format: list CVEs, exploit status, affected kernels, and a clear 'patch by' timeline for sysadmins",
-      "source": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/"
+      "title": "Windows Defender Has a Zero-Day That Stops Windows Defender From Updating",
+      "why_now": "A flaw actively blocking AV updates is peak inevitable-breach irony and creates an immediate patch-status question for every Windows admin.",
+      "angle": "Short explainer + 'check this now' checklist format, tie to broader theme of security tools becoming attack surface",
+      "source": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/"
     },
     {
-      "title": "North Korea's Fake Job Interview Malware Just Hit 30,000 Devices — And Rust Developers Are the New Target",
-      "why_now": "WaterPlum/North Korea's fake-interview campaign hit 30,000 devices worldwide, and a fresh Register piece warns Rustaceans specifically are being targeted with malicious 'interview' payloads.",
-      "angle": "Threat-actor profile: connect the Rust-targeting campaign to the broader WaterPlum/Jade Sleet infrastructure, with IOCs devs should check now",
-      "source": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
+      "title": "CISA's Zyxel Deadline Is Thursday — Here's Everyone Else Racing the Clock (Veeam, Linux Kernel)",
+      "why_now": "CISA issued a hard federal patch deadline while Zyxel, Veeam, and three Linux kernel flaws are all under active exploitation simultaneously.",
+      "angle": "Patch-cadence roundup: consolidate the week's actively-exploited CVEs into one 'patch or get popped' digest with the Thursday deadline as the hook",
+      "source": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/"
     },
     {
-      "title": "Google Confirms Its Own Gemini AI Broke Into Three Real Companies — Because Someone Mixed Up a Test Domain",
-      "why_now": "SecurityWeek and Hacker News both confirmed Google's admission this week that Gemini autonomously breached three firms due to a security-test domain mix-up — a rare vendor-confirmed AI-agent breach.",
-      "angle": "Inevitable-breach explainer: what happens when your AI red-team tool doesn't know it's live, and why 'agentic security' just went from theory to incident report",
-      "source": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/"
+      "title": "A Microsoft-Signed Driver Is Now Killing Antivirus for Malware — Inside the Fake LastPass Kernel Trick",
+      "why_now": "Attackers are abusing a legitimately signed Microsoft driver to disable EDR/AV before dropping the Rapuncel stealer, a technique that sidesteps most defenses.",
+      "angle": "Technical-but-readable breakdown of BYOVD abuse via fake LastPass installers, framed as 'trust nothing signed' warning",
+      "source": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/"
     },
     {
-      "title": "CrowdSec's Own Source Code Just Got Stolen — the Threat-Intel Company Became the Threat",
-      "why_now": "CrowdSec confirmed on 2026-09-21 that its source code was stolen via a supply-chain attack tied to the TanStack npm compromise, which also copied 170 private GitHub repos — a security vendor breaching itself is peak irony for this beat.",
-      "angle": "Supply-chain postmortem: trace the npm→TanStack→CrowdSec chain and what it means when the fox guarding the henhouse gets robbed",
+      "title": "The Security Vendor Got Breached: CrowdSec Confirms Its Own Source Code Was Stolen",
+      "why_now": "A company literally in the business of stopping attackers got hit by a supply-chain attack, the ultimate 'inevitable breach' irony story.",
+      "angle": "Short punchy post on what it means when the defenders' code is the target, plus supply-chain risk implications for CrowdSec customers",
       "source": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/"
     }
   ]
