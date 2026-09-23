@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-22T11:08:20+00:00",
+  "generated": "2026-09-23T11:08:46+00:00",
   "opportunities": [
     {
-      "title": "The Elective Action Order, Annotated: What This Initiative Variant Actually Changes at the Table",
-      "why_now": "Sly Flourish just published a fresh initiative variant that's tailor-made for a rules-first breakdown.",
-      "angle": "Line-by-line rules dissection: compare Elective Action Order against standard initiative, side-effects on action economy, and a verdict on when to run it",
+      "title": "Ditch Initiative Rolls Forever? We Rules-Check Sly Flourish's 'Elective Action Order'",
+      "why_now": "A fresh, fully-specified initiative variant just dropped that directly challenges core D&D turn structure—prime territory for a rules-first breakdown.",
+      "angle": "Mechanical breakdown: compare RAW initiative vs. the Elective Action Order line-by-line, flag edge cases (surprise, readied actions, multi-attack) it doesn't address",
       "source": "https://slyflourish.com/elective_action_order.html?rss=1"
     },
     {
-      "title": "Khezu's Ascendance Kit, Statted Out: Reading Monster Hunter Wilds' New Moveset Like a Bestiary Entry",
-      "why_now": "The Khezu Ascendance reveal gives a concrete, timely moveset to reverse-engineer into stat-block logic.",
-      "angle": "Take the revealed Ascendance mechanics and translate them into a tabletop-style monster stat block/tactics writeup",
-      "source": "https://www.rpgsite.net/news/21443-monster-hunter-wilds-ascendance-khezu-gameplay"
+      "title": "Pathfinder & Starfinder Are Getting More Expensive Next Month — Here's What You're Actually Paying For",
+      "why_now": "Paizo's price hike is confirmed and dated, giving readers a concrete before/after to react to.",
+      "angle": "News-with-teeth: list old vs new prices per product line, note which books/subscriptions are affected and when the change hits carts",
+      "source": "https://www.enworld.org/threads/pathfinder-and-starfinder-prices-are-going-up-next-month.720721/"
     },
     {
-      "title": "Fortune's Weave, Rules-First: What Fire Emblem's Part III Map Design Says About Encounter Balancing",
-      "why_now": "The Part III walkthrough just dropped, giving a fresh tactics map to analyze structurally.",
-      "angle": "Break down the walkthrough's encounter design into transferable tactical-RPG encounter-building principles",
-      "source": "https://www.rpgsite.net/guide/21433-fire-emblem-fortunes-weave-part-iii-salvation-walkthrough"
+      "title": "D&D's World of Warcraft Book: What the Preview Actually Tells Us About New Rules Content",
+      "why_now": "WotC just started previewing the crossover book, giving the first real look at mechanics rather than marketing fluff.",
+      "angle": "Rules-parsing thread: extract every stat block, subclass, or system tweak shown in the preview and flag what's confirmed vs. speculative",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-is-starting-to-preview-its-world-of-warcraft-book.720753/"
     },
     {
-      "title": "Dune: Awakening Just Wrote an Optional Rule Mid-Launch — Here's How to Read a Solo Mode Patch",
-      "why_now": "The single-player mode ships alongside tomorrow's full console launch, a live case of a studio adding an official variant rule post-launch.",
-      "angle": "Treat the solo mode as a 'designer's note' and analyze what it implies about the base ruleset's balance assumptions",
-      "source": "https://www.rpgsite.net/news/21445-dune-awakenings-full-console-launch-arrives-tomorrow-new-single-player-mode-available-for-all"
+      "title": "Games Workshop's Necromunda TTRPG: Will It Use 40k's Rules Chassis or Build New?",
+      "why_now": "GW just confirmed the project, and rules-first fans want to know the system before the fluff.",
+      "angle": "Speculative rules analysis grounded in GW's existing TTRPG track record (Wrath & Glory, Age of Sigmar RPG) to predict mechanics",
+      "source": "https://www.enworld.org/threads/games-workshop-is-producing-a-necromunda-ttrpg.720710/"
     },
     {
-      "title": "Keep Driving's Resource Loop, Decoded: A Management RPG's Rules Skeleton Worth Stealing for Your Next Survival One-Shot",
-      "why_now": "Keep Driving's September 28 console release is a fresh, concrete system to mine for tabletop-portable mechanics.",
-      "angle": "Systems teardown of its management loop framed as a toolbox for GMs designing survival/road-trip TTRPG subsystems",
-      "source": "https://www.rpgsite.net/news/21444-atmospheric-management-rpg-keep-driving-ps5-xbox-series-nintendo-switch-release-date-pc-steam-modding-support"
+      "title": "The New 'Build a True Adventurer' Species Rules: A Line-by-Line Read",
+      "why_now": "A brand-new player species and rotating dungeon mechanic just published, offering fresh crunch to dissect before the community consensus forms.",
+      "angle": "Crunch review: walk through the species traits and rotating dungeon mechanic, compare to existing published species for power-level balance",
+      "source": "https://www.enworld.org/threads/truly-build-an-adventurer-with-this-new-species-and-explore-a-rotating-dungeon.720735/"
     }
   ]
 }

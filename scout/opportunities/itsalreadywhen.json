@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-22T11:08:20+00:00",
+  "generated": "2026-09-23T11:08:46+00:00",
   "opportunities": [
     {
-      "title": "ShinyHunters Just Mugged Clop's Leak Site — Ransomware Karma, Live",
-      "why_now": "One of the year's most active extortion crews got hijacked by rivals, and Clop's own victims are now caught in the crossfire.",
-      "angle": "Timeline breakdown of the hijack + what it means for orgs already on Clop's leak list — 'you got breached twice' framing",
+      "title": "Patch Now or Get Popped: F5 BIG-IP, Check Point, and Arista Zero-Days All Under Active Exploit This Week",
+      "why_now": "Three unrelated vendors disclosed actively-exploited zero-days within 48 hours, giving readers a single urgent patch-cadence roundup.",
+      "angle": "Rapid-fire digest format: CVE, vendor, exploitation status, patch deadline for each; end with a 'if you only patch one thing today' verdict.",
+      "source": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/"
+    },
+    {
+      "title": "ShinyHunters Says They Hacked the FBI — And They Want an Apology, Not Money",
+      "why_now": "The claim, denial-of-motive angle, and demand for a threat-report retraction are unfolding across multiple outlets right now, making it a hot breaking-breach story.",
+      "angle": "Timeline/explainer piece tracking the claim, what data is allegedly stolen (agents, job applicants), and why the group insists it's not financial — with a running-tally update box.",
+      "source": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385"
+    },
+    {
+      "title": "Meet CLOSEDQUORUM: The Malware That Lets an AI Model Decide What to Do After It Breaks In",
+      "why_now": "This is a genuinely novel threat-actor capability — AI picking post-compromise actions autonomously — that fits the site's inevitable-breach beat with a fresh AI-security twist.",
+      "angle": "Threat-actor profile/explainer: how it works, why it's a step-change from scripted post-exploitation kits, and what defenders should watch for.",
+      "source": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435"
+    },
+    {
+      "title": "Cl0p Gets Ransomed by ShinyHunters — Now Its Victims Are Exposed Twice",
+      "why_now": "A ransomware gang getting hijacked by a rival is rare, dramatic, and directly threatens Cl0p's existing victim list, a real breach-cascade story.",
+      "angle": "Threat-actor drama piece framed as 'crime doesn't pay (the criminals)' with a sidebar on what Cl0p victims should do now that their data may leak twice.",
       "source": "https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702"
     },
     {
-      "title": "Windows Defender Has a Zero-Day That Stops Windows Defender From Updating",
-      "why_now": "A flaw actively blocking AV updates is peak inevitable-breach irony and creates an immediate patch-status question for every Windows admin.",
-      "angle": "Short explainer + 'check this now' checklist format, tie to broader theme of security tools becoming attack surface",
-      "source": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/"
-    },
-    {
-      "title": "CISA's Zyxel Deadline Is Thursday — Here's Everyone Else Racing the Clock (Veeam, Linux Kernel)",
-      "why_now": "CISA issued a hard federal patch deadline while Zyxel, Veeam, and three Linux kernel flaws are all under active exploitation simultaneously.",
-      "angle": "Patch-cadence roundup: consolidate the week's actively-exploited CVEs into one 'patch or get popped' digest with the Thursday deadline as the hook",
-      "source": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/"
-    },
-    {
-      "title": "A Microsoft-Signed Driver Is Now Killing Antivirus for Malware — Inside the Fake LastPass Kernel Trick",
-      "why_now": "Attackers are abusing a legitimately signed Microsoft driver to disable EDR/AV before dropping the Rapuncel stealer, a technique that sidesteps most defenses.",
-      "angle": "Technical-but-readable breakdown of BYOVD abuse via fake LastPass installers, framed as 'trust nothing signed' warning",
-      "source": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/"
-    },
-    {
-      "title": "The Security Vendor Got Breached: CrowdSec Confirms Its Own Source Code Was Stolen",
-      "why_now": "A company literally in the business of stopping attackers got hit by a supply-chain attack, the ultimate 'inevitable breach' irony story.",
-      "angle": "Short punchy post on what it means when the defenders' code is the target, plus supply-chain risk implications for CrowdSec customers",
-      "source": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/"
+      "title": "A Security Firm Got Hit by the Supply Chain It Warns Everyone About: Shai-Hulud Nips CrowdSec's GitHub",
+      "why_now": "The irony of a threat-intel/cyber-defense company falling to the same npm/GitHub worm it tracks is a perfect inevitable-breach hook.",
+      "angle": "Short, punchy 'even the watchers get watched' post using CrowdSec as a case study for why supply-chain hygiene fails everywhere, including security vendors.",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data"
     }
   ]
 }

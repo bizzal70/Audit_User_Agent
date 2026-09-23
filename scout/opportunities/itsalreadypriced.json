@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-22T11:08:20+00:00",
+  "generated": "2026-09-23T11:08:46+00:00",
   "opportunities": [
     {
-      "title": "30,000 Infected Devices, $10.7M Gone: Inside North Korea's Fake Recruiter Pipeline",
-      "why_now": "A fresh Cointelegraph report quantifies a DPRK social-engineering campaign at industrial scale, exactly the kind of state-actor security story this channel exists to dissect.",
-      "angle": "Incident breakdown: how the fake-job lure works, why devs keep falling for it, and the wallet-hygiene lesson buried in the numbers",
+      "title": "North Korea Didn't Hack Crypto — It Got Hired Into It: Inside the $10.7M Fake Recruiter Campaign",
+      "why_now": "A single DPRK social-engineering operation just infected 30,000 devices and drained $10.7M, proving the weakest link is still the interview process, not the smart contract.",
+      "angle": "Incident breakdown + actionable checklist for anyone hiring/onboarding in crypto — 'if you got a LinkedIn DM this month, read this'",
       "source": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Binance's Iran Problem Just Went Federal — Here's What 'Knowingly' Means for Your Exchange Risk",
-      "why_now": "Bloomberg-sourced report that US prosecutors are probing whether Binance let sanctioned trades through is a live regulatory-security event with custody implications for every user.",
-      "angle": "Explainer on sanctions-evasion exposure at CEXs and what it means for where you should (and shouldn't) hold funds",
-      "source": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg"
+      "title": "$75M in FTX/Alameda Ether Just Moved to Wintermute — Here's What the Estate Is Actually Doing",
+      "why_now": "Onchain sleuths spotted a fresh $75M transfer from dead FTX/Alameda wallets, and the market always overreacts to zombie-wallet movement before checking the facts.",
+      "angle": "On-chain forensic explainer that separates 'estate liquidation mechanics' from 'sell pressure panic' — calm the timeline, cite the wallet trail",
+      "source": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows"
     },
     {
-      "title": "Whitehats Just Returned 52 BTC from the Coldcard Hack — What the Recovery Trust Actually Proves",
-      "why_now": "A concrete, dollar-denominated resolution to a hardware wallet compromise gives a rare 'good guys win' security narrative worth dissecting for lessons.",
-      "angle": "Post-mortem: how the recovery trust worked, what it says about Coldcard's threat model, and whether cold storage is still 'safe' after this",
-      "source": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust"
+      "title": "BitMEX Is Dead. Perpetual Futures Won. That's Not a Contradiction.",
+      "why_now": "The exchange that invented the perpetual swap just shut its doors after 11 years, capping a story that started with regulatory arbitrage and ended in irrelevance.",
+      "angle": "Postmortem/eulogy essay tying BitMEX's rise-and-fall to the CME futures boom happening the same week — 'the product outlived the platform'",
+      "source": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open"
     },
     {
-      "title": "Bitcoin at $85K, Shorts Getting Squeezed — But Traders Are Quietly Warning About Leverage Again",
-      "why_now": "Multiple outlets are flagging leverage buildup even as BTC prints new highs, a classic 'this is already priced' setup for a cautionary market piece.",
-      "angle": "Skeptic's take: separate the ETF-inflow fundamentals from the leverage froth, and lay out the liquidation-cascade risk everyone's ignoring mid-rally",
-      "source": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building"
+      "title": "White Hats Just Showed You What 'Responsible Disclosure' Looks Like — Coldcard Edition",
+      "why_now": "A live Coldcard exploit got white-hatted straight into a recovery trust instead of a mixer, a rare good-news security story worth dissecting while it's fresh.",
+      "angle": "Explainer on the exploit + why the response (not the bug) is the real story — template for what good incident response looks like",
+      "source": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust"
     },
     {
-      "title": "X Sues Its Own Bot Army: The Bitcoin Influencer Creator-Payout Scam, Explained",
-      "why_now": "X's lawsuit against UK influencers over a $277K bot-farmed payout scheme is a fresh, concrete case study in platform-level crypto fraud.",
-      "angle": "Anatomy of the scam: how bot engagement was laundered into creator-fund payouts, and what it means for trusting 'crypto influencer' metrics generally",
-      "source": "https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889"
+      "title": "The CFTC Just Told You Prediction Markets Are Rigged Before Anyone Got Rich Off It",
+      "why_now": "With Bernstein calling for a $10T prediction market by 2035, the CFTC's manipulation warning on 'mention markets' lands right as retail money starts flowing in.",
+      "angle": "Skeptic's take: map the incentive structure that makes mention markets manipulable, before the hype cycle buries the warning",
+      "source": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms"
     }
   ]
 }
