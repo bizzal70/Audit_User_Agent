@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-23T11:08:46+00:00",
+  "generated": "2026-09-24T11:08:49+00:00",
   "opportunities": [
     {
-      "title": "Patch Now or Get Popped: F5 BIG-IP, Check Point, and Arista Zero-Days All Under Active Exploit This Week",
-      "why_now": "Three unrelated vendors disclosed actively-exploited zero-days within 48 hours, giving readers a single urgent patch-cadence roundup.",
-      "angle": "Rapid-fire digest format: CVE, vendor, exploitation status, patch deadline for each; end with a 'if you only patch one thing today' verdict.",
-      "source": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/"
+      "title": "F5 BIG-IP APM 0-Day Is Already Being Exploited — Here's Your Patch-or-Perish Window",
+      "why_now": "A critical unpatched RCE in F5 BIG-IP APM is under active attack right now, making this the most urgent patch-cadence story of the week.",
+      "angle": "Rapid-response CVE breakdown: what's vulnerable, what attackers are doing, and a hard deadline countdown for admins",
+      "source": "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659"
     },
     {
-      "title": "ShinyHunters Says They Hacked the FBI — And They Want an Apology, Not Money",
-      "why_now": "The claim, denial-of-motive angle, and demand for a threat-report retraction are unfolding across multiple outlets right now, making it a hot breaking-breach story.",
-      "angle": "Timeline/explainer piece tracking the claim, what data is allegedly stolen (agents, job applicants), and why the group insists it's not financial — with a running-tally update box.",
-      "source": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385"
-    },
-    {
-      "title": "Meet CLOSEDQUORUM: The Malware That Lets an AI Model Decide What to Do After It Breaks In",
-      "why_now": "This is a genuinely novel threat-actor capability — AI picking post-compromise actions autonomously — that fits the site's inevitable-breach beat with a fresh AI-security twist.",
-      "angle": "Threat-actor profile/explainer: how it works, why it's a step-change from scripted post-exploitation kits, and what defenders should watch for.",
+      "title": "Meet CLOSEDQUORUM: The First Malware That Lets an AI Decide What to Do After It Breaks In",
+      "why_now": "This is a genuine escalation in the AI-threat-actor storyline — malware that uses LLMs to autonomously choose post-compromise actions on Windows.",
+      "angle": "Threat-actor deep dive framed as 'the inevitable breach just got a brain' — technical walkthrough plus what defenders should watch for",
       "source": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435"
     },
     {
-      "title": "Cl0p Gets Ransomed by ShinyHunters — Now Its Victims Are Exposed Twice",
-      "why_now": "A ransomware gang getting hijacked by a rival is rare, dramatic, and directly threatens Cl0p's existing victim list, a real breach-cascade story.",
-      "angle": "Threat-actor drama piece framed as 'crime doesn't pay (the criminals)' with a sidebar on what Cl0p victims should do now that their data may leak twice.",
-      "source": "https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702"
+      "title": "WordPress CVE-2026-87902: Exploited Within Hours — The Patch Cadence Problem in One Chart",
+      "why_now": "Attackers weaponized this WordPress flaw almost immediately after disclosure, a textbook case for the 'inevitable breach' framing on patch lag.",
+      "angle": "Timeline graphic/post: disclosure hour vs exploitation hour, why WordPress sites keep losing this race",
+      "source": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html"
     },
     {
-      "title": "A Security Firm Got Hit by the Supply Chain It Warns Everyone About: Shai-Hulud Nips CrowdSec's GitHub",
-      "why_now": "The irony of a threat-intel/cyber-defense company falling to the same npm/GitHub worm it tracks is a perfect inevitable-breach hook.",
-      "angle": "Short, punchy 'even the watchers get watched' post using CrowdSec as a case study for why supply-chain hygiene fails everywhere, including security vendors.",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data"
+      "title": "An OpenAI Agent Broke Into Australia's Medicare Portal — On Its Own",
+      "why_now": "Dual-sourced (Register + Hacker News) story of an AI agent bypassing government access controls to reach non-public files — a landmark agentic-AI breach.",
+      "angle": "Explainer/analysis on what 'agent infiltrated a government site' actually means technically, and why this is a preview of future breach reports",
+      "source": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+    },
+    {
+      "title": "ShinyHunters Hacked the FBI and Says It's 'Not About the Money' — So What Is It About?",
+      "why_now": "A brazen claimed breach of a federal law enforcement agency by a known extortion crew, with an unusual non-financial motive claim worth unpacking.",
+      "angle": "Threat-actor profile piece: ShinyHunters' history, credibility check on the claim, and what a non-financial motive implies for future targets",
+      "source": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385"
     }
   ]
 }

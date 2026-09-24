@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-23T11:08:46+00:00",
+  "generated": "2026-09-24T11:08:49+00:00",
   "opportunities": [
     {
-      "title": "Ditch Initiative Rolls Forever? We Rules-Check Sly Flourish's 'Elective Action Order'",
-      "why_now": "A fresh, fully-specified initiative variant just dropped that directly challenges core D&D turn structure—prime territory for a rules-first breakdown.",
-      "angle": "Mechanical breakdown: compare RAW initiative vs. the Elective Action Order line-by-line, flag edge cases (surprise, readied actions, multi-attack) it doesn't address",
-      "source": "https://slyflourish.com/elective_action_order.html?rss=1"
+      "title": "Gnomecast Says Scheduling Is 'The Greatest Foe' — Here's the Ruleset Nobody Codified Yet",
+      "why_now": "Gnome Stew's fresh episode tackles the most common (and least systematized) TTRPG problem, giving us a direct hook to formalize scheduling as a rules problem.",
+      "angle": "Response essay that extracts a concrete 'house rules' framework for session scheduling, citing and building on the podcast's points",
+      "source": "https://gnomestew.com/gnomecast-246-the-greatest-foe-scheduling/"
     },
     {
-      "title": "Pathfinder & Starfinder Are Getting More Expensive Next Month — Here's What You're Actually Paying For",
-      "why_now": "Paizo's price hike is confirmed and dated, giving readers a concrete before/after to react to.",
-      "angle": "News-with-teeth: list old vs new prices per product line, note which books/subscriptions are affected and when the change hits carts",
-      "source": "https://www.enworld.org/threads/pathfinder-and-starfinder-prices-are-going-up-next-month.720721/"
+      "title": "Attack on Titan 3's New 'Focus Mode' Is Basically a Reaction Mechanic — What TTRPGs Got Right First",
+      "why_now": "The preview breaks down a real-time combat revamp built around timed defensive windows, a mechanic tabletop systems have run for years.",
+      "angle": "Rules-comparison piece: map AoT3's Focus Mode onto D&D reactions, Lancer's overwatch, and PbtA moves to show which tabletop system already 'solved' this",
+      "source": "https://www.rpgsite.net/preview/21460-attack-on-titan-3-revamps-its-combat-controls-with-focus-mode"
     },
     {
-      "title": "D&D's World of Warcraft Book: What the Preview Actually Tells Us About New Rules Content",
-      "why_now": "WotC just started previewing the crossover book, giving the first real look at mechanics rather than marketing fluff.",
-      "angle": "Rules-parsing thread: extract every stat block, subclass, or system tweak shown in the preview and flag what's confirmed vs. speculative",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-starting-to-preview-its-world-of-warcraft-book.720753/"
+      "title": "Gust Says They're Building 'Best of Both Worlds' Combat for Atelier Karia — Sound Familiar, D&D vs. PbtA Fans?",
+      "why_now": "The interview explicitly frames Atelier Karia's battle system as merging two combat philosophies, a debate TTRPG designers have been having for a decade.",
+      "angle": "Analysis post translating Gust's hybrid-system pitch into a tabletop taxonomy (turn-based crunch vs. narrative flow) with concrete rule examples",
+      "source": "https://www.rpgsite.net/interview/21451-atelier-karia-the-apothecary-diaries-the-false-imperial-brother-interview-gust-new-switch-2-port-battle-system-yumia-maomao"
     },
     {
-      "title": "Games Workshop's Necromunda TTRPG: Will It Use 40k's Rules Chassis or Build New?",
-      "why_now": "GW just confirmed the project, and rules-first fans want to know the system before the fluff.",
-      "angle": "Speculative rules analysis grounded in GW's existing TTRPG track record (Wrath & Glory, Age of Sigmar RPG) to predict mechanics",
-      "source": "https://www.enworld.org/threads/games-workshop-is-producing-a-necromunda-ttrpg.720710/"
+      "title": "Warframe Just Shipped a Major Patch Day-One Worldwide — Why TTRPGs Can't (and Shouldn't) Move That Fast",
+      "why_now": "Iceblade of Narin's simultaneous global rollout highlights a live-service patch cadence that stands in sharp contrast to how tabletop errata actually reaches tables.",
+      "angle": "Rules-news breakdown comparing live-game patch velocity to TTRPG errata/printing cycles, with a call for faster official rulings",
+      "source": "https://www.rpgsite.net/news/21459-warframe-iceblade-of-narin-update-download-free-login-bonus"
     },
     {
-      "title": "The New 'Build a True Adventurer' Species Rules: A Line-by-Line Read",
-      "why_now": "A brand-new player species and rotating dungeon mechanic just published, offering fresh crunch to dissect before the community consensus forms.",
-      "angle": "Crunch review: walk through the species traits and rotating dungeon mechanic, compare to existing published species for power-level balance",
-      "source": "https://www.enworld.org/threads/truly-build-an-adventurer-with-this-new-species-and-explore-a-rotating-dungeon.720735/"
+      "title": "Obsidian Now Answers to Bethesda — What Happens to the Pillars of Eternity Ruleset?",
+      "why_now": "This week's Xbox restructuring puts Obsidian, architects of one of the most D&D-adjacent CRPG systems ever built, under new corporate rules.",
+      "angle": "News-analysis piece asking who now controls future iterations of Obsidian's homegrown systems, framed as an IP/rules-ownership story",
+      "source": "https://www.rpgsite.net/news/21455-obsidian-now-under-bethesda-as-part-microsofts-new-round-xbox-restructuring-layoffs"
     }
   ]
 }

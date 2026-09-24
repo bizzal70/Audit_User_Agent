@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-23T11:08:46+00:00",
+  "generated": "2026-09-24T11:08:49+00:00",
   "opportunities": [
     {
-      "title": "Elective Action Order: The Initiative Variant That Breaks Your Encounter Math (And How to Fix It)",
-      "why_now": "Sly Flourish just dropped a new initiative variant that directly challenges standard 5e/Shadowdark turn order assumptions.",
-      "angle": "Rules-ruling breakdown: run a mock combat round showing where elective action order creates action economy exploits, then give the house-rule patch.",
-      "source": "https://slyflourish.com/elective_action_order.html?rss=1"
+      "title": "Ruling: Can You 'Focus Mode' in 5e? Bonus Action Called Shots, Explained",
+      "why_now": "Attack on Titan 3's new Focus Mode combat control is trending in RPG coverage right now, giving a hook to break down the actual 5e/Shadowdark rules for called shots and target-locking that most tables get wrong.",
+      "angle": "60-sec rules ruling short: state the misconception, cite the actual rule text, give a table-ready fix.",
+      "source": "https://www.rpgsite.net/preview/21460-attack-on-titan-3-revamps-its-combat-controls-with-focus-mode"
     },
     {
-      "title": "D&D's WoW Book Just Previewed a New Species — Here's the Stat Block Problem Nobody's Talking About",
-      "why_now": "WotC dropped its first preview of the Warcraft crossover book this week, giving a concrete new species to dissect before the community hype cycle floods with hot takes.",
-      "angle": "Quick mechanical teardown: compare the previewed species' traits against existing 5e power baselines (Tabaxi/Aarakocra tier) and flag balance issues.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-starting-to-preview-its-world-of-warcraft-book.720753/"
+      "title": "Steal This Boss: Shadow of War's Nemesis System as a DCC Villain Table",
+      "why_now": "Shadow of War/Shadow of Mordor's Switch 2 launch on Sept 30 is putting the Nemesis system back in the conversation, and it maps almost 1:1 onto a homebrew 'recurring villain' subsystem GMs keep asking for.",
+      "angle": "Creature/villain tactic short: 3 quick homebrew rules for scars, grudges, and escalating rank that any DCC or Shadowdark judge can steal tonight.",
+      "source": "https://www.rpgsite.net/news/21456-middle-earth-shadow-of-war-shadow-of-mordor-switch-2-release-date-price-download-size-eshop"
     },
     {
-      "title": "The 'Rotating Dungeon' Gimmick — Can Your Table Actually Run This Without a Flowchart?",
-      "why_now": "A new adventurer-builder/rotating dungeon product just got announced, and procedural dungeon mechanics are catnip for DCC/Shadowdark crawl fans.",
-      "angle": "GM's toolbox angle: explain how a rotating dungeon structure interacts with resource attrition (light, rations) in Shadowdark specifically, with a DIY version for existing tables.",
-      "source": "https://www.enworld.org/threads/truly-build-an-adventurer-with-this-new-species-and-explore-a-rotating-dungeon.720735/"
+      "title": "Iceblade Tactics: Reach Weapons Are Still Broken in 5e (Here's the Fix)",
+      "why_now": "Warframe's new Iceblade of Narin weapon update is fresh, giving an easy tie-in hook to talk about polearm/reach-weapon abuse at the table.",
+      "angle": "Rules ruling short: demonstrate the reach + opportunity attack loophole, then give the one-line house rule that closes it.",
+      "source": "https://www.rpgsite.net/news/21459-warframe-iceblade-of-narin-update-download-free-login-bonus"
     },
     {
-      "title": "Pathfinder Just Got More Expensive — Here's What a 5e Splatbook Actually Costs You Per Session",
-      "why_now": "Paizo's confirmed price hike next month is a live pocketbook issue for the exact audience comparing 5e/Shadowdark/PF2e spend.",
-      "angle": "Wry cost-per-use breakdown: calculate $ per session across editions to make the case for lean rulesets like Shadowdark/DCC.",
-      "source": "https://www.enworld.org/threads/pathfinder-and-starfinder-prices-are-going-up-next-month.720723/"
+      "title": "Session Zero Isn't Optional: The Scheduling Ruling No One Follows",
+      "why_now": "Gnomecast just dropped an episode specifically on scheduling as 'The Greatest Foe,' making it a timely peg for the exact GM-table-management content this channel covers.",
+      "angle": "Dry veteran GM PSA short: treat scheduling like a house rule — state it, enforce it, cut the excuses.",
+      "source": "https://gnomestew.com/gnomecast-246-the-greatest-foe-scheduling/"
     },
     {
-      "title": "Necromunda Gets a TTRPG — What Gang-Based Combat Can Teach Your 5e Mob Fights",
-      "why_now": "GW's just-announced Necromunda RPG puts skirmish-gang mechanics in front of the tabletop crowd right when you can mine it for a creature-tactic angle.",
-      "angle": "Creature/tactic use-case: adapt Necromunda-style suppression/morale mechanics into a 5e goblin warband encounter for a one-off tactical short.",
-      "source": "https://www.enworld.org/threads/games-workshop-is-producing-a-necromunda-ttrpg.720710/"
+      "title": "Materia vs. Spell Slots: Why Crisis Core's Magic System Would Break Your 5e Table",
+      "why_now": "Crisis Core: Final Fantasy VII Reunion just landed on Switch 2 and is getting fresh review coverage, giving a clean excuse to compare its freeform materia magic to Vancian spell slots.",
+      "angle": "Spell-use-case short: use materia as a foil to explain why 5e gates magic the way it does, then propose a one-session variant rule to test 'freeform' casting.",
+      "source": "https://www.rpgsite.net/feature/21452-crisis-core-final-fantasy-vii-reunion-switch-2-review-vs-ps5-steam-deck-pc"
     }
   ]
 }

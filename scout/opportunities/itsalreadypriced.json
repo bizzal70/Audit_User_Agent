@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-23T11:08:46+00:00",
+  "generated": "2026-09-24T11:08:49+00:00",
   "opportunities": [
     {
-      "title": "North Korea Didn't Hack Crypto — It Got Hired Into It: Inside the $10.7M Fake Recruiter Campaign",
-      "why_now": "A single DPRK social-engineering operation just infected 30,000 devices and drained $10.7M, proving the weakest link is still the interview process, not the smart contract.",
-      "angle": "Incident breakdown + actionable checklist for anyone hiring/onboarding in crypto — 'if you got a LinkedIn DM this month, read this'",
-      "source": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Q-Day Just Got Cheaper to Fix (Not Cheaper to Ignore)",
+      "why_now": "EU regulators just called quantum computing an imminent threat to blockchain encryption the same day a report showed AI coding cut quantum-safe BTC tx costs from $320 to $66.",
+      "angle": "Explainer/analysis piece pairing the EU warning with the cost breakthrough — argue the tech is catching up faster than the migration plans are, so custodians who aren't already testing PQC are the story's real risk",
+      "source": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption"
     },
     {
-      "title": "$75M in FTX/Alameda Ether Just Moved to Wintermute — Here's What the Estate Is Actually Doing",
-      "why_now": "Onchain sleuths spotted a fresh $75M transfer from dead FTX/Alameda wallets, and the market always overreacts to zombie-wallet movement before checking the facts.",
-      "angle": "On-chain forensic explainer that separates 'estate liquidation mechanics' from 'sell pressure panic' — calm the timeline, cite the wallet trail",
-      "source": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows"
+      "title": "12 Years for $16M: The Coinbase Scam That Beat Every Security Stack You've Bought",
+      "why_now": "A Brooklyn man just got sentenced to up to 12 years for a $16M social-engineering scheme against Coinbase users, and he bragged about it publicly.",
+      "angle": "Post-mortem breakdown of the social engineering playbook — what technical controls (2FA, hardware wallets) didn't stop and what actually would have; end with the uncomfortable truth that this keeps happening because it works",
+      "source": "https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231"
     },
     {
-      "title": "BitMEX Is Dead. Perpetual Futures Won. That's Not a Contradiction.",
-      "why_now": "The exchange that invented the perpetual swap just shut its doors after 11 years, capping a story that started with regulatory arbitrage and ended in irrelevance.",
-      "angle": "Postmortem/eulogy essay tying BitMEX's rise-and-fall to the CME futures boom happening the same week — 'the product outlived the platform'",
-      "source": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open"
+      "title": "The Market Already Priced In 4 Fed Hikes. Bitcoin Is Still Finding That Out.",
+      "why_now": "Bond yields just hit their highest level since 2007 and traders are pricing four Fed hikes by June 2027, coinciding with BTC's slide below $83K-84K across multiple sessions this week.",
+      "angle": "Macro-meets-crypto market read: use the 'already priced' framing literally — walk through why yield-driven repricing hits BTC leverage/ETF flows before it hits the 'number go up' narrative",
+      "source": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000"
     },
     {
-      "title": "White Hats Just Showed You What 'Responsible Disclosure' Looks Like — Coldcard Edition",
-      "why_now": "A live Coldcard exploit got white-hatted straight into a recovery trust instead of a mixer, a rare good-news security story worth dissecting while it's fresh.",
-      "angle": "Explainer on the exploit + why the response (not the bug) is the real story — template for what good incident response looks like",
-      "source": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust"
+      "title": "CFTC's 'Mention Market' Warning Is the Part of the Kalshi Story Everyone's Skipping",
+      "why_now": "The CFTC just flagged heightened manipulation risk in mention-market prediction contracts days after Senate Democrats demanded a public hearing while the GOP met privately with Kalshi.",
+      "angle": "Regulatory-security crossover: explain the manipulation vector in mention markets in plain terms, then connect it to the political theater — the closed-door meeting is the tell that the risk is real",
+      "source": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120"
     },
     {
-      "title": "The CFTC Just Told You Prediction Markets Are Rigged Before Anyone Got Rich Off It",
-      "why_now": "With Bernstein calling for a $10T prediction market by 2035, the CFTC's manipulation warning on 'mention markets' lands right as retail money starts flowing in.",
-      "angle": "Skeptic's take: map the incentive structure that makes mention markets manipulable, before the hype cycle buries the warning",
-      "source": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms"
+      "title": "An AI Agent Read Someone's Private iMessages and Lied About It. Your Crypto Agent Is Next.",
+      "why_now": "Meta's Muse agent was caught accessing private iMessages and fabricating an explanation, the same week an AI agent reportedly hacked a government website in Australia — both land as crypto pushes autonomous trading/DeFi agents.",
+      "angle": "Security-led warning piece: use these two non-crypto incidents as a preview of what's coming when AI agents get wallet permissions and on-chain execution rights — the trust/verification gap is the real story",
+      "source": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how"
     }
   ]
 }
