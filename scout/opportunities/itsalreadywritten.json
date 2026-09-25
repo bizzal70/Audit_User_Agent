@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-24T11:08:49+00:00",
+  "generated": "2026-09-25T11:08:32+00:00",
   "opportunities": [
     {
-      "title": "Gnomecast Says Scheduling Is 'The Greatest Foe' — Here's the Ruleset Nobody Codified Yet",
-      "why_now": "Gnome Stew's fresh episode tackles the most common (and least systematized) TTRPG problem, giving us a direct hook to formalize scheduling as a rules problem.",
-      "angle": "Response essay that extracts a concrete 'house rules' framework for session scheduling, citing and building on the podcast's points",
-      "source": "https://gnomestew.com/gnomecast-246-the-greatest-foe-scheduling/"
+      "title": "The WoW Subclasses Are Swapping Out Class Features, Not Adding to Them — Here's the Rules Math",
+      "why_now": "EN World just confirmed the D&D/WoW subclasses will replace classic class features rather than stack on top, a structural rules choice worth breaking down before backlash sets in.",
+      "angle": "Rules-first breakdown comparing swapped features vs. base class chassis, with a table of what's lost vs. gained",
+      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/"
     },
     {
-      "title": "Attack on Titan 3's New 'Focus Mode' Is Basically a Reaction Mechanic — What TTRPGs Got Right First",
-      "why_now": "The preview breaks down a real-time combat revamp built around timed defensive windows, a mechanic tabletop systems have run for years.",
-      "angle": "Rules-comparison piece: map AoT3's Focus Mode onto D&D reactions, Lancer's overwatch, and PbtA moves to show which tabletop system already 'solved' this",
-      "source": "https://www.rpgsite.net/preview/21460-attack-on-titan-3-revamps-its-combat-controls-with-focus-mode"
+      "title": "Bahamut's New Stat Block, Decoded: What Actually Changed Mechanically",
+      "why_now": "WotC just revealed the redesigned Bahamut art/lore, making this the moment to get ahead with a mechanical teardown before the full stat block drops.",
+      "angle": "Side-by-side comparison of known Bahamut lore changes against 5e deity/legendary creature design patterns, predicting stat block implications",
+      "source": "https://www.enworld.org/threads/check-out-d-ds-redesign-of-bahamut.720761/"
     },
     {
-      "title": "Gust Says They're Building 'Best of Both Worlds' Combat for Atelier Karia — Sound Familiar, D&D vs. PbtA Fans?",
-      "why_now": "The interview explicitly frames Atelier Karia's battle system as merging two combat philosophies, a debate TTRPG designers have been having for a decade.",
-      "angle": "Analysis post translating Gust's hybrid-system pitch into a tabletop taxonomy (turn-based crunch vs. narrative flow) with concrete rule examples",
-      "source": "https://www.rpgsite.net/interview/21451-atelier-karia-the-apothecary-diaries-the-false-imperial-brother-interview-gust-new-switch-2-port-battle-system-yumia-maomao"
+      "title": "UK Games Expo Just Banned AI — Here's What the Actual Policy Covers (and Doesn't)",
+      "why_now": "UKGE's AI ban is fresh news and full of ambiguity that TTRPG creators/exhibitors need parsed now before the next expo cycle.",
+      "angle": "Rules-of-the-convention explainer: what's banned, loopholes, and how it compares to Gen Con/PAX policies",
+      "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
     },
     {
-      "title": "Warframe Just Shipped a Major Patch Day-One Worldwide — Why TTRPGs Can't (and Shouldn't) Move That Fast",
-      "why_now": "Iceblade of Narin's simultaneous global rollout highlights a live-service patch cadence that stands in sharp contrast to how tabletop errata actually reaches tables.",
-      "angle": "Rules-news breakdown comparing live-game patch velocity to TTRPG errata/printing cycles, with a call for faster official rulings",
-      "source": "https://www.rpgsite.net/news/21459-warframe-iceblade-of-narin-update-download-free-login-bonus"
+      "title": "D&D's WoW Book Preview: Reading the Rules Tea Leaves",
+      "why_now": "WotC has started previewing the WoW crossover book, giving us our first real look at how they're translating a video game universe into D&D rules structure.",
+      "angle": "Deep-dive parsing the preview images/text for rules implications — race/class balance, setting rules, monster stat conventions",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-is-starting-to-preview-its-world-of-warcraft-book.720753/"
     },
     {
-      "title": "Obsidian Now Answers to Bethesda — What Happens to the Pillars of Eternity Ruleset?",
-      "why_now": "This week's Xbox restructuring puts Obsidian, architects of one of the most D&D-adjacent CRPG systems ever built, under new corporate rules.",
-      "angle": "News-analysis piece asking who now controls future iterations of Obsidian's homegrown systems, framed as an IP/rules-ownership story",
-      "source": "https://www.rpgsite.net/news/21455-obsidian-now-under-bethesda-as-part-microsofts-new-round-xbox-restructuring-layoffs"
+      "title": "What the Dragonlance World Book Update Tells Us About Canon Lock-In",
+      "why_now": "Weis, Hickman, and Manganiello's fresh update signals how much of the original Dragonlance rules/lore will survive into the new sourcebook.",
+      "angle": "Fact-check style piece comparing original Dragonlance module rules/lore vs. what's being teased for the new world book",
+      "source": "https://www.enworld.org/threads/weis-hickman-and-manganiello-update-on-dragonlance-world-book.720774/"
     }
   ]
 }

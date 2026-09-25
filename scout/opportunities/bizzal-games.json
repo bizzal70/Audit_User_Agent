@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-24T11:08:49+00:00",
+  "generated": "2026-09-25T11:08:32+00:00",
   "opportunities": [
     {
-      "title": "Ruling: Can You 'Focus Mode' in 5e? Bonus Action Called Shots, Explained",
-      "why_now": "Attack on Titan 3's new Focus Mode combat control is trending in RPG coverage right now, giving a hook to break down the actual 5e/Shadowdark rules for called shots and target-locking that most tables get wrong.",
-      "angle": "60-sec rules ruling short: state the misconception, cite the actual rule text, give a table-ready fix.",
-      "source": "https://www.rpgsite.net/preview/21460-attack-on-titan-3-revamps-its-combat-controls-with-focus-mode"
+      "title": "New Bahamut Stat Block Breakdown: Is the Platinum Dragon Finally a Real Threat?",
+      "why_now": "WotC just previewed the redesigned Bahamut stat block, giving GMs fresh legendary actions to dissect before the book drops.",
+      "angle": "60-sec stat-block teardown: legendary resistance count, new lair actions, and whether it can actually kill a level 20 party — dry mechanical read, no lore fluff.",
+      "source": "https://www.enworld.org/threads/check-out-d-ds-redesign-of-bahamut.720761/"
     },
     {
-      "title": "Steal This Boss: Shadow of War's Nemesis System as a DCC Villain Table",
-      "why_now": "Shadow of War/Shadow of Mordor's Switch 2 launch on Sept 30 is putting the Nemesis system back in the conversation, and it maps almost 1:1 onto a homebrew 'recurring villain' subsystem GMs keep asking for.",
-      "angle": "Creature/villain tactic short: 3 quick homebrew rules for scars, grudges, and escalating rank that any DCC or Shadowdark judge can steal tonight.",
-      "source": "https://www.rpgsite.net/news/21456-middle-earth-shadow-of-war-shadow-of-mordor-switch-2-release-date-price-download-size-eshop"
+      "title": "D&D x WoW Subclasses Swap Core Class Features — Here's the Ruling Headache",
+      "why_now": "EN World just detailed that these crossover subclasses replace baseline class features, which breaks multiclass and feat-prerequisite assumptions RAW.",
+      "angle": "Ruling short: walk through what happens when a swapped feature conflicts with a feat that references the removed ability — practical adjudication, not opinion.",
+      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/"
     },
     {
-      "title": "Iceblade Tactics: Reach Weapons Are Still Broken in 5e (Here's the Fix)",
-      "why_now": "Warframe's new Iceblade of Narin weapon update is fresh, giving an easy tie-in hook to talk about polearm/reach-weapon abuse at the table.",
-      "angle": "Rules ruling short: demonstrate the reach + opportunity attack loophole, then give the one-line house rule that closes it.",
-      "source": "https://www.rpgsite.net/news/21459-warframe-iceblade-of-narin-update-download-free-login-bonus"
+      "title": "Purple Worm! Kickstarter Reminder: Swallow Whole Is Still the Nastiest Save-or-Die in 5e",
+      "why_now": "A crowdfunded product literally named 'Purple Worm!' just launched, giving a clean hook to revisit the monster's mechanics.",
+      "angle": "Creature tactic short: how to run swallow-whole grapple math and acid damage timing so it's lethal but not a TPK ambush from nowhere.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-wild-hearth-the-griffons-saddlebag-faster-purple-worm-and-more.720755/"
     },
     {
-      "title": "Session Zero Isn't Optional: The Scheduling Ruling No One Follows",
-      "why_now": "Gnomecast just dropped an episode specifically on scheduling as 'The Greatest Foe,' making it a timely peg for the exact GM-table-management content this channel covers.",
-      "angle": "Dry veteran GM PSA short: treat scheduling like a house rule — state it, enforce it, cut the excuses.",
-      "source": "https://gnomestew.com/gnomecast-246-the-greatest-foe-scheduling/"
+      "title": "Dragonlance Is Coming Back — Here's the Draconian Death Burst Ruling Nobody Runs Right",
+      "why_now": "Weis, Hickman, and Manganiello just gave an update on the Dragonlance world book, putting draconians back on GMs' radar.",
+      "angle": "Spell/creature use-case: exact area and damage-type ruling for a draconian's death burst when it drops in melee, plus how to reskin it for non-Dragonlance settings.",
+      "source": "https://www.enworld.org/threads/weis-hickman-and-manganiello-update-on-dragonlance-world-book.720774/"
     },
     {
-      "title": "Materia vs. Spell Slots: Why Crisis Core's Magic System Would Break Your 5e Table",
-      "why_now": "Crisis Core: Final Fantasy VII Reunion just landed on Switch 2 and is getting fresh review coverage, giving a clean excuse to compare its freeform materia magic to Vancian spell slots.",
-      "angle": "Spell-use-case short: use materia as a foil to explain why 5e gates magic the way it does, then propose a one-session variant rule to test 'freeform' casting.",
-      "source": "https://www.rpgsite.net/feature/21452-crisis-core-final-fantasy-vii-reunion-switch-2-review-vs-ps5-steam-deck-pc"
+      "title": "UK Games Expo Just Banned AI From the Convention — What That Means for Your Homebrew Stat Blocks",
+      "why_now": "A major UK con just enacted an AI ban, giving the channel a timely hook to weigh in on AI-generated content at the table.",
+      "angle": "Wry industry-commentary short: veteran GM take on why hand-tuned encounters beat AI-generated ones, tying back to a specific ruling/tactic example.",
+      "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
     }
   ]
 }

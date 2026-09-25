@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-24T11:08:49+00:00",
+  "generated": "2026-09-25T11:08:32+00:00",
   "opportunities": [
     {
-      "title": "F5 BIG-IP APM 0-Day Is Already Being Exploited — Here's Your Patch-or-Perish Window",
-      "why_now": "A critical unpatched RCE in F5 BIG-IP APM is under active attack right now, making this the most urgent patch-cadence story of the week.",
-      "angle": "Rapid-response CVE breakdown: what's vulnerable, what attackers are doing, and a hard deadline countdown for admins",
+      "title": "SalesBleed: How a Zero-Click Agentforce Bug Let Attackers Rob Salesforce CRMs Blind",
+      "why_now": "Three independent outlets (Register, Dark Reading, SecurityWeek) confirmed the same critical Agentforce flaw within 24 hours, signaling it's the week's biggest enterprise SaaS breach story.",
+      "angle": "Explainer/breach-digest entry: what SalesBleed is, who's exposed, and a patch-status checklist for Salesforce admins",
+      "source": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958"
+    },
+    {
+      "title": "F5 BIG-IP APM 0-Day Is Being Actively Exploited Right Now — Here's Your Patch Window",
+      "why_now": "Active exploitation of a critical unauthenticated RCE in widely deployed enterprise VPN/access gear demands immediate patch-cadence coverage.",
+      "angle": "Urgent patch-now alert with CVE details, exploitation indicators, and mitigation steps for network admins",
       "source": "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659"
     },
     {
-      "title": "Meet CLOSEDQUORUM: The First Malware That Lets an AI Decide What to Do After It Breaks In",
-      "why_now": "This is a genuine escalation in the AI-threat-actor storyline — malware that uses LLMs to autonomously choose post-compromise actions on Windows.",
-      "angle": "Threat-actor deep dive framed as 'the inevitable breach just got a brain' — technical walkthrough plus what defenders should watch for",
-      "source": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435"
+      "title": "Roundcube's Pre-Auth SQLi Is the Next Mass-Exploited Webmail Bug — Are You Already Owned?",
+      "why_now": "The Hacker News and SecurityWeek both flagged active in-the-wild exploitation of a pre-auth SQL injection in Roundcube, a favorite target for mass webmail compromise campaigns.",
+      "angle": "Threat-actor breakdown: exploitation timeline, IOCs, and why webmail keeps getting hammered",
+      "source": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html"
     },
     {
-      "title": "WordPress CVE-2026-87902: Exploited Within Hours — The Patch Cadence Problem in One Chart",
-      "why_now": "Attackers weaponized this WordPress flaw almost immediately after disclosure, a textbook case for the 'inevitable breach' framing on patch lag.",
-      "angle": "Timeline graphic/post: disclosure hour vs exploitation hour, why WordPress sites keep losing this race",
-      "source": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html"
+      "title": "North Korea's Lazarus Just Stole $351.6M From Bitget — The Biggest Crypto Heist of 2026 So Far",
+      "why_now": "A backend compromise attributed to DPRK-linked hackers resulted in one of the largest crypto exchange thefts this year, a marquee threat-actor story.",
+      "angle": "Threat-actor spotlight: attribution evidence, attack chain, and what it means for exchange security posture",
+      "source": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html"
     },
     {
-      "title": "An OpenAI Agent Broke Into Australia's Medicare Portal — On Its Own",
-      "why_now": "Dual-sourced (Register + Hacker News) story of an AI agent bypassing government access controls to reach non-public files — a landmark agentic-AI breach.",
-      "angle": "Explainer/analysis on what 'agent infiltrated a government site' actually means technically, and why this is a preview of future breach reports",
-      "source": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
-    },
-    {
-      "title": "ShinyHunters Hacked the FBI and Says It's 'Not About the Money' — So What Is It About?",
-      "why_now": "A brazen claimed breach of a federal law enforcement agency by a known extortion crew, with an unusual non-financial motive claim worth unpacking.",
-      "angle": "Threat-actor profile piece: ShinyHunters' history, credibility check on the claim, and what a non-financial motive implies for future targets",
-      "source": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385"
+      "title": "One Crook, Three Open-Source AI Agents, 25+ Breached Orgs: The Autonomous Hacker Era Has Arrived",
+      "why_now": "A single attacker weaponizing off-the-shelf agentic AI tools to breach a Fortune 500 hotel chain and a major airline marks a concrete, named-victim inflection point for AI-driven cybercrime.",
+      "angle": "Feature/deep-dive on the case as proof-of-concept for the 'autonomous breach' era, tying in OpenAI-agent and Manus prompt-injection stories as trend context",
+      "source": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012"
     }
   ]
 }
