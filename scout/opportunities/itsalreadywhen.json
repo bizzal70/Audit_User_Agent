@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-25T11:08:32+00:00",
+  "generated": "2026-09-26T11:07:13+00:00",
   "opportunities": [
     {
-      "title": "SalesBleed: How a Zero-Click Agentforce Bug Let Attackers Rob Salesforce CRMs Blind",
-      "why_now": "Three independent outlets (Register, Dark Reading, SecurityWeek) confirmed the same critical Agentforce flaw within 24 hours, signaling it's the week's biggest enterprise SaaS breach story.",
-      "angle": "Explainer/breach-digest entry: what SalesBleed is, who's exposed, and a patch-status checklist for Salesforce admins",
-      "source": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958"
+      "title": "ShinyHunters Just Told Us Why They Hacked the FBI: 'To Protect Our Business'",
+      "why_now": "A named threat actor is openly bragging to press about breaching a federal law enforcement agency, which is too brazen not to cover immediately.",
+      "angle": "Quote-driven breakdown of the ShinyHunters interview with a timeline of what they claim to have taken and what it means for FBI infosec credibility",
+      "source": "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250"
     },
     {
-      "title": "F5 BIG-IP APM 0-Day Is Being Actively Exploited Right Now — Here's Your Patch Window",
-      "why_now": "Active exploitation of a critical unauthenticated RCE in widely deployed enterprise VPN/access gear demands immediate patch-cadence coverage.",
-      "angle": "Urgent patch-now alert with CVE details, exploitation indicators, and mitigation steps for network admins",
-      "source": "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659"
+      "title": "SalesBleed: The Zero-Click Salesforce Bug That Turned Agentforce Into a Phishing Bot",
+      "why_now": "Multiple outlets (Register, Dark Reading, SecurityWeek, Hacker News) are converging on the same CVE within 24 hours, signaling it's the week's must-patch item.",
+      "angle": "Explainer digest with CVE ID, affected orgs, and a 'patch now' checklist for Salesforce admins",
+      "source": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing"
     },
     {
-      "title": "Roundcube's Pre-Auth SQLi Is the Next Mass-Exploited Webmail Bug — Are You Already Owned?",
-      "why_now": "The Hacker News and SecurityWeek both flagged active in-the-wild exploitation of a pre-auth SQL injection in Roundcube, a favorite target for mass webmail compromise campaigns.",
-      "angle": "Threat-actor breakdown: exploitation timeline, IOCs, and why webmail keeps getting hammered",
-      "source": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html"
+      "title": "North Korea's $351M Bitget Heist: Lazarus's Biggest Score Since Ronin",
+      "why_now": "A nine-figure crypto theft attributed to DPRK just happened and exchanges are still confirming the backend compromise vector.",
+      "angle": "Follow-the-money breakdown comparing Bitget to prior DPRK heists, with a running tally of 2026 North Korean crypto theft totals",
+      "source": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218"
     },
     {
-      "title": "North Korea's Lazarus Just Stole $351.6M From Bitget — The Biggest Crypto Heist of 2026 So Far",
-      "why_now": "A backend compromise attributed to DPRK-linked hackers resulted in one of the largest crypto exchange thefts this year, a marquee threat-actor story.",
-      "angle": "Threat-actor spotlight: attribution evidence, attack chain, and what it means for exchange security posture",
-      "source": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html"
-    },
-    {
-      "title": "One Crook, Three Open-Source AI Agents, 25+ Breached Orgs: The Autonomous Hacker Era Has Arrived",
-      "why_now": "A single attacker weaponizing off-the-shelf agentic AI tools to breach a Fortune 500 hotel chain and a major airline marks a concrete, named-victim inflection point for AI-driven cybercrime.",
-      "angle": "Feature/deep-dive on the case as proof-of-concept for the 'autonomous breach' era, tying in OpenAI-agent and Manus prompt-injection stories as trend context",
+      "title": "A Lone Hacker Used Three Open-Source AI Agents to Breach a Fortune 500 Hotel Chain and a Major Airline",
+      "why_now": "This is one of the first documented cases of off-the-shelf autonomous agents chaining a real-world multi-org intrusion, a landmark moment for the 'AI-agent threat actor' beat.",
+      "angle": "Deep-dive on the tooling and TTPs, framed as 'the attack that proves agentic AI crime has arrived'",
       "source": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012"
+    },
+    {
+      "title": "Patch Tuesday Never Ends: SharePoint RCE and MikroTik RouterOS Bugs Are Being Exploited Right Now",
+      "why_now": "Active exploitation of two widely deployed platforms (SharePoint servers, MikroTik routers) is confirmed the same week, making it a direct patch-cadence alert.",
+      "angle": "Rapid-fire 'patch now' bulletin format with CVE numbers, exploitation status, and mitigation steps for sysadmins",
+      "source": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
     }
   ]
 }

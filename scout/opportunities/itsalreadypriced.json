@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-25T11:08:32+00:00",
+  "generated": "2026-09-26T11:07:13+00:00",
   "opportunities": [
     {
-      "title": "Spoofed Transfers, Not Stolen Keys: Why the Bitget $352M Hack Should Scare You More Than a Private-Key Leak",
-      "why_now": "Bitget's CEO just confirmed the $352M breach came from spoofed transfers on backend systems, not compromised keys — a scarier failure mode than the usual narrative.",
-      "angle": "Technical breakdown of the attack vector vs. the 'cold wallet is safe' myth, ending on what this means for exchange trust assumptions",
-      "source": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says"
+      "title": "North Korea's IP Slip: How Bitget's $387M Hack Became a Whodunit With Homework Due",
+      "why_now": "Bitget's CEO just publicly named North Korea using IP clues within hours of confirming the $387M breach, giving a rare real-time forensic trail to dissect.",
+      "angle": "Security-forensics breakdown: walk through the IP evidence, compare to Lazarus Group's known TTPs from prior hacks (Ronin, Bybit), and score how convincing the attribution actually is.",
+      "source": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues"
     },
     {
-      "title": "KelpDAO Just Sued LayerZero for 'Endorsing' the Setup That Got It Hacked for $292M — Audits Are About to Get a Lot Scarier",
-      "why_now": "This is the first major lawsuit alleging a bridge provider's endorsement of an architecture created legal liability for the $292M exploit.",
-      "angle": "Explainer on the precedent this sets for infra providers, auditors, and 'we reviewed this' language in DeFi",
-      "source": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361"
+      "title": "Circle and Tether Froze the Bitget Hacker's Wallet. The Money Left Anyway.",
+      "why_now": "Same-day reporting shows issuers moved fast to freeze stablecoins tied to the heist, but most funds still escaped—a live case study in the real limits of centralized freeze powers.",
+      "angle": "'Priced-in reality check' post: what freezing actually stops (and doesn't), with a timeline of the chase vs. the funds that got away.",
+      "source": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack"
     },
     {
-      "title": "AI Can Doxx Your 'Anonymous' Wallet Now — Here's What That Actually Means for Your OpSec",
-      "why_now": "Fresh reporting on AI-powered deanonymization tools directly threatens the pseudonymity crypto users assume they have.",
-      "angle": "Practical opsec checklist framed around what AI deanonymization can and can't do today, written for people who think they're already careful",
-      "source": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on"
+      "title": "KelpDAO vs. LayerZero: The Lawsuit That Turns 'We Endorsed the Setup' Into a Liability Trap",
+      "why_now": "KelpDAO just filed suit claiming LayerZero endorsed the exact bridge configuration exploited for $292M, opening a new legal front for infrastructure-provider liability in DeFi.",
+      "angle": "Legal-meets-security explainer: precedent-setting angle on whether protocol 'endorsements' create actionable duty of care—relevant to every LST/bridge integration since.",
+      "source": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit"
     },
     {
-      "title": "The £10K Reward Won't Fix This: Crypto's Wrench-Attack Problem Is a Security Model Failure, Not Bad Luck",
-      "why_now": "A UK couple was just attacked in their home over crypto holdings, the latest in a rising pattern of physical extraction attacks tied to on-chain visibility.",
-      "angle": "Argue that on-chain transparency + public wealth signaling is the real vulnerability, with concrete steps to reduce physical exposure",
-      "source": "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion"
+      "title": "Your Old NFT Listings Are a Live Exploit: The Magic Eden Approval Bug Nobody Revoked",
+      "why_now": "Magic Eden just placed 3,832 NFTs into whitehat custody after discovering legacy payment-processor approvals left $5.7M exposed—a textbook 'forgotten permission' vulnerability.",
+      "angle": "Actionable security checklist: how to audit and revoke old marketplace approvals right now, framed around this specific exploit mechanism.",
+      "source": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874"
     },
     {
-      "title": "3,832 NFTs in 'Protective Custody': What a Whitehat Rescue Looks Like When It Actually Works",
-      "why_now": "Magic Eden's incident is a rare case where a vulnerability was caught and contained before becoming a headline nine-figure loss.",
-      "angle": "Contrast this clean whitehat intervention against the same week's Bitget disaster to illustrate what 'good' incident response looks like",
-      "source": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "AlphaFi Died From an Oracle Error. That's Not News to Anyone Who's Been Paying Attention.",
+      "why_now": "AlphaFi just wound down entirely after an oracle failure, even with Sui Foundation support stepping in—another entry in the long ledger of oracle-dependent protocols failing predictably.",
+      "angle": "Pattern-recognition piece: line up AlphaFi against past oracle-failure collapses (Mango, Euler-adjacent incidents) to argue oracle risk is structurally unsolved, not a one-off.",
+      "source": "https://thedefiant.io/news/defi/alphafi-winds-down-after-oracle-error-with-sui-foundation-support"
     }
   ]
 }

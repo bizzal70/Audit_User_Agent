@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-25T11:08:32+00:00",
+  "generated": "2026-09-26T11:07:13+00:00",
   "opportunities": [
     {
-      "title": "The WoW Subclasses Are Swapping Out Class Features, Not Adding to Them — Here's the Rules Math",
-      "why_now": "EN World just confirmed the D&D/WoW subclasses will replace classic class features rather than stack on top, a structural rules choice worth breaking down before backlash sets in.",
-      "angle": "Rules-first breakdown comparing swapped features vs. base class chassis, with a table of what's lost vs. gained",
+      "title": "The Fine Print: What D&D's World of Warcraft Subclasses Actually Replace (And What You Lose)",
+      "why_now": "New WoW subclasses swapping out classic class features is a direct rules-text change worth breaking down feature-by-feature.",
+      "angle": "Side-by-side table comparing old class feature vs new WoW subclass ability, with a verdict on power level",
       "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/"
     },
     {
-      "title": "Bahamut's New Stat Block, Decoded: What Actually Changed Mechanically",
-      "why_now": "WotC just revealed the redesigned Bahamut art/lore, making this the moment to get ahead with a mechanical teardown before the full stat block drops.",
-      "angle": "Side-by-side comparison of known Bahamut lore changes against 5e deity/legendary creature design patterns, predicting stat block implications",
+      "title": "Reading Bahamut's New Stat Block: What Changed and Why It Matters at the Table",
+      "why_now": "The redesign just dropped, giving a fresh stat block to parse before players inevitably fight or summon him.",
+      "angle": "Line-by-line stat block breakdown comparing old vs new abilities/CR implications",
       "source": "https://www.enworld.org/threads/check-out-d-ds-redesign-of-bahamut.720761/"
     },
     {
-      "title": "UK Games Expo Just Banned AI — Here's What the Actual Policy Covers (and Doesn't)",
-      "why_now": "UKGE's AI ban is fresh news and full of ambiguity that TTRPG creators/exhibitors need parsed now before the next expo cycle.",
-      "angle": "Rules-of-the-convention explainer: what's banned, loopholes, and how it compares to Gen Con/PAX policies",
+      "title": "Paranoia's New Influencer Adventure: The Rules for Playing a Clone Who's Terminally Online",
+      "why_now": "The new adventure module just released with a fresh satirical hook worth examining mechanically, not just thematically.",
+      "angle": "Mechanics-focused preview: what new subsystems or twists the adventure introduces to Paranoia's ruleset",
+      "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
+    },
+    {
+      "title": "UK Games Expo Bans AI: What the Actual Policy Says (and What It Doesn't Cover)",
+      "why_now": "The ban was just announced and convention rules always draw a rules-first audience wanting the fine print, not just the headline.",
+      "angle": "Policy breakdown: scope, enforcement, loopholes, and comparison to other convention AI rules",
       "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
     },
     {
-      "title": "D&D's WoW Book Preview: Reading the Rules Tea Leaves",
-      "why_now": "WotC has started previewing the WoW crossover book, giving us our first real look at how they're translating a video game universe into D&D rules structure.",
-      "angle": "Deep-dive parsing the preview images/text for rules implications — race/class balance, setting rules, monster stat conventions",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-starting-to-preview-its-world-of-warcraft-book.720753/"
-    },
-    {
-      "title": "What the Dragonlance World Book Update Tells Us About Canon Lock-In",
-      "why_now": "Weis, Hickman, and Manganiello's fresh update signals how much of the original Dragonlance rules/lore will survive into the new sourcebook.",
-      "angle": "Fact-check style piece comparing original Dragonlance module rules/lore vs. what's being teased for the new world book",
-      "source": "https://www.enworld.org/threads/weis-hickman-and-manganiello-update-on-dragonlance-world-book.720774/"
+      "title": "So You Think the Campaign Is Over: The Rules-First Checklist for Ending a Campaign Right",
+      "why_now": "Gnome Stew's fresh piece on campaign endings is a perfect springboard for a rules-and-procedure take on how to actually close a campaign, not just vibes.",
+      "angle": "Structured checklist/procedure post: XP wrap-up, epilogue mechanics, downtime rules for endings across systems",
+      "source": "https://gnomestew.com/did-we-just-finish-the-campaign/"
     }
   ]
 }

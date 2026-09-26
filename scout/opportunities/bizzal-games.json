@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-25T11:08:32+00:00",
+  "generated": "2026-09-26T11:07:13+00:00",
   "opportunities": [
     {
-      "title": "New Bahamut Stat Block Breakdown: Is the Platinum Dragon Finally a Real Threat?",
-      "why_now": "WotC just previewed the redesigned Bahamut stat block, giving GMs fresh legendary actions to dissect before the book drops.",
-      "angle": "60-sec stat-block teardown: legendary resistance count, new lair actions, and whether it can actually kill a level 20 party — dry mechanical read, no lore fluff.",
+      "title": "Bahamut's New Stat Block: Is the Redesign Actually Killable at Tier 4?",
+      "why_now": "WotC just published Bahamut's official redesign, giving a fresh, high-interest stat block to break down before fans do it wrong.",
+      "angle": "60-sec stat-block teardown: legendary actions, breath weapon save DC, and a lair action ruling that changes how you run the fight",
       "source": "https://www.enworld.org/threads/check-out-d-ds-redesign-of-bahamut.720761/"
     },
     {
-      "title": "D&D x WoW Subclasses Swap Core Class Features — Here's the Ruling Headache",
-      "why_now": "EN World just detailed that these crossover subclasses replace baseline class features, which breaks multiclass and feat-prerequisite assumptions RAW.",
-      "angle": "Ruling short: walk through what happens when a swapped feature conflicts with a feat that references the removed ability — practical adjudication, not opinion.",
+      "title": "D&D x WoW Subclasses Are Swapping Out Class Features — Here's the Ruling Nobody's Asking",
+      "why_now": "The WoW crossover subclasses replacing baseline class features just dropped, and tables will be arguing balance by the weekend.",
+      "angle": "Dry rules-lawyer breakdown: which core feature gets cut, what you lose mechanically, and whether it's legal to reskin instead",
       "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/"
     },
     {
-      "title": "Purple Worm! Kickstarter Reminder: Swallow Whole Is Still the Nastiest Save-or-Die in 5e",
-      "why_now": "A crowdfunded product literally named 'Purple Worm!' just launched, giving a clean hook to revisit the monster's mechanics.",
-      "angle": "Creature tactic short: how to run swallow-whole grapple math and acid damage timing so it's lethal but not a TPK ambush from nowhere.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-wild-hearth-the-griffons-saddlebag-faster-purple-worm-and-more.720755/"
-    },
-    {
-      "title": "Dragonlance Is Coming Back — Here's the Draconian Death Burst Ruling Nobody Runs Right",
-      "why_now": "Weis, Hickman, and Manganiello just gave an update on the Dragonlance world book, putting draconians back on GMs' radar.",
-      "angle": "Spell/creature use-case: exact area and damage-type ruling for a draconian's death burst when it drops in melee, plus how to reskin it for non-Dragonlance settings.",
-      "source": "https://www.enworld.org/threads/weis-hickman-and-manganiello-update-on-dragonlance-world-book.720774/"
-    },
-    {
-      "title": "UK Games Expo Just Banned AI From the Convention — What That Means for Your Homebrew Stat Blocks",
-      "why_now": "A major UK con just enacted an AI ban, giving the channel a timely hook to weigh in on AI-generated content at the table.",
-      "angle": "Wry industry-commentary short: veteran GM take on why hand-tuned encounters beat AI-generated ones, tying back to a specific ruling/tactic example.",
+      "title": "UK Games Expo Banned AI. Here's My Actual Table Rule (And Why It's Not About Ethics)",
+      "why_now": "A major UK con just instituted a hard AI ban, making this the news hook to state a concrete GM policy instead of a hot take.",
+      "angle": "One-rule format: the exact table policy on AI-generated content at your game and the mechanical reason (consistency, not morality)",
       "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
+    },
+    {
+      "title": "Did You Actually Finish the Campaign, or Did You Just Stop? A Ruling on Endings",
+      "why_now": "Gnome Stew's piece on ambiguous campaign endings is timely for the fall table-restart season when GMs are deciding whether to continue or reboot.",
+      "angle": "Wry veteran take: three mechanical signs a campaign is actually over vs. just stalled, framed as a diagnostic checklist",
+      "source": "https://gnomestew.com/did-we-just-finish-the-campaign/"
+    },
+    {
+      "title": "Paranoia's New Influencer Adventure Is Funny — Here's the 5e Version That Actually Works",
+      "why_now": "Paranoia just released an adventure roasting social media influencers, giving a ready-made crossover bit for a 5e/Shadowdark audience.",
+      "angle": "Quick creature/NPC tactic: statting an 'Influencer NPC' with a real mechanical gimmick (Charm save on livestream, not just flavor text)",
+      "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
     }
   ]
 }

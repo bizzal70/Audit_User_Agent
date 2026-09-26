@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-25T11:08:32+00:00",
+  "generated": "2026-09-26T11:07:13+00:00",
   "plays": [
     {
-      "story": "Bitget confirms $352M hack via spoofed transfers, likely North Korea-linked, while crypto markets barely flinch (bitcoin holds ~$84K, ETFs erase $5.8B outflow hole)",
+      "story": "Bitget confirms a $387.5M hot-wallet breach; CEO points to North Korea/Lazarus IP clues while Tether and Circle scramble to freeze hacker wallets",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Bitget Loses $352M, Bitcoin Doesn't Blink' — why the third-biggest exchange hack of the year barely moved the market, and what that says about crypto's hack fatigue",
-        "itsalreadywhen": "'Spoofed, Not Stolen': How Bitget's $352M Breach Actually Happened — a walkthrough of the backend compromise technique, plus the IP-trail clues pointing at North Korea"
+        "itsalreadypriced": "We Called It: Bitget's $387M Drain Is Proof 'Crypto Economy Held Firm' Doesn't Mean Exchanges Are Safe — pair the Bitget collapse with Chainalysis's rosy 2026 Adoption Index for a reality-check piece on adoption vs. custody risk.",
+        "itsalreadywhen": "It Was Always 'When,' Not 'If': Inside the Lazarus Playbook Behind Bitget's $387M Hot-Wallet Heist — break down the IP-clue attribution and how Tether/Circle's freeze response is becoming the new incident-response standard."
       },
-      "source": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says"
+      "source": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218"
     },
     {
-      "story": "KelpDAO sues LayerZero and its CEO over the $292M rsETH bridge exploit, calling it 2026's largest DeFi hack so far",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Can You Sue Your Way Out of a Bridge Exploit?' — KelpDAO's lawsuit against LayerZero tests who's liable when 'endorsed' infrastructure gets drained for $292M",
-        "itsalreadywhen": "Inside the $292M rsETH Exploit: What LayerZero's Endorsed Bridge Setup Got Wrong (and why the lawsuit reads like a security audit)"
-      },
-      "source": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far"
-    },
-    {
-      "story": "D&D reveals redesigned Bahamut art and confirms its World of Warcraft subclasses will swap out classic class features for new abilities",
+      "story": "UK Games Expo becomes a major convention to formally ban AI-generated content and tools from its show floor",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "D&D's WoW Subclasses Are Replacing Core Class Features — Here's What GMs Need to Know Before Players Bring Them to the Table",
-        "itsalreadywritten": "Redesigning a God: What D&D's New Bahamut Reveals About How Modern Mythmaking Actually Works"
+        "bizzal-games": "UK Games Expo Just Banned AI — Here's What That Means for Every Publisher's Booth, Budget, and Bottom Line in 2027.",
+        "itsalreadywritten": "No Robots Allowed: UK Games Expo's AI Ban and the Industry's Line in the Sand for Human-Written Worlds."
+      },
+      "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
+    },
+    {
+      "story": "D&D's lore machine is running hot this week: Bahamut gets redesigned, WoW crossover subclasses swap out classic class features, and Weis/Hickman/Manganiello give a Dragonlance world book update",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "D&D's IP Engine Is in Overdrive: Inside the Business Bet Behind Bahamut's Redesign and the WoW Crossover Subclasses.",
+        "itsalreadywritten": "Bahamut, Reforged: What D&D's Redesign — and a New Dragonlance Update — Say About Rewriting Canon That Was Supposedly Already Written."
       },
       "source": "https://www.enworld.org/threads/check-out-d-ds-redesign-of-bahamut.720761/"
     },
     {
-      "story": "A wave of agentic-AI security failures — OpenAI agents probing an Australian government site, Salesforce Agentforce's zero-click 'SalesBleed' bug, and open-source agents used to breach a Fortune 500 hotel chain and a major airline",
+      "story": "Paranoia's newest adventure takes direct aim at social media influencer culture",
       "channels": [
-        "itsalreadywhen",
-        "itsalreadypriced"
+        "bizzal-games",
+        "itsalreadywritten"
       ],
       "angles": {
-        "itsalreadywhen": "The Week Agentic AI Broke Security: SalesBleed, Rogue OpenAI Agents, and the Open-Source Toolkit That Hit 25+ Orgs",
-        "itsalreadypriced": "If an AI Agent Can Zero-Click Its Way Into a Fortune 500's CRM, What's It Doing Inside Your DeFi Bot? — the agentic-AI security gap crypto protocols aren't pricing in"
+        "bizzal-games": "Paranoia's New Adventure Skewers Influencer Culture — and It's Secretly a Masterclass in TTRPG Marketing Self-Awareness.",
+        "itsalreadywritten": "Paranoia Saw This Coming: The 40-Year-Old Dystopian RPG That Predicted Your Favorite Influencer's Downfall."
       },
-      "source": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012"
+      "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
     }
   ]
 }
