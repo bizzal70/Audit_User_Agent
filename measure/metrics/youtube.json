@@ -7472,5 +7472,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-09-26",
+    "videos": [
+      {
+        "id": "MKeU-ZcsyWs",
+        "title": "Hobgoblin's Phalanx talent changes the odds #shadowdark",
+        "published": "2026-09-25",
+        "views": 9,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "kCfKVCKQE88",
+        "title": "Attack Rolls determine hit success #dnd5e",
+        "published": "2026-09-25",
+        "views": 19,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "N5hzr_O4LeI",
+        "title": "Halfling Luck economy outperforms other classes #dcc",
+        "published": "2026-09-25",
+        "views": 4,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "IGPk5DwLG8c",
+        "title": "Sea Wolf's Old Gods talent offers a surprising tactical edge #shadowdark",
+        "published": "2026-09-24",
+        "views": 54,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "kNzY7K2W6c4",
+        "title": "Scorching Ray often feels underwhelming #dnd5e",
+        "published": "2026-09-24",
+        "views": 10,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "A-LveatI0T4",
+        "title": "Make Dragonborn (Red Dragon Hatchling) cost something #dcc",
+        "published": "2026-09-24",
+        "views": 18,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "dqVOwZfyUgw",
+        "title": "Barbarians' d12 hit dice boosts health recovery #dnd5e",
+        "published": "2026-09-24",
+        "views": 115,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "cTOm_pR8FZs",
+        "title": "Barbarian: Mastering Hit Dice and Saving Throws #dnd5e",
+        "published": "2026-09-24",
+        "views": 12,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "ZBbKjU3zsBg",
+        "title": "Willowman forces a morale check on normally immune creatures #shadowdark",
+        "published": "2026-09-23",
+        "views": 23,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "krwIIW_bwTI",
+        "title": "Reef Shark's Pack Tactics often surprises parties #dnd5e",
+        "published": "2026-09-23",
+        "views": 68,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "41-C9DT1gRs",
+        "title": "Weapon-breaker does more than just damage #dcc",
+        "published": "2026-09-23",
+        "views": 395,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "ez48tBBMh08",
+        "title": "Animate Dead lasts only one day #shadowdark",
+        "published": "2026-09-23",
+        "views": 30,
+        "likes": 3,
+        "comments": 0
+      }
+    ]
   }
 ]
