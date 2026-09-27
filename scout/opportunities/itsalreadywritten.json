@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-26T11:07:13+00:00",
+  "generated": "2026-09-27T11:07:36+00:00",
   "opportunities": [
     {
-      "title": "The Fine Print: What D&D's World of Warcraft Subclasses Actually Replace (And What You Lose)",
-      "why_now": "New WoW subclasses swapping out classic class features is a direct rules-text change worth breaking down feature-by-feature.",
-      "angle": "Side-by-side table comparing old class feature vs new WoW subclass ability, with a verdict on power level",
+      "title": "D&D's WoW Subclasses Are Swapping Out Class Features — Here's the Actual Rules Text You Need to Read",
+      "why_now": "Official crossover subclasses are replacing core class features, which is a structural rules change worth breaking down line by line.",
+      "angle": "Rules-comparison breakdown: old class feature vs new WoW-subclass replacement, table format",
       "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/"
     },
     {
-      "title": "Reading Bahamut's New Stat Block: What Changed and Why It Matters at the Table",
-      "why_now": "The redesign just dropped, giving a fresh stat block to parse before players inevitably fight or summon him.",
-      "angle": "Line-by-line stat block breakdown comparing old vs new abilities/CR implications",
-      "source": "https://www.enworld.org/threads/check-out-d-ds-redesign-of-bahamut.720761/"
-    },
-    {
-      "title": "Paranoia's New Influencer Adventure: The Rules for Playing a Clone Who's Terminally Online",
-      "why_now": "The new adventure module just released with a fresh satirical hook worth examining mechanically, not just thematically.",
-      "angle": "Mechanics-focused preview: what new subsystems or twists the adventure introduces to Paranoia's ruleset",
-      "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
-    },
-    {
-      "title": "UK Games Expo Bans AI: What the Actual Policy Says (and What It Doesn't Cover)",
-      "why_now": "The ban was just announced and convention rules always draw a rules-first audience wanting the fine print, not just the headline.",
-      "angle": "Policy breakdown: scope, enforcement, loopholes, and comparison to other convention AI rules",
+      "title": "UK Games Expo Bans AI: What the Actual Policy Says (and Doesn't)",
+      "why_now": "A major convention just codified an AI ban, setting a precedent other cons and publishers will be measured against.",
+      "angle": "Policy explainer with quoted rule language, plus prediction on ripple effects for other conventions",
       "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
     },
     {
-      "title": "So You Think the Campaign Is Over: The Rules-First Checklist for Ending a Campaign Right",
-      "why_now": "Gnome Stew's fresh piece on campaign endings is a perfect springboard for a rules-and-procedure take on how to actually close a campaign, not just vibes.",
-      "angle": "Structured checklist/procedure post: XP wrap-up, epilogue mechanics, downtime rules for endings across systems",
+      "title": "Paranoia Takes On Influencers: The Adventure Where Your Social Score IS the Rules Mechanic",
+      "why_now": "Fresh adventure release lets us dig into how Paranoia mechanizes satire, a rare case of theme becoming literal rule.",
+      "angle": "Mechanics deep-dive: how the influencer/clout system is implemented as a subsystem",
+      "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
+    },
+    {
+      "title": "Dragonlance World Book: What Weis, Hickman, and Manganiello's Update Actually Confirms for 5E Canon",
+      "why_now": "Fresh creator update gives concrete, quotable details worth parsing for canon/rules implications.",
+      "angle": "News recap + 'what this means for your table' rules speculation",
+      "source": "https://www.enworld.org/threads/weis-hickman-and-manganiello-update-on-dragonlance-world-book.720774/"
+    },
+    {
+      "title": "'Did We Just Finish the Campaign?' — The Unwritten Rule Nobody Puts in the Rulebook",
+      "why_now": "Gnome Stew's piece hits a universal GM problem that begs for a rules-first, 'here's the actual endgame procedure' response.",
+      "angle": "Rebuttal/companion post proposing a concrete end-of-campaign checklist as if it were errata",
       "source": "https://gnomestew.com/did-we-just-finish-the-campaign/"
     }
   ]

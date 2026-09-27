@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-26T11:07:13+00:00",
+  "generated": "2026-09-27T11:07:36+00:00",
   "opportunities": [
     {
-      "title": "ShinyHunters Just Told Us Why They Hacked the FBI: 'To Protect Our Business'",
-      "why_now": "A named threat actor is openly bragging to press about breaching a federal law enforcement agency, which is too brazen not to cover immediately.",
-      "angle": "Quote-driven breakdown of the ShinyHunters interview with a timeline of what they claim to have taken and what it means for FBI infosec credibility",
-      "source": "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250"
+      "title": "Two Citrix NetScaler Zero-Days, Zero Patches: What 'Actively Exploited' Means for Your Weekend",
+      "why_now": "Unpatched RCE zero-days in NetScaler are already being exploited in the wild as of Sept 27, making this the most urgent patch-now item on the board.",
+      "angle": "Breaking CVE alert format: what's known, who's exploiting it, mitigation steps until a patch lands, with a running patch-cadence tracker",
+      "source": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"
     },
     {
-      "title": "SalesBleed: The Zero-Click Salesforce Bug That Turned Agentforce Into a Phishing Bot",
-      "why_now": "Multiple outlets (Register, Dark Reading, SecurityWeek, Hacker News) are converging on the same CVE within 24 hours, signaling it's the week's must-patch item.",
-      "angle": "Explainer digest with CVE ID, affected orgs, and a 'patch now' checklist for Salesforce admins",
+      "title": "SharePoint's Bad Week: CVE-2026-65660 Joins Active Exploitation List Alongside MikroTik RCE",
+      "why_now": "SecurityWeek and Hacker News both confirm active exploitation of a fresh SharePoint flaw days after disclosure, echoing the ToolShell pattern that burned enterprises before.",
+      "angle": "Timeline-style breakdown of disclosure-to-exploitation gap, cross-referencing both reports, with a 'patch this now' checklist",
+      "source": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/"
+    },
+    {
+      "title": "'SalesBleed': The Zero-Click Bug That Turned Salesforce Agentforce Into a Slack Phishing Machine",
+      "why_now": "Multiple outlets (Register, Dark Reading, SecurityWeek) are converging on this Agentforce vuln, signaling it's the week's defining AI-agent security story.",
+      "angle": "Explainer digest on how agentic AI CRM tools expand attack surface, framed as a case study for the 'inevitable breach' thesis on AI adoption outpacing security",
       "source": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing"
     },
     {
-      "title": "North Korea's $351M Bitget Heist: Lazarus's Biggest Score Since Ronin",
-      "why_now": "A nine-figure crypto theft attributed to DPRK just happened and exchanges are still confirming the backend compromise vector.",
-      "angle": "Follow-the-money breakdown comparing Bitget to prior DPRK heists, with a running tally of 2026 North Korean crypto theft totals",
-      "source": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218"
+      "title": "ShinyHunters Says They Hacked the FBI 'to Protect Our Business' — When Threat Actors Talk Back",
+      "why_now": "A named ransomware/extortion crew giving The Register an on-record justification for breaching a federal agency is a rare, quotable moment worth dissecting.",
+      "angle": "Threat-actor profile/analysis piece unpacking the quote, their track record, and what it signals about criminal confidence in 2026",
+      "source": "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250"
     },
     {
-      "title": "A Lone Hacker Used Three Open-Source AI Agents to Breach a Fortune 500 Hotel Chain and a Major Airline",
-      "why_now": "This is one of the first documented cases of off-the-shelf autonomous agents chaining a real-world multi-org intrusion, a landmark moment for the 'AI-agent threat actor' beat.",
-      "angle": "Deep-dive on the tooling and TTPs, framed as 'the attack that proves agentic AI crime has arrived'",
+      "title": "One Crook, Three Open-Source Agents, 25+ Victims: Inside the Toolkit That Cracked a Fortune 500 Hotel Chain and a Major Airline",
+      "why_now": "This single-actor, agent-driven intrusion spree across a hospitality giant and an airline is a concrete, high-impact breach with reusable-toolkit implications for every defender.",
+      "angle": "Deep-dive breach digest: attacker tooling breakdown, victim list scope, and what it means that commodity open-source agents now scale like APT ops",
       "source": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012"
-    },
-    {
-      "title": "Patch Tuesday Never Ends: SharePoint RCE and MikroTik RouterOS Bugs Are Being Exploited Right Now",
-      "why_now": "Active exploitation of two widely deployed platforms (SharePoint servers, MikroTik routers) is confirmed the same week, making it a direct patch-cadence alert.",
-      "angle": "Rapid-fire 'patch now' bulletin format with CVE numbers, exploitation status, and mitigation steps for sysadmins",
-      "source": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
     }
   ]
 }

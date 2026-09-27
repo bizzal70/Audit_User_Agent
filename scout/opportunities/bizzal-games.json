@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-26T11:07:13+00:00",
+  "generated": "2026-09-27T11:07:36+00:00",
   "opportunities": [
     {
-      "title": "Bahamut's New Stat Block: Is the Redesign Actually Killable at Tier 4?",
-      "why_now": "WotC just published Bahamut's official redesign, giving a fresh, high-interest stat block to break down before fans do it wrong.",
-      "angle": "60-sec stat-block teardown: legendary actions, breath weapon save DC, and a lair action ruling that changes how you run the fight",
-      "source": "https://www.enworld.org/threads/check-out-d-ds-redesign-of-bahamut.720761/"
-    },
-    {
-      "title": "D&D x WoW Subclasses Are Swapping Out Class Features — Here's the Ruling Nobody's Asking",
-      "why_now": "The WoW crossover subclasses replacing baseline class features just dropped, and tables will be arguing balance by the weekend.",
-      "angle": "Dry rules-lawyer breakdown: which core feature gets cut, what you lose mechanically, and whether it's legal to reskin instead",
+      "title": "D&D x WoW Subclasses Are Ditching Core Class Features — Here's the Ruling That Actually Matters",
+      "why_now": "WotC just announced these crossover subclasses swap out baseline class abilities, which breaks bounded accuracy assumptions your table needs a ruling on now.",
+      "angle": "60-sec breakdown: pick one swapped feature, run the math against a vanilla subclass, declare which is busted",
       "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/"
     },
     {
-      "title": "UK Games Expo Banned AI. Here's My Actual Table Rule (And Why It's Not About Ethics)",
-      "why_now": "A major UK con just instituted a hard AI ban, making this the news hook to state a concrete GM policy instead of a hot take.",
-      "angle": "One-rule format: the exact table policy on AI-generated content at your game and the mechanical reason (consistency, not morality)",
+      "title": "UK Games Expo Just Banned AI at the Table — Here's the House Rule You Should Already Have",
+      "why_now": "The AI ban at a major UK con is the news hook to talk about AI-generated content at your table without sounding preachy.",
+      "angle": "Short rant-to-ruling: state your own AI-at-the-table house rule in one sentence, then justify it mechanically (session prep vs. in-fiction content)",
       "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
     },
     {
-      "title": "Did You Actually Finish the Campaign, or Did You Just Stop? A Ruling on Endings",
-      "why_now": "Gnome Stew's piece on ambiguous campaign endings is timely for the fall table-restart season when GMs are deciding whether to continue or reboot.",
-      "angle": "Wry veteran take: three mechanical signs a campaign is actually over vs. just stalled, framed as a diagnostic checklist",
+      "title": "Dragonlance's Return Means Draconians Are Coming Back — Here's How to Actually Run Their Death Explosion",
+      "why_now": "Weis/Hickman/Manganiello's Dragonlance world book update is reigniting interest in the setting's signature monster, and most tables run the death-burst wrong.",
+      "angle": "Creature tactic short: walk through Baaz draconian death explosion damage/radius rules and a GM trick to make players dread melee-ing them",
+      "source": "https://www.enworld.org/threads/weis-hickman-and-manganiello-update-on-dragonlance-world-book.720774/"
+    },
+    {
+      "title": "\"Did We Just Finish the Campaign?\" — The Ruling Nobody Makes: When to Actually End It",
+      "why_now": "Gnome Stew's piece on campaign endings is a rare non-crunch topic that fits a wry GM take on the unwritten 'session zero' rule for finales.",
+      "angle": "Dry monologue format: 3 mechanical/narrative signs a campaign is over, delivered like a diagnostic checklist, not sentimental fluff",
       "source": "https://gnomestew.com/did-we-just-finish-the-campaign/"
     },
     {
-      "title": "Paranoia's New Influencer Adventure Is Funny — Here's the 5e Version That Actually Works",
-      "why_now": "Paranoia just released an adventure roasting social media influencers, giving a ready-made crossover bit for a 5e/Shadowdark audience.",
-      "angle": "Quick creature/NPC tactic: statting an 'Influencer NPC' with a real mechanical gimmick (Charm save on livestream, not just flavor text)",
+      "title": "Paranoia's New Influencer-Skewering Adventure Is Funnier Than Your Last Bard PC",
+      "why_now": "Paranoia's fresh adventure mocking social media influencers is a rare crossover moment worth a quick comparison bit for the tabletop crowd bored of standard fantasy tropes.",
+      "angle": "Quick compare/contrast: Paranoia's clone-death humor vs. a D&D bard's Vicious Mockery use-case, both punishing bad social plays",
       "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
     }
   ]

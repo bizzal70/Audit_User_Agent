@@ -1,53 +1,53 @@
 {
-  "generated": "2026-09-26T11:07:13+00:00",
+  "generated": "2026-09-27T11:07:36+00:00",
   "plays": [
     {
-      "story": "Bitget confirms a $387.5M hot-wallet breach; CEO points to North Korea/Lazarus IP clues while Tether and Circle scramble to freeze hacker wallets",
+      "story": "Bitget confirms $387.5M security breach; Bitget CEO and researchers suspect North Korea via IP clues; stolen XRP moved but can't be frozen by Ripple",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "We Called It: Bitget's $387M Drain Is Proof 'Crypto Economy Held Firm' Doesn't Mean Exchanges Are Safe — pair the Bitget collapse with Chainalysis's rosy 2026 Adoption Index for a reality-check piece on adoption vs. custody risk.",
-        "itsalreadywhen": "It Was Always 'When,' Not 'If': Inside the Lazarus Playbook Behind Bitget's $387M Hot-Wallet Heist — break down the IP-clue attribution and how Tether/Circle's freeze response is becoming the new incident-response standard."
+        "itsalreadypriced": "'Bitget's $387M Breach Just Exposed Crypto's Freezability Problem' — contrast how fast Circle/Tether froze hacker wallets vs. the $83M in XRP that Ripple structurally cannot touch, and what that means for exchange risk pricing going forward.",
+        "itsalreadywhen": "'The IP Address That Gave Away a $387M Heist' — dissect the forensic trail Bitget's CEO used to finger North Korea, tying it to the broader pattern of DPRK exchange raids and what security teams should watch for next."
       },
-      "source": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218"
+      "source": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345"
     },
     {
-      "story": "UK Games Expo becomes a major convention to formally ban AI-generated content and tools from its show floor",
+      "story": "Magic Eden vulnerability: legacy wallet approvals left $5.7M in NFTs exposed, 3,832 NFTs moved into whitehat protective custody before a hacker could strike",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'3,832 NFTs Were One Click From Gone: Inside Magic Eden's Whitehat Save' — what the near-miss means for NFT holders' portfolio risk and why legacy approvals are a silent tax on marketplace value.",
+        "itsalreadywhen": "'The Approval You Forgot: How a Legacy Permission Nearly Drained $5.7M in NFTs' — a teardown of the exploit mechanics as a case study in stale-permission attack surface, with a checklist for wallet hygiene."
+      },
+      "source": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874"
+    },
+    {
+      "story": "UK Games Expo bans AI from the convention floor",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "UK Games Expo Just Banned AI — Here's What That Means for Every Publisher's Booth, Budget, and Bottom Line in 2027.",
-        "itsalreadywritten": "No Robots Allowed: UK Games Expo's AI Ban and the Industry's Line in the Sand for Human-Written Worlds."
+        "bizzal-games": "'UK Games Expo Just Banned AI — Here's What That Means for Your Con Booth and Playtest Table' — practical breakdown for indie designers and GMs on what's now off-limits at the show.",
+        "itsalreadywritten": "'The Convention Line in the Sand: What UK Games Expo's AI Ban Signals for TTRPG Publishing' — what this precedent could mean for cover art, adventure writing credits, and licensing standards industry-wide."
       },
       "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
     },
     {
-      "story": "D&D's lore machine is running hot this week: Bahamut gets redesigned, WoW crossover subclasses swap out classic class features, and Weis/Hickman/Manganiello give a Dragonlance world book update",
+      "story": "D&D's World of Warcraft crossover subclasses will swap out classic class features for new abilities",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "D&D's IP Engine Is in Overdrive: Inside the Business Bet Behind Bahamut's Redesign and the WoW Crossover Subclasses.",
-        "itsalreadywritten": "Bahamut, Reforged: What D&D's Redesign — and a New Dragonlance Update — Say About Rewriting Canon That Was Supposedly Already Written."
+        "bizzal-games": "'D&D's WoW Subclasses Are Rewriting Class Fantasy — What GMs Need to Vet Before Session Zero' — a mechanics-first look at which classic features get replaced and how to balance them at the table.",
+        "itsalreadywritten": "'When Licensed IP Rewrites the Rules: What D&D x WoW Means for Homebrew Worldbuilding' — how crossover subclass design choices reveal Wizards' evolving approach to canon-blending and what it means for third-party settings."
       },
-      "source": "https://www.enworld.org/threads/check-out-d-ds-redesign-of-bahamut.720761/"
-    },
-    {
-      "story": "Paranoia's newest adventure takes direct aim at social media influencer culture",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Paranoia's New Adventure Skewers Influencer Culture — and It's Secretly a Masterclass in TTRPG Marketing Self-Awareness.",
-        "itsalreadywritten": "Paranoia Saw This Coming: The 40-Year-Old Dystopian RPG That Predicted Your Favorite Influencer's Downfall."
-      },
-      "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
+      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/"
     }
   ]
 }
