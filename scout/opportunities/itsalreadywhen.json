@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-27T11:07:36+00:00",
+  "generated": "2026-09-28T11:08:48+00:00",
   "opportunities": [
     {
-      "title": "Two Citrix NetScaler Zero-Days, Zero Patches: What 'Actively Exploited' Means for Your Weekend",
-      "why_now": "Unpatched RCE zero-days in NetScaler are already being exploited in the wild as of Sept 27, making this the most urgent patch-now item on the board.",
-      "angle": "Breaking CVE alert format: what's known, who's exploiting it, mitigation steps until a patch lands, with a running patch-cadence tracker",
-      "source": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"
+      "title": "Citrix NetScaler Zero-Days: The 72-Hour Timeline From 'Pull the Plug' to CISA's Wednesday Deadline",
+      "why_now": "Two actively-exploited NetScaler RCEs went from admin panic to a formal CISA emergency directive in under three days, making this the week's must-patch story.",
+      "angle": "Timeline explainer with patch-cadence scorecard: when Citrix knew, when CISA mandated, and why NetScaler keeps landing on this list",
+      "source": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
     },
     {
-      "title": "SharePoint's Bad Week: CVE-2026-65660 Joins Active Exploitation List Alongside MikroTik RCE",
-      "why_now": "SecurityWeek and Hacker News both confirm active exploitation of a fresh SharePoint flaw days after disclosure, echoing the ToolShell pattern that burned enterprises before.",
-      "angle": "Timeline-style breakdown of disclosure-to-exploitation gap, cross-referencing both reports, with a 'patch this now' checklist",
-      "source": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/"
-    },
-    {
-      "title": "'SalesBleed': The Zero-Click Bug That Turned Salesforce Agentforce Into a Slack Phishing Machine",
-      "why_now": "Multiple outlets (Register, Dark Reading, SecurityWeek) are converging on this Agentforce vuln, signaling it's the week's defining AI-agent security story.",
-      "angle": "Explainer digest on how agentic AI CRM tools expand attack surface, framed as a case study for the 'inevitable breach' thesis on AI adoption outpacing security",
-      "source": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing"
-    },
-    {
-      "title": "ShinyHunters Says They Hacked the FBI 'to Protect Our Business' — When Threat Actors Talk Back",
-      "why_now": "A named ransomware/extortion crew giving The Register an on-record justification for breaching a federal agency is a rare, quotable moment worth dissecting.",
-      "angle": "Threat-actor profile/analysis piece unpacking the quote, their track record, and what it signals about criminal confidence in 2026",
+      "title": "ShinyHunters Hacked the FBI 'to Protect Our Business' — Then Went After Oracle PeopleSoft With a WAF Bypass",
+      "why_now": "A threat actor bragging to a reporter about breaching federal law enforcement, in the same week they're actively exploiting PeopleSoft with a novel WAF bypass, is a two-for-one inevitable-breach story.",
+      "angle": "Threat-actor profile/dossier format tying the FBI hack quote to the concurrent PeopleSoft campaign as evidence of their operating philosophy",
       "source": "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250"
     },
     {
-      "title": "One Crook, Three Open-Source Agents, 25+ Victims: Inside the Toolkit That Cracked a Fortune 500 Hotel Chain and a Major Airline",
-      "why_now": "This single-actor, agent-driven intrusion spree across a hospitality giant and an airline is a concrete, high-impact breach with reusable-toolkit implications for every defender.",
-      "angle": "Deep-dive breach digest: attacker tooling breakdown, victim list scope, and what it means that commodity open-source agents now scale like APT ops",
-      "source": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012"
+      "title": "Kiteworks Told Customers to Shut Down for 9 Hours — What That Panic Move Reveals About 'Advanced Forms' Vulns",
+      "why_now": "A vendor ordering a full server shutdown over a possible attack is a rare, dramatic incident-response signal worth dissecting while it's fresh.",
+      "angle": "Breakdown of the shutdown order as a case study in vendor crisis comms vs. actual technical severity",
+      "source": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/"
+    },
+    {
+      "title": "RSA Just Took Another Hit: Schneier's New Attack and What It Actually Means for Your Cert Chain",
+      "why_now": "A fresh cryptographic attack on RSA from a top-tier analyst source is rare enough to warrant a plain-English translation for practitioners who patch on schedule but haven't retired algorithms.",
+      "angle": "Explainer translating the academic attack into 'do you need to worry yet' guidance with a patch-cadence angle",
+      "source": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html"
+    },
+    {
+      "title": "70 Months for Hacking AT&T and Verizon: The US Soldier Case as a Blueprint for Insider Extortion Sentencing",
+      "why_now": "A concrete, just-handed-down federal sentence for telecom extortion gives readers a rare data point on real-world consequences amid a week of breach chaos.",
+      "angle": "Sentencing analysis format: what he did, how he got caught, and what the sentence signals about deterrence",
+      "source": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/"
     }
   ]
 }

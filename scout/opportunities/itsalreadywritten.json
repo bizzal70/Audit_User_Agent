@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-27T11:07:36+00:00",
+  "generated": "2026-09-28T11:08:48+00:00",
   "opportunities": [
     {
-      "title": "D&D's WoW Subclasses Are Swapping Out Class Features — Here's the Actual Rules Text You Need to Read",
-      "why_now": "Official crossover subclasses are replacing core class features, which is a structural rules change worth breaking down line by line.",
-      "angle": "Rules-comparison breakdown: old class feature vs new WoW-subclass replacement, table format",
-      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/"
+      "title": "UKGE Just Banned AI Art From Its Show Floor — Here's the Actual Policy Text",
+      "why_now": "UKGE's AI ban was just announced in the Sept 27 podcast recap and the actual rule language matters more than the headline reaction.",
+      "angle": "Rules-first breakdown: quote the exhibitor policy verbatim, note what counts as 'AI-assisted' vs banned, and flag the enforcement gap",
+      "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
     },
     {
-      "title": "UK Games Expo Bans AI: What the Actual Policy Says (and Doesn't)",
-      "why_now": "A major convention just codified an AI ban, setting a precedent other cons and publishers will be measured against.",
-      "angle": "Policy explainer with quoted rule language, plus prediction on ripple effects for other conventions",
-      "source": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/"
+      "title": "The Dragonlance World Book Isn't Lore — It's a Stat Block Delivery System",
+      "why_now": "Fresh preview footage from Podcast #416 gives the first look at what mechanical content the Dragonlance book will actually contain.",
+      "angle": "Skip the nostalgia angle; itemize what new subclasses/kits/monster stats are confirmed vs speculated",
+      "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
     },
     {
-      "title": "Paranoia Takes On Influencers: The Adventure Where Your Social Score IS the Rules Mechanic",
-      "why_now": "Fresh adventure release lets us dig into how Paranoia mechanizes satire, a rare case of theme becoming literal rule.",
-      "angle": "Mechanics deep-dive: how the influencer/clout system is implemented as a subsystem",
+      "title": "Paranoia's New Influencer Adventure Proves the Treason Star Rule Never Needed Updating",
+      "why_now": "The Sept 25 EN World piece on Paranoia's social-media-influencer adventure is a live example of 40-year-old core mechanics still doing satire work.",
+      "angle": "Explain how Paranoia's clone/treason mechanics map directly onto influencer culture without a single rules change",
       "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
     },
     {
-      "title": "Dragonlance World Book: What Weis, Hickman, and Manganiello's Update Actually Confirms for 5E Canon",
-      "why_now": "Fresh creator update gives concrete, quotable details worth parsing for canon/rules implications.",
-      "angle": "News recap + 'what this means for your table' rules speculation",
-      "source": "https://www.enworld.org/threads/weis-hickman-and-manganiello-update-on-dragonlance-world-book.720774/"
+      "title": "'Just Use Bears': Sly Flourish's Monster Shortcut Is Actually a Rules Argument in Disguise",
+      "why_now": "Sly Flourish's Sept 28 post reframes stat-block reuse as strategy, which is exactly the kind of 'the math already works' claim this channel should fact-check.",
+      "angle": "Take the bear-stat-block-reskinning advice and verify it against actual CR math and monster manual entries — where it holds and where it breaks",
+      "source": "https://slyflourish.com/just_use_bears.html?rss=1"
     },
     {
-      "title": "'Did We Just Finish the Campaign?' — The Unwritten Rule Nobody Puts in the Rulebook",
-      "why_now": "Gnome Stew's piece hits a universal GM problem that begs for a rules-first, 'here's the actual endgame procedure' response.",
-      "angle": "Rebuttal/companion post proposing a concrete end-of-campaign checklist as if it were errata",
+      "title": "When Is a Campaign Actually Over? The Rules Never Tell You — So Gnome Stew Did",
+      "why_now": "Gnome Stew's Sept 25 piece tackles a structural gap most rulebooks skip entirely: how tables know a campaign has ended.",
+      "angle": "Survey how different systems (or lack thereof) handle campaign-end pacing, then propose a concrete checklist readers can steal",
       "source": "https://gnomestew.com/did-we-just-finish-the-campaign/"
     }
   ]
