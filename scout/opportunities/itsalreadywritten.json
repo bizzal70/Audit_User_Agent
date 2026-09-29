@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-28T11:08:48+00:00",
+  "generated": "2026-09-29T11:08:35+00:00",
   "opportunities": [
     {
-      "title": "UKGE Just Banned AI Art From Its Show Floor — Here's the Actual Policy Text",
-      "why_now": "UKGE's AI ban was just announced in the Sept 27 podcast recap and the actual rule language matters more than the headline reaction.",
-      "angle": "Rules-first breakdown: quote the exhibitor policy verbatim, note what counts as 'AI-assisted' vs banned, and flag the enforcement gap",
-      "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
+      "title": "Project Lamordia, Decoded: What 'Reinterpretation' Actually Means for Ravenloft's Rules",
+      "why_now": "D&D Beyond just teased a modern rework of Ravenloft, and fans need to know what mechanically changes versus lore-only refresh.",
+      "angle": "Rules-first breakdown speculating on Domains of Dread mechanics likely to be updated (Dark Powers checks, fear/horror rules) with citations to prior editions",
+      "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
     },
     {
-      "title": "The Dragonlance World Book Isn't Lore — It's a Stat Block Delivery System",
-      "why_now": "Fresh preview footage from Podcast #416 gives the first look at what mechanical content the Dragonlance book will actually contain.",
-      "angle": "Skip the nostalgia angle; itemize what new subclasses/kits/monster stats are confirmed vs speculated",
-      "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
+      "title": "The Tarrasque's Stat Block Is Already Written — Here's Why a 9-Inch Statue Undersells CR 30",
+      "why_now": "Iron Studios' new Tarrasque statue announcement is a perfect hook to revisit the actual rules text behind D&D's ultimate monster.",
+      "angle": "Quick-hit rules explainer pairing the collectible news with a breakdown of Tarrasque's regeneration, legendary resistance, and why it's nearly unkillable by RAW",
+      "source": "https://www.enworld.org/threads/9-inch-tarrasque-statue-coming-from-iron-studios.720821/"
     },
     {
-      "title": "Paranoia's New Influencer Adventure Proves the Treason Star Rule Never Needed Updating",
-      "why_now": "The Sept 25 EN World piece on Paranoia's social-media-influencer adventure is a live example of 40-year-old core mechanics still doing satire work.",
-      "angle": "Explain how Paranoia's clone/treason mechanics map directly onto influencer culture without a single rules change",
-      "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
-    },
-    {
-      "title": "'Just Use Bears': Sly Flourish's Monster Shortcut Is Actually a Rules Argument in Disguise",
-      "why_now": "Sly Flourish's Sept 28 post reframes stat-block reuse as strategy, which is exactly the kind of 'the math already works' claim this channel should fact-check.",
-      "angle": "Take the bear-stat-block-reskinning advice and verify it against actual CR math and monster manual entries — where it holds and where it breaks",
+      "title": "Just Use Bears: Sly Flourish's Stat Block Reuse Trick Is Older Than You Think",
+      "why_now": "Sly Flourish's new post on reskinning monster stat blocks is a rules-adjacent GM technique worth grounding in actual RAW mechanics.",
+      "angle": "Response/analysis piece citing the DMG's monster-reskinning guidance and CR math to validate (or push back on) the 'just use bears' approach",
       "source": "https://slyflourish.com/just_use_bears.html?rss=1"
     },
     {
-      "title": "When Is a Campaign Actually Over? The Rules Never Tell You — So Gnome Stew Did",
-      "why_now": "Gnome Stew's Sept 25 piece tackles a structural gap most rulebooks skip entirely: how tables know a campaign has ended.",
-      "angle": "Survey how different systems (or lack thereof) handle campaign-end pacing, then propose a concrete checklist readers can steal",
-      "source": "https://gnomestew.com/did-we-just-finish-the-campaign/"
+      "title": "D&D x World of Warcraft: Mapping the 7 Dungeons to Actual 5E Encounter Math",
+      "why_now": "EN World just broke down the seven WoW-crossover dungeons, giving us fresh source material to cross-reference against published D&D rules for encounter design.",
+      "angle": "Explainer translating the crossover dungeons into CR budgets, action economy notes, and tier-of-play placement",
+      "source": "https://www.enworld.org/threads/what-are-the-7-dungeons-in-d-d-world-of-warcraft-all-about.720808/"
+    },
+    {
+      "title": "UKGE Just Banned AI Art — What That Means for the Rules of Convention Exhibiting",
+      "why_now": "Podcast #416 revealed UKGE's new AI ban, a policy shift that directly affects how TTRPG publishers can exhibit and what counts as compliant content.",
+      "angle": "News breakdown of the actual policy language and precedent for other cons/publishers, framed as 'rules' governing the industry itself",
+      "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-28T11:08:48+00:00",
+  "generated": "2026-09-29T11:08:35+00:00",
   "opportunities": [
     {
-      "title": "THORChain Just Told Bitget No: The $388M Hack Where the 'Neutral' Rails Won",
-      "why_now": "THORChain is publicly refusing Bitget's request to block the hacker's addresses while the attacker actively swaps stolen ETH through it, exposing the protocol's laundering-by-design problem in real time.",
-      "angle": "Explainer/analysis: walk through the swap trail, quote THORChain's refusal, and argue why 'permissionless' infrastructure will always be the hacker's best friend — this is the third THORChain-adjacent incident in a year.",
-      "source": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses"
+      "title": "The Bitget Hack Sent a Test Transaction First — And Nobody Blinked",
+      "why_now": "Bitget's CEO just confirmed the attacker probed risk controls with small transfers before draining $388M, exposing a detection failure that keeps repeating across exchanges.",
+      "angle": "Security post-mortem: walk through the 'test transaction' pattern as the industry's most ignored tell, with a checklist of what monitoring should have caught it.",
+      "source": "https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045"
     },
     {
-      "title": "Circle and Tether Froze the Bitget Hack Funds — Except the Money Was Already Gone",
-      "why_now": "Fresh reporting shows issuer freezes only caught a fraction of stolen funds before they slipped into DeFi/cross-chain rails, undercutting the 'stablecoins as a safety net' narrative.",
-      "angle": "Data-driven breakdown: how much got frozen vs. how much escaped, and why freeze powers are theater once funds hit a DEX or bridge — tie back to THORChain swap timeline.",
-      "source": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack"
+      "title": "THORChain Let a $388M Hacker Cash Out. That's Not a Bug, That's the Business Model.",
+      "why_now": "THORChain is under fire for facilitating the Bitget hacker's ETH swaps just days after the exploit, reigniting the 'permissionless plumbing' vs. 'money laundering rail' debate.",
+      "angle": "Opinion/analysis: argue that cross-chain routers built for neutrality will always be the preferred off-ramp for stolen funds — priced in, not surprising.",
+      "source": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "A Fake Blockchain Named GIWA Just Drained $2M — And DYORSWAP Users Never Checked",
-      "why_now": "A brand-new copycat-chain scam siphoned $2M by spoofing a real project's name on a DEX, a textbook case of the exact due-diligence failure your audience already expects.",
-      "angle": "Rapid-fire postmortem: how the fake network fooled users, the on-chain red flags that were visible before the drain, and a checklist for verifying chain legitimacy before bridging/swapping.",
-      "source": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth"
+      "title": "NEAR Intents Just Blocked $50M — Proving 'Permissionless' Was Always Negotiable",
+      "why_now": "NEAR Intents blocking funds tied to the Bitget hacker is being cheered as a win, but it quietly undercuts the decentralization pitch every intent-based chain sells.",
+      "angle": "Contrarian take: praise the outcome, question the narrative — if you can block hackers, you can block anyone; map what this means for 'credibly neutral' infra claims.",
+      "source": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test"
     },
     {
-      "title": "Magic Eden's $5.7M Near-Miss Is Every NFT Wallet's Dirty Secret: Legacy Approvals",
-      "why_now": "Magic Eden barely rescued $5.7M in NFTs exposed by old, forgotten token approvals — a vulnerability sitting dormant in millions of wallets right now.",
-      "angle": "Actionable security piece: explain approval exploits in plain terms, show readers how to audit/revoke their own legacy approvals today, framed as 'you're probably exposed too.'",
-      "source": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874"
+      "title": "A Hardware Wallet Just Got Fooled Without Anyone Stealing the Key — Here's the RSA Trick",
+      "why_now": "A newly disclosed RSA attack bypassed a hardware vault without extracting the private key, a category of exploit that breaks the core assumption 'cold storage = safe.'",
+      "angle": "Technical explainer for security-literate readers: break down the attack mechanics and why 'the key never left the device' stopped being a sufficient security claim.",
+      "source": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto"
     },
     {
-      "title": "Bitcoin's Quantum Clock Is Ticking Faster Than the Fixes: Inside the 79% Compute Cutdown",
-      "why_now": "StarkWare just slashed the compute estimate for breaking quantum-safe Bitcoin schemes by 79%, quietly moving the 'not our problem yet' timeline much closer.",
-      "angle": "Forward-looking security explainer: compare the three competing fixes, translate the 79% number into a realistic threat timeline, and argue why holders should care now, not in 2030.",
-      "source": "https://thedefiant.io/news/blockchains/starkware-challenge-cuts-quantum-safe-bitcoin-compute-estimate-by-79"
+      "title": "Chainlink Adds Bridge Checks Four Months After the $292M Hack They Would've Caught",
+      "why_now": "Chainlink's new institutional bridge-check tooling arrives months after the Kelp exploit it's designed to prevent — a familiar 'security after the fire' timeline.",
+      "angle": "Pattern piece: catalog how bridge security tooling in crypto is consistently reactive, using Kelp as the latest data point in a timeline of preventable losses.",
+      "source": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack"
     }
   ]
 }

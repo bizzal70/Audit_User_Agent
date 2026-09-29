@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-28T11:08:48+00:00",
+  "generated": "2026-09-29T11:08:35+00:00",
   "opportunities": [
     {
-      "title": "\"Just Use Bears\": Why Your Homebrew Monster Doesn't Need a New Stat Block",
-      "why_now": "Sly Flourish's new piece on stat-block reskinning is exactly the kind of practical GM shortcut this channel covers daily.",
-      "angle": "60-sec ruling: show a bear stat block reskinned as a dire wolf, ogre, or swamp horror — 'the math doesn't care what you call it'",
+      "title": "Tarrasque Tactic: Why It Ignores Your Grapple (Regeneration Ruling Breakdown)",
+      "why_now": "Iron Studios' new Tarrasque statue has the community talking about the monster again, making this the moment to drop a sharp rules clip on it.",
+      "angle": "60-sec 'creature tactic' short: explain how Tarrasque's regeneration + swallow interact with grapple/restrained rulings, end with a GM tip on using it as a TPK clock.",
+      "source": "https://www.enworld.org/threads/9-inch-tarrasque-statue-coming-from-iron-studios.720821/"
+    },
+    {
+      "title": "Stop Reskinning Stat Blocks Wrong: The 'Just Use Bears' Rule, Explained",
+      "why_now": "Sly Flourish's essay on reusing monster stat blocks is trending in GM circles right now and is a direct match to daily beat content.",
+      "angle": "Dry 'rules ruling' short: show a bear stat block re-skinned as three different monsters, with the one rule (CR/AC/HP stays, fluff changes) that makes it legal and fast.",
       "source": "https://slyflourish.com/just_use_bears.html?rss=1"
     },
     {
-      "title": "You Didn't Finish the Campaign, You Just Stopped Playing It",
-      "why_now": "Gnome Stew's piece on ambiguous campaign endings is a debate every long-running table has had — ripe for a hot-take short.",
-      "angle": "Dry GM rant format: 3 signs your campaign is actually over vs. just 'on hiatus,' with a hard cut ending",
-      "source": "https://gnomestew.com/did-we-just-finish-the-campaign/"
+      "title": "Project Lamordia Means New Ravenloft Rules — Here's the One Mechanic Everyone Gets Wrong",
+      "why_now": "D&D Beyond's Lamordia/Ravenloft tease just dropped, so curiosity about Domains of Dread mechanics is spiking.",
+      "angle": "Rules-ruling short on how the Mists relocate PCs mid-combat (Dark Powers check) and why most tables misuse it as a random teleport instead of a punishment mechanic.",
+      "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
     },
     {
-      "title": "UKGE Just Banned AI — Here's What That Means for Your Table",
-      "why_now": "UKGE's AI ban dropped in the Sept 27 EN World digest and is the biggest tabletop-industry story this week for GM audiences.",
-      "angle": "Quick-take news short: what the ban covers, why it matters for indie 5e/Shadowdark supplements, no hedging",
+      "title": "Converting WoW Raid Bosses to 5e: The Legendary Action Math Nobody Checks",
+      "why_now": "EN World's breakdown of the 7 D&D x WoW dungeons is fresh, giving a hook for viewers curious how WoW bosses translate to tabletop stat blocks.",
+      "angle": "Use one of the 7 dungeon bosses as a case study for a spell/tactic short: show correct legendary action budget vs. what homebrewers usually screw up.",
+      "source": "https://www.enworld.org/threads/what-are-the-7-dungeons-in-d-d-world-of-warcraft-all-about.720808/"
+    },
+    {
+      "title": "Dragonlance's Dragon Lance Weapon: The One Mounted Combat Rule Everyone Skips",
+      "why_now": "The new Dragonlance world book was previewed on this week's EN World podcast, reviving interest in dragonlance-specific rules.",
+      "angle": "Spell/weapon use-case short: cover how the actual dragonlance interacts with mounted charge rules and why it's useless without the Lance feat or a trained mount.",
       "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
-    },
-    {
-      "title": "Dragonlance's New World Book: One Rule Change Worth Stealing for Your Homebrew Setting",
-      "why_now": "The Dragonlance world book preview just surfaced in the Sept 27 EN World livestream recap, giving a fresh hook for a lore-to-ruling short.",
-      "angle": "Take one mechanical/setting hook from the preview and show how to bolt it onto a home 5e or DCC campaign",
-      "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
-    },
-    {
-      "title": "Paranoia's New Influencer Satire Adventure Is a Better GM Lesson Than Most 5e Modules",
-      "why_now": "Paranoia's Sept 25 adventure skewering social media influencers is a fresh, talkable release adjacent to the tabletop beat.",
-      "angle": "Cross-system bit: compare Paranoia's clone-death comedy structure to a 5e/DCC funnel, extract one GM takeaway (session-zero stakes)",
-      "source": "https://www.enworld.org/threads/dystopian-comedy-rpg-paranoia-takes-aim-at-social-media-influencers-in-its-latest-adventure.720780/"
     }
   ]
 }

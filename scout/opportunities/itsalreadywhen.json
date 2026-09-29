@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-28T11:08:48+00:00",
+  "generated": "2026-09-29T11:08:35+00:00",
   "opportunities": [
     {
-      "title": "Citrix NetScaler Zero-Days: The 72-Hour Timeline From 'Pull the Plug' to CISA's Wednesday Deadline",
-      "why_now": "Two actively-exploited NetScaler RCEs went from admin panic to a formal CISA emergency directive in under three days, making this the week's must-patch story.",
-      "angle": "Timeline explainer with patch-cadence scorecard: when Citrix knew, when CISA mandated, and why NetScaler keeps landing on this list",
+      "title": "JadePuffer Doesn't Just Steal Your Cloud — It Deletes It: Inside the First 'Destructive' AI Agent Attack on Azure",
+      "why_now": "A named AI threat actor autonomously compromised and destroyed Azure tenant resources, marking an escalation from data theft to agentic sabotage.",
+      "angle": "Breach breakdown + threat-actor profile: what JadePuffer did, how it moved, and why 'AI agent as attacker' changes the incident-response playbook.",
+      "source": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack"
+    },
+    {
+      "title": "Your Docker Host Now Has a Telegram-Controlled AI Agent Living In It (Meet Hermes)",
+      "why_now": "Carbonato botnet is deploying an actual LLM agent (Hermes) on hacked Docker hosts, controlled via Telegram — a first-of-its-kind malware architecture.",
+      "angle": "Threat-actor deep dive: how Carbonato works, what Hermes does once installed, and why 'malware with an AI brain' is the next botnet evolution.",
+      "source": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts"
+    },
+    {
+      "title": "CISA's Citrix Deadline Is Wednesday — Here's Every Org Still Exposed",
+      "why_now": "CISA issued a binding directive forcing federal agencies to patch actively exploited Citrix flaws by a hard Wednesday deadline, signaling active in-the-wild exploitation.",
+      "angle": "Patch-cadence urgency post: CVE specifics, exploitation evidence, who's affected beyond federal agencies, and a countdown-style call to patch now.",
       "source": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
     },
     {
-      "title": "ShinyHunters Hacked the FBI 'to Protect Our Business' — Then Went After Oracle PeopleSoft With a WAF Bypass",
-      "why_now": "A threat actor bragging to a reporter about breaching federal law enforcement, in the same week they're actively exploiting PeopleSoft with a novel WAF bypass, is a two-for-one inevitable-breach story.",
-      "angle": "Threat-actor profile/dossier format tying the FBI hack quote to the concurrent PeopleSoft campaign as evidence of their operating philosophy",
-      "source": "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250"
+      "title": "ShinyHunters' Arrest Won't Stop the Bleeding: Google Flags Fresh Oracle PeopleSoft Campaign Same Week",
+      "why_now": "Dutch police just arrested a suspect tied to ShinyHunters, but Google is simultaneously warning of a new active campaign from the same group targeting Oracle PeopleSoft — arrest ≠ stop.",
+      "angle": "Threat-actor continuity story: profile the arrest, then pivot to 'the crew keeps hacking anyway' with the PeopleSoft campaign as proof the inevitable-breach engine doesn't pause for handcuffs.",
+      "source": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/"
     },
     {
-      "title": "Kiteworks Told Customers to Shut Down for 9 Hours — What That Panic Move Reveals About 'Advanced Forms' Vulns",
-      "why_now": "A vendor ordering a full server shutdown over a possible attack is a rare, dramatic incident-response signal worth dissecting while it's fresh.",
-      "angle": "Breakdown of the shutdown order as a case study in vendor crisis comms vs. actual technical severity",
-      "source": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/"
-    },
-    {
-      "title": "RSA Just Took Another Hit: Schneier's New Attack and What It Actually Means for Your Cert Chain",
-      "why_now": "A fresh cryptographic attack on RSA from a top-tier analyst source is rare enough to warrant a plain-English translation for practitioners who patch on schedule but haven't retired algorithms.",
-      "angle": "Explainer translating the academic attack into 'do you need to worry yet' guidance with a patch-cadence angle",
-      "source": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html"
-    },
-    {
-      "title": "70 Months for Hacking AT&T and Verizon: The US Soldier Case as a Blueprint for Insider Extortion Sentencing",
-      "why_now": "A concrete, just-handed-down federal sentence for telecom extortion gives readers a rare data point on real-world consequences amid a week of breach chaos.",
-      "angle": "Sentencing analysis format: what he did, how he got caught, and what the sentence signals about deterrence",
-      "source": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/"
+      "title": "16,000+ Supabase Apps Are Leaking Passwords and Auth Tokens Right Now — Check Yours",
+      "why_now": "A fresh mass-misconfiguration finding shows over 16,000 live Supabase databases exposing PII, passwords, and auth tokens, a scale that makes it a today-not-tomorrow risk.",
+      "angle": "Actionable breach-prevention post: explain the misconfig, who's likely affected (indie devs/startups), and give a quick self-check checklist — high shareability for devs.",
+      "source": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/"
     }
   ]
 }
