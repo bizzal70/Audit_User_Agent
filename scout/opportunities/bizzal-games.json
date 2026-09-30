@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-29T11:08:35+00:00",
+  "generated": "2026-09-30T11:08:18+00:00",
   "opportunities": [
     {
-      "title": "Tarrasque Tactic: Why It Ignores Your Grapple (Regeneration Ruling Breakdown)",
-      "why_now": "Iron Studios' new Tarrasque statue has the community talking about the monster again, making this the moment to drop a sharp rules clip on it.",
-      "angle": "60-sec 'creature tactic' short: explain how Tarrasque's regeneration + swallow interact with grapple/restrained rulings, end with a GM tip on using it as a TPK clock.",
-      "source": "https://www.enworld.org/threads/9-inch-tarrasque-statue-coming-from-iron-studios.720821/"
-    },
-    {
-      "title": "Stop Reskinning Stat Blocks Wrong: The 'Just Use Bears' Rule, Explained",
-      "why_now": "Sly Flourish's essay on reusing monster stat blocks is trending in GM circles right now and is a direct match to daily beat content.",
-      "angle": "Dry 'rules ruling' short: show a bear stat block re-skinned as three different monsters, with the one rule (CR/AC/HP stays, fluff changes) that makes it legal and fast.",
+      "title": "\"Just Use Bears\": Why Every Homebrew Monster Is Secretly a Black Bear Stat Block",
+      "why_now": "Sly Flourish's new piece revives the classic reskinning shortcut right as GMs are prepping fall campaigns and need fast, table-tested statblocks.",
+      "angle": "60-sec ruling: show a black bear stat block reskinned live into three different monsters (giant rat swarm, dire wolf, ogre-lite) with only fluff text changed — prove the math still works.",
       "source": "https://slyflourish.com/just_use_bears.html?rss=1"
     },
     {
-      "title": "Project Lamordia Means New Ravenloft Rules — Here's the One Mechanic Everyone Gets Wrong",
-      "why_now": "D&D Beyond's Lamordia/Ravenloft tease just dropped, so curiosity about Domains of Dread mechanics is spiking.",
-      "angle": "Rules-ruling short on how the Mists relocate PCs mid-combat (Dark Powers check) and why most tables misuse it as a random teleport instead of a punishment mechanic.",
+      "title": "Tarrasque Tactics: What CR 30 Actually Does On Its Turn (Not Just Smash)",
+      "why_now": "Iron Studios' new 9-inch Tarrasque statue is driving fresh eyeballs to the monster this week — capitalize while search interest spikes.",
+      "angle": "Dry mechanical breakdown: reflexive carapace, swallow whole action economy, and why most GMs run it wrong by forgetting the legendary resistance count.",
+      "source": "https://www.enworld.org/threads/9-inch-tarrasque-statue-coming-from-iron-studios.720821/"
+    },
+    {
+      "title": "D&D x World of Warcraft Monster List: Which Ones Are Actually Reskins You Already Own",
+      "why_now": "The full WoW crossover monster list just dropped and players will ask their GMs 'can we fight X' — get ahead with a fast answer.",
+      "angle": "Rapid-fire list format: pick 3-4 named WoW monsters from the list, map each to an existing 5e stat block (murloc = kobold, etc.) with one tactical tweak.",
+      "source": "https://www.enworld.org/threads/heres-the-list-of-monsters-from-the-d-d-world-of-warcraft-book.720827/"
+    },
+    {
+      "title": "Project Lamordia Ravenloft Reboot: The One Domain-of-Dread Rule Everyone Forgets",
+      "why_now": "D&D Beyond just teased a modern Ravenloft reinterpretation, so curiosity about the Domains of Dread mechanics is spiking now.",
+      "angle": "Ruling-format short on Dark Powers checks / mist-transition mechanics — clarify how DM discretion actually interacts with the mist rules in 5e.",
       "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
     },
     {
-      "title": "Converting WoW Raid Bosses to 5e: The Legendary Action Math Nobody Checks",
-      "why_now": "EN World's breakdown of the 7 D&D x WoW dungeons is fresh, giving a hook for viewers curious how WoW bosses translate to tabletop stat blocks.",
-      "angle": "Use one of the 7 dungeon bosses as a case study for a spell/tactic short: show correct legendary action budget vs. what homebrewers usually screw up.",
-      "source": "https://www.enworld.org/threads/what-are-the-7-dungeons-in-d-d-world-of-warcraft-all-about.720808/"
-    },
-    {
-      "title": "Dragonlance's Dragon Lance Weapon: The One Mounted Combat Rule Everyone Skips",
-      "why_now": "The new Dragonlance world book was previewed on this week's EN World podcast, reviving interest in dragonlance-specific rules.",
-      "angle": "Spell/weapon use-case short: cover how the actual dragonlance interacts with mounted charge rules and why it's useless without the Lance feat or a trained mount.",
-      "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
+      "title": "Classic Dungeon Walkthrough Book Incoming — The One Room-Design Rule That Actually Ages Well",
+      "why_now": "The new walkthrough map book of classic D&D dungeons was just announced, giving an easy hook to critique/praise old-school dungeon design principles for a modern table.",
+      "angle": "Wry veteran-GM take: pull one iconic room trope from classic modules and give the mechanical ruling on how to run it fairly in 5e/Shadowdark today without railroading.",
+      "source": "https://www.enworld.org/threads/walkthrough-map-book-of-classic-d-d-dungeons-coming-next-year.720836/"
     }
   ]
 }

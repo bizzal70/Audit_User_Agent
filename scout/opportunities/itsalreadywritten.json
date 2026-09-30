@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-29T11:08:35+00:00",
+  "generated": "2026-09-30T11:08:18+00:00",
   "opportunities": [
     {
-      "title": "Project Lamordia, Decoded: What 'Reinterpretation' Actually Means for Ravenloft's Rules",
-      "why_now": "D&D Beyond just teased a modern rework of Ravenloft, and fans need to know what mechanically changes versus lore-only refresh.",
-      "angle": "Rules-first breakdown speculating on Domains of Dread mechanics likely to be updated (Dark Powers checks, fear/horror rules) with citations to prior editions",
+      "title": "The D&D×World of Warcraft Monster List, Annotated: What Each Stat Block Actually Changes",
+      "why_now": "The official monster list just leaked/dropped, giving us fresh, specific crunch to break down before the book ships.",
+      "angle": "Rules-nerd breakdown post: pull 3-4 named monsters, compare CR/statline choices to their WoW source and existing 5e analogues",
+      "source": "https://www.enworld.org/threads/heres-the-list-of-monsters-from-the-d-d-world-of-warcraft-book.720827/"
+    },
+    {
+      "title": "Project Lamordia: What 'Modernizing Ravenloft' Actually Means for the Rules",
+      "why_now": "D&D Beyond just teased a full reinterpretation of Ravenloft, and fans will want to know what mechanically changes, not just tone.",
+      "angle": "Speculative rules-forecast piece grounded in known 2024-rules trends (domains of dread mechanics, horror subsystems)",
       "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
     },
     {
-      "title": "The Tarrasque's Stat Block Is Already Written — Here's Why a 9-Inch Statue Undersells CR 30",
-      "why_now": "Iron Studios' new Tarrasque statue announcement is a perfect hook to revisit the actual rules text behind D&D's ultimate monster.",
-      "angle": "Quick-hit rules explainer pairing the collectible news with a breakdown of Tarrasque's regeneration, legendary resistance, and why it's nearly unkillable by RAW",
-      "source": "https://www.enworld.org/threads/9-inch-tarrasque-statue-coming-from-iron-studios.720821/"
-    },
-    {
-      "title": "Just Use Bears: Sly Flourish's Stat Block Reuse Trick Is Older Than You Think",
-      "why_now": "Sly Flourish's new post on reskinning monster stat blocks is a rules-adjacent GM technique worth grounding in actual RAW mechanics.",
-      "angle": "Response/analysis piece citing the DMG's monster-reskinning guidance and CR math to validate (or push back on) the 'just use bears' approach",
+      "title": "'Just Use Bears': Sly Flourish Is Right, and Here's the Rule That Proves It",
+      "why_now": "A widely-shared GM-advice post just argued for stat-block simplicity, a perfect hook to cite the actual rules text on reskinning monsters.",
+      "angle": "Rules-first response essay: cite DMG guidance on reskinning/statblock reuse, show the math for why 'just use bears' works",
       "source": "https://slyflourish.com/just_use_bears.html?rss=1"
     },
     {
-      "title": "D&D x World of Warcraft: Mapping the 7 Dungeons to Actual 5E Encounter Math",
-      "why_now": "EN World just broke down the seven WoW-crossover dungeons, giving us fresh source material to cross-reference against published D&D rules for encounter design.",
-      "angle": "Explainer translating the crossover dungeons into CR budgets, action economy notes, and tier-of-play placement",
-      "source": "https://www.enworld.org/threads/what-are-the-7-dungeons-in-d-d-world-of-warcraft-all-about.720808/"
+      "title": "The New D&D Dungeon Map Book Is Basically a Rules Almanac for Classic Modules",
+      "why_now": "A walkthrough map book of classic dungeons was just announced for next year, a direct hit for rules-history readers.",
+      "angle": "News-plus-context post: list which classic dungeons are confirmed, cross-reference original rules editions each was built for",
+      "source": "https://www.enworld.org/threads/walkthrough-map-book-of-classic-d-d-dungeons-coming-next-year.720836/"
     },
     {
-      "title": "UKGE Just Banned AI Art — What That Means for the Rules of Convention Exhibiting",
-      "why_now": "Podcast #416 revealed UKGE's new AI ban, a policy shift that directly affects how TTRPG publishers can exhibit and what counts as compliant content.",
-      "angle": "News breakdown of the actual policy language and precedent for other cons/publishers, framed as 'rules' governing the industry itself",
-      "source": "https://www.enworld.org/threads/podcast-416-livestream-warcraft-x-d-d-previews-dragonlance-world-book-ukge-bans-ai.720801/"
+      "title": "Who Writes the Rules Now? Inside WotC's Design-Team Shakeup (Conowitch In, Jacquise Out)",
+      "why_now": "Two design-team personnel moves landed within a day of each other, directly affecting who shapes future rules text.",
+      "angle": "Industry-analysis piece connecting named designers to specific rules/products they've shipped, framed as 'the people behind the rulebook'",
+      "source": "https://www.enworld.org/threads/celeste-conowitch-hired-by-wizards-of-the-coast-as-senior-game-developer-for-dungeons-dragons.720834/"
     }
   ]
 }

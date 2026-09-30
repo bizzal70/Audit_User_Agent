@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-29T11:08:35+00:00",
+  "generated": "2026-09-30T11:08:18+00:00",
   "opportunities": [
     {
-      "title": "JadePuffer Doesn't Just Steal Your Cloud — It Deletes It: Inside the First 'Destructive' AI Agent Attack on Azure",
-      "why_now": "A named AI threat actor autonomously compromised and destroyed Azure tenant resources, marking an escalation from data theft to agentic sabotage.",
-      "angle": "Breach breakdown + threat-actor profile: what JadePuffer did, how it moved, and why 'AI agent as attacker' changes the incident-response playbook.",
-      "source": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack"
+      "title": "Patch Now: Citrix NetScaler's Dual Zero-Days (CVE-2026-88772) Are a Pre-Auth Root Party — Custom Malware Already Inside Govt, Banks, and Law Firms",
+      "why_now": "Four separate outlets are reporting active exploitation of the same NetScaler zero-days with named payloads (WHIPSHOT, SLAPSHOT) hitting critical sectors right now.",
+      "angle": "Rapid-response CVE breakdown: exploit chain, IOCs, who's been hit, and a hard patch deadline — the exact 'inevitable breach' digest format.",
+      "source": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html"
     },
     {
-      "title": "Your Docker Host Now Has a Telegram-Controlled AI Agent Living In It (Meet Hermes)",
-      "why_now": "Carbonato botnet is deploying an actual LLM agent (Hermes) on hacked Docker hosts, controlled via Telegram — a first-of-its-kind malware architecture.",
-      "angle": "Threat-actor deep dive: how Carbonato works, what Hermes does once installed, and why 'malware with an AI brain' is the next botnet evolution.",
-      "source": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts"
+      "title": "Spectre Won't Die: New BTR Variant Leaks Linux Memory Through JIT Engines on Intel, AMD, and Arm",
+      "why_now": "Multiple outlets confirm a fresh Spectre v2 variant defeating existing CPU mitigations across all major vendors simultaneously.",
+      "angle": "Explainer on why hardware speculative-execution bugs keep resurrecting and what (if anything) sysadmins can actually do about it — patch cadence angle since silicon can't be 'patched' the normal way.",
+      "source": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
     },
     {
-      "title": "CISA's Citrix Deadline Is Wednesday — Here's Every Org Still Exposed",
-      "why_now": "CISA issued a binding directive forcing federal agencies to patch actively exploited Citrix flaws by a hard Wednesday deadline, signaling active in-the-wild exploitation.",
-      "angle": "Patch-cadence urgency post: CVE specifics, exploitation evidence, who's affected beyond federal agencies, and a countdown-style call to patch now.",
-      "source": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
+      "title": "ShinyHunters vs. the FBI: A Threat Actor That Won't Take the Off-Ramp",
+      "why_now": "The FBI publicly called on ShinyHunters members to surrender, the group publicly refused, and Dutch police just arrested a 'reformed' member connected to the crew — three angles converging in 48 hours.",
+      "angle": "Threat-actor profile / timeline piece tracking the group's arrests, defiance, and what it signals about extradition-era hacker culture.",
+      "source": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/"
     },
     {
-      "title": "ShinyHunters' Arrest Won't Stop the Bleeding: Google Flags Fresh Oracle PeopleSoft Campaign Same Week",
-      "why_now": "Dutch police just arrested a suspect tied to ShinyHunters, but Google is simultaneously warning of a new active campaign from the same group targeting Oracle PeopleSoft — arrest ≠ stop.",
-      "angle": "Threat-actor continuity story: profile the arrest, then pivot to 'the crew keeps hacking anyway' with the PeopleSoft campaign as proof the inevitable-breach engine doesn't pause for handcuffs.",
-      "source": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/"
+      "title": "Apple's CoreGraphics Zero-Day Was Being Exploited Before the Patch Existed — Update Now",
+      "why_now": "Apple shipped an emergency fix for a CoreGraphics flaw already weaponized in targeted attacks, confirmed by two independent outlets.",
+      "angle": "Tight patch-cadence alert: what CoreGraphics touches, who's likely targeted (given 'targeted attacks' framing), and update urgency for iOS/macOS fleets.",
+      "source": "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721"
     },
     {
-      "title": "16,000+ Supabase Apps Are Leaking Passwords and Auth Tokens Right Now — Check Yours",
-      "why_now": "A fresh mass-misconfiguration finding shows over 16,000 live Supabase databases exposing PII, passwords, and auth tokens, a scale that makes it a today-not-tomorrow risk.",
-      "angle": "Actionable breach-prevention post: explain the misconfig, who's likely affected (indie devs/startups), and give a quick self-check checklist — high shareability for devs.",
-      "source": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/"
+      "title": "JadePuffer Hijacked Azure Identities Just to Blow Things Up — Meet the Cloud Attacker That Skips the Ransomware Step",
+      "why_now": "Two outlets are covering this destructive Azure identity-hijacking campaign, and it breaks the usual ransomware/exfiltration playbook by going straight to sabotage.",
+      "angle": "Threat-actor deep dive on the TTPs (identity hijack → resource destruction) as a new category of cloud attack worth adding to IR runbooks.",
+      "source": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591"
     }
   ]
 }

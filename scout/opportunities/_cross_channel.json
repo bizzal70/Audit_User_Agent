@@ -1,4 +1,53 @@
 {
-  "generated": "2026-09-29T11:08:35+00:00",
-  "plays": []
+  "generated": "2026-09-30T11:08:18+00:00",
+  "plays": [
+    {
+      "story": "Bitget's $388M hack: SlowMist traces the breach to an Aug. 31 zero-day, the CEO admits recovery is unlikely, and stolen funds are being laundered through THORChain and Zcash's private pool.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Not Very Optimistic': What Bitget's $388M Hole Means for CEX Trust and BTC Withdrawal Risk — frame around the CEO's own pessimism, resumed BTC withdrawals, and what this does to exchange risk premiums for traders.",
+        "itsalreadywhen": "The Zero-Day That Bled Bitget Dry: Inside the Aug. 31 Exploit and the Zcash Escape Hatch — reconstruct SlowMist's timeline of the third-party vulnerability and how attackers used THORChain swaps plus Zcash's private pool to go dark."
+      },
+      "source": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "OpenAI's aggressive AI-agent push — a new 'dots' agent and a reported $30B raise at a $1.4T valuation — lands the same week security researchers warn nobody is auditing AI agents that already hold privileged access.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "OpenAI Wants $30B More at $1.4 Trillion — What a Delayed IPO and a New AI Agent Mean for the AI-Token Trade Riding Its Coattails.",
+        "itsalreadywhen": "OpenAI Ships a New Agent, Skips the Security Talk: Why 'AI Agents Are Privileged Users' Should Worry Every CISO Right Now — pair with Nvidia's new Agent Safety Platform launch as the industry's tacit admission of the problem."
+      },
+      "source": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent"
+    },
+    {
+      "story": "D&D Beyond drops the monster list and 7-dungeon breakdown for the World of Warcraft crossover book, giving both the mechanics crowd and the lore crowd something to chew on.",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "7 Dungeons, One Big Question: Can D&D's WoW Crossover Actually Run at the Table? — a stat-block-level look at whether the monster list translates to usable encounter design.",
+        "itsalreadywritten": "From Azeroth to the Forgotten Realms: What the D&D x World of Warcraft Monster List Reveals About Cross-IP Worldbuilding — the narrative logic (or lack of it) behind grafting one setting's bestiary onto another."
+      },
+      "source": "https://www.enworld.org/threads/heres-the-list-of-monsters-from-the-d-d-world-of-warcraft-book.720827/"
+    },
+    {
+      "story": "D&D Beyond teases Project Lamordia, billed as a modern reinterpretation of Ravenloft's gothic horror setting.",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Project Lamordia: What a 'Modern' Ravenloft Actually Needs to Fix From the Original Domains of Dread Rules — a systems-design wishlist for the horror mechanics.",
+        "itsalreadywritten": "Reinterpreting Ravenloft: Can Project Lamordia Update Strahd's Gothic Horror Without Losing the Plot? — a lore-continuity read on how far 'modern' can stretch before it breaks the setting's identity."
+      },
+      "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
+    }
+  ]
 }

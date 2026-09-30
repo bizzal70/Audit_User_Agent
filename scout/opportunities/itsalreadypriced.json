@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-29T11:08:35+00:00",
+  "generated": "2026-09-30T11:08:18+00:00",
   "opportunities": [
     {
-      "title": "The Bitget Hack Sent a Test Transaction First — And Nobody Blinked",
-      "why_now": "Bitget's CEO just confirmed the attacker probed risk controls with small transfers before draining $388M, exposing a detection failure that keeps repeating across exchanges.",
-      "angle": "Security post-mortem: walk through the 'test transaction' pattern as the industry's most ignored tell, with a checklist of what monitoring should have caught it.",
-      "source": "https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045"
+      "title": "The Bitget Hackers Just Went Dark: Inside the $4M Move Into Zcash's Private Pool",
+      "why_now": "Fresh Sept 30 report shows Bitget's stolen funds jumping from a public THORChain swap straight into Zcash's shielded pool, marking an escalation in on-chain laundering tactics.",
+      "angle": "Technical explainer/thread tracing the laundering path (Bitget → THORChain → Zcash) and what 'unmixable' really means for chain analysts now",
+      "source": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace"
     },
     {
-      "title": "THORChain Let a $388M Hacker Cash Out. That's Not a Bug, That's the Business Model.",
-      "why_now": "THORChain is under fire for facilitating the Bitget hacker's ETH swaps just days after the exploit, reigniting the 'permissionless plumbing' vs. 'money laundering rail' debate.",
-      "angle": "Opinion/analysis: argue that cross-chain routers built for neutrality will always be the preferred off-ramp for stolen funds — priced in, not surprising.",
-      "source": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Bitget's $388M Hack Wasn't Bitget's Fault — That's Exactly the Problem",
+      "why_now": "CEO Gracy Chen confirmed the breach exploited a third-party vulnerability and admitted she's 'not very optimistic' about recovery, exposing the supply-chain blind spot in exchange security.",
+      "angle": "Op-ed style breakdown: why 'we got hacked through a vendor' is becoming the industry's most common excuse, and what due diligence actually looks like",
+      "source": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability"
     },
     {
-      "title": "NEAR Intents Just Blocked $50M — Proving 'Permissionless' Was Always Negotiable",
-      "why_now": "NEAR Intents blocking funds tied to the Bitget hacker is being cheered as a win, but it quietly undercuts the decentralization pitch every intent-based chain sells.",
-      "angle": "Contrarian take: praise the outcome, question the narrative — if you can block hackers, you can block anyone; map what this means for 'credibly neutral' infra claims.",
-      "source": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test"
+      "title": "The GIWA Scam Playbook: How a Fake 'Blockchain' Drained $2M From DYORSWAP in Hours",
+      "why_now": "Scammers spun up a fake GIWA network to trick a DEX into treating worthless tokens as real, a fresh and highly replicable exploit pattern from Sept 28.",
+      "angle": "Anatomy-of-a-scam post: step-by-step breakdown of the fake-chain deception so readers can spot the next clone before it hits their wallet",
+      "source": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth"
     },
     {
-      "title": "A Hardware Wallet Just Got Fooled Without Anyone Stealing the Key — Here's the RSA Trick",
-      "why_now": "A newly disclosed RSA attack bypassed a hardware vault without extracting the private key, a category of exploit that breaks the core assumption 'cold storage = safe.'",
-      "angle": "Technical explainer for security-literate readers: break down the attack mechanics and why 'the key never left the device' stopped being a sufficient security claim.",
-      "source": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto"
+      "title": "One Typo, 92 Liquidations: Gate's 'Same-Name' Glitch Is a Warning Shot",
+      "why_now": "A scheduled dividend adjustment on Gate mislabeled by name similarity triggered dozens of forced liquidations on Sept 30 — a pure operational-risk failure, not a hack.",
+      "angle": "Short sharp post on 'silent risk': how exchange backend errors are as dangerous as exploits, tying into the coming wave of AI-run trading",
+      "source": "https://thedefiant.io/news/cefi/gate-ben-market-logs-92-liquidations-after-scheduled-dividend-adjustment"
     },
     {
-      "title": "Chainlink Adds Bridge Checks Four Months After the $292M Hack They Would've Caught",
-      "why_now": "Chainlink's new institutional bridge-check tooling arrives months after the Kelp exploit it's designed to prevent — a familiar 'security after the fire' timeline.",
-      "angle": "Pattern piece: catalog how bridge security tooling in crypto is consistently reactive, using Kelp as the latest data point in a timeline of preventable losses.",
-      "source": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack"
+      "title": "Robinhood's New AI Trades Your Money 24/7. You Carry All the Risk.",
+      "why_now": "Robinhood just launched an AI agent for autonomous trading plus 10x perps for US users, handing custody-adjacent decisions to a black box.",
+      "angle": "Security-led consumer warning: map out the failure modes (bad prompts, model drift, exploited agent wallets) before the first blowup headline exists",
+      "source": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets"
     }
   ]
 }
