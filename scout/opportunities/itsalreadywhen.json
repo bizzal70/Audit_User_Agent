@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-30T11:08:18+00:00",
+  "generated": "2026-10-01T11:08:32+00:00",
   "opportunities": [
     {
-      "title": "Patch Now: Citrix NetScaler's Dual Zero-Days (CVE-2026-88772) Are a Pre-Auth Root Party — Custom Malware Already Inside Govt, Banks, and Law Firms",
-      "why_now": "Four separate outlets are reporting active exploitation of the same NetScaler zero-days with named payloads (WHIPSHOT, SLAPSHOT) hitting critical sectors right now.",
-      "angle": "Rapid-response CVE breakdown: exploit chain, IOCs, who's been hit, and a hard patch deadline — the exact 'inevitable breach' digest format.",
-      "source": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html"
+      "title": "The Citrix NetScaler Meltdown: Custom Malware, Dual Zero-Days, and a Superuser Backdoor Hiding in Your CSS",
+      "why_now": "Four separate outlets are now confirming active, weeks-long exploitation of Citrix NetScaler zero-days against govt, banks, and finance — complete with a post-exploitation payload that creates superusers and disguises web shells as stylesheets.",
+      "angle": "Breach-digest timeline piece stitching together the custom malware report, CISA KEV addition, and the webshell/CSS technical breakdown — end with a patch-now checklist",
+      "source": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
     },
     {
-      "title": "Spectre Won't Die: New BTR Variant Leaks Linux Memory Through JIT Engines on Intel, AMD, and Arm",
-      "why_now": "Multiple outlets confirm a fresh Spectre v2 variant defeating existing CPU mitigations across all major vendors simultaneously.",
-      "angle": "Explainer on why hardware speculative-execution bugs keep resurrecting and what (if anything) sysadmins can actually do about it — patch cadence angle since silicon can't be 'patched' the normal way.",
-      "source": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
+      "title": "Apple's CoreGraphics Zero-Day Has a Public PoC Now — And WhatsApp Might Be the Delivery Van",
+      "why_now": "Apple just patched an already-exploited CoreGraphics flaw, and within days a PoC emerged alongside signs WhatsApp's PDF handling could be the infection vector.",
+      "angle": "Fast-turnaround 'patch now' alert with a technical explainer on how image-parsing zero-days get weaponized via messaging apps",
+      "source": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html"
     },
     {
-      "title": "ShinyHunters vs. the FBI: A Threat Actor That Won't Take the Off-Ramp",
-      "why_now": "The FBI publicly called on ShinyHunters members to surrender, the group publicly refused, and Dutch police just arrested a 'reformed' member connected to the crew — three angles converging in 48 hours.",
-      "angle": "Threat-actor profile / timeline piece tracking the group's arrests, defiance, and what it signals about extradition-era hacker culture.",
-      "source": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/"
+      "title": "Cisco's Catalyst SD-WAN Auth Bypass Just Joined the KEV List — Here's Your Patch-Cadence Scorecard",
+      "why_now": "CISA added the actively exploited Cisco Catalyst SD-WAN Manager auth bypass to its Known Exploited Vulnerabilities list the same day Cisco shipped the patch.",
+      "angle": "Patch-cadence tracker format: CVE, exploitation window, KEV deadline, who's still exposed",
+      "source": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html"
     },
     {
-      "title": "Apple's CoreGraphics Zero-Day Was Being Exploited Before the Patch Existed — Update Now",
-      "why_now": "Apple shipped an emergency fix for a CoreGraphics flaw already weaponized in targeted attacks, confirmed by two independent outlets.",
-      "angle": "Tight patch-cadence alert: what CoreGraphics touches, who's likely targeted (given 'targeted attacks' framing), and update urgency for iOS/macOS fleets.",
-      "source": "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721"
+      "title": "$387.5 Million Gone: Bitget's 'Third-Party Zero-Day' Is the Breach Excuse of the Year",
+      "why_now": "Bitget just confirmed a third-party zero-day caused a $387.5M crypto theft, days after MetaMask's own incident pushed Ethereum validators to exit — a bad week for crypto infrastructure trust.",
+      "angle": "Breach post-mortem skeptically dissecting the 'third-party zero-day' defense and tallying the week's crypto-security carnage",
+      "source": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html"
     },
     {
-      "title": "JadePuffer Hijacked Azure Identities Just to Blow Things Up — Meet the Cloud Attacker That Skips the Ransomware Step",
-      "why_now": "Two outlets are covering this destructive Azure identity-hijacking campaign, and it breaks the usual ransomware/exfiltration playbook by going straight to sabotage.",
-      "angle": "Threat-actor deep dive on the TTPs (identity hijack → resource destruction) as a new category of cloud attack worth adding to IR runbooks.",
-      "source": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591"
+      "title": "FBI Tells ShinyHunters 'We Know How to Find You' — Dutch Police Just Proved It",
+      "why_now": "The FBI's public warning to ShinyHunters landed the same week Dutch police arrested a 'reformed' hacker tied to the group, giving the threat-actor story a satisfying follow-through.",
+      "angle": "Threat-actor profile tying the FBI statement to the arrest, with a timeline of ShinyHunters' breach history",
+      "source": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/"
     }
   ]
 }

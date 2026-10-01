@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-30T11:08:18+00:00",
+  "generated": "2026-10-01T11:08:32+00:00",
   "opportunities": [
     {
-      "title": "The Bitget Hackers Just Went Dark: Inside the $4M Move Into Zcash's Private Pool",
-      "why_now": "Fresh Sept 30 report shows Bitget's stolen funds jumping from a public THORChain swap straight into Zcash's shielded pool, marking an escalation in on-chain laundering tactics.",
-      "angle": "Technical explainer/thread tracing the laundering path (Bitget → THORChain → Zcash) and what 'unmixable' really means for chain analysts now",
-      "source": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace"
+      "title": "September Was the Worst Hack Month of 2026 — And Nobody's Surprised",
+      "why_now": "The $768M September hack total headline is exactly the kind of macro proof point this audience wants validated against their priors.",
+      "angle": "Data-led blog post breaking down the $768M by exploit type/chain, framed as 'the market priced this in, the headlines just caught up' — close with a chart and a line about why Q4 won't be better.",
+      "source": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Bitget's $388M Hack Wasn't Bitget's Fault — That's Exactly the Problem",
-      "why_now": "CEO Gracy Chen confirmed the breach exploited a third-party vulnerability and admitted she's 'not very optimistic' about recovery, exposing the supply-chain blind spot in exchange security.",
-      "angle": "Op-ed style breakdown: why 'we got hacked through a vendor' is becoming the industry's most common excuse, and what due diligence actually looks like",
-      "source": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability"
+      "title": "The Bitget Hack Is Now a Laundering Masterclass — Zero-Day to Zcash in 30 Days",
+      "why_now": "The incident has evolved in real time from exploit (Aug 31 zero-day) to CEX response to a cat-and-mouse laundering trail through NEAR Intents and now Zcash privacy pools, giving a full narrative arc to recap.",
+      "angle": "Timeline explainer/thread format: 'Zero-day → $388M stolen → NEAR blocks $50M → hacker pivots to Zcash' — use it to explain why privacy pools are the endgame for stolen funds and why CEX 'protection funds' are theater.",
+      "source": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain"
     },
     {
-      "title": "The GIWA Scam Playbook: How a Fake 'Blockchain' Drained $2M From DYORSWAP in Hours",
-      "why_now": "Scammers spun up a fake GIWA network to trick a DEX into treating worthless tokens as real, a fresh and highly replicable exploit pattern from Sept 28.",
-      "angle": "Anatomy-of-a-scam post: step-by-step breakdown of the fake-chain deception so readers can spot the next clone before it hits their wallet",
-      "source": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth"
+      "title": "Could THORChain Actually Get Prosecuted for Routing Stolen Bitget Funds? We Read the Legal Opinion",
+      "why_now": "A fresh legal opinion specifically raises criminal exposure for a DeFi protocol over laundering stolen funds, a novel liability angle this audience hasn't seen tested before.",
+      "angle": "Analysis piece translating the legal opinion into plain terms: what 'knowingly facilitating' means on-chain, and what it means for any protocol with permissionless swaps if this sticks.",
+      "source": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "One Typo, 92 Liquidations: Gate's 'Same-Name' Glitch Is a Warning Shot",
-      "why_now": "A scheduled dividend adjustment on Gate mislabeled by name similarity triggered dozens of forced liquidations on Sept 30 — a pure operational-risk failure, not a hack.",
-      "angle": "Short sharp post on 'silent risk': how exchange backend errors are as dangerous as exploits, tying into the coming wave of AI-run trading",
-      "source": "https://thedefiant.io/news/cefi/gate-ben-market-logs-92-liquidations-after-scheduled-dividend-adjustment"
+      "title": "Bitget's CEO Just Admitted the Quiet Part: You're Probably Not Getting Your Money Back",
+      "why_now": "The CEO's public pessimism about fund recovery, paired with a third-party vulnerability admission, is a rare moment of candor worth dissecting for what it signals about CEX security theater.",
+      "angle": "Opinion/breakdown piece: what 'third-party vulnerability' actually means in CEX infra, why protection funds don't protect you, and what questions users should be asking their own exchange right now.",
+      "source": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Robinhood's New AI Trades Your Money 24/7. You Carry All the Risk.",
-      "why_now": "Robinhood just launched an AI agent for autonomous trading plus 10x perps for US users, handing custody-adjacent decisions to a black box.",
-      "angle": "Security-led consumer warning: map out the failure modes (bad prompts, model drift, exploited agent wallets) before the first blowup headline exists",
-      "source": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets"
+      "title": "MetaMask's 'No Funds at Risk' Line Is Doing a Lot of Work — Here's What Actually Happened",
+      "why_now": "A security incident forcing mass Ethereum staking exits via Lido, with potential lost rewards, is a concrete wallet-infra story breaking right now that deserves skepticism beyond the reassuring headline.",
+      "angle": "Skeptical explainer: unpack what 'infrastructure security incident' means technically, why staking exits were the fix, and what users actually lost (rewards) even if principal was safe — classic 'the fine print is the story' angle.",
+      "source": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards"
     }
   ]
 }

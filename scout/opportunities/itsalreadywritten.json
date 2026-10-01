@@ -1,35 +1,35 @@
 {
-  "generated": "2026-09-30T11:08:18+00:00",
+  "generated": "2026-10-01T11:08:32+00:00",
   "opportunities": [
     {
-      "title": "The D&D×World of Warcraft Monster List, Annotated: What Each Stat Block Actually Changes",
-      "why_now": "The official monster list just leaked/dropped, giving us fresh, specific crunch to break down before the book ships.",
-      "angle": "Rules-nerd breakdown post: pull 3-4 named monsters, compare CR/statline choices to their WoW source and existing 5e analogues",
+      "title": "The Stat Blocks of Azeroth: What D&D's World of Warcraft Monster List Tells Us About 5E's Monster Math",
+      "why_now": "The official monster list for the new D&D x WoW book just dropped, giving us fresh stat blocks to dissect against existing CR benchmarks.",
+      "angle": "Rules-breakdown post comparing new monsters to existing MM entries by CR, role, and design pattern",
       "source": "https://www.enworld.org/threads/heres-the-list-of-monsters-from-the-d-d-world-of-warcraft-book.720827/"
     },
     {
-      "title": "Project Lamordia: What 'Modernizing Ravenloft' Actually Means for the Rules",
-      "why_now": "D&D Beyond just teased a full reinterpretation of Ravenloft, and fans will want to know what mechanically changes, not just tone.",
-      "angle": "Speculative rules-forecast piece grounded in known 2024-rules trends (domains of dread mechanics, horror subsystems)",
-      "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
+      "title": "7 Dungeons, 7 Design Lessons: Dissecting the D&D x WoW Adventure Structure",
+      "why_now": "Details on the seven dungeons in the new crossover book just surfaced, offering a timely look at how WotC is adapting video-game dungeon design into tabletop rules.",
+      "angle": "Structural analysis piece mapping each dungeon's encounter design to known 5E adventure-building guidelines",
+      "source": "https://www.enworld.org/threads/what-are-the-7-dungeons-in-d-d-world-of-warcraft-all-about.720808/"
     },
     {
-      "title": "'Just Use Bears': Sly Flourish Is Right, and Here's the Rule That Proves It",
-      "why_now": "A widely-shared GM-advice post just argued for stat-block simplicity, a perfect hook to cite the actual rules text on reskinning monsters.",
-      "angle": "Rules-first response essay: cite DMG guidance on reskinning/statblock reuse, show the math for why 'just use bears' works",
-      "source": "https://slyflourish.com/just_use_bears.html?rss=1"
-    },
-    {
-      "title": "The New D&D Dungeon Map Book Is Basically a Rules Almanac for Classic Modules",
-      "why_now": "A walkthrough map book of classic dungeons was just announced for next year, a direct hit for rules-history readers.",
-      "angle": "News-plus-context post: list which classic dungeons are confirmed, cross-reference original rules editions each was built for",
+      "title": "Before There Were Battlemaps: What a 'Walkthrough Map Book' Reveals About Classic D&D Dungeon Design Rules",
+      "why_now": "A new book collecting classic D&D dungeon maps was just announced, a perfect hook for examining how dungeon design rules have evolved since 1st edition.",
+      "angle": "Rules-history explainer comparing classic module design conventions to modern 5E dungeon-building guidance",
       "source": "https://www.enworld.org/threads/walkthrough-map-book-of-classic-d-d-dungeons-coming-next-year.720836/"
     },
     {
-      "title": "Who Writes the Rules Now? Inside WotC's Design-Team Shakeup (Conowitch In, Jacquise Out)",
-      "why_now": "Two design-team personnel moves landed within a day of each other, directly affecting who shapes future rules text.",
-      "angle": "Industry-analysis piece connecting named designers to specific rules/products they've shipped, framed as 'the people behind the rulebook'",
+      "title": "New Senior Game Developer, Same Rulebook? What Celeste Conowitch's Hire Means for Future D&D Rules",
+      "why_now": "WotC just announced Conowitch's hire as Senior Game Developer, making this the moment to speculate on her design fingerprints showing up in future rules content.",
+      "angle": "News analysis piece citing her prior published work to predict design direction and rules focus",
       "source": "https://www.enworld.org/threads/celeste-conowitch-hired-by-wizards-of-the-coast-as-senior-game-developer-for-dungeons-dragons.720834/"
+    },
+    {
+      "title": "Project Lamordia: What a 'Modern Reinterpretation' of Ravenloft Could Mean for Domains of Dread Rules",
+      "why_now": "D&D Beyond just teased Project Lamordia, giving us a timely peg to dig into what rules systems (fear, horror, domain mechanics) a Ravenloft refresh might touch.",
+      "angle": "Speculative rules-forecast piece grounded in known Ravenloft/Van Richten's mechanics history",
+      "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
     }
   ]
 }
