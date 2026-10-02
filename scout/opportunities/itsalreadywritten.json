@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-01T11:08:32+00:00",
+  "generated": "2026-10-02T11:08:33+00:00",
   "opportunities": [
     {
-      "title": "The Stat Blocks of Azeroth: What D&D's World of Warcraft Monster List Tells Us About 5E's Monster Math",
-      "why_now": "The official monster list for the new D&D x WoW book just dropped, giving us fresh stat blocks to dissect against existing CR benchmarks.",
-      "angle": "Rules-breakdown post comparing new monsters to existing MM entries by CR, role, and design pattern",
+      "title": "Renegade Keeps Transformers & GI Joe, Loses Vampire: What the License Shuffle Means for Your Game Shelf",
+      "why_now": "A major licensing reshuffle just redrew the map of who makes what RPG, with White Wolf reclaiming Vampire outright.",
+      "angle": "News analysis breaking down which product lines survive, which die, and what it means for owners of current books",
+      "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
+    },
+    {
+      "title": "The Shadowfell Fighter: D&D Beyond Drops' First Subclass, Rules Breakdown",
+      "why_now": "D&D Beyond just shipped its first-ever subclass for the new Drops format, a direct test case for how WotC will deliver crunch going forward.",
+      "angle": "Rules-first teardown of the subclass's mechanics, balance, and what the Drops delivery model means for future content",
+      "source": "https://www.enworld.org/threads/d-d-beyond-drops-adds-first-subclass-a-shadowfell-themed-fighter.720854/"
+    },
+    {
+      "title": "50% Off Hundreds of PDFs Right Now — Here's What's Actually Worth Grabbing",
+      "why_now": "A two-week-only sitewide discount is live today, making this a narrow window for a buyer's guide.",
+      "angle": "Curated recommendation list sorted by system/use-case, framed as a ticking-clock buying guide",
+      "source": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/"
+    },
+    {
+      "title": "Every Monster Coming in the D&D x World of Warcraft Book, Stat Block by Stat Block",
+      "why_now": "The full monster list just leaked/dropped, giving fans their first real look at how Azeroth translates into 5E crunch.",
+      "angle": "Annotated list with commentary on which WoW creatures got faithful conversions vs. reskins",
       "source": "https://www.enworld.org/threads/heres-the-list-of-monsters-from-the-d-d-world-of-warcraft-book.720827/"
     },
     {
-      "title": "7 Dungeons, 7 Design Lessons: Dissecting the D&D x WoW Adventure Structure",
-      "why_now": "Details on the seven dungeons in the new crossover book just surfaced, offering a timely look at how WotC is adapting video-game dungeon design into tabletop rules.",
-      "angle": "Structural analysis piece mapping each dungeon's encounter design to known 5E adventure-building guidelines",
-      "source": "https://www.enworld.org/threads/what-are-the-7-dungeons-in-d-d-world-of-warcraft-all-about.720808/"
-    },
-    {
-      "title": "Before There Were Battlemaps: What a 'Walkthrough Map Book' Reveals About Classic D&D Dungeon Design Rules",
-      "why_now": "A new book collecting classic D&D dungeon maps was just announced, a perfect hook for examining how dungeon design rules have evolved since 1st edition.",
-      "angle": "Rules-history explainer comparing classic module design conventions to modern 5E dungeon-building guidance",
+      "title": "D&D's Classic Dungeons Are Getting a Walkthrough Map Book — Here's Why That Matters",
+      "why_now": "A new product announcement reveals a dedicated map/walkthrough compendium for iconic dungeons, a first-of-its-kind format.",
+      "angle": "News piece speculating on which classic modules are likely included and how it serves both nostalgia and new-DM prep",
       "source": "https://www.enworld.org/threads/walkthrough-map-book-of-classic-d-d-dungeons-coming-next-year.720836/"
-    },
-    {
-      "title": "New Senior Game Developer, Same Rulebook? What Celeste Conowitch's Hire Means for Future D&D Rules",
-      "why_now": "WotC just announced Conowitch's hire as Senior Game Developer, making this the moment to speculate on her design fingerprints showing up in future rules content.",
-      "angle": "News analysis piece citing her prior published work to predict design direction and rules focus",
-      "source": "https://www.enworld.org/threads/celeste-conowitch-hired-by-wizards-of-the-coast-as-senior-game-developer-for-dungeons-dragons.720834/"
-    },
-    {
-      "title": "Project Lamordia: What a 'Modern Reinterpretation' of Ravenloft Could Mean for Domains of Dread Rules",
-      "why_now": "D&D Beyond just teased Project Lamordia, giving us a timely peg to dig into what rules systems (fear, horror, domain mechanics) a Ravenloft refresh might touch.",
-      "angle": "Speculative rules-forecast piece grounded in known Ravenloft/Van Richten's mechanics history",
-      "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
     }
   ]
 }

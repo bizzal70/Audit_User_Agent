@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-01T11:08:32+00:00",
+  "generated": "2026-10-02T11:08:33+00:00",
   "opportunities": [
     {
-      "title": "The Citrix NetScaler Meltdown: Custom Malware, Dual Zero-Days, and a Superuser Backdoor Hiding in Your CSS",
-      "why_now": "Four separate outlets are now confirming active, weeks-long exploitation of Citrix NetScaler zero-days against govt, banks, and finance — complete with a post-exploitation payload that creates superusers and disguises web shells as stylesheets.",
-      "angle": "Breach-digest timeline piece stitching together the custom malware report, CISA KEV addition, and the webshell/CSS technical breakdown — end with a patch-now checklist",
-      "source": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
+      "title": "FortiMail Zero-Day: Patch Now, Ask Questions Later (Unauthenticated File Write in the Wild)",
+      "why_now": "Fortinet, SecurityWeek, and The Hacker News all confirm active exploitation of a critical unauthenticated arbitrary file-write bug in FortiMail as of Oct 2.",
+      "angle": "Rapid-patch advisory digest: CVE details, exploitation timeline, who's already been hit, and a blunt 'patch today' checklist.",
+      "source": "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803"
     },
     {
-      "title": "Apple's CoreGraphics Zero-Day Has a Public PoC Now — And WhatsApp Might Be the Delivery Van",
-      "why_now": "Apple just patched an already-exploited CoreGraphics flaw, and within days a PoC emerged alongside signs WhatsApp's PDF handling could be the infection vector.",
-      "angle": "Fast-turnaround 'patch now' alert with a technical explainer on how image-parsing zero-days get weaponized via messaging apps",
-      "source": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html"
+      "title": "Dual NetScaler Zero-Days: Citrix's Worst Week Since the Last Worst Week",
+      "why_now": "Dark Reading reports two simultaneous zero-days in Citrix NetScaler causing active chaos for customers.",
+      "angle": "Breach-digest style: stack this against Citrix's history of zero-day incidents to argue 'inevitable' pattern, with patch-cadence timeline graphic.",
+      "source": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix"
     },
     {
-      "title": "Cisco's Catalyst SD-WAN Auth Bypass Just Joined the KEV List — Here's Your Patch-Cadence Scorecard",
-      "why_now": "CISA added the actively exploited Cisco Catalyst SD-WAN Manager auth bypass to its Known Exploited Vulnerabilities list the same day Cisco shipped the patch.",
-      "angle": "Patch-cadence tracker format: CVE, exploitation window, KEV deadline, who's still exposed",
-      "source": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html"
+      "title": "Microsoft Caught Hackers Exploiting Zimbra Before Anyone Even Knew the Bug Existed",
+      "why_now": "Confirmed pre-disclosure exploitation of a Zimbra vuln, reported by both The Register and SecurityWeek on Oct 1.",
+      "angle": "Threat-actor deep dive: how attackers beat the disclosure clock, what it means for 'patch Tuesday' assumptions, and why pre-disclosure exploitation is the new normal.",
+      "source": "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543"
     },
     {
-      "title": "$387.5 Million Gone: Bitget's 'Third-Party Zero-Day' Is the Breach Excuse of the Year",
-      "why_now": "Bitget just confirmed a third-party zero-day caused a $387.5M crypto theft, days after MetaMask's own incident pushed Ethereum validators to exit — a bad week for crypto infrastructure trust.",
-      "angle": "Breach post-mortem skeptically dissecting the 'third-party zero-day' defense and tallying the week's crypto-security carnage",
-      "source": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html"
+      "title": "Warlock Ransomware Goes Industrial: SharePoint Exploits Now Hitting Critical Infrastructure",
+      "why_now": "SecurityWeek's Oct 2 report shows Warlock expanding from Spanish/Portuguese orgs into critical infrastructure via SharePoint flaws.",
+      "angle": "Ransomware tracker entry: map Warlock's victim expansion, tie back to unpatched SharePoint CVEs, and list exposed sectors.",
+      "source": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/"
     },
     {
-      "title": "FBI Tells ShinyHunters 'We Know How to Find You' — Dutch Police Just Proved It",
-      "why_now": "The FBI's public warning to ShinyHunters landed the same week Dutch police arrested a 'reformed' hacker tied to the group, giving the threat-actor story a satisfying follow-through.",
-      "angle": "Threat-actor profile tying the FBI statement to the arrest, with a timeline of ShinyHunters' breach history",
-      "source": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/"
+      "title": "AI Agents Are Now Hacking the Hackers (and Government Sites) — Autonomous Attacks Have Arrived",
+      "why_now": "Two fresh stories — AI agents breaching a security research org's email data and AI agents launching SQLi against US/Canadian government sites — show autonomous AI attack tooling going mainstream in the same week.",
+      "angle": "Trend digest combining both incidents into one 'the bots are attacking now' piece, with implications for SOC patch/response speed.",
+      "source": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652"
     }
   ]
 }

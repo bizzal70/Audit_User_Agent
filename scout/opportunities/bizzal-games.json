@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-01T11:08:32+00:00",
+  "generated": "2026-10-02T11:08:33+00:00",
   "opportunities": [
     {
-      "title": "The Tarrasque Rule Half of You Are Running Wrong: Regeneration Doesn't Mean What You Think",
-      "why_now": "Iron Studios just announced a Tarrasque statue, putting the creature back in everyone's feed this week.",
-      "angle": "60-sec creature tactic short: break down how Tarrasque regeneration + the 'nothing but a Wish spell' clause actually interacts with damage types, ending on the one houserule that breaks the monster.",
-      "source": "https://www.enworld.org/threads/9-inch-tarrasque-statue-coming-from-iron-studios.720821/"
+      "title": "The Shadowfell Fighter's Signature Feature, Ruled Correctly (D&D Beyond Drops)",
+      "why_now": "New subclass just dropped and tables will mis-rule its necrotic/shadow mechanic within a week.",
+      "angle": "60-sec rules ruling: read the feature verbatim, flag the ambiguous trigger, give the correct resolution with an example.",
+      "source": "https://www.enworld.org/threads/d-d-beyond-drops-adds-first-subclass-a-shadowfell-themed-fighter.720854/"
     },
     {
-      "title": "Running Murlocs as an Actual Threat: Stat-Blocking WoW's Punchline Monster for 5e",
-      "why_now": "The D&D x World of Warcraft book's monster list just dropped, giving a concrete roster to riff on.",
-      "angle": "Pick one goofy/iconic WoW monster from the list and do a tactics breakdown of how to run it as a legit CR encounter rather than a joke — pure creature-tactic format.",
+      "title": "One Monster from the D&D x WoW Book That Will Wreck a Low-Level Party",
+      "why_now": "The full WoW monster list just leaked, giving a fresh pool of unfamiliar stat blocks nobody's run yet.",
+      "angle": "Creature tactic breakdown: pick one WoW-flavored monster, show its one nasty action and the positioning that makes it lethal.",
       "source": "https://www.enworld.org/threads/heres-the-list-of-monsters-from-the-d-d-world-of-warcraft-book.720827/"
     },
     {
-      "title": "Project Lamordia and the Fear Check Nobody Runs Right: Domains of Dread Rulings 101",
-      "why_now": "D&D Beyond just teased a modern Ravenloft reboot, making horror mechanics newly relevant to the feed.",
-      "angle": "Rules-ruling short on how fear/dread saves and Madness tables actually function in 5e horror play, contrasted with how most tables skip them entirely.",
-      "source": "https://www.enworld.org/threads/d-d-beyond-teases-project-lamordia-a-modern-reinterpretation-of-ravenloft.720812/"
+      "title": "50% Off PDFs Right Now — Here's the One Module Worth Grabbing for a Shadowdark Table",
+      "why_now": "The two-week PDF sale is live and a module pick gives viewers a reason to click before it ends.",
+      "angle": "Quick-hit recommendation: name one classic adventure on sale, extract a single encounter trick that ports cleanly to Shadowdark/DCC.",
+      "source": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/"
     },
     {
-      "title": "The Dungeon-Crawl Rule Classic Modules Assume You're Using (And 5e Quietly Dropped)",
-      "why_now": "A new walkthrough map book of classic D&D dungeons was just announced, reviving interest in old-school crawl structure.",
-      "angle": "Mechanical ruling short on exploration turns/light & rations tracking from classic dungeons, framed as 'why your 5e dungeon crawl feels weightless.'",
+      "title": "The Dungeon Map Trick Old Modules Used That Modern Adventures Forgot",
+      "why_now": "A walkthrough map book of classic dungeons was just announced, reviving interest in old-school map design.",
+      "angle": "Mechanical/GM-craft short: show a classic trap-corridor or keying convention from a vintage dungeon and why it still works better than modern room design.",
       "source": "https://www.enworld.org/threads/walkthrough-map-book-of-classic-d-d-dungeons-coming-next-year.720836/"
     },
     {
-      "title": "Why Video Game Dungeons Make Terrible Tabletop Dungeons (Using WoW's 7 as the Autopsy)",
-      "why_now": "EN World just published a breakdown of the 7 WoW-inspired dungeons in the new D&D crossover book.",
-      "angle": "Dry GM-advice short: pick one of the 7 dungeons, show its video-game pacing (trash → mini-boss → boss loop), then show the one encounter-design fix to make it work at a table.",
-      "source": "https://www.enworld.org/threads/what-are-the-7-dungeons-in-d-d-world-of-warcraft-all-about.720808/"
+      "title": "Why Your Player Notes Are Useless Mid-Combat (And the One-Line Fix)",
+      "why_now": "Gnome Stew's note-taking piece is fresh and gives a GM-side angle distinct from the usual rules/creature content.",
+      "angle": "Dry veteran-GM tip: contrast bad freeform notes vs. a tagged-condition shorthand that speeds up ruling calls at the table.",
+      "source": "https://gnomestew.com/how-to-take-player-notes/"
     }
   ]
 }

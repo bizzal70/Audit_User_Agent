@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-01T11:08:32+00:00",
+  "generated": "2026-10-02T11:08:33+00:00",
   "opportunities": [
     {
-      "title": "September Was the Worst Hack Month of 2026 — And Nobody's Surprised",
-      "why_now": "The $768M September hack total headline is exactly the kind of macro proof point this audience wants validated against their priors.",
-      "angle": "Data-led blog post breaking down the $768M by exploit type/chain, framed as 'the market priced this in, the headlines just caught up' — close with a chart and a line about why Q4 won't be better.",
-      "source": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "$1.26B Stolen, Best Quarter Since 2024: Crypto's Security Debt Is Just the Cost of Doing Business Now",
+      "why_now": "CoinDesk and Cointelegraph both confirm Q3 losses topped $1B while BTC just had its best quarter since 2024 — the market isn't even flinching anymore.",
+      "angle": "Data-driven op-ed pairing the hack-loss chart against ETF inflow/price charts to show the market has fully priced in theft as overhead, not risk",
+      "source": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion"
     },
     {
-      "title": "The Bitget Hack Is Now a Laundering Masterclass — Zero-Day to Zcash in 30 Days",
-      "why_now": "The incident has evolved in real time from exploit (Aug 31 zero-day) to CEX response to a cat-and-mouse laundering trail through NEAR Intents and now Zcash privacy pools, giving a full narrative arc to recap.",
-      "angle": "Timeline explainer/thread format: 'Zero-day → $388M stolen → NEAR blocks $50M → hacker pivots to Zcash' — use it to explain why privacy pools are the endgame for stolen funds and why CEX 'protection funds' are theater.",
-      "source": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain"
+      "title": "NEAR Intents Just Gave Its Hacker a 48-Hour Deadline — Here's Why That Almost Never Works",
+      "why_now": "NEAR Intents claims to have identified the exploiter and issued a public ultimatum, a tactic with a long, mostly losing track record in DeFi.",
+      "angle": "Pattern-recognition piece citing past on-chain negotiation attempts (Poly Network, Euler, etc.) to predict the likely outcome before the clock runs out",
+      "source": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum"
     },
     {
-      "title": "Could THORChain Actually Get Prosecuted for Routing Stolen Bitget Funds? We Read the Legal Opinion",
-      "why_now": "A fresh legal opinion specifically raises criminal exposure for a DeFi protocol over laundering stolen funds, a novel liability angle this audience hasn't seen tested before.",
-      "angle": "Analysis piece translating the legal opinion into plain terms: what 'knowingly facilitating' means on-chain, and what it means for any protocol with permissionless swaps if this sticks.",
-      "source": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Zano Minted a Quadrillion Fake Tokens, Then Just Rewound the Chain — So Much for Immutable",
+      "why_now": "The exploit and subsequent rollback directly contradict the 'code is law' marketing every L1 still leans on.",
+      "angle": "Explainer/takedown on how rollbacks quietly happen more often than chains admit, and what it means for anyone trusting 'immutability' as a security guarantee",
+      "source": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback"
     },
     {
-      "title": "Bitget's CEO Just Admitted the Quiet Part: You're Probably Not Getting Your Money Back",
-      "why_now": "The CEO's public pessimism about fund recovery, paired with a third-party vulnerability admission, is a rare moment of candor worth dissecting for what it signals about CEX security theater.",
-      "angle": "Opinion/breakdown piece: what 'third-party vulnerability' actually means in CEX infra, why protection funds don't protect you, and what questions users should be asking their own exchange right now.",
-      "source": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Your Lightning Node Is Now a Target: Patch Core Lightning Before You're the Next Line Item",
+      "why_now": "Core Lightning is actively warning that attackers are scanning for unpatched nodes right now, not hypothetically.",
+      "angle": "Short, urgent security advisory format — what the vulnerability is, who's exposed, and the exact upgrade steps, written for operators who'd rather not be a case study",
+      "source": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes"
     },
     {
-      "title": "MetaMask's 'No Funds at Risk' Line Is Doing a Lot of Work — Here's What Actually Happened",
-      "why_now": "A security incident forcing mass Ethereum staking exits via Lido, with potential lost rewards, is a concrete wallet-infra story breaking right now that deserves skepticism beyond the reassuring headline.",
-      "angle": "Skeptical explainer: unpack what 'infrastructure security incident' means technically, why staking exits were the fix, and what users actually lost (rewards) even if principal was safe — classic 'the fine print is the story' angle.",
-      "source": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards"
+      "title": "The Bitget Hack Sat Undetected for a Month — SlowMist's Zero-Day Timeline Is a Masterclass in What Monitoring Misses",
+      "why_now": "SlowMist just traced the breach back to an Aug. 31 zero-day, meaning the exploit ran silently for weeks before the $388M drain surfaced.",
+      "angle": "Forensic timeline breakdown turned into a checklist: the detection gaps that let a month-old zero-day go unnoticed, and what exchanges should be alerting on instead",
+      "source": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation"
     }
   ]
 }
