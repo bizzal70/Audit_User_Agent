@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-02T11:08:33+00:00",
+  "generated": "2026-10-03T11:17:21+00:00",
   "opportunities": [
     {
-      "title": "Renegade Keeps Transformers & GI Joe, Loses Vampire: What the License Shuffle Means for Your Game Shelf",
-      "why_now": "A major licensing reshuffle just redrew the map of who makes what RPG, with White Wolf reclaiming Vampire outright.",
-      "angle": "News analysis breaking down which product lines survive, which die, and what it means for owners of current books",
+      "title": "The Guard Changes, the Rules Don't: What D&D's Staff Shakeup Actually Means for Your Table",
+      "why_now": "EN World's deep dive on D&D's personnel churn is the kind of inside-baseball news that fuels speculation about design direction, and we can ground it in what's actually been printed vs. rumored.",
+      "angle": "Analysis piece separating confirmed rules/design credits from speculation about who's steering 6e-era books",
+      "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
+    },
+    {
+      "title": "Vampire Goes Home: What White Wolf Reclaiming the License Means for Your Chronicle",
+      "why_now": "Renegade losing Vampire to White Wolf is a licensing earthquake that affects which books are canon-supported going forward.",
+      "angle": "Explainer on publishing history/licensing precedent and what it signals for upcoming V5 content",
       "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
     },
     {
-      "title": "The Shadowfell Fighter: D&D Beyond Drops' First Subclass, Rules Breakdown",
-      "why_now": "D&D Beyond just shipped its first-ever subclass for the new Drops format, a direct test case for how WotC will deliver crunch going forward.",
-      "angle": "Rules-first teardown of the subclass's mechanics, balance, and what the Drops delivery model means for future content",
+      "title": "D&D Beyond Drops' First Subclass Is a Shadowfell Fighter — Here's the Actual Rules Text",
+      "why_now": "This is the first subclass release in a new digital-first content format, setting precedent for how official content will be delivered and priced going forward.",
+      "angle": "Rules breakdown post quoting exact subclass features and comparing them to existing Fighter subclasses",
       "source": "https://www.enworld.org/threads/d-d-beyond-drops-adds-first-subclass-a-shadowfell-themed-fighter.720854/"
     },
     {
-      "title": "50% Off Hundreds of PDFs Right Now — Here's What's Actually Worth Grabbing",
-      "why_now": "A two-week-only sitewide discount is live today, making this a narrow window for a buyer's guide.",
-      "angle": "Curated recommendation list sorted by system/use-case, framed as a ticking-clock buying guide",
+      "title": "The 50% PDF Sale Cheat Sheet: Which Rulebooks Are Actually Worth Grabbing",
+      "why_now": "A time-limited two-week sale across hundreds of PDFs is a direct-action opportunity for readers right now.",
+      "angle": "Curated buyer's guide ranking the sale's rules-dense titles by system usefulness, not just price",
       "source": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/"
     },
     {
-      "title": "Every Monster Coming in the D&D x World of Warcraft Book, Stat Block by Stat Block",
-      "why_now": "The full monster list just leaked/dropped, giving fans their first real look at how Azeroth translates into 5E crunch.",
-      "angle": "Annotated list with commentary on which WoW creatures got faithful conversions vs. reskins",
-      "source": "https://www.enworld.org/threads/heres-the-list-of-monsters-from-the-d-d-world-of-warcraft-book.720827/"
-    },
-    {
-      "title": "D&D's Classic Dungeons Are Getting a Walkthrough Map Book — Here's Why That Matters",
-      "why_now": "A new product announcement reveals a dedicated map/walkthrough compendium for iconic dungeons, a first-of-its-kind format.",
-      "angle": "News piece speculating on which classic modules are likely included and how it serves both nostalgia and new-DM prep",
-      "source": "https://www.enworld.org/threads/walkthrough-map-book-of-classic-d-d-dungeons-coming-next-year.720836/"
+      "title": "This Week in TTRPG News: The Digest Behind the Digest",
+      "why_now": "EN World's weekly digest is a ready-made roundup we can re-frame with rules-first commentary for readers who want the facts without the forum noise.",
+      "angle": "Quick-hit X thread pulling the 3-4 most rules-relevant items from the digest with one-line verdicts",
+      "source": "https://www.enworld.org/threads/news-digest-for-october-2-2026.720869/"
     }
   ]
 }

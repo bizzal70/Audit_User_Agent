@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-02T11:08:33+00:00",
+  "generated": "2026-10-03T11:17:21+00:00",
   "opportunities": [
     {
-      "title": "$1.26B Stolen, Best Quarter Since 2024: Crypto's Security Debt Is Just the Cost of Doing Business Now",
-      "why_now": "CoinDesk and Cointelegraph both confirm Q3 losses topped $1B while BTC just had its best quarter since 2024 — the market isn't even flinching anymore.",
-      "angle": "Data-driven op-ed pairing the hack-loss chart against ETF inflow/price charts to show the market has fully priced in theft as overhead, not risk",
+      "title": "Q3 Crypto Losses Just Crossed $1.26B — And Nobody's Pricing the Risk Correctly",
+      "why_now": "Bitget's $388M hack pushed Q3 security losses past $1B right as September posted the worst monthly total of the year, confirming the trend line security researchers have been flagging all year.",
+      "angle": "Data-led trend piece with a chart: losses by month vs. TVL growth, making the case that 'risk-on' sentiment is ignoring a widening security gap",
       "source": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion"
     },
     {
-      "title": "NEAR Intents Just Gave Its Hacker a 48-Hour Deadline — Here's Why That Almost Never Works",
-      "why_now": "NEAR Intents claims to have identified the exploiter and issued a public ultimatum, a tactic with a long, mostly losing track record in DeFi.",
-      "angle": "Pattern-recognition piece citing past on-chain negotiation attempts (Poly Network, Euler, etc.) to predict the likely outcome before the clock runs out",
+      "title": "NEAR Intents Gave a Hacker 48 Hours to Return $3.8M. Here's Why That Almost Never Works",
+      "why_now": "NEAR Intents just issued a public ultimatum to a named attacker days after disclosing the exploit, reviving the industry's favorite theater: negotiating with thieves in public.",
+      "angle": "Skeptical breakdown of historical 'return the funds' ultimatums and their actual success rate, tied to the live NEAR situation",
       "source": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum"
     },
     {
-      "title": "Zano Minted a Quadrillion Fake Tokens, Then Just Rewound the Chain — So Much for Immutable",
-      "why_now": "The exploit and subsequent rollback directly contradict the 'code is law' marketing every L1 still leans on.",
-      "angle": "Explainer/takedown on how rollbacks quietly happen more often than chains admit, and what it means for anyone trusting 'immutability' as a security guarantee",
-      "source": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback"
+      "title": "Drift's Exploit Victims Just Got Their First Payout: 1% of What They Lost",
+      "why_now": "Drift opened recovery claims this week with initial payouts of ~1% of user losses, a real-time case study in what 'made whole' promises actually deliver.",
+      "angle": "Explainer on the gap between recovery-fund PR and actual payout math, with Drift as the current receipt",
+      "source": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581"
     },
     {
-      "title": "Your Lightning Node Is Now a Target: Patch Core Lightning Before You're the Next Line Item",
-      "why_now": "Core Lightning is actively warning that attackers are scanning for unpatched nodes right now, not hypothetically.",
-      "angle": "Short, urgent security advisory format — what the vulnerability is, who's exposed, and the exact upgrade steps, written for operators who'd rather not be a case study",
-      "source": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes"
+      "title": "Aave Says V3 Is 'Unaffected' After a $305K Exploit. That's the Wrong Question.",
+      "why_now": "Aave's founder is distancing the core protocol from a third-party adapter drain, a framing move that deserves scrutiny given how composability actually works.",
+      "angle": "Security teardown: why 'not our code' doesn't mean 'not your users' risk,' using Aave's adapter exploit as the case study",
+      "source": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k"
     },
     {
-      "title": "The Bitget Hack Sat Undetected for a Month — SlowMist's Zero-Day Timeline Is a Masterclass in What Monitoring Misses",
-      "why_now": "SlowMist just traced the breach back to an Aug. 31 zero-day, meaning the exploit ran silently for weeks before the $388M drain surfaced.",
-      "angle": "Forensic timeline breakdown turned into a checklist: the detection gaps that let a month-old zero-day go unnoticed, and what exchanges should be alerting on instead",
-      "source": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation"
+      "title": "BitGo's CEO Says Clarity's Failure Could Be Worse Than Lehman. He's Not Wrong About the Custody Part.",
+      "why_now": "BitGo's CEO just drew a Lehman comparison to regulatory gaps exposed by Clarity's failure, right as institutional ETF inflows hit $2.7B for September.",
+      "angle": "Security-first take on institutional custody risk behind the bull narrative — where the next systemic failure point actually sits",
+      "source": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560"
     }
   ]
 }

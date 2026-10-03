@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-02T11:08:33+00:00",
+  "generated": "2026-10-03T11:17:21+00:00",
   "opportunities": [
     {
-      "title": "The Shadowfell Fighter's Signature Feature, Ruled Correctly (D&D Beyond Drops)",
-      "why_now": "New subclass just dropped and tables will mis-rule its necrotic/shadow mechanic within a week.",
-      "angle": "60-sec rules ruling: read the feature verbatim, flag the ambiguous trigger, give the correct resolution with an example.",
+      "title": "The Shadowfell Fighter Is Live on D&D Beyond — Does Its Capstone Actually Break Action Economy?",
+      "why_now": "D&D Beyond Drops just published its first subclass and nobody's stress-tested the ruling yet.",
+      "angle": "60-sec mechanical teardown: read the subclass feature verbatim, then run the exact edge case (opportunity attack interaction, resource cost) that will come up at a real table Friday night.",
       "source": "https://www.enworld.org/threads/d-d-beyond-drops-adds-first-subclass-a-shadowfell-themed-fighter.720854/"
     },
     {
-      "title": "One Monster from the D&D x WoW Book That Will Wreck a Low-Level Party",
-      "why_now": "The full WoW monster list just leaked, giving a fresh pool of unfamiliar stat blocks nobody's run yet.",
-      "angle": "Creature tactic breakdown: pick one WoW-flavored monster, show its one nasty action and the positioning that makes it lethal.",
-      "source": "https://www.enworld.org/threads/heres-the-list-of-monsters-from-the-d-d-world-of-warcraft-book.720827/"
-    },
-    {
-      "title": "50% Off PDFs Right Now — Here's the One Module Worth Grabbing for a Shadowdark Table",
-      "why_now": "The two-week PDF sale is live and a module pick gives viewers a reason to click before it ends.",
-      "angle": "Quick-hit recommendation: name one classic adventure on sale, extract a single encounter trick that ports cleanly to Shadowdark/DCC.",
+      "title": "50% Off Doesn't Mean 'Playable' — The One DCC Module in This Sale With a Trap That Actually Kills Level 1s",
+      "why_now": "The 2-week PDF sale is driving impulse buys; GMs need to know which module's signature encounter is worth stealing before the discount ends.",
+      "angle": "Creature/trap tactic breakdown lifted from a specific sale title, framed as 'buy this for the encounter, skip the rest.'",
       "source": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/"
     },
     {
-      "title": "The Dungeon Map Trick Old Modules Used That Modern Adventures Forgot",
-      "why_now": "A walkthrough map book of classic dungeons was just announced, reviving interest in old-school map design.",
-      "angle": "Mechanical/GM-craft short: show a classic trap-corridor or keying convention from a vintage dungeon and why it still works better than modern room design.",
-      "source": "https://www.enworld.org/threads/walkthrough-map-book-of-classic-d-d-dungeons-coming-next-year.720836/"
+      "title": "White Wolf Just Clawed Back Vampire — Here's Why 5e's Vampire Stat Block Still Wins at the Table",
+      "why_now": "The Renegade-to-White-Wolf license flip is trending and gives a hook to re-sell the mechanically superior D&D vampire.",
+      "angle": "Creature tactic short: Charm, Blood Drain, and regeneration abuse against a party that thinks garlic solves everything.",
+      "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
     },
     {
-      "title": "Why Your Player Notes Are Useless Mid-Combat (And the One-Line Fix)",
-      "why_now": "Gnome Stew's note-taking piece is fresh and gives a GM-side angle distinct from the usual rules/creature content.",
-      "angle": "Dry veteran-GM tip: contrast bad freeform notes vs. a tagged-condition shorthand that speeds up ruling calls at the table.",
-      "source": "https://gnomestew.com/how-to-take-player-notes/"
+      "title": "D&D's Leadership Shuffle Means Errata Is Coming — Here's the Veteran-GM Rule for Handling Rules Changes Mid-Campaign",
+      "why_now": "The reported hirings/firings piece signals design turnover, which historically precedes rules revisions GMs get blindsided by.",
+      "angle": "Dry 'here's my house policy' ruling: never retro-apply unreleased errata, cite page number, move on.",
+      "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
+    },
+    {
+      "title": "Planescape: Torment Just Got Patched — How 5e Actually Rules a PC Who Can't Die",
+      "why_now": "The Enhanced Edition update is resurfacing Planescape's immortality premise right as players ask DMs for 'Nameless One' builds.",
+      "angle": "Spell use-case: True Resurrection, the diamond cost, and the one DM-side clause that stops players from weaponizing immortality.",
+      "source": "https://www.rpgsite.net/news/21505-planescape-torment-enhanced-edition-patch-3-2-update-notes-mobile-modding-qol-apple-silicon-support"
     }
   ]
 }
