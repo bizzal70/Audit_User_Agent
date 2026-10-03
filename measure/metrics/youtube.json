@@ -8179,5 +8179,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "videos": [
+      {
+        "id": "QieAWy_pATg",
+        "title": "Velociraptor's surprise attack hits harder than expected #shadowdark",
+        "published": "2026-10-02",
+        "views": 8,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "MY2YJtWE1Ds",
+        "title": "Damage Rolls often surprise players with their variability #dnd5e",
+        "published": "2026-10-02",
+        "views": 118,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "snNbw7AxQ4g",
+        "title": "Clerics face a unique challenge with spellcasting #dcc",
+        "published": "2026-10-02",
+        "views": 8,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "AVvxJvqgxAg",
+        "title": "Pit Fighter's early power spike hinges on a narrow survival window #shadowdark",
+        "published": "2026-10-01",
+        "views": 29,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "9dw9Wa_sNRE",
+        "title": "Inflict Wounds surprises with its touch range #dnd5e",
+        "published": "2026-10-01",
+        "views": 80,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "31lC_v-kLnc",
+        "title": "Run Boneshard Swarm of Bones with a hard clock and consequences each round #dcc",
+        "published": "2026-10-01",
+        "views": 2,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "_Bq_B1GUc98",
+        "title": "Animate Dead shifts the tactical landscape more than expected #shadowdark",
+        "published": "2026-09-30",
+        "views": 22,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "yHqwMbRjKow",
+        "title": "Horned Devil punishes poor positioning #dnd5e",
+        "published": "2026-09-30",
+        "views": 25,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "gOnuIHAMdp8",
+        "title": "Hunter (Bane Weapon) sees through invisibility better than most players expect #dcc",
+        "published": "2026-09-30",
+        "views": 4,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "uTP-f0_UM4M",
+        "title": "Beetle's Swim Speed Creates Tactical Advantage #dcc",
+        "published": "2026-09-29",
+        "views": 30,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "NoEohaRtxmc",
+        "title": "Giant Predaceous Diving Beetle: Poison Bite Mechanics #dcc",
+        "published": "2026-09-29",
+        "views": 3,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "ps1dPRWI0hE",
+        "title": "Random Encounters occur more frequently than players expect #shadowdark",
+        "published": "2026-09-29",
+        "views": 20,
+        "likes": 0,
+        "comments": 0
+      }
+    ]
   }
 ]
