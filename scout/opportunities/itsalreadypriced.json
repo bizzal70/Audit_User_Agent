@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-03T11:17:21+00:00",
+  "generated": "2026-10-04T12:43:26+00:00",
   "opportunities": [
     {
-      "title": "Q3 Crypto Losses Just Crossed $1.26B — And Nobody's Pricing the Risk Correctly",
-      "why_now": "Bitget's $388M hack pushed Q3 security losses past $1B right as September posted the worst monthly total of the year, confirming the trend line security researchers have been flagging all year.",
-      "angle": "Data-led trend piece with a chart: losses by month vs. TVL growth, making the case that 'risk-on' sentiment is ignoring a widening security gap",
+      "title": "Q3 Was Crypto's Most Expensive Quarter for Security Ever — And the Bitget Hack Alone Was a Third of It",
+      "why_now": "Bitget's $388M breach pushed Q3 losses past $1.26B, and Chainalysis just published the AI forensics trail tying it to North Korea, giving a full data-plus-narrative hook.",
+      "angle": "Data-led postmortem: break down the $1.26B by vector (bridge, custody, DeFi), overlay the Chainalysis AI tracing methodology, end with what 'priced in' means for exchanges still running centralized hot wallets.",
       "source": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion"
     },
     {
-      "title": "NEAR Intents Gave a Hacker 48 Hours to Return $3.8M. Here's Why That Almost Never Works",
-      "why_now": "NEAR Intents just issued a public ultimatum to a named attacker days after disclosing the exploit, reviving the industry's favorite theater: negotiating with thieves in public.",
-      "angle": "Skeptical breakdown of historical 'return the funds' ultimatums and their actual success rate, tied to the live NEAR situation",
-      "source": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum"
+      "title": "NEAR Intents Got Its $3.8M Back With a 48-Hour Ultimatum. That's Not Recovery — That's Hostage Negotiation",
+      "why_now": "The full arc just closed in 48 hours: exploit, identification, ultimatum, full recovery — a tidy case study in the new 'negotiate with your hacker' playbook.",
+      "angle": "Skeptical breakdown of white-hat-adjacent extortion-as-incident-response: what precedent this sets, why it only works when the protocol can identify the attacker, and why most victims never get this luxury.",
+      "source": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter"
     },
     {
-      "title": "Drift's Exploit Victims Just Got Their First Payout: 1% of What They Lost",
-      "why_now": "Drift opened recovery claims this week with initial payouts of ~1% of user losses, a real-time case study in what 'made whole' promises actually deliver.",
-      "angle": "Explainer on the gap between recovery-fund PR and actual payout math, with Drift as the current receipt",
+      "title": "Drift's Exploit Victims Just Got Checks for 1% of What They Lost. This Is What 'We're Making Users Whole' Actually Means",
+      "why_now": "Drift opened recovery claims this week with initial payouts just over 1% of losses, a concrete number that exposes the gap between PR language and reality.",
+      "angle": "Myth-busting explainer using Drift as Exhibit A: track the language protocols use after hacks ('made whole,' 'recovery fund') against the actual payout math, with a running tally of other unresolved DeFi exploits.",
       "source": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581"
     },
     {
-      "title": "Aave Says V3 Is 'Unaffected' After a $305K Exploit. That's the Wrong Question.",
-      "why_now": "Aave's founder is distancing the core protocol from a third-party adapter drain, a framing move that deserves scrutiny given how composability actually works.",
-      "angle": "Security teardown: why 'not our code' doesn't mean 'not your users' risk,' using Aave's adapter exploit as the case study",
-      "source": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k"
+      "title": "Zano's Exploiter Minted a Quadrillion Fake Tokens Before Anyone Noticed. The Rollback Fixed the Ledger, Not the Trust",
+      "why_now": "A quadrillion-unit overmint is a jaw-dropping number that happened just days ago and forced a full chain rollback — rare enough to be a standalone security case study.",
+      "angle": "Technical-but-readable breakdown of how the mint bug worked, why rollbacks are the nuclear option, and what it says about audit coverage on smaller L1s nobody's watching.",
+      "source": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback"
     },
     {
-      "title": "BitGo's CEO Says Clarity's Failure Could Be Worse Than Lehman. He's Not Wrong About the Custody Part.",
-      "why_now": "BitGo's CEO just drew a Lehman comparison to regulatory gaps exposed by Clarity's failure, right as institutional ETF inflows hit $2.7B for September.",
-      "angle": "Security-first take on institutional custody risk behind the bull narrative — where the next systemic failure point actually sits",
+      "title": "BitGo's CEO Says Clarity's Collapse Could Be Worse Than Lehman. He's Describing Plumbing Risk, Not Headline Risk",
+      "why_now": "A regulated custodian CEO invoking Lehman this week is a rare moment where 'security-led' crypto commentary crosses into traditional systemic-risk language worth dissecting.",
+      "angle": "Op-ed translating the custody/market-structure jargon into plain stakes: what actually breaks if Clarity's framework fails, who's exposed, and why this reads like every pre-crisis warning that got ignored.",
       "source": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560"
     }
   ]

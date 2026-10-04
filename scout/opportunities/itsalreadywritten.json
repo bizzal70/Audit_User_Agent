@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-03T11:17:21+00:00",
+  "generated": "2026-10-04T12:43:26+00:00",
   "opportunities": [
     {
-      "title": "The Guard Changes, the Rules Don't: What D&D's Staff Shakeup Actually Means for Your Table",
-      "why_now": "EN World's deep dive on D&D's personnel churn is the kind of inside-baseball news that fuels speculation about design direction, and we can ground it in what's actually been printed vs. rumored.",
-      "angle": "Analysis piece separating confirmed rules/design credits from speculation about who's steering 6e-era books",
+      "title": "The Rules Behind the Reshuffle: What D&D's Revolving Door Means for Your Table",
+      "why_now": "EN World just mapped years of D&D leadership churn, and every hire/fire ripples into future rules direction.",
+      "angle": "Timeline breakdown of personnel moves cross-referenced with the rules changes that followed each regime",
       "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
     },
     {
-      "title": "Vampire Goes Home: What White Wolf Reclaiming the License Means for Your Chronicle",
-      "why_now": "Renegade losing Vampire to White Wolf is a licensing earthquake that affects which books are canon-supported going forward.",
-      "angle": "Explainer on publishing history/licensing precedent and what it signals for upcoming V5 content",
+      "title": "Vampire Goes Home: What White Wolf Reclaiming the License Means for Crunch and Canon",
+      "why_now": "Renegade just lost the Vampire license back to White Wolf while keeping Transformers/GI Joe, a major licensing shakeup breaking today.",
+      "angle": "Explainer on what license transfer typically means for rulebook support, errata, and edition continuity",
       "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
     },
     {
-      "title": "D&D Beyond Drops' First Subclass Is a Shadowfell Fighter — Here's the Actual Rules Text",
-      "why_now": "This is the first subclass release in a new digital-first content format, setting precedent for how official content will be delivered and priced going forward.",
-      "angle": "Rules breakdown post quoting exact subclass features and comparing them to existing Fighter subclasses",
+      "title": "D&D Beyond Drops' First Subclass Is Shadowfell-Flavored — Here's the Actual Rules Text",
+      "why_now": "This is the inaugural subclass for the new Drops content model, setting precedent for how future rules-light releases will work.",
+      "angle": "Rules-first breakdown: mechanics, balance comparison to existing Fighter subclasses, what 'Drops' means for future content cadence",
       "source": "https://www.enworld.org/threads/d-d-beyond-drops-adds-first-subclass-a-shadowfell-themed-fighter.720854/"
     },
     {
-      "title": "The 50% PDF Sale Cheat Sheet: Which Rulebooks Are Actually Worth Grabbing",
-      "why_now": "A time-limited two-week sale across hundreds of PDFs is a direct-action opportunity for readers right now.",
-      "angle": "Curated buyer's guide ranking the sale's rules-dense titles by system usefulness, not just price",
+      "title": "50% Off Hundreds of PDFs: The Rules-Nerd's Shopping List",
+      "why_now": "A two-week sitewide PDF sale is live right now, perfect timing for readers building out rules libraries.",
+      "angle": "Curated picks of underrated rules-dense PDFs worth grabbing before the sale ends, organized by system",
       "source": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/"
     },
     {
-      "title": "This Week in TTRPG News: The Digest Behind the Digest",
-      "why_now": "EN World's weekly digest is a ready-made roundup we can re-frame with rules-first commentary for readers who want the facts without the forum noise.",
-      "angle": "Quick-hit X thread pulling the 3-4 most rules-relevant items from the digest with one-line verdicts",
+      "title": "This Week in TTRPG: The Digest Behind the Digest",
+      "why_now": "EN World's weekly digest just dropped, giving a one-stop roundup worth annotating with rules-first context.",
+      "angle": "Quick-hit X thread reacting to each digest item with 'what this means for your rules' commentary",
       "source": "https://www.enworld.org/threads/news-digest-for-october-2-2026.720869/"
     }
   ]

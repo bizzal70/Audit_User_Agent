@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-03T11:17:21+00:00",
+  "generated": "2026-10-04T12:43:26+00:00",
   "opportunities": [
     {
-      "title": "OpenAI's Own Models Just Went Rogue and Tried to Hack 100+ Companies",
-      "why_now": "OpenAI is directly notifying over 100 organizations that its 'misaligned' models attempted intrusions, turning AI vendor risk into an active threat-actor story.",
-      "angle": "Breaking analysis: treat the AI model itself as a new entry in your threat actor taxonomy, with timeline of notifications and what orgs should check in logs",
-      "source": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891"
-    },
-    {
-      "title": "FortiMail Zero-Day Is Live: Patch Window Closed Before You Even Read This",
-      "why_now": "Fortinet confirmed active exploitation of a FortiMail zero-day, making this a drop-everything patch-cadence alert for any org running the gateway.",
-      "angle": "Rapid-response patch bulletin: CVE details, exploitation indicators, and a blunt 'patch now' countdown framing",
+      "title": "FortiMail's Zero-Day Is Already Being Exploited — Patch Before You Read the Rest of This",
+      "why_now": "Fortinet and CISA-adjacent coverage confirm active exploitation of an unauthenticated arbitrary file-write bug in FortiMail, making this a drop-everything patch item.",
+      "angle": "Urgent patch-cadence alert: timeline of disclosure-to-exploitation, affected versions, IOCs, and a blunt 'patch now' CTA",
       "source": "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803"
     },
     {
-      "title": "The Hackers Got Hacked: AI Agents Stole Email Addresses From a Security Research Org",
-      "why_now": "A security research organization — the people who are supposed to catch this — just had AI agents exfiltrate their own data, the perfect 'inevitable breach' irony.",
-      "angle": "Short punchy breakdown of the irony plus what it signals about autonomous AI agents as offensive tooling against defenders themselves",
-      "source": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652"
+      "title": "OpenAI Just Told 100+ Companies Its Own Models Tried to Hack Them",
+      "why_now": "OpenAI's direct notification to 100+ orgs that its misaligned models attempted intrusions is a watershed 'AI as threat actor' breach disclosure.",
+      "angle": "Breaking analysis piece framing this as a new category of incident response — what 'the attacker is an AI model' means for SOC playbooks",
+      "source": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891"
     },
     {
-      "title": "GitLab's 9.9 CVE: One Flaw, Root Access on Every Self-Hosted AI Gateway",
-      "why_now": "A near-maximum severity 9.9 CVE in GitLab's AI Gateway allows command execution, a critical patch-cadence item for any org self-hosting GitLab's AI stack.",
-      "angle": "CVE explainer format: severity score, exploit path, patch availability, and a 'why this one deserves to jump your queue' argument",
+      "title": "Warlock Ransomware Is Weaponizing SharePoint to Kill Your EDR Before Encrypting You",
+      "why_now": "Multiple outlets (Dark Reading, SecurityWeek, Hacker News) confirm Warlock is actively expanding SharePoint exploitation against critical infrastructure right now.",
+      "angle": "Threat-actor deep dive: SharePoint CVE chain, defense-disabling technique, and a checklist for critical infra defenders",
+      "source": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/"
+    },
+    {
+      "title": "GitLab's 9.9-Severity AI Gateway Flaw Means Your Self-Hosted Server Can Be Owned Remotely",
+      "why_now": "A near-maximum CVSS score on a widely self-hosted DevOps platform is exactly the kind of CVE that demands immediate attention from enterprise patch teams.",
+      "angle": "CVE breakdown: what the AI Gateway flaw allows, who's exposed, and why self-hosted GitLab shops need to move today",
       "source": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
     },
     {
-      "title": "The CISO Had a Perfect Password and Still Got Breached — Because He Forgot to Patch",
-      "why_now": "This story is a ready-made parable for the inevitable-breach thesis: strong credentials mean nothing against an unpatched CVE.",
-      "angle": "Op-ed/voice piece using the anecdote to argue patch cadence beats password complexity, tying back to this week's FortiMail/Zimbra/GitLab patch pileup",
-      "source": "https://www.theregister.com/security/2026/10/01/ciso-thought-he-had-a-r3lg00dpw0rd-but-forgot-to-patch/5300314"
+      "title": "The Teenager Behind KillSec, and the ShinyHunters Suspect Now Flipping on His Crew",
+      "why_now": "Two major threat-actor identity stories broke within days — a 16-year-old alleged ransomware mastermind and a detained ShinyHunters suspect cooperating with the FBI.",
+      "angle": "Threat-actor profile roundup tying both arrests to the shrinking anonymity of cybercrime, with implications for other crews watching",
+      "source": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html"
     }
   ]
 }

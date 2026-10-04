@@ -1,4 +1,53 @@
 {
-  "generated": "2026-10-03T11:17:21+00:00",
-  "plays": []
+  "generated": "2026-10-04T12:43:26+00:00",
+  "plays": [
+    {
+      "story": "Renegade Studios loses the Vampire: The Masquerade license back to White Wolf after years of running the line, while retaining Transformers/GI Joe deals",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'White Wolf Takes Vampire Home: What Happens to Your Renegade VTM Books Now?' — a buyer's-guide breakdown of which current VTM products get orphaned, what's likely to go out of print, and whether now's the time to grab 5th Edition books before reprints stop.",
+        "itsalreadywritten": "'The Masquerade Comes Full Circle: Why White Wolf Reclaiming Vampire Was Always the Ending' — frame this as a prophecy fulfilled: the IP's own fiction is about ancient powers reasserting control, and the license reversal mirrors the in-world themes of Kindred reclaiming their domain from upstarts."
+      },
+      "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
+    },
+    {
+      "story": "A wave of hirings and firings at D&D/Wizards of the Coast over recent years signals a generational changing of the guard in creative leadership",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Who's Actually Running D&D Now? A Scorecard of Every Hire and Firing That Matters' — a practical org-chart explainer for GMs wondering whose design philosophy is steering the next core books and digital tools.",
+        "itsalreadywritten": "'D&D's Revolving Door: The Lore Was Always Going to Outlive Its Authors' — use the staff churn as a meditation on authorial control versus canon; the game's internal mythology keeps getting rewritten by whoever holds the pen this year."
+      },
+      "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
+    },
+    {
+      "story": "NEAR Intents suffers a $3.8M exploit tied to the Bitget breach, publicly identifies the hacker, issues a 48-hour ultimatum, and fully recovers the funds — while Bitget's own $388M hack pushes Q3 crypto losses past $1B",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'NEAR Just Proved You Can Negotiate With a Hacker — Here's What It Means for DeFi Insurance' — market-focused piece on how public ultimatums and full fund recovery could reshape risk pricing and investor confidence after a brutal $1B+ Q3 loss quarter.",
+        "itsalreadywhen": "'Inside the 48-Hour Ultimatum: How NEAR Intents Doxxed and Pressured Its Own Attacker' — a technical incident-response case study on attribution speed, public pressure tactics, and whether 'negotiate or get named' is becoming the new post-breach playbook."
+      },
+      "source": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum"
+    },
+    {
+      "story": "Crypto scammers hijacked Microsoft's official X account to push a token scam, exploiting trust in a major tech brand's social presence",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Microsoft's X Account Got Hacked to Pump a Coin — Here's How to Spot the Next One' — a reader-protection piece on verified-account scam patterns and why brand hijacks are becoming a go-to pump-and-dump vector.",
+        "itsalreadywhen": "'If Microsoft Can Get Its X Account Hijacked, So Can You' — an account-takeover postmortem covering likely attack vectors (session tokens, OAuth app abuse, SIM-swap) and what enterprise social media teams should lock down now."
+      },
+      "source": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/"
+    }
+  ]
 }

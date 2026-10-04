@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-03T11:17:21+00:00",
+  "generated": "2026-10-04T12:43:26+00:00",
   "opportunities": [
     {
-      "title": "The Shadowfell Fighter Is Live on D&D Beyond — Does Its Capstone Actually Break Action Economy?",
-      "why_now": "D&D Beyond Drops just published its first subclass and nobody's stress-tested the ruling yet.",
-      "angle": "60-sec mechanical teardown: read the subclass feature verbatim, then run the exact edge case (opportunity attack interaction, resource cost) that will come up at a real table Friday night.",
+      "title": "Shadowfell Fighter's 'Umbral Strike' Isn't a Crit Fish — Here's the Actual DPR Math",
+      "why_now": "D&D Beyond Drops just published its first subclass and tables are already misplaying the signature feature.",
+      "angle": "60-sec rules ruling breaking down the resistance/advantage interaction on the new Shadowfell Fighter feature, with a correct vs. wrong ruling split-screen",
       "source": "https://www.enworld.org/threads/d-d-beyond-drops-adds-first-subclass-a-shadowfell-themed-fighter.720854/"
     },
     {
-      "title": "50% Off Doesn't Mean 'Playable' — The One DCC Module in This Sale With a Trap That Actually Kills Level 1s",
-      "why_now": "The 2-week PDF sale is driving impulse buys; GMs need to know which module's signature encounter is worth stealing before the discount ends.",
-      "angle": "Creature/trap tactic breakdown lifted from a specific sale title, framed as 'buy this for the encounter, skip the rest.'",
+      "title": "The One PDF Worth Buying in the 50%-Off Sale (And It's Not the Core Book)",
+      "why_now": "The storewide 50% PDF sale runs only two weeks, giving a tight window to drive affiliate/click traffic.",
+      "angle": "Short 'GM pick of the sale' — spotlight one underrated monster/adventure PDF and demo one creature tactic from it on camera",
       "source": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/"
     },
     {
-      "title": "White Wolf Just Clawed Back Vampire — Here's Why 5e's Vampire Stat Block Still Wins at the Table",
-      "why_now": "The Renegade-to-White-Wolf license flip is trending and gives a hook to re-sell the mechanically superior D&D vampire.",
-      "angle": "Creature tactic short: Charm, Blood Drain, and regeneration abuse against a party that thinks garlic solves everything.",
-      "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
-    },
-    {
-      "title": "D&D's Leadership Shuffle Means Errata Is Coming — Here's the Veteran-GM Rule for Handling Rules Changes Mid-Campaign",
-      "why_now": "The reported hirings/firings piece signals design turnover, which historically precedes rules revisions GMs get blindsided by.",
-      "angle": "Dry 'here's my house policy' ruling: never retro-apply unreleased errata, cite page number, move on.",
+      "title": "New Blood at WotC Usually Means New Errata — Here's the Ruling I'd Bet Gets Changed Next",
+      "why_now": "Reports of a design-team shakeup at D&D have fans speculating about rules direction, a natural hook for a ruling take.",
+      "angle": "Dry 'veteran GM prediction' short calling out a specific contested rule (e.g., Twinned Spell on self-targeting spells) likely to get FAQ'd under new leadership",
       "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
     },
     {
-      "title": "Planescape: Torment Just Got Patched — How 5e Actually Rules a PC Who Can't Die",
-      "why_now": "The Enhanced Edition update is resurfacing Planescape's immortality premise right as players ask DMs for 'Nameless One' builds.",
-      "angle": "Spell use-case: True Resurrection, the diamond cost, and the one DM-side clause that stops players from weaponizing immortality.",
-      "source": "https://www.rpgsite.net/news/21505-planescape-torment-enhanced-edition-patch-3-2-update-notes-mobile-modding-qol-apple-silicon-support"
+      "title": "Vampire Goes Back to White Wolf — Here's a 5e Vampire Spawn Stat Block That Actually Fights Smart",
+      "why_now": "The license flip from Renegade to White Wolf is trending in RPG circles, giving a timely excuse to cross over into D&D monster tactics.",
+      "angle": "Creature tactic short: reskin a vampire spawn for 5e combat, showing the grapple-drain-retreat loop and action economy math",
+      "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
+    },
+    {
+      "title": "This Week in D&D News: The Ruling Nobody's Talking About",
+      "why_now": "The weekly EN World digest rounds up scattered D&D news, making it a natural anchor for a recap-style short that ends on an actionable ruling.",
+      "angle": "Fast digest-style short: 3 headlines in 20 seconds, then land on one concrete rules ruling tied to the week's biggest story",
+      "source": "https://www.enworld.org/threads/news-digest-for-october-2-2026.720869/"
     }
   ]
 }
