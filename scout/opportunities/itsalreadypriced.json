@@ -1,35 +1,36 @@
 {
-  "generated": "2026-10-04T12:43:26+00:00",
+  "generated": "2026-10-05T11:09:08+00:00",
   "opportunities": [
     {
-      "title": "Q3 Was Crypto's Most Expensive Quarter for Security Ever — And the Bitget Hack Alone Was a Third of It",
-      "why_now": "Bitget's $388M breach pushed Q3 losses past $1.26B, and Chainalysis just published the AI forensics trail tying it to North Korea, giving a full data-plus-narrative hook.",
-      "angle": "Data-led postmortem: break down the $1.26B by vector (bridge, custody, DeFi), overlay the Chainalysis AI tracing methodology, end with what 'priced in' means for exchanges still running centralized hot wallets.",
-      "source": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion"
-    },
-    {
-      "title": "NEAR Intents Got Its $3.8M Back With a 48-Hour Ultimatum. That's Not Recovery — That's Hostage Negotiation",
-      "why_now": "The full arc just closed in 48 hours: exploit, identification, ultimatum, full recovery — a tidy case study in the new 'negotiate with your hacker' playbook.",
-      "angle": "Skeptical breakdown of white-hat-adjacent extortion-as-incident-response: what precedent this sets, why it only works when the protocol can identify the attacker, and why most victims never get this luxury.",
-      "source": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter"
-    },
-    {
-      "title": "Drift's Exploit Victims Just Got Checks for 1% of What They Lost. This Is What 'We're Making Users Whole' Actually Means",
-      "why_now": "Drift opened recovery claims this week with initial payouts just over 1% of losses, a concrete number that exposes the gap between PR language and reality.",
-      "angle": "Myth-busting explainer using Drift as Exhibit A: track the language protocols use after hacks ('made whole,' 'recovery fund') against the actual payout math, with a running tally of other unresolved DeFi exploits.",
+      "title": "Drift Promised You'd Get Your Money Back. Here's the Math: 1 Cent on the Dollar.",
+      "why_now": "Drift just opened exploit recovery claims and the first payouts are barely above 1% of user losses, confirming the usual post-hack theater.",
+      "angle": "Data-driven teardown comparing promised vs delivered recovery %, with a running tally of other 'recovery fund' hacks that ended the same way",
       "source": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581"
     },
     {
-      "title": "Zano's Exploiter Minted a Quadrillion Fake Tokens Before Anyone Noticed. The Rollback Fixed the Ledger, Not the Trust",
-      "why_now": "A quadrillion-unit overmint is a jaw-dropping number that happened just days ago and forced a full chain rollback — rare enough to be a standalone security case study.",
-      "angle": "Technical-but-readable breakdown of how the mint bug worked, why rollbacks are the nuclear option, and what it says about audit coverage on smaller L1s nobody's watching.",
-      "source": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback"
+      "title": "Arbitrum Just Hit the Kill Switch on Stylus — What Did It See?",
+      "why_now": "An 'emergency security action' pausing new Stylus activations on a top-5 L2 is the kind of vague disclosure that precedes a bigger writeup.",
+      "angle": "Incident-watch post: timeline of the pause, what Stylus actually does, and why rollups keep shipping features faster than they can audit them",
+      "source": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action"
     },
     {
-      "title": "BitGo's CEO Says Clarity's Collapse Could Be Worse Than Lehman. He's Describing Plumbing Risk, Not Headline Risk",
-      "why_now": "A regulated custodian CEO invoking Lehman this week is a rare moment where 'security-led' crypto commentary crosses into traditional systemic-risk language worth dissecting.",
-      "angle": "Op-ed translating the custody/market-structure jargon into plain stakes: what actually breaks if Clarity's framework fails, who's exposed, and why this reads like every pre-crisis warning that got ignored.",
+      "title": "BitGo's CEO Just Said the Quiet Part: Clarity's Failure Could Be Worse Than Lehman",
+      "why_now": "A regulated custodian's own CEO is now using Lehman as the comparison point for crypto market-structure risk — that's not FUD, that's a warning shot.",
+      "angh": "",
+      "angle": "Breakdown of Belshe's specific risk claims, mapped against what actually broke in 2008 vs what's exposed in crypto plumbing today",
       "source": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560"
+    },
+    {
+      "title": "Blast Is Dead. The VC-Funded L2 Graveyard Just Got Its Newest Headstone.",
+      "why_now": "Paradigm-backed Blast is shutting down because costs exceed revenue — a clean, quotable data point for the 'most L2s are unsustainable' thesis.",
+      "angle": "Obituary-style post listing Blast alongside prior shuttered L2s, with the unit economics (sequencer costs vs fee revenue) that killed it",
+      "source": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583"
+    },
+    {
+      "title": "AI Didn't Just Catch the Bitget Hackers — It Named the Government Behind Them",
+      "why_now": "Chainalysis using AI to trace a $387M hack straight to North Korea is a concrete, newly-public example of attribution tooling catching up to state-level threat actors.",
+      "angle": "Explainer on how AI-assisted chain analysis works, what it means for future DPRK-linked hacks getting outed faster, and why attribution still isn't recovery",
+      "source": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea"
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-04T12:43:26+00:00",
+  "generated": "2026-10-05T11:09:08+00:00",
   "opportunities": [
     {
-      "title": "The Rules Behind the Reshuffle: What D&D's Revolving Door Means for Your Table",
-      "why_now": "EN World just mapped years of D&D leadership churn, and every hire/fire ripples into future rules direction.",
-      "angle": "Timeline breakdown of personnel moves cross-referenced with the rules changes that followed each regime",
+      "title": "The D&D Design Chair Keeps Turning Over — What Each Hire Actually Changed in the Rules",
+      "why_now": "EN World's piece tracks years of D&D staffing churn, letting us connect specific personnel moves to specific rules/errata shifts players felt.",
+      "angle": "Timeline explainer: map each hiring/firing to the rule change or design philosophy it produced—rules-first retrospective.",
       "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
     },
     {
-      "title": "Vampire Goes Home: What White Wolf Reclaiming the License Means for Crunch and Canon",
-      "why_now": "Renegade just lost the Vampire license back to White Wolf while keeping Transformers/GI Joe, a major licensing shakeup breaking today.",
-      "angle": "Explainer on what license transfer typically means for rulebook support, errata, and edition continuity",
-      "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
+      "title": "The Two-Minute Session Zero: A Rules Checklist You Can Run Before Every One-Shot",
+      "why_now": "Sly Flourish just published a condensed session zero method tailor-made for single-session play, which we can convert into a reusable rules checklist.",
+      "angle": "Turn the article into a numbered 'rules you must state' checklist/cheat-sheet graphic for GMs.",
+      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
     },
     {
-      "title": "D&D Beyond Drops' First Subclass Is Shadowfell-Flavored — Here's the Actual Rules Text",
-      "why_now": "This is the inaugural subclass for the new Drops content model, setting precedent for how future rules-light releases will work.",
-      "angle": "Rules-first breakdown: mechanics, balance comparison to existing Fighter subclasses, what 'Drops' means for future content cadence",
-      "source": "https://www.enworld.org/threads/d-d-beyond-drops-adds-first-subclass-a-shadowfell-themed-fighter.720854/"
+      "title": "This Week's Free Rules: What's Actually in October's Charity and Sale Bundles",
+      "why_now": "EN World's Oct 5 roundup lists active freebies/sales/charity bundles, prime territory for a 'what rules content you're actually getting' breakdown.",
+      "angle": "Curated listicle grading each bundle by rules-content value (new subsystems, stat blocks, etc.), not just price.",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-5-2026.720886/"
     },
     {
-      "title": "50% Off Hundreds of PDFs: The Rules-Nerd's Shopping List",
-      "why_now": "A two-week sitewide PDF sale is live right now, perfect timing for readers building out rules libraries.",
-      "angle": "Curated picks of underrated rules-dense PDFs worth grabbing before the sale ends, organized by system",
-      "source": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/"
+      "title": "Project Lamordia and Sorrow Knight: What New Subsystems Are Hiding in EN World's Podcast #417",
+      "why_now": "The livestream teases new settings/monsters (Warcraft monsters, dungeon maps) that likely include new mechanics worth flagging before full release.",
+      "angle": "Preview/explainer pulling out any crunch—new monster stat blocks, dungeon-map rules—teased in the podcast.",
+      "source": "https://www.enworld.org/threads/podcast-417-livestream-project-lamordia-sorrow-knight-warcraft-monsters-dungeon-walkthrough-maps-and-more.720881/"
     },
     {
-      "title": "This Week in TTRPG: The Digest Behind the Digest",
-      "why_now": "EN World's weekly digest just dropped, giving a one-stop roundup worth annotating with rules-first context.",
-      "angle": "Quick-hit X thread reacting to each digest item with 'what this means for your rules' commentary",
+      "title": "The Rules Are Already Written: This Week in TTRPG News, Decoded",
+      "why_now": "EN World's Oct 2 digest aggregates the week's scattered news, giving us a chance to recap it through a rules-first lens for readers who skim.",
+      "angle": "Weekly digest remix: pull the 3-4 rules-relevant items from the broader digest and add 'why it matters mechanically' notes.",
       "source": "https://www.enworld.org/threads/news-digest-for-october-2-2026.720869/"
     }
   ]

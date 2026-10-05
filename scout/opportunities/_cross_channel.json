@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-04T12:43:26+00:00",
+  "generated": "2026-10-05T11:09:08+00:00",
   "plays": [
     {
-      "story": "Renegade Studios loses the Vampire: The Masquerade license back to White Wolf after years of running the line, while retaining Transformers/GI Joe deals",
+      "story": "EN World's piece tracing D&D's string of hirings and firings signals a leadership shake-up at Wizards of the Coast",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'White Wolf Takes Vampire Home: What Happens to Your Renegade VTM Books Now?' — a buyer's-guide breakdown of which current VTM products get orphaned, what's likely to go out of print, and whether now's the time to grab 5th Edition books before reprints stop.",
-        "itsalreadywritten": "'The Masquerade Comes Full Circle: Why White Wolf Reclaiming Vampire Was Always the Ending' — frame this as a prophecy fulfilled: the IP's own fiction is about ancient powers reasserting control, and the license reversal mirrors the in-world themes of Kindred reclaiming their domain from upstarts."
-      },
-      "source": "https://www.enworld.org/threads/renegade-renews-hasbro-license-for-transformers-gi-joe-and-more-loses-vampire-license-to-white-wolf.720859/"
-    },
-    {
-      "story": "A wave of hirings and firings at D&D/Wizards of the Coast over recent years signals a generational changing of the guard in creative leadership",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "'Who's Actually Running D&D Now? A Scorecard of Every Hire and Firing That Matters' — a practical org-chart explainer for GMs wondering whose design philosophy is steering the next core books and digital tools.",
-        "itsalreadywritten": "'D&D's Revolving Door: The Lore Was Always Going to Outlive Its Authors' — use the staff churn as a meditation on authorial control versus canon; the game's internal mythology keeps getting rewritten by whoever holds the pen this year."
+        "bizzal-games": "'Who's Actually Running D&D Now? A Five-Year Org Chart of Every Hire and Firing That Shaped Your Books' — a practical explainer mapping which departed/arrived designers touched which recent releases, so GMs know whose fingerprints are on next year's books.",
+        "itsalreadywritten": "'The Script Was Written Before the Layoffs: How D&D's Boom-Bust Hiring Cycle Was Always Going to Happen' — frame the turnover as a predictable, almost fated corporate narrative arc, not a surprise."
       },
       "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
     },
     {
-      "story": "NEAR Intents suffers a $3.8M exploit tied to the Bitget breach, publicly identifies the hacker, issues a 48-hour ultimatum, and fully recovers the funds — while Bitget's own $388M hack pushes Q3 crypto losses past $1B",
+      "story": "Sly Flourish's 'Two Minute Session Zero' framework for single-session adventures",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "bizzal-games",
+        "itsalreadywritten"
       ],
       "angles": {
-        "itsalreadypriced": "'NEAR Just Proved You Can Negotiate With a Hacker — Here's What It Means for DeFi Insurance' — market-focused piece on how public ultimatums and full fund recovery could reshape risk pricing and investor confidence after a brutal $1B+ Q3 loss quarter.",
-        "itsalreadywhen": "'Inside the 48-Hour Ultimatum: How NEAR Intents Doxxed and Pressured Its Own Attacker' — a technical incident-response case study on attribution speed, public pressure tactics, and whether 'negotiate or get named' is becoming the new post-breach playbook."
+        "bizzal-games": "'Steal This Session Zero: Run a One-Shot Tonight With Zero Prep' — a hands-on breakdown turning the two-minute framework into a printable GM cheat sheet.",
+        "itsalreadywritten": "'Your Session Zero Already Decided the Ending: Why the Questions You Ask Before Play Are the Real Plot' — argue the pre-game contract is where the story's fate is actually written, before a single die is rolled."
       },
-      "source": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum"
+      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
     },
     {
-      "story": "Crypto scammers hijacked Microsoft's official X account to push a token scam, exploiting trust in a major tech brand's social presence",
+      "story": "NEAR Intents recovers the entire $3.8M stolen after issuing the exploiter a 48-hour ultimatum",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Microsoft's X Account Got Hacked to Pump a Coin — Here's How to Spot the Next One' — a reader-protection piece on verified-account scam patterns and why brand hijacks are becoming a go-to pump-and-dump vector.",
-        "itsalreadywhen": "'If Microsoft Can Get Its X Account Hijacked, So Can You' — an account-takeover postmortem covering likely attack vectors (session tokens, OAuth app abuse, SIM-swap) and what enterprise social media teams should lock down now."
+        "itsalreadypriced": "'Markets Didn't Blink: Why a $3.8M Exploit Barely Moved NEAR's Price' — show how on-chain risk is now routinely priced in, with recovery becoming the expected outcome, not the exception.",
+        "itsalreadywhen": "'We Have Identified You, Sir: Inside the 48-Hour Ultimatum That Beat a Hacker at His Own Game' — a play-by-play of the negotiation as a case study in post-breach incident response, framed as the 'not if, when' doctrine playing out in real time."
       },
-      "source": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/"
+      "source": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter"
+    },
+    {
+      "story": "Chainalysis used AI to trace the $387M Bitget hack back to North Korea",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'The DPRK Discount: How $387M in Stolen Crypto Gets Laundered, Priced, and Dumped' — track how state-actor theft moves through DeFi liquidity and what it means for risk premiums on exchanges still exposed.",
+        "itsalreadywhen": "'AI Just Out-Hacked the Hackers: How Chainalysis's Model Fingered North Korea in Record Time' — position this as the new baseline for attribution speed, and what defenders should expect next time a nation-state actor tries to hide."
+      },
+      "source": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea"
     }
   ]
 }

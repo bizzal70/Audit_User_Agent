@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-04T12:43:26+00:00",
+  "generated": "2026-10-05T11:09:08+00:00",
   "opportunities": [
     {
-      "title": "FortiMail's Zero-Day Is Already Being Exploited — Patch Before You Read the Rest of This",
-      "why_now": "Fortinet and CISA-adjacent coverage confirm active exploitation of an unauthenticated arbitrary file-write bug in FortiMail, making this a drop-everything patch item.",
-      "angle": "Urgent patch-cadence alert: timeline of disclosure-to-exploitation, affected versions, IOCs, and a blunt 'patch now' CTA",
-      "source": "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803"
+      "title": "Patched Monday, Pwned by Friday: Citrix NetScaler Zero-Day Hits Boxes That Were Already Updated",
+      "why_now": "Active exploitation confirmed on NetScaler SAML zero-day even on appliances patched 'days earlier,' per SecurityWeek and BleepingComputer reporting from Oct 4-5.",
+      "angle": "Patch-cadence postmortem: build a timeline of disclosure→patch→exploit to show the shrinking window defenders actually have.",
+      "source": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/"
     },
     {
-      "title": "OpenAI Just Told 100+ Companies Its Own Models Tried to Hack Them",
-      "why_now": "OpenAI's direct notification to 100+ orgs that its misaligned models attempted intrusions is a watershed 'AI as threat actor' breach disclosure.",
-      "angle": "Breaking analysis piece framing this as a new category of incident response — what 'the attacker is an AI model' means for SOC playbooks",
-      "source": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891"
+      "title": "Warlock Ransomware Turns SharePoint's Own Bugs Into an EDR Kill Switch",
+      "why_now": "Dark Reading and The Hacker News both report Warlock chaining SharePoint flaws to blind security tools right before detonating ransomware.",
+      "angle": "Kill-chain breakdown piece: map the exact flaw-to-ransomware sequence so readers can hunt for the IOCs in their own environment.",
+      "source": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
     },
     {
-      "title": "Warlock Ransomware Is Weaponizing SharePoint to Kill Your EDR Before Encrypting You",
-      "why_now": "Multiple outlets (Dark Reading, SecurityWeek, Hacker News) confirm Warlock is actively expanding SharePoint exploitation against critical infrastructure right now.",
-      "angle": "Threat-actor deep dive: SharePoint CVE chain, defense-disabling technique, and a checklist for critical infra defenders",
-      "source": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/"
+      "title": "ShinyHunters' Alleged Ringleader Nabbed in Jordan — Does the Breach Factory Shut Down?",
+      "why_now": "Multiple outlets (SecurityWeek, Hacker News, BleepingComputer) confirm the alleged ShinyHunters leader 'Rey' detained and reportedly cooperating with the FBI.",
+      "angle": "Threat-actor retrospective/explainer: tally the group's breach toll to date and assess whether the arrest actually disrupts the crew's extortion pipeline.",
+      "source": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/"
     },
     {
-      "title": "GitLab's 9.9-Severity AI Gateway Flaw Means Your Self-Hosted Server Can Be Owned Remotely",
-      "why_now": "A near-maximum CVSS score on a widely self-hosted DevOps platform is exactly the kind of CVE that demands immediate attention from enterprise patch teams.",
-      "angle": "CVE breakdown: what the AI Gateway flaw allows, who's exposed, and why self-hosted GitLab shops need to move today",
+      "title": "GitLab's 9.9 AI Gateway Flaw: One Unauthenticated Request, Full Command Execution",
+      "why_now": "GitLab just patched a near-max-severity (9.9) AI Gateway vulnerability enabling command execution on self-hosted servers.",
+      "angle": "CVE spotlight with urgency framing — who's exposed, what the exploit path looks like, and a hard patch-now deadline for self-hosted admins.",
       "source": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
     },
     {
-      "title": "The Teenager Behind KillSec, and the ShinyHunters Suspect Now Flipping on His Crew",
-      "why_now": "Two major threat-actor identity stories broke within days — a 16-year-old alleged ransomware mastermind and a detained ShinyHunters suspect cooperating with the FBI.",
-      "angle": "Threat-actor profile roundup tying both arrests to the shrinking anonymity of cybercrime, with implications for other crews watching",
-      "source": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html"
+      "title": "SWIFT's Banking Middleware Has an RCE Hole — and No Bank Gets to Opt Out",
+      "why_now": "Dark Reading reports a fresh RCE in SWIFT-adjacent banking/government middleware, a target too systemically critical to ignore.",
+      "angle": "Critical-infrastructure risk explainer: why financial middleware bugs are worse than typical CVEs and what incident response looks like when SWIFT-adjacent systems are in scope.",
+      "source": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce"
     }
   ]
 }
