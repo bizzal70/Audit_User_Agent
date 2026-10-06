@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-05T11:09:08+00:00",
+  "generated": "2026-10-06T11:08:12+00:00",
   "opportunities": [
     {
-      "title": "Patched Monday, Pwned by Friday: Citrix NetScaler Zero-Day Hits Boxes That Were Already Updated",
-      "why_now": "Active exploitation confirmed on NetScaler SAML zero-day even on appliances patched 'days earlier,' per SecurityWeek and BleepingComputer reporting from Oct 4-5.",
-      "angle": "Patch-cadence postmortem: build a timeline of disclosure→patch→exploit to show the shrinking window defenders actually have.",
-      "source": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/"
+      "title": "The Patch That Wasn't: How One Accenture Contractor's Missed Update Became the ShinyHunters Breach",
+      "why_now": "FBI just confirmed arrests and removed the contractor, giving a named human face to the patch-cadence failure that enabled the hack",
+      "angle": "Root-cause postmortem connecting the FBI action to the original unpatched flaw, framed as a cautionary patch-cadence case study",
+      "source": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html"
     },
     {
-      "title": "Warlock Ransomware Turns SharePoint's Own Bugs Into an EDR Kill Switch",
-      "why_now": "Dark Reading and The Hacker News both report Warlock chaining SharePoint flaws to blind security tools right before detonating ransomware.",
-      "angle": "Kill-chain breakdown piece: map the exact flaw-to-ransomware sequence so readers can hunt for the IOCs in their own environment.",
-      "source": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+      "title": "NetScaler's Zero-Day Streak Continues: Why Citrix Admins Can't Catch a Break in 2026",
+      "why_now": "A new NetScaler 0-day capable of knocking SAML offline landed just a day after reports called the situation 'even worse,' stacking onto an already bad week",
+      "angle": "Running tally/timeline format tracking the NetScaler 0-day cluster this week, with a blunt patch-now verdict",
+      "source": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232"
     },
     {
-      "title": "ShinyHunters' Alleged Ringleader Nabbed in Jordan — Does the Breach Factory Shut Down?",
-      "why_now": "Multiple outlets (SecurityWeek, Hacker News, BleepingComputer) confirm the alleged ShinyHunters leader 'Rey' detained and reportedly cooperating with the FBI.",
-      "angle": "Threat-actor retrospective/explainer: tally the group's breach toll to date and assess whether the arrest actually disrupts the crew's extortion pipeline.",
-      "source": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/"
+      "title": "8 Products, One Bug: Atlassian's Critical Unauthenticated File-Read Flaw You Need to Patch Today",
+      "why_now": "Atlassian just disclosed a critical datacenter-wide file access flaw affecting eight products, a broad blast radius demanding immediate attention",
+      "angle": "CVE breakdown: affected products, exploitation path, and patch priority checklist for admins",
+      "source": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html"
     },
     {
-      "title": "GitLab's 9.9 AI Gateway Flaw: One Unauthenticated Request, Full Command Execution",
-      "why_now": "GitLab just patched a near-max-severity (9.9) AI Gateway vulnerability enabling command execution on self-hosted servers.",
-      "angle": "CVE spotlight with urgency framing — who's exposed, what the exploit path looks like, and a hard patch-now deadline for self-hosted admins.",
-      "source": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
+      "title": "Denmark's Entire Population at Risk: 8.8 Million CPR Records Exposed via a Single Company Account",
+      "why_now": "Denmark's central person register breach, confirmed this week, exposed national ID data for nearly the whole country through one compromised account",
+      "angle": "Scale-of-breach analysis plus 'single point of failure' lesson on third-party account access controls",
+      "source": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html"
     },
     {
-      "title": "SWIFT's Banking Middleware Has an RCE Hole — and No Bank Gets to Opt Out",
-      "why_now": "Dark Reading reports a fresh RCE in SWIFT-adjacent banking/government middleware, a target too systemically critical to ignore.",
-      "angle": "Critical-infrastructure risk explainer: why financial middleware bugs are worse than typical CVEs and what incident response looks like when SWIFT-adjacent systems are in scope.",
-      "source": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce"
+      "title": "AI Found the Bug, Humans Are Now Exploiting It: Inside the Rejetto HFS Race",
+      "why_now": "A vulnerability reportedly discovered by AI tooling is now under active exploitation for admin session forgery and RCE, a rare AI-discovery-to-exploit timeline worth tracking",
+      "angle": "Timeline feature on the AI-discovery-to-active-exploitation pipeline, with technical exploit detail and patch urgency",
+      "source": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/"
     }
   ]
 }

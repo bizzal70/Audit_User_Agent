@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-05T11:09:08+00:00",
+  "generated": "2026-10-06T11:08:12+00:00",
   "plays": [
     {
-      "story": "EN World's piece tracing D&D's string of hirings and firings signals a leadership shake-up at Wizards of the Coast",
+      "story": "EN World's 'D&D Warcraft: A First Look' breaks down the new licensed crossover book, showing how Azeroth's lore and monsters get converted to 5e/2024 rules.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Who's Actually Running D&D Now? A Five-Year Org Chart of Every Hire and Firing That Shaped Your Books' — a practical explainer mapping which departed/arrived designers touched which recent releases, so GMs know whose fingerprints are on next year's books.",
-        "itsalreadywritten": "'The Script Was Written Before the Layoffs: How D&D's Boom-Bust Hiring Cycle Was Always Going to Happen' — frame the turnover as a predictable, almost fated corporate narrative arc, not a surprise."
+        "bizzal-games": "First Look: Is 'D&D Warcraft' Actually Playable at the Table? We Stress-Test the Conversion Rules",
+        "itsalreadywritten": "Orcs, Loot Tables, and 20 Years of Lore: What D&D x Warcraft Means for Your Homebrew Campaign"
       },
-      "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
+      "source": "https://www.enworld.org/threads/d-d-warcraft-a-first-look.720888/"
     },
     {
-      "story": "Sly Flourish's 'Two Minute Session Zero' framework for single-session adventures",
+      "story": "EN World's RPG Evolution column spotlights the 'D&D Carnival' as a recurring campaign set piece/trope worth building sessions around.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Steal This Session Zero: Run a One-Shot Tonight With Zero Prep' — a hands-on breakdown turning the two-minute framework into a printable GM cheat sheet.",
-        "itsalreadywritten": "'Your Session Zero Already Decided the Ending: Why the Questions You Ask Before Play Are the Real Plot' — argue the pre-game contract is where the story's fate is actually written, before a single die is rolled."
+        "bizzal-games": "Steal This Carnival: Turn EN World's D&D Carnival Column Into a Ready-to-Run One-Shot Tonight",
+        "itsalreadywritten": "The Traveling Carnival Trope, Explained: Why Every Long-Running Campaign Eventually Needs One"
       },
-      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
+      "source": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/"
     },
     {
-      "story": "NEAR Intents recovers the entire $3.8M stolen after issuing the exploiter a 48-hour ultimatum",
+      "story": "On-chain investigator ZachXBT says he personally fronted $349,700 to go undercover and infiltrate Chinese money launderers tied to North Korea's Lazarus Group and the Bybit hack.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Markets Didn't Blink: Why a $3.8M Exploit Barely Moved NEAR's Price' — show how on-chain risk is now routinely priced in, with recovery becoming the expected outcome, not the exception.",
-        "itsalreadywhen": "'We Have Identified You, Sir: Inside the 48-Hour Ultimatum That Beat a Hacker at His Own Game' — a play-by-play of the negotiation as a case study in post-breach incident response, framed as the 'not if, when' doctrine playing out in real time."
+        "itsalreadypriced": "A Crypto Sleuth Self-Funded a $349K Sting on Lazarus's Launderers — Here's What It Reveals About Bybit-Scale Hack Cleanup",
+        "itsalreadywhen": "Inside ZachXBT's Undercover Op: What a State-Sponsored Hacking Group's Money-Laundering Network Actually Looks Like"
       },
-      "source": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter"
+      "source": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767"
     },
     {
-      "story": "Chainalysis used AI to trace the $387M Bitget hack back to North Korea",
+      "story": "NEAR Intents recovered its entire $3.8M stolen in an exploit after issuing an ultimatum directly to the hacker, who returned the funds rather than face escalation.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'The DPRK Discount: How $387M in Stolen Crypto Gets Laundered, Priced, and Dumped' — track how state-actor theft moves through DeFi liquidity and what it means for risk premiums on exchanges still exposed.",
-        "itsalreadywhen": "'AI Just Out-Hacked the Hackers: How Chainalysis's Model Fingered North Korea in Record Time' — position this as the new baseline for attribution speed, and what defenders should expect next time a nation-state actor tries to hide."
+        "itsalreadypriced": "NEAR Intents Got All $3.8M Back From Its Hacker — The New DeFi Playbook for Negotiating With Exploiters",
+        "itsalreadywhen": "The Ultimatum That Worked: How NEAR Intents Pressured a Live Attacker Into Returning $3.8 Million"
       },
-      "source": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea"
+      "source": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

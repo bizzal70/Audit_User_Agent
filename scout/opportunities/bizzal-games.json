@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-05T11:09:08+00:00",
+  "generated": "2026-10-06T11:08:12+00:00",
   "opportunities": [
     {
-      "title": "The 2-Minute Session Zero Ruling You're Skipping",
-      "why_now": "Sly Flourish just dropped a fast session-zero framework that fits the one-rule-a-day format perfectly.",
-      "angle": "60-sec breakdown of the one rule from the two-minute session zero worth stealing verbatim for one-shots",
-      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
+      "title": "D&D x Warcraft Stat Blocks Are Live — I Ran the Fel Orc Numbers So You Don't Have To",
+      "why_now": "EN World just posted the first official look at D&D/Warcraft stat blocks, giving us fresh math to pick apart before the hype settles.",
+      "angle": "Quick teardown short: compare CR to actual damage output, flag the one broken synergy a DM needs to nerf session one.",
+      "source": "https://www.enworld.org/threads/d-d-warcraft-a-first-look.720888/"
     },
     {
-      "title": "Reskinning Warcraft Monsters as 5e Stat Blocks (Without Breaking CR)",
-      "why_now": "EN World's podcast teased Warcraft monster conversions alongside dungeon walkthrough maps, giving a concrete hook for a stat-block ruling.",
-      "angle": "Creature tactic short: take one named Warcraft beast, show the 5e stat-block translation and its signature tactic",
+      "title": "Warcraft Monsters Hit the Table: Murloc Pack Tactics That Actually Work in 5e",
+      "why_now": "Podcast #417 previewed new Warcraft monster stats days ago, so the creature's still fresh and unconverted content for most GMs.",
+      "angle": "Creature tactic short — demonstrate pack tactics/mob rules with a murloc swarm, including the one positioning mistake that wastes the feature.",
       "source": "https://www.enworld.org/threads/podcast-417-livestream-project-lamordia-sorrow-knight-warcraft-monsters-dungeon-walkthrough-maps-and-more.720881/"
     },
     {
-      "title": "Free Modules Worth the Download Slot This Week",
-      "why_now": "EN World's Oct 5 freebies/sales digest gives a fresh, dated list to filter for quality one-shots.",
-      "angle": "Quick GM-vetted picks: 3 free/charity bundle modules worth running, with one mechanical gotcha each",
+      "title": "Running a Carnival Encounter? Here's the One Hazard Rule Everyone Forgets",
+      "why_now": "EN World's RPG Evolution column just spotlighted carnival-themed D&D content, making it a timely hook for a rules-ruling angle.",
+      "angle": "Dry ruling short on improvised skill-game DCs and rigged-stall traps — how to price the risk so it's fair but still dangerous.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/"
+    },
+    {
+      "title": "Two-Minute Session Zero: The Only 3 Questions You Need Before a One-Shot",
+      "why_now": "Sly Flourish just published a stripped-down session-zero method for single-session games, a direct fit for our GM-workflow beat.",
+      "angle": "Veteran-GM take debunking bloated session zeros, distilled into three questions you ask before dice hit the table.",
+      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
+    },
+    {
+      "title": "Today's Free D&D Drops: Which One-Shot Is Actually Worth Your Download",
+      "why_now": "EN World's Oct 5 freebies/sales/charity bundle roundup just went live, giving us dated, clickable material.",
+      "angle": "Rapid-fire verdict short ranking the freebies by table-readiness — skip the fluff, name the one worth running tonight.",
       "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-5-2026.720886/"
-    },
-    {
-      "title": "Why the WotC Staff Shuffle Will Hit Your Next Errata",
-      "why_now": "The hirings/firings retrospective is fresh and gives cover to comment on rules-team churn affecting future rulings.",
-      "angle": "Dry veteran-GM take: what staffing changes historically mean for errata cadence and rules consistency",
-      "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
-    },
-    {
-      "title": "Steal Stellar Blade's 'Boss Challenge Mode' for Your Next Boss Fight",
-      "why_now": "Stellar Blade's new Boss Challenge trailer is trending and offers a crossover hook for encounter design content.",
-      "angle": "Mechanical teardown: isolate boss-rush pacing idea into a 5e/Shadowdark legendary-action variant ruling",
-      "source": "https://www.rpgsite.net/news/21518-stellar-blade-switch-2-boss-challenge-mode-trailer-new-gameplay"
     }
   ]
 }

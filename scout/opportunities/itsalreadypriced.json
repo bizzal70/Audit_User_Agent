@@ -1,36 +1,35 @@
 {
-  "generated": "2026-10-05T11:09:08+00:00",
+  "generated": "2026-10-06T11:08:12+00:00",
   "opportunities": [
     {
-      "title": "Drift Promised You'd Get Your Money Back. Here's the Math: 1 Cent on the Dollar.",
-      "why_now": "Drift just opened exploit recovery claims and the first payouts are barely above 1% of user losses, confirming the usual post-hack theater.",
-      "angle": "Data-driven teardown comparing promised vs delivered recovery %, with a running tally of other 'recovery fund' hacks that ended the same way",
-      "source": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581"
+      "title": "ZachXBT Paid $350K Out of His Own Pocket to Catch Lazarus' Launderers — Because No One Else Would",
+      "why_now": "A solo researcher self-funded an undercover op into alleged Chinese laundering networks tied to the Bybit hack, exposing how under-resourced official enforcement still is.",
+      "angle": "Security deep-dive on vigilante OSINT economics vs. state capacity; include methodology and what it reveals about Lazarus laundering rails",
+      "source": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767"
     },
     {
-      "title": "Arbitrum Just Hit the Kill Switch on Stylus — What Did It See?",
-      "why_now": "An 'emergency security action' pausing new Stylus activations on a top-5 L2 is the kind of vague disclosure that precedes a bigger writeup.",
-      "angle": "Incident-watch post: timeline of the pause, what Stylus actually does, and why rollups keep shipping features faster than they can audit them",
-      "source": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action"
+      "title": "NEAR Intents Got Its $3.8M Back With an Ultimatum. Here's Why That Keeps Working",
+      "why_now": "Full recovery of a $3.8M exploit via direct negotiation is the latest in a pattern of protocols threatening exploiters into returning funds instead of relying on law enforcement.",
+      "angle": "Explainer/pattern piece on the 'return it or we doxx you' playbook — incentives, precedent cases, and when it fails",
+      "source": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "BitGo's CEO Just Said the Quiet Part: Clarity's Failure Could Be Worse Than Lehman",
-      "why_now": "A regulated custodian's own CEO is now using Lehman as the comparison point for crypto market-structure risk — that's not FUD, that's a warning shot.",
-      "angh": "",
-      "angle": "Breakdown of Belshe's specific risk claims, mapped against what actually broke in 2008 vs what's exposed in crypto plumbing today",
-      "source": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560"
+      "title": "Treasury Just Killed the Mixer Rule the Same Week DOJ Doubled Down on Roman Storm",
+      "why_now": "FinCEN withdrew its unhosted-wallet/mixer surveillance proposal citing chilling effects, while DOJ simultaneously presses its case against Tornado Cash's founder — a direct policy contradiction.",
+      "angle": "Analysis piece on regulatory incoherence: what actually changed for mixer users and developers, and what Storm's case still threatens",
+      "source": "https://thedefiant.io/news/regulation/doj-presses-roman-storm-case-as-fincen-drops-mixer-proposal"
     },
     {
-      "title": "Blast Is Dead. The VC-Funded L2 Graveyard Just Got Its Newest Headstone.",
-      "why_now": "Paradigm-backed Blast is shutting down because costs exceed revenue — a clean, quotable data point for the 'most L2s are unsustainable' thesis.",
-      "angle": "Obituary-style post listing Blast alongside prior shuttered L2s, with the unit economics (sequencer costs vs fee revenue) that killed it",
-      "source": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583"
+      "title": "The SEC Just Approved 3x Leveraged Bitcoin Funds. Bitcoin Is Down 32% From Its High.",
+      "why_now": "Regulators cleared 3x leveraged BTC/ETH products for trading at the exact moment BTC is getting rejected at $87K and sitting a third below its ATH — a timing irony security-minded readers will appreciate.",
+      "angle": "Risk-first breakdown of leverage decay math using the current price action as the live example; 'already priced' framing on who eats the losses",
+      "source": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds"
     },
     {
-      "title": "AI Didn't Just Catch the Bitget Hackers — It Named the Government Behind Them",
-      "why_now": "Chainalysis using AI to trace a $387M hack straight to North Korea is a concrete, newly-public example of attribution tooling catching up to state-level threat actors.",
-      "angle": "Explainer on how AI-assisted chain analysis works, what it means for future DPRK-linked hacks getting outed faster, and why attribution still isn't recovery",
-      "source": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea"
+      "title": "A Crypto 'Godfather' Hired Off-Duty Sheriff's Deputies to Run a $37M Ad Fraud. He Got Six Years.",
+      "why_now": "Fresh sentencing in a scheme that used law-enforcement cover to run a $37M Meta ad fraud operation is a stark case study in how crypto fraud launders legitimacy, not just money.",
+      "angle": "Crime-and-punishment writeup focused on the operational playbook (corrupting local law enforcement) as a security lesson, not just a headline",
+      "source": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud"
     }
   ]
 }

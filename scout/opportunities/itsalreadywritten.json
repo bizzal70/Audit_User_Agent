@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-05T11:09:08+00:00",
+  "generated": "2026-10-06T11:08:12+00:00",
   "opportunities": [
     {
-      "title": "The D&D Design Chair Keeps Turning Over — What Each Hire Actually Changed in the Rules",
-      "why_now": "EN World's piece tracks years of D&D staffing churn, letting us connect specific personnel moves to specific rules/errata shifts players felt.",
-      "angle": "Timeline explainer: map each hiring/firing to the rule change or design philosophy it produced—rules-first retrospective.",
-      "source": "https://www.enworld.org/threads/hirings-and-firings-at-d-d-over-the-last-few-years-a-changing-of-the-guard.720860/"
+      "title": "D&D Warcraft First Look: What the Stat Blocks Actually Say",
+      "why_now": "EN World just published the first hands-on look at the D&D x Warcraft crossover, and the rules details (not the art) are what determine if it's usable at your table.",
+      "angle": "Rules breakdown post that parses confirmed mechanics, monster stat blocks, and subclasses from the preview — skip the hype, cite the text.",
+      "source": "https://www.enworld.org/threads/d-d-warcraft-a-first-look.720888/"
     },
     {
-      "title": "The Two-Minute Session Zero: A Rules Checklist You Can Run Before Every One-Shot",
-      "why_now": "Sly Flourish just published a condensed session zero method tailor-made for single-session play, which we can convert into a reusable rules checklist.",
-      "angle": "Turn the article into a numbered 'rules you must state' checklist/cheat-sheet graphic for GMs.",
-      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
+      "title": "The D&D Carnival Subsystem: A Rules Audit",
+      "why_now": "EN World's RPG Evolution column just dropped a carnival-themed feature, prime material for a rules-first teardown of how carnival/game-of-chance subsystems actually resolve at the table.",
+      "angle": "Take the carnival concept and lay out a tight, citeable mini-ruleset (DCs, random tables, risk/reward math) GMs can drop in tonight.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/"
     },
     {
-      "title": "This Week's Free Rules: What's Actually in October's Charity and Sale Bundles",
-      "why_now": "EN World's Oct 5 roundup lists active freebies/sales/charity bundles, prime territory for a 'what rules content you're actually getting' breakdown.",
-      "angle": "Curated listicle grading each bundle by rules-content value (new subsystems, stat blocks, etc.), not just price.",
+      "title": "This Week's Freebies, Decoded: Which Bundles Are Actually Rules-Complete",
+      "why_now": "EN World's Oct 5 freebies/sales roundup is packed with charity bundles, but most readers won't check which ones include full, playable rules versus fluff-only content.",
+      "angle": "Curated list ranking the bundles by rules completeness and table-usability, not just price — 'already written' as a filter for what's worth downloading.",
       "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-5-2026.720886/"
     },
     {
-      "title": "Project Lamordia and Sorrow Knight: What New Subsystems Are Hiding in EN World's Podcast #417",
-      "why_now": "The livestream teases new settings/monsters (Warcraft monsters, dungeon maps) that likely include new mechanics worth flagging before full release.",
-      "angle": "Preview/explainer pulling out any crunch—new monster stat blocks, dungeon-map rules—teased in the podcast.",
+      "title": "Sorrow Knight and the Warcraft Monsters: New Stat Blocks Worth Stealing",
+      "why_now": "The Oct 4 EN World podcast livestream teased Project Lamordia, Sorrow Knight, and new Warcraft monster stat blocks — exactly the kind of fresh crunch this channel exists to catalog.",
+      "angle": "Live-reaction rules digest pulling the specific monster abilities/numbers mentioned on the stream into a quick-reference post.",
       "source": "https://www.enworld.org/threads/podcast-417-livestream-project-lamordia-sorrow-knight-warcraft-monsters-dungeon-walkthrough-maps-and-more.720881/"
     },
     {
-      "title": "The Rules Are Already Written: This Week in TTRPG News, Decoded",
-      "why_now": "EN World's Oct 2 digest aggregates the week's scattered news, giving us a chance to recap it through a rules-first lens for readers who skim.",
-      "angle": "Weekly digest remix: pull the 3-4 rules-relevant items from the broader digest and add 'why it matters mechanically' notes.",
-      "source": "https://www.enworld.org/threads/news-digest-for-october-2-2026.720869/"
+      "title": "The Two-Minute Session Zero, Fact-Checked Against the Rules",
+      "why_now": "Sly Flourish's new piece on compressed session zeros for one-shots is a procedural claim begging for a rules-first verification: does two minutes actually cover safety, tone, and character baseline per the books?",
+      "angle": "Response/analysis post that cross-references Sly Flourish's method against official session-zero guidance (DMG, safety tools) and flags what's skippable vs. load-bearing.",
+      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
     }
   ]
 }
