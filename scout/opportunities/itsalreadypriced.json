@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-06T11:08:12+00:00",
+  "generated": "2026-10-07T11:08:11+00:00",
   "opportunities": [
     {
-      "title": "ZachXBT Paid $350K Out of His Own Pocket to Catch Lazarus' Launderers — Because No One Else Would",
-      "why_now": "A solo researcher self-funded an undercover op into alleged Chinese laundering networks tied to the Bybit hack, exposing how under-resourced official enforcement still is.",
-      "angle": "Security deep-dive on vigilante OSINT economics vs. state capacity; include methodology and what it reveals about Lazarus laundering rails",
-      "source": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767"
+      "title": "Europol Just Said What Every Wallet Holder Already Feared: Quantum Isn't a Future Problem",
+      "why_now": "Europol's formal warning that crypto wallets are the 'primary risk' for quantum attacks gives a security-led channel a hard news peg to revisit a threat most holders have shrugged off as sci-fi.",
+      "angle": "Explainer/op-ed: what 'harvest now, decrypt later' means for cold storage today, with a concrete action list (migrate to quantum-resistant signatures, rotate keys)",
+      "source": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks"
     },
     {
-      "title": "NEAR Intents Got Its $3.8M Back With an Ultimatum. Here's Why That Keeps Working",
-      "why_now": "Full recovery of a $3.8M exploit via direct negotiation is the latest in a pattern of protocols threatening exploiters into returning funds instead of relying on law enforcement.",
-      "angle": "Explainer/pattern piece on the 'return it or we doxx you' playbook — incentives, precedent cases, and when it fails",
-      "source": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Cardano Just Gave Token Issuers a Kill Switch — Here's Why That's Not an Accident",
+      "why_now": "Cardano's new freeze/seize/restrict powers for token issuers is a direct, named precedent for custodial-risk-in-disguise, perfect for a 'you already know how this ends' takedown.",
+      "angle": "Security-led breakdown: map which other chains/tokens quietly have admin keys like this, with a checklist for readers to audit their own holdings",
+      "source": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets"
     },
     {
-      "title": "Treasury Just Killed the Mixer Rule the Same Week DOJ Doubled Down on Roman Storm",
-      "why_now": "FinCEN withdrew its unhosted-wallet/mixer surveillance proposal citing chilling effects, while DOJ simultaneously presses its case against Tornado Cash's founder — a direct policy contradiction.",
-      "angle": "Analysis piece on regulatory incoherence: what actually changed for mixer users and developers, and what Storm's case still threatens",
-      "source": "https://thedefiant.io/news/regulation/doj-presses-roman-storm-case-as-fincen-drops-mixer-proposal"
+      "title": "Tether Froze $2.76M, Now It's Getting Sued for It — The Receipts on 'Not Your Keys' Are In",
+      "why_now": "Conduit's lawsuit against Tether is a live, concrete case study of stablecoin freeze risk turning into litigation, which validates the channel's long-running thesis.",
+      "angle": "Case-file style post: timeline of the freeze, Tether's legal position, and what it means for every USDT holder's custody assumptions",
+      "source": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831"
     },
     {
-      "title": "The SEC Just Approved 3x Leveraged Bitcoin Funds. Bitcoin Is Down 32% From Its High.",
-      "why_now": "Regulators cleared 3x leveraged BTC/ETH products for trading at the exact moment BTC is getting rejected at $87K and sitting a third below its ATH — a timing irony security-minded readers will appreciate.",
-      "angle": "Risk-first breakdown of leverage decay math using the current price action as the live example; 'already priced' framing on who eats the losses",
-      "source": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds"
+      "title": "Two Ethereum L2s Died in One Week — Abstract's Collapse Is the Receipt",
+      "why_now": "Abstract shutting down days after another L2 failure is a concrete, timestamped proof point that VC-funded L2 'ecosystems' can evaporate overnight, taking user funds and apps with them.",
+      "angle": "Rapid-fire post-mortem: what happened to Abstract/Pudgy Penguins funds, bridge/withdrawal risk for users still on the chain, and a running tally of 2026 L2 deaths",
+      "source": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855"
     },
     {
-      "title": "A Crypto 'Godfather' Hired Off-Duty Sheriff's Deputies to Run a $37M Ad Fraud. He Got Six Years.",
-      "why_now": "Fresh sentencing in a scheme that used law-enforcement cover to run a $37M Meta ad fraud operation is a stark case study in how crypto fraud launders legitimacy, not just money.",
-      "angle": "Crime-and-punishment writeup focused on the operational playbook (corrupting local law enforcement) as a security lesson, not just a headline",
-      "source": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud"
+      "title": "$547M Got Liquidated Because of an Oil Tanker Attack — Your Leverage Doesn't Care About Your Thesis",
+      "why_now": "The cascade below $84K triggered by Iranian tanker attacks is a fresh, dramatic example of macro-fragility meeting over-leveraged crypto books, tying markets and security-minded risk management together.",
+      "angle": "Markets-with-teeth post: dissect the liquidation cascade mechanics, who got wrecked, and why 'uncorrelated asset' narratives keep failing at the worst moment",
+      "source": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
     }
   ]
 }

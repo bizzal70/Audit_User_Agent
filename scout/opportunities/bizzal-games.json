@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-06T11:08:12+00:00",
+  "generated": "2026-10-07T11:08:11+00:00",
   "opportunities": [
     {
-      "title": "D&D x Warcraft Stat Blocks Are Live — I Ran the Fel Orc Numbers So You Don't Have To",
-      "why_now": "EN World just posted the first official look at D&D/Warcraft stat blocks, giving us fresh math to pick apart before the hype settles.",
-      "angle": "Quick teardown short: compare CR to actual damage output, flag the one broken synergy a DM needs to nerf session one.",
+      "title": "Death Knight in 5e: Reskinning Paladin's Oathbreaker So It Doesn't Suck",
+      "why_now": "D&D Warcraft just revealed its 13 classes including Death Knight, giving players an easy excuse to ask how to run one in vanilla 5e.",
+      "angle": "60-sec ruling/build short: map Death Knight's 'runic power' resource onto existing Oathbreaker/Paladin chassis, call out the one reflavor that breaks action economy",
+      "source": "https://www.enworld.org/threads/d-d-warcrafts-13-classes-include-death-knight-demon-hunter-evoker-and-shaman.720901/"
+    },
+    {
+      "title": "Demon Hunter's Double Jump Is Just Misty Step With Extra Steps — Here's the Real 5e Fix",
+      "why_now": "The Warcraft class reveal names Demon Hunter specifically, and mobility abilities are the #1 thing GMs get asked to homebrew badly.",
+      "angle": "Spell use-case short comparing Misty Step/Feather Fall stacking vs a homebrew mobility feature, with the DM ruling on fall damage interactions",
       "source": "https://www.enworld.org/threads/d-d-warcraft-a-first-look.720888/"
     },
     {
-      "title": "Warcraft Monsters Hit the Table: Murloc Pack Tactics That Actually Work in 5e",
-      "why_now": "Podcast #417 previewed new Warcraft monster stats days ago, so the creature's still fresh and unconverted content for most GMs.",
-      "angle": "Creature tactic short — demonstrate pack tactics/mob rules with a murloc swarm, including the one positioning mistake that wastes the feature.",
-      "source": "https://www.enworld.org/threads/podcast-417-livestream-project-lamordia-sorrow-knight-warcraft-monsters-dungeon-walkthrough-maps-and-more.720881/"
-    },
-    {
-      "title": "Running a Carnival Encounter? Here's the One Hazard Rule Everyone Forgets",
-      "why_now": "EN World's RPG Evolution column just spotlighted carnival-themed D&D content, making it a timely hook for a rules-ruling angle.",
-      "angle": "Dry ruling short on improvised skill-game DCs and rigged-stall traps — how to price the risk so it's fair but still dangerous.",
+      "title": "Running a Carnival Encounter Without It Turning Into a Skill-Challenge Slog",
+      "why_now": "EN World's RPG Evolution piece on D&D Carnivals is fresh and carnival/festival settings are a recurring 'help me design this' request.",
+      "angle": "Creature/encounter tactic short: one rigged-game NPC stat block plus the single ruling that keeps carnival combat from stalling (no save-spam, use a skill DC ladder instead)",
       "source": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/"
     },
     {
-      "title": "Two-Minute Session Zero: The Only 3 Questions You Need Before a One-Shot",
-      "why_now": "Sly Flourish just published a stripped-down session-zero method for single-session games, a direct fit for our GM-workflow beat.",
-      "angle": "Veteran-GM take debunking bloated session zeros, distilled into three questions you ask before dice hit the table.",
-      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
+      "title": "New Warcraft Monster, Old Problem: Why 'Add a Phase 2' Breaks Your Action Economy",
+      "why_now": "Podcast #417 previewed new Warcraft monster stat blocks, a good hook to dissect multi-phase boss design that GMs keep copying badly.",
+      "angle": "Creature tactic short: take one teased Warcraft-style boss ability and show the legendary-action math that actually works at a 4-player table",
+      "source": "https://www.enworld.org/threads/podcast-417-livestream-project-lamordia-sorrow-knight-warcraft-monsters-dungeon-walkthrough-maps-and-more.720881/"
     },
     {
-      "title": "Today's Free D&D Drops: Which One-Shot Is Actually Worth Your Download",
-      "why_now": "EN World's Oct 5 freebies/sales/charity bundle roundup just went live, giving us dated, clickable material.",
-      "angle": "Rapid-fire verdict short ranking the freebies by table-readiness — skip the fluff, name the one worth running tonight.",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-5-2026.720886/"
+      "title": "The Two-Minute Session Zero Is Missing One Question That Prevents Table Blowups",
+      "why_now": "Sly Flourish's two-minute session zero piece is getting traction among one-shot GMs right now and is easy to riff on in 60 seconds.",
+      "angle": "Dry GM-advice short: show the standard 2-min checklist, then add the one line about lethality expectations that Sly Flourish skips, framed as a ruling not a vibe",
+      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
     }
   ]
 }

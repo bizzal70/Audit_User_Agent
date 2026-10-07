@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-06T11:08:12+00:00",
+  "generated": "2026-10-07T11:08:11+00:00",
   "opportunities": [
     {
-      "title": "The Patch That Wasn't: How One Accenture Contractor's Missed Update Became the ShinyHunters Breach",
-      "why_now": "FBI just confirmed arrests and removed the contractor, giving a named human face to the patch-cadence failure that enabled the hack",
-      "angle": "Root-cause postmortem connecting the FBI action to the original unpatched flaw, framed as a cautionary patch-cadence case study",
-      "source": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html"
-    },
-    {
-      "title": "NetScaler's Zero-Day Streak Continues: Why Citrix Admins Can't Catch a Break in 2026",
-      "why_now": "A new NetScaler 0-day capable of knocking SAML offline landed just a day after reports called the situation 'even worse,' stacking onto an already bad week",
-      "angle": "Running tally/timeline format tracking the NetScaler 0-day cluster this week, with a blunt patch-now verdict",
-      "source": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232"
-    },
-    {
-      "title": "8 Products, One Bug: Atlassian's Critical Unauthenticated File-Read Flaw You Need to Patch Today",
-      "why_now": "Atlassian just disclosed a critical datacenter-wide file access flaw affecting eight products, a broad blast radius demanding immediate attention",
-      "angle": "CVE breakdown: affected products, exploitation path, and patch priority checklist for admins",
-      "source": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html"
-    },
-    {
-      "title": "Denmark's Entire Population at Risk: 8.8 Million CPR Records Exposed via a Single Company Account",
-      "why_now": "Denmark's central person register breach, confirmed this week, exposed national ID data for nearly the whole country through one compromised account",
-      "angle": "Scale-of-breach analysis plus 'single point of failure' lesson on third-party account access controls",
+      "title": "Denmark's ID Register Just Leaked More People Than Denmark Has",
+      "why_now": "8.8 million CPR records exposed via a single company account in a nation of 6 million is the kind of absurd breach math that defines the 'inevitable breach' beat.",
+      "angle": "Short punchy breach-math post: show the leaked record count vs population, then zoom into the 'one company account' root cause as the real lesson.",
       "source": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html"
     },
     {
-      "title": "AI Found the Bug, Humans Are Now Exploiting It: Inside the Rejetto HFS Race",
-      "why_now": "A vulnerability reportedly discovered by AI tooling is now under active exploitation for admin session forgery and RCE, a rare AI-discovery-to-exploit timeline worth tracking",
-      "angle": "Timeline feature on the AI-discovery-to-active-exploitation pipeline, with technical exploit detail and patch urgency",
-      "source": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/"
+      "title": "The FBI Just Named the Accenture Contractor Who Missed One Patch",
+      "why_now": "The FBI publicly blamed a specific contractor's missed patch for the ShinyHunters breach and then removed them — a rare public accountability moment in patch-cadence failures.",
+      "angle": "Patch-cadence postmortem: timeline from missed CVE to breach to contractor firing, framed as 'this is what happens when patch SLAs slip.'",
+      "source": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/"
+    },
+    {
+      "title": "Atlassian's 'Critical' Just Means Read Any File, Unauthenticated, Across 8 Products",
+      "why_now": "A fresh critical file-access flaw spanning eight Atlassian Data Center products is an immediate patch-now story with broad enterprise blast radius.",
+      "angle": "CVE explainer with a patch-priority checklist: which 8 products, what the unauthenticated read actually exposes, and a 'patch by Friday' countdown framing.",
+      "source": "https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284"
+    },
+    {
+      "title": "FortiBleed Won't Die: FBI Confirms Attacks Are Still Draining Fortinet Boxes",
+      "why_now": "The FBI's fresh confirmation that FortiBleed exploitation is ongoing, long after disclosure, is the perfect case study for the channel's 'inevitable breach' thesis about patch lag.",
+      "angle": "Patch-cadence autopsy: how long the vuln has been known, who's still unpatched, and why 'patch available' never equals 'patch applied.'",
+      "source": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585"
+    },
+    {
+      "title": "Citrix NetScaler's 0-Day Pileup Just Got Worse — Here's Who's Still Exposed",
+      "why_now": "New 0-day reports stacking on top of existing NetScaler issues signal an active, worsening exploitation window that enterprises need to act on now.",
+      "angle": "Threat-actor tracker format: what's being exploited in the wild right now, overlap with prior CVEs, and a blunt 'if you run NetScaler, do this today' list.",
+      "source": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232"
     }
   ]
 }
