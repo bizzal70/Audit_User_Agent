@@ -1,4 +1,53 @@
 {
-  "generated": "2026-10-07T11:08:11+00:00",
-  "plays": []
+  "generated": "2026-10-08T11:09:43+00:00",
+  "plays": [
+    {
+      "story": "D&D's Warcraft crossover reveals 13 new 'classes' (Death Knight, Demon Hunter, Evoker, Shaman) built from existing 5E subclasses",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'We Stress-Tested D&D Warcraft's Death Knight: Is a Reskinned Paladin Actually Balanced?' — a mechanics breakdown of how WotC repurposed existing subclass math into 13 new class fantasies, with a verdict on which ones break the action economy.",
+        "itsalreadywritten": "'Death Knights, Demon Hunters, and the Lore Problem Nobody's Talking About' — how slapping Warcraft class fantasy onto Forgotten Realms cosmology forces GMs to rewrite the setting's rules on undeath and souls, with a worldbuilding fix."
+      },
+      "source": "https://www.enworld.org/threads/d-d-warcraft-a-first-look.720888/"
+    },
+    {
+      "story": "Dungeons & Dragons staff are unionizing, citing AI use, personal IP rights, layoff fears, and crunch",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'D&D Just Unionized Over AI and Crunch — Here's What It Means If You Freelance for a TTRPG Publisher' — practical angle on how this could reshape contracts, crunch culture, and AI-use clauses for the broader indie TTRPG design workforce.",
+        "itsalreadywritten": "'Your Module Could Be Training Data: Inside D&D Writers' Fight Over AI and Personal IP Rights' — a deep dive on the specific IP-ownership demands in the union push and what freelance adventure writers should be asking publishers right now."
+      },
+      "source": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing-citing-ai-personal-ip-rights-layoff-fears-and-crunch-experiences.720898/"
+    },
+    {
+      "story": "Ethereum researcher Justin Drake's 'bunker mode' warning that AI could break wallet security within months splits the crypto industry and coincides with Bitcoin dropping below $83K",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Bitcoin Breaks $83K as 'Bunker Mode' Panic Spreads — Is This the AI Crash Traders Feared or Just FUD?' — tie the price drop directly to the Drake/Buterin debate and chart whether the sell-off is overreaction or early signal.",
+        "itsalreadywhen": "'When AI Cracks Your Private Key: Justin Drake's 'Bunker Mode' Timeline, Explained' — translate the technical AI-vs-cryptography warning into a plain countdown of what 'months away' actually means for wallet security practices."
+      },
+      "source": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto"
+    },
+    {
+      "story": "Samsung is integrating Solana-based USDC transfers for 82 million US Galaxy users, mainstreaming stablecoin rails overnight",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Samsung Just Handed Solana 82 Million Potential Wallets — What It Means for USDC and SOL Demand' — market-impact read on remittance volume, Solana fee revenue, and whether this is the adoption catalyst bulls have been waiting for.",
+        "itsalreadywhen": "'82 Million New Crypto Wallets, Zero Crypto Literacy: The Phishing Wave Coming for Samsung's USDC Users' — security-first angle on the attack surface created by onboarding non-crypto-native users into self-custody stablecoin transfers."
+      },
+      "source": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices"
+    }
+  ]
 }

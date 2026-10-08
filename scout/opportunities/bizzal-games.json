@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-07T11:08:11+00:00",
+  "generated": "2026-10-08T11:09:43+00:00",
   "opportunities": [
     {
-      "title": "Death Knight in 5e: Reskinning Paladin's Oathbreaker So It Doesn't Suck",
-      "why_now": "D&D Warcraft just revealed its 13 classes including Death Knight, giving players an easy excuse to ask how to run one in vanilla 5e.",
-      "angle": "60-sec ruling/build short: map Death Knight's 'runic power' resource onto existing Oathbreaker/Paladin chassis, call out the one reflavor that breaks action economy",
+      "title": "Death Knight in 5e: The One Reflavor That Doesn't Break Necromancy Rules",
+      "why_now": "EN World's D&D Warcraft class reveal (Death Knight, Demon Hunter, Evoker, Shaman) is driving search traffic for 'how do I build this in 5e' right now.",
+      "angle": "Short: take one WoW-flavored class concept and give the exact 5e subclass/feat combo that legally replicates it, plus the one DM ruling that stops it from being broken.",
       "source": "https://www.enworld.org/threads/d-d-warcrafts-13-classes-include-death-knight-demon-hunter-evoker-and-shaman.720901/"
     },
     {
-      "title": "Demon Hunter's Double Jump Is Just Misty Step With Extra Steps — Here's the Real 5e Fix",
-      "why_now": "The Warcraft class reveal names Demon Hunter specifically, and mobility abilities are the #1 thing GMs get asked to homebrew badly.",
-      "angle": "Spell use-case short comparing Misty Step/Feather Fall stacking vs a homebrew mobility feature, with the DM ruling on fall damage interactions",
-      "source": "https://www.enworld.org/threads/d-d-warcraft-a-first-look.720888/"
+      "title": "The D&D Unionizing News Won't Change Your Grapple Rules, So Here's One That Will",
+      "why_now": "The WotC unionizing story is dominating tabletop discourse this week, giving a hook to pivot sharply into actual table content.",
+      "angle": "Cold open with a dry one-line acknowledgment of the news, then hard pivot to a genuine mechanical ruling (e.g., grapple-while-prone interaction) — bait-and-switch format for engagement.",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing-citing-ai-personal-ip-rights-layoff-fears-and-crunch-experiences.720898/"
     },
     {
-      "title": "Running a Carnival Encounter Without It Turning Into a Skill-Challenge Slog",
-      "why_now": "EN World's RPG Evolution piece on D&D Carnivals is fresh and carnival/festival settings are a recurring 'help me design this' request.",
-      "angle": "Creature/encounter tactic short: one rigged-game NPC stat block plus the single ruling that keeps carnival combat from stalling (no save-spam, use a skill DC ladder instead)",
+      "title": "Run a Carnival Encounter Without a TPK: The Mirror Maze Illusion Ruling",
+      "why_now": "EN World's RPG Evolution column just spotlighted D&D carnival content, making carnival-themed encounters a trending build idea this week.",
+      "angle": "Creature/spell use-case: how Mirror Image or Minor Illusion interacts with a funhouse mirror maze trap, with the exact DC and line-of-sight ruling.",
       "source": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/"
     },
     {
-      "title": "New Warcraft Monster, Old Problem: Why 'Add a Phase 2' Breaks Your Action Economy",
-      "why_now": "Podcast #417 previewed new Warcraft monster stat blocks, a good hook to dissect multi-phase boss design that GMs keep copying badly.",
-      "angle": "Creature tactic short: take one teased Warcraft-style boss ability and show the legendary-action math that actually works at a 4-player table",
-      "source": "https://www.enworld.org/threads/podcast-417-livestream-project-lamordia-sorrow-knight-warcraft-monsters-dungeon-walkthrough-maps-and-more.720881/"
+      "title": "The One Session-Zero Clause That Problem-Proofs Any One-Shot",
+      "why_now": "Gnome Stew's new Gnomecast episode on 'problem-proofing one-shots' is fresh analysis content worth a sharper, mechanics-first counterpoint.",
+      "angle": "Short rules-ruling format aimed at one-shot GMs: a single table-contract line (e.g., on PvP, on spotlight time) that prevents 80% of one-shot derailments, framed as a direct rebuttal/addendum to the podcast's advice.",
+      "source": "https://gnomestew.com/gnomecast-247-problem-proofing-one-shots/"
     },
     {
-      "title": "The Two-Minute Session Zero Is Missing One Question That Prevents Table Blowups",
-      "why_now": "Sly Flourish's two-minute session zero piece is getting traction among one-shot GMs right now and is easy to riff on in 60 seconds.",
-      "angle": "Dry GM-advice short: show the standard 2-min checklist, then add the one line about lethality expectations that Sly Flourish skips, framed as a ruling not a vibe",
-      "source": "https://slyflourish.com/two_minute_session_zero.html?rss=1"
+      "title": "What Curseborne's Covenant Mechanic Gets Right That 5e Warlocks Don't",
+      "why_now": "Curseborne Covenant just hit EN World's crowdfunding roundup, giving a timely compare-and-contrast hook for pact-magic design.",
+      "angle": "Mechanical breakdown: take Curseborne's pact/covenant system and use it to critique or house-rule 5e's Warlock patron boon structure — one concrete house rule proposed at the end.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-one-ring-curseborne-covenant-dark-mythos-and-more.720909/"
     }
   ]
 }

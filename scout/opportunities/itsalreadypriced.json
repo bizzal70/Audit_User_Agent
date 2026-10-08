@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-07T11:08:11+00:00",
+  "generated": "2026-10-08T11:09:43+00:00",
   "opportunities": [
     {
-      "title": "Europol Just Said What Every Wallet Holder Already Feared: Quantum Isn't a Future Problem",
-      "why_now": "Europol's formal warning that crypto wallets are the 'primary risk' for quantum attacks gives a security-led channel a hard news peg to revisit a threat most holders have shrugged off as sci-fi.",
-      "angle": "Explainer/op-ed: what 'harvest now, decrypt later' means for cold storage today, with a concrete action list (migrate to quantum-resistant signatures, rotate keys)",
-      "source": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks"
+      "title": "Bunker Mode Isn't Paranoia — It's Three Months Early, As Usual",
+      "why_now": "Justin Drake's AI-can-crack-wallets warning just split the entire industry, with Vitalik backing caution and critics calling it fear-mongering — exactly the kind of signal/noise split this channel exists to parse.",
+      "angle": "Explainer + stance piece: break down the actual cryptographic claim (ECDSA vs AI math advances), separate real risk from hype, and give a concrete migration checklist for people who want to move now, not after the proof-of-concept drops",
+      "source": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses"
     },
     {
-      "title": "Cardano Just Gave Token Issuers a Kill Switch — Here's Why That's Not an Accident",
-      "why_now": "Cardano's new freeze/seize/restrict powers for token issuers is a direct, named precedent for custodial-risk-in-disguise, perfect for a 'you already know how this ends' takedown.",
-      "angle": "Security-led breakdown: map which other chains/tokens quietly have admin keys like this, with a checklist for readers to audit their own holdings",
-      "source": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets"
+      "title": "TOKEN2049's First Morning Casualty: How Frogman Lost $4M Before Breakfast",
+      "why_now": "A trader got drained for $4M on day one of the industry's biggest conference, a perfectly timed case study in op-sec failure under real-world pressure.",
+      "angle": "Incident post-mortem: reconstruct the attack vector (likely approval drain, fake wallet connect, or conference wifi/QR exploit), extract the operational lesson for anyone traveling with hot wallets to events",
+      "source": "https://thedefiant.io/news/hacks/trader-frogman-drained-of-4-million-on-the-first-morning-of-token2049"
     },
     {
-      "title": "Tether Froze $2.76M, Now It's Getting Sued for It — The Receipts on 'Not Your Keys' Are In",
-      "why_now": "Conduit's lawsuit against Tether is a live, concrete case study of stablecoin freeze risk turning into litigation, which validates the channel's long-running thesis.",
-      "angle": "Case-file style post: timeline of the freeze, Tether's legal position, and what it means for every USDT holder's custody assumptions",
-      "source": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831"
+      "title": "Why Is the US Government Moving $873M in Seized Crypto Right Before an AI-Security Panic?",
+      "why_now": "Two unexplained government transfers this week ($770M BTC to Coinbase Prime, $103M BTC/BNB elsewhere) land right as the industry debates whether current wallet infra is even safe — raising questions about custody choices at the top.",
+      "angle": "Connect-the-dots market structure piece: what moving seized funds to Coinbase Prime signals about institutional custody preferences, and whether 'the government trusts it' is actually a security signal or a liability concentration risk",
+      "source": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Two Ethereum L2s Died in One Week — Abstract's Collapse Is the Receipt",
-      "why_now": "Abstract shutting down days after another L2 failure is a concrete, timestamped proof point that VC-funded L2 'ecosystems' can evaporate overnight, taking user funds and apps with them.",
-      "angle": "Rapid-fire post-mortem: what happened to Abstract/Pudgy Penguins funds, bridge/withdrawal risk for users still on the chain, and a running tally of 2026 L2 deaths",
-      "source": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855"
+      "title": "AI Agents Just Robbed a Megachurch — Your Seed Phrase Is Next",
+      "why_now": "Hackers using autonomous AI agents to breach a database of 850,000 people is a live preview of the exact threat model Drake's bunker-mode warning is about, just applied outside crypto first.",
+      "angle": "Cross-industry warning piece: use the megachurch breach as proof-of-concept that AI-agent-driven attacks are already operational, then map the attack pattern onto crypto wallet/seed-phrase targets",
+      "source": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database"
     },
     {
-      "title": "$547M Got Liquidated Because of an Oil Tanker Attack — Your Leverage Doesn't Care About Your Thesis",
-      "why_now": "The cascade below $84K triggered by Iranian tanker attacks is a fresh, dramatic example of macro-fragility meeting over-leveraged crypto books, tying markets and security-minded risk management together.",
-      "angle": "Markets-with-teeth post: dissect the liquidation cascade mechanics, who got wrecked, and why 'uncorrelated asset' narratives keep failing at the worst moment",
-      "source": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
+      "title": "Samsung Just Put USDC on 82 Million Phones. Who's Guarding the Keys?",
+      "why_now": "Samsung's mass rollout of USDC-on-Solana to Galaxy users is a massive expansion of crypto's attack surface into non-crypto-native hands, right as custody and wallet security dominate headlines.",
+      "angle": "Security-first product teardown: what custody model Samsung Wallet actually uses (custodial vs self-custody), what happens when a phone is lost/stolen/phished, and why mainstream UX convenience is usually where security debt gets created",
+      "source": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices"
     }
   ]
 }
