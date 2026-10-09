@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-08T11:09:43+00:00",
+  "generated": "2026-10-09T11:08:48+00:00",
   "opportunities": [
     {
-      "title": "D&D Warcraft's 13 Classes: Which Are New Rules and Which Are Reskins?",
-      "why_now": "EN World just published the full class list, giving us fresh mechanical text to parse before the internet's hot takes calcify into myth.",
-      "angle": "Side-by-side rules-comparison table: each Warcraft class mapped to its closest 5E chassis, flagging genuine new subsystems vs. reflavored subclasses",
-      "source": "https://www.enworld.org/threads/d-d-warcrafts-13-classes-include-death-knight-demon-hunter-evoker-and-shaman.720901/"
-    },
-    {
-      "title": "The First Look at D&D Warcraft: What the Preview Actually Confirms (and What It Doesn't)",
-      "why_now": "A first-look preview just dropped alongside the class list, so there's primary material to fact-check before rumor fills the gaps.",
-      "angle": "Line-by-line breakdown of confirmed mechanics vs. speculation, written in a 'here's what's actually in the text' tone",
-      "source": "https://www.enworld.org/threads/d-d-warcraft-a-first-look.720888/"
-    },
-    {
-      "title": "D&D's Unionization Push Isn't Just Labor News — It's an IP Rules Fight",
-      "why_now": "The newly announced unionization effort explicitly cites personal IP rights, which is a contract-and-ownership question our audience cares about as much as any stat block.",
-      "angle": "Explainer on what 'personal IP rights' typically means in creative-work contracts and why crunch/AI clauses are being bundled with it now",
+      "title": "D&D's Union Vote: What It Actually Means for Future Rules Updates and Errata",
+      "why_now": "Wizards staff are unionizing specifically over AI, IP rights, and crunch—this directly affects how future rulebooks and digital tools get made.",
+      "angle": "Explainer/analysis breaking down the cited grievances against what WotC has shipped (One D&D digital tools, VTT) and what a union contract could change for players",
       "source": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing-citing-ai-personal-ip-rights-layoff-fears-and-crunch-experiences.720898/"
     },
     {
-      "title": "Four Systems, Four Core Mechanics: This Week's Crowdfunding Crop Decoded",
-      "why_now": "The One Ring, Curseborne Covenant, and Dark Mythos are all live or newly announced right now, giving readers a timely buying decision to make.",
-      "angle": "Quick mechanical comparison chart (resolution system, advancement, core loop) for each crowdfunded title to help backers choose with their eyes open",
+      "title": "13 Classes, Zero Subclasses? How D&D x Warcraft Handles Death Knight, Demon Hunter, and Evoker",
+      "why_now": "The crossover's class list just dropped and begs direct comparison to 5E's existing subclass framework.",
+      "angle": "Rules-comparison breakdown: map each Warcraft 'class' to its closest official 5E subclass/analog, flag what's genuinely new crunch",
+      "source": "https://www.enworld.org/threads/d-d-warcrafts-13-classes-include-death-knight-demon-hunter-evoker-and-shaman.720901/"
+    },
+    {
+      "title": "Crowdfunding Watch: The One Ring's New Covenant Rules vs. Curseborne's System—Which Backs Are Worth It",
+      "why_now": "Multiple major crowdfunding campaigns (One Ring, Curseborne, Dark Mythos) are live simultaneously, prime for a rules-first comparison before pledges close.",
+      "angle": "Ranked breakdown of mechanical innovations in each campaign, not just hype—what rules justify backing",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-one-ring-curseborne-covenant-dark-mythos-and-more.720909/"
     },
     {
-      "title": "Problem-Proofing One-Shots: The Rules Checklist Gnomecast Didn't Quite Spell Out",
-      "why_now": "Gnomecast just released an episode on preventing one-shot disasters, giving us a hook to codify their advice into an actual rules-first checklist.",
-      "angle": "Turn the podcast's advice into a structured pre-session rules audit (safety tools, pacing triggers, encounter math) readers can screenshot and use",
+      "title": "We Fact-Checked EN World's CERN Trip: Does Antimatter Actually Work Like Your Sci-Fi RPG Says?",
+      "why_now": "EN World's CERN visit piece is a fun real-science hook that TTRPG sci-fi settings (Starfinder, Stars Without Number) love to misuse.",
+      "angle": "Science-meets-rules myth-busting: compare real antimatter physics to how 3-4 popular sci-fi TTRPGs handle it in their rulebooks",
+      "source": "https://www.enworld.org/threads/we-visited-cern-played-games-and-saw-antimatter.720724/"
+    },
+    {
+      "title": "The One-Shot Rulebook: 5 Problem-Proofing Techniques Gnomecast Didn't Have Time to Fully Unpack",
+      "why_now": "Gnomecast's new episode on problem-proofing one-shots is fresh GM advice ripe for a rules-first deep dive follow-up.",
+      "angle": "Listicle/companion piece extracting concrete, citable rules-adjacent techniques (pre-gen clauses, safety tools, pacing triggers) with system-specific examples",
       "source": "https://gnomestew.com/gnomecast-247-problem-proofing-one-shots/"
     }
   ]

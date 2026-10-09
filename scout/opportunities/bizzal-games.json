@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-08T11:09:43+00:00",
+  "generated": "2026-10-09T11:08:48+00:00",
   "opportunities": [
     {
-      "title": "Death Knight in 5e: The One Reflavor That Doesn't Break Necromancy Rules",
-      "why_now": "EN World's D&D Warcraft class reveal (Death Knight, Demon Hunter, Evoker, Shaman) is driving search traffic for 'how do I build this in 5e' right now.",
-      "angle": "Short: take one WoW-flavored class concept and give the exact 5e subclass/feat combo that legally replicates it, plus the one DM ruling that stops it from being broken.",
+      "title": "Death Knight Isn't a Class, It's a Paladin Reflavor: Here's the 5e Ruling",
+      "why_now": "WoW's D&D class list just went viral, and every table is about to ask how to build these 'classes' in actual 5e.",
+      "angle": "60-sec breakdown: map each Warcraft 'class' (Death Knight, Demon Hunter, Evoker, Shaman) to an existing 5e subclass/reflavor with one mechanical tweak each — no homebrew bloat.",
       "source": "https://www.enworld.org/threads/d-d-warcrafts-13-classes-include-death-knight-demon-hunter-evoker-and-shaman.720901/"
     },
     {
-      "title": "The D&D Unionizing News Won't Change Your Grapple Rules, So Here's One That Will",
-      "why_now": "The WotC unionizing story is dominating tabletop discourse this week, giving a hook to pivot sharply into actual table content.",
-      "angle": "Cold open with a dry one-line acknowledgment of the news, then hard pivot to a genuine mechanical ruling (e.g., grapple-while-prone interaction) — bait-and-switch format for engagement.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing-citing-ai-personal-ip-rights-layoff-fears-and-crunch-experiences.720898/"
+      "title": "We Watched CERN Make Antimatter. Here's What a Sphere of Annihilation Actually Does to Your Party.",
+      "why_now": "EN World's CERN visit piece is a free hook to talk real-world antimatter vs. the D&D item everyone fears but nobody runs correctly.",
+      "angle": "Dry ruling format: clarify Sphere of Annihilation interaction rules (control check, what it destroys, what survives) using the CERN headline as cold open.",
+      "source": "https://www.enworld.org/threads/we-visited-cern-played-games-and-saw-antimatter.720724/"
     },
     {
-      "title": "Run a Carnival Encounter Without a TPK: The Mirror Maze Illusion Ruling",
-      "why_now": "EN World's RPG Evolution column just spotlighted D&D carnival content, making carnival-themed encounters a trending build idea this week.",
-      "angle": "Creature/spell use-case: how Mirror Image or Minor Illusion interacts with a funhouse mirror maze trap, with the exact DC and line-of-sight ruling.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/"
-    },
-    {
-      "title": "The One Session-Zero Clause That Problem-Proofs Any One-Shot",
-      "why_now": "Gnome Stew's new Gnomecast episode on 'problem-proofing one-shots' is fresh analysis content worth a sharper, mechanics-first counterpoint.",
-      "angle": "Short rules-ruling format aimed at one-shot GMs: a single table-contract line (e.g., on PvP, on spotlight time) that prevents 80% of one-shot derailments, framed as a direct rebuttal/addendum to the podcast's advice.",
+      "title": "The One-Shot Mistake That Kills Your Table: A Ruling on Pre-Session Problem Proofing",
+      "why_now": "Gnome Stew's new Gnomecast episode on problem-proofing one-shots is fresh GM-advice content you can condense into a hard ruling.",
+      "angle": "Veteran-GM short: one concrete fix (e.g., always pre-roll initiative order for NPCs, cap save-or-die effects) framed as a non-negotiable prep rule.",
       "source": "https://gnomestew.com/gnomecast-247-problem-proofing-one-shots/"
     },
     {
-      "title": "What Curseborne's Covenant Mechanic Gets Right That 5e Warlocks Don't",
-      "why_now": "Curseborne Covenant just hit EN World's crowdfunding roundup, giving a timely compare-and-contrast hook for pact-magic design.",
-      "angle": "Mechanical breakdown: take Curseborne's pact/covenant system and use it to critique or house-rule 5e's Warlock patron boon structure — one concrete house rule proposed at the end.",
+      "title": "D&D Devs Are Unionizing Over 'Crunch' — So Let's Talk About Actual Rules Crunch",
+      "why_now": "The unionization story uses 'crunch' as labor jargon; it's a free pun to pivot into a mechanical discussion of high-crunch vs. low-crunch systems (5e vs. Shadowdark vs. DCC).",
+      "angle": "Wry comparison bit: show the same combat resolved in 5e (crunchy), Shadowdark (lean), and DCC (chaotic) to make the crunch joke land with an actual lesson.",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing-citing-ai-personal-ip-rights-layoff-fears-and-crunch-experiences.720898/"
+    },
+    {
+      "title": "Steal This Mechanic: What Curseborne Covenant's Crowdfund Pitch Gets Right That 5e Doesn't",
+      "why_now": "This week's EN World crowdfunding roundup highlights new systems actively pitching fresh mechanics worth raiding for your home game.",
+      "angle": "Quick creature-tactic or spell-use-case translated from the new system's pitch into a usable 5e/Shadowdark house rule, credited honestly.",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-one-ring-curseborne-covenant-dark-mythos-and-more.720909/"
     }
   ]
