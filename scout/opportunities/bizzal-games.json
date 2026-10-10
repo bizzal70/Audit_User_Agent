@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-09T11:08:48+00:00",
+  "generated": "2026-10-10T11:08:05+00:00",
   "opportunities": [
     {
-      "title": "Death Knight Isn't a Class, It's a Paladin Reflavor: Here's the 5e Ruling",
-      "why_now": "WoW's D&D class list just went viral, and every table is about to ask how to build these 'classes' in actual 5e.",
-      "angle": "60-sec breakdown: map each Warcraft 'class' (Death Knight, Demon Hunter, Evoker, Shaman) to an existing 5e subclass/reflavor with one mechanical tweak each — no homebrew bloat.",
-      "source": "https://www.enworld.org/threads/d-d-warcrafts-13-classes-include-death-knight-demon-hunter-evoker-and-shaman.720901/"
+      "title": "Lightsabers Are Just Reskinned Rapiers: The 5e Ruling WotC Won't Give You",
+      "why_now": "WotC just teased more D&D/Star Wars crossover content, so GMs need a clean stat-reskin before the hype outpaces the rules.",
+      "angle": "Rules ruling short: stat block comparison + 'use finesse weapon stats, ignore the glow' verdict",
+      "source": "https://www.enworld.org/threads/wizards-of-the-coast-announces-more-d-d-star-wars-crossover-plans.720925/"
     },
     {
-      "title": "We Watched CERN Make Antimatter. Here's What a Sphere of Annihilation Actually Does to Your Party.",
-      "why_now": "EN World's CERN visit piece is a free hook to talk real-world antimatter vs. the D&D item everyone fears but nobody runs correctly.",
-      "angle": "Dry ruling format: clarify Sphere of Annihilation interaction rules (control check, what it destroys, what survives) using the CERN headline as cold open.",
+      "title": "Disintegrate vs. Actual Antimatter: Why Your 10th-Level Spell Still Loses",
+      "why_now": "EN World's CERN visit piece has tabletop fans talking real-world annihilation physics right as a juicy spell-flavor hook.",
+      "angle": "Spell use-case breakdown: damage math vs real antimatter energy release, played completely deadpan",
       "source": "https://www.enworld.org/threads/we-visited-cern-played-games-and-saw-antimatter.720724/"
     },
     {
-      "title": "The One-Shot Mistake That Kills Your Table: A Ruling on Pre-Session Problem Proofing",
-      "why_now": "Gnome Stew's new Gnomecast episode on problem-proofing one-shots is fresh GM-advice content you can condense into a hard ruling.",
-      "angle": "Veteran-GM short: one concrete fix (e.g., always pre-roll initiative order for NPCs, cap save-or-die effects) framed as a non-negotiable prep rule.",
-      "source": "https://gnomestew.com/gnomecast-247-problem-proofing-one-shots/"
-    },
-    {
-      "title": "D&D Devs Are Unionizing Over 'Crunch' — So Let's Talk About Actual Rules Crunch",
-      "why_now": "The unionization story uses 'crunch' as labor jargon; it's a free pun to pivot into a mechanical discussion of high-crunch vs. low-crunch systems (5e vs. Shadowdark vs. DCC).",
-      "angle": "Wry comparison bit: show the same combat resolved in 5e (crunchy), Shadowdark (lean), and DCC (chaotic) to make the crunch joke land with an actual lesson.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing-citing-ai-personal-ip-rights-layoff-fears-and-crunch-experiences.720898/"
-    },
-    {
-      "title": "Steal This Mechanic: What Curseborne Covenant's Crowdfund Pitch Gets Right That 5e Doesn't",
-      "why_now": "This week's EN World crowdfunding roundup highlights new systems actively pitching fresh mechanics worth raiding for your home game.",
-      "angle": "Quick creature-tactic or spell-use-case translated from the new system's pitch into a usable 5e/Shadowdark house rule, credited honestly.",
+      "title": "Curseborne Covenant Made Me Admit 5e's Curse Rules Are a Joke",
+      "why_now": "The newly funded Curseborne Covenant crowdfunding project is putting curse mechanics in front of a wider RPG audience this week.",
+      "angle": "System comparison ruling: 5e curse spell weaknesses vs a dedicated curse-system, with a DCC patch fix",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-one-ring-curseborne-covenant-dark-mythos-and-more.720909/"
+    },
+    {
+      "title": "Shadowdark's Light Dice Beat The One Ring's Hope Mechanic — Here's the Math",
+      "why_now": "The One Ring's fresh crowdfunding push has its Hope/Shadow system back in discourse, giving a timely comparison point for Shadowdark's darkness economy.",
+      "angle": "Mechanical comparison short: tension-tracking systems ranked by table friction and GM overhead",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-one-ring-curseborne-covenant-dark-mythos-and-more.720909/"
+    },
+    {
+      "title": "Running a Mercenary Company in 5e: The Hireling Rules Nobody Reads",
+      "why_now": "Star Wars Zero Company just crossed 1 million copies selling players on squad-based mercenary play, a hook to revisit DMG hireling rules most tables ignore.",
+      "angle": "Rules ruling: DMG hireling cost/morale table walkthrough with a 'why your party should be running a company' pitch",
+      "source": "https://www.rpgsite.net/news/21542-star-wars-zero-company-sales-numbers-1-million-copies"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-09T11:08:48+00:00",
+  "generated": "2026-10-10T11:08:05+00:00",
   "opportunities": [
     {
-      "title": "Citrix NetScaler Critical RCE: The Patch Window Is Already Closing",
-      "why_now": "Citrix, SecurityWeek, and Hacker News all flagged the same critical SAML-based RCE on the same day, signaling active exploitation is imminent.",
-      "angle": "Patch-cadence alert post: CVE breakdown, exploit timeline prediction, and a 'patch by Friday or assume breach' call to action",
-      "source": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/"
+      "title": "Patch NetScaler Now (Again): The Critical Citrix CVE You Can't Afford to Sleep On",
+      "why_now": "Citrix is urging immediate patching of a new critical NetScaler vulnerability that's already being treated as actively exploitable.",
+      "angle": "Patch-cadence alert post: CVE breakdown, exploitation timeline, and a 'if you run NetScaler, stop reading and patch' lede",
+      "source": "https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212"
     },
     {
-      "title": "PoC to Pwned in Hours: Atlassian's Latest Critical Flaw Proves Patch Cadence Is Dead",
-      "why_now": "Attackers weaponized the Atlassian PoC within hours of publication, the exact 'inevitable breach' scenario this channel tracks.",
-      "angle": "Timeline-style breakdown (disclosure → PoC → exploitation) with a broader thesis on why patch windows have collapsed to hours",
-      "source": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/"
+      "title": "One Prompt to Own the Cloud: How 'AgentCorruption' Breaks AWS AgentCore",
+      "why_now": "Two outlets (Register and Dark Reading) are covering AgentCorruption, a flaw that lets a single crafted prompt exfiltrate AWS credentials from agentic AI deployments.",
+      "angle": "Deep-dive explainer on the exploit chain plus a checklist for securing AI agents with cloud IAM access — flagship 'AI meets breach' piece",
+      "source": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436"
     },
     {
-      "title": "The US Just Gutted China's Spy Infrastructure — Flax Typhoon's Tools and a Stolen-Email Portal, Both Gone in One Week",
-      "why_now": "FBI domain seizures against Flax Typhoon and the exposure of a China-linked portal selling access to stolen emails landed the same week as a 7-nation PRC espionage warning.",
-      "angle": "Connect-the-dots threat actor profile piece tying three related China-nexus stories into one 'state of PRC cyber ops' digest",
-      "source": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html"
+      "title": "Fake Google Certs, Real Trust Collapse: Inside the TLD Hijack That Forged TLS for Tech Giants",
+      "why_now": "Attackers hijacked top-level domains to mint valid-looking security certificates for Google and others, a story SecurityWeek is still tracking as the scope grows.",
+      "angle": "Trust-chain breakdown: how TLD-level compromise cascades into cert fraud, with a timeline and 'what this means for your CA pinning' section",
+      "source": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718"
     },
     {
-      "title": "Shai-Hulud Just Learned to Eat AI Infrastructure — Tensorlake Is Patient Zero",
-      "why_now": "A known self-propagating worm jumping from traditional supply chains into AI infra via Tensorlake marks a new phase for worm-based attacks on the AI stack.",
-      "angle": "Threat-actor evolution explainer: what Shai-Hulud is, how the AI infra compromise works, and which AI vendors should be worried next",
+      "title": "Shai-Hulud Spreads to AI Infrastructure: The Worm That Just Learned to Eat ML Pipelines",
+      "why_now": "The Shai-Hulud worm has compromised Tensorlake, marking its first confirmed jump into AI infrastructure — a new escalation for a known self-propagating threat.",
+      "angle": "Threat-actor tracker update: worm lineage, Tensorlake compromise details, and why AI supply chains are the next worm habitat",
       "source": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054"
     },
     {
-      "title": "Fully Patched, Fully Pwned: Pixel 10 Falls Three Times at Pwn2Own for $560K",
-      "why_now": "Three separate teams remotely hacked a fully patched, flagship Android device, undercutting the entire premise that patching equals safety.",
-      "angle": "Inevitable-breach op-ed using Pwn2Own results as proof that 'patched' is not a security state, with a breakdown of the exploit chains",
-      "source": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/"
+      "title": "Tens of Thousands of Repos, One Poisoned Workflow: The GitHub Actions Credential Heist You Missed",
+      "why_now": "The Hacker News just reported credential-stealing GitHub Actions workflows planted across tens of thousands of repositories, a massive supply-chain compromise still unfolding.",
+      "angle": "Supply-chain breach digest: scope of infected repos, IOC list, and immediate remediation steps for maintainers",
+      "source": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
     }
   ]
 }

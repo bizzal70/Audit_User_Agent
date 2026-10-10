@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-09T11:08:48+00:00",
+  "generated": "2026-10-10T11:08:05+00:00",
   "opportunities": [
     {
-      "title": "Vitalik Says 'Don't Rush' Into Bunker Mode — But Half the Industry Already Panicked",
-      "why_now": "Buterin, Justin Drake, and a Coinbase cryptographer are publicly contradicting each other on whether AI can crack wallet crypto within months, creating a live credibility split worth dissecting.",
-      "angle": "Explainer/debate breakdown: lay out the actual cryptographic claim, who's hyping vs. who's debunking, and what 'bunker mode' would really require — written for people who've seen false alarms before",
-      "source": "https://thedefiant.io/news/security/coinbase-cryptographer-calls-drake-bunker-mode-warning-definition-of-fud"
+      "title": "Ledger Didn't Get Hacked — Its Supply Chain Did (And That's Worse)",
+      "why_now": "Ledger is investigating $86-87M in losses traced to a Southeast Asian reseller, meaning the device wasn't compromised — the trust chain around it was.",
+      "angle": "Security breakdown explainer: walk through how reseller-level tampering bypasses hardware wallet guarantees, and what 'verify before you trust' actually means in practice.",
+      "source": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Crypto Lending Is Back. So Is Everyone Pretending 2022 Didn't Happen",
-      "why_now": "Cointelegraph's own feature admits lending volumes are rising again without addressing the structural risks that blew up Celsius and BlockFi — a gift-wrapped skeptical angle.",
-      "angle": "Myth-vs-reality teardown: map today's lending platforms against the exact failure points from the last cycle, with a checklist for what 'solved' would actually look like",
+      "title": "Vitalik Just Told You to Start Hoarding Quantum-Safe Keys. He's Not Wrong.",
+      "why_now": "Justin Drake and Vitalik are publicly floating 'bunker mode' over AI-accelerated cryptanalysis, a rare moment of core devs admitting the timeline might be months, not decades.",
+      "angle": "Myth-vs-reality piece: separate the hype from the actual cryptographic risk, then give a concrete action list (migrate to quantum-resistant addresses, audit key exposure) — tie in Zcash's Jan quantum-resistant target as proof this is already moving from theory to roadmap.",
+      "source": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "XRP Ledger Had an Infinite-Money Bug for 10 Years. Nobody Found It Until Now.",
+      "why_now": "A decade-old vulnerability that could've minted unlimited XRP was just patched — a live case study in how 'audited and battle-tested' can still hide catastrophic bugs.",
+      "angle": "Post-mortem breakdown: what the bug was, why a decade of scrutiny missed it, and what it implies about every other 'mature' chain nobody's double-checking anymore.",
+      "source": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing"
+    },
+    {
+      "title": "One Year After the $19B Liquidation Cascade, Crypto Made the Same Mistakes Smaller",
+      "why_now": "CoinDesk's anniversary retrospective on the $19B wipeout lands right as leverage, prediction markets, and lending are all creeping back up — the perfect 'told you so' moment.",
+      "angle": "Anniversary autopsy in the channel's signature voice: list what changed (less leverage concentration) vs. what didn't (same incentive structures), closing with a prediction of the next flashpoint.",
+      "source": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything"
+    },
+    {
+      "title": "Crypto Lending Is Back. So Are All the Reasons It Blew Up Last Time.",
+      "why_now": "Cointelegraph's own reporting flags lending's resurgence without resolved risk controls, right alongside a fresh $35M Mashinsky settlement reminder of exactly how this movie ends.",
+      "angle": "Pattern-recognition piece pairing the lending resurgence with the Celsius settlement as bookends — 'the sequel nobody asked for' framing, with a checklist for spotting the next Celsius before it's a headline.",
       "source": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "$500M Says Bitcoin Lending Learned Nothing — New Tech, Same Collateral Math",
-      "why_now": "A new bitcoin lending platform just launched with $500M in commitments days after industry coverage questioned whether lending risk was ever actually fixed.",
-      "angle": "Quick-hit market note pairing the launch with the lending-risk piece: what's actually new (custody, liquidation mechanics) vs. just repackaged leverage",
-      "source": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments"
-    },
-    {
-      "title": "The Feds Just Moved $1.77B in Seized Bitcoin — Here's Why That's Not Bullish",
-      "why_now": "Two separate seized-BTC transfers (Bitfinex hack funds to Coinbase Prime, plus the $770M move) landed within 24 hours, and markets tend to treat government-held supply overhangs as a slow-motion sell signal.",
-      "angle": "Market-structure note: trace where this bitcoin actually goes next, historical precedent for government liquidations moving price, and why 'it's already priced in' may not hold this time",
-      "source": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "Gold Grills, Dubai Trips, and a SIM Swap: The Fraud Playbook Hasn't Changed, Only the Receipts",
-      "why_now": "A freshly sentenced SIM-swap fraudster's lifestyle spending is a perfect, specific case study in how stolen crypto still gets laundered through conspicuous consumption — and caught.",
-      "angle": "True-crime-style security brief: break down the SIM-swap attack chain step by step and the opsec failures that got him caught, as a cautionary checklist for readers' own 2FA setup",
-      "source": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed"
     }
   ]
 }

@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-09T11:08:48+00:00",
+  "generated": "2026-10-10T11:08:05+00:00",
   "plays": [
     {
-      "story": "D&D unionizes, citing AI fears, IP rights, layoffs and crunch",
+      "story": "Ledger investigates $86M wallet drain tied to CryptoBilis buyers and a compromised Southeast Asian reseller",
       "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
+        "itsalreadypriced",
+        "itsalreadywhen"
       ],
       "angles": {
-        "bizzal-games": "'D&D's Union Vote: What It Means for the Next Splatbook (and Your GM Prep)' — break down how the unionization could slow/shift release cadence and what that means for tables planning around new content.",
-        "itsalreadywritten": "'When the Writers Room Fights Back: Inside D&D's Union Push for Human-Made Lore' — frame it as creators defending authored IP and craft against AI encroachment, tying to broader TTRPG narrative-ownership debates."
+        "itsalreadypriced": "'Bitcoin Barely Blinks at an $86M Ledger Heist — Is the Market Finally Hack-Proof?' Use BTC's calm consolidation near $82.5K despite the CryptoBilis drain to explore whether institutional inflows have desensitized price action to hardware-wallet breaches.",
+        "itsalreadywhen": "'Inside the Ledger CryptoBilis Breach: How a Rogue Reseller Became a Supply-Chain Attack Vector' — break down the reseller compromise as a textbook hardware supply-chain attack, with lessons for any org sourcing security devices through third parties."
       },
-      "source": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing-citing-ai-personal-ip-rights-layoff-fears-and-crunch-experiences.720898/"
+      "source": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163"
     },
     {
-      "story": "This week's RPG crowdfunding wave: The One Ring, Curseborne Covenant, Dark Mythos and more",
+      "story": "Vitalik Buterin's 'bunker mode' warning that AI could crack wallet crypto within months, paired with Zcash's rush to ship quantum-resistant payments",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Vitalik's Doomsday Clock: Could AI Crack Your Wallet Before Spring?' — translate the bunker-mode warning into an investor-facing explainer on which coins/wallets are most exposed and what 'quantum-resistant' upgrades could mean for portfolio risk.",
+        "itsalreadywhen": "'AI vs. the Blockchain: Dissecting Justin Drake's Bunker-Mode Scare and Zcash's January Quantum Fix' — a technical teardown of the actual attack surface (ECDSA signature cracking via AI-accelerated math) and what 'quantum-resistant payments' really require under the hood."
+      },
+      "source": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
+    },
+    {
+      "story": "Wizards of the Coast's expanded D&D/Star Wars crossover plans",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'5 TTRPG Kickstarters Worth Backing This Week' — practical buyer's guide ranking pledge tiers, stretch goals, and shipping estimates across the slate.",
-        "itsalreadywritten": "'The Lore Behind This Week's Crowdfunded Worlds' — deep-dive the settings and mythologies of Curseborne Covenant and Dark Mythos, and what Middle-earth's return via The One Ring adds to the canon."
+        "bizzal-games": "'Wizards Doubles Down on D&D x Star Wars: What the New Crossover Means for Your Table' — practical breakdown of upcoming products, stat blocks, and how GMs can fold Star Wars material into an existing 5e/One D&D campaign.",
+        "itsalreadywritten": "'Why D&D x Star Wars Is the Ultimate Fan-Fiction Sandbox' — explore the crossover as a prompt for original campaign writing, mashing up Jedi tropes with classic fantasy archetypes for homebrew story arcs."
+      },
+      "source": "https://www.enworld.org/threads/wizards-of-the-coast-announces-more-d-d-star-wars-crossover-plans.720925/"
+    },
+    {
+      "story": "This week's RPG crowdfunding roundup — The One Ring, Curseborne Covenant, Dark Mythos, and more",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'This Week's TTRPG Crowdfunding Roundup: The One Ring, Curseborne Covenant & Dark Mythos Worth Your Pledge' — a backer's guide ranking the campaigns by stretch goals, delivery risk, and table-ready value.",
+        "itsalreadywritten": "'Lore Deep-Dive: The Dark Mythologies Powering Curseborne Covenant and Dark Mythos' — mine the new settings' source myths and horror lineage for writers looking to steal worldbuilding techniques for their own campaigns."
       },
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-one-ring-curseborne-covenant-dark-mythos-and-more.720909/"
-    },
-    {
-      "story": "Vitalik Buterin backs crypto 'bunker mode' as rapid AI advances threaten wallet cryptography",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Vitalik Says Prepare for Bunker Mode — What That Means for Your Holdings Before Q4' — translate the warning into portfolio/migration-timing advice amid the $80K-$90K BTC range debate.",
-        "itsalreadywhen": "'AI Could Crack Crypto Wallets Within Months: Inside the Bunker Mode Scramble' — security-practitioner angle on quantum/AI-accelerated cryptanalysis and why Buterin is also urging against hasty migrations."
-      },
-      "source": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "Dark web/cybercrime sentencing wave: Empire Market co-creator gets 40 years, $101M BTC forfeited; SIM-swap fraudster jailed over gold grills and Dubai trips",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'From Dark Web Kingpin to $101M Forfeiture: What Crypto Seizures Mean for Supply' — connect the forfeiture to the pattern of US government BTC movements (like the $770M to Coinbase Prime) and potential market impact.",
-        "itsalreadywhen": "'SIM-Swap to Jail Cell: How Investigators Traced Stolen Crypto Through Gold Grills and Dubai Flights' — procedural breakdown of the SIM-swap attack chain and the forensic trail that brought both criminals down."
-      },
-      "source": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar"
     }
   ]
 }
