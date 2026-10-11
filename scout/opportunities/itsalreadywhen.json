@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-10T11:08:05+00:00",
+  "generated": "2026-10-11T11:08:08+00:00",
   "opportunities": [
     {
-      "title": "Patch NetScaler Now (Again): The Critical Citrix CVE You Can't Afford to Sleep On",
-      "why_now": "Citrix is urging immediate patching of a new critical NetScaler vulnerability that's already being treated as actively exploitable.",
-      "angle": "Patch-cadence alert post: CVE breakdown, exploitation timeline, and a 'if you run NetScaler, stop reading and patch' lede",
+      "title": "Citrix NetScaler's Latest 'Critical' Is Your Cue: Patch Today or Get Breached Tomorrow",
+      "why_now": "Citrix just dropped another critical NetScaler vuln with active-exploitation potential, and admins have a narrowing patch window before PoCs land.",
+      "angle": "Patch-cadence urgency post: CVE breakdown, exploitability timeline, and a blunt 'patch now' checklist",
       "source": "https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212"
     },
     {
-      "title": "One Prompt to Own the Cloud: How 'AgentCorruption' Breaks AWS AgentCore",
-      "why_now": "Two outlets (Register and Dark Reading) are covering AgentCorruption, a flaw that lets a single crafted prompt exfiltrate AWS credentials from agentic AI deployments.",
-      "angle": "Deep-dive explainer on the exploit chain plus a checklist for securing AI agents with cloud IAM access — flagship 'AI meets breach' piece",
-      "source": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436"
+      "title": "The Ransomware Negotiator Got Arrested — Turns Out the Middleman Was In On It",
+      "why_now": "FBI arresting the founder of a ransomware negotiation firm is the kind of irony that writes its own headline and exposes a trust gap in incident response.",
+      "angle": "Investigative explainer: how 'trusted' negotiators can be complicit, what it means for victim orgs vetting IR vendors",
+      "source": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
     },
     {
-      "title": "Fake Google Certs, Real Trust Collapse: Inside the TLD Hijack That Forged TLS for Tech Giants",
-      "why_now": "Attackers hijacked top-level domains to mint valid-looking security certificates for Google and others, a story SecurityWeek is still tracking as the scope grows.",
-      "angle": "Trust-chain breakdown: how TLD-level compromise cascades into cert fraud, with a timeline and 'what this means for your CA pinning' section",
-      "source": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718"
-    },
-    {
-      "title": "Shai-Hulud Spreads to AI Infrastructure: The Worm That Just Learned to Eat ML Pipelines",
-      "why_now": "The Shai-Hulud worm has compromised Tensorlake, marking its first confirmed jump into AI infrastructure — a new escalation for a known self-propagating threat.",
-      "angle": "Threat-actor tracker update: worm lineage, Tensorlake compromise details, and why AI supply chains are the next worm habitat",
+      "title": "Shai-Hulud Worm Just Learned to Eat AI Infrastructure — Tensorlake Is Patient Zero",
+      "why_now": "A known worm pivoting from traditional targets into AI/ML infra via Tensorlake marks a new, inevitable front in self-propagating malware.",
+      "angle": "Threat-actor deep dive: attack chain walkthrough, why AI infra is the next worm playground, defensive checklist for MLOps teams",
       "source": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054"
     },
     {
-      "title": "Tens of Thousands of Repos, One Poisoned Workflow: The GitHub Actions Credential Heist You Missed",
-      "why_now": "The Hacker News just reported credential-stealing GitHub Actions workflows planted across tens of thousands of repositories, a massive supply-chain compromise still unfolding.",
-      "angle": "Supply-chain breach digest: scope of infected repos, IOC list, and immediate remediation steps for maintainers",
+      "title": "Tens of Thousands of GitHub Repos Just Got Backdoored Through Their Own CI Pipelines",
+      "why_now": "Credential-stealing GitHub Actions workflows planted at massive scale represent a textbook inevitable-breach supply-chain event unfolding right now.",
+      "angle": "Breach-digest breakdown: scale of compromise, how the workflows were injected, and an action list for auditing your own Actions",
       "source": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
+    },
+    {
+      "title": "CISA's Oct 11 Deadline Just Passed — Did Your Agency Patch Flax Typhoon's Five Favorite Flaws in Time?",
+      "why_now": "A hard federal patch deadline tied to active Chinese state-sponsored exploitation just hit, giving a clean before/after news hook.",
+      "angle": "Deadline-reaction post: recap the five CVEs, who complied, who didn't, and lessons for enterprise patch SLAs",
+      "source": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html"
     }
   ]
 }

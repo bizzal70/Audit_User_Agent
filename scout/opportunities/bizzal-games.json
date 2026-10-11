@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-10T11:08:05+00:00",
+  "generated": "2026-10-11T11:08:08+00:00",
   "opportunities": [
     {
-      "title": "Lightsabers Are Just Reskinned Rapiers: The 5e Ruling WotC Won't Give You",
-      "why_now": "WotC just teased more D&D/Star Wars crossover content, so GMs need a clean stat-reskin before the hype outpaces the rules.",
-      "angle": "Rules ruling short: stat block comparison + 'use finesse weapon stats, ignore the glow' verdict",
+      "title": "Dark Sun's Coming Back — Here's the One RAW Ruling for Running Defiling Magic in 5e",
+      "why_now": "Dark Horse just announced Dark Sun graphic novels, reviving interest in Athas's signature defiler/preserver magic system.",
+      "angle": "Rules ruling short: how to adjudicate defiling damage to terrain/allies using existing 5e spell mechanics, no homebrew needed",
+      "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
+    },
+    {
+      "title": "WotC Just Announced More D&D/Star Wars Crossover — Here's the Only Ruling You Need for Lightsabers in 5e",
+      "why_now": "Wizards' fresh crossover announcement means tables will start asking how to reskin Star Wars gear into 5e this week.",
+      "angle": "Spell/weapon use-case: treat lightsaber as a finesse weapon vs. Shocking Grasp cantrip reskin, with exact damage/ruling comparison",
       "source": "https://www.enworld.org/threads/wizards-of-the-coast-announces-more-d-d-star-wars-crossover-plans.720925/"
     },
     {
-      "title": "Disintegrate vs. Actual Antimatter: Why Your 10th-Level Spell Still Loses",
-      "why_now": "EN World's CERN visit piece has tabletop fans talking real-world annihilation physics right as a juicy spell-flavor hook.",
-      "angle": "Spell use-case breakdown: damage math vs real antimatter energy release, played completely deadpan",
+      "title": "They Found Antimatter at CERN — Your Wizard's Disintegrate Spell Already Beat Them To It",
+      "why_now": "EN World's CERN visit piece is a built-in hook to explain Disintegrate's RAW interaction with matter/energy for a laugh and a real ruling.",
+      "angle": "Dry wry spell use-case breakdown: what Disintegrate actually does to a creature's remains per RAW, played completely straight against the CERN news",
       "source": "https://www.enworld.org/threads/we-visited-cern-played-games-and-saw-antimatter.720724/"
     },
     {
-      "title": "Curseborne Covenant Made Me Admit 5e's Curse Rules Are a Joke",
-      "why_now": "The newly funded Curseborne Covenant crowdfunding project is putting curse mechanics in front of a wider RPG audience this week.",
-      "angle": "System comparison ruling: 5e curse spell weaknesses vs a dedicated curse-system, with a DCC patch fix",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-one-ring-curseborne-covenant-dark-mythos-and-more.720909/"
+      "title": "Outward 2's Brutal Survival Trailer Dropped — Shadowdark's Torch Rule Already Solved This",
+      "why_now": "Outward 2's Early Access date announcement is driving survival-RPG chatter, a direct lane into Shadowdark's real-time light resource mechanic.",
+      "angle": "Creature/mechanic tactic short: compare video-game survival stat tracking to Shadowdark's torch-burns-in-real-time rule and why it's tighter design",
+      "source": "https://www.rpgsite.net/news/21546-outward-2-release-date-early-access-steam-gog-epic-pc"
     },
     {
-      "title": "Shadowdark's Light Dice Beat The One Ring's Hope Mechanic — Here's the Math",
-      "why_now": "The One Ring's fresh crowdfunding push has its Hope/Shadow system back in discourse, giving a timely comparison point for Shadowdark's darkness economy.",
-      "angle": "Mechanical comparison short: tension-tracking systems ranked by table friction and GM overhead",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-the-one-ring-curseborne-covenant-dark-mythos-and-more.720909/"
-    },
-    {
-      "title": "Running a Mercenary Company in 5e: The Hireling Rules Nobody Reads",
-      "why_now": "Star Wars Zero Company just crossed 1 million copies selling players on squad-based mercenary play, a hook to revisit DMG hireling rules most tables ignore.",
-      "angle": "Rules ruling: DMG hireling cost/morale table walkthrough with a 'why your party should be running a company' pitch",
+      "title": "Star Wars Zero Company Hit 1 Million Sold — Steal Its Squad Tactics for Your Next 5e Mob Encounter",
+      "why_now": "Zero Company's million-copy milestone is a timely peg to reverse-engineer its squad-tactics design into a 5e swarm/mook action-economy ruling.",
+      "angle": "Creature tactic short: run a 6-mook swarm using legendary-action-style triggers instead of individual turns, with exact DMG math",
       "source": "https://www.rpgsite.net/news/21542-star-wars-zero-company-sales-numbers-1-million-copies"
     }
   ]
