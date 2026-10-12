@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-11T11:08:08+00:00",
+  "generated": "2026-10-12T11:10:32+00:00",
   "opportunities": [
     {
-      "title": "Citrix NetScaler's Latest 'Critical' Is Your Cue: Patch Today or Get Breached Tomorrow",
-      "why_now": "Citrix just dropped another critical NetScaler vuln with active-exploitation potential, and admins have a narrowing patch window before PoCs land.",
-      "angle": "Patch-cadence urgency post: CVE breakdown, exploitability timeline, and a blunt 'patch now' checklist",
-      "source": "https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212"
-    },
-    {
-      "title": "The Ransomware Negotiator Got Arrested — Turns Out the Middleman Was In On It",
-      "why_now": "FBI arresting the founder of a ransomware negotiation firm is the kind of irony that writes its own headline and exposes a trust gap in incident response.",
-      "angle": "Investigative explainer: how 'trusted' negotiators can be complicit, what it means for victim orgs vetting IR vendors",
+      "title": "The Ransomware Negotiator Was the Ransomware Gang: Inside the ShinyHunters Arrest",
+      "why_now": "FBI's arrest of a ransomware-negotiation exec allegedly tied to ShinyHunters is corroborated across Krebs, SecurityWeek, Dark Reading, and Bleeping Computer within 48 hours — a rare inside-the-industry twist.",
+      "angle": "Breach-digest explainer connecting the negotiation-firm arrest to the broader ShinyHunters takedown timeline, with a timeline graphic of all four related arrests",
       "source": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
     },
     {
-      "title": "Shai-Hulud Worm Just Learned to Eat AI Infrastructure — Tensorlake Is Patient Zero",
-      "why_now": "A known worm pivoting from traditional targets into AI/ML infra via Tensorlake marks a new, inevitable front in self-propagating malware.",
-      "angle": "Threat-actor deep dive: attack chain walkthrough, why AI infra is the next worm playground, defensive checklist for MLOps teams",
-      "source": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054"
+      "title": "SonicWall Patched It, Attackers Weaponized It: The New Days-Not-Weeks Exploit Clock",
+      "why_now": "A critical SonicWall flaw went from disclosure to active exploitation in days, underscoring the collapsing patch window admins now face.",
+      "angle": "Patch-cadence breakdown: CVE details, exploitation timeline, and a 'patch now' checklist for SonicWall/NetScaler admins (bundle with the Citrix NetScaler critical patch same week)",
+      "source": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/"
     },
     {
-      "title": "Tens of Thousands of GitHub Repos Just Got Backdoored Through Their Own CI Pipelines",
-      "why_now": "Credential-stealing GitHub Actions workflows planted at massive scale represent a textbook inevitable-breach supply-chain event unfolding right now.",
-      "angle": "Breach-digest breakdown: scale of compromise, how the workflows were injected, and an action list for auditing your own Actions",
+      "title": "Tens of Thousands of Repos Just Got Backdoored Through GitHub Actions — Check Yours",
+      "why_now": "Credential-stealing GitHub Actions workflows were found planted across a massive number of repositories, a supply-chain attack hitting developers directly.",
+      "angle": "Technical breakdown + self-audit guide: how the malicious workflows worked and how to check if your repo was hit",
       "source": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
     },
     {
-      "title": "CISA's Oct 11 Deadline Just Passed — Did Your Agency Patch Flax Typhoon's Five Favorite Flaws in Time?",
-      "why_now": "A hard federal patch deadline tied to active Chinese state-sponsored exploitation just hit, giving a clean before/after news hook.",
-      "angle": "Deadline-reaction post: recap the five CVEs, who complied, who didn't, and lessons for enterprise patch SLAs",
-      "source": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html"
+      "title": "Claude Did the Hacking: AI Agents Are Now Running Live Breach Campaigns",
+      "why_now": "Within one week, Claude-powered tooling was tied to a 628,000-record Ukrainian data theft campaign and attacks on South Korean banks — AI-driven intrusion is no longer theoretical.",
+      "angle": "Trend roundup/digest tying CyberXero's Claude Code campaign and the Korean bank attacks to The Register's 'AI could make hacking crews obsolete' piece — the inevitable-AI-breach thesis in action",
+      "source": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
+    },
+    {
+      "title": "Ask Nicely for the Keys: How a Simple Prompt Broke AWS AgentCore's Security Model",
+      "why_now": "A prompt-injection flaw let attackers simply request credentials from AWS's AI agent platform — a stark illustration of AI-agent security failing at the first hurdle.",
+      "angle": "CVE-style deep dive explaining the exploit mechanics in plain language, framed as a preview of the agentic-AI attack surface to watch in 2026",
+      "source": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436"
     }
   ]
 }

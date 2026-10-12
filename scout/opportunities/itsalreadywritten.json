@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-11T11:08:08+00:00",
+  "generated": "2026-10-12T11:10:32+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun Returns on the Page: What the Dark Horse Graphic Novels Mean for the Setting's Canon",
-      "why_now": "Dark Horse just announced Dark Sun graphic novels, reopening questions about which edition's lore and rules will anchor the setting's revival.",
-      "angle": "Lore/rules explainer comparing 2e Dark Sun mechanics (defiling, psionics) to how a modern adaptation might translate them",
+      "title": "Dark Sun Returns: What Dark Horse's New Graphic Novels Mean for the Setting's Canon",
+      "why_now": "Dark Horse just announced Dark Sun graphic novels, reopening questions about which edition's lore and rules the setting will follow.",
+      "angle": "News breakdown with a rules/canon angle — map announced comics to existing Dark Sun sourcebooks and editions",
       "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
     },
     {
-      "title": "D&D x Star Wars: The Rules Crossover Nobody Asked For (But Here's How It'll Work)",
-      "why_now": "WotC just announced expanded D&D/Star Wars crossover plans, and fans want to know the actual mechanical integration, not just flavor.",
-      "angle": "Rules-first breakdown speculating on subclasses, species rules, and Force-as-psionics implementation based on past crossover products",
+      "title": "D&D x Star Wars: The Crossover Rules We Actually Want to See",
+      "why_now": "WotC just confirmed more D&D/Star Wars crossover plans, inviting speculation on mechanics before anything is published.",
+      "angle": "Rules-speculation piece: predict subclasses, species stat blocks, and setting-compatibility rules based on precedent",
       "source": "https://www.enworld.org/threads/wizards-of-the-coast-announces-more-d-d-star-wars-crossover-plans.720925/"
     },
     {
-      "title": "Unions at the Table: What the Warcraft/Star Wars Podcast Debate Means for TTRPG Freelancers",
-      "why_now": "Podcast #418 is openly discussing unionization alongside major IP news, a rare direct conversation about labor in the hobby press.",
-      "angle": "News analysis piece connecting unionization talk to how TTRPG freelance writers/artists are compensated under licensed-IP contracts",
-      "source": "https://www.enworld.org/threads/podcast-418-livestream-warcraft-star-wars-and-unions.720941/"
+      "title": "Dragon Reflections #106: The Rule Dragon Magazine Got Right Before TSR Did",
+      "why_now": "The latest Dragon Reflections entry is a fresh excuse to mine old Dragon Magazine content for rules history and forgotten mechanics.",
+      "angle": "Retrospective digging into the specific issue's rules content, comparing to modern equivalents",
+      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
     },
     {
-      "title": "We Went to CERN So You Don't Have To: What Antimatter Can (and Can't) Teach Your Sci-Fi Campaign",
-      "why_now": "EN World's CERN visit piece is a rare real-science field report that TTRPG GMs can mine for grounded sci-fi rules inspiration.",
-      "angle": "Fact-check style piece translating real antimatter physics into usable, accurate sci-fi RPG mechanics",
-      "source": "https://www.enworld.org/threads/we-visited-cern-played-games-and-saw-antimatter.720724/"
+      "title": "Three Choices: The Simple Framework That Fixes Every Combat Encounter",
+      "why_now": "Sly Flourish just published a sharp, actionable GM framework that's catnip for rules-first readers looking for crunchy, citable advice.",
+      "angle": "Summarize and codify the framework into a reusable 'house rule' cheat sheet with a direct citation back to the source",
+      "source": "https://slyflourish.com/three_choices.html?rss=1"
     },
     {
-      "title": "Star Wars Zero Company Hits 1 Million Copies — Proof the Rules-Light Tactics Formula Works",
-      "why_now": "The milestone sales number for a Star Wars tactics game lands right as WotC pushes new D&D/Star Wars crossover content, inviting a rules comparison.",
-      "angle": "Analysis of Zero Company's tactical ruleset vs. tabletop Star Wars RPG systems to see what WotC might borrow",
-      "source": "https://www.rpgsite.net/news/21542-star-wars-zero-company-sales-numbers-1-million-copies"
+      "title": "First Watch, By the Book: What the Podcast Gets Right (and Wrong) About the Rule",
+      "why_now": "Tribality's new podcast episode on 'Who's On First Watch' touches a rules question (watch order/initiative-adjacent procedure) ripe for a knowing rules-first rebuttal or confirmation.",
+      "angle": "Reaction piece that fact-checks the podcast's take against the actual written rule text",
+      "source": "https://www.tribality.com/2026/10/11/whos-on-first-watch-podcast/"
     }
   ]
 }

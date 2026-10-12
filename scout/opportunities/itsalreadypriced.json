@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-11T11:08:08+00:00",
+  "generated": "2026-10-12T11:10:32+00:00",
   "opportunities": [
     {
-      "title": "Ledger's $86M Hardware Implant: The Supply Chain Attack Everyone Said Couldn't Happen to Hardware Wallets",
-      "why_now": "Ledger just confirmed an unauthorized hardware implant with losses exceeding $86M, the exact 'cold storage is safe' assumption this channel exists to dismantle.",
-      "angle": "Technical breakdown of the implant vector + a 'how to verify your device wasn't tampered with' checklist, framed as 'we already knew this ends with hardware trust assumptions breaking'",
+      "title": "Ledger's $86M Supply Chain Hack: A Post-Mortem for Anyone Who Still Trusts a Reseller",
+      "why_now": "Ledger just confirmed hardware implants from a Southeast Asian reseller (CryptoBilis) pushed losses past $86M, with CZ now alleging hackers bought the reseller outright.",
+      "angle": "Technical breakdown + timeline of how the implant got from factory to wallet, with a 'how to verify your device' checklist",
       "source": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Coldcard's Own X Account Got Phished — The Day After Ledger's Implant Story",
-      "why_now": "A hardware wallet company's official account posting a phishing link, same week as the Ledger disaster, is a gift for a 'even the security vendors get compromised' thesis.",
-      "angle": "Short sharp X thread: timeline of the phishing post, what it means that the wallet makers can't secure their own distribution channels, call to never trust links from official accounts blindly",
+      "title": "Coldcard's Own X Account Got Phished — If a Hardware Wallet Maker Can Get Owned, So Can You",
+      "why_now": "Coldcard is investigating a phishing link posted from its official X account right as the Ledger supply-chain scandal spreads, showing attackers are hitting the credibility layer of self-custody itself.",
+      "angle": "Short, sharp 'the irony isn't lost on us' post tying official-account compromises to the broader hardware wallet trust crisis",
       "source": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Ledger Reseller Hack Nobody Reads Past the Headline: How 'Southeast Asian Reseller' Becomes Your Attack Surface",
-      "why_now": "Ledger's own disclosure traces losses to a specific reseller, exposing the real vulnerability: the retail supply chain between manufacturer and buyer, not the chip.",
-      "angle": "Explainer/investigative angle on hardware wallet supply chain risk — where to buy, how to verify seals, why 'sealed box' isn't proof of anything anymore",
-      "source": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The XRP Bug That Could Have Minted 18 Trillion Tokens Sat There for a Decade — Nobody Found It, an AI Did",
+      "why_now": "The XRP Ledger just patched a decade-old bug that threatened the 100B supply cap, discovered by AI tooling rather than human auditors, right as CoinDesk digs into why it stayed hidden.",
+      "angle": "Explainer on the bug mechanics + 'what this means that AI red-teaming found what years of audits missed' angle",
+      "source": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
     },
     {
-      "title": "XRP Ledger Had a Decade-Old Bug That Could Print Billions of XRP From Nothing — And Nobody Noticed",
-      "why_now": "A silently patched, decade-old inflation bug in a top-10 chain's core ledger logic is exactly the kind of quiet near-catastrophe this channel's audience wants dissected after the fact.",
-      "angle": "Deep-dive postmortem: what the bug was, why it sat undetected for 10 years, and what it says about audit coverage on 'boring' established chains vs hot new L1s",
-      "source": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing"
+      "title": "Bitcoin Shrugged Off an $86M Hardware Wallet Hack — That's the Scariest Part",
+      "why_now": "BTC consolidated near $82.5K even as Ledger theft reports mounted, showing markets have become numb to security incidents that would once have moved price.",
+      "angle": "Markets-meets-security op-ed: 'priced in' complacency as its own risk signal",
+      "source": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "One Year After the $19B Flash Crash: Liquidity's Back, But Did Anyone Actually Fix Anything?",
-      "why_now": "The one-year anniversary retrospective is a natural hook for the channel's 'for people who already know how this ends' voice — liquidity metrics improved, but the structural fragility didn't.",
-      "angle": "Contrarian retrospective: use CoinDesk's own data (liquidity rebuilt, altcoins still fragile, volatility swings more frequent than 2018) to argue the market priced in recovery, not resilience",
-      "source": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything"
+      "title": "Zcash Is Already Building for Quantum and AI Attackers — Is Your Wallet?",
+      "why_now": "Zcash just detailed plans to shield keys from AI and quantum threats, a forward-looking security move that stands in stark contrast to the week's hardware-implant chaos.",
+      "angle": "Compare-and-contrast piece: legacy hardware wallet failures (Ledger) vs. protocol-level future-proofing (Zcash)",
+      "source": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks"
     }
   ]
 }

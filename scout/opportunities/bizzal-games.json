@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-11T11:08:08+00:00",
+  "generated": "2026-10-12T11:10:32+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun's Coming Back — Here's the One RAW Ruling for Running Defiling Magic in 5e",
-      "why_now": "Dark Horse just announced Dark Sun graphic novels, reviving interest in Athas's signature defiler/preserver magic system.",
-      "angle": "Rules ruling short: how to adjudicate defiling damage to terrain/allies using existing 5e spell mechanics, no homebrew needed",
-      "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
-    },
-    {
-      "title": "WotC Just Announced More D&D/Star Wars Crossover — Here's the Only Ruling You Need for Lightsabers in 5e",
-      "why_now": "Wizards' fresh crossover announcement means tables will start asking how to reskin Star Wars gear into 5e this week.",
-      "angle": "Spell/weapon use-case: treat lightsaber as a finesse weapon vs. Shocking Grasp cantrip reskin, with exact damage/ruling comparison",
+      "title": "Reskinning the Lightsaber: One Ruling That Keeps D&D/Star Wars Crossovers From Breaking 5e",
+      "why_now": "WotC just confirmed more D&D/Star Wars crossover content, so GMs will be fielding lightsaber-reflavor requests this week.",
+      "angle": "60-sec rules ruling: treat it as a reskinned weapon, not a new magic item — lock damage die, ignore 'deflect blaster' fantasy creep, cite the exact DMG reskinning guideline.",
       "source": "https://www.enworld.org/threads/wizards-of-the-coast-announces-more-d-d-star-wars-crossover-plans.720925/"
     },
     {
-      "title": "They Found Antimatter at CERN — Your Wizard's Disintegrate Spell Already Beat Them To It",
-      "why_now": "EN World's CERN visit piece is a built-in hook to explain Disintegrate's RAW interaction with matter/energy for a laugh and a real ruling.",
-      "angle": "Dry wry spell use-case breakdown: what Disintegrate actually does to a creature's remains per RAW, played completely straight against the CERN news",
-      "source": "https://www.enworld.org/threads/we-visited-cern-played-games-and-saw-antimatter.720724/"
+      "title": "Dark Sun Defiling, Done Right: The Spell Tax Your Table Is Probably Skipping",
+      "why_now": "Dark Sun graphic novels just got announced, spiking interest in running the setting, and most groups misremember defiler mechanics.",
+      "angle": "Spell use-case short: show the exact HP/resource cost of defiling a spell and the NPC reaction table, framed as 'if you're not doing this, you're not running Dark Sun.'",
+      "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
     },
     {
-      "title": "Outward 2's Brutal Survival Trailer Dropped — Shadowdark's Torch Rule Already Solved This",
-      "why_now": "Outward 2's Early Access date announcement is driving survival-RPG chatter, a direct lane into Shadowdark's real-time light resource mechanic.",
-      "angle": "Creature/mechanic tactic short: compare video-game survival stat tracking to Shadowdark's torch-burns-in-real-time rule and why it's tighter design",
-      "source": "https://www.rpgsite.net/news/21546-outward-2-release-date-early-access-steam-gog-epic-pc"
+      "title": "The Three-Choice Rule: Why Your Party Freezes at Every Door",
+      "why_now": "Sly Flourish's new 'Three Choices' piece is getting shared in GM circles right now and maps directly onto a daily mechanical tip.",
+      "angle": "Dry GM-technique short — demonstrate the 3-option prompt in a live dungeon scenario (Shadowdark pacing angle) vs. open-ended 'what do you do?' stall.",
+      "source": "https://slyflourish.com/three_choices.html?rss=1"
     },
     {
-      "title": "Star Wars Zero Company Hit 1 Million Sold — Steal Its Squad Tactics for Your Next 5e Mob Encounter",
-      "why_now": "Zero Company's million-copy milestone is a timely peg to reverse-engineer its squad-tactics design into a 5e swarm/mook action-economy ruling.",
-      "angle": "Creature tactic short: run a 6-mook swarm using legendary-action-style triggers instead of individual turns, with exact DMG math",
-      "source": "https://www.rpgsite.net/news/21542-star-wars-zero-company-sales-numbers-1-million-copies"
+      "title": "The Watch Order Ruling That's Quietly Killing Your Party on Night Two",
+      "why_now": "Tribality's new First Watch podcast episode is putting watch-order mechanics back in GM conversation this week.",
+      "angle": "Creature tactic + ruling combo: random encounter roll during 2nd watch, Perception DC by watch order, show how skipping it removes tension from Shadowdark/DCC survival play.",
+      "source": "https://www.tribality.com/2026/10/11/whos-on-first-watch-podcast/"
+    },
+    {
+      "title": "The Dragon Magazine Trap Tactic That Still Wrecks Level 5 Parties",
+      "why_now": "EN World's Dragon Reflections #106 just resurfaced old-school design, giving a ready hook for an 'ancient tactic revived' short.",
+      "angle": "Creature/trap tactic short pulling a specific mechanic referenced in the Dragon Reflections column and converting it cleanly to 5e/DCC stat math.",
+      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
     }
   ]
 }
