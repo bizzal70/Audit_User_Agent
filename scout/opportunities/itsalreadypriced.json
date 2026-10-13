@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-12T11:10:32+00:00",
+  "generated": "2026-10-13T11:09:36+00:00",
   "opportunities": [
     {
-      "title": "Ledger's $86M Supply Chain Hack: A Post-Mortem for Anyone Who Still Trusts a Reseller",
-      "why_now": "Ledger just confirmed hardware implants from a Southeast Asian reseller (CryptoBilis) pushed losses past $86M, with CZ now alleging hackers bought the reseller outright.",
-      "angle": "Technical breakdown + timeline of how the implant got from factory to wallet, with a 'how to verify your device' checklist",
+      "title": "The Ledger 'Spy Chip' Wasn't a Software Bug — It Was a Supply Chain, and CryptoBilis Was the Vector",
+      "why_now": "Ledger confirmed losses may exceed $86M from hardware implants that transmit recovery phrases over LTE, traced to a single reseller — a textbook supply-chain compromise unfolding in real time.",
+      "angle": "Explainer/breakdown: how the implant worked, why 'buy from the source' was always the real rule, and a checklist for verifying hardware wallet provenance before you trust a seed phrase to it.",
       "source": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Coldcard's Own X Account Got Phished — If a Hardware Wallet Maker Can Get Owned, So Can You",
-      "why_now": "Coldcard is investigating a phishing link posted from its official X account right as the Ledger supply-chain scandal spreads, showing attackers are hitting the credibility layer of self-custody itself.",
-      "angle": "Short, sharp 'the irony isn't lost on us' post tying official-account compromises to the broader hardware wallet trust crisis",
+      "title": "Coldcard's X Account Got Phished — If It Can Happen to a Security Vendor, Your DMs Are Not Safe",
+      "why_now": "A phishing link appeared on Coldcard's own official X account mid-Ledger-crisis, showing even security-focused brands aren't immune to account takeover.",
+      "angle": "Hot take/thread: the irony of a hardware security company's social account getting hijacked during the industry's worst week — reminder that 'official account' is not a trust signal, link hygiene is non-negotiable.",
       "source": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The XRP Bug That Could Have Minted 18 Trillion Tokens Sat There for a Decade — Nobody Found It, an AI Did",
-      "why_now": "The XRP Ledger just patched a decade-old bug that threatened the 100B supply cap, discovered by AI tooling rather than human auditors, right as CoinDesk digs into why it stayed hidden.",
-      "angle": "Explainer on the bug mechanics + 'what this means that AI red-teaming found what years of audits missed' angle",
-      "source": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
+      "title": "UK Just Told You Seized Bitcoin Isn't Yours Even If a Court Took It From a Scammer",
+      "why_now": "A High Court ruling strengthens the UK government's claim to keep $5B in seized BTC, setting precedent for how states treat confiscated crypto as a sovereign asset, not victim restitution.",
+      "angle": "Analysis: what this precedent means for anyone relying on 'the state will return it' as a backstop, and how custody risk extends beyond hacks into legal seizure.",
+      "source": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling"
     },
     {
-      "title": "Bitcoin Shrugged Off an $86M Hardware Wallet Hack — That's the Scariest Part",
-      "why_now": "BTC consolidated near $82.5K even as Ledger theft reports mounted, showing markets have become numb to security incidents that would once have moved price.",
-      "angle": "Markets-meets-security op-ed: 'priced in' complacency as its own risk signal",
-      "source": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "France Wants Your Wallet Reported at $112K — Here's Why That Number Was Never the Point",
+      "why_now": "A French proposal to mandate reporting of wallets over $112K is drawing immediate 'leave' backlash from the crypto community, reviving the surveillance-vs-self-custody fight.",
+      "angle": "Opinion piece: why arbitrary reporting thresholds always ratchet down over time, framed as 'you already know how this ends' — use Ledger breach week as proof custodial trust (in hardware or regulators) keeps failing.",
+      "source": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k"
     },
     {
-      "title": "Zcash Is Already Building for Quantum and AI Attackers — Is Your Wallet?",
-      "why_now": "Zcash just detailed plans to shield keys from AI and quantum threats, a forward-looking security move that stands in stark contrast to the week's hardware-implant chaos.",
-      "angle": "Compare-and-contrast piece: legacy hardware wallet failures (Ledger) vs. protocol-level future-proofing (Zcash)",
-      "source": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks"
+      "title": "THEO Down 92% After Base Bridge Exploit — Another Week, Another Bridge That Wasn't Ready",
+      "why_now": "Autheo's THEO token collapsed 92% following a suspected bridge exploit on Base, adding to 2026's running tally of cross-chain bridge failures.",
+      "angle": "Quick-hit incident post: what's known so far, how the exploit likely worked, and a standing reminder that bridges remain the single riskiest primitive in DeFi — pair with a running 'bridge body count' graphic.",
+      "source": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base"
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-12T11:10:32+00:00",
+  "generated": "2026-10-13T11:09:36+00:00",
   "opportunities": [
     {
-      "title": "Dark Sun Returns: What Dark Horse's New Graphic Novels Mean for the Setting's Canon",
-      "why_now": "Dark Horse just announced Dark Sun graphic novels, reopening questions about which edition's lore and rules the setting will follow.",
-      "angle": "News breakdown with a rules/canon angle — map announced comics to existing Dark Sun sourcebooks and editions",
+      "title": "Pathfinder Gets Action Figures: What This Means for the Minis Meta at Your Table",
+      "why_now": "Paizo just announced an official action figure line, a first for the brand's physical merch strategy.",
+      "angle": "News analysis — compare stat-matching scale to minis rules, speculate on whether these replace Pathfinder Battles minis for encounter building",
+      "source": "https://www.enworld.org/threads/pathfinder-action-figure-line-announced.720945/"
+    },
+    {
+      "title": "Dark Sun Goes Graphic Novel: Does Athas Translate Without the Crunch?",
+      "why_now": "Dark Horse just announced Dark Sun graphic novels, reviving a setting defined by brutal survival mechanics.",
+      "angle": "Rules-first take — examine what made Dark Sun's original mechanical identity (scarcity, defiling magic, psionics) and whether a comic format can carry that weight",
       "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
     },
     {
-      "title": "D&D x Star Wars: The Crossover Rules We Actually Want to See",
-      "why_now": "WotC just confirmed more D&D/Star Wars crossover plans, inviting speculation on mechanics before anything is published.",
-      "angle": "Rules-speculation piece: predict subclasses, species stat blocks, and setting-compatibility rules based on precedent",
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-announces-more-d-d-star-wars-crossover-plans.720925/"
-    },
-    {
-      "title": "Dragon Reflections #106: The Rule Dragon Magazine Got Right Before TSR Did",
-      "why_now": "The latest Dragon Reflections entry is a fresh excuse to mine old Dragon Magazine content for rules history and forgotten mechanics.",
-      "angle": "Retrospective digging into the specific issue's rules content, comparing to modern equivalents",
-      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
-    },
-    {
-      "title": "Three Choices: The Simple Framework That Fixes Every Combat Encounter",
-      "why_now": "Sly Flourish just published a sharp, actionable GM framework that's catnip for rules-first readers looking for crunchy, citable advice.",
-      "angle": "Summarize and codify the framework into a reusable 'house rule' cheat sheet with a direct citation back to the source",
+      "title": "Sly Flourish's 'Three Choices' Rule: The Math Behind Better Encounter Design",
+      "why_now": "Sly Flourish just published a fresh breakdown of decision-point design for GMs, ripe for a rules-first dissection.",
+      "angle": "Deep-dive/annotation post — pull apart the actual mechanical logic behind 'three choices' and test it against published adventure design",
       "source": "https://slyflourish.com/three_choices.html?rss=1"
     },
     {
-      "title": "First Watch, By the Book: What the Podcast Gets Right (and Wrong) About the Rule",
-      "why_now": "Tribality's new podcast episode on 'Who's On First Watch' touches a rules question (watch order/initiative-adjacent procedure) ripe for a knowing rules-first rebuttal or confirmation.",
-      "angle": "Reaction piece that fact-checks the podcast's take against the actual written rule text",
+      "title": "Dragon Reflections #106: What the Original Dragon Magazine Got Right About Rules Design",
+      "why_now": "EN World's ongoing Dragon Reflections series just dropped issue #106, a direct line to vintage rules discourse.",
+      "angle": "Historical rules retrospective — pull one mechanic from the issue and show how it evolved (or didn't) into modern systems",
+      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
+    },
+    {
+      "title": "Who's On First Watch? The Rules Question D&D Groups Always Argue About",
+      "why_now": "Tribality's new podcast episode tackles watch order/initiative during rests, a perennial rules-lawyer flashpoint.",
+      "angle": "Rules clarification post — cite the actual RAW on watches/short rests and settle the table debate definitively",
       "source": "https://www.tribality.com/2026/10/11/whos-on-first-watch-podcast/"
     }
   ]

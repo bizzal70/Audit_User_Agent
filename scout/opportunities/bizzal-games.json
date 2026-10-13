@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-12T11:10:32+00:00",
+  "generated": "2026-10-13T11:09:36+00:00",
   "opportunities": [
     {
-      "title": "Reskinning the Lightsaber: One Ruling That Keeps D&D/Star Wars Crossovers From Breaking 5e",
-      "why_now": "WotC just confirmed more D&D/Star Wars crossover content, so GMs will be fielding lightsaber-reflavor requests this week.",
-      "angle": "60-sec rules ruling: treat it as a reskinned weapon, not a new magic item — lock damage die, ignore 'deflect blaster' fantasy creep, cite the exact DMG reskinning guideline.",
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-announces-more-d-d-star-wars-crossover-plans.720925/"
-    },
-    {
-      "title": "Dark Sun Defiling, Done Right: The Spell Tax Your Table Is Probably Skipping",
-      "why_now": "Dark Sun graphic novels just got announced, spiking interest in running the setting, and most groups misremember defiler mechanics.",
-      "angle": "Spell use-case short: show the exact HP/resource cost of defiling a spell and the NPC reaction table, framed as 'if you're not doing this, you're not running Dark Sun.'",
-      "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
-    },
-    {
-      "title": "The Three-Choice Rule: Why Your Party Freezes at Every Door",
-      "why_now": "Sly Flourish's new 'Three Choices' piece is getting shared in GM circles right now and maps directly onto a daily mechanical tip.",
-      "angle": "Dry GM-technique short — demonstrate the 3-option prompt in a live dungeon scenario (Shadowdark pacing angle) vs. open-ended 'what do you do?' stall.",
+      "title": "The 'Three Choices' Rule: Why Your Combat Encounters Keep Stalling",
+      "why_now": "Sly Flourish just published a design breakdown on limiting player decision paralysis that maps directly onto encounter pacing.",
+      "angle": "60-sec GM tip: show a bad 4-option combat turn vs a clean 3-choice turn, with a 5e/Shadowdark example stat block",
       "source": "https://slyflourish.com/three_choices.html?rss=1"
     },
     {
-      "title": "The Watch Order Ruling That's Quietly Killing Your Party on Night Two",
-      "why_now": "Tribality's new First Watch podcast episode is putting watch-order mechanics back in GM conversation this week.",
-      "angle": "Creature tactic + ruling combo: random encounter roll during 2nd watch, Perception DC by watch order, show how skipping it removes tension from Shadowdark/DCC survival play.",
+      "title": "Defiler Magic Isn't in Your PHB — Here's How to Fake It in 5e",
+      "why_now": "Dark Sun graphic novels from Dark Horse are reviving interest in Athas, but most tables have no idea how to run its signature magic.",
+      "angle": "Spell use-case short: homebrew a 'defiling' drawback onto an existing 5e spell (Fireball) with a one-line ruling",
+      "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
+    },
+    {
+      "title": "The Dragon Magazine Monster Everyone Forgot (And Why It Still Works in Shadowdark)",
+      "why_now": "Dragon Reflections #106 is digging up old Dragon Magazine content this week, perfect excuse to raid the archives on camera.",
+      "angle": "Creature tactic short: pull one obscure monster from a classic Dragon issue, give it a Shadowdark stat block and one nasty tactic",
+      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
+    },
+    {
+      "title": "Watch Order Isn't Just Flavor — Here's the Actual Rule You're Skipping",
+      "why_now": "Tribality's 'Who's On First Watch' podcast episode is surfacing a mechanic most tables handwave.",
+      "angle": "Rules ruling short: break down who rolls Perception/Stealth during watches in 5e vs DCC's simpler 'roll or don't' approach",
       "source": "https://www.tribality.com/2026/10/11/whos-on-first-watch-podcast/"
     },
     {
-      "title": "The Dragon Magazine Trap Tactic That Still Wrecks Level 5 Parties",
-      "why_now": "EN World's Dragon Reflections #106 just resurfaced old-school design, giving a ready hook for an 'ancient tactic revived' short.",
-      "angle": "Creature/trap tactic short pulling a specific mechanic referenced in the Dragon Reflections column and converting it cleanly to 5e/DCC stat math.",
-      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
+      "title": "Pathfinder's Getting Action Figures — Here's the Reach/Space Rule Those Minis Will Get Wrong",
+      "why_now": "The newly announced Pathfinder Action Figure line will push more tables toward minis, which means more fumbled reach-and-space rulings.",
+      "angle": "Dry mechanical short: diagram a 10ft reach creature on a grid and show the common 5e mistake with miniature placement",
+      "source": "https://www.enworld.org/threads/pathfinder-action-figure-line-announced.720945/"
     }
   ]
 }

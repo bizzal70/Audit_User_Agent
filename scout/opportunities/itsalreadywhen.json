@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-12T11:10:32+00:00",
+  "generated": "2026-10-13T11:09:36+00:00",
   "opportunities": [
     {
-      "title": "The Ransomware Negotiator Was the Ransomware Gang: Inside the ShinyHunters Arrest",
-      "why_now": "FBI's arrest of a ransomware-negotiation exec allegedly tied to ShinyHunters is corroborated across Krebs, SecurityWeek, Dark Reading, and Bleeping Computer within 48 hours — a rare inside-the-industry twist.",
-      "angle": "Breach-digest explainer connecting the negotiation-firm arrest to the broader ShinyHunters takedown timeline, with a timeline graphic of all four related arrests",
-      "source": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+      "title": "Hackers Set French Supermarket Fridges to 50°C: When IoT Patch Cadence Becomes a Food Safety Crisis",
+      "why_now": "Attackers hijacked Danfoss refrigeration controllers to spoil food across European supermarkets, turning an unpatched OT device into a public health incident.",
+      "angle": "Deep-dive breakdown of the Danfoss exploit chain, why OT/IoT patch cycles lag years behind IT, and what grocery chains should have patched months ago",
+      "source": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"
     },
     {
-      "title": "SonicWall Patched It, Attackers Weaponized It: The New Days-Not-Weeks Exploit Clock",
-      "why_now": "A critical SonicWall flaw went from disclosure to active exploitation in days, underscoring the collapsing patch window admins now face.",
-      "angle": "Patch-cadence breakdown: CVE details, exploitation timeline, and a 'patch now' checklist for SonicWall/NetScaler admins (bundle with the Citrix NetScaler critical patch same week)",
-      "source": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/"
+      "title": "GitLab's CVSS 10.0 Regex RCE: The Patch You Need Before Monday Standup",
+      "why_now": "GitLab just shipped a fix for an unauthenticated remote code execution flaw rated maximum severity, hitting self-hosted instances everywhere.",
+      "angle": "Rapid-patch advisory post with exploit mechanics, affected versions, and a blunt 'patch now' checklist",
+      "source": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
     },
     {
-      "title": "Tens of Thousands of Repos Just Got Backdoored Through GitHub Actions — Check Yours",
-      "why_now": "Credential-stealing GitHub Actions workflows were found planted across a massive number of repositories, a supply-chain attack hitting developers directly.",
-      "angle": "Technical breakdown + self-audit guide: how the malicious workflows worked and how to check if your repo was hit",
-      "source": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
+      "title": "SonicWall Patched It, Attackers Didn't Care: 135 Exploit Attempts Hit the 'Fixed' SMA Flaw",
+      "why_now": "A maximum-severity SSRF in SonicWall SMA 1000 is being actively exploited even after a patch landed, proving patching alone isn't winning the race.",
+      "angle": "Patch-cadence postmortem on why fixed CVEs keep getting hammered, with a timeline of disclosure-to-exploitation",
+      "source": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
     },
     {
-      "title": "Claude Did the Hacking: AI Agents Are Now Running Live Breach Campaigns",
-      "why_now": "Within one week, Claude-powered tooling was tied to a 628,000-record Ukrainian data theft campaign and attacks on South Korean banks — AI-driven intrusion is no longer theoretical.",
-      "angle": "Trend roundup/digest tying CyberXero's Claude Code campaign and the Korean bank attacks to The Register's 'AI could make hacking crews obsolete' piece — the inevitable-AI-breach thesis in action",
-      "source": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
+      "title": "The $86M Ledger Heist Wasn't a Software Bug — It Was a Chip Someone Soldered In",
+      "why_now": "Ledger confirmed a hardware implant in signer devices sold via a third-party retailer caused a massive crypto theft, reviving supply-chain hardware tampering fears.",
+      "angle": "Supply-chain threat actor explainer: how hardware implants bypass every software security control, and what buying 'certified' hardware actually means now",
+      "source": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
     },
     {
-      "title": "Ask Nicely for the Keys: How a Simple Prompt Broke AWS AgentCore's Security Model",
-      "why_now": "A prompt-injection flaw let attackers simply request credentials from AWS's AI agent platform — a stark illustration of AI-agent security failing at the first hurdle.",
-      "angle": "CVE-style deep dive explaining the exploit mechanics in plain language, framed as a preview of the agentic-AI attack surface to watch in 2026",
-      "source": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436"
+      "title": "The Incident Responder Who Became the Suspect: Inside the ShinyHunters FBI-Hack Arrest",
+      "why_now": "A ransomware negotiator/incident response exec was arrested on extortion charges tied to the ShinyHunters FBI hacking probe, a stunning insider-threat twist in the breach-response industry itself.",
+      "angle": "Narrative threat-actor profile on the irony of trusted IR/negotiation insiders turning rogue, with implications for vetting breach-response vendors",
+      "source": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges"
     }
   ]
 }
