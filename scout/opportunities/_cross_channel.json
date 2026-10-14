@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-13T11:09:36+00:00",
+  "generated": "2026-10-14T11:08:41+00:00",
   "plays": [
     {
-      "story": "Ledger confirms hardware implant in third-party-sold devices, with losses exceeding $86M and related phishing incidents hitting Coldcard — a hardware wallet supply-chain breach spanning finance and security beats",
+      "story": "Ledger confirms hardware implant found in CryptoBilis reseller units; MediaMarkt suspends sales in Europe while Trezor cuts resellers as a 'preventative step' amid tampering reports",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Your Cold Wallet Isn't Cold: Inside the $86M Ledger Implant Heist' — frame as a markets/trust story: what the implant means for hardware-wallet confidence, whale behavior, and whether investors should rotate custody solutions now.",
-        "itsalreadywhen": "Title: 'The Spy Chip in Your Ledger: A Supply-Chain Attack Anatomy' — technical breakdown of how the implant transmitted keys over mobile network, tie to Coldcard phishing as a coordinated campaign, and lessons for hardware supply-chain vetting."
+        "itsalreadypriced": "'Your Cold Wallet Was Never Cold': Ledger Confirms Implanted Chips in Resold Hardware Wallets — What Holders Need to Check Right Now",
+        "itsalreadywhen": "Inside the Ledger Supply-Chain Implant: How Attackers Hid Hardware Backdoors in Retail Boxes at MediaMarkt"
       },
-      "source": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m"
+      "source": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442"
     },
     {
-      "story": "AI is simultaneously being sold as a trading advantage (Binance's new AI tool, Tom Lee's $2T wealth-transfer thesis) and warned about as an unstoppable infrastructure-attack enabler — a split-screen AI story crossing finance and security",
+      "story": "Anthropic warns that 'AI worms' could soon autonomously spread across devices like a virus, a claim echoed across Cointelegraph, The Register, and Dark Reading",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Binance Bets Big on AI Trading While Security Experts Sound the Alarm' — cover the 150K-user AI trading rollout and Tom Lee's bull thesis, with a sidebar on why the same AI tools powering alpha could also power the attacks threatening exchange infrastructure.",
-        "itsalreadywhen": "Title: 'Nobody's Ready: AI Can Now Run Infrastructure Attacks End-to-End' — dig into the Register/SecurityWeek warnings about AI-driven attacks on critical systems, using the crypto industry's own AI-trading rush as the cautionary counterpoint of unchecked adoption."
+        "itsalreadypriced": "If AI Worms Go Live, Your Wallet Is the Target: What Anthropic's Warning Means for Self-Custody Crypto Security",
+        "itsalreadywhen": "Anthropic's 'AI Worm' Warning, Decoded: Is Self-Replicating Malware Actually Coming — or Is This Vendor Fear-Mongering?"
       },
-      "source": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450"
+      "source": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "Dark Sun returns via new Dark Horse graphic novels — a classic TTRPG setting getting a narrative-first revival that matters to both game-table use and worldbuilding/writing craft",
+      "story": "Coinbase — which holds 5% of all bitcoin — is pushing to start Bitcoin's post-quantum cryptographic migration now, framing flexible key designs as the top priority",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Coinbase Holds 5% of All Bitcoin — and It Just Told the Industry the Quantum Clock Is Ticking",
+        "itsalreadywhen": "Post-Quantum Migration Isn't Theoretical Anymore: What Coinbase's Bitcoin Key-Rotation Plan Teaches Every Security Team"
+      },
+      "source": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now"
+    },
+    {
+      "story": "Project_Lamordia, a modern survival-horror setting, has launched on D&D Beyond, bringing a fresh take on Gothic horror mechanics to 5E",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'Dark Sun Is Back — Here's How to Loot the New Graphic Novels for Your Table' — practical GM guide pulling monster hooks, factions, and Athasian flavor straight from the comics into your next campaign session.",
-        "itsalreadywritten": "Title: 'What Dark Sun's Comic Revival Teaches About Building a Dying World' — craft-focused piece on how Dark Sun's post-apocalyptic desert setting uses scarcity and environmental horror as narrative engine, useful for any writer building grimdark settings."
+        "bizzal-games": "Project_Lamordia Just Landed on DDB — First Look at D&D's New Modern Survival-Horror Setting",
+        "itsalreadywritten": "How Project_Lamordia Rewrites Ravenloft's Gothic Horror Playbook for Modern Storytellers"
       },
-      "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
-    },
-    {
-      "story": "Sly Flourish's 'Three Choices' framework for GM decision-making is a crossover technique relevant to both running games and writing branching narrative",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Title: 'The Three-Choice Rule: Sly Flourish's Trick for Never Freezing Up Mid-Session' — translate the framework into a quick-reference GM tool for improvising encounters and NPC reactions on the fly.",
-        "itsalreadywritten": "Title: 'Why Giving Readers (or Players) Exactly Three Choices Makes Better Stories' — use the GM technique as a lens on branching narrative design, pacing, and avoiding decision paralysis in interactive fiction."
-      },
-      "source": "https://slyflourish.com/three_choices.html?rss=1"
+      "source": "https://www.enworld.org/threads/project_lamordia-is-now-on-ddb-bringing-modern-survival-horror-to-d-d.720964/"
     }
   ]
 }

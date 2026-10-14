@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-13T11:09:36+00:00",
+  "generated": "2026-10-14T11:08:41+00:00",
   "opportunities": [
     {
-      "title": "Hackers Set French Supermarket Fridges to 50°C: When IoT Patch Cadence Becomes a Food Safety Crisis",
-      "why_now": "Attackers hijacked Danfoss refrigeration controllers to spoil food across European supermarkets, turning an unpatched OT device into a public health incident.",
-      "angle": "Deep-dive breakdown of the Danfoss exploit chain, why OT/IoT patch cycles lag years behind IT, and what grocery chains should have patched months ago",
-      "source": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"
+      "title": "Microsoft Just Shipped 1,413 Patches in One Tuesday — Here's the One Zero-Day You Can't Skip",
+      "why_now": "Record-breaking Patch Tuesday with an actively exploited Windows Shell zero-day buried in the pile demands immediate triage guidance.",
+      "angle": "Patch-cadence breakdown: rank the CVEs by exploitability, flag the already-weaponized zero-day, and give a 'patch this first' priority list for sysadmins",
+      "source": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/"
     },
     {
-      "title": "GitLab's CVSS 10.0 Regex RCE: The Patch You Need Before Monday Standup",
-      "why_now": "GitLab just shipped a fix for an unauthenticated remote code execution flaw rated maximum severity, hitting self-hosted instances everywhere.",
-      "angle": "Rapid-patch advisory post with exploit mechanics, affected versions, and a blunt 'patch now' checklist",
-      "source": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
+      "title": "'Fully Patched' Ivanti VPN Still Got Rooted: Inside the Three-Zero-Day Chain (Two Fixed, One Still Open)",
+      "why_now": "Attackers chained three Ivanti Connect Secure zero-days to get root on boxes admins thought were already secured — and one flaw remains unpatched.",
+      "angle": "Threat-actor deep dive: walk through the exploit chain step by step and issue an urgent mitigation checklist for anyone running Ivanti Connect Secure",
+      "source": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/"
     },
     {
-      "title": "SonicWall Patched It, Attackers Didn't Care: 135 Exploit Attempts Hit the 'Fixed' SMA Flaw",
-      "why_now": "A maximum-severity SSRF in SonicWall SMA 1000 is being actively exploited even after a patch landed, proving patching alone isn't winning the race.",
-      "angle": "Patch-cadence postmortem on why fixed CVEs keep getting hammered, with a timeline of disclosure-to-exploitation",
-      "source": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
+      "title": "Ransomware Gangs Now Know Where You Live: The Shift From Encrypting Files to Stalking Families",
+      "why_now": "Multiple outlets this week confirm ransomware crews are escalating to physical intimidation and family-tracking as extortion leverage.",
+      "angle": "Trend analysis/digest entry: chart the evolution from pure data encryption to 'kinetic' extortion, with a sidebar on what this means for incident-response playbooks",
+      "source": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking"
     },
     {
-      "title": "The $86M Ledger Heist Wasn't a Software Bug — It Was a Chip Someone Soldered In",
-      "why_now": "Ledger confirmed a hardware implant in signer devices sold via a third-party retailer caused a massive crypto theft, reviving supply-chain hardware tampering fears.",
-      "angle": "Supply-chain threat actor explainer: how hardware implants bypass every software security control, and what buying 'certified' hardware actually means now",
-      "source": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+      "title": "The Password Was '123456.' The Breach Hit 8.8 Million Danes. We're Still Doing This in 2026.",
+      "why_now": "A single weak admin password reportedly unraveled a breach affecting nearly 9 million people in Denmark — a perfect inevitable-breach case study.",
+      "angle": "Facepalm breach post-mortem: use it as the anchor for a short 'basic hygiene still fails' digest item with a call-out on credential policy enforcement",
+      "source": "https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/"
     },
     {
-      "title": "The Incident Responder Who Became the Suspect: Inside the ShinyHunters FBI-Hack Arrest",
-      "why_now": "A ransomware negotiator/incident response exec was arrested on extortion charges tied to the ShinyHunters FBI hacking probe, a stunning insider-threat twist in the breach-response industry itself.",
-      "angle": "Narrative threat-actor profile on the irony of trusted IR/negotiation insiders turning rogue, with implications for vetting breach-response vendors",
-      "source": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges"
+      "title": "Hackers Cranked a French Supermarket's Fridges to 50°C — Welcome to OT Ransomware's Next Target",
+      "why_now": "A cyberattack that physically manipulated refrigeration systems shows attackers pivoting from IT to operational tech with real-world consequences.",
+      "angle": "Short punchy digest item framing it as a preview of OT/ICS risk, tying to broader infrastructure-attack warnings circulating this week",
+      "source": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/"
     }
   ]
 }

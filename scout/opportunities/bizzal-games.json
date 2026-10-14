@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-13T11:09:36+00:00",
+  "generated": "2026-10-14T11:08:41+00:00",
   "opportunities": [
     {
-      "title": "The 'Three Choices' Rule: Why Your Combat Encounters Keep Stalling",
-      "why_now": "Sly Flourish just published a design breakdown on limiting player decision paralysis that maps directly onto encounter pacing.",
-      "angle": "60-sec GM tip: show a bad 4-option combat turn vs a clean 3-choice turn, with a 5e/Shadowdark example stat block",
+      "title": "The 'Three Choices' Prep Trick That Fixes Every Railroady Session",
+      "why_now": "Sly Flourish's new piece on three-choice prep is a direct hit for GMs refining session structure right now.",
+      "angle": "60-sec short: break down the three-choices framework into a concrete 5e/Shadowdark prep checklist, end with a ruling on how to adjudicate player deviation mid-scene.",
       "source": "https://slyflourish.com/three_choices.html?rss=1"
     },
     {
-      "title": "Defiler Magic Isn't in Your PHB — Here's How to Fake It in 5e",
-      "why_now": "Dark Sun graphic novels from Dark Horse are reviving interest in Athas, but most tables have no idea how to run its signature magic.",
-      "angle": "Spell use-case short: homebrew a 'defiling' drawback onto an existing 5e spell (Fireball) with a one-line ruling",
-      "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
-    },
-    {
-      "title": "The Dragon Magazine Monster Everyone Forgot (And Why It Still Works in Shadowdark)",
-      "why_now": "Dragon Reflections #106 is digging up old Dragon Magazine content this week, perfect excuse to raid the archives on camera.",
-      "angle": "Creature tactic short: pull one obscure monster from a classic Dragon issue, give it a Shadowdark stat block and one nasty tactic",
-      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
-    },
-    {
-      "title": "Watch Order Isn't Just Flavor — Here's the Actual Rule You're Skipping",
-      "why_now": "Tribality's 'Who's On First Watch' podcast episode is surfacing a mechanic most tables handwave.",
-      "angle": "Rules ruling short: break down who rolls Perception/Stealth during watches in 5e vs DCC's simpler 'roll or don't' approach",
+      "title": "Running First Watch: Who Actually Rolls Perception at Night?",
+      "why_now": "Tribality's new podcast on 'who's on first watch' spotlights a daily rules gap every table hits and ignores.",
+      "angle": "Rules-ruling short: lay out RAW on passive Perception during watches in 5e vs. Shadowdark's simpler light/dark checks, give a table-ready fix.",
       "source": "https://www.tribality.com/2026/10/11/whos-on-first-watch-podcast/"
     },
     {
-      "title": "Pathfinder's Getting Action Figures — Here's the Reach/Space Rule Those Minis Will Get Wrong",
-      "why_now": "The newly announced Pathfinder Action Figure line will push more tables toward minis, which means more fumbled reach-and-space rulings.",
-      "angle": "Dry mechanical short: diagram a 10ft reach creature on a grid and show the common 5e mistake with miniature placement",
-      "source": "https://www.enworld.org/threads/pathfinder-action-figure-line-announced.720945/"
+      "title": "Survival Horror D&D: How Lamordia Breaks Your Short Rest Economy",
+      "why_now": "Project_Lamordia just launched on D&D Beyond, bringing modern survival-horror pacing into 5e content.",
+      "angle": "Mechanical breakdown: show how removing/restricting short rests changes spell-slot math and monster tactics in a horror one-shot, with a concrete HP/resource example.",
+      "source": "https://www.enworld.org/threads/project_lamordia-is-now-on-ddb-bringing-modern-survival-horror-to-d-d.720964/"
+    },
+    {
+      "title": "Dragon Magazine's Forgotten Monster Tactic That Still Wrecks Low-Level Parties",
+      "why_now": "Dragon Reflections #106 just dropped, revisiting classic Dragon Magazine content that's catnip for DCC/OSR nostalgia.",
+      "angle": "Creature tactic short: pull one old-school monster ability from the era covered in issue #106, translate it into a DCC or 5e stat block ambush tactic.",
+      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
+    },
+    {
+      "title": "Pirate Borg's Panic Table Is the Morale Mechanic 5e Is Missing",
+      "why_now": "This week's RPG print roundup highlights Pirate Borg, a system whose panic/morale mechanics OSR-curious 5e GMs keep asking about.",
+      "angle": "Cross-system ruling: demo Pirate Borg's panic check, then show a drop-in houserule version for 5e/Shadowdark monster morale when HP drops below half.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-13T11:09:36+00:00",
+  "generated": "2026-10-14T11:08:41+00:00",
   "opportunities": [
     {
-      "title": "Pathfinder Gets Action Figures: What This Means for the Minis Meta at Your Table",
-      "why_now": "Paizo just announced an official action figure line, a first for the brand's physical merch strategy.",
-      "angle": "News analysis — compare stat-matching scale to minis rules, speculate on whether these replace Pathfinder Battles minis for encounter building",
-      "source": "https://www.enworld.org/threads/pathfinder-action-figure-line-announced.720945/"
+      "title": "Ars Magica, Daggerheart, Scalemail, Pirate Borg: What Actually Changed in Print",
+      "why_now": "A single roundup just dropped covering simultaneous print updates across four distinct rules systems, ripe for a mechanics comparison.",
+      "angle": "Side-by-side breakdown of rules revisions/printings per title, not just a news recap",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
     },
     {
-      "title": "Dark Sun Goes Graphic Novel: Does Athas Translate Without the Crunch?",
-      "why_now": "Dark Horse just announced Dark Sun graphic novels, reviving a setting defined by brutal survival mechanics.",
-      "angle": "Rules-first take — examine what made Dark Sun's original mechanical identity (scarcity, defiling magic, psionics) and whether a comic format can carry that weight",
-      "source": "https://www.enworld.org/threads/dark-sun-graphic-novels-coming-from-dark-horse.720935/"
+      "title": "How Project_Lamordia Reskins 5e's Chassis for Survival Horror",
+      "why_now": "Fresh DDB listing for a survival-horror D&D setting gives a concrete case study in bending existing rules to a new genre.",
+      "angle": "Rules-first teardown: which 5e subsystems get repurposed (exhaustion, resource scarcity, horror checks) and which are untouched",
+      "source": "https://www.enworld.org/threads/project_lamordia-is-now-on-ddb-bringing-modern-survival-horror-to-d-d.720964/"
     },
     {
-      "title": "Sly Flourish's 'Three Choices' Rule: The Math Behind Better Encounter Design",
-      "why_now": "Sly Flourish just published a fresh breakdown of decision-point design for GMs, ripe for a rules-first dissection.",
-      "angle": "Deep-dive/annotation post — pull apart the actual mechanical logic behind 'three choices' and test it against published adventure design",
+      "title": "Three Choices: The Decision Framework Every GM Already Has Access To",
+      "why_now": "Sly Flourish's new post is a prep-framework analysis that's directly in our rules/prep-first lane and timely as a discussion piece.",
+      "angle": "Annotated breakdown of the framework with citations to how it maps onto published adventure structure rules",
       "source": "https://slyflourish.com/three_choices.html?rss=1"
     },
     {
-      "title": "Dragon Reflections #106: What the Original Dragon Magazine Got Right About Rules Design",
-      "why_now": "EN World's ongoing Dragon Reflections series just dropped issue #106, a direct line to vintage rules discourse.",
-      "angle": "Historical rules retrospective — pull one mechanic from the issue and show how it evolved (or didn't) into modern systems",
-      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
+      "title": "Slasher Killer vs. Cyborg: Comparing Two New Solo Gamebook Engines",
+      "why_now": "Two solo adventure gamebooks just launched simultaneously, offering a natural head-to-head on solo-play mechanics design.",
+      "angle": "Mechanics comparison piece: resolution systems, tension trackers, and branching logic between the two titles",
+      "source": "https://www.enworld.org/threads/uncover-a-slasher-horror-killer-or-battle-an-unstoppable-cyborg-in-two-new-solo-adventure-gamebooks.720958/"
     },
     {
-      "title": "Who's On First Watch? The Rules Question D&D Groups Always Argue About",
-      "why_now": "Tribality's new podcast episode tackles watch order/initiative during rests, a perennial rules-lawyer flashpoint.",
-      "angle": "Rules clarification post — cite the actual RAW on watches/short rests and settle the table debate definitively",
-      "source": "https://www.tribality.com/2026/10/11/whos-on-first-watch-podcast/"
+      "title": "Dragon Reflections #106: The Rule That Was Already Written Decades Ago",
+      "why_now": "The latest Dragon Reflections installment is a natural tie-in for our 'rules are already written' tagline via TTRPG history.",
+      "angle": "Pull one specific rule/mechanic from the issue under review and trace its lineage to current editions",
+      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
     }
   ]
 }

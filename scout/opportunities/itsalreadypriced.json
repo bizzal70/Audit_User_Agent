@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-13T11:09:36+00:00",
+  "generated": "2026-10-14T11:08:41+00:00",
   "opportunities": [
     {
-      "title": "The Ledger 'Spy Chip' Wasn't a Software Bug — It Was a Supply Chain, and CryptoBilis Was the Vector",
-      "why_now": "Ledger confirmed losses may exceed $86M from hardware implants that transmit recovery phrases over LTE, traced to a single reseller — a textbook supply-chain compromise unfolding in real time.",
-      "angle": "Explainer/breakdown: how the implant worked, why 'buy from the source' was always the real rule, and a checklist for verifying hardware wallet provenance before you trust a seed phrase to it.",
-      "source": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The Hardware Wallet Supply Chain Is the New Attack Surface — and 'Buy From Us Directly' Isn't a Fix",
+      "why_now": "Ledger confirmed a physical LTE implant in reseller units that drained an estimated $86M, and Trezor is now cutting resellers in Asia as a 'preventative' measure — the industry is admitting the box itself can't be trusted.",
+      "angle": "Security explainer: walk through how the implant worked, why tamper-evident packaging failed, and give readers a concrete verification checklist (open-box photos, seal checks, direct-from-manufacturer only) — end on 'this was always the weak link, you just didn't want to believe it.'",
+      "source": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain"
     },
     {
-      "title": "Coldcard's X Account Got Phished — If It Can Happen to a Security Vendor, Your DMs Are Not Safe",
-      "why_now": "A phishing link appeared on Coldcard's own official X account mid-Ledger-crisis, showing even security-focused brands aren't immune to account takeover.",
-      "angle": "Hot take/thread: the irony of a hardware security company's social account getting hijacked during the industry's worst week — reminder that 'official account' is not a trust signal, link hygiene is non-negotiable.",
-      "source": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Anthropic Just Said the Quiet Part: Self-Spreading AI Malware Is Coming for Wallets Next",
+      "why_now": "Anthropic's warning about autonomous 'AI worms' lands days after a hardware implant drained $86M in seed phrases — the next version of that attack won't need a physical box.",
+      "angle": "Forward-looking threat piece: map the AI-worm warning onto crypto-specific attack vectors (auto-draining smart contracts, self-propagating clipboard hijackers, AI-authored phishing kits) — framed as 'priced in' inevitability, not hypothetical.",
+      "source": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "UK Just Told You Seized Bitcoin Isn't Yours Even If a Court Took It From a Scammer",
-      "why_now": "A High Court ruling strengthens the UK government's claim to keep $5B in seized BTC, setting precedent for how states treat confiscated crypto as a sovereign asset, not victim restitution.",
-      "angle": "Analysis: what this precedent means for anyone relying on 'the state will return it' as a backstop, and how custody risk extends beyond hacks into legal seizure.",
-      "source": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling"
+      "title": "Coinbase Wants to 'Start the Quantum Fix Now' — Translation: Your Bitcoin's Security Model Has an Expiration Date",
+      "why_now": "Coinbase, holder of 5% of all BTC, is publicly pushing for post-quantum migration design work to begin immediately, a rare admission from an incumbent that current cryptography has a shelf life.",
+      "angle": "Skeptical breakdown: separate real cryptographic risk timeline from marketing urgency, explain what 'flexible designs' actually means technically, and tell readers what (if anything) they should do with cold storage today vs. in 5 years.",
+      "source": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now"
     },
     {
-      "title": "France Wants Your Wallet Reported at $112K — Here's Why That Number Was Never the Point",
-      "why_now": "A French proposal to mandate reporting of wallets over $112K is drawing immediate 'leave' backlash from the crypto community, reviving the surveillance-vs-self-custody fight.",
-      "angle": "Opinion piece: why arbitrary reporting thresholds always ratchet down over time, framed as 'you already know how this ends' — use Ledger breach week as proof custodial trust (in hardware or regulators) keeps failing.",
-      "source": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k"
+      "title": "A UK Court Just Ruled Chinese Law Decides Who Owns $5B in Seized Bitcoin — Your Jurisdiction Was Never Yours",
+      "why_now": "The UK High Court's ruling that Chinese law governs claims over $5B in seized BTC is a landmark custody/jurisdiction precedent that most holders haven't priced into their risk model.",
+      "angle": "Legal-risk explainer for self-custody and exchange users: what this ruling implies for asset recovery, cross-border seizure exposure, and why 'not your keys, not your coins' doesn't save you from state-level jurisdictional claims.",
+      "source": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409"
     },
     {
-      "title": "THEO Down 92% After Base Bridge Exploit — Another Week, Another Bridge That Wasn't Ready",
-      "why_now": "Autheo's THEO token collapsed 92% following a suspected bridge exploit on Base, adding to 2026's running tally of cross-chain bridge failures.",
-      "angle": "Quick-hit incident post: what's known so far, how the exploit likely worked, and a standing reminder that bridges remain the single riskiest primitive in DeFi — pair with a running 'bridge body count' graphic.",
-      "source": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base"
+      "title": "Chainalysis Just Won Its Blockchain Forensics Credibility Fight in Court — Again. Here's Why That Matters More Than the Hack Headlines",
+      "why_now": "Chainalysis Reactor surviving a Daubert challenge on appeal cements onchain tracing as admissible, courtroom-grade evidence — quietly more consequential than any single hack story this week.",
+      "angle": "'Already priced' framing: explain that privacy-via-obscurity on public chains is now legally dead weight, tie it to mixers/privacy coins' declining utility as a shield, and tell readers what actually still works for operational privacy.",
+      "source": "https://www.chainalysis.com/blog/chainalysis-daubert-standard-appeal/"
     }
   ]
 }
