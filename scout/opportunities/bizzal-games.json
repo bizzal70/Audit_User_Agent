@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-14T11:08:41+00:00",
+  "generated": "2026-10-15T11:07:51+00:00",
   "opportunities": [
     {
-      "title": "The 'Three Choices' Prep Trick That Fixes Every Railroady Session",
-      "why_now": "Sly Flourish's new piece on three-choice prep is a direct hit for GMs refining session structure right now.",
-      "angle": "60-sec short: break down the three-choices framework into a concrete 5e/Shadowdark prep checklist, end with a ruling on how to adjudicate player deviation mid-scene.",
-      "source": "https://slyflourish.com/three_choices.html?rss=1"
-    },
-    {
-      "title": "Running First Watch: Who Actually Rolls Perception at Night?",
-      "why_now": "Tribality's new podcast on 'who's on first watch' spotlights a daily rules gap every table hits and ignores.",
-      "angle": "Rules-ruling short: lay out RAW on passive Perception during watches in 5e vs. Shadowdark's simpler light/dark checks, give a table-ready fix.",
-      "source": "https://www.tribality.com/2026/10/11/whos-on-first-watch-podcast/"
-    },
-    {
-      "title": "Survival Horror D&D: How Lamordia Breaks Your Short Rest Economy",
-      "why_now": "Project_Lamordia just launched on D&D Beyond, bringing modern survival-horror pacing into 5e content.",
-      "angle": "Mechanical breakdown: show how removing/restricting short rests changes spell-slot math and monster tactics in a horror one-shot, with a concrete HP/resource example.",
+      "title": "Sanity Checks vs. Wisdom Saves: Why Project_Lamordia's Fear Mechanic Breaks 5e's Math (And the One-Line Fix)",
+      "why_now": "Project_Lamordia just dropped on D&D Beyond, bringing a new fear/sanity subsystem into the official 5e ecosystem for the first time this week.",
+      "angle": "60-second rules teardown: show the RAW interaction, flag the exploit, give the house-rule fix a GM can use tonight.",
       "source": "https://www.enworld.org/threads/project_lamordia-is-now-on-ddb-bringing-modern-survival-horror-to-d-d.720964/"
     },
     {
-      "title": "Dragon Magazine's Forgotten Monster Tactic That Still Wrecks Low-Level Parties",
-      "why_now": "Dragon Reflections #106 just dropped, revisiting classic Dragon Magazine content that's catnip for DCC/OSR nostalgia.",
-      "angle": "Creature tactic short: pull one old-school monster ability from the era covered in issue #106, translate it into a DCC or 5e stat block ambush tactic.",
-      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
+      "title": "Steal This: Pirate Borg's One-Roll Drowning Rule Is Better Than 5e's",
+      "why_now": "Pirate Borg got fresh ink in this week's RPG Print News roundup, giving an easy hook into an OSR mechanic DCC/Shadowdark fans will recognize.",
+      "angle": "Side-by-side rules comparison short — 5e's clunky suffocation rules vs. Pirate Borg's single-roll drowning table, framed as 'why your nautical encounters are boring.'",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
     },
     {
-      "title": "Pirate Borg's Panic Table Is the Morale Mechanic 5e Is Missing",
-      "why_now": "This week's RPG print roundup highlights Pirate Borg, a system whose panic/morale mechanics OSR-curious 5e GMs keep asking about.",
-      "angle": "Cross-system ruling: demo Pirate Borg's panic check, then show a drop-in houserule version for 5e/Shadowdark monster morale when HP drops below half.",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
+      "title": "Running a Vampire Spawn PC Without Breaking Your Campaign's Economy (Astarion's Lesson for GMs)",
+      "why_now": "The fresh Astarion retrospective is driving BG3-to-tabletop crossover searches right now, a reliable traffic bridge for 5e content.",
+      "angle": "Creature-tactic short: stat out the vampire spawn drawbacks (sunlight, blood dependency) as actual table rulings, not just flavor.",
+      "source": "https://www.enworld.org/threads/baldurs-gate-3-astarion-a-review.720967/"
+    },
+    {
+      "title": "How to Run an 'Unstoppable' Cyborg Boss Without TPKing Your Table",
+      "why_now": "New solo gamebooks pitting players against an unkillable cyborg just launched, handing a ready-made monster-design problem to riff on.",
+      "angle": "GM tactic breakdown: the three legality tricks (regeneration clocks, telegraphed attacks, escalating DCs) that make a 'you can't win' monster fair in 5e/DCC.",
+      "source": "https://www.enworld.org/threads/uncover-a-slasher-horror-killer-or-battle-an-unstoppable-cyborg-in-two-new-solo-adventure-gamebooks.720958/"
+    },
+    {
+      "title": "13 OMENS' Horror-Investigation Engine Has a Clue Economy 5e GMs Should Be Stealing",
+      "why_now": "Paizo's 13 OMENS just went live on Kickstarter, giving a timely excuse to dissect its investigation structure for crossover value.",
+      "angle": "Mechanical use-case short: translate its clue-gating pacing into a 5e/Shadowdark mystery-running checklist, pitched dry and practical.",
+      "source": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/"
     }
   ]
 }

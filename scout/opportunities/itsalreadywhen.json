@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-14T11:08:41+00:00",
+  "generated": "2026-10-15T11:07:51+00:00",
   "opportunities": [
     {
-      "title": "Microsoft Just Shipped 1,413 Patches in One Tuesday — Here's the One Zero-Day You Can't Skip",
-      "why_now": "Record-breaking Patch Tuesday with an actively exploited Windows Shell zero-day buried in the pile demands immediate triage guidance.",
-      "angle": "Patch-cadence breakdown: rank the CVEs by exploitability, flag the already-weaponized zero-day, and give a 'patch this first' priority list for sysadmins",
-      "source": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/"
+      "title": "The Zero-Day Buffet: Cisco, Palo Alto, and Ivanti All Got Popped the Same Week — Patch Now or Explain Why Not",
+      "why_now": "Three major edge-security vendors (Cisco Secure Email, Palo Alto PAN-OS, Ivanti Connect Secure) all disclosed actively-exploited zero-days within 48 hours of each other.",
+      "angle": "Rapid-fire breach digest comparing CVEs, exploitation status, and patch windows side-by-side with a 'if you run one of these, stop reading and patch' lede",
+      "source": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168"
     },
     {
-      "title": "'Fully Patched' Ivanti VPN Still Got Rooted: Inside the Three-Zero-Day Chain (Two Fixed, One Still Open)",
-      "why_now": "Attackers chained three Ivanti Connect Secure zero-days to get root on boxes admins thought were already secured — and one flaw remains unpatched.",
-      "angle": "Threat-actor deep dive: walk through the exploit chain step by step and issue an urgent mitigation checklist for anyone running Ivanti Connect Secure",
-      "source": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/"
+      "title": "1,400+ Bugs in One Patch Tuesday: Microsoft's October Dump Is So Big It's Hiding Its Own Zero-Days",
+      "why_now": "Krebs confirms the raw count (1,400+ flaws) while Dark Reading separately flags zero-days buried in the same release, making this the biggest/messiest Patch Tuesday of the year.",
+      "angle": "Explainer on patch-cadence fatigue — why bigger dumps mean slower triage and more missed zero-days, with a practical 'patch this first' checklist",
+      "source": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
     },
     {
-      "title": "Ransomware Gangs Now Know Where You Live: The Shift From Encrypting Files to Stalking Families",
-      "why_now": "Multiple outlets this week confirm ransomware crews are escalating to physical intimidation and family-tracking as extortion leverage.",
-      "angle": "Trend analysis/digest entry: chart the evolution from pure data encryption to 'kinetic' extortion, with a sidebar on what this means for incident-response playbooks",
-      "source": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking"
+      "title": "Ransomware Crews Now Doxx Your Kids: Inside the 'We-Know-Where-You-Are' Extortion Playbook",
+      "why_now": "Dark Reading and The Register both report ransomware gangs pivoting to physical threats and family stalking as a new extortion lever — a genuine escalation in tactics worth flagging to IR teams.",
+      "angle": "Threat-actor deep dive on the shift from data-leak sites to real-world intimidation, with advice for exec-protection and incident response teams",
+      "source": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939"
     },
     {
-      "title": "The Password Was '123456.' The Breach Hit 8.8 Million Danes. We're Still Doing This in 2026.",
-      "why_now": "A single weak admin password reportedly unraveled a breach affecting nearly 9 million people in Denmark — a perfect inevitable-breach case study.",
-      "angle": "Facepalm breach post-mortem: use it as the anchor for a short 'basic hygiene still fails' digest item with a call-out on credential policy enforcement",
-      "source": "https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/"
+      "title": "Hackers Turned French Supermarket Fridges Into 50°C Ovens — Welcome to OT Breach Season",
+      "why_now": "A live cyberattack physically manipulated refrigeration firmware across EU grocers, a rare case of IT breach causing real-world spoilage/safety consequences, covered by three outlets in one day.",
+      "angle": "Inevitable-breach digest piece connecting unpatched IoT/ICS firmware to tangible physical damage, with a call-out to Siemens/Rockwell's same-week ICS Patch Tuesday advisories",
+      "source": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784"
     },
     {
-      "title": "Hackers Cranked a French Supermarket's Fridges to 50°C — Welcome to OT Ransomware's Next Target",
-      "why_now": "A cyberattack that physically manipulated refrigeration systems shows attackers pivoting from IT to operational tech with real-world consequences.",
-      "angle": "Short punchy digest item framing it as a preview of OT/ICS risk, tying to broader infrastructure-attack warnings circulating this week",
-      "source": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/"
+      "title": "GhostAction Just Hijacked 1,900 GitHub Accounts to Poison 30,000 Repos — Check Your Dependencies Now",
+      "why_now": "A fresh large-scale supply-chain compromise hitting GitHub accounts/repos is exactly the kind of under-the-radar breach that explodes into downstream incidents weeks later.",
+      "angle": "Breaking-style breach brief with IOCs, affected-repo guidance, and a reminder that supply-chain attacks are the quiet inevitability beneath every 'surprise' breach",
+      "source": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-14T11:08:41+00:00",
+  "generated": "2026-10-15T11:07:51+00:00",
   "opportunities": [
     {
-      "title": "Ars Magica, Daggerheart, Scalemail, Pirate Borg: What Actually Changed in Print",
-      "why_now": "A single roundup just dropped covering simultaneous print updates across four distinct rules systems, ripe for a mechanics comparison.",
-      "angle": "Side-by-side breakdown of rules revisions/printings per title, not just a news recap",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
+      "title": "WotC Says No to the Union — What the Refusal Actually Means Under Labor Law",
+      "why_now": "WotC's formal non-recognition of the new union is breaking today and reporters are already speculating — the actual legal mechanics (NLRB election vs. voluntary recognition) are being glossed over.",
+      "angle": "Explainer breaking down what 'declines to recognize' means procedurally, what options the union has next (NLRB petition), and precedent from other game-industry unionization attempts",
+      "source": "https://www.enworld.org/threads/wotc-declines-to-recognise-new-union.720972/"
     },
     {
-      "title": "How Project_Lamordia Reskins 5e's Chassis for Survival Horror",
-      "why_now": "Fresh DDB listing for a survival-horror D&D setting gives a concrete case study in bending existing rules to a new genre.",
-      "angle": "Rules-first teardown: which 5e subsystems get repurposed (exhaustion, resource scarcity, horror checks) and which are untouched",
+      "title": "13 OMENS Is Live: The Paizo Horror Rules You Need to Read Before You Back It",
+      "why_now": "Kickstarter just launched, meaning backers are deciding right now whether to commit money before fully understanding the system changes from standard Pathfinder/Starfinder horror subsystems.",
+      "angle": "Rules-first breakdown of 13 OMENS' core horror mechanics (sanity/omen tracking, GM tools) pulled straight from the campaign page, written as a 'should you back it' rules audit",
+      "source": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/"
+    },
+    {
+      "title": "Project_Lamordia on D&D Beyond: What Actually Changes When Survival Horror Hits 5E Rules-as-Written",
+      "why_now": "The content just dropped live on DDB, giving a concrete, playable ruleset to dissect immediately rather than speculate about.",
+      "angle": "Mechanical teardown comparing Lamordia's survival-horror subsystems (resource scarcity, fear/stress mechanics) against core 5E chassis — what's reskinned vs. genuinely new rules",
       "source": "https://www.enworld.org/threads/project_lamordia-is-now-on-ddb-bringing-modern-survival-horror-to-d-d.720964/"
     },
     {
-      "title": "Three Choices: The Decision Framework Every GM Already Has Access To",
-      "why_now": "Sly Flourish's new post is a prep-framework analysis that's directly in our rules/prep-first lane and timely as a discussion piece.",
-      "angle": "Annotated breakdown of the framework with citations to how it maps onto published adventure structure rules",
-      "source": "https://slyflourish.com/three_choices.html?rss=1"
+      "title": "This Week in Print: Ars Magica, Daggerheart, Scalemail & Pirate Borg — The Rules Changes Hiding in the Roundup",
+      "why_now": "A single roundup post bundles multiple system updates/releases that deserve individual rules attention before they scroll past readers.",
+      "angle": "Serialized 'rules digest' format — one short, fact-dense paragraph per title extracting the actual mechanical changes/new content, not just announcement summaries",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
     },
     {
-      "title": "Slasher Killer vs. Cyborg: Comparing Two New Solo Gamebook Engines",
-      "why_now": "Two solo adventure gamebooks just launched simultaneously, offering a natural head-to-head on solo-play mechanics design.",
-      "angle": "Mechanics comparison piece: resolution systems, tension trackers, and branching logic between the two titles",
+      "title": "Solo Gamebooks Are Back: The Mechanics Behind Playing a Slasher Killer or a Cyborg Alone",
+      "why_now": "Two new solo adventure gamebooks just launched, and solo-play rules design is a perennially underexplained niche worth demystifying now.",
+      "angle": "Mechanics-focused look at how each gamebook handles solo resolution (dice-based branching, stat tracking) — framed as 'how do these rules actually work' rather than a review",
       "source": "https://www.enworld.org/threads/uncover-a-slasher-horror-killer-or-battle-an-unstoppable-cyborg-in-two-new-solo-adventure-gamebooks.720958/"
-    },
-    {
-      "title": "Dragon Reflections #106: The Rule That Was Already Written Decades Ago",
-      "why_now": "The latest Dragon Reflections installment is a natural tie-in for our 'rules are already written' tagline via TTRPG history.",
-      "angle": "Pull one specific rule/mechanic from the issue under review and trace its lineage to current editions",
-      "source": "https://www.enworld.org/threads/dragon-reflections-106.720183/"
     }
   ]
 }
