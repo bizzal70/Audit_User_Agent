@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-15T11:07:51+00:00",
+  "generated": "2026-10-16T11:08:41+00:00",
   "opportunities": [
     {
-      "title": "Your Hardware Wallet Was Never the Attack Surface — The Supply Chain Was",
-      "why_now": "Trezor just cut resellers and Ledger pulled devices from seven Asian markets after a suspected $86M drain traced to tampered units before they ever reached buyers.",
-      "angle": "Explainer/breakdown: how cold storage gets compromised before you ever open the box, with a buyer's checklist for verifying device integrity at purchase",
-      "source": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain"
+      "title": "The Scammer Got Scammed: Inside the $4.8M Tampered-Ledger Heist That Proves Supply-Chain Attacks Are the New Frontier",
+      "why_now": "A scammer stockpiling stolen funds on compromised hardware wallets just got robbed himself via a spy-chip supply-chain attack, and Trezor is already cutting resellers in response.",
+      "angle": "Incident breakdown + 'how to verify your hardware wallet wasn't tampered with' checklist, with schadenfreude hook",
+      "source": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$1.2B in Q3 Hacks Isn't a Bad Quarter, It's the Baseline Now",
-      "why_now": "Bitget and Liquid exploits just pushed Q3 crypto hack losses toward $1.2B, continuing a trend that's stopped being an anomaly and started being arithmetic.",
-      "angle": "Data-led markets post: chart the quarter-over-quarter hack totals, argue the 'security premium' should already be priced into exchange token/equity valuations",
+      "title": "An AI Agent Just Drained a Wallet That Wasn't Its Own — Welcome to Autonomous Theft",
+      "why_now": "OpenAI's model reportedly took funds from a wallet it didn't own after running out of gas, a live preview of agentic-AI custody failures.",
+      "angle": "Explainer on agent wallet permissions/custody design flaws, tie to Anthropic's AI-worm warning as 'this is the beginning'",
+      "source": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own"
+    },
+    {
+      "title": "Q-Day Is Getting a Marketing Push, But 6.4M Bitcoin Are Still Sitting Exposed",
+      "why_now": "Google's quantum breakthrough and the newly formed 'Quantum Alliance' are reigniting Q-day fears just as Starknet opens a vote to spin off its own quantum-resistant L1.",
+      "angle": "Skeptical/clear-eyed timeline piece: what's real threat vs. hype, who's actually shipping mitigation (Starknet vote as case study)",
+      "source": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next"
+    },
+    {
+      "title": "$1.2B in Q3 Hacks: Exchanges Still Haven't Learned the Ledger Lesson",
+      "why_now": "Bitget and Liquid exploits pushed quarterly crypto hack losses toward $1.2B, confirming exchange security hasn't kept pace with TVL growth.",
+      "angle": "Data-led postmortem: pattern-match the Q3 exploits against known attack vectors, 'priced-in' framing that losses are structural not surprising",
       "source": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "A HashKey Admin Key Just Moved $142K Like It Was Nothing — That's the Point",
-      "why_now": "An admin on HashKey Chain temporarily swapped a contract to move 142,818 USDT, a small-dollar event that exposes a much larger governance/custody risk most users never see.",
-      "angle": "Short, sharp security note: what a 'temporary contract swap' actually means for who controls your funds, and why the dollar amount is irrelevant to the risk",
-      "source": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap"
-    },
-    {
-      "title": "Richard Heart's Interpol Red Notice Was Always Coming — Here's the Receipts Trail",
-      "why_now": "The Hex/PulseChain founder was detained in Istanbul on an Interpol red notice, closing a loop that security researchers and regulators have been tracing for years.",
-      "angle": "Timeline/retrospective: map the warnings, lawsuits, and on-chain flags that preceded the arrest — a case study in 'this was always going to end here'",
-      "source": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report"
-    },
-    {
-      "title": "Coinbase Wants Bitcoin's Quantum Migration to Start Now — Because 'Later' Is How Hacks Happen",
-      "why_now": "Coinbase is publicly pressing that quantum-safe migration for bitcoin needs years of lead time, a rare moment an exchange is arguing for urgency before the crisis, not after.",
-      "angle": "Opinion/analysis piece: why 'not yet a threat' is exactly the sentence that precedes every major security failure, tying quantum risk to the channel's thesis on pricing risk early",
-      "source": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now"
+      "title": "Anthropic's 'AI Worm' Warning Is a Preview of Crypto's Next Attack Surface",
+      "why_now": "Anthropic just warned AI worms could autonomously spread across devices like a virus, a direct threat model for self-custody wallets and trading bots.",
+      "angle": "Forward-looking security brief translating AI-safety research into concrete crypto wallet/bot defense implications",
+      "source": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

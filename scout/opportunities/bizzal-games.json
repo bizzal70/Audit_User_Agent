@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-15T11:07:51+00:00",
+  "generated": "2026-10-16T11:08:41+00:00",
   "opportunities": [
     {
-      "title": "Sanity Checks vs. Wisdom Saves: Why Project_Lamordia's Fear Mechanic Breaks 5e's Math (And the One-Line Fix)",
-      "why_now": "Project_Lamordia just dropped on D&D Beyond, bringing a new fear/sanity subsystem into the official 5e ecosystem for the first time this week.",
-      "angle": "60-second rules teardown: show the RAW interaction, flag the exploit, give the house-rule fix a GM can use tonight.",
-      "source": "https://www.enworld.org/threads/project_lamordia-is-now-on-ddb-bringing-modern-survival-horror-to-d-d.720964/"
-    },
-    {
-      "title": "Steal This: Pirate Borg's One-Roll Drowning Rule Is Better Than 5e's",
-      "why_now": "Pirate Borg got fresh ink in this week's RPG Print News roundup, giving an easy hook into an OSR mechanic DCC/Shadowdark fans will recognize.",
-      "angle": "Side-by-side rules comparison short — 5e's clunky suffocation rules vs. Pirate Borg's single-roll drowning table, framed as 'why your nautical encounters are boring.'",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
-    },
-    {
-      "title": "Running a Vampire Spawn PC Without Breaking Your Campaign's Economy (Astarion's Lesson for GMs)",
-      "why_now": "The fresh Astarion retrospective is driving BG3-to-tabletop crossover searches right now, a reliable traffic bridge for 5e content.",
-      "angle": "Creature-tactic short: stat out the vampire spawn drawbacks (sunlight, blood dependency) as actual table rulings, not just flavor.",
+      "title": "Astarion's Bite Action Economy: Running a Vampire Spawn That Actually Threatens a Party",
+      "why_now": "The BG3 Astarion review has vampire mechanics trending again, giving a built-in hook for a 5e creature-tactics breakdown.",
+      "angle": "60-sec creature tactic: grapple+bite combo, legendary resistance math, when to swap to Charm over violence",
       "source": "https://www.enworld.org/threads/baldurs-gate-3-astarion-a-review.720967/"
     },
     {
-      "title": "How to Run an 'Unstoppable' Cyborg Boss Without TPKing Your Table",
-      "why_now": "New solo gamebooks pitting players against an unkillable cyborg just launched, handing a ready-made monster-design problem to riff on.",
-      "angle": "GM tactic breakdown: the three legality tricks (regeneration clocks, telegraphed attacks, escalating DCs) that make a 'you can't win' monster fair in 5e/DCC.",
+      "title": "Project_Lamordia Just Added Sanity Rules to DDB — Here's the Ruling You Actually Need",
+      "why_now": "Project_Lamordia's survival-horror content just went live on D&D Beyond, so GMs are searching for how to adjudicate fear/sanity in 5e right now.",
+      "angle": "Rules ruling: how to run a Fear save without a splatbook, using existing frightened condition + homebrew sanity track",
+      "source": "https://www.enworld.org/threads/project_lamordia-is-now-on-ddb-bringing-modern-survival-horror-to-d-d.720964/"
+    },
+    {
+      "title": "Running an Unkillable Slasher Villain: The Construct/Undead Resistance Trick Your Table Will Hate",
+      "why_now": "New solo gamebooks dropping this week center on an unstoppable cyborg/slasher killer, a perfect excuse to teach the 'can't be killed, only delayed' encounter design.",
+      "angle": "Creature tactic: damage threshold + regeneration ruling for a recurring horror antagonist in 5e/DCC",
       "source": "https://www.enworld.org/threads/uncover-a-slasher-horror-killer-or-battle-an-unstoppable-cyborg-in-two-new-solo-adventure-gamebooks.720958/"
     },
     {
-      "title": "13 OMENS' Horror-Investigation Engine Has a Clue Economy 5e GMs Should Be Stealing",
-      "why_now": "Paizo's 13 OMENS just went live on Kickstarter, giving a timely excuse to dissect its investigation structure for crossover value.",
-      "angle": "Mechanical use-case short: translate its clue-gating pacing into a 5e/Shadowdark mystery-running checklist, pitched dry and practical.",
+      "title": "Pirate Borg's Morale Checks Would Fix Your 5e Mook Fights — Here's the Ruling",
+      "why_now": "Pirate Borg is getting fresh print coverage, and its morale mechanic is the exact gap 5e GMs keep homebrewing badly.",
+      "angle": "Cross-system ruling: porting a simple morale check into 5e for mobs/minions, with the math to call it",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
+    },
+    {
+      "title": "13 OMENS Is All About Prophecy — So Here's the Augury Ruling Most GMs Get Wrong",
+      "why_now": "Paizo's 13 OMENS Kickstarter just launched around divination/prophecy themes, timely hook for a spell use-case on Augury/Divination.",
+      "angle": "Spell use-case: how to answer Augury's vague prompts without railroading the party or giving a free quest-marker",
       "source": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/"
     }
   ]
