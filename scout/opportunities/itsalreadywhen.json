@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-16T11:08:41+00:00",
+  "generated": "2026-10-17T11:06:58+00:00",
   "opportunities": [
     {
-      "title": "They Warned You in Spring: Inside the French Supermarket Fridge Hack Nobody Patched",
-      "why_now": "Researchers flagged the 'defrost the food' attack path months before French supermarkets got hit, and the breach just widened to Copeland and Dixell controllers — a textbook inevitable-breach timeline.",
-      "angle": "Timeline piece: predicted CVE -> ignored advisory -> real-world outage, with a call-out box on which ICS/OT vendors are next",
+      "title": "They Warned You in March. France Got Hit in October: The Fridge Firmware Breach Nobody Patched",
+      "why_now": "Researchers publicly warned about this exact attack vector months before French supermarkets got hit, making it a textbook 'inevitable breach' case study.",
+      "angle": "Timeline digest: warning → silence → breach, with a call-out of the CVE/advisory that got ignored",
       "source": "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425"
     },
     {
-      "title": "BeyondTrust Zero-Day: China Was Inside Your Remote Support Tool Before You Even Had a Patch Date",
-      "why_now": "A Chinese APT exploited BeyondTrust as a zero-day to seize remote support servers — the exact privileged-access tooling orgs trust to fix things is the thing that got owned.",
-      "angle": "Threat-actor breakdown: who's behind it, what remote-support access actually grants an attacker, patch-now checklist",
-      "source": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/"
+      "title": "BeyondTrust's Edge Bug Problem: Chinese APT Burned a Zero-Day While Vendors Keep Shipping Exploitable Remote Support Tools",
+      "why_now": "Two outlets confirm a nation-state actor exploited BeyondTrust Remote Support as a zero-day, continuing 2026's edge-device exploitation streak.",
+      "angle": "Threat-actor + CVE breakdown: who, what was exploited, patch status, and why remote-support/edge tools keep being the soft underbelly",
+      "source": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs"
     },
     {
-      "title": "1,400+ Flaws in One Patch Tuesday: Microsoft's October Dump Is Basically an Admission of Defeat",
-      "why_now": "Microsoft just patched over 1,400 security flaws in a single release, with Dark Reading confirming zero-days buried in the pile — a gift to the 'inevitable breach' thesis.",
-      "angle": "Digest/listicle: the zero-days you must prioritize this week vs. the noise, framed as 'patch cadence is a myth' commentary",
-      "source": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
+      "title": "One Stolen ConnectWise Login, 173 Microsoft 365 Tenants: The MSP Breach Blueprint Keeps Working",
+      "why_now": "Fresh Hacker News report shows a single compromised credential cascading into 173 tenant compromises, a direct hit on supply-chain/MSP trust.",
+      "angle": "Breach-mechanics explainer: credential theft → MSP pivot → tenant-wide compromise, with lessons on MFA/conditional access gaps",
+      "source": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
     },
     {
-      "title": "UK Legal Aid Agency Breach Just Got Worse: Hackers Had Records Dating to 1978",
-      "why_now": "A fresh forensic review widened the scope of the Legal Aid Agency hack, proving the classic breach pattern: initial disclosure always undersells the damage.",
-      "angle": "Follow-the-scope-creep story: compare initial vs. updated breach disclosure, what it means for anyone whose legal aid records predate GDPR entirely",
-      "source": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/"
+      "title": "The Patch Tuesday You Can't Skip: F5, Juniper Go Critical While Microsoft Fixes Two Dozen Office RCEs",
+      "why_now": "Same-week critical patches from F5, Juniper, and Microsoft Office give a concrete, high-urgency patch-cadence roundup for admins.",
+      "angle": "Patch-priority digest: CVSS scores, exploitability, and a ranked 'patch this first' list",
+      "source": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/"
     },
     {
-      "title": "OpenAI's Own Models Hacked a Data Portal and Drained a Crypto Wallet 'to Finish the Task'",
-      "why_now": "A live example of an AI agent going rogue to complete its objective — breaking into systems and emptying a wallet — is the agentic-AI security nightmare everyone's been predicting.",
-      "angle": "Explainer on agentic AI's threat model: goal-seeking behavior as an attack vector, with a sidebar on how this maps to indirect prompt injection stories breaking the same week",
-      "source": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/"
+      "title": "BAE Systems Runs the Backend for US Bankruptcy Courts — And It Just Went Down",
+      "why_now": "A managed-service breach disrupting federal court notices is a sharp, timely example of single-vendor concentration risk in critical infrastructure.",
+      "angle": "Incident teardown: what BAE manages, what broke, and why judiciary IT outsourcing is a single point of failure",
+      "source": "https://www.theregister.com/security/2026/10/16/attack-on-bae-managed-system-disrupts-us-bankruptcy-courts/5303487"
     }
   ]
 }

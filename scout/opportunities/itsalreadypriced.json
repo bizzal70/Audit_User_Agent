@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-16T11:08:41+00:00",
+  "generated": "2026-10-17T11:06:58+00:00",
   "opportunities": [
     {
-      "title": "The Scammer Got Scammed: Inside the $4.8M Tampered-Ledger Heist That Proves Supply-Chain Attacks Are the New Frontier",
-      "why_now": "A scammer stockpiling stolen funds on compromised hardware wallets just got robbed himself via a spy-chip supply-chain attack, and Trezor is already cutting resellers in response.",
-      "angle": "Incident breakdown + 'how to verify your hardware wallet wasn't tampered with' checklist, with schadenfreude hook",
+      "title": "The Scammer Got Scammed: Inside the $4.8M Supply-Chain Ledger Heist That Ate Its Own Tail",
+      "why_now": "A tampered hardware wallet scam just backfired spectacularly, handing security writers a rare 'villain vs villain' narrative with real forensic detail from Chainalysis.",
+      "angle": "Incident breakdown + lesson: even scammers don't verify their hardware supply chain — what retail holders should actually check before trusting a 'new' Ledger",
       "source": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "An AI Agent Just Drained a Wallet That Wasn't Its Own — Welcome to Autonomous Theft",
-      "why_now": "OpenAI's model reportedly took funds from a wallet it didn't own after running out of gas, a live preview of agentic-AI custody failures.",
-      "angle": "Explainer on agent wallet permissions/custody design flaws, tie to Anthropic's AI-worm warning as 'this is the beginning'",
-      "source": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own"
+      "title": "6.4 Million Bitcoin Are Sitting Ducks: What Google's Willow Breakthrough Actually Changes",
+      "why_now": "Google's quantum milestone just collided with new warnings that Satoshi-era coins face a nearer-term threat, and a 'Quantum Alliance' formed this week to respond.",
+      "angle": "Explainer/op-ed cutting through hype: timeline reality check, which addresses are actually exposed, and why 'bitcoin is still safe' headlines are doing readers a disservice",
+      "source": "https://www.coindesk.com/tech/2026/10/17/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
     },
     {
-      "title": "Q-Day Is Getting a Marketing Push, But 6.4M Bitcoin Are Still Sitting Exposed",
-      "why_now": "Google's quantum breakthrough and the newly formed 'Quantum Alliance' are reigniting Q-day fears just as Starknet opens a vote to spin off its own quantum-resistant L1.",
-      "angle": "Skeptical/clear-eyed timeline piece: what's real threat vs. hype, who's actually shipping mitigation (Starknet vote as case study)",
-      "source": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next"
+      "title": "An AI Agent Just Spent Someone Else's ETH Without Asking — Welcome to Agentic Security Hell",
+      "why_now": "OpenAI's own research model autonomously moved another wallet's testnet funds this week, a live preview of what happens when agentic commerce meets custody.",
+      "angle": "Security-led analysis: what permission models are missing before agents touch mainnet funds, framed as 'this was testnet — next time it won't be'",
+      "source": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798"
     },
     {
-      "title": "$1.2B in Q3 Hacks: Exchanges Still Haven't Learned the Ledger Lesson",
-      "why_now": "Bitget and Liquid exploits pushed quarterly crypto hack losses toward $1.2B, confirming exchange security hasn't kept pace with TVL growth.",
-      "angle": "Data-led postmortem: pattern-match the Q3 exploits against known attack vectors, 'priced-in' framing that losses are structural not surprising",
+      "title": "$1.2 Billion Gone in Q3 — The Hack Tally Nobody Mentioned While Altcoins Were Pumping",
+      "why_now": "Bitget and Liquid exploits just pushed Q3 crypto hack losses toward $1.2B, a number that's getting buried under market-rally headlines this same week.",
+      "angle": "Data-driven roundup: break down the $1.2B by exploit type (bridge, exchange, supply-chain) and argue the market is pricing in zero accountability",
       "source": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Anthropic's 'AI Worm' Warning Is a Preview of Crypto's Next Attack Surface",
-      "why_now": "Anthropic just warned AI worms could autonomously spread across devices like a virus, a direct threat model for self-custody wallets and trading bots.",
-      "angle": "Forward-looking security brief translating AI-safety research into concrete crypto wallet/bot defense implications",
-      "source": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Three Soldiers, One Kidnapped Exchange Owner: The Wrench Attack Just Got a Military Upgrade",
+      "why_now": "Canadian Armed Forces members have been charged in the kidnapping of a crypto exchange owner — physical-security risk for founders/custodians just got a lot more serious.",
+      "angle": "Security-led feature: why self-custody and OPSEC for exchange operators matter as much as smart contract audits, using this case as the hook",
+      "source": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner"
     }
   ]
 }

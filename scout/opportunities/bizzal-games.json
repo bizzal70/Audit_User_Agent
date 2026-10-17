@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-16T11:08:41+00:00",
+  "generated": "2026-10-17T11:06:58+00:00",
   "opportunities": [
     {
-      "title": "Astarion's Bite Action Economy: Running a Vampire Spawn That Actually Threatens a Party",
-      "why_now": "The BG3 Astarion review has vampire mechanics trending again, giving a built-in hook for a 5e creature-tactics breakdown.",
-      "angle": "60-sec creature tactic: grapple+bite combo, legendary resistance math, when to swap to Charm over violence",
-      "source": "https://www.enworld.org/threads/baldurs-gate-3-astarion-a-review.720967/"
+      "title": "WotC Won't Recognize the Union, But RAW Still Recognizes This Broken Grapple-Shove Combo",
+      "why_now": "The WotC union-recognition refusal is dominating D&D discourse right now, giving a built-in cold open before pivoting to the actual rules content.",
+      "angle": "60-sec rules ruling: cite the headline in one dry line, then break down the grapple+shove interaction RAW actually allows and why most tables play it wrong",
+      "source": "https://www.enworld.org/threads/wotc-declines-to-recognise-new-union.720972/"
     },
     {
-      "title": "Project_Lamordia Just Added Sanity Rules to DDB — Here's the Ruling You Actually Need",
-      "why_now": "Project_Lamordia's survival-horror content just went live on D&D Beyond, so GMs are searching for how to adjudicate fear/sanity in 5e right now.",
-      "angle": "Rules ruling: how to run a Fear save without a splatbook, using existing frightened condition + homebrew sanity track",
-      "source": "https://www.enworld.org/threads/project_lamordia-is-now-on-ddb-bringing-modern-survival-horror-to-d-d.720964/"
+      "title": "WotC Says They'll 'Respect the Vote' — Here's a Rules Question They've Never Bothered to Settle",
+      "why_now": "WotC's corporate-speak statement on respecting the union vote is fresh enough to riff on with wry contrast against their decade-long silence on an ambiguous spell interaction.",
+      "angle": "Spell use-case short: Silent Image vs. passive Perception/Investigation, framed as 'the one ruling corporate will never clarify'",
+      "source": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/"
     },
     {
-      "title": "Running an Unkillable Slasher Villain: The Construct/Undead Resistance Trick Your Table Will Hate",
-      "why_now": "New solo gamebooks dropping this week center on an unstoppable cyborg/slasher killer, a perfect excuse to teach the 'can't be killed, only delayed' encounter design.",
-      "angle": "Creature tactic: damage threshold + regeneration ruling for a recurring horror antagonist in 5e/DCC",
-      "source": "https://www.enworld.org/threads/uncover-a-slasher-horror-killer-or-battle-an-unstoppable-cyborg-in-two-new-solo-adventure-gamebooks.720958/"
-    },
-    {
-      "title": "Pirate Borg's Morale Checks Would Fix Your 5e Mook Fights — Here's the Ruling",
-      "why_now": "Pirate Borg is getting fresh print coverage, and its morale mechanic is the exact gap 5e GMs keep homebrewing badly.",
-      "angle": "Cross-system ruling: porting a simple morale check into 5e for mobs/minions, with the math to call it",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-ars-magica-daggerheart-scalemail-pirate-borg-and-more.720933/"
-    },
-    {
-      "title": "13 OMENS Is All About Prophecy — So Here's the Augury Ruling Most GMs Get Wrong",
-      "why_now": "Paizo's 13 OMENS Kickstarter just launched around divination/prophecy themes, timely hook for a spell use-case on Augury/Divination.",
-      "angle": "Spell use-case: how to answer Augury's vague prompts without railroading the party or giving a free quest-marker",
+      "title": "Paizo's 13 OMENS Just Funded — Steal This Foreshadowing Trick for Your 5e Table",
+      "why_now": "13 OMENS launching on Kickstarter gives a timely competitor-product hook to discuss omen/portent mechanics GMs can lift regardless of system.",
+      "angle": "GM technique short: how to run a 'doom table' using Divination spells or DCC Luck burn to foreshadow a TPK encounter, delivered as dry veteran advice",
       "source": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/"
+    },
+    {
+      "title": "Buried in Today's News Digest: The DCC Mercurial Magic Ruling Every Judge Gets Backwards",
+      "why_now": "The daily news digest is a low-stakes news hook that lets us pivot immediately into a niche, underserved DCC ruling for engaged subscribers.",
+      "angle": "Mechanical ruling short on rolling Mercurial Magic effects once per spell vs. per-cast, with the dry 'here's why your table's been doing this wrong' framing",
+      "source": "https://www.enworld.org/threads/news-digest-for-october-16-2026.720998/"
+    },
+    {
+      "title": "Union Vote, Schmunion Vote — Your Owlbear Should Never Just 'Attack'",
+      "why_now": "Riding the viral WotC union headline as a shock-value cold open drives clicks into an evergreen creature-tactics short.",
+      "angle": "Creature tactic short: Owlbear multiattack-then-grapple sequencing for max damage, bait-and-switch opener referencing the union drama for one line only",
+      "source": "https://www.enworld.org/threads/news-digest-for-october-16-2026.720998/"
     }
   ]
 }
