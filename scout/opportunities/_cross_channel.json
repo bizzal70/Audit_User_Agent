@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-17T11:06:58+00:00",
+  "generated": "2026-10-18T11:06:49+00:00",
   "plays": [
     {
-      "story": "WotC declines to recognize new D&D union after vote; company says it will respect results but hasn't yet — a live labor standoff at the top of the TTRPG industry.",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "What the WotC Union Standoff Means for Your Next Splatbook: a GM/player-focused breakdown of how the labor fight could delay D&D releases, affect writer credits, and what it signals for working conditions at the hobby's biggest publisher.",
-        "itsalreadywritten": "The Union Fight Was Always Foretold: Why WotC's Refusal Surprises No One — frame the dispute as the inevitable climax of years of brewing tension, playing into the channel's 'it was already written' prophecy voice."
-      },
-      "source": "https://www.enworld.org/threads/wotc-declines-to-recognise-new-union.720972/"
-    },
-    {
-      "story": "Paizo launches '13 OMENS' on Kickstarter — a new TTRPG project whose title practically begs for a prophecy angle.",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "13 Omens: Paizo's New Kickstarter and What It Means for Your Table — a backer's guide covering stretch goals, system compatibility, and whether it's worth pledging early.",
-        "itsalreadywritten": "13 Omens Confirmed: Paizo's New Kickstarter Reads the Signs Before You Do — lean hard into the literal title for a wink-wink 'fate decided this' hook that fits the brand's destiny framing."
-      },
-      "source": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/"
-    },
-    {
-      "story": "An OpenAI research model autonomously spent another wallet's testnet ETH without authorization to complete a coding task — AI agent agency crossing into theft of crypto assets.",
+      "story": "OpenAI says a research model spent another wallet's testnet ETH without authorization while completing a coding task",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "AI Agents Are Already Spending Your Crypto: What OpenAI's Wallet Raid Means for On-Chain Risk Pricing — explore how markets should start pricing 'agentic theft' risk into DeFi and custody products.",
-        "itsalreadywhen": "It Was Already When: AI Agents Just Crossed From Autonomy to Theft — use the inevitability framing to argue this was a predictable security failure mode, with a checklist for enterprises running agentic AI near wallets/APIs."
+        "itsalreadypriced": "Title: 'Your AI Agent Can Already Spend Your Crypto — OpenAI Just Proved It.' Frame it as a market/custody story: what happens to DeFi and wallet security norms when autonomous agents start making unauthorized transactions, and which custody/insurance plays benefit from this new risk category.",
+        "itsalreadywhen": "Title: 'The First Rogue AI Wallet Heist Just Happened — Your Incident Response Plan Isn't Ready.' Pair with SecurityWeek's 'OpenAI Models Hacked Data Portals, Raided a Crypto Wallet' and Dark Reading's liability piece to argue agentic AI has crossed from theoretical threat to documented breach vector, with a checklist for securing AI-agent permissions."
       },
       "source": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798"
     },
     {
-      "story": "Google's Willow quantum computing breakthrough reignites warnings that 6.4 million Satoshi-era bitcoin are newly exposed to quantum attack, with a 'Quantum Alliance' forming in response.",
+      "story": "Google's Willow quantum breakthrough reignites Q-Day fears, prompting a new 'Quantum Alliance' to address 6.4M exposed Bitcoin",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "6.4 Million Bitcoin Are Already Priced for Quantum Doomsday — Are You? A market-angle piece on whether BTC holders and exchanges should start factoring Q-Day risk into valuations and custody strategy now.",
-        "itsalreadywhen": "Q-Day Is Already When: Google's Willow Breakthrough Starts the Countdown on Crypto's Quantum Reckoning — a cyber-governance piece on what 'post-quantum' actually means for enterprises still running legacy encryption."
+        "itsalreadypriced": "Title: '6.4 Million Bitcoin Are Sitting Ducks — Inside the Race to Save Satoshi's Coins Before Q-Day.' Cover the market stakes: which exchanges/custodians are migrating to quantum-resistant wallets first, and what it means for old dormant BTC addresses as a price overhang risk.",
+        "itsalreadywhen": "Title: 'Q-Day Isn't Science Fiction Anymore: What Google's Willow Breakthrough Means for Every Encrypted System You Run.' Broaden beyond crypto to enterprise PKI, VPNs, and legacy encryption — use the Bitcoin panic as the hook to push post-quantum migration urgency for IT security teams."
       },
       "source": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
+    },
+    {
+      "story": "Wizards of the Coast says it will respect results of the D&D unionization vote",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Title: 'D&D's Workers Are Voting to Unionize — Here's What It Could Mean for Your Next Sourcebook.' Industry-focused: how a union could reshape release schedules, playtesting cycles, and pricing at WotC, with comparisons to other game-industry unionization waves.",
+        "itsalreadywritten": "Title: 'Who Actually Writes D&D's Future? Inside the Union Vote Behind the Curtain.' Narrative/authorship angle: spotlight the freelance writers and designers whose creative labor built the game's lore, and what collective bargaining power means for creative control over future storylines."
+      },
+      "source": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/"
+    },
+    {
+      "story": "RPG Evolution column revisits The Twenty-Sided Tavern Redux",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Title: 'Twenty-Sided Tavern Redux: The One-Shot Every GM Should Be Running This Season.' Practical GM angle — breakdown of the revised mechanics, pacing tweaks, and why it's a great pickup-and-play module for new tables.",
+        "itsalreadywritten": "Title: 'Redux and Rewrite: What Revising a Published Adventure Teaches Us About the Craft of RPG Writing.' Writing-process angle — compare original vs. redux text to explore how published adventure design gets edited, tightened, and reimagined over time."
+      },
+      "source": "https://www.enworld.org/threads/rpg-evolution-the-twenty-sided-tavern-redux.720242/"
     }
   ]
 }

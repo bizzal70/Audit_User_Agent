@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-17T11:06:58+00:00",
+  "generated": "2026-10-18T11:06:49+00:00",
   "opportunities": [
     {
-      "title": "WotC Won't Recognize the Union, But RAW Still Recognizes This Broken Grapple-Shove Combo",
-      "why_now": "The WotC union-recognition refusal is dominating D&D discourse right now, giving a built-in cold open before pivoting to the actual rules content.",
-      "angle": "60-sec rules ruling: cite the headline in one dry line, then break down the grapple+shove interaction RAW actually allows and why most tables play it wrong",
-      "source": "https://www.enworld.org/threads/wotc-declines-to-recognise-new-union.720972/"
-    },
-    {
-      "title": "WotC Says They'll 'Respect the Vote' — Here's a Rules Question They've Never Bothered to Settle",
-      "why_now": "WotC's corporate-speak statement on respecting the union vote is fresh enough to riff on with wry contrast against their decade-long silence on an ambiguous spell interaction.",
-      "angle": "Spell use-case short: Silent Image vs. passive Perception/Investigation, framed as 'the one ruling corporate will never clarify'",
+      "title": "WotC Says They'll 'Respect the Vote' — Here's the Ruling on When YOUR Table Mutinies",
+      "why_now": "Wizards' public statement on the D&D unionization vote is dominating tabletop news this week and begs a GM-table parallel.",
+      "angle": "Dry one-liner short: treat the news as a springboard for a ruling on handling player revolts/house-rule votes at your table, closing with a wink at the real-world parallel.",
       "source": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/"
     },
     {
-      "title": "Paizo's 13 OMENS Just Funded — Steal This Foreshadowing Trick for Your 5e Table",
-      "why_now": "13 OMENS launching on Kickstarter gives a timely competitor-product hook to discuss omen/portent mechanics GMs can lift regardless of system.",
-      "angle": "GM technique short: how to run a 'doom table' using Divination spells or DCC Luck burn to foreshadow a TPK encounter, delivered as dry veteran advice",
-      "source": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/"
+      "title": "Oblivion's Umbra Is Back on GOG — Here's How a Sentient Cursed Sword Actually Works in 5e",
+      "why_now": "Oblivion's GOTY edition just hit GOG's Preservation Program, reigniting nostalgia for its iconic intelligent sword Umbra.",
+      "angle": "30-second ruling on DMG intelligent item rules: personality conflict, special purpose, and when the blade tries to possess the wielder — framed as 'translating Umbra to your table.'",
+      "source": "https://www.rpgsite.net/news/21582-the-elder-scrolls-4-oblivion-goty-edition-controller-support-pc-gog-preservation-program"
     },
     {
-      "title": "Buried in Today's News Digest: The DCC Mercurial Magic Ruling Every Judge Gets Backwards",
-      "why_now": "The daily news digest is a low-stakes news hook that lets us pivot immediately into a niche, underserved DCC ruling for engaged subscribers.",
-      "angle": "Mechanical ruling short on rolling Mercurial Magic effects once per spell vs. per-cast, with the dry 'here's why your table's been doing this wrong' framing",
-      "source": "https://www.enworld.org/threads/news-digest-for-october-16-2026.720998/"
+      "title": "Castlevania: Belmont's Curse Just Dropped — Here's the RAW on Reach Weapons Everyone Gets Wrong",
+      "why_now": "Belmont's Curse released this week, putting whip-style reach weapons back in the pop culture spotlight.",
+      "angle": "Mechanical breakdown: reach weapon opportunity attacks, 10ft spacing, and the common mistake of letting reach weapons hit adjacent targets without disadvantage context — short clipped ruling with whip visual.",
+      "source": "https://www.rpgsite.net/news/21576-castlevania-belmonts-curse-now-available"
     },
     {
-      "title": "Union Vote, Schmunion Vote — Your Owlbear Should Never Just 'Attack'",
-      "why_now": "Riding the viral WotC union headline as a shock-value cold open drives clicks into an evergreen creature-tactics short.",
-      "angle": "Creature tactic short: Owlbear multiattack-then-grapple sequencing for max damage, bait-and-switch opener referencing the union drama for one line only",
-      "source": "https://www.enworld.org/threads/news-digest-for-october-16-2026.720998/"
+      "title": "The Twenty-Sided Tavern Is Back — Here's the Shadowdark Ruling for Running an Actual Tavern Brawl",
+      "why_now": "EN World's piece on The Twenty-Sided Tavern Redux has tavern-crawl content trending again this week.",
+      "angle": "Creature-tactic-style short specifically on Shadowdark's simplified brawl/subdual damage rules vs 5e's nonlethal damage option, with a GM tip on improvised weapons (tankards, chairs).",
+      "source": "https://www.enworld.org/threads/rpg-evolution-the-twenty-sided-tavern-redux.720242/"
+    },
+    {
+      "title": "Tetracast Says 'What's Old Is New Again' — Here's Why DCC Still Has Morale Rules and 5e Doesn't",
+      "why_now": "This week's Tetracast episode frames OSR revival as the current RPG zeitgeist, a direct hook for comparing old-school vs modern mechanics.",
+      "angle": "Spell/ruling comparison short: DCC/Shadowdark morale checks for fleeing monsters vs 5e's lack of a baked-in morale system, with a quick houserule fix for 5e GMs.",
+      "source": "https://www.rpgsite.net/podcast/21587-tetracast-464-whats-is-new-again"
     }
   ]
 }
