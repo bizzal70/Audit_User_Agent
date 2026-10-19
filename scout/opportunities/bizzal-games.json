@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-18T11:06:49+00:00",
+  "generated": "2026-10-19T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "WotC Says They'll 'Respect the Vote' — Here's the Ruling on When YOUR Table Mutinies",
-      "why_now": "Wizards' public statement on the D&D unionization vote is dominating tabletop news this week and begs a GM-table parallel.",
-      "angle": "Dry one-liner short: treat the news as a springboard for a ruling on handling player revolts/house-rule votes at your table, closing with a wink at the real-world parallel.",
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/"
+      "title": "Stop Running 'Encounters,' Run 'Situations': One Pacing Ruling That Fixes Your Slog",
+      "why_now": "Sly Flourish just dropped his Scenes-and-Situations framework and it'll be the GM discourse of the week.",
+      "angle": "45-sec short: contrast a scripted goblin-ambush 'encounter' vs an open 'situation,' deliver one concrete table ruling on when to cut to the chase",
+      "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
     },
     {
-      "title": "Oblivion's Umbra Is Back on GOG — Here's How a Sentient Cursed Sword Actually Works in 5e",
-      "why_now": "Oblivion's GOTY edition just hit GOG's Preservation Program, reigniting nostalgia for its iconic intelligent sword Umbra.",
-      "angle": "30-second ruling on DMG intelligent item rules: personality conflict, special purpose, and when the blade tries to possess the wielder — framed as 'translating Umbra to your table.'",
-      "source": "https://www.rpgsite.net/news/21582-the-elder-scrolls-4-oblivion-goty-edition-controller-support-pc-gog-preservation-program"
+      "title": "Lamordia's Flesh-Golem Trick Most DMs Forget",
+      "why_now": "EN World's podcast just spotlighted the Lamordia domain, reviving interest in Ravenloft's mad-science corner.",
+      "angle": "creature tactic short on a golem/construct legendary action or weakness DMs routinely whiff",
+      "source": "https://www.enworld.org/threads/podcast-419-livestream-lamordia-unions-and-d-d-themed-toilet-paper.721019/"
     },
     {
-      "title": "Castlevania: Belmont's Curse Just Dropped — Here's the RAW on Reach Weapons Everyone Gets Wrong",
-      "why_now": "Belmont's Curse released this week, putting whip-style reach weapons back in the pop culture spotlight.",
-      "angle": "Mechanical breakdown: reach weapon opportunity attacks, 10ft spacing, and the common mistake of letting reach weapons hit adjacent targets without disadvantage context — short clipped ruling with whip visual.",
-      "source": "https://www.rpgsite.net/news/21576-castlevania-belmonts-curse-now-available"
+      "title": "The Cantrip That Replaces D&D Toilet Paper (Prestidigitation, Actually Explained)",
+      "why_now": "EN World's D&D-branded TP story is this week's dumbest headline — perfect dry setup for an underused cantrip breakdown.",
+      "angle": "wry bit: 'Your dungeon doesn't need Charmin' into a real spell use-case for Prestidigitation's cleaning/odor-removal utility",
+      "source": "https://www.enworld.org/threads/if-you-need-some-d-d-themed-toilet-paper-todays-your-lucky-day.721018/"
     },
     {
-      "title": "The Twenty-Sided Tavern Is Back — Here's the Shadowdark Ruling for Running an Actual Tavern Brawl",
-      "why_now": "EN World's piece on The Twenty-Sided Tavern Redux has tavern-crawl content trending again this week.",
-      "angle": "Creature-tactic-style short specifically on Shadowdark's simplified brawl/subdual damage rules vs 5e's nonlethal damage option, with a GM tip on improvised weapons (tankards, chairs).",
+      "title": "This Free Bundle Hides a Monster That Will Wreck Your Level 3 Party: Grick Tactics 101",
+      "why_now": "Today's freebie/charity bundle roundup is circulating modules with underrated monsters worth flagging before the sale window closes.",
+      "angle": "creature tactic short: corridor ambush, camouflage, and why gricks punch above their CR",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-19-2026.721020/"
+    },
+    {
+      "title": "Tavern Brawl Ruling: When Does Nonlethal Damage Actually Knock Someone Out?",
+      "why_now": "RPG Evolution's Twenty-Sided Tavern revisit has GMs talking about brawl scenes again.",
+      "angle": "rules ruling short clarifying the unconscious-at-0-HP nonlethal rule and the falling-damage exception with a quick table example",
       "source": "https://www.enworld.org/threads/rpg-evolution-the-twenty-sided-tavern-redux.720242/"
-    },
-    {
-      "title": "Tetracast Says 'What's Old Is New Again' — Here's Why DCC Still Has Morale Rules and 5e Doesn't",
-      "why_now": "This week's Tetracast episode frames OSR revival as the current RPG zeitgeist, a direct hook for comparing old-school vs modern mechanics.",
-      "angle": "Spell/ruling comparison short: DCC/Shadowdark morale checks for fleeing monsters vs 5e's lack of a baked-in morale system, with a quick houserule fix for 5e GMs.",
-      "source": "https://www.rpgsite.net/podcast/21587-tetracast-464-whats-is-new-again"
     }
   ]
 }

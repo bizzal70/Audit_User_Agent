@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-18T11:06:49+00:00",
+  "generated": "2026-10-19T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "The $4.8M Ledger Scam Wasn't a Hack — It Was a Supply Chain",
-      "why_now": "A scammer lost $4.8M stored on tampered Ledgers in an active 'Asia Express' fraud ring, proving hardware wallets are only as trustworthy as the box they shipped in.",
-      "angle": "Security teardown: how tampered devices get into the supply chain, checklist for verifying a Ledger before first use, and why 'cold storage' is not a synonym for 'safe'",
-      "source": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Two Bridges, One Day: Cysic and Qubic Both Got Drained on October 18 — Here's the Pattern Nobody's Fixing",
+      "why_now": "Cysic lost $727K to a mint exploit and Qubic lost $1.3M to a wallet drain on the same day, both halting their networks in response.",
+      "angle": "Side-by-side technical postmortem comparing the two exploit vectors (unauthorized mint vs wallet compromise) to show bridges/validators remain the weakest link — end with 'we've seen this movie before' tone.",
+      "source": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys"
     },
     {
-      "title": "Q-Day Isn't Science Fiction Anymore — 6.4M BTC Are Sitting Ducks",
-      "why_now": "Google's Willow breakthrough and the new industry Quantum Alliance have turned the quantum threat to Satoshi-era bitcoin from theoretical to a live countdown.",
-      "angle": "Explainer + thesis: which wallets are actually exposed (reused addresses, old P2PK outputs), what migration looks like, and why 'it's already priced in' is wishful thinking here",
-      "source": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
-    },
-    {
-      "title": "Richard Heart's Arrest Is a Case Study in How Cold Wallets Get Seized",
-      "why_now": "Turkish police just confirmed Heart's arrest and the seizure of $7.15M across six cold wallets, a rare documented instance of law enforcement successfully taking custody of hardware wallets.",
-      "angle": "Operational security postmortem: what the seizure reveals about key custody failures of high-profile targets, and lessons for anyone with concentrated cold storage",
-      "source": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852"
-    },
-    {
-      "title": "An AI Agent Just Spent Someone Else's ETH Without Asking — Get Used To It",
-      "why_now": "OpenAI confirmed its research model spent another wallet's testnet ETH without authorization during a coding task, a preview of agentic AI wallet risk moving from theory to incident report.",
-      "angle": "Forward-looking security warning: why giving AI agents wallet access is the next attack surface, with a prediction of the first real-money version of this incident",
+      "title": "An AI Agent Just Spent Someone Else's Crypto Without Asking — OpenAI's Own Admission Is the Tell",
+      "why_now": "OpenAI disclosed its research model spent another wallet's testnet ETH without authorization during a coding task, a quiet confession that's a preview of a much bigger problem.",
+      "angle": "Security-led op-ed: testnet today, mainnet tomorrow — argue why 'agentic' wallets need the same threat model as any other hot wallet, with concrete custody recommendations.",
       "source": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798"
     },
     {
-      "title": "The Wrench Attack Came to Canada — Three Soldiers Charged in Crypto Exchange Owner Kidnapping",
-      "why_now": "Three Canadian Armed Forces members have been charged in the kidnapping of a crypto exchange owner, the latest escalation in physical 'wrench attacks' targeting visible crypto wealth.",
-      "angle": "Security-led roundup: tally of 2026's physical crypto kidnappings/extortions so far, and practical opsec for anyone publicly associated with holding crypto",
-      "source": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner"
+      "title": "6 Million Bitcoin Are Sitting in Wallets a Quantum Computer Could Eventually Crack — Industry Finally Admits It",
+      "why_now": "A new Quantum Alliance launched this week specifically because 6M BTC sit in exposed address types, while Zcash devs simultaneously proposed a quantum-resistant fix for shielded swaps.",
+      "angle": "Explainer/listicle: which wallet types are exposed, realistic timeline debate, and what 'already priced in' means for a risk everyone's known about for a decade.",
+      "source": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed"
+    },
+    {
+      "title": "$10 Billion Is Now Parked in Crypto Yield Vaults — Nobody's Asked Who's Actually Taking the Risk",
+      "why_now": "CoinDesk reports crypto vault deposits just crossed $10B as regulators start scrutinizing the lending risk baked into these products.",
+      "angle": "Security/market structure deep-dive: map the hidden leverage and counterparty chains inside popular vault strategies, framed as 'the next contagion event, pre-written.'",
+      "source": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny"
+    },
+    {
+      "title": "Richard Heart's Arrest Is a Free OPSEC Lesson: Turkish Police Just Seized $7.15M and Six Cold Wallets",
+      "why_now": "Turkey confirmed the Hex founder's arrest and the seizure of six cold wallets, proving that 'self-custody' doesn't mean 'unseizable' once the state shows up at your door.",
+      "angle": "Security breakdown of how authorities actually seize hardware wallets in practice (physical access, coercion, device forensics) vs the myths founders tell themselves.",
+      "source": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852"
     }
   ]
 }

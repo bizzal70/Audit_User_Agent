@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-18T11:06:49+00:00",
+  "generated": "2026-10-19T11:08:02+00:00",
   "opportunities": [
     {
-      "title": "WotC Says It Will 'Respect' the D&D Union Vote — Here's What That Actually Changes (and Doesn't) for Players",
-      "why_now": "WotC just issued a direct public statement on the unionization effort, making this the freshest D&D business story with real stakes for future rules releases.",
-      "angle": "Explainer/analysis breaking down what a union vote legally obligates WotC to do vs. PR language, written in the channel's knowing, rules-literal voice.",
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/"
+      "title": "Scenes and Situations, Fact-Checked: How Sly Flourish's Framework Lines Up With the Actual Encounter Rules",
+      "why_now": "Sly Flourish just dropped a fresh GM-technique essay that reframes adventure structure, prime territory for a rules-first rebuttal/validation piece.",
+      "angle": "Side-by-side breakdown comparing the 'Scenes and Situations' method to RAW definitions of scenes, encounters, and pacing in the core rulebooks",
+      "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
     },
     {
-      "title": "If D&D Unionizes, Could the Next Contract Write Rules for How Rules Get Written?",
-      "why_now": "The union vote is active news and raises an underexplored angle — labor terms shaping design/production cadence, not just workplace conditions.",
-      "angle": "Speculative deep-dive/thread connecting labor outcomes to concrete production realities (errata timing, playtest cycles, release schedules).",
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/"
+      "title": "Lamordia, By the Book: Every Official Rule Van Richten's Guide Gives You for Strahd's Frozen Domain",
+      "why_now": "EN World's livestream just spotlighted Lamordia, a timely hook to pull the actual domain rules out of the sourcebook for DMs planning Ravenloft games.",
+      "angle": "Rules digest pulling direct domain mechanics, hazards, and NPC stat notes from Van Richten's Guide to Ravenloft",
+      "source": "https://www.enworld.org/threads/podcast-419-livestream-lamordia-unions-and-d-d-themed-toilet-paper.721019/"
     },
     {
-      "title": "The Twenty-Sided Tavern Redux: What Actually Changed in the Encounter Tables",
-      "why_now": "A fresh redux of a known tavern-generator module just dropped, giving a clean before/after rules comparison opportunity.",
-      "angle": "Side-by-side mechanical comparison post — old tables vs. redux tables, highlighting what the revision 'fixes' or formalizes.",
+      "title": "Twenty-Sided Tavern Redux: What Actually Changed in the Mechanics",
+      "why_now": "RPG Evolution's piece on the Redux version is fresh, giving a clean opportunity to compare old vs. new rules text before readers buy again.",
+      "angle": "Mechanical diff/changelog format: old rule text vs. new rule text, line by line",
       "source": "https://www.enworld.org/threads/rpg-evolution-the-twenty-sided-tavern-redux.720242/"
     },
     {
-      "title": "This Week's D&D News, Minus the Spin: The Rules-Relevant Bits from Oct 16",
-      "why_now": "EN World's digest format is perfect fodder for a curated, rules-first weekly recap that filters signal from noise for a TTRPG audience.",
-      "angle": "Weekly roundup post/thread pulling only the mechanics, errata, and policy items buried in the broader digest.",
-      "source": "https://www.enworld.org/threads/news-digest-for-october-16-2026.720998/"
+      "title": "This Week's Bundle Roundup: Which Discounted PDFs Actually Contain New Rules Content",
+      "why_now": "EN World's daily freebies/sales digest is noisy by nature, a rules-first filter makes it genuinely useful instead of just a link dump.",
+      "angle": "Curated list ranking deals purely by rules/mechanical value (new subclasses, monsters, systems) rather than price",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-19-2026.721020/"
     },
     {
-      "title": "'What's Old Is New Again': The Rules Debate Behind Every OSR Revival",
-      "why_now": "Tetracast's episode title directly echoes the ongoing retroclone/OSR conversation, a natural hook for a rules-literacy angle.",
-      "angle": "Commentary thread using the episode's theme as a jumping-off point to break down what 'old rules' actually get reused vs. reinvented in modern retroclones.",
-      "source": "https://www.rpgsite.net/podcast/21587-tetracast-464-whats-is-new-again"
+      "title": "D&D Toilet Paper Is Real: What the Licensing Fine Print Probably Says",
+      "why_now": "The toilet paper story is going viral as a joke, but it's a perfect excuse to explain how WotC's merchandising licenses actually work in rules-nerd terms.",
+      "angle": "Explainer using real OGL/merchandising license mechanics to deconstruct the novelty product angle",
+      "source": "https://www.enworld.org/threads/if-you-need-some-d-d-themed-toilet-paper-todays-your-lucky-day.721018/"
     }
   ]
 }
