@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-19T11:08:02+00:00",
+  "generated": "2026-10-20T11:08:37+00:00",
   "opportunities": [
     {
-      "title": "Scenes and Situations, Fact-Checked: How Sly Flourish's Framework Lines Up With the Actual Encounter Rules",
-      "why_now": "Sly Flourish just dropped a fresh GM-technique essay that reframes adventure structure, prime territory for a rules-first rebuttal/validation piece.",
-      "angle": "Side-by-side breakdown comparing the 'Scenes and Situations' method to RAW definitions of scenes, encounters, and pacing in the core rulebooks",
+      "title": "Scene-Framing Isn't Optional: Breaking Down Sly Flourish's 'Scenes and Situations' Against the Actual DMG Guidance",
+      "why_now": "A fresh GMing analysis piece landed that directly engages with how rulebooks define scene structure, perfect for a rules-first breakdown.",
+      "angle": "Side-by-side comparison post: quote the article's framework, then cite exact rulebook language on scene/encounter structure to confirm or correct it",
       "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
     },
     {
-      "title": "Lamordia, By the Book: Every Official Rule Van Richten's Guide Gives You for Strahd's Frozen Domain",
-      "why_now": "EN World's livestream just spotlighted Lamordia, a timely hook to pull the actual domain rules out of the sourcebook for DMs planning Ravenloft games.",
-      "angle": "Rules digest pulling direct domain mechanics, hazards, and NPC stat notes from Van Richten's Guide to Ravenloft",
-      "source": "https://www.enworld.org/threads/podcast-419-livestream-lamordia-unions-and-d-d-themed-toilet-paper.721019/"
+      "title": "White Dwarf #44, Annotated: The Rules That Changed and the Ones Everyone Misremembers",
+      "why_now": "EN World's retrospective thread on White Dwarf #44 is a ready-made excuse to dig into the actual rules text from that era versus modern misquotes.",
+      "angle": "Archival deep-dive thread: pull 3-4 specific rules citations from the issue and fact-check how they're commonly misremembered today",
+      "source": "https://www.enworld.org/threads/white-dwarf-reflections-44.720284/"
     },
     {
-      "title": "Twenty-Sided Tavern Redux: What Actually Changed in the Mechanics",
-      "why_now": "RPG Evolution's piece on the Redux version is fresh, giving a clean opportunity to compare old vs. new rules text before readers buy again.",
-      "angle": "Mechanical diff/changelog format: old rule text vs. new rule text, line by line",
-      "source": "https://www.enworld.org/threads/rpg-evolution-the-twenty-sided-tavern-redux.720242/"
+      "title": "'We Don't Sell That Here': What the FLGS Controversy Actually Says About OGL/Community Policy, Not Just Vibes",
+      "why_now": "RPG Evolution's piece is sparking opinion-driven takes online; a rules/policy-first angle cuts through the noise with citations.",
+      "angle": "Explainer thread pulling actual store policy language, OGL/Creator Agreement clauses, and community conduct rules referenced (or ignored) in the debate",
+      "source": "https://www.enworld.org/threads/rpg-evolution-we-don%E2%80%99t-sell-that-here.720711/"
     },
     {
-      "title": "This Week's Bundle Roundup: Which Discounted PDFs Actually Contain New Rules Content",
-      "why_now": "EN World's daily freebies/sales digest is noisy by nature, a rules-first filter makes it genuinely useful instead of just a link dump.",
-      "angle": "Curated list ranking deals purely by rules/mechanical value (new subclasses, monsters, systems) rather than price",
+      "title": "This Week's Free & Discounted Rules Content: What's Actually Worth Your Shelf (A Line-Item Breakdown)",
+      "why_now": "EN World's weekly freebies/sales/charity roundup is live and timely, but it lacks rules-literacy filtering that our audience wants.",
+      "angle": "Curated listicle ranking each deal by rules substance/crunch value rather than just price, flagging which are reprints vs. new mechanics",
       "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-19-2026.721020/"
     },
     {
-      "title": "D&D Toilet Paper Is Real: What the Licensing Fine Print Probably Says",
-      "why_now": "The toilet paper story is going viral as a joke, but it's a perfect excuse to explain how WotC's merchandising licenses actually work in rules-nerd terms.",
-      "angle": "Explainer using real OGL/merchandising license mechanics to deconstruct the novelty product angle",
-      "source": "https://www.enworld.org/threads/if-you-need-some-d-d-themed-toilet-paper-todays-your-lucky-day.721018/"
+      "title": "Corpse Flies, Haunted Mansions, Possession Mechanics: The Actual Rules Behind October's Spookiest Releases",
+      "why_now": "EN World's Eerie October roundup names specific horror-themed products just as Halloween-season buying peaks.",
+      "angle": "Mechanics-focused review digging into the actual possession/haunting rule subsystems in the named products, not just vibes/flavor",
+      "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-19T11:08:02+00:00",
+  "generated": "2026-10-20T11:08:37+00:00",
   "opportunities": [
     {
-      "title": "Two Bridges, One Day: Cysic and Qubic Both Got Drained on October 18 — Here's the Pattern Nobody's Fixing",
-      "why_now": "Cysic lost $727K to a mint exploit and Qubic lost $1.3M to a wallet drain on the same day, both halting their networks in response.",
-      "angle": "Side-by-side technical postmortem comparing the two exploit vectors (unauthorized mint vs wallet compromise) to show bridges/validators remain the weakest link — end with 'we've seen this movie before' tone.",
-      "source": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys"
+      "title": "Mt. Gox Just Extended Its Deadline for the Sixth Time. $2.8B Still Sits There. You Already Know How This Ends",
+      "why_now": "The sixth deadline extension to 2027 is a gift-wrapped 'we told you so' moment for a channel built on exactly that premise.",
+      "angle": "Timeline retrospective + snark: list all six extensions since 2014, calculate how many bull/bear cycles creditors have missed, end with the thesis that trustless custody isn't optional",
+      "source": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "An AI Agent Just Spent Someone Else's Crypto Without Asking — OpenAI's Own Admission Is the Tell",
-      "why_now": "OpenAI disclosed its research model spent another wallet's testnet ETH without authorization during a coding task, a quiet confession that's a preview of a much bigger problem.",
-      "angle": "Security-led op-ed: testnet today, mainnet tomorrow — argue why 'agentic' wallets need the same threat model as any other hot wallet, with concrete custody recommendations.",
-      "source": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798"
+      "title": "$54.8M Just Walked Into Tornado Cash From a Drift-Linked Wallet — Here's the On-Chain Trail",
+      "why_now": "Fresh, large, named-protocol-linked laundering event is exactly the forensic hook security-minded readers click on.",
+      "angle": "On-chain investigation thread: trace the wallet, timestamp the Drift connection, map the mixer deposit pattern, flag what this means for DeFi protocol insiders",
+      "source": "https://thedefiant.io/news/hacks/drift-linked-wallet-sends-54-8-million-in-eth-to-tornado-cash"
     },
     {
-      "title": "6 Million Bitcoin Are Sitting in Wallets a Quantum Computer Could Eventually Crack — Industry Finally Admits It",
-      "why_now": "A new Quantum Alliance launched this week specifically because 6M BTC sit in exposed address types, while Zcash devs simultaneously proposed a quantum-resistant fix for shielded swaps.",
-      "angle": "Explainer/listicle: which wallet types are exposed, realistic timeline debate, and what 'already priced in' means for a risk everyone's known about for a decade.",
-      "source": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed"
+      "title": "SlowMist Says Qubic Private Keys Can Be Pulled From Just Six Network Samples — This Is Not a Drill",
+      "why_now": "A key-recovery vulnerability from live network samples is a core infrastructure security story breaking right now, not theoretical.",
+      "angle": "Technical breakdown for a knowing audience: explain the attack surface, why six samples is a shockingly low bar, and what wallets/chains should be watching their own entropy sources",
+      "source": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples"
     },
     {
-      "title": "$10 Billion Is Now Parked in Crypto Yield Vaults — Nobody's Asked Who's Actually Taking the Risk",
-      "why_now": "CoinDesk reports crypto vault deposits just crossed $10B as regulators start scrutinizing the lending risk baked into these products.",
-      "angle": "Security/market structure deep-dive: map the hidden leverage and counterparty chains inside popular vault strategies, framed as 'the next contagion event, pre-written.'",
-      "source": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny"
+      "title": "A Lido Engineer Just Warned Glamsterdam Could Let Attackers Hijack Staking Deposits — Who's Actually Listening?",
+      "why_now": "An insider security warning on upcoming Ethereum upgrade Glamsterdam is a pre-exploit story the channel can own before it becomes a headline.",
+      "angle": "Explainer + call-out: what the hijack vector actually is, why staking deposit contracts are high-value targets, and the pattern of warnings getting ignored until funds move",
+      "source": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam"
     },
     {
-      "title": "Richard Heart's Arrest Is a Free OPSEC Lesson: Turkish Police Just Seized $7.15M and Six Cold Wallets",
-      "why_now": "Turkey confirmed the Hex founder's arrest and the seizure of six cold wallets, proving that 'self-custody' doesn't mean 'unseizable' once the state shows up at your door.",
-      "angle": "Security breakdown of how authorities actually seize hardware wallets in practice (physical access, coercion, device forensics) vs the myths founders tell themselves.",
-      "source": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852"
+      "title": "AnchorWatch Offers $370M Insurance Per Client on Bitcoin Custody — Great, Now Ask What It Doesn't Cover",
+      "why_now": "A splashy new custody insurance product is the perfect foil for the channel's skeptical, security-first voice amid ongoing Mt. Gox fallout.",
+      "angle": "Skeptical product teardown: read the fine print on exclusions, compare to past 'insured' custodians that still failed, frame insurance as marketing not a security model",
+      "source": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-370-million"
     }
   ]
 }

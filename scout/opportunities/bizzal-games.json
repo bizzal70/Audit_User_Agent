@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-19T11:08:02+00:00",
+  "generated": "2026-10-20T11:08:37+00:00",
   "opportunities": [
     {
-      "title": "Stop Running 'Encounters,' Run 'Situations': One Pacing Ruling That Fixes Your Slog",
-      "why_now": "Sly Flourish just dropped his Scenes-and-Situations framework and it'll be the GM discourse of the week.",
-      "angle": "45-sec short: contrast a scripted goblin-ambush 'encounter' vs an open 'situation,' deliver one concrete table ruling on when to cut to the chase",
+      "title": "Corpse Flies Are Not a Swarm: The Half-Damage Rule Everyone Gets Wrong",
+      "why_now": "EN World's Halloween roundup just spotlighted corpse flies as a featured spooky-season monster.",
+      "angle": "60-sec creature tactic short: show the swarm traits block, call out the common houserule error of applying swarm immunity to corpse flies when they're not statted as a swarm, give the correct half-damage/condition-immunity breakdown.",
+      "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
+    },
+    {
+      "title": "'We Don't Sell That Here': The Session Zero Line Your FLGS Already Drew",
+      "why_now": "RPG Evolution's piece on stores refusing to stock certain content maps directly onto the lines-and-veils conversation GMs avoid.",
+      "angle": "Rules-ruling-adjacent short: frame it as a 'table ruling' — how to set content boundaries before session 1 without a lecture, dry delivery, end on a one-liner GM rule.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-we-don%E2%80%99t-sell-that-here.720711/"
+    },
+    {
+      "title": "Stop Writing Plots. Write Situations. (Sly Flourish Is Right.)",
+      "why_now": "Sly Flourish just published a fresh breakdown of scene/situation-based prep that's catnip for the daily-GM-tip audience.",
+      "angle": "Prep methodology short: contrast a railroaded plot outline vs. a 3-bullet situation, show how it collapses prep time, deliver as a terse 'ruling' on how to run a session, not a book report.",
       "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
     },
     {
-      "title": "Lamordia's Flesh-Golem Trick Most DMs Forget",
-      "why_now": "EN World's podcast just spotlighted the Lamordia domain, reviving interest in Ravenloft's mad-science corner.",
-      "angle": "creature tactic short on a golem/construct legendary action or weakness DMs routinely whiff",
-      "source": "https://www.enworld.org/threads/podcast-419-livestream-lamordia-unions-and-d-d-themed-toilet-paper.721019/"
+      "title": "Pool of Radiance Returns Nov 6 — Here's the 5e Stat Block Hiding Inside Its Hardest Fight",
+      "why_now": "Ruins of Myth Drannor's Steam/GOG launch date just dropped, giving CRPG crossover fans a reason to click a tabletop tie-in.",
+      "angle": "Spell/creature use-case short: pick the game's signature Myth Drannor threat and translate it into an actual 5e (or DCC) stat adjustment or tactic, bridging CRPG hype to tabletop content.",
+      "source": "https://www.rpgsite.net/news/21595-pool-of-radiance-ruins-of-myth-drannor-steam-release-date-deck-controller-support-gog-demo"
     },
     {
-      "title": "The Cantrip That Replaces D&D Toilet Paper (Prestidigitation, Actually Explained)",
-      "why_now": "EN World's D&D-branded TP story is this week's dumbest headline — perfect dry setup for an underused cantrip breakdown.",
-      "angle": "wry bit: 'Your dungeon doesn't need Charmin' into a real spell use-case for Prestidigitation's cleaning/odor-removal utility",
-      "source": "https://www.enworld.org/threads/if-you-need-some-d-d-themed-toilet-paper-todays-your-lucky-day.721018/"
-    },
-    {
-      "title": "This Free Bundle Hides a Monster That Will Wreck Your Level 3 Party: Grick Tactics 101",
-      "why_now": "Today's freebie/charity bundle roundup is circulating modules with underrated monsters worth flagging before the sale window closes.",
-      "angle": "creature tactic short: corridor ambush, camouflage, and why gricks punch above their CR",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-19-2026.721020/"
-    },
-    {
-      "title": "Tavern Brawl Ruling: When Does Nonlethal Damage Actually Knock Someone Out?",
-      "why_now": "RPG Evolution's Twenty-Sided Tavern revisit has GMs talking about brawl scenes again.",
-      "angle": "rules ruling short clarifying the unconscious-at-0-HP nonlethal rule and the falling-damage exception with a quick table example",
+      "title": "The Twenty-Sided Tavern Redux Proves Your One-Shot Needs a Gimmick, Not a Plot",
+      "why_now": "RPG Evolution's redux coverage of the Twenty-Sided Tavern format is a timely hook into one-shot design for GMs scrambling before holiday game nights.",
+      "angle": "Format-focused short: break down what makes a 'tavern gimmick' one-shot work mechanically (clear win-state, timer, escalating complication) and give a 60-second template GMs can steal.",
       "source": "https://www.enworld.org/threads/rpg-evolution-the-twenty-sided-tavern-redux.720242/"
     }
   ]

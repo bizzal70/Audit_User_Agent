@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-19T11:08:02+00:00",
+  "generated": "2026-10-20T11:08:37+00:00",
   "opportunities": [
     {
-      "title": "One Stolen Credential, 173 Hacked Tenants: Inside the ConnectWise Supply-Chain Meltdown",
-      "why_now": "ConnectWise just suspended its SaaS backup/security tools after attackers used a single compromised credential to breach 173 Microsoft 365 tenants, and the story is still unfolding across multiple outlets.",
-      "angle": "Timeline explainer: how a single credential cascaded into an MSP supply-chain incident, what ConnectWise customers should do right now, and why RMM/PSA tools remain the softest underbelly of IT.",
-      "source": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758"
+      "title": "Patched This Morning, Pwned by Lunch: Inside the Plex2Shell Exploit Chain",
+      "why_now": "Attackers weaponized the Plex2Shell flaws into working crypto-miner and backdoor payloads within hours of public disclosure, the exact patch-cadence failure this channel tracks.",
+      "angle": "Timeline breakdown: disclosure clock vs. exploit clock, with a checklist for self-hosted Plex admins on emergency mitigation.",
+      "source": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/"
     },
     {
-      "title": "BeyondTrust Zero-Day Is the Latest Proof: Your Edge Devices Are the New Perimeter Breach Point",
-      "why_now": "A fresh BeyondTrust Remote Support zero-day is being actively exploited, continuing an unmistakable 2026 pattern of attackers targeting edge/remote-access software over endpoints.",
-      "angle": "Trend roundup connecting BeyondTrust to the year's other edge-bug exploits, with a blunt 'patch cadence' checklist for remote support tools specifically.",
-      "source": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs"
+      "title": "ConnectWise Just Killed Cloud Backups Mid-Breach — What Every MSP Client Needs to Know",
+      "why_now": "ConnectWise suspended cloud services and disabled backups amid an active cyberattack, directly threatening the downstream MSPs and small businesses that rely on it.",
+      "angle": "Explainer on single-point-of-failure risk in MSP tooling, with a 'what to do right now if you're a downstream client' action list.",
+      "source": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/"
     },
     {
-      "title": "Critical KVM Guest-to-Host Escape Just Rewrote the Cloud Threat Model",
-      "why_now": "A newly rated-critical Linux KVM escape could let a malicious VM break out to the hypervisor, a nightmare scenario for every cloud provider running penguin-powered infrastructure.",
-      "angle": "Technical-but-readable breakdown of why guest-host escapes matter more than typical CVEs, plus a patch-priority call to action for anyone running KVM-based multi-tenant infra.",
-      "source": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
+      "title": "Nikkei Just Got Breached for the Third Time This Month — That's Not Bad Luck, That's a Pattern",
+      "why_now": "A major news organization disclosing its third breach in a single month (1.8M records) is a rare, quotable data point for the 'inevitable breach' thesis.",
+      "angle": "Short investigative timeline piece connecting the three Nikkei incidents to ask whether repeated breaches signal systemic security debt rather than isolated incidents.",
+      "source": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/"
     },
     {
-      "title": "Your Router Is Rootable Right Now: The Unpatched Broadcom Wi-Fi Flaw Nobody's Fixing",
-      "why_now": "An unpatched Broadcom Wi-Fi vulnerability lets anyone in radio range get root on affected routers, with no fix yet available — a live, unmitigated consumer/enterprise exposure.",
-      "angle": "Urgent advisory-style post: who's affected, why 'no patch yet' is the scariest phrase in security, and mitigation steps (segment, disable remote admin, watch for vendor advisories).",
-      "source": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html"
+      "title": "Drupal's 'Patch Now or Else' Warning: Critical Core RCE Flaw Has a Fast-Exploitation Clock Ticking",
+      "why_now": "Drupal itself is warning of imminent mass exploitation for a critical core RCE, giving this channel a hard patch-cadence deadline to publicize before attackers move.",
+      "angle": "Urgent patch-now advisory format with CVE details, affected versions, and a 'why Drupal sites get hit fast' explainer on exposure surface.",
+      "source": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/"
     },
     {
-      "title": "Cybercrime Just Got Physical: Hackers Are Now Attacking Building Systems, Not Just Databases",
-      "why_now": "Reports confirm cybercriminals are pivoting from data theft to attacking physical building control systems, signaling ransomware's next terrifying frontier beyond IT.",
-      "angle": "Forward-looking feature on IT/OT convergence risk — frame it as 'the next ransomware payload isn't encryption, it's your elevators and HVAC,' with examples and defensive takeaways for facilities teams.",
-      "source": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677"
+      "title": "ClickFix Is Eating the Internet: Siemens, ROMULUS, and the Fake-CAPTCHA Malware Epidemic",
+      "why_now": "Multiple outlets this week independently reported new ClickFix campaigns (Siemens Software Center flaw, new ROMULUS platform), showing this social-engineering technique has gone mainstream across threat actors.",
+      "angle": "Trend roundup connecting the dots across the Siemens, ROMULUS, and prior ClickFix stories to explain why 'fix your browser' prompts are now a top malware delivery vector.",
+      "source": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html"
     }
   ]
 }
