@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-20T11:08:37+00:00",
+  "generated": "2026-10-21T11:08:09+00:00",
   "opportunities": [
     {
-      "title": "Mt. Gox Just Extended Its Deadline for the Sixth Time. $2.8B Still Sits There. You Already Know How This Ends",
-      "why_now": "The sixth deadline extension to 2027 is a gift-wrapped 'we told you so' moment for a channel built on exactly that premise.",
-      "angle": "Timeline retrospective + snark: list all six extensions since 2014, calculate how many bull/bear cycles creditors have missed, end with the thesis that trustless custody isn't optional",
+      "title": "The Drift Exploiter Just Laundered $170M in Four Days — And Nobody's Stopping It",
+      "why_now": "The attacker moved $61M then $109M more to Tornado Cash in under 48 hours, turning a hack into a live laundering masterclass.",
+      "angle": "Technical breakdown of the Tornado Cash routing pattern + what it says about on-chain forensics' actual limits, not their marketing",
+      "source": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Mt. Gox Just Pushed Its Deadline to 2027. For the Sixth Time. We Told You.",
+      "why_now": "A 12-year-old hack's creditors are still waiting, the perfect proof point for 'already know how this ends' readers who called this years ago.",
+      "angle": "Timeline/listicle of all six extensions with the real reasons (legal, tax, custody) behind each delay, ending with a prediction for extension #7",
       "source": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$54.8M Just Walked Into Tornado Cash From a Drift-Linked Wallet — Here's the On-Chain Trail",
-      "why_now": "Fresh, large, named-protocol-linked laundering event is exactly the forensic hook security-minded readers click on.",
-      "angle": "On-chain investigation thread: trace the wallet, timestamp the Drift connection, map the mixer deposit pattern, flag what this means for DeFi protocol insiders",
-      "source": "https://thedefiant.io/news/hacks/drift-linked-wallet-sends-54-8-million-in-eth-to-tornado-cash"
+      "title": "The Internet's Trust Layer Just Failed a Basic Math Test: 8 'Secure' Keys Cracked",
+      "why_now": "A website-verification company had secret keys weak enough to brute-force, a quiet but massive failure in the infrastructure crypto apps quietly depend on.",
+      "angle": "Explain what these keys actually protect (TLS/cert trust), map it to crypto exchange/wallet reliance on the same infra, and ask what else is this weak",
+      "source": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
     },
     {
-      "title": "SlowMist Says Qubic Private Keys Can Be Pulled From Just Six Network Samples — This Is Not a Drill",
-      "why_now": "A key-recovery vulnerability from live network samples is a core infrastructure security story breaking right now, not theoretical.",
-      "angle": "Technical breakdown for a knowing audience: explain the attack surface, why six samples is a shockingly low bar, and what wallets/chains should be watching their own entropy sources",
-      "source": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples"
+      "title": "30,000 BTC, One Balance Sheet: What the SpaceX-Tesla Merger Really Concentrates",
+      "why_now": "A potential merger would combine two of the largest corporate bitcoin holders into a single custodial point of failure, right as JPMorgan is pricing BTC like a bond.",
+      "angle": "Risk-concentration piece: custody chain, key management at that scale, and why 'line go up' treasury stacking ignores single-entity tail risk",
+      "source": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin"
     },
     {
-      "title": "A Lido Engineer Just Warned Glamsterdam Could Let Attackers Hijack Staking Deposits — Who's Actually Listening?",
-      "why_now": "An insider security warning on upcoming Ethereum upgrade Glamsterdam is a pre-exploit story the channel can own before it becomes a headline.",
-      "angle": "Explainer + call-out: what the hijack vector actually is, why staking deposit contracts are high-value targets, and the pattern of warnings getting ignored until funds move",
-      "source": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam"
-    },
-    {
-      "title": "AnchorWatch Offers $370M Insurance Per Client on Bitcoin Custody — Great, Now Ask What It Doesn't Cover",
-      "why_now": "A splashy new custody insurance product is the perfect foil for the channel's skeptical, security-first voice amid ongoing Mt. Gox fallout.",
-      "angle": "Skeptical product teardown: read the fine print on exclusions, compare to past 'insured' custodians that still failed, frame insurance as marketing not a security model",
-      "source": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-370-million"
+      "title": "Monero Futures Are Levering Up Again — Someone's Going to Get Liquidated Into the Dark",
+      "why_now": "Leverage is building on the one asset designed to make exit scrutiny impossible, a volatility setup security-minded traders should see coming.",
+      "angle": "Explain the mechanics of liquidation cascades on illiquid privacy-coin derivatives, and who actually eats the risk when it unwinds",
+      "source": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks"
     }
   ]
 }

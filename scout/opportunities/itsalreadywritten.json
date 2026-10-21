@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-20T11:08:37+00:00",
+  "generated": "2026-10-21T11:08:09+00:00",
   "opportunities": [
     {
-      "title": "Scene-Framing Isn't Optional: Breaking Down Sly Flourish's 'Scenes and Situations' Against the Actual DMG Guidance",
-      "why_now": "A fresh GMing analysis piece landed that directly engages with how rulebooks define scene structure, perfect for a rules-first breakdown.",
-      "angle": "Side-by-side comparison post: quote the article's framework, then cite exact rulebook language on scene/encounter structure to confirm or correct it",
+      "title": "Sly Flourish's 'Scenes and Situations': The Rules You Didn't Know You Were Already Using",
+      "why_now": "A fresh GMing framework just dropped that reframes prep as structured, rules-adjacent design rather than improv.",
+      "angle": "Breakdown post dissecting the framework against classic scene-based prep systems (PbtA fronts, Blades clocks) to show it's codifying what good GMs already do",
       "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
     },
     {
-      "title": "White Dwarf #44, Annotated: The Rules That Changed and the Ones Everyone Misremembers",
-      "why_now": "EN World's retrospective thread on White Dwarf #44 is a ready-made excuse to dig into the actual rules text from that era versus modern misquotes.",
-      "angle": "Archival deep-dive thread: pull 3-4 specific rules citations from the issue and fact-check how they're commonly misremembered today",
-      "source": "https://www.enworld.org/threads/white-dwarf-reflections-44.720284/"
+      "title": "Gnomecast Asks 'What the System Wants' — We Already Know the Answer",
+      "why_now": "New podcast episode tackles system design philosophy, a direct match for a rules-first beat.",
+      "angle": "Response/companion piece or pull-quote thread distilling the episode's core design claims into testable rules principles",
+      "source": "https://gnomestew.com/gnomecast-248-what-the-system-wants/"
     },
     {
-      "title": "'We Don't Sell That Here': What the FLGS Controversy Actually Says About OGL/Community Policy, Not Just Vibes",
-      "why_now": "RPG Evolution's piece is sparking opinion-driven takes online; a rules/policy-first angle cuts through the noise with citations.",
-      "angle": "Explainer thread pulling actual store policy language, OGL/Creator Agreement clauses, and community conduct rules referenced (or ignored) in the debate",
-      "source": "https://www.enworld.org/threads/rpg-evolution-we-don%E2%80%99t-sell-that-here.720711/"
+      "title": "OɴᴇQᴜᴇsᴛs Launches: How Its Solo Survival Engine Actually Resolves Conflict",
+      "why_now": "Two new interactive solo survival games just went live, giving a concrete new ruleset to dissect before reviews pile up.",
+      "angle": "Mechanics-first explainer/rules teardown of the resolution system, positioned as first-look analysis ahead of broader coverage",
+      "source": "https://www.enworld.org/threads/now-live-o%C9%B4%E1%B4%87q%E1%B4%9C%E1%B4%87s%E1%B4%9Bs-two-interactive-solo-survival-games.721031/"
     },
     {
-      "title": "This Week's Free & Discounted Rules Content: What's Actually Worth Your Shelf (A Line-Item Breakdown)",
-      "why_now": "EN World's weekly freebies/sales/charity roundup is live and timely, but it lacks rules-literacy filtering that our audience wants.",
-      "angle": "Curated listicle ranking each deal by rules substance/crunch value rather than just price, flagging which are reprints vs. new mechanics",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-19-2026.721020/"
-    },
-    {
-      "title": "Corpse Flies, Haunted Mansions, Possession Mechanics: The Actual Rules Behind October's Spookiest Releases",
-      "why_now": "EN World's Eerie October roundup names specific horror-themed products just as Halloween-season buying peaks.",
-      "angle": "Mechanics-focused review digging into the actual possession/haunting rule subsystems in the named products, not just vibes/flavor",
+      "title": "Corpse Flies and Haunted Mansions: What This Week's Horror Supplements Teach About Fear Mechanics",
+      "why_now": "A cluster of new eerie-themed releases (haunted mansion, possession, corpse flies) just dropped together, perfect for a mechanics comparison.",
+      "angle": "Side-by-side rules analysis of how each supplement mechanizes horror/dread, written as a buyer's mechanical guide not a review",
       "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
+    },
+    {
+      "title": "White Dwarf Reflections #44: The Rules That Shaped a Generation, Reread",
+      "why_now": "The ongoing retrospective series just posted its 44th entry, offering built-in nostalgia hooks for rules history content.",
+      "angle": "Annotated reread pulling specific rules text from the issue and tracing its lineage into modern systems",
+      "source": "https://www.enworld.org/threads/white-dwarf-reflections-44.720284/"
     }
   ]
 }

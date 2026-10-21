@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-20T11:08:37+00:00",
+  "generated": "2026-10-21T11:08:09+00:00",
   "opportunities": [
     {
-      "title": "Corpse Flies Are Not a Swarm: The Half-Damage Rule Everyone Gets Wrong",
-      "why_now": "EN World's Halloween roundup just spotlighted corpse flies as a featured spooky-season monster.",
-      "angle": "60-sec creature tactic short: show the swarm traits block, call out the common houserule error of applying swarm immunity to corpse flies when they're not statted as a swarm, give the correct half-damage/condition-immunity breakdown.",
+      "title": "Corpse Flies Ruling: Why That 'Free' Loot Pile Just Cost You a Level 1 Character",
+      "why_now": "Eerie October module releases are spotlighting corpse flies as a seasonal encounter, making this the week everyone's statting up spooky swarms.",
+      "angle": "60-sec creature tactic breakdown: trigger condition, swarm damage math, and the one save DC GMs always get wrong",
       "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
     },
     {
-      "title": "'We Don't Sell That Here': The Session Zero Line Your FLGS Already Drew",
-      "why_now": "RPG Evolution's piece on stores refusing to stock certain content maps directly onto the lines-and-veils conversation GMs avoid.",
-      "angle": "Rules-ruling-adjacent short: frame it as a 'table ruling' — how to set content boundaries before session 1 without a lecture, dry delivery, end on a one-liner GM rule.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-we-don%E2%80%99t-sell-that-here.720711/"
+      "title": "How Possession Actually Works in 5e (Most Tables Are Doing It Wrong)",
+      "why_now": "New haunted-mansion module content built around possession mechanics is hitting shelves this week, so the ruling is timely and shareable for Halloween-season games.",
+      "angle": "Dry rules-ruling short: walk through the Ghost stat block's possession action, saving throw cadence, and what happens when the host dies mid-possession",
+      "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
     },
     {
-      "title": "Stop Writing Plots. Write Situations. (Sly Flourish Is Right.)",
-      "why_now": "Sly Flourish just published a fresh breakdown of scene/situation-based prep that's catnip for the daily-GM-tip audience.",
-      "angle": "Prep methodology short: contrast a railroaded plot outline vs. a 3-bullet situation, show how it collapses prep time, deliver as a terse 'ruling' on how to run a session, not a book report.",
+      "title": "Scene vs. Situation: The One Prep Mistake That Makes Your Dungeon Boring",
+      "why_now": "Sly Flourish's fresh analysis on scenes vs. situations gives a crisp framework worth condensing into a punchy GM-technique short this week.",
+      "angle": "Veteran-GM teardown: define 'situation,' show a bad linear scene vs. a good open situation using a one-room dungeon example",
       "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
     },
     {
-      "title": "Pool of Radiance Returns Nov 6 — Here's the 5e Stat Block Hiding Inside Its Hardest Fight",
-      "why_now": "Ruins of Myth Drannor's Steam/GOG launch date just dropped, giving CRPG crossover fans a reason to click a tabletop tie-in.",
-      "angle": "Spell/creature use-case short: pick the game's signature Myth Drannor threat and translate it into an actual 5e (or DCC) stat adjustment or tactic, bridging CRPG hype to tabletop content.",
-      "source": "https://www.rpgsite.net/news/21595-pool-of-radiance-ruins-of-myth-drannor-steam-release-date-deck-controller-support-gog-demo"
+      "title": "D&D Toilet Paper Exists. Here's the Spell That's Actually More Useless.",
+      "why_now": "The viral D&D-themed toilet paper story gives a built-in comedic hook to pair with a genuinely dry rules roast of an underused spell.",
+      "angle": "Wry cold-open joke tying the toilet paper news to a specific spell use-case (e.g., Mending or Prestidigitation) with an actual niche tactical use revealed at the end",
+      "source": "https://www.enworld.org/threads/if-you-need-some-d-d-themed-toilet-paper-todays-your-lucky-day.721018/"
     },
     {
-      "title": "The Twenty-Sided Tavern Redux Proves Your One-Shot Needs a Gimmick, Not a Plot",
-      "why_now": "RPG Evolution's redux coverage of the Twenty-Sided Tavern format is a timely hook into one-shot design for GMs scrambling before holiday game nights.",
-      "angle": "Format-focused short: break down what makes a 'tavern gimmick' one-shot work mechanically (clear win-state, timer, escalating complication) and give a 60-second template GMs can steal.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-the-twenty-sided-tavern-redux.720242/"
+      "title": "What Does Shadowdark Actually Want From You? (A Dry Comparison to 5e)",
+      "why_now": "Gnomecast's new episode on 'what the system wants' is fresh systems-design discourse perfect for a cross-system comparison short that fits the channel's 5e/Shadowdark/DCC rotation.",
+      "angle": "Mechanical breakdown: contrast how 5e's bounded accuracy vs. Shadowdark's real-time torch pressure each incentivize different player behavior, in one tight example",
+      "source": "https://gnomestew.com/gnomecast-248-what-the-system-wants/"
     }
   ]
 }

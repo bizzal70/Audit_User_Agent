@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-20T11:08:37+00:00",
+  "generated": "2026-10-21T11:08:09+00:00",
   "opportunities": [
     {
-      "title": "Patched This Morning, Pwned by Lunch: Inside the Plex2Shell Exploit Chain",
-      "why_now": "Attackers weaponized the Plex2Shell flaws into working crypto-miner and backdoor payloads within hours of public disclosure, the exact patch-cadence failure this channel tracks.",
-      "angle": "Timeline breakdown: disclosure clock vs. exploit clock, with a checklist for self-hosted Plex admins on emergency mitigation.",
-      "source": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/"
+      "title": "The Number 4: How India's Top Certificate Authority Lost Control of 8 Private Keys",
+      "why_now": "eMudhra's CA key compromise is forcing emergency cert revocations across every major browser and OS vendor right now.",
+      "angle": "Breach-digest deep dive with timeline: how a CA with 'trust anchor' status ended up signing malware with keys this weak, plus what site owners need to check today.",
+      "source": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
     },
     {
-      "title": "ConnectWise Just Killed Cloud Backups Mid-Breach — What Every MSP Client Needs to Know",
-      "why_now": "ConnectWise suspended cloud services and disabled backups amid an active cyberattack, directly threatening the downstream MSPs and small businesses that rely on it.",
-      "angle": "Explainer on single-point-of-failure risk in MSP tooling, with a 'what to do right now if you're a downstream client' action list.",
-      "source": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/"
+      "title": "PHP2Shell: Two Unpatched 9.2 RCEs Are About to Turn Every Unpatched PHP Box Into a Shell",
+      "why_now": "Critical PHP flaws leaked without patches available yet, with researchers warning mass exploitation is imminent.",
+      "angle": "Patch-cadence alert format: what's vulnerable, what CISA/vendors are saying, and a countdown framing ('this is the calm before PHP2Shell') to drive urgency clicks.",
+      "source": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
     },
     {
-      "title": "Nikkei Just Got Breached for the Third Time This Month — That's Not Bad Luck, That's a Pattern",
-      "why_now": "A major news organization disclosing its third breach in a single month (1.8M records) is a rare, quotable data point for the 'inevitable breach' thesis.",
-      "angle": "Short investigative timeline piece connecting the three Nikkei incidents to ask whether repeated breaches signal systemic security debt rather than isolated incidents.",
-      "source": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/"
+      "title": "Qilin and INC Ransomware Gangs Are Already Inside Palo Alto's Firewall OS — Since June",
+      "why_now": "Multiple ransomware groups have been exploiting a Palo Alto PAN-OS flaw to bypass MFA since June, only now fully detailed.",
+      "angle": "Threat-actor profile crossed with patch-cadence failure: how long the exploit window has been open versus when patches landed, framed as a 'your firewall was the breach vector' piece.",
+      "source": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226"
     },
     {
-      "title": "Drupal's 'Patch Now or Else' Warning: Critical Core RCE Flaw Has a Fast-Exploitation Clock Ticking",
-      "why_now": "Drupal itself is warning of imminent mass exploitation for a critical core RCE, giving this channel a hard patch-cadence deadline to publicize before attackers move.",
-      "angle": "Urgent patch-now advisory format with CVE details, affected versions, and a 'why Drupal sites get hit fast' explainer on exposure surface.",
-      "source": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/"
+      "title": "The Ransom Negotiator Who Might Have Been Running the Extortion Site He 'Negotiated' Against",
+      "why_now": "Federal investigators now suspect a professional ransom negotiator secretly operated the ShinyHunters extortion leak site.",
+      "angle": "Narrative crime piece — inevitable-breach digest's dark-irony angle on an industry insider allegedly gaming victims from both sides of the table.",
+      "source": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
     },
     {
-      "title": "ClickFix Is Eating the Internet: Siemens, ROMULUS, and the Fake-CAPTCHA Malware Epidemic",
-      "why_now": "Multiple outlets this week independently reported new ClickFix campaigns (Siemens Software Center flaw, new ROMULUS platform), showing this social-engineering technique has gone mainstream across threat actors.",
-      "angle": "Trend roundup connecting the dots across the Siemens, ROMULUS, and prior ClickFix stories to explain why 'fix your browser' prompts are now a top malware delivery vector.",
-      "source": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html"
+      "title": "Cairn: The AI Pen-Test Tool That Hackers Turned Into an Autopilot for Breaching 100+ Companies",
+      "why_now": "Researchers just confirmed an AI pen-testing platform was weaponized to automate attacks against over 100 organizations and 1,200+ sites.",
+      "angle": "Trend piece on offensive-AI-as-a-service, framing it as the next inevitable-breach vector worth watching for every CISO's threat model.",
+      "source": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/"
     }
   ]
 }

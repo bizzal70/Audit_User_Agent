@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-20T11:08:37+00:00",
+  "generated": "2026-10-21T11:08:09+00:00",
   "plays": [
     {
-      "story": "Sly Flourish's 'Scenes and Situations' reframes GM prep around flexible 'situations' instead of scripted scenes, arguing that over-prepped scenes create railroading.",
+      "story": "Indian certificate authority eMudhra had private keys so weak that 8 were cracked (one was literally the number '4'), forcing Chrome/Microsoft/Mozilla to block its certs — reported in parallel by CoinDesk's tech desk and cyber outlets",
       "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
+        "itsalreadypriced",
+        "itsalreadywhen"
       ],
       "angles": {
-        "bizzal-games": "Stop Prepping Scenes, Start Prepping Situations: Sly Flourish's GM Framework for Killing Railroading at Your Table — a practical breakdown with a ready-to-steal prep template.",
-        "itsalreadywritten": "If You Can Reskin the Scene, Was It Ever Written? Sly Flourish's Situation-Based GMing and the Myth of Player Agency — using the essay to interrogate how much of 'improvised' TTRPG storytelling is actually predetermined."
+        "itsalreadypriced": "'The Trust Layer Under Every HTTPS Exchange Login Just Got Cracked — Literally': explain how a CA root compromise ripples into exchange/custody TLS trust, and what 'secret key = the number 4' means for anyone securing crypto infrastructure",
+        "itsalreadywhen": "'One of eMudhra's Secret Keys Was Just the Digit 4': breakdown of the audit failure, which browsers moved first to distrust the certs, and a checklist for auditing your own CA dependencies this week"
       },
-      "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
+      "source": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
     },
     {
-      "story": "EN World's 'RPG Evolution: We Don't Sell That Here' covers a game store refusing to carry certain RPG content, reigniting a retailer gatekeeping debate.",
+      "story": "The Drift protocol exploiter has laundered over $109M of stolen ETH through Tornado Cash in 48 hours while still sitting on $194M more — an active, trackable on-chain heist unfolding in real time",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'The Drift Hacker Just Ran $109M Through a Sanctioned Mixer — Here's the On-Chain Timeline So Far': live tracker-style piece following the remaining $194M and what it means for DeFi insurance/market confidence",
+        "itsalreadywhen": "'Anatomy of a $300M Exploit: How the Drift Attacker Is Outrunning Chain Surveillance': technical walkthrough of the exploit mechanics plus the laundering tradecraft defenders should be watching for"
+      },
+      "source": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Gnome Stew's RPG Evolution column 'We Don't Sell That Here' examines retailers refusing to stock certain TTRPG content, reigniting the industry's content-gatekeeping debate",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "When Your FLGS Says No: Inside the Retailer Backlash Over Banned RPG Titles and What It Means for Shelf Space Nationwide.",
-        "itsalreadywritten": "Who Decides What Stories Get Told? The 'We Don't Sell That Here' Controversy and the Myth of a Neutral Game Store Shelf."
+        "bizzal-games": "'Should Your FLGS Get to Decide What You're Allowed to Play? The 'We Don't Sell That Here' Fight': a reported piece on retail gatekeeping, with store-owner and customer takes",
+        "itsalreadywritten": "'When a Content Warning Becomes a Ban: What TTRPG Writers Can Learn from the 'We Don't Sell That Here' Controversy': craft-focused piece on writing adult/transgressive content that survives retail scrutiny"
       },
       "source": "https://www.enworld.org/threads/rpg-evolution-we-don%E2%80%99t-sell-that-here.720711/"
     },
     {
-      "story": "A fake Web3 'accelerator' program is distributing malware via npm packages, hijacking AI agent traffic to steal credentials from crypto-adjacent developers.",
+      "story": "Sly Flourish's new 'Scenes and Situations' piece proposes replacing scripted plots with modular scene-based prep for GMs",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "bizzal-games",
+        "itsalreadywritten"
       ],
       "angles": {
-        "itsalreadypriced": "The Web3 Accelerator That Never Existed: How Fake VC Programs Are Weaponizing Founder FOMO to Drain Wallets.",
-        "itsalreadywhen": "ClickFix Goes Crypto: Breaking Down the Fake Web3 Accelerator npm Supply-Chain Attack Hijacking AI Agent Traffic."
+        "bizzal-games": "'Ditch the Railroad: Sly Flourish's 'Scenes and Situations' Prep Method, Tried at the Table': a practical breakdown GMs can use this weekend",
+        "itsalreadywritten": "'Scenes, Not Plots: The Structural Trick Adventure Writers Keep Stealing From Sly Flourish': how modular scene design changes how published adventures should be written"
       },
-      "source": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html"
-    },
-    {
-      "story": "The Hacker News' weekly recap tallies 98 zero-days, rogue AI agents, and a $100M crypto theft hitting 700+ supermarkets in a single week.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "The Week Crypto Lost $100M (Again): What This Week's Hacker News Recap Says About DeFi's Unpaid Security Debt.",
-        "itsalreadywhen": "98 Zero-Days in One Week: Unpacking the Hacker News Recap on Rogue AI Agents and the $100M Heist Nobody's Talking About."
-      },
-      "source": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html"
+      "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
     }
   ]
 }
