@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-21T11:08:09+00:00",
+  "generated": "2026-10-22T11:07:56+00:00",
   "opportunities": [
     {
-      "title": "Corpse Flies Ruling: Why That 'Free' Loot Pile Just Cost You a Level 1 Character",
-      "why_now": "Eerie October module releases are spotlighting corpse flies as a seasonal encounter, making this the week everyone's statting up spooky swarms.",
-      "angle": "60-sec creature tactic breakdown: trigger condition, swarm damage math, and the one save DC GMs always get wrong",
+      "title": "Corpse Fly Swarm Tactics: The Eerie October Monster That Eats Your Cleric Alive",
+      "why_now": "EN World's Halloween roundup just spotlighted corpse flies as a seasonal horror monster, giving a timely hook for a swarm/disease tactics breakdown.",
+      "angle": "60-sec creature tactic short: stat corpse fly swarm for 5e/DCC, show how swarm damage + disease rules punish melee clerics, dry delivery with a 'don't touch the corpse' punchline.",
       "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
     },
     {
-      "title": "How Possession Actually Works in 5e (Most Tables Are Doing It Wrong)",
-      "why_now": "New haunted-mansion module content built around possession mechanics is hitting shelves this week, so the ruling is timely and shareable for Halloween-season games.",
-      "angle": "Dry rules-ruling short: walk through the Ghost stat block's possession action, saving throw cadence, and what happens when the host dies mid-possession",
+      "title": "Magic Jar vs. Haunted Mansion Possession: Who Actually Wins the Save?",
+      "why_now": "The same EN World Eerie October piece features a possession-themed haunted mansion module, perfect timing for a possession-mechanics ruling right before Halloween.",
+      "angle": "Rules ruling short walking through Magic Jar's save sequence vs. a generic 'NPC possession' trap, clarifying whose Wisdom save actually matters and when control transfers.",
       "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
     },
     {
-      "title": "Scene vs. Situation: The One Prep Mistake That Makes Your Dungeon Boring",
-      "why_now": "Sly Flourish's fresh analysis on scenes vs. situations gives a crisp framework worth condensing into a punchy GM-technique short this week.",
-      "angle": "Veteran-GM teardown: define 'situation,' show a bad linear scene vs. a good open situation using a one-room dungeon example",
-      "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
-    },
-    {
-      "title": "D&D Toilet Paper Exists. Here's the Spell That's Actually More Useless.",
-      "why_now": "The viral D&D-themed toilet paper story gives a built-in comedic hook to pair with a genuinely dry rules roast of an underused spell.",
-      "angle": "Wry cold-open joke tying the toilet paper news to a specific spell use-case (e.g., Mending or Prestidigitation) with an actual niche tactical use revealed at the end",
-      "source": "https://www.enworld.org/threads/if-you-need-some-d-d-themed-toilet-paper-todays-your-lucky-day.721018/"
-    },
-    {
-      "title": "What Does Shadowdark Actually Want From You? (A Dry Comparison to 5e)",
-      "why_now": "Gnomecast's new episode on 'what the system wants' is fresh systems-design discourse perfect for a cross-system comparison short that fits the channel's 5e/Shadowdark/DCC rotation.",
-      "angle": "Mechanical breakdown: contrast how 5e's bounded accuracy vs. Shadowdark's real-time torch pressure each incentivize different player behavior, in one tight example",
+      "title": "What Your System Actually Wants From You: DCC vs 5e vs Shadowdark in 90 Seconds",
+      "why_now": "Gnomecast's new episode on 'what the system wants' is fresh analysis content that maps directly onto the channel's cross-system beat.",
+      "angle": "Dry veteran-GM comparison short: same combat scenario run through 5e's action economy, DCC's funnel chaos, and Shadowdark's real-time torch pressure, ending on a one-line verdict.",
       "source": "https://gnomestew.com/gnomecast-248-what-the-system-wants/"
+    },
+    {
+      "title": "White Dwarf's Monsters Had Teeth — Here's One Statted for Shadowdark",
+      "why_now": "White Dwarf Reflections #44 just dropped, reviving interest in old-school monster design right as nostalgia content performs well.",
+      "angle": "Take one brutal classic White Dwarf monster concept and give it a quick Shadowdark/DCC stat conversion, framed as 'why modern monsters got soft.'",
+      "source": "https://www.enworld.org/threads/white-dwarf-reflections-44.720284/"
+    },
+    {
+      "title": "Dragon Kings Crowdfunds a New Psionics System — Will It Break 5e's Action Economy?",
+      "why_now": "This week's EN World crowdfunding roundup includes Dragon Kings' psionics pitch, a timely peg for evaluating a new subsystem against existing rules.",
+      "angle": "Mechanical teardown short: pull the crowdfunded psionics mechanic, run it against 5e's bonus-action/reaction economy, deliver a blunt verdict on whether it's balanced or busted.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-13-omens-munchkin-dragon-kings-and-more.721044/"
     }
   ]
 }

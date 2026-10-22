@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-21T11:08:09+00:00",
+  "generated": "2026-10-22T11:07:56+00:00",
   "opportunities": [
     {
-      "title": "The Drift Exploiter Just Laundered $170M in Four Days — And Nobody's Stopping It",
-      "why_now": "The attacker moved $61M then $109M more to Tornado Cash in under 48 hours, turning a hack into a live laundering masterclass.",
-      "angle": "Technical breakdown of the Tornado Cash routing pattern + what it says about on-chain forensics' actual limits, not their marketing",
+      "title": "CoinDCX Swears 'No User Losses' After $16M Walked Out the Door — We've Read This Script Before",
+      "why_now": "A live incident with the exchange actively denying a hack while funds are already moving is exactly the pattern this channel calls out before it's confirmed.",
+      "angle": "Timeline breakdown of the denial-to-disclosure playbook, with a running tally of past exchanges that said the same thing before admitting a breach",
+      "source": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "$194M and Rising: The Drift Exploiter Is Laundering in Broad Daylight and Nobody Can Stop It",
+      "why_now": "Two consecutive days of $61M then $109M moved to Tornado Cash is an escalating, trackable on-chain story with sanctions clearly doing nothing.",
+      "angle": "On-chain forensic thread/post tracing the wallet flows and asking why sanctions on a mixer haven't moved the needle since 2022",
       "source": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Mt. Gox Just Pushed Its Deadline to 2027. For the Sixth Time. We Told You.",
-      "why_now": "A 12-year-old hack's creditors are still waiting, the perfect proof point for 'already know how this ends' readers who called this years ago.",
-      "angle": "Timeline/listicle of all six extensions with the real reasons (legal, tax, custody) behind each delay, ending with a prediction for extension #7",
+      "title": "The Bug That Took Down 70% of the Internet Was Known for Months — PHP Foundation Just Admitted Why Nobody Patched It",
+      "why_now": "PHP Foundation's own 'structural failure' admission plus Cloudflare's millions-of-exploit-attempts warning is a rare on-record confession of the negligence this channel has been predicting.",
+      "angle": "Post-mortem explainer connecting the disclosure delay to how crypto infra (RPCs, bridges, wallets) inherits the same patch-lag risk",
+      "source": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Mt. Gox Pushes Repayment to 2027 — Again. The Slowest Rug Pull in Crypto History Just Got Slower",
+      "why_now": "The sixth extension of a 2014 hack's repayment deadline is a perfect 'already priced' moment to remind readers this saga still isn't over.",
+      "angle": "Satirical/deadpan timeline of all six extensions with a running 'years creditors have waited' counter",
       "source": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Internet's Trust Layer Just Failed a Basic Math Test: 8 'Secure' Keys Cracked",
-      "why_now": "A website-verification company had secret keys weak enough to brute-force, a quiet but massive failure in the infrastructure crypto apps quietly depend on.",
-      "angle": "Explain what these keys actually protect (TLS/cert trust), map it to crypto exchange/wallet reliance on the same infra, and ask what else is this weak",
-      "source": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
-    },
-    {
-      "title": "30,000 BTC, One Balance Sheet: What the SpaceX-Tesla Merger Really Concentrates",
-      "why_now": "A potential merger would combine two of the largest corporate bitcoin holders into a single custodial point of failure, right as JPMorgan is pricing BTC like a bond.",
-      "angle": "Risk-concentration piece: custody chain, key management at that scale, and why 'line go up' treasury stacking ignores single-entity tail risk",
-      "source": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin"
-    },
-    {
-      "title": "Monero Futures Are Levering Up Again — Someone's Going to Get Liquidated Into the Dark",
-      "why_now": "Leverage is building on the one asset designed to make exit scrutiny impossible, a volatility setup security-minded traders should see coming.",
-      "angle": "Explain the mechanics of liquidation cascades on illiquid privacy-coin derivatives, and who actually eats the risk when it unwinds",
-      "source": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks"
+      "title": "China Wants to Seize 61,800 BTC From a $5.7B Fraud — Here's Who Actually Gets Rich When a State Confiscates Your Crypto",
+      "why_now": "A fresh, massive state seizure tied to fraud gives a timely hook to explain the opaque economics of government-held crypto.",
+      "angle": "Explainer comparing China's seizure to US DOJ's seized-BTC playbook and what happens to victims vs. the state's balance sheet",
+      "source": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-21T11:08:09+00:00",
+  "generated": "2026-10-22T11:07:56+00:00",
   "opportunities": [
     {
-      "title": "The Number 4: How India's Top Certificate Authority Lost Control of 8 Private Keys",
-      "why_now": "eMudhra's CA key compromise is forcing emergency cert revocations across every major browser and OS vendor right now.",
-      "angle": "Breach-digest deep dive with timeline: how a CA with 'trust anchor' status ended up signing malware with keys this weak, plus what site owners need to check today.",
-      "source": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
+      "title": "PHP2Shell: The Bug That Was Being Exploited Before It Had a Name",
+      "why_now": "Attackers hit PHP2Shell four days before public disclosure, and site owners are now being told to pull unpatched servers offline entirely — a textbook inevitable-breach timeline.",
+      "angle": "Patch-cadence timeline piece: disclosure vs. first exploitation vs. patch release, with a 'are you still exposed' checklist",
+      "source": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html"
     },
     {
-      "title": "PHP2Shell: Two Unpatched 9.2 RCEs Are About to Turn Every Unpatched PHP Box Into a Shell",
-      "why_now": "Critical PHP flaws leaked without patches available yet, with researchers warning mass exploitation is imminent.",
-      "angle": "Patch-cadence alert format: what's vulnerable, what CISA/vendors are saying, and a countdown framing ('this is the calm before PHP2Shell') to drive urgency clicks.",
-      "source": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
+      "title": "A Certificate Authority's Private Key Was Literally the Number '4' — And They're Defending It",
+      "why_now": "eMudhra is publicly defending laughably weak keys after tech giants moved to block its certs over 8 compromised keys, a rare case of a CA getting caught red-handed and arguing back.",
+      "angle": "Snarky breakdown of the keys + timeline of CA trust revocation, with 'how PKI trust actually breaks' explainer",
+      "source": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647"
     },
     {
-      "title": "Qilin and INC Ransomware Gangs Are Already Inside Palo Alto's Firewall OS — Since June",
-      "why_now": "Multiple ransomware groups have been exploiting a Palo Alto PAN-OS flaw to bypass MFA since June, only now fully detailed.",
-      "angle": "Threat-actor profile crossed with patch-cadence failure: how long the exploit window has been open versus when patches landed, framed as a 'your firewall was the breach vector' piece.",
-      "source": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226"
+      "title": "GitLab's CVSS 10.0 RCE Bug Has Been Lurking for 12 Years — Patch Now",
+      "why_now": "A maximum-severity unauthenticated RCE spanning a dozen years of releases is the kind of patch-cadence failure this channel exists to flag.",
+      "angle": "Urgent patch-now alert format with affected version matrix and exploit-likelihood framing",
+      "source": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
     },
     {
-      "title": "The Ransom Negotiator Who Might Have Been Running the Extortion Site He 'Negotiated' Against",
-      "why_now": "Federal investigators now suspect a professional ransom negotiator secretly operated the ShinyHunters extortion leak site.",
-      "angle": "Narrative crime piece — inevitable-breach digest's dark-irony angle on an industry insider allegedly gaming victims from both sides of the table.",
-      "source": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+      "title": "LiteLLM's Supply Chain Got Hijacked and It's Stealing Your Secrets Right Now",
+      "why_now": "A popular AI gateway package was compromised via a leaked GitHub token and is actively harvesting credentials — fresh, ongoing, and hits the hot AI-infra attack surface.",
+      "angle": "Incident breakdown: how the token leaked, what the backdoor does, and an immediate rotate-your-secrets action list",
+      "source": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html"
     },
     {
-      "title": "Cairn: The AI Pen-Test Tool That Hackers Turned Into an Autopilot for Breaching 100+ Companies",
-      "why_now": "Researchers just confirmed an AI pen-testing platform was weaponized to automate attacks against over 100 organizations and 1,200+ sites.",
-      "angle": "Trend piece on offensive-AI-as-a-service, framing it as the next inevitable-breach vector worth watching for every CISO's threat model.",
-      "source": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/"
+      "title": "Pharmacy Chain's IT Dept vs. Auditors: The Great 'Password' on the Firewall Fight",
+      "why_now": "A real, documented internal brawl over using the literal word 'password' on a Cisco firewall is peak inevitable-breach material and a perfect dark-comedy anchor story.",
+      "angle": "Darkly comic breakdown of the audit fight as a microcosm of why breaches happen, paired with a 'basic hygiene checklist' sidebar",
+      "source": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592"
     }
   ]
 }

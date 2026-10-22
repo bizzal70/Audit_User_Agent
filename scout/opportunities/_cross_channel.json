@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-21T11:08:09+00:00",
+  "generated": "2026-10-22T11:07:56+00:00",
   "plays": [
     {
-      "story": "Indian certificate authority eMudhra had private keys so weak that 8 were cracked (one was literally the number '4'), forcing Chrome/Microsoft/Mozilla to block its certs — reported in parallel by CoinDesk's tech desk and cyber outlets",
+      "story": "PHP2Shell critical vulnerability triggers mass exploitation and a 'structural failure' admission from the PHP Foundation, with Cloudflare reporting millions of attack attempts",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "itsalreadywhen",
+        "itsalreadypriced"
       ],
       "angles": {
-        "itsalreadypriced": "'The Trust Layer Under Every HTTPS Exchange Login Just Got Cracked — Literally': explain how a CA root compromise ripples into exchange/custody TLS trust, and what 'secret key = the number 4' means for anyone securing crypto infrastructure",
-        "itsalreadywhen": "'One of eMudhra's Secret Keys Was Just the Digit 4': breakdown of the audit failure, which browsers moved first to distrust the certs, and a checklist for auditing your own CA dependencies this week"
+        "itsalreadywhen": "'PHP2Shell: Inside the 72 Hours PHP Foundation Took to Patch a Bug That's Eating the Web' — timeline piece pulling together SecurityWeek's early-exploitation reporting, Cloudflare's millions-of-attempts warning, and the Foundation's own 'structural failure' admission into one definitive incident post-mortem.",
+        "itsalreadypriced": "'Your Exchange Runs on PHP — Here's Why PHP2Shell Should Worry Every Crypto Platform' — a wake-up-call piece connecting the mass PHP exploitation wave to the backend stacks powering exchanges, wallets, and DeFi front-ends, with a checklist for what custodians should be auditing right now."
       },
-      "source": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
+      "source": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/"
     },
     {
-      "story": "The Drift protocol exploiter has laundered over $109M of stolen ETH through Tornado Cash in 48 hours while still sitting on $194M more — an active, trackable on-chain heist unfolding in real time",
+      "story": "The Drift protocol exploiter moves a combined $170M+ in stolen ETH through Tornado Cash over two days",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'The Drift Hacker Just Ran $109M Through a Sanctioned Mixer — Here's the On-Chain Timeline So Far': live tracker-style piece following the remaining $194M and what it means for DeFi insurance/market confidence",
-        "itsalreadywhen": "'Anatomy of a $300M Exploit: How the Drift Attacker Is Outrunning Chain Surveillance': technical walkthrough of the exploit mechanics plus the laundering tradecraft defenders should be watching for"
+        "itsalreadypriced": "'The Drift Hacker's $170M Tornado Cash Dash: Mapping the Biggest Mixer Dump of 2026' — a market-and-chain-forensics explainer tracking the exploiter's wallet flows, what it signals about DeFi's exploit-to-launder pipeline, and whether the funds are recoverable.",
+        "itsalreadywhen": "'Anatomy of a $170M Laundry Job: How the Drift Exploiter Used Tornado Cash (and Why Mixers Still Work)' — a threat-actor-ops angle for security readers on mixer tradecraft, timing patterns, and what defenders/investigators can actually trace post-sanctions."
       },
       "source": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "Gnome Stew's RPG Evolution column 'We Don't Sell That Here' examines retailers refusing to stock certain TTRPG content, reigniting the industry's content-gatekeeping debate",
+      "story": "Certificate authority eMudhra is caught issuing certs with laughably weak private keys — including one key that was literally the digit '4' — forcing tech giants to block its certs",
       "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
+        "itsalreadywhen",
+        "itsalreadypriced"
       ],
       "angles": {
-        "bizzal-games": "'Should Your FLGS Get to Decide What You're Allowed to Play? The 'We Don't Sell That Here' Fight': a reported piece on retail gatekeeping, with store-owner and customer takes",
-        "itsalreadywritten": "'When a Content Warning Becomes a Ban: What TTRPG Writers Can Learn from the 'We Don't Sell That Here' Controversy': craft-focused piece on writing adult/transgressive content that survives retail scrutiny"
+        "itsalreadywhen": "'The Private Key Was Literally \"4\": Inside eMudhra's Certificate Authority Meltdown' — a technical breakdown of how a trusted CA shipped predictable keys, why browsers moved to distrust its certs, and what this means for the CA trust model.",
+        "itsalreadypriced": "'If a Certificate Authority Can Use \"4\" as a Private Key, How Confident Are You in Your Seed Phrase?' — using the eMudhra fiasco as a teaching moment on key-generation hygiene for wallets, custodians, and anyone rolling their own crypto key management."
       },
-      "source": "https://www.enworld.org/threads/rpg-evolution-we-don%E2%80%99t-sell-that-here.720711/"
+      "source": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
     },
     {
-      "story": "Sly Flourish's new 'Scenes and Situations' piece proposes replacing scripted plots with modular scene-based prep for GMs",
+      "story": "This week's wave of TTRPG crowdfunding and product reveals — 13 Omens, Dragon Kings, Munchkin, and Secrets of the Tome's new cover art",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Ditch the Railroad: Sly Flourish's 'Scenes and Situations' Prep Method, Tried at the Table': a practical breakdown GMs can use this weekend",
-        "itsalreadywritten": "'Scenes, Not Plots: The Structural Trick Adventure Writers Keep Stealing From Sly Flourish': how modular scene design changes how published adventures should be written"
+        "bizzal-games": "'TTRPG Crowdfunding Heat Check: 13 Omens, Dragon Kings, and Munchkin's Latest Return' — a roundup ranking which live campaigns are worth backing this week, with funding-velocity callouts and pledge-tier breakdowns.",
+        "itsalreadywritten": "'Secrets of the Tome's Cover Just Dropped — and the Lore Behind It Is Weirder Than the Art' — a narrative-first deep dive into the setting/story hooks teased by the new cover reveal, framed for readers who care about worldbuilding over mechanics."
       },
-      "source": "https://slyflourish.com/scenes_and_situations.html?rss=1"
+      "source": "https://www.enworld.org/threads/check-out-secrets-of-the-tome%E2%80%99s-awesome-cover-art.721032/"
     }
   ]
 }
