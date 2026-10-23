@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-22T11:07:56+00:00",
+  "generated": "2026-10-23T11:08:39+00:00",
   "opportunities": [
     {
-      "title": "PHP2Shell: The Bug That Was Being Exploited Before It Had a Name",
-      "why_now": "Attackers hit PHP2Shell four days before public disclosure, and site owners are now being told to pull unpatched servers offline entirely — a textbook inevitable-breach timeline.",
-      "angle": "Patch-cadence timeline piece: disclosure vs. first exploitation vs. patch release, with a 'are you still exposed' checklist",
-      "source": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html"
+      "title": "PHP2Shell: The Bug That Ate the Internet Before Anyone Patched It — AWS Confirms Attacks Predate Disclosure",
+      "why_now": "Exploitation is active at mass scale right now (UK gov outages, Mirai payloads, millions of attempts) making this the week's defining incident, not just another CVE.",
+      "angle": "Running incident timeline/digest: disclosure date vs. first observed exploitation, who's been hit (UK gov, AWS customers), and why patch cadence failed everyone simultaneously.",
+      "source": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
     },
     {
-      "title": "A Certificate Authority's Private Key Was Literally the Number '4' — And They're Defending It",
-      "why_now": "eMudhra is publicly defending laughably weak keys after tech giants moved to block its certs over 8 compromised keys, a rare case of a CA getting caught red-handed and arguing back.",
-      "angle": "Snarky breakdown of the keys + timeline of CA trust revocation, with 'how PKI trust actually breaks' explainer",
-      "source": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647"
+      "title": "Microsoft Says Chinese Spies Walked Into 2,250 Cloud Tenants Through ConnectWise — Meet the AI Pentest Tool That Got Them In",
+      "why_now": "Fresh attribution (Storm-0940) plus a novel detail — attackers using an AI pentesting tool called Artex — makes this the standout nation-state story of the week.",
+      "angle": "Breach anatomy post: how a single MSP tool compromise cascaded into thousands of tenant breaches, with the AI-tooling angle as the hook.",
+      "source": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687"
     },
     {
-      "title": "GitLab's CVSS 10.0 RCE Bug Has Been Lurking for 12 Years — Patch Now",
-      "why_now": "A maximum-severity unauthenticated RCE spanning a dozen years of releases is the kind of patch-cadence failure this channel exists to flag.",
-      "angle": "Urgent patch-now alert format with affected version matrix and exploit-likelihood framing",
-      "source": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+      "title": "The CA That Couldn't: eMudhra's 'Laughably Weak' Private Keys and the Slow Death of a Certificate Authority",
+      "why_now": "eMudhra's exit from the SSL/TLS business after guessable intermediate CA keys is a rare, concrete collapse of trust infrastructure worth dissecting while it's fresh.",
+      "angle": "Explainer/autopsy: what 'guessable' CA keys actually means, how this echoes past CA failures (DigiNotar comparison), and what it means for sites that trusted those certs.",
+      "source": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html"
     },
     {
-      "title": "LiteLLM's Supply Chain Got Hijacked and It's Stealing Your Secrets Right Now",
-      "why_now": "A popular AI gateway package was compromised via a leaked GitHub token and is actively harvesting credentials — fresh, ongoing, and hits the hot AI-infra attack surface.",
-      "angle": "Incident breakdown: how the token leaked, what the backdoor does, and an immediate rotate-your-secrets action list",
-      "source": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html"
+      "title": "Third Time's Not the Charm: VeloCloud Zero-Day #3 in Four Months Shows Patch Cadence Is Broken",
+      "why_now": "A third zero-day in the same product within four months is a pattern story that practically writes the 'inevitable breach' thesis for you.",
+      "angle": "Trend piece: timeline of all three VeloCloud zero-days, what Arista/VMware got wrong each time, and whether 'patch and pray' SD-WAN security is sustainable.",
+      "source": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/"
     },
     {
-      "title": "Pharmacy Chain's IT Dept vs. Auditors: The Great 'Password' on the Firewall Fight",
-      "why_now": "A real, documented internal brawl over using the literal word 'password' on a Cisco firewall is peak inevitable-breach material and a perfect dark-comedy anchor story.",
-      "angle": "Darkly comic breakdown of the audit fight as a microcosm of why breaches happen, paired with a 'basic hygiene checklist' sidebar",
-      "source": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592"
+      "title": "LiteLLM Supply Chain Attack Is Quietly Hoovering Up AI Infra Credentials — And Nobody's Watching the AI Stack",
+      "why_now": "Back-to-back LiteLLM coverage from Register and SecurityWeek signals a real, spreading supply-chain compromise hitting the booming AI infrastructure layer.",
+      "angle": "Threat-actor focused breakdown: what LiteLLM is, how the compromise works, and why AI-adjacent open source is the next big supply-chain target after npm/PyPI.",
+      "source": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/"
     }
   ]
 }

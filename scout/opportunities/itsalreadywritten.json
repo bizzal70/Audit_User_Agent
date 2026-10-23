@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-22T11:07:56+00:00",
+  "generated": "2026-10-23T11:08:39+00:00",
   "opportunities": [
     {
-      "title": "What the System Wants: Decoding Gnomecast 248's Framework for Diagnosing Your Rules",
-      "why_now": "A fresh podcast episode breaks down how mechanics encode designer intent, prime territory for a rules-first breakdown.",
-      "angle": "Explainer/breakdown post that extracts the episode's core framework into a checklist GMs can apply to any ruleset",
+      "title": "Chaosium Pulls 40 Community Titles Over AI Use — Here's What the Policy Actually Bans",
+      "why_now": "Chaosium just enforced a concrete AI policy against 40 real titles, giving us a rules-first breakdown of what's permitted vs. banned under the OGL/Jonstown Compendium terms.",
+      "angle": "Policy explainer: quote the actual clause, list what triggered removal, and give creators a compliance checklist",
+      "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
+    },
+    {
+      "title": "What the System Wants: Breaking Down Gnomecast 248's Core Design Thesis",
+      "why_now": "Gnomecast just dropped an episode specifically about system-driven design intent, which is the exact 'rules are already written' thesis this channel is built on.",
+      "angle": "Rules-first recap: pull 3-4 concrete design claims from the episode and test them against specific published systems (PbtA, OSR, D&D)",
       "source": "https://gnomestew.com/gnomecast-248-what-the-system-wants/"
     },
     {
-      "title": "13 Omens, Munchkin, and Dragon Kings: Three Crowdfunded Systems, Three Different Rules Philosophies",
-      "why_now": "This week's crowdfunding roundup bundles wildly different design approaches into one news cycle, perfect for a comparative rules analysis.",
-      "angle": "Side-by-side mechanical comparison (dice pools vs. card-draw vs. OSR-style) with a verdict on which backers should prioritize",
+      "title": "'Act With Intent': The One GM Rule That Fixes Half Your Table's Pacing Problems",
+      "why_now": "Gnome Stew's fresh analysis piece gives us a concrete procedural rule to extract, formalize, and hand to GMs as an actionable technique.",
+      "angle": "Rules extraction: turn the essay's advice into a numbered procedure/checklist GMs can run at the table tonight",
+      "source": "https://gnomestew.com/act-with-intent/"
+    },
+    {
+      "title": "13 Omens, Munchkin, Dragon Kings: What's Actually Crowdfunding This Week (And What Systems They Run On)",
+      "why_now": "The weekly EN World crowdfunding roundup just dropped with a mix of new systems and legacy brands worth a rules-literate second look.",
+      "angle": "Curated roundup with a rules-nerd lens: identify which projects use existing engines vs. bespoke systems, flag the one most likely to ship on time",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-13-omens-munchkin-dragon-kings-and-more.721044/"
     },
     {
-      "title": "RPG Evolution Asks 'We Don't Sell That Here' — But What Do the Actual Rules Say About Content Boundaries?",
-      "why_now": "The column raises a live industry debate about gatekeeping content, which the channel can ground in actual published rules/licensing language.",
-      "angle": "Rules-first response piece citing OGL/ORC clauses and publisher content policies rather than opinion alone",
-      "source": "https://www.enworld.org/threads/rpg-evolution-we-don%E2%80%99t-sell-that-here.720711/"
-    },
-    {
-      "title": "White Dwarf Reflections #44: The Rules That Shaped a Generation of GMs",
-      "why_now": "The 44th installment of this retrospective series is a built-in hook for a nostalgia-meets-rules-history piece.",
-      "angle": "Annotated list pulling specific mechanics/rules snippets referenced in the column and tracing their modern descendants",
-      "source": "https://www.enworld.org/threads/white-dwarf-reflections-44.720284/"
-    },
-    {
-      "title": "Haunted Mansions and Corpse Flies: The Actual Mechanics Behind This Week's Eerie October Releases",
-      "why_now": "A cluster of horror-themed releases just dropped, giving a timely excuse to dig into how their possession/haunting mechanics actually function.",
-      "angle": "Mechanics-focused preview comparing how each product resolves possession, sanity, or haunting rolls",
-      "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
+      "title": "OneQuests Solo Survival Games Are Live — How Do Their Mechanics Actually Hold Up?",
+      "why_now": "Two new solo interactive survival systems just launched, giving us a timely hook to dissect how their resolution mechanics compare to established solo-play frameworks like Ironsworn or Four Against Darkness.",
+      "angle": "Mechanics teardown/first-impressions: pull the core resolution loop and compare it against known solo-play design patterns",
+      "source": "https://www.enworld.org/threads/now-live-o%C9%B4%E1%B4%87q%E1%B4%9C%E1%B4%87s%E1%B4%9Bs-two-interactive-solo-survival-games.721031/"
     }
   ]
 }

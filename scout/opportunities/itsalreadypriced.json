@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-22T11:07:56+00:00",
+  "generated": "2026-10-23T11:08:39+00:00",
   "opportunities": [
     {
-      "title": "CoinDCX Swears 'No User Losses' After $16M Walked Out the Door — We've Read This Script Before",
-      "why_now": "A live incident with the exchange actively denying a hack while funds are already moving is exactly the pattern this channel calls out before it's confirmed.",
-      "angle": "Timeline breakdown of the denial-to-disclosure playbook, with a running tally of past exchanges that said the same thing before admitting a breach",
+      "title": "CoinDCX Said 'No Hack,' Then Admitted 'Operational Losses' — Same Playbook, Every Time",
+      "why_now": "CoinDCX just flipped from flat denial to admitting wallet-sweeping losses within 48 hours, the exact denial-to-admission arc security watchers always call in advance.",
+      "angle": "Timeline breakdown piece: denial tweet vs. on-chain evidence vs. final admission, with a template for spotting the next one before the PR team catches up.",
       "source": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "$194M and Rising: The Drift Exploiter Is Laundering in Broad Daylight and Nobody Can Stop It",
-      "why_now": "Two consecutive days of $61M then $109M moved to Tornado Cash is an escalating, trackable on-chain story with sanctions clearly doing nothing.",
-      "angle": "On-chain forensic thread/post tracing the wallet flows and asking why sanctions on a mixer haven't moved the needle since 2022",
+      "title": "The Drift Exploiter Just Moved $194M Through Tornado Cash — Here's Why That's the Boring Part",
+      "why_now": "Two consecutive days of massive ETH transfers ($61M then $109M) show the laundering phase of a hack is now fully routine and predictable, not newsworthy on its own.",
+      "angle": "Explainer on the standard post-exploit laundering script (mixer, bridge, OTC) and why 'sends funds to Tornado Cash' headlines are the least interesting part of any hack story.",
       "source": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Bug That Took Down 70% of the Internet Was Known for Months — PHP Foundation Just Admitted Why Nobody Patched It",
-      "why_now": "PHP Foundation's own 'structural failure' admission plus Cloudflare's millions-of-exploit-attempts warning is a rare on-record confession of the negligence this channel has been predicting.",
-      "angle": "Post-mortem explainer connecting the disclosure delay to how crypto infra (RPCs, bridges, wallets) inherits the same patch-lag risk",
+      "title": "16 Fake Rabby and OKX Wallet Extensions Were Live on Firefox — Check Yours Right Now",
+      "why_now": "Socket's discovery is a fresh, concrete, actionable threat sitting in browser extension stores today, not a retrospective.",
+      "angle": "Short, urgent checklist post/X thread: how to verify a wallet extension's publisher, permissions, and install source before you ever paste a seed phrase.",
+      "source": "https://thedefiant.io/news/security/socket-finds-16-fake-rabby-and-okx-wallet-extensions-on-firefox"
+    },
+    {
+      "title": "The PHP Bug That's Eating the Internet Also Runs Half Your Favorite Crypto Backend",
+      "why_now": "Cloudflare's CEO just confirmed millions of exploit attempts against a PHP flaw the PHP Foundation admitted it delayed fixing due to 'structural failure,' and crypto infra leans on PHP more than people assume.",
+      "angle": "Security-led explainer connecting legacy web infrastructure risk to crypto exchange/custodian backends — a 'your security is only as good as your dependencies' piece.",
       "source": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Mt. Gox Pushes Repayment to 2027 — Again. The Slowest Rug Pull in Crypto History Just Got Slower",
-      "why_now": "The sixth extension of a 2014 hack's repayment deadline is a perfect 'already priced' moment to remind readers this saga still isn't over.",
-      "angle": "Satirical/deadpan timeline of all six extensions with a running 'years creditors have waited' counter",
-      "source": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "China Wants to Seize 61,800 BTC From a $5.7B Fraud — Here's Who Actually Gets Rich When a State Confiscates Your Crypto",
-      "why_now": "A fresh, massive state seizure tied to fraud gives a timely hook to explain the opaque economics of government-held crypto.",
-      "angle": "Explainer comparing China's seizure to US DOJ's seized-BTC playbook and what happens to victims vs. the state's balance sheet",
-      "source": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme"
+      "title": "NovaTech Founders Fled the US With $1.3B — This Is Every Ponzi Collapse, Beat for Beat",
+      "why_now": "New York is now suing to claw back over $1.3 billion from founders who already fled the country, a textbook exit-scam ending breaking fresh this week.",
+      "angle": "'Already know how this ends' retrospective: map NovaTech's red flags against the standard Ponzi lifecycle so readers can pattern-match the next one in progress.",
+      "source": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453"
     }
   ]
 }

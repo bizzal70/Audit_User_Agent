@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-22T11:07:56+00:00",
+  "generated": "2026-10-23T11:08:39+00:00",
   "opportunities": [
     {
-      "title": "Corpse Fly Swarm Tactics: The Eerie October Monster That Eats Your Cleric Alive",
-      "why_now": "EN World's Halloween roundup just spotlighted corpse flies as a seasonal horror monster, giving a timely hook for a swarm/disease tactics breakdown.",
-      "angle": "60-sec creature tactic short: stat corpse fly swarm for 5e/DCC, show how swarm damage + disease rules punish melee clerics, dry delivery with a 'don't touch the corpse' punchline.",
-      "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
+      "title": "Chaosium Just Banned AI Modules — Here's the Monster Reskin Method It Can't Replace",
+      "why_now": "Chaosium's takedown of 40 AI-assisted community titles makes 'is this stat block actually yours' a live question for every GM running homebrew.",
+      "angle": "Quick teardown: take a stock 5e/Shadowdark monster, show the 3 manual tweaks (movement, reaction, loot hook) that make it legally and mechanically yours — no prompt required.",
+      "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
     },
     {
-      "title": "Magic Jar vs. Haunted Mansion Possession: Who Actually Wins the Save?",
-      "why_now": "The same EN World Eerie October piece features a possession-themed haunted mansion module, perfect timing for a possession-mechanics ruling right before Halloween.",
-      "angle": "Rules ruling short walking through Magic Jar's save sequence vs. a generic 'NPC possession' trap, clarifying whose Wisdom save actually matters and when control transfers.",
-      "source": "https://www.enworld.org/threads/eerie-october-offerings-with-possessions-a-haunted-mansion-and-of-course-corpse-flies.721023/"
+      "title": "'I Shoot the Rope' — The Actual Ruling, Not the Vibe",
+      "why_now": "Gnome Stew's 'Act With Intent' piece is making the rounds arguing GMs should rule on stated intent over literal action; that's a daily ruling problem.",
+      "angle": "One-shot ruling format: a player declares an ambiguous action, show the DC logic and which system (5e vs Shadowdark) actually supports 'intent-first' adjudication out of the box.",
+      "source": "https://gnomestew.com/act-with-intent/"
     },
     {
-      "title": "What Your System Actually Wants From You: DCC vs 5e vs Shadowdark in 90 Seconds",
-      "why_now": "Gnomecast's new episode on 'what the system wants' is fresh analysis content that maps directly onto the channel's cross-system beat.",
-      "angle": "Dry veteran-GM comparison short: same combat scenario run through 5e's action economy, DCC's funnel chaos, and Shadowdark's real-time torch pressure, ending on a one-line verdict.",
+      "title": "What Shadowdark 'Wants' When a PC Hits 0 HP (And Why 5e Doesn't Want the Same Thing)",
+      "why_now": "Gnomecast 248's 'What the System Wants' framing is exactly the kind of system-design talk that sharpens a quick comparative ruling.",
+      "angle": "Side-by-side: death/dying mechanics across Shadowdark, DCC, and 5e, framed as 'the system is telling you something, stop fighting it.'",
       "source": "https://gnomestew.com/gnomecast-248-what-the-system-wants/"
     },
     {
-      "title": "White Dwarf's Monsters Had Teeth — Here's One Statted for Shadowdark",
-      "why_now": "White Dwarf Reflections #44 just dropped, reviving interest in old-school monster design right as nostalgia content performs well.",
-      "angle": "Take one brutal classic White Dwarf monster concept and give it a quick Shadowdark/DCC stat conversion, framed as 'why modern monsters got soft.'",
-      "source": "https://www.enworld.org/threads/white-dwarf-reflections-44.720284/"
+      "title": "Dragon Kings Reprint Incoming — Here's the Dragon Stat Block Trick 2e Had That 5e Buried",
+      "why_now": "This week's crowdfunding roundup includes a Dragon Kings reprint, giving a timely excuse to dig into old-school dragon design.",
+      "angle": "Creature tactic breakdown: pull one mechanic (fear aura, breath recharge, lair action) from the Dark Sun dragon kings and show how to bolt it onto a 5e/DCC dragon for more table dread.",
+      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-13-omens-munchkin-dragon-kings-and-more.721044/"
     },
     {
-      "title": "Dragon Kings Crowdfunds a New Psionics System — Will It Break 5e's Action Economy?",
-      "why_now": "This week's EN World crowdfunding roundup includes Dragon Kings' psionics pitch, a timely peg for evaluating a new subsystem against existing rules.",
-      "angle": "Mechanical teardown short: pull the crowdfunded psionics mechanic, run it against 5e's bonus-action/reaction economy, deliver a blunt verdict on whether it's balanced or busted.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-13-omens-munchkin-dragon-kings-and-more.721044/"
+      "title": "OneQuests' New Solo Survival Games Prove You Don't Need a Party to Run a Dungeon Right",
+      "why_now": "OneQuests just launched two solo survival titles, which maps directly onto the 'how do I run tense downtime/survival mechanics' question GMs ask constantly.",
+      "angle": "Mechanical use-case: lift the resource-attrition loop from solo survival design and show how to run a 1-PC Shadowdark/DCC dungeon crawl (rations, light, exhaustion) without a full table.",
+      "source": "https://www.enworld.org/threads/now-live-o%C9%B4%E1%B4%87q%E1%B4%9C%E1%B4%87s%E1%B4%9Bs-two-interactive-solo-survival-games.721031/"
     }
   ]
 }
