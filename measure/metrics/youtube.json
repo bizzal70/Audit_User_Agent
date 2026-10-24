@@ -10300,5 +10300,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "videos": [
+      {
+        "id": "Nkz2r5V24fQ",
+        "title": "Acolyte's Healing Touch often frustrates players #shadowdark",
+        "published": "2026-10-23",
+        "views": 9,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "BuIoxj0i_U4",
+        "title": "Melee Attacks require a target within reach #dnd5e",
+        "published": "2026-10-23",
+        "views": 22,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "KTFosEPdqt8",
+        "title": "Thief: Thieves regain burned Luck in a way no other class can #dcc",
+        "published": "2026-10-23",
+        "views": 15,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "0C23UDUcSfo",
+        "title": "Priest hits a power spike earlier than most classes #shadowdark",
+        "published": "2026-10-22",
+        "views": 9,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "c8WCQpGYpEY",
+        "title": "Private Sanctum's area can be larger than players expect #dnd5e",
+        "published": "2026-10-22",
+        "views": 31,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "FJAjKwLywSE",
+        "title": "Charge Wood Door Golem a real price #dcc",
+        "published": "2026-10-22",
+        "views": 8,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7mR9_0u1iNM",
+        "title": "Cacklerot changes the situation more than the damage math #shadowdark",
+        "published": "2026-10-21",
+        "views": 13,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "o-EyXHSZ53o",
+        "title": "Gorgon's AC is higher than expected for its challenge rating #dnd5e",
+        "published": "2026-10-21",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "-zAVzCXtMPo",
+        "title": "Blade of Great Strength seems like a permanent boost #dcc",
+        "published": "2026-10-21",
+        "views": 14,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "Df_ShoS0pNs",
+        "title": "Patron Bond and Invoke Patron can surprise players with its long-term #dcc",
+        "published": "2026-10-20",
+        "views": 12,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "iBp8UP9ZOGI",
+        "title": "Advantage and Disadvantage confuse players more than they expect #shadowdark",
+        "published": "2026-10-20",
+        "views": 10,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "lshvLxDhCGw",
+        "title": "The Celestial's spell list offers healing and radiant damage options #dnd5e",
+        "published": "2026-10-20",
+        "views": 34,
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   }
 ]
