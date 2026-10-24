@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-23T11:08:39+00:00",
+  "generated": "2026-10-24T11:06:49+00:00",
   "opportunities": [
     {
-      "title": "Chaosium Pulls 40 Community Titles Over AI Use — Here's What the Policy Actually Bans",
-      "why_now": "Chaosium just enforced a concrete AI policy against 40 real titles, giving us a rules-first breakdown of what's permitted vs. banned under the OGL/Jonstown Compendium terms.",
-      "angle": "Policy explainer: quote the actual clause, list what triggered removal, and give creators a compliance checklist",
+      "title": "No Necromunda RPG After All: What the Cancellation Means for Licensed Game Lines",
+      "why_now": "Breaking confirmation that a previously announced tie-in RPG is officially dead, closing a chapter TTRPG fans were tracking.",
+      "angle": "News-first explainer breaking down the announcement, likely causes (licensing, scope), and what it signals for other GW-adjacent RPG projects",
+      "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
+    },
+    {
+      "title": "Chaosium Pulls 40 Community Titles Over AI Use: The Rules of What's Allowed Just Changed",
+      "why_now": "A major publisher just enforced a sweeping AI policy against its own community content program, a first-of-its-kind precedent for TTRPG IP holders.",
+      "angle": "Rules-first breakdown: what Chaosium's new AI policy actually prohibits, how it was enforced, and what it means for other OGL/community license programs",
       "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
     },
     {
-      "title": "What the System Wants: Breaking Down Gnomecast 248's Core Design Thesis",
-      "why_now": "Gnomecast just dropped an episode specifically about system-driven design intent, which is the exact 'rules are already written' thesis this channel is built on.",
-      "angle": "Rules-first recap: pull 3-4 concrete design claims from the episode and test them against specific published systems (PbtA, OSR, D&D)",
-      "source": "https://gnomestew.com/gnomecast-248-what-the-system-wants/"
+      "title": "Sword World RPG Hits $2M in 24 Hours: Why Japan's Biggest TTRPG Is Finally Coming to English Tables",
+      "why_now": "A long-running, massively popular Japanese system just smashed crowdfunding records on its first official English release.",
+      "angle": "Facts-and-figures piece on what Sword World's rules/system actually look like for English-speaking GMs encountering it for the first time",
+      "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
     },
     {
-      "title": "'Act With Intent': The One GM Rule That Fixes Half Your Table's Pacing Problems",
-      "why_now": "Gnome Stew's fresh analysis piece gives us a concrete procedural rule to extract, formalize, and hand to GMs as an actionable technique.",
-      "angle": "Rules extraction: turn the essay's advice into a numbered procedure/checklist GMs can run at the table tonight",
-      "source": "https://gnomestew.com/act-with-intent/"
-    },
-    {
-      "title": "13 Omens, Munchkin, Dragon Kings: What's Actually Crowdfunding This Week (And What Systems They Run On)",
-      "why_now": "The weekly EN World crowdfunding roundup just dropped with a mix of new systems and legacy brands worth a rules-literate second look.",
-      "angle": "Curated roundup with a rules-nerd lens: identify which projects use existing engines vs. bespoke systems, flag the one most likely to ship on time",
+      "title": "This Week's RPG Crowdfunding Roundup: 13 Omens, Munchkin, and Dragon Kings — Which Ones Actually Ship New Rules",
+      "why_now": "A fresh weekly digest just dropped covering multiple live campaigns worth tracking before they close.",
+      "angle": "Quick-hit roundup ranking each campaign by rules-innovation and funding momentum, with a clear 'back or watch' verdict",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-13-omens-munchkin-dragon-kings-and-more.721044/"
     },
     {
-      "title": "OneQuests Solo Survival Games Are Live — How Do Their Mechanics Actually Hold Up?",
-      "why_now": "Two new solo interactive survival systems just launched, giving us a timely hook to dissect how their resolution mechanics compare to established solo-play frameworks like Ironsworn or Four Against Darkness.",
-      "angle": "Mechanics teardown/first-impressions: pull the core resolution loop and compare it against known solo-play design patterns",
-      "source": "https://www.enworld.org/threads/now-live-o%C9%B4%E1%B4%87q%E1%B4%9C%E1%B4%87s%E1%B4%9Bs-two-interactive-solo-survival-games.721031/"
+      "title": "Act With Intent: The GM Advice Column That's Secretly About Rules Discipline",
+      "why_now": "Gnome Stew just published fresh GM-facing analysis that lines up with a rules-first philosophy worth amplifying to this audience.",
+      "angle": "Reaction/commentary post translating the advice into concrete rules-adherence takeaways for tables, with pull-quotes and a 'why the rules matter here' framing",
+      "source": "https://gnomestew.com/act-with-intent/"
     }
   ]
 }

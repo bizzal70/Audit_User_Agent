@@ -1,4 +1,53 @@
 {
-  "generated": "2026-10-23T11:08:39+00:00",
-  "plays": []
+  "generated": "2026-10-24T11:06:49+00:00",
+  "plays": [
+    {
+      "story": "Chaosium's crackdown on AI content purges 40 community-made titles, forcing a reckoning over what counts as acceptable TTRPG creation",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Chaosium Pulls 40 AI-Tainted Titles: What It Means for Your Call of Cthulhu Homebrew' — a practical breakdown of the new policy, which community titles got axed, and a compliance checklist for creators publishing through the Chaosium community content program.",
+        "itsalreadywritten": "'The Great Purge: Chaosium's AI Ban and the Future of TTRPG Writing Credits' — the authorship angle: what this means for freelance TTRPG writers, how AI-detection policies could reshape submission guidelines industry-wide, and whether this becomes the new publisher standard."
+      },
+      "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
+    },
+    {
+      "story": "Games Workshop confirms there will be no standalone Necromunda RPG after all, killing a long-anticipated licensed project",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'No Necromunda RPG After All: What Games Workshop's Cancellation Means for 40K Tabletop Fans' — news recap plus speculation on what GW might greenlight instead and how fans can keep the dream alive with existing hacks/homebrews.",
+        "itsalreadywritten": "'The Necromunda RPG That Never Was: A Cautionary Tale in Licensed TTRPG Development' — a writer-focused postmortem on why licensed pitches die in development hell, and what indie designers chasing IP deals should learn from it."
+      },
+      "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
+    },
+    {
+      "story": "The PHP2Shell vulnerability triggers mass exploitation, knocking out UK government services and rippling into crypto-adjacent infrastructure before a full patch exists",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'PHP2Shell Fallout Hits Crypto Infra: Why Exchanges and DeFi Dashboards Could Be Next' — connect the PHP flaw to this week's exchange 'operational loss' stories (CoinDCX, Initia) and tell readers how to check if their favorite platform's backend is exposed.",
+        "itsalreadywhen": "'PHP2Shell: The Zero-Day That Took Down UK Government Services — And Still Won't Get an Emergency Fix' — timeline of disclosure-to-exploitation, why the third bug variant is being deprioritized, and incident-response steps for admins still running vulnerable PHP stacks."
+      },
+      "source": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208"
+    },
+    {
+      "story": "AI is collapsing the cost and skill barrier for finding exploitable bugs, forcing Bitcoin Core to rewrite its security disclosure rules while researchers warn of AI-generated mass attacks",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Bitcoin Core Just Changed Its Security Playbook Because AI Can Find Bugs in One Prompt' — what the new disclosure rules mean for exchanges, wallet devs, and anyone running outdated node software, with a nod to this week's exploit wave (Initia, Cysic).",
+        "itsalreadywhen": "'AI Is Now Cheaper Than a Botnet: Inside the New Economics of Automated Attacks' — pairing Bitcoin Core's policy shift with Dark Reading's reporting on low-cost AI attack tooling to explain why defenders are losing the speed race."
+      },
+      "source": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt"
+    }
+  ]
 }

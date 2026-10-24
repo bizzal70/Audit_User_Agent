@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-23T11:08:39+00:00",
+  "generated": "2026-10-24T11:06:49+00:00",
   "opportunities": [
     {
-      "title": "Chaosium Just Banned AI Modules — Here's the Monster Reskin Method It Can't Replace",
-      "why_now": "Chaosium's takedown of 40 AI-assisted community titles makes 'is this stat block actually yours' a live question for every GM running homebrew.",
-      "angle": "Quick teardown: take a stock 5e/Shadowdark monster, show the 3 manual tweaks (movement, reaction, loot hook) that make it legally and mechanically yours — no prompt required.",
+      "title": "Chaosium Nuked 40 AI-Tagged Community Titles — Here's the Ruling on Using 'AI-Assisted' Homebrew at Your Table",
+      "why_now": "Chaosium's sudden purge of AI-flagged community content is the biggest 'can I use this at my table' question in the OSR space this week.",
+      "angle": "60-second explainer: what counts as derivative content under most OGL/community licenses, framed as a GM ruling on 'is this legal homebrew or not.'",
       "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
     },
     {
-      "title": "'I Shoot the Rope' — The Actual Ruling, Not the Vibe",
-      "why_now": "Gnome Stew's 'Act With Intent' piece is making the rounds arguing GMs should rule on stated intent over literal action; that's a daily ruling problem.",
-      "angle": "One-shot ruling format: a player declares an ambiguous action, show the DC logic and which system (5e vs Shadowdark) actually supports 'intent-first' adjudication out of the box.",
+      "title": "Necromunda's RPG Got Cancelled — The One Mechanic Skirmish-to-RPG Conversions Always Botch",
+      "why_now": "The cancellation announcement is fresh and gives a hook to dissect a recurring systems-design failure point.",
+      "angle": "Dry teardown: gang-rule bloat vs. actual roleplay hooks, with a 5e/DCC comparison on converting faction skirmish rules into table-ready encounters.",
+      "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
+    },
+    {
+      "title": "'Act With Intent' Isn't GM Advice — It's a Rule You're Already Breaking Every Combat",
+      "why_now": "Gnome Stew's piece on declared intent is making rounds and maps directly onto adjudicating ambiguous player actions.",
+      "angle": "Single ruling short: how to force 'I attack' into 'I do X to achieve Y,' with a DCC/5e example of a bad call salvaged by the intent question.",
       "source": "https://gnomestew.com/act-with-intent/"
     },
     {
-      "title": "What Shadowdark 'Wants' When a PC Hits 0 HP (And Why 5e Doesn't Want the Same Thing)",
-      "why_now": "Gnomecast 248's 'What the System Wants' framing is exactly the kind of system-design talk that sharpens a quick comparative ruling.",
-      "angle": "Side-by-side: death/dying mechanics across Shadowdark, DCC, and 5e, framed as 'the system is telling you something, stop fighting it.'",
-      "source": "https://gnomestew.com/gnomecast-248-what-the-system-wants/"
+      "title": "Sword World Just Raised $2M in 24 Hours — Here's Its Weird Opposed-Roll Trick You Should Steal for 5e Skill Checks",
+      "why_now": "The record-breaking crowdfund puts an obscure Japanese system's mechanics in front of a Western audience for the first time, making it a timely curiosity hook.",
+      "angle": "Creature/spell-tactic-style breakdown applying Sword World's opposed dice mechanic to a 5e skill contest, pitched as a house-rule swap.",
+      "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
     },
     {
-      "title": "Dragon Kings Reprint Incoming — Here's the Dragon Stat Block Trick 2e Had That 5e Buried",
-      "why_now": "This week's crowdfunding roundup includes a Dragon Kings reprint, giving a timely excuse to dig into old-school dragon design.",
-      "angle": "Creature tactic breakdown: pull one mechanic (fear aura, breath recharge, lair action) from the Dark Sun dragon kings and show how to bolt it onto a 5e/DCC dragon for more table dread.",
+      "title": "Dragon Kings Is Crowdfunding Again — The Defiling Rule That Makes Dark Sun Wizards Actually Terrifying",
+      "why_now": "Dragon Kings' reappearance in this week's crowdfunding roundup revives interest in Dark Sun's defiling magic, a mechanic 5e/DCC GMs constantly reinvent badly.",
+      "angle": "Spell use-case short: run a defiling-style corruption clause as a bolt-on magic risk mechanic, with a concrete DC and consequence table.",
       "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-13-omens-munchkin-dragon-kings-and-more.721044/"
-    },
-    {
-      "title": "OneQuests' New Solo Survival Games Prove You Don't Need a Party to Run a Dungeon Right",
-      "why_now": "OneQuests just launched two solo survival titles, which maps directly onto the 'how do I run tense downtime/survival mechanics' question GMs ask constantly.",
-      "angle": "Mechanical use-case: lift the resource-attrition loop from solo survival design and show how to run a 1-PC Shadowdark/DCC dungeon crawl (rations, light, exhaustion) without a full table.",
-      "source": "https://www.enworld.org/threads/now-live-o%C9%B4%E1%B4%87q%E1%B4%9C%E1%B4%87s%E1%B4%9Bs-two-interactive-solo-survival-games.721031/"
     }
   ]
 }
