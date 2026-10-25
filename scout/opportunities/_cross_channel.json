@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-24T11:06:49+00:00",
+  "generated": "2026-10-25T11:07:04+00:00",
   "plays": [
     {
-      "story": "Chaosium's crackdown on AI content purges 40 community-made titles, forcing a reckoning over what counts as acceptable TTRPG creation",
+      "story": "Chaosium's AI crackdown removes 40 community-made Call of Cthulhu titles, setting a hard line on AI-generated content in TTRPG publishing",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Chaosium Pulls 40 AI-Tainted Titles: What It Means for Your Call of Cthulhu Homebrew' — a practical breakdown of the new policy, which community titles got axed, and a compliance checklist for creators publishing through the Chaosium community content program.",
-        "itsalreadywritten": "'The Great Purge: Chaosium's AI Ban and the Future of TTRPG Writing Credits' — the authorship angle: what this means for freelance TTRPG writers, how AI-detection policies could reshape submission guidelines industry-wide, and whether this becomes the new publisher standard."
+        "bizzal-games": "Chaosium Just Nuked 40 AI-Assisted Adventures — What the Call of Cthulhu Purge Means for Your Next Homebrew Module",
+        "itsalreadywritten": "40 Titles Deleted Overnight: Inside Chaosium's New Rule That Could Redefine What Counts as 'Written' in TTRPG Publishing"
       },
       "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
     },
     {
-      "story": "Games Workshop confirms there will be no standalone Necromunda RPG after all, killing a long-anticipated licensed project",
+      "story": "Sword World RPG's first official English release crowdfunds $2M in 24 hours, signaling huge pent-up demand for classic JRPG-style tabletop systems",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'No Necromunda RPG After All: What Games Workshop's Cancellation Means for 40K Tabletop Fans' — news recap plus speculation on what GW might greenlight instead and how fans can keep the dream alive with existing hacks/homebrews.",
-        "itsalreadywritten": "'The Necromunda RPG That Never Was: A Cautionary Tale in Licensed TTRPG Development' — a writer-focused postmortem on why licensed pitches die in development hell, and what indie designers chasing IP deals should learn from it."
+        "bizzal-games": "$2 Million in a Day: Why Sword World RPG's English Debut Just Became the Crowdfunding Story of the Year",
+        "itsalreadywritten": "Lost in Translation No More — What Sword World's Record-Breaking Localization Fund Says About the Future of Imported Rulebooks"
       },
-      "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
+      "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
     },
     {
-      "story": "The PHP2Shell vulnerability triggers mass exploitation, knocking out UK government services and rippling into crypto-adjacent infrastructure before a full patch exists",
+      "story": "AI agents are now both weaponized for cyberattacks (autonomous 'Skynet mode' agent hijacking other models) and reshaping crypto security norms (Bitcoin Core tightening rules because AI can find bugs instantly)",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'PHP2Shell Fallout Hits Crypto Infra: Why Exchanges and DeFi Dashboards Could Be Next' — connect the PHP flaw to this week's exchange 'operational loss' stories (CoinDCX, Initia) and tell readers how to check if their favorite platform's backend is exposed.",
-        "itsalreadywhen": "'PHP2Shell: The Zero-Day That Took Down UK Government Services — And Still Won't Get an Emergency Fix' — timeline of disclosure-to-exploitation, why the third bug variant is being deprioritized, and incident-response steps for admins still running vulnerable PHP stacks."
+        "itsalreadypriced": "Bitcoin Core Just Admitted AI Can One-Shot Its Bugs — Here's What That Means for Your Coins' Security Model",
+        "itsalreadywhen": "Skynet Mode Is Real: An Autonomous Attack Agent Is Hijacking Other AI Models to Do Its Dirty Work"
       },
-      "source": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208"
+      "source": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215"
     },
     {
-      "story": "AI is collapsing the cost and skill barrier for finding exploitable bugs, forcing Bitcoin Core to rewrite its security disclosure rules while researchers warn of AI-generated mass attacks",
+      "story": "A weekend wave of blockchain exploits (Initia halted after $2.6M drain, Cysic hacker offered a 10% bounty) lands right as the broader cyber world reels from the fast-spreading PHP2Shell RCE bug — two fronts of the same infrastructure-trust crisis",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Bitcoin Core Just Changed Its Security Playbook Because AI Can Find Bugs in One Prompt' — what the new disclosure rules mean for exchanges, wallet devs, and anyone running outdated node software, with a nod to this week's exploit wave (Initia, Cysic).",
-        "itsalreadywhen": "'AI Is Now Cheaper Than a Botnet: Inside the New Economics of Automated Attacks' — pairing Bitcoin Core's policy shift with Dark Reading's reporting on low-cost AI attack tooling to explain why defenders are losing the speed race."
+        "itsalreadypriced": "Two Chains, One Bad Weekend: What the Initia and Cysic Exploits Reveal About DeFi's Security Debt",
+        "itsalreadywhen": "PHP2Shell Won't Quit — And the Same Week Crypto Chains Got Drained, It's Still Spreading Through Government Systems"
       },
-      "source": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt"
+      "source": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

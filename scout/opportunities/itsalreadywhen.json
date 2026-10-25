@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-24T11:06:49+00:00",
+  "generated": "2026-10-25T11:07:04+00:00",
   "opportunities": [
     {
-      "title": "PHP2Shell Week in Review: From Disclosure to Mirai Botnets to 'No Emergency Fix' for Bug #3",
-      "why_now": "PHP2Shell has dominated five straight days of coverage — disclosure, UK government outages, pre-disclosure AWS attacks, Mirai adoption, and now a third unpatched variant — making it the defining breach-cycle story of the week.",
-      "angle": "Running digest/timeline format tracking escalation, with a 'patch status' table readers can bookmark and refresh",
-      "source": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208"
+      "title": "PHP2Shell Isn't Getting an Emergency Patch — and Attackers Already Knew Before You Did",
+      "why_now": "AWS confirmed exploitation began before public disclosure, Mirai operators have piled on, and dozens of UK government services are down, yet maintainers still won't fast-track a fix.",
+      "angle": "Inevitable-breach timeline digest: map the exploit-before-disclosure window, the Mirai pile-on, and the no-emergency-fix decision to show why 'patch cadence' is a myth",
+      "source": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305215"
     },
     {
-      "title": "China's AI Pentest Tool 'Artex' Helped Storm-0940 Walk Into 2,250 Cloud Tenants via ConnectWise",
-      "why_now": "Microsoft just confirmed the attribution and scale of the ConnectWise supply-chain breach, and SecurityWeek separately reports the attackers used an AI pentesting tool — a concrete, newsworthy fusion of supply-chain and AI-threat-actor angles.",
-      "angle": "Explainer connecting the dots: ConnectWise compromise → Storm-0940 attribution → Artex AI tooling → 2,250 tenant blast radius",
+      "title": "2,250 Cloud Tenants, One ConnectWise Hole: Inside China's Storm-0940 Supply-Chain Raid",
+      "why_now": "Microsoft just attributed the breach to a known Chinese APT and tied it to an AI pentest tool (Artex) used for the intrusions.",
+      "angle": "Breach anatomy post: supply-chain entry point, blast radius math (2,250 tenants), and the AI-tooling twist that signals where APT tradecraft is heading",
       "source": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687"
     },
     {
-      "title": "Arista VeloCloud's Zero-Day Hat Trick: Three Exploited Flaws in Four Months",
-      "why_now": "CISA just flagged active exploitation of a third VCO zero-day in as many months, turning a single-vendor pattern into a repeat-offender story worth tracking.",
-      "angle": "Pattern-recognition piece on recurring zero-days in one product line, with a 'what changed each time' breakdown",
+      "title": "A Leaked Master Key Let Attackers Hijack LiteLLM's Release Pipeline — Here's the Blast Radius",
+      "why_now": "A single exposed master key cascaded into stolen GitHub tokens and a compromised release pipeline, a textbook single-point-of-failure breach disclosed this week.",
+      "angle": "Root-cause teardown: trace the leaked secret to downstream compromise, framed as a cautionary checklist for anyone managing LLM-infra keys",
+      "source": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+    },
+    {
+      "title": "Arista's VeloCloud Zero-Day, Take Three: Why the Same Product Keeps Getting Popped",
+      "why_now": "This is the third actively exploited VCO zero-day in four months, now flagged by CISA alongside Collabora Online.",
+      "angle": "Patch-cadence pattern piece: chart the three incidents on a timeline to ask whether Arista's fix pipeline is structurally broken",
       "source": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/"
     },
     {
-      "title": "GitLab's 12-Year-Old RCE Bug Just Surfaced — And the Fix Traces Back to Ruby's Regex Engine",
-      "why_now": "A max-severity GitLab RCE spanning over a decade of releases, now tied to three newly-patched Ruby regex bugs, is a rare 'root cause' story worth unpacking before mass exploitation starts.",
-      "angle": "Technical breakdown of how a language-level regex flaw cascaded into a dozen years of vulnerable GitLab releases, plus a patch-now checklist",
-      "source": "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854"
-    },
-    {
-      "title": "One Brotli Bug, Four Languages: The Decoder Flaw Hiding in Node, Bun, and Python",
-      "why_now": "The Hacker News just revealed the Node.js Brotli RCE also hits Bun and Python, exposing how a single compression library bug can ripple across unrelated runtimes — a textbook inevitable-breach supply-chain story.",
-      "angle": "Cross-ecosystem impact map: which runtimes/frameworks ship the vulnerable decoder and what to patch first",
+      "title": "One Brotli Bug, Every Runtime: Node's RCE Flaw Also Hits Bun, Python, and More",
+      "why_now": "A newly disclosed decoder flaw behind a Node.js RCE was just shown to ripple across the wider language-runtime ecosystem.",
+      "angle": "CVE explainer with an inevitability hook: one shared dependency, dozens of downstream products exposed — practical patch-priority guidance for devs",
       "source": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
     }
   ]

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-24T11:06:49+00:00",
+  "generated": "2026-10-25T11:07:04+00:00",
   "opportunities": [
     {
-      "title": "Initia Halted Its Own Chain to Stop a $2.6M Mint Exploit — That's Not a Fix, That's a Confession",
-      "why_now": "A live chain halt after an attacker reportedly minted tokens is a rare real-time look at how 'decentralized' networks actually respond to a crisis.",
-      "angle": "Incident teardown: timeline of the exploit, what the halt reveals about validator centralization, and why 'we paused the chain' is itself the story",
+      "title": "The X100 Anatomy: How a Governance Takeover Became a $5M+ Four-Wallet Getaway",
+      "why_now": "Three separate Defiant reports (governance takeover, Uniswap drain, 4x400-ETH wallet split) are really one unfolding exploit that hasn't been synthesized yet.",
+      "angle": "Live post-mortem thread/blog stitching the governance-vote mechanics to the fund flow, ending with 'this is why governance tokens are an attack surface, not a feature'",
+      "source": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover"
+    },
+    {
+      "title": "Initia Halted Its Own Chain to Stop a Hacker — Here's Why That's Both Smart and Terrifying",
+      "why_now": "A $2.6M exploit forced a live chain halt and reported token minting, a rare real-time admin-key intervention worth dissecting.",
+      "angle": "Explainer: what 'halting a blockchain' actually means for decentralization promises, with a checklist of what to watch before the postmortem drops",
       "source": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Cysic Hacker Took the Money, Laundered It Through Tornado Cash, Then Negotiated a Bounty Anyway",
-      "why_now": "A protocol dangling a 10% 'white hat' bounty after funds are already in a mixer is a perfect case study in post-hack theater.",
-      "angle": "Sharp opinion piece on the absurd economics of 'please give it back' bounties once Tornado Cash is in play",
-      "source": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "'Operational Losses,' Not a Hack: Decoding India's Biggest Exchange's $16M Denial",
-      "why_now": "CoinDCX's carefully worded admission after sleuths flagged suspicious outflows is a textbook example of exchange crisis-comms language worth decoding for readers who've seen this script before.",
-      "angle": "Annotated breakdown of the official statement vs. on-chain evidence, plus a checklist of red-flag phrases exchanges use before confirming a breach",
-      "source": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "Bitcoin Core Just Admitted AI Can Find Its Bugs Faster Than Devs Can Patch Them",
-      "why_now": "A fundamental rewrite of Bitcoin Core's security disclosure policy because of AI-assisted bug-hunting is a structural shift in how the most security-critical codebase in crypto operates.",
-      "angle": "Explainer on what changed in the policy, why 'security through obscurity' just died for Bitcoin, and what it means for every downstream protocol",
+      "title": "Bitcoin Core Just Admitted AI Can Find Bugs Faster Than Devs Can Patch Them",
+      "why_now": "Bitcoin Core rewrote its security disclosure policy specifically because AI tooling makes one-prompt bug discovery trivial — a structural shift, not a one-off hack.",
+      "angle": "Analysis piece: what this policy change signals for every other chain/wallet that hasn't updated its threat model yet",
       "source": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt"
     },
     {
-      "title": "The PHP Foundation Called Its Own Failure 'Structural' — That's the Real Story, Not the Exploit",
-      "why_now": "Millions of exploit attempts against a known PHP flaw, paired with the Foundation's own admission of a broken patching process, is a rare on-record confession of institutional security rot that crypto infra should heed.",
-      "angle": "Cross-industry lesson piece: what crypto teams running PHP-based backends (exchanges, admin panels) need to audit right now, framed around the Foundation's own 'structural failure' quote",
-      "source": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "A Hardware Wallet Company Just Leaked Your Shipping Address — Here's the Keystone Breach",
+      "why_now": "Keystone's website breach exposed customer addresses and order details, turning a self-custody purchase into a physical security risk.",
+      "angle": "Security-led explainer on 'wallet metadata' as an attack vector — $5 wrench attacks don't need your seed phrase, just your mailing address",
+      "source": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details"
+    },
+    {
+      "title": "Cysic Offered Its Hacker a 10% Bounty. The Hacker Took 100% and Went to Tornado Cash Anyway",
+      "why_now": "A live, almost comedic rejection of the standard white-hat negotiation playbook gives a perfect 'already priced' narrative on why bounty offers rarely work once funds move.",
+      "angle": "Short, punchy take on the incentive math of post-exploit negotiations — why mixers always win the race against goodwill",
+      "source": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

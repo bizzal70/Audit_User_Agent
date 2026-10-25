@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-24T11:06:49+00:00",
+  "generated": "2026-10-25T11:07:04+00:00",
   "opportunities": [
     {
-      "title": "Chaosium Nuked 40 AI-Tagged Community Titles — Here's the Ruling on Using 'AI-Assisted' Homebrew at Your Table",
-      "why_now": "Chaosium's sudden purge of AI-flagged community content is the biggest 'can I use this at my table' question in the OSR space this week.",
-      "angle": "60-second explainer: what counts as derivative content under most OGL/community licenses, framed as a GM ruling on 'is this legal homebrew or not.'",
-      "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
-    },
-    {
-      "title": "Necromunda's RPG Got Cancelled — The One Mechanic Skirmish-to-RPG Conversions Always Botch",
-      "why_now": "The cancellation announcement is fresh and gives a hook to dissect a recurring systems-design failure point.",
-      "angle": "Dry teardown: gang-rule bloat vs. actual roleplay hooks, with a 5e/DCC comparison on converting faction skirmish rules into table-ready encounters.",
-      "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
-    },
-    {
-      "title": "'Act With Intent' Isn't GM Advice — It's a Rule You're Already Breaking Every Combat",
-      "why_now": "Gnome Stew's piece on declared intent is making rounds and maps directly onto adjudicating ambiguous player actions.",
-      "angle": "Single ruling short: how to force 'I attack' into 'I do X to achieve Y,' with a DCC/5e example of a bad call salvaged by the intent question.",
+      "title": "Ruling: What 'Declare Intent, Not Action' Actually Fixes at Your Table",
+      "why_now": "Gnome Stew's piece on intent-based play is making rounds right as GMs debate adjudication styles—perfect excuse to show the ruling in action.",
+      "angle": "60-sec split-screen: bad call (player states mechanic) vs. good call (player states intent, GM translates to mechanic) using a trap scenario in Shadowdark.",
       "source": "https://gnomestew.com/act-with-intent/"
     },
     {
-      "title": "Sword World Just Raised $2M in 24 Hours — Here's Its Weird Opposed-Roll Trick You Should Steal for 5e Skill Checks",
-      "why_now": "The record-breaking crowdfund puts an obscure Japanese system's mechanics in front of a Western audience for the first time, making it a timely curiosity hook.",
-      "angle": "Creature/spell-tactic-style breakdown applying Sword World's opposed dice mechanic to a 5e skill contest, pitched as a house-rule swap.",
-      "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
+      "title": "Critical Role Goes to Middle-earth — Here's the Ranger Ruling Tolkien Would Hate",
+      "why_now": "CR's November LOTR arc puts Tolkien-style play in the feed, and 5e's Ranger favored terrain/tracking rules are notoriously underbaked for that fantasy.",
+      "angle": "Quick ruling breakdown: how to houserule tracking/travel pace so it feels like Strider, not a Perception check spam.",
+      "source": "https://www.enworld.org/threads/critical-role-will-be-visiting-middle-earth-in-november.721076/"
     },
     {
-      "title": "Dragon Kings Is Crowdfunding Again — The Defiling Rule That Makes Dark Sun Wizards Actually Terrifying",
-      "why_now": "Dragon Kings' reappearance in this week's crowdfunding roundup revives interest in Dark Sun's defiling magic, a mechanic 5e/DCC GMs constantly reinvent badly.",
-      "angle": "Spell use-case short: run a defiling-style corruption clause as a bolt-on magic risk mechanic, with a concrete DC and consequence table.",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-13-omens-munchkin-dragon-kings-and-more.721044/"
+      "title": "Necromunda RPG Is Dead — Steal Its Gang Combat for Your DCC Funnel Instead",
+      "why_now": "The cancellation news is fresh and gang-skirmish fans need somewhere to put that design itch.",
+      "angle": "Creature/mob tactic format: show a 4-on-1 gang ambush using DCC's mob rules, framed as 'what Necromunda would've given you.'",
+      "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
+    },
+    {
+      "title": "Chaosium Pulled 40 AI Titles — Here's the House Rule for AI-Generated Monsters at Your Table",
+      "why_now": "Chaosium's AI crackdown is the week's biggest industry-ethics story and GMs are actively asking what's safe to use.",
+      "angle": "Dry take: a GM-facing ruling/checklist on vetting AI-assisted homebrew stat blocks before they hit your table, no moralizing just mechanics risk.",
+      "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
+    },
+    {
+      "title": "Sword World Just Raised $2M in 24 Hours — The One Spell-Point Mechanic Worth Stealing for 5e",
+      "why_now": "Sword World's surprise crowdfunding success puts its distinct caster economy in front of a wider English audience for the first time.",
+      "angle": "Spell use-case comparison: show how a Sword World-style point-cost caster handles a scene your Vancian 5e wizard would nova on, and the simple reskin to try tonight.",
+      "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
     }
   ]
 }

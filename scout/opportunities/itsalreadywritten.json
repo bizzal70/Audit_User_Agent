@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-24T11:06:49+00:00",
+  "generated": "2026-10-25T11:07:04+00:00",
   "opportunities": [
     {
-      "title": "No Necromunda RPG After All: What the Cancellation Means for Licensed Game Lines",
-      "why_now": "Breaking confirmation that a previously announced tie-in RPG is officially dead, closing a chapter TTRPG fans were tracking.",
-      "angle": "News-first explainer breaking down the announcement, likely causes (licensing, scope), and what it signals for other GW-adjacent RPG projects",
+      "title": "Necromunda RPG: Dead on Arrival — What the Cancelled Rules Would Have Looked Like",
+      "why_now": "GW/Cubicle 7's Necromunda RPG was just confirmed cancelled, closing the book on a project whose mechanics were never fully revealed.",
+      "angle": "Rules autopsy: compile every known mechanical detail (skirmish-to-RPG conversion rules, gang advancement) from prior previews before it's scrubbed from memory",
       "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
     },
     {
-      "title": "Chaosium Pulls 40 Community Titles Over AI Use: The Rules of What's Allowed Just Changed",
-      "why_now": "A major publisher just enforced a sweeping AI policy against its own community content program, a first-of-its-kind precedent for TTRPG IP holders.",
-      "angle": "Rules-first breakdown: what Chaosium's new AI policy actually prohibits, how it was enforced, and what it means for other OGL/community license programs",
+      "title": "Chaosium's AI Policy, Line by Line: What 'No AI' Actually Means for Your Call of Cthulhu Supplement",
+      "why_now": "Chaosium just pulled 40 community-made titles over AI content, making this the first major publisher enforcement action with teeth.",
+      "angle": "Rules-first breakdown of the actual policy text and what third-party creators can/can't do under the OBS community license now",
       "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
     },
     {
-      "title": "Sword World RPG Hits $2M in 24 Hours: Why Japan's Biggest TTRPG Is Finally Coming to English Tables",
-      "why_now": "A long-running, massively popular Japanese system just smashed crowdfunding records on its first official English release.",
-      "angle": "Facts-and-figures piece on what Sword World's rules/system actually look like for English-speaking GMs encountering it for the first time",
+      "title": "Which Edition Is Critical Role Actually Playing in Middle-earth?",
+      "why_now": "Critical Role's November Middle-earth arc was just announced, and fans are already asking which ruleset (The One Ring 2e vs. a bespoke system) powers it.",
+      "angle": "System ID piece: dissect trailers/announcements for mechanical tells and confirm the ruleset before episode one drops",
+      "source": "https://www.enworld.org/threads/critical-role-will-be-visiting-middle-earth-in-november.721076/"
+    },
+    {
+      "title": "Sword World RPG Raised $2M in 24 Hours — Here's the System Americans Have Never Played",
+      "why_now": "The first official English release of Japan's best-selling TTRPG just smashed funding goals in a single day, and most Western players know nothing about its rules.",
+      "angle": "Explainer: core mechanics of Sword World's d6-dice-pool/growth system compared to D&D, aimed at backers wondering what they just funded",
       "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
     },
     {
-      "title": "This Week's RPG Crowdfunding Roundup: 13 Omens, Munchkin, and Dragon Kings — Which Ones Actually Ship New Rules",
-      "why_now": "A fresh weekly digest just dropped covering multiple live campaigns worth tracking before they close.",
-      "angle": "Quick-hit roundup ranking each campaign by rules-innovation and funding momentum, with a clear 'back or watch' verdict",
-      "source": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-13-omens-munchkin-dragon-kings-and-more.721044/"
-    },
-    {
-      "title": "Act With Intent: The GM Advice Column That's Secretly About Rules Discipline",
-      "why_now": "Gnome Stew just published fresh GM-facing analysis that lines up with a rules-first philosophy worth amplifying to this audience.",
-      "angle": "Reaction/commentary post translating the advice into concrete rules-adherence takeaways for tables, with pull-quotes and a 'why the rules matter here' framing",
+      "title": "'Act With Intent' Is Advice — But Here Are the Rules That Already Enforce It",
+      "why_now": "Gnome Stew's new piece on player/GM intent is prompting discussion, and several published systems (PbtA moves, Fate aspects) already codify 'intent' mechanically.",
+      "angle": "Counter-companion piece: survey which rulesets turn this GM-advice concept into hard mechanics, framed as 'the rules already solved this'",
       "source": "https://gnomestew.com/act-with-intent/"
     }
   ]
