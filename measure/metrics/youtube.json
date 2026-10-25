@@ -10401,5 +10401,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "videos": [
+      {
+        "id": "Knksa-BC2Tg",
+        "title": "Ruling check: Encumbrance and Gear Slots #shadowdark",
+        "published": "2026-10-24",
+        "views": 2,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "PA4sCwXSLbw",
+        "title": "Ring of Spell Turning requires attunement #dnd5e",
+        "published": "2026-10-24",
+        "views": 151,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "u5Z-6WMgMpM",
+        "title": "Spell Duels often end in unexpected chaos #dcc",
+        "published": "2026-10-24",
+        "views": 8,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Nkz2r5V24fQ",
+        "title": "Acolyte's Healing Touch often frustrates players #shadowdark",
+        "published": "2026-10-23",
+        "views": 15,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "BuIoxj0i_U4",
+        "title": "Melee Attacks require a target within reach #dnd5e",
+        "published": "2026-10-23",
+        "views": 70,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "KTFosEPdqt8",
+        "title": "Thief: Thieves regain burned Luck in a way no other class can #dcc",
+        "published": "2026-10-23",
+        "views": 17,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "0C23UDUcSfo",
+        "title": "Priest hits a power spike earlier than most classes #shadowdark",
+        "published": "2026-10-22",
+        "views": 12,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "c8WCQpGYpEY",
+        "title": "Private Sanctum's area can be larger than players expect #dnd5e",
+        "published": "2026-10-22",
+        "views": 31,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "FJAjKwLywSE",
+        "title": "Charge Wood Door Golem a real price #dcc",
+        "published": "2026-10-22",
+        "views": 8,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "7mR9_0u1iNM",
+        "title": "Cacklerot changes the situation more than the damage math #shadowdark",
+        "published": "2026-10-21",
+        "views": 11,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "o-EyXHSZ53o",
+        "title": "Gorgon's AC is higher than expected for its challenge rating #dnd5e",
+        "published": "2026-10-21",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "-zAVzCXtMPo",
+        "title": "Blade of Great Strength seems like a permanent boost #dcc",
+        "published": "2026-10-21",
+        "views": 15,
+        "likes": 1,
+        "comments": 0
+      }
+    ]
   }
 ]
