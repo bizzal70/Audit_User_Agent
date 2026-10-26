@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-25T11:07:04+00:00",
+  "generated": "2026-10-26T11:09:04+00:00",
   "opportunities": [
     {
-      "title": "PHP2Shell Isn't Getting an Emergency Patch — and Attackers Already Knew Before You Did",
-      "why_now": "AWS confirmed exploitation began before public disclosure, Mirai operators have piled on, and dozens of UK government services are down, yet maintainers still won't fast-track a fix.",
-      "angle": "Inevitable-breach timeline digest: map the exploit-before-disclosure window, the Mirai pile-on, and the no-emergency-fix decision to show why 'patch cadence' is a myth",
-      "source": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305215"
+      "title": "PHP2Shell Goes Live: Mirai Joins In, North Korea Scans the Globe, and Bug #3 Still Has No Patch",
+      "why_now": "The PHP2Shell saga has escalated from disclosure to active in-the-wild exploitation by botnets and nation-state scanners within days, with a third unpatched variant still looming.",
+      "angle": "Running incident timeline/digest post tracking exploitation, mitigations, and the patch-cadence failure — tailor-made for the inevitable-breach format",
+      "source": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
     },
     {
-      "title": "2,250 Cloud Tenants, One ConnectWise Hole: Inside China's Storm-0940 Supply-Chain Raid",
-      "why_now": "Microsoft just attributed the breach to a known Chinese APT and tied it to an AI pentest tool (Artex) used for the intrusions.",
-      "angle": "Breach anatomy post: supply-chain entry point, blast radius math (2,250 tenants), and the AI-tooling twist that signals where APT tradecraft is heading",
-      "source": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687"
+      "title": "Node2Shell: One Brotli Decoder Bug, Four Ecosystems, Zero Patch Cadence to Spare",
+      "why_now": "A single Brotli decompression flaw just forced emergency patches across Microsoft, Node.js, Python, and Bun simultaneously — a textbook supply-chain cascade.",
+      "angle": "CVE-anatomy breakdown: how one shared dependency becomes an industry-wide fire drill, with a patch-status checklist readers can act on",
+      "source": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/"
     },
     {
-      "title": "A Leaked Master Key Let Attackers Hijack LiteLLM's Release Pipeline — Here's the Blast Radius",
-      "why_now": "A single exposed master key cascaded into stolen GitHub tokens and a compromised release pipeline, a textbook single-point-of-failure breach disclosed this week.",
-      "angle": "Root-cause teardown: trace the leaked secret to downstream compromise, framed as a cautionary checklist for anyone managing LLM-infra keys",
-      "source": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+      "title": "97 Accounts, 79 Organizations: Inside the Microsoft 365 Token-Replay Spree",
+      "why_now": "A concrete, numbered breach disclosure of token-replay attacks against M365 gives a hard news hook with real victim counts, not just theoretical risk.",
+      "angle": "Breach-anatomy post: how token replay bypasses MFA, who got hit, and the detection gap defenders need to close now",
+      "source": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html"
     },
     {
-      "title": "Arista's VeloCloud Zero-Day, Take Three: Why the Same Product Keeps Getting Popped",
-      "why_now": "This is the third actively exploited VCO zero-day in four months, now flagged by CISA alongside Collabora Online.",
-      "angle": "Patch-cadence pattern piece: chart the three incidents on a timeline to ask whether Arista's fix pipeline is structurally broken",
-      "source": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/"
+      "title": "Quest Diagnostics Breached Again: The Healthcare Data Leak Nobody's Surprised By",
+      "why_now": "A major lab-testing company just confirmed patient-record exposure, the latest entry in healthcare's relentless breach cadence.",
+      "angle": "Short, punchy 'inevitable breach' post: what was exposed, why healthcare keeps losing, and what patients should do",
+      "source": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/"
     },
     {
-      "title": "One Brotli Bug, Every Runtime: Node's RCE Flaw Also Hits Bun, Python, and More",
-      "why_now": "A newly disclosed decoder flaw behind a Node.js RCE was just shown to ripple across the wider language-runtime ecosystem.",
-      "angle": "CVE explainer with an inevitability hook: one shared dependency, dozens of downstream products exposed — practical patch-priority guidance for devs",
-      "source": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+      "title": "The Downloads Folder Trick: How a Single Text File Hijacks Your AI Coding Agent",
+      "why_now": "Researchers just demonstrated a live technique where a planted AGENTS.md file silently tricks AI coding assistants into installing malware — a new class of threat actor playbook emerging in real time.",
+      "angle": "Threat-actor explainer: walk through the attack chain, why agentic coding tools are the new attack surface, and mitigation steps devs can apply today",
+      "source": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html"
     }
   ]
 }

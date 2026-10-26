@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-25T11:07:04+00:00",
+  "generated": "2026-10-26T11:09:04+00:00",
   "opportunities": [
     {
-      "title": "Necromunda RPG: Dead on Arrival — What the Cancelled Rules Would Have Looked Like",
-      "why_now": "GW/Cubicle 7's Necromunda RPG was just confirmed cancelled, closing the book on a project whose mechanics were never fully revealed.",
-      "angle": "Rules autopsy: compile every known mechanical detail (skirmish-to-RPG conversion rules, gang advancement) from prior previews before it's scrubbed from memory",
+      "title": "No Necromunda RPG: What the Cancellation Actually Says About GW's License Rules",
+      "why_now": "EN World confirms the long-rumored Necromunda RPG is dead, closing a chapter TTRPG fans were tracking.",
+      "angle": "News analysis: break down what was promised vs. what GW's licensing terms likely required, framed as 'the rules of the deal were already written'",
       "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
     },
     {
-      "title": "Chaosium's AI Policy, Line by Line: What 'No AI' Actually Means for Your Call of Cthulhu Supplement",
-      "why_now": "Chaosium just pulled 40 community-made titles over AI content, making this the first major publisher enforcement action with teeth.",
-      "angle": "Rules-first breakdown of the actual policy text and what third-party creators can/can't do under the OBS community license now",
-      "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
+      "title": "Chaosium vs. AI: The Clause That Could Reshape TTRPG Publishing Contracts",
+      "why_now": "Podcast #420 flags a live Chaosium-vs-AI dispute, a first concrete case study for how OGL-style publishers are writing AI restrictions into their rules.",
+      "angle": "Explainer thread: dissect what legal/license language Chaosium is likely using and why every publisher should be watching",
+      "source": "https://www.enworld.org/threads/podcast-420-livestream-new-warcraft-previews-chaosium-vs-ai-critical-role-in-middle-earth.721088/"
     },
     {
-      "title": "Which Edition Is Critical Role Actually Playing in Middle-earth?",
-      "why_now": "Critical Role's November Middle-earth arc was just announced, and fans are already asking which ruleset (The One Ring 2e vs. a bespoke system) powers it.",
-      "angle": "System ID piece: dissect trailers/announcements for mechanical tells and confirm the ruleset before episode one drops",
-      "source": "https://www.enworld.org/threads/critical-role-will-be-visiting-middle-earth-in-november.721076/"
+      "title": "Interview with the Vampire Starter Set: How Renegade Adapts World of Darkness Rules for New Players",
+      "why_now": "First preview images of the starter set just dropped, giving a concrete rules artifact to analyze before full release.",
+      "angle": "Rules breakdown post: compare starter-set mechanics to full VtM core rules, predict what's simplified",
+      "source": "https://www.enworld.org/threads/heres-a-peek-at-renegades-interview-with-the-vampire-starter-set.721083/"
     },
     {
-      "title": "Sword World RPG Raised $2M in 24 Hours — Here's the System Americans Have Never Played",
-      "why_now": "The first official English release of Japan's best-selling TTRPG just smashed funding goals in a single day, and most Western players know nothing about its rules.",
-      "angle": "Explainer: core mechanics of Sword World's d6-dice-pool/growth system compared to D&D, aimed at backers wondering what they just funded",
+      "title": "Manage Rests, Don't Fight Them: The Actual Short/Long Rest Rules Sly Flourish Wants You to Use",
+      "why_now": "Sly Flourish just published a fresh rests-management breakdown that's prime for a rules-first response/add-on.",
+      "angle": "Rules-reference companion post citing exact rest mechanics (5e/2024) with a quick-reference table, positioned as the definitive version",
+      "source": "https://slyflourish.com/handling_rests.html?rss=1"
+    },
+    {
+      "title": "Sword World RPG Raised $2M in 24 Hours — Here's What's Actually in the Rulebook Coming to English Tables",
+      "why_now": "The record-breaking crowdfund just happened, and most English-speaking fans have never seen the actual ruleset driving the hype.",
+      "angle": "First-look rules explainer: pull from the Japanese system's known mechanics to preview what backers are funding",
       "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
-    },
-    {
-      "title": "'Act With Intent' Is Advice — But Here Are the Rules That Already Enforce It",
-      "why_now": "Gnome Stew's new piece on player/GM intent is prompting discussion, and several published systems (PbtA moves, Fate aspects) already codify 'intent' mechanically.",
-      "angle": "Counter-companion piece: survey which rulesets turn this GM-advice concept into hard mechanics, framed as 'the rules already solved this'",
-      "source": "https://gnomestew.com/act-with-intent/"
     }
   ]
 }

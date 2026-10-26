@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-25T11:07:04+00:00",
+  "generated": "2026-10-26T11:09:04+00:00",
   "opportunities": [
     {
-      "title": "Ruling: What 'Declare Intent, Not Action' Actually Fixes at Your Table",
-      "why_now": "Gnome Stew's piece on intent-based play is making rounds right as GMs debate adjudication styles—perfect excuse to show the ruling in action.",
-      "angle": "60-sec split-screen: bad call (player states mechanic) vs. good call (player states intent, GM translates to mechanic) using a trap scenario in Shadowdark.",
-      "source": "https://gnomestew.com/act-with-intent/"
+      "title": "The Long Rest Loophole Your Players Are Already Abusing",
+      "why_now": "Sly Flourish's fresh rest-management piece gives a concrete rules hook to dissect short/long rest abuse and fix it in one clip.",
+      "angle": "Rules ruling short: show the exploit (rope trick + rest spam), state the fix (rest in dungeon only, random encounter checks), deliver dry GM verdict.",
+      "source": "https://slyflourish.com/handling_rests.html?rss=1"
     },
     {
-      "title": "Critical Role Goes to Middle-earth — Here's the Ranger Ruling Tolkien Would Hate",
-      "why_now": "CR's November LOTR arc puts Tolkien-style play in the feed, and 5e's Ranger favored terrain/tracking rules are notoriously underbaked for that fantasy.",
-      "angle": "Quick ruling breakdown: how to houserule tracking/travel pace so it feels like Strider, not a Perception check spam.",
+      "title": "Running a Ringwraith So It Actually Scares Your Table",
+      "why_now": "Critical Role's November Middle Earth arc puts Nazgûl in the discourse right now, prime bait for a creature tactic breakdown.",
+      "angle": "Creature tactic: reskin a Death Knight/Specter stack as a Ringwraith, explain fear aura + horse chase mechanics, no fluff just stat math.",
       "source": "https://www.enworld.org/threads/critical-role-will-be-visiting-middle-earth-in-november.721076/"
     },
     {
-      "title": "Necromunda RPG Is Dead — Steal Its Gang Combat for Your DCC Funnel Instead",
-      "why_now": "The cancellation news is fresh and gang-skirmish fans need somewhere to put that design itch.",
-      "angle": "Creature/mob tactic format: show a 4-on-1 gang ambush using DCC's mob rules, framed as 'what Necromunda would've given you.'",
+      "title": "How to Stat a Vampire NPC Without Opening the Monster Manual",
+      "why_now": "Renegade's Interview with the Vampire starter set is trending, giving an easy tie-in for converting VtM-style vampires into 5e stat blocks.",
+      "angle": "Spell/monster use-case: build a social-manipulation vampire using Vampire Spawn chassis + Charm Person reskin, deliver as a quick stat-block hack.",
+      "source": "https://www.enworld.org/threads/heres-a-peek-at-renegades-interview-with-the-vampire-starter-set.721083/"
+    },
+    {
+      "title": "No, I Won't Let AI Roll For My Monsters",
+      "why_now": "The Chaosium vs AI fight is fresh news this week and GMs are already arguing about it online, making it a timely hot-take hook.",
+      "angle": "Dry opinion short: one ruling-style take on why AI-generated encounters break action economy, framed as a 'rules ruling' on table trust.",
+      "source": "https://www.enworld.org/threads/podcast-420-livestream-new-warcraft-previews-chaosium-vs-ai-critical-role-in-middle-earth.721088/"
+    },
+    {
+      "title": "Necromunda RPG Is Dead — Here's the Licensing Mistake That Killed It",
+      "why_now": "The surprise cancellation just broke this week, giving a timely excuse to dissect licensed-RPG design failures for GM-adjacent clicks.",
+      "angle": "Short analytical rant: compare to successful licensed 5e conversions (Alien, MCDM), one mechanical lesson on scope creep killing projects.",
       "source": "https://www.enworld.org/threads/there-will-be-no-necromunda-rpg-after-all.721071/"
-    },
-    {
-      "title": "Chaosium Pulled 40 AI Titles — Here's the House Rule for AI-Generated Monsters at Your Table",
-      "why_now": "Chaosium's AI crackdown is the week's biggest industry-ethics story and GMs are actively asking what's safe to use.",
-      "angle": "Dry take: a GM-facing ruling/checklist on vetting AI-assisted homebrew stat blocks before they hit your table, no moralizing just mechanics risk.",
-      "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
-    },
-    {
-      "title": "Sword World Just Raised $2M in 24 Hours — The One Spell-Point Mechanic Worth Stealing for 5e",
-      "why_now": "Sword World's surprise crowdfunding success puts its distinct caster economy in front of a wider English audience for the first time.",
-      "angle": "Spell use-case comparison: show how a Sword World-style point-cost caster handles a scene your Vancian 5e wizard would nova on, and the simple reskin to try tonight.",
-      "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
     }
   ]
 }

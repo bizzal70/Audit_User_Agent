@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-25T11:07:04+00:00",
+  "generated": "2026-10-26T11:09:04+00:00",
   "opportunities": [
     {
-      "title": "The X100 Anatomy: How a Governance Takeover Became a $5M+ Four-Wallet Getaway",
-      "why_now": "Three separate Defiant reports (governance takeover, Uniswap drain, 4x400-ETH wallet split) are really one unfolding exploit that hasn't been synthesized yet.",
-      "angle": "Live post-mortem thread/blog stitching the governance-vote mechanics to the fund flow, ending with 'this is why governance tokens are an attack surface, not a feature'",
-      "source": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover"
+      "title": "Keystone Promised to Delete Your Data. It Didn't — And Now Your Address Is Public",
+      "why_now": "A hardware wallet maker's breach exposed exactly the data it told customers would be purged, undercutting the entire pitch of 'cold storage equals safety.'",
+      "angle": "Incident teardown: timeline of the breach, what Keystone claimed vs. what leaked, and why 'we deleted it' is a promise you can never verify",
+      "source": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Initia Halted Its Own Chain to Stop a Hacker — Here's Why That's Both Smart and Terrifying",
-      "why_now": "A $2.6M exploit forced a live chain halt and reported token minting, a rare real-time admin-key intervention worth dissecting.",
-      "angle": "Explainer: what 'halting a blockchain' actually means for decentralization promises, with a checklist of what to watch before the postmortem drops",
+      "title": "CoinDCX's CEO Called It a 'False Alarm.' Four Days Later: $16 Million Gone",
+      "why_now": "The gap between the CEO's public denial and the confirmed loss from a retired wallet is a textbook case study in exchange comms failing faster than exchange security.",
+      "angle": "Red-flag timeline piece: denial-to-disclosure gap as a trading signal, with a checklist for spotting the pattern next time",
+      "source": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617"
+    },
+    {
+      "title": "Initia Halted Its Own Chain to Stop a Mint Exploit — Here's What 'Halting' Actually Means for Your Funds",
+      "why_now": "A live $2.6M mint exploit that forced a chain-wide halt raises the uncomfortable question of who has the keys to pause a 'decentralized' network.",
+      "angle": "Explainer/incident hybrid: how the exploit worked, what powers allowed a halt, and what that says about the chain's actual trust assumptions",
       "source": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Bitcoin Core Just Admitted AI Can Find Bugs Faster Than Devs Can Patch Them",
-      "why_now": "Bitcoin Core rewrote its security disclosure policy specifically because AI tooling makes one-prompt bug discovery trivial — a structural shift, not a one-off hack.",
-      "angle": "Analysis piece: what this policy change signals for every other chain/wallet that hasn't updated its threat model yet",
-      "source": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt"
+      "title": "That 'Speed Up This Transaction' Button Was Stealing Your Bitcoin",
+      "why_now": "A wallet bug let rogue servers hijack funds during RBF fee-bumps — a routine, trusted action turned into an attack vector, which is exactly the kind of quiet UX exploit this audience expects.",
+      "angle": "Technical breakdown for a security-literate audience: what RBF does, how the bug worked, and a quick self-check for affected wallets",
+      "source": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments"
     },
     {
-      "title": "A Hardware Wallet Company Just Leaked Your Shipping Address — Here's the Keystone Breach",
-      "why_now": "Keystone's website breach exposed customer addresses and order details, turning a self-custody purchase into a physical security risk.",
-      "angle": "Security-led explainer on 'wallet metadata' as an attack vector — $5 wrench attacks don't need your seed phrase, just your mailing address",
-      "source": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details"
-    },
-    {
-      "title": "Cysic Offered Its Hacker a 10% Bounty. The Hacker Took 100% and Went to Tornado Cash Anyway",
-      "why_now": "A live, almost comedic rejection of the standard white-hat negotiation playbook gives a perfect 'already priced' narrative on why bounty offers rarely work once funds move.",
-      "angle": "Short, punchy take on the incentive math of post-exploit negotiations — why mixers always win the race against goodwill",
-      "source": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Your Validator's Signing Key Might Be Someone Else's Problem Now: The eMudhra and Cloudflare API Mess",
+      "why_now": "Two same-week disclosures — Consensys flagging eMudhra signing risks and Passport phishing traced to compromised Cloudflare API keys — show the attack surface has moved from your wallet to your vendors' vendors.",
+      "angle": "Supply-chain security roundup: map the dependency chain (signing certs, API keys, phishing) and argue why 'audited' no longer means 'safe'",
+      "source": "https://thedefiant.io/news/security/consensys-warns-ethereum-operators-of-emudhra-signing-risks"
     }
   ]
 }

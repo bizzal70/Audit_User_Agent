@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-25T11:07:04+00:00",
+  "generated": "2026-10-26T11:09:04+00:00",
   "plays": [
     {
-      "story": "Chaosium's AI crackdown removes 40 community-made Call of Cthulhu titles, setting a hard line on AI-generated content in TTRPG publishing",
+      "story": "Google quietly changed its privacy policy so Gmail and Photos data can now feed AI-driven ad targeting, confirmed almost simultaneously by crypto and security outlets",
       "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
+        "itsalreadypriced",
+        "itsalreadywhen"
       ],
       "angles": {
-        "bizzal-games": "Chaosium Just Nuked 40 AI-Assisted Adventures — What the Call of Cthulhu Purge Means for Your Next Homebrew Module",
-        "itsalreadywritten": "40 Titles Deleted Overnight: Inside Chaosium's New Rule That Could Redefine What Counts as 'Written' in TTRPG Publishing"
+        "itsalreadypriced": "Google Just Made the Case for Self-Custody: If Your Inbox Isn't Private, Why Trust a Custodial Exchange With Your KYC? — use the Gmail/Photos ad-feed reveal as a hook into the self-custody/CEX-trust debate, name-checking the same week's Keystone/CoinDCX breaches as proof centralized data stores always leak or monetize you.",
+        "itsalreadywhen": "Google's Silent Policy Flip: Audit Your Org's Gmail/Photos Data Flows Before AI Search Turns Them Into Ad Fuel — a practical breakdown of what changed, why it slipped out quietly, and a checklist for enterprise admins to lock down Workspace data sharing settings today."
       },
-      "source": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/"
+      "source": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads"
     },
     {
-      "story": "Sword World RPG's first official English release crowdfunds $2M in 24 hours, signaling huge pent-up demand for classic JRPG-style tabletop systems",
+      "story": "A cluster of crypto wallet security failures this week — Keystone's breach exposing hardware wallet buyer data it promised to delete, and CoinDCX confirming a $16M loss from 'retired' wallets right after denying any breach",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Two $16M+ Wallet Failures, One Week: Keystone's Broken Deletion Promise and CoinDCX's 'False Alarm' That Wasn't — a markets/trust piece on what these back-to-back failures mean for exchange and hardware-wallet due diligence going into 2027.",
+        "itsalreadywhen": "'We Deleted Your Data' Was a Lie: Keystone's Breach Is a Masterclass in Vendor Data-Retention Risk — a technical postmortem on data lifecycle failures, paired with CoinDCX's 'retired wallet' process gap as a case study in internal control rot."
+      },
+      "source": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Sword World RPG's first official English release raised $2 million on Kickstarter in just 24 hours",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "$2 Million in a Day: Why Sword World RPG's English Debut Just Became the Crowdfunding Story of the Year",
-        "itsalreadywritten": "Lost in Translation No More — What Sword World's Record-Breaking Localization Fund Says About the Future of Imported Rulebooks"
+        "bizzal-games": "Sword World's $2M-in-24-Hours Kickstarter Proves There's a Starving Market for Classic JRPG-Flavored Tabletop in English — a quick-hit news piece for GMs wondering whether to back it, with a breakdown of what the system actually plays like.",
+        "itsalreadywritten": "What Sword World's Overnight $2M Says About the Untapped Backlog of Untranslated Japanese TTRPGs — and Who Publishers Should Localize Next — a trend/analysis piece using the funding speed as evidence for a bigger localization wave."
       },
       "source": "https://www.tribality.com/2026/10/23/sword-world-rpgs-first-official-english-release-raises-2-million-in-just-24-hours/"
     },
     {
-      "story": "AI agents are now both weaponized for cyberattacks (autonomous 'Skynet mode' agent hijacking other models) and reshaping crypto security norms (Bitcoin Core tightening rules because AI can find bugs instantly)",
+      "story": "Critical Role announced it will be visiting Middle Earth in November",
       "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
+        "bizzal-games",
+        "itsalreadywritten"
       ],
       "angles": {
-        "itsalreadypriced": "Bitcoin Core Just Admitted AI Can One-Shot Its Bugs — Here's What That Means for Your Coins' Security Model",
-        "itsalreadywhen": "Skynet Mode Is Real: An Autonomous Attack Agent Is Hijacking Other AI Models to Do Its Dirty Work"
+        "bizzal-games": "Critical Role's Middle-Earth Arc Is Coming — Here's What It Could Mean for Tabletop LOTR Licensing (and Your Own Table) — a news-to-utility piece pointing GMs toward existing LOTR TTRPG options while hype builds.",
+        "itsalreadywritten": "Critical Role Goes to Middle-Earth: Could This Actual Play Become the Canon LOTR RPG Experience for a New Generation? — a culture/analysis angle on actual-play's power to define how fans experience licensed settings."
       },
-      "source": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215"
-    },
-    {
-      "story": "A weekend wave of blockchain exploits (Initia halted after $2.6M drain, Cysic hacker offered a 10% bounty) lands right as the broader cyber world reels from the fast-spreading PHP2Shell RCE bug — two fronts of the same infrastructure-trust crisis",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Two Chains, One Bad Weekend: What the Initia and Cysic Exploits Reveal About DeFi's Security Debt",
-        "itsalreadywhen": "PHP2Shell Won't Quit — And the Same Week Crypto Chains Got Drained, It's Still Spreading Through Government Systems"
-      },
-      "source": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://www.enworld.org/threads/critical-role-will-be-visiting-middle-earth-in-november.721076/"
     }
   ]
 }
