@@ -10603,5 +10603,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "videos": [
+      {
+        "id": "j12LVcSc9RM",
+        "title": "Sleep affects more creatures than most expect #dcc",
+        "published": "2026-10-26",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "JHEoQelWNRc",
+        "title": "Charge Sea Hag a real price #shadowdark",
+        "published": "2026-10-26",
+        "views": 7,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "Zz4WnDUIE5E",
+        "title": "Old-school kit check: Ranged Attacks #dnd5e",
+        "published": "2026-10-26",
+        "views": 65,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "hARiyvp4kZU",
+        "title": "Pearl Of Power's true strength is often overlooked #shadowdark",
+        "published": "2026-10-25",
+        "views": 81,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "3dnUiL3ESBI",
+        "title": "Give Steam Mephit a real price #dnd5e",
+        "published": "2026-10-25",
+        "views": 105,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "ueMJSjRb7iM",
+        "title": "Emerald Wanderer resists mundane attacks #dcc",
+        "published": "2026-10-25",
+        "views": 40,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Knksa-BC2Tg",
+        "title": "Ruling check: Encumbrance and Gear Slots #shadowdark",
+        "published": "2026-10-24",
+        "views": 5,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "PA4sCwXSLbw",
+        "title": "Ring of Spell Turning requires attunement #dnd5e",
+        "published": "2026-10-24",
+        "views": 159,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "u5Z-6WMgMpM",
+        "title": "Spell Duels often end in unexpected chaos #dcc",
+        "published": "2026-10-24",
+        "views": 12,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Nkz2r5V24fQ",
+        "title": "Acolyte's Healing Touch often frustrates players #shadowdark",
+        "published": "2026-10-23",
+        "views": 18,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "BuIoxj0i_U4",
+        "title": "Melee Attacks require a target within reach #dnd5e",
+        "published": "2026-10-23",
+        "views": 89,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "KTFosEPdqt8",
+        "title": "Thief: Thieves regain burned Luck in a way no other class can #dcc",
+        "published": "2026-10-23",
+        "views": 17,
+        "likes": 0,
+        "comments": 0
+      }
+    ]
   }
 ]
