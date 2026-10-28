@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-26T11:09:04+00:00",
+  "generated": "2026-10-28T11:06:17+00:00",
   "opportunities": [
     {
-      "title": "Keystone Promised to Delete Your Data. It Didn't — And Now Your Address Is Public",
-      "why_now": "A hardware wallet maker's breach exposed exactly the data it told customers would be purged, undercutting the entire pitch of 'cold storage equals safety.'",
-      "angle": "Incident teardown: timeline of the breach, what Keystone claimed vs. what leaked, and why 'we deleted it' is a promise you can never verify",
+      "title": "Coinbase and Bithumb Both Got Breached This Week — And Both Blamed Someone Else",
+      "why_now": "Two major exchanges disclosed breaches on the same day, both pointing to a vendor/internal system rather than their own security, making the 'not us' incident-response playbook impossible to ignore.",
+      "angle": "Pattern analysis: compare both disclosures line by line, show how 'vendor breach' and 'employee system' language functions as liability deflection, and explain what data was actually exposed in each.",
+      "source": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Keystone's Breach Means Someone Can Mail You a Fake Hardware Wallet With Your Real Address On It",
+      "why_now": "A stolen signing key plus leaked buyer addresses turns a data breach into a physical social-engineering vector against hardware wallet owners specifically.",
+      "angle": "Security explainer/checklist: how the key theft enables device spoofing, what Keystone owners should verify before trusting any device or package, and why 'cold storage' isn't breach-proof.",
       "source": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "CoinDCX's CEO Called It a 'False Alarm.' Four Days Later: $16 Million Gone",
-      "why_now": "The gap between the CEO's public denial and the confirmed loss from a retired wallet is a textbook case study in exchange comms failing faster than exchange security.",
-      "angle": "Red-flag timeline piece: denial-to-disclosure gap as a trading signal, with a checklist for spotting the pattern next time",
-      "source": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617"
+      "title": "Datavault AI Can't Withdraw Its Own Bitcoin — That's Not a Hack, It's Worse",
+      "why_now": "A $150M bitcoin treasury deal just froze overnight and the stock halved, a cleaner illustration than most hacks of why counterparty/custody structure matters more than the 'is it hacked' headline.",
+      "angle": "Explainer distinguishing custody failure from a hack: trace the deal structure, who actually controls the keys, and why 'can't access' stories are the quieter, more common version of losing your coins.",
+      "source": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962"
     },
     {
-      "title": "Initia Halted Its Own Chain to Stop a Mint Exploit — Here's What 'Halting' Actually Means for Your Funds",
-      "why_now": "A live $2.6M mint exploit that forced a chain-wide halt raises the uncomfortable question of who has the keys to pause a 'decentralized' network.",
-      "angle": "Explainer/incident hybrid: how the exploit worked, what powers allowed a halt, and what that says about the chain's actual trust assumptions",
-      "source": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The AI Vulnerability Apocalypse Is On Schedule, Says the Guy Who Runs Bug Bounties for a Living",
+      "why_now": "Immunefi's CEO is flagging AI-generated/AI-found vulnerabilities as a structural shift right as Google previews an AI-threat custody product, giving both sides of the same emerging risk in one news cycle.",
+      "angle": "Two-source feature: pair the Immunefi warning with Google's custody announcement to argue AI is simultaneously the new attacker and the new defense, with concrete predictions for what breaks next.",
+      "source": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "That 'Speed Up This Transaction' Button Was Stealing Your Bitcoin",
-      "why_now": "A wallet bug let rogue servers hijack funds during RBF fee-bumps — a routine, trusted action turned into an attack vector, which is exactly the kind of quiet UX exploit this audience expects.",
-      "angle": "Technical breakdown for a security-literate audience: what RBF does, how the bug worked, and a quick self-check for affected wallets",
-      "source": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments"
-    },
-    {
-      "title": "Your Validator's Signing Key Might Be Someone Else's Problem Now: The eMudhra and Cloudflare API Mess",
-      "why_now": "Two same-week disclosures — Consensys flagging eMudhra signing risks and Passport phishing traced to compromised Cloudflare API keys — show the attack surface has moved from your wallet to your vendors' vendors.",
-      "angle": "Supply-chain security roundup: map the dependency chain (signing certs, API keys, phishing) and argue why 'audited' no longer means 'safe'",
-      "source": "https://thedefiant.io/news/security/consensys-warns-ethereum-operators-of-emudhra-signing-risks"
+      "title": "$953,000 Drained Faster Than You Can Microwave Popcorn: Inside the Bloom Bot Hack",
+      "why_now": "A sub-two-minute trading-bot exploit is a perfect, visceral case study in how automated systems compress the window for human reaction to zero.",
+      "angle": "Fast technical breakdown: minute-by-minute timeline of the drain, what the bot was trusted to do, and why 'set and forget' trading bots are a growing attack surface worth pricing into risk.",
+      "source": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

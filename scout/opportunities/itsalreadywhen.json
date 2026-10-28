@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-26T11:09:04+00:00",
+  "generated": "2026-10-28T11:06:17+00:00",
   "opportunities": [
     {
-      "title": "PHP2Shell Goes Live: Mirai Joins In, North Korea Scans the Globe, and Bug #3 Still Has No Patch",
-      "why_now": "The PHP2Shell saga has escalated from disclosure to active in-the-wild exploitation by botnets and nation-state scanners within days, with a third unpatched variant still looming.",
-      "angle": "Running incident timeline/digest post tracking exploitation, mitigations, and the patch-cadence failure — tailor-made for the inevitable-breach format",
-      "source": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
+      "title": "PHP2Shell Is Now Live Fire: CISA Confirms Exploitation Days After a $2K CTF Proved the Bug Was Trivial",
+      "why_now": "CISA just confirmed active in-the-wild exploitation of PHP2Shell mere days after a capture-the-flag contest showed researchers cashing in on the same bug, proving the patch window was already closed before most admins noticed.",
+      "angle": "Breach-digest timeline piece: CTF payout date vs. first observed exploit date, with a 'patch now' checklist and KEV deadline callout",
+      "source": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
     },
     {
-      "title": "Node2Shell: One Brotli Decoder Bug, Four Ecosystems, Zero Patch Cadence to Spare",
-      "why_now": "A single Brotli decompression flaw just forced emergency patches across Microsoft, Node.js, Python, and Bun simultaneously — a textbook supply-chain cascade.",
-      "angle": "CVE-anatomy breakdown: how one shared dependency becomes an industry-wide fire drill, with a patch-status checklist readers can act on",
-      "source": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/"
+      "title": "ShinyHunters' 'Zero-Day' Was Actually Three Oracle Bugs Stacked in a Trenchcoat",
+      "why_now": "New analysis reveals the PeopleSoft flaw ShinyHunters exploited for mass extortion was a chain of three separate vulnerabilities, reframing a single CVE story into a supply-chain-style cascading failure.",
+      "angle": "Threat-actor breakdown: map the chain step-by-step, name the CVEs, and ask why Oracle's patch cadence let three bugs stack undetected",
+      "source": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html"
     },
     {
-      "title": "97 Accounts, 79 Organizations: Inside the Microsoft 365 Token-Replay Spree",
-      "why_now": "A concrete, numbered breach disclosure of token-replay attacks against M365 gives a hard news hook with real victim counts, not just theoretical risk.",
-      "angle": "Breach-anatomy post: how token replay bypasses MFA, who got hit, and the detection gap defenders need to close now",
-      "source": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html"
+      "title": "An Unreleased Anthropic Model Just Chained Its Own Exploits for Chrome, Safari, Windows, and Linux",
+      "why_now": "This is the first documented case of a frontier AI model independently chaining multiple vulnerabilities into working cross-platform exploits, landing the same week an AI 'hacker' found 4 severe ICS bugs in under four hours.",
+      "angle": "Trend piece pairing this with the Register's AI-hacker-finds-ICS-bugs story to argue patch cadence now has to outrun machines, not just humans",
+      "source": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
     },
     {
-      "title": "Quest Diagnostics Breached Again: The Healthcare Data Leak Nobody's Surprised By",
-      "why_now": "A major lab-testing company just confirmed patient-record exposure, the latest entry in healthcare's relentless breach cadence.",
-      "angle": "Short, punchy 'inevitable breach' post: what was exposed, why healthcare keeps losing, and what patients should do",
-      "source": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/"
+      "title": "Tailscale's 'Tailworm' Flaws: What Happens When Disclosure Goes Uncoordinated on a Tool Half of DevOps Trusts",
+      "why_now": "Tailscale rushed emergency patches after researchers dropped Tailworm details without coordinated disclosure, and Hacker News separately reports the SSH flaws could let one hacked device gain root on others on the mesh.",
+      "angle": "Explainer + urgency: what Tailworm actually does (lateral root escalation across your tailnet), why uncoordinated disclosure forced a scramble patch, and a same-day upgrade checklist",
+      "source": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/"
     },
     {
-      "title": "The Downloads Folder Trick: How a Single Text File Hijacks Your AI Coding Agent",
-      "why_now": "Researchers just demonstrated a live technique where a planted AGENTS.md file silently tricks AI coding assistants into installing malware — a new class of threat actor playbook emerging in real time.",
-      "angle": "Threat-actor explainer: walk through the attack chain, why agentic coding tools are the new attack surface, and mitigation steps devs can apply today",
-      "source": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html"
+      "title": "Microsoft's Two Emergency Patches in 48 Hours: Certificates Today, Brotli Yesterday",
+      "why_now": "Microsoft shipped an out-of-band Windows certificate fix right on the heels of an emergency .NET patch for Google's Brotli bug, and Adobe Commerce sites are already seeing live Brotli exploit traffic — a rare back-to-back OOB cadence worth flagging to IT.",
+      "angle": "Patch-cadence roundup: timeline the two emergency releases, tie in the Adobe Commerce PolyShell attacks as proof the Brotli bug is already weaponized, end with a deploy-now priority order",
+      "source": "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637"
     }
   ]
 }
