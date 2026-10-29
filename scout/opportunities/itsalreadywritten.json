@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-28T11:06:17+00:00",
+  "generated": "2026-10-29T11:06:19+00:00",
   "opportunities": [
     {
-      "title": "The Rest Rules Are Already Written—You're Just Not Using Them: A Line-by-Line Audit of 5e's Rest Variants",
-      "why_now": "Sly Flourish's new piece on handling rests is a direct rules-interpretation topic begging for a 'read the actual text' rebuttal/companion.",
-      "angle": "Rules-citation breakdown comparing PHB/DMG rest variants against common GM house rules, with a verdict on which 'fixes' are actually already RAW",
-      "source": "https://slyflourish.com/handling_rests.html?rss=1"
+      "title": "All 16 D&D World of Warcraft Species, Ranked by Mechanical Weight",
+      "why_now": "The full species list just dropped, giving us a complete ruleset to dissect before the book even ships.",
+      "angle": "Stat-by-stat breakdown comparing each species' traits, racial bonuses, and power level against core 5e baselines",
+      "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
     },
     {
-      "title": "Dan Ayoub Is Now Running D&D: Here's What His Track Record Says About Rules Direction Next",
-      "why_now": "Leadership change at WotC is fresh (10/27) and readers want informed speculation, not hot takes.",
-      "angle": "Fact-based profile of Ayoub's prior projects (Halo, HoloLens, mobile gaming) mapped to likely rules/design philosophy shifts for D&D's next phase",
-      "source": "https://www.enworld.org/threads/dan-ayoub-named-head-of-wizards-of-the-coast.721108/"
-    },
-    {
-      "title": "Fisher Phillips 101: What a Union-Avoidance Firm Actually Does, and What It Means for the Nov. 10 Vote",
-      "why_now": "Breaking labor news with a concrete vote date gives a clear news hook and explainer angle.",
-      "angle": "Plain-facts explainer on Fisher Phillips' typical tactics plus a timeline of the WotC union vote, sourced and dated",
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-retains-fisher-phillips-a-union-avoidance-firm-vote-will-take-place-on-november-10th.721114/"
-    },
-    {
-      "title": "How D&D Mechanically Translates Warcraft: Species, Classes, and Dungeons, Confirmed by the Designer",
-      "why_now": "Direct designer commentary on upcoming rules content is prime 'rules are already written' territory before the book even drops.",
-      "angle": "Rules-forward recap pulling exact mechanical claims from the interview—species traits, class reskins, dungeon design—organized like a stat block preview",
+      "title": "What the D&D Warcraft Designer's Interview Reveals About Class Design Philosophy",
+      "why_now": "Designer commentary on species, classes, and dungeons just published, offering rare insight into the rules-writing process itself.",
+      "angle": "Quote-driven analysis translating designer intent into predicted mechanical outcomes",
       "source": "https://www.enworld.org/threads/d-d-warcraft-designer-talks-species-classes-dungeons-and-the-core-of-azeroth.721090/"
     },
     {
-      "title": "Age of Sigmar's 'Cataclysmic' Leak: What a Setting-Level Reset Usually Means for Core Rules (A History Lesson)",
-      "why_now": "Fresh leak (10/27) about major setting changes invites a rules-history angle before official confirmation.",
-      "angle": "Comparative analysis of past Warhammer edition/setting overhauls and how they historically reshaped core rules, framed as a predictive rules-literacy piece",
-      "source": "https://www.enworld.org/threads/warhammer-age-of-sigmar-leaks-hint-at-cataclysmic-changes-to-game-setting.721106/"
+      "title": "Secrets of the Tome's Magic Items, Audited for Balance",
+      "why_now": "A fresh magic item preview just went live, giving us concrete rules text to evaluate before the book hits tables.",
+      "angle": "Item-by-item power-level audit comparing to DMG rarity benchmarks",
+      "source": "https://www.enworld.org/threads/lets-look-at-the-magic-items-in-secrets-of-the-tome.721096/"
+    },
+    {
+      "title": "Dark Heresy's New Detective System: A Rules Mechanic Breakdown",
+      "why_now": "The trailer just showcased a dedicated investigation subsystem, a rare case of a TTRPG adaptation building bespoke mechanics worth dissecting.",
+      "angle": "Mechanic-first explainer on how the detective system likely resolves clues/checks vs. standard investigation rules",
+      "source": "https://www.rpgsite.net/news/21653-warhammer-40k-dark-heresy-detective-system-gameplay-trailer"
+    },
+    {
+      "title": "Dan Ayoub Now Runs WotC — What That Means for D&D's Rules Roadmap",
+      "why_now": "The leadership change was just announced, and it's a pivotal moment to speculate on design direction with sourced reasoning.",
+      "angle": "News analysis grounding speculation in Ayoub's prior design background and WotC's current rules trajectory",
+      "source": "https://www.enworld.org/threads/dan-ayoub-named-head-of-wizards-of-the-coast.721108/"
     }
   ]
 }

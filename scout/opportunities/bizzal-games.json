@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-28T11:06:17+00:00",
+  "generated": "2026-10-29T11:06:19+00:00",
   "opportunities": [
     {
-      "title": "Rests Are a House Rule: How I Actually Adjudicate Short Rests",
-      "why_now": "Sly Flourish's fresh rests breakdown gives a concrete peg to settle the eternal 'can we rest here' table argument.",
-      "angle": "60-sec rules ruling: show the RAW rest clock, then the one-line house rule that stops rest-spam abuse",
-      "source": "https://slyflourish.com/handling_rests.html?rss=1"
+      "title": "They Revealed All 16 WoW Species for D&D — Here's the One That Breaks Bounded Accuracy",
+      "why_now": "EN World's full species reveal for D&D x WoW just dropped and every 5e table will be asking how to reskin these races without wrecking balance.",
+      "angle": "Rules-ruling short: pick one flashy species trait (e.g., a Tauren's size/strength bonus) and show the RAW fix to keep it from outclassing core races.",
+      "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
     },
     {
-      "title": "The Magic Items in Secrets of the Tome That Actually Break Encounters",
-      "why_now": "New item list just dropped, giving fresh unreviewed loot before every other channel picks the obvious ones.",
-      "angle": "Spell/item use-case short: pick 1 item, show the broken combo, give the GM fix",
-      "source": "https://www.enworld.org/threads/lets-look-at-the-magic-items-in-secrets-of-the-tome.721096/"
-    },
-    {
-      "title": "Price Is Right Did a D&D Episode. Here's the Actual Check vs. Stealth Roll It's Teaching Wrong",
-      "why_now": "Mainstream crossover news (Price Is Right x D&D) is a rare pop-culture hook that'll pull non-TTRPG viewers into a mechanics bit.",
-      "angle": "Wry reaction short: use the game-show gimmick to explain a real ability check ruling, bait clicks off mainstream headline",
+      "title": "The Price Is Right Is Doing a D&D Episode. Let's Kill the Nat-1 Myth While We're At It.",
+      "why_now": "A mainstream game show tying into D&D is a rare crossover hook that'll pull in casual viewers who don't know the actual crit-fail rules.",
+      "angle": "Dry myth-bust: 'Rolling a 1 doesn't auto-fail skill checks by RAW — here's the actual text and why your table's been houseruling for years.'",
       "source": "https://www.enworld.org/threads/the-price-is-right-is-getting-a-dungeons-dragons-episode%E2%80%A6-no-seriously.721107/"
     },
     {
-      "title": "Why 'The Best Defense' Column Is Wrong About AC (And What Shadowdark Gets Right)",
-      "why_now": "EN World's own defense-design piece just published, giving a built-in debate hook and SEO overlap for search traffic.",
-      "angle": "Creature tactic/mechanics short contrasting 5e AC bloat vs Shadowdark's flatter defense math",
+      "title": "I Read Every Magic Item in Secrets of the Tome So You Don't Have To — Here's the One Worth Stealing",
+      "why_now": "The item breakdown just published gives fresh, un-memed loot that GMs are actively looking to drop into sessions this week.",
+      "angle": "Spell/item use-case short: single item, one clever non-obvious use in combat or exploration, delivered as a GM tip.",
+      "source": "https://www.enworld.org/threads/lets-look-at-the-magic-items-in-secrets-of-the-tome.721096/"
+    },
+    {
+      "title": "RPG Evolution Says 'The Best Defense' — Let's Talk About Why Your Players' AC Math Is Still Wrong",
+      "why_now": "This EN World piece on defense tactics is live right now and gives a natural tie-in for correcting a common cover/AC stacking error.",
+      "angle": "Rules ruling: walkthrough of cover bonus vs. AC vs. advantage/disadvantage stacking, with the one sentence from the DMG everyone skips.",
       "source": "https://www.enworld.org/threads/rpg-evolution-the-best-defense.720712/"
     },
     {
-      "title": "The Warcraft D&D Designer Just Confirmed Species Design Is Broken — Here's the DCC Fix",
-      "why_now": "Fresh interview on species/class design from the Warcraft D&D team gives timely ammo for a hot take on bloated 5e species rules.",
-      "angle": "Dry veteran-GM rant short: quote the designer, then show how DCC's funnel sidesteps the whole species-balance problem",
-      "source": "https://www.enworld.org/threads/d-d-warcraft-designer-talks-species-classes-dungeons-and-the-core-of-azeroth.721090/"
+      "title": "The Fall of Lanth Shows an Invasion From Ground Level — Here's How to Run One Without a TPK",
+      "why_now": "This new adventure's planetary-invasion premise is a perfect excuse to cover mass-combat/overwhelming-enemy tactics that DMs panic about.",
+      "angle": "Creature/encounter tactic short: how to run a 'swarm of invaders' scene (minion rules, morale checks, retreat triggers) across 5e/Shadowdark/DCC.",
+      "source": "https://www.enworld.org/threads/witness-a-planetary-invasion-from-far-too-close-in-the-fall-of-lanth.721092/"
     }
   ]
 }

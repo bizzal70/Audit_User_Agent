@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-28T11:06:17+00:00",
+  "generated": "2026-10-29T11:06:19+00:00",
   "opportunities": [
     {
-      "title": "Coinbase and Bithumb Both Got Breached This Week — And Both Blamed Someone Else",
-      "why_now": "Two major exchanges disclosed breaches on the same day, both pointing to a vendor/internal system rather than their own security, making the 'not us' incident-response playbook impossible to ignore.",
-      "angle": "Pattern analysis: compare both disclosures line by line, show how 'vendor breach' and 'employee system' language functions as liability deflection, and explain what data was actually exposed in each.",
+      "title": "A Public Exploit Can Now Crash Your Bitcoin Node — And Nobody's Patched Yet",
+      "why_now": "An AI-discovered DoS bug hitting Windows/Mac Bitcoin nodes just went public, and most node operators have no idea it exists.",
+      "angle": "Technical breakdown + 'what to do today' checklist, voice: this was inevitable once AI started fuzzing consensus code",
+      "source": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public"
+    },
+    {
+      "title": "One Indian Cert Authority's Mistake Almost Redirected Ethereum Validator Rewards",
+      "why_now": "A certificate failure at a third-party Indian firm forced emergency Ethereum client patches to stop reward hijacking.",
+      "angle": "Supply-chain security explainer: how a cert vendor nobody audits became an attack vector into consensus-layer economics",
+      "source": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards"
+    },
+    {
+      "title": "'We Didn't Get Hacked, Our Vendor Did' — Coinbase's Denial Is Becoming the Industry's Favorite Sentence",
+      "why_now": "Coinbase just joined a growing list of exchanges blaming third-party analytics vendors for customer data exposure, days after Bithumb's own internal breach disclosure.",
+      "angle": "Pattern piece connecting Coinbase + Bithumb: vendor-blame is the new breach PR playbook, and why it doesn't change your exposure",
       "source": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Keystone's Breach Means Someone Can Mail You a Fake Hardware Wallet With Your Real Address On It",
-      "why_now": "A stolen signing key plus leaked buyer addresses turns a data breach into a physical social-engineering vector against hardware wallet owners specifically.",
-      "angle": "Security explainer/checklist: how the key theft enables device spoofing, what Keystone owners should verify before trusting any device or package, and why 'cold storage' isn't breach-proof.",
-      "source": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Black October: Crypto Just Had One of Its Worst Security Months and Nobody's Treating It Like One",
+      "why_now": "Cointelegraph's own tally plus this week's Coinbase, Bithumb, and Bloom bot incidents confirm October as a breach pile-up worth naming.",
+      "angle": "Monthly incident roundup with a scorecard and a blunt 'what you should've already done' close, signature '...priced' framing",
+      "source": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Datavault AI Can't Withdraw Its Own Bitcoin — That's Not a Hack, It's Worse",
-      "why_now": "A $150M bitcoin treasury deal just froze overnight and the stock halved, a cleaner illustration than most hacks of why counterparty/custody structure matters more than the 'is it hacked' headline.",
-      "angle": "Explainer distinguishing custody failure from a hack: trace the deal structure, who actually controls the keys, and why 'can't access' stories are the quieter, more common version of losing your coins.",
-      "source": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962"
-    },
-    {
-      "title": "The AI Vulnerability Apocalypse Is On Schedule, Says the Guy Who Runs Bug Bounties for a Living",
-      "why_now": "Immunefi's CEO is flagging AI-generated/AI-found vulnerabilities as a structural shift right as Google previews an AI-threat custody product, giving both sides of the same emerging risk in one news cycle.",
-      "angle": "Two-source feature: pair the Immunefi warning with Google's custody announcement to argue AI is simultaneously the new attacker and the new defense, with concrete predictions for what breaks next.",
+      "title": "The Immunefi CEO Just Confirmed What Security Researchers Feared: AI Is Finding Bugs Faster Than Teams Can Fix Them",
+      "why_now": "A routine PHP flaw is being used as evidence of an accelerating 'AI vulnerability apocalypse' in production crypto infrastructure.",
+      "angle": "Interview-style analysis piece arguing this is the real story behind every 'random' hack headline this quarter",
       "source": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "$953,000 Drained Faster Than You Can Microwave Popcorn: Inside the Bloom Bot Hack",
-      "why_now": "A sub-two-minute trading-bot exploit is a perfect, visceral case study in how automated systems compress the window for human reaction to zero.",
-      "angle": "Fast technical breakdown: minute-by-minute timeline of the drain, what the bot was trusted to do, and why 'set and forget' trading bots are a growing attack surface worth pricing into risk.",
-      "source": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }
