@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-29T11:06:19+00:00",
+  "generated": "2026-10-30T11:05:38+00:00",
   "opportunities": [
     {
-      "title": "They Revealed All 16 WoW Species for D&D — Here's the One That Breaks Bounded Accuracy",
-      "why_now": "EN World's full species reveal for D&D x WoW just dropped and every 5e table will be asking how to reskin these races without wrecking balance.",
-      "angle": "Rules-ruling short: pick one flashy species trait (e.g., a Tauren's size/strength bonus) and show the RAW fix to keep it from outclassing core races.",
+      "title": "Cenobite Stat Block: Running Pinhead as a CR 13 Solo Boss",
+      "why_now": "Hellraiser's new TTRPG announcement is fresh news and begs a 'how would this monster actually play at the table' breakdown.",
+      "angle": "60-sec creature tactic short: convert a Cenobite into a 5e/Shadowdark stat block with a signature 'Chain Hook' legendary action and a ruling on how its summon ability interacts with counterspell.",
+      "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
+    },
+    {
+      "title": "D&D Beyond's New Search Still Can't Answer 'Can I Ready a Reaction to Counter a Reaction?' — Here's the Actual Ruling",
+      "why_now": "D&D Beyond just shipped a search overhaul, making this the perfect hook to pair a tool update with a genuinely confusing rules interaction players search for daily.",
+      "angle": "Rules ruling short: screen-record the new search failing to surface the RAW answer, then give the dry, mechanical ruling yourself (Ready vs. reaction triggers, interrupt timing).",
+      "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
+    },
+    {
+      "title": "The Orc From D&D x World of Warcraft Isn't a Half-Orc — Here's the Mechanical Difference",
+      "why_now": "All 16 WoW species just got revealed, and players will immediately ask how they map onto existing 5e race rules.",
+      "angle": "Spell/species use-case comparison: pull one revealed species (e.g., Tauren or Forsaken) and break down its actual stat differences vs. the closest 5e analog, with a GM ruling on reskinning for home games.",
       "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
     },
     {
-      "title": "The Price Is Right Is Doing a D&D Episode. Let's Kill the Nat-1 Myth While We're At It.",
-      "why_now": "A mainstream game show tying into D&D is a rare crossover hook that'll pull in casual viewers who don't know the actual crit-fail rules.",
-      "angle": "Dry myth-bust: 'Rolling a 1 doesn't auto-fail skill checks by RAW — here's the actual text and why your table's been houseruling for years.'",
+      "title": "If The Price Is Right Can Run a D&D Episode, Your Table Can Run a Proper Treasure Appraisal — Here's the RAW Way",
+      "why_now": "The absurd, highly shareable Price Is Right x D&D crossover news gives a timely excuse to cover a rule nobody runs correctly: identifying and pricing magic items.",
+      "angle": "Wry veteran-GM take: use the crossover as cold open, then deliver the actual ruling on item identification/appraisal downtime rules and why 'guess the price' breaks immersion if you houserule it wrong.",
       "source": "https://www.enworld.org/threads/the-price-is-right-is-getting-a-dungeons-dragons-episode%E2%80%A6-no-seriously.721107/"
     },
     {
-      "title": "I Read Every Magic Item in Secrets of the Tome So You Don't Have To — Here's the One Worth Stealing",
-      "why_now": "The item breakdown just published gives fresh, un-memed loot that GMs are actively looking to drop into sessions this week.",
-      "angle": "Spell/item use-case short: single item, one clever non-obvious use in combat or exploration, delivered as a GM tip.",
-      "source": "https://www.enworld.org/threads/lets-look-at-the-magic-items-in-secrets-of-the-tome.721096/"
-    },
-    {
-      "title": "RPG Evolution Says 'The Best Defense' — Let's Talk About Why Your Players' AC Math Is Still Wrong",
-      "why_now": "This EN World piece on defense tactics is live right now and gives a natural tie-in for correcting a common cover/AC stacking error.",
-      "angle": "Rules ruling: walkthrough of cover bonus vs. AC vs. advantage/disadvantage stacking, with the one sentence from the DMG everyone skips.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-the-best-defense.720712/"
-    },
-    {
-      "title": "The Fall of Lanth Shows an Invasion From Ground Level — Here's How to Run One Without a TPK",
-      "why_now": "This new adventure's planetary-invasion premise is a perfect excuse to cover mass-combat/overwhelming-enemy tactics that DMs panic about.",
-      "angle": "Creature/encounter tactic short: how to run a 'swarm of invaders' scene (minion rules, morale checks, retreat triggers) across 5e/Shadowdark/DCC.",
-      "source": "https://www.enworld.org/threads/witness-a-planetary-invasion-from-far-too-close-in-the-fall-of-lanth.721092/"
+      "title": "Print Your Own Matt Mercer Mini — Then Use This Ruling So Your Table's Minis Actually Matter for Cover",
+      "why_now": "The Tiny Furniture 3D-print files for Critical Role minis just dropped, giving a concrete prop hook to pair with a rules short on theater-of-the-mind vs. grid cover rules.",
+      "angle": "Quick mechanical short: show the mini, then break down the RAW difference between half cover/three-quarters cover and how most tables misjudge line-of-sight with miniatures on a grid.",
+      "source": "https://www.enworld.org/threads/make-your-own-critical-role-with-matt-mercer-miniature-3d-files-from-tiny-furniture.721137/"
     }
   ]
 }

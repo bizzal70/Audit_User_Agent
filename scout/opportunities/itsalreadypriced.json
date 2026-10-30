@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-29T11:06:19+00:00",
+  "generated": "2026-10-30T11:05:38+00:00",
   "opportunities": [
     {
-      "title": "A Public Exploit Can Now Crash Your Bitcoin Node — And Nobody's Patched Yet",
-      "why_now": "An AI-discovered DoS bug hitting Windows/Mac Bitcoin nodes just went public, and most node operators have no idea it exists.",
-      "angle": "Technical breakdown + 'what to do today' checklist, voice: this was inevitable once AI started fuzzing consensus code",
-      "source": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public"
+      "title": "It Wasn't a Zero-Day. It Was a Laptop.: Binance's $6.3B Hack Is an HR Problem Wearing a Hoodie",
+      "why_now": "Blockaid's CEO now says the breach may trace to private key misuse via a single compromised engineer laptop, not a protocol exploit — the most damning root-cause claim yet.",
+      "angle": "Security postmortem breaking down why 'sophisticated attack' headlines keep losing to 'someone phished an employee,' with a checklist of what institutional custody should have caught",
+      "source": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo"
     },
     {
-      "title": "One Indian Cert Authority's Mistake Almost Redirected Ethereum Validator Rewards",
-      "why_now": "A certificate failure at a third-party Indian firm forced emergency Ethereum client patches to stop reward hijacking.",
-      "angle": "Supply-chain security explainer: how a cert vendor nobody audits became an attack vector into consensus-layer economics",
-      "source": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards"
+      "title": "$1.8B Frozen, $1.4B Untouchable: The Binance Hack Just Ran the Ultimate Stablecoin vs. Bitcoin Experiment",
+      "why_now": "Tether and Circle froze $1.8B in stolen funds within hours while the hacker split $1.4B in BTC into 19 wallets no one can touch — a live A/B test of 'programmable money' vs. 'sound money' happening in real time.",
+      "angle": "Markets/security crossover piece on what this split outcome means for institutional risk models and why BTC's unfreezability is a feature until it's the attacker's feature",
+      "source": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
     },
     {
-      "title": "'We Didn't Get Hacked, Our Vendor Did' — Coinbase's Denial Is Becoming the Industry's Favorite Sentence",
-      "why_now": "Coinbase just joined a growing list of exchanges blaming third-party analytics vendors for customer data exposure, days after Bithumb's own internal breach disclosure.",
-      "angle": "Pattern piece connecting Coinbase + Bithumb: vendor-blame is the new breach PR playbook, and why it doesn't change your exposure",
-      "source": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Your Hardware Wallet Was Compromised Before You Opened the Box",
+      "why_now": "Trezor just flagged a suspected hardware implant in Safe 5 units sold through third-party reseller CryptoBilis, meaning the attack vector was the supply chain, not the firmware.",
+      "angle": "Explainer on gray-market reseller risk with a concrete buying checklist (seal checks, direct-from-manufacturer purchasing, verification tools) — the piece people share before buying their next cold wallet",
+      "source": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
     },
     {
-      "title": "Black October: Crypto Just Had One of Its Worst Security Months and Nobody's Treating It Like One",
-      "why_now": "Cointelegraph's own tally plus this week's Coinbase, Bithumb, and Bloom bot incidents confirm October as a breach pile-up worth naming.",
-      "angle": "Monthly incident roundup with a scorecard and a blunt 'what you should've already done' close, signature '...priced' framing",
-      "source": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "EIP-7702 Didn't Cause the Binance Hack — It Just Made the Bleeding Faster",
+      "why_now": "Cointelegraph's new analysis says account abstraction via EIP-7702 amplified attacker throughput once the initial compromise occurred, a technical detail getting buried under hack headlines.",
+      "angle": "Deep-dive for the technically literate reader: how 7702 batch execution turns one stolen key into an irreversible drain in seconds, and what wallets/exchanges need to rate-limit now",
+      "source": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role"
     },
     {
-      "title": "The Immunefi CEO Just Confirmed What Security Researchers Feared: AI Is Finding Bugs Faster Than Teams Can Fix Them",
-      "why_now": "A routine PHP flaw is being used as evidence of an accelerating 'AI vulnerability apocalypse' in production crypto infrastructure.",
-      "angle": "Interview-style analysis piece arguing this is the real story behind every 'random' hack headline this quarter",
-      "source": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Institutions Are Pulling Funds Off Exchanges Right Now — Exactly the Trade 'Already Priced' Readers Made Years Ago",
+      "why_now": "CoinDesk reports institutional investors rushing to withdraw from exchanges post-hack, validating the self-custody thesis this channel has been pushing all along.",
+      "angle": "Vindication/I-told-you-so op-ed tying the outflow data to a practical self-custody framework, framed as 'what the smart money just relearned the hard way'",
+      "source": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
     }
   ]
 }

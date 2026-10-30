@@ -1,34 +1,34 @@
 {
-  "generated": "2026-10-29T11:06:19+00:00",
+  "generated": "2026-10-30T11:05:38+00:00",
   "opportunities": [
     {
-      "title": "All 16 D&D World of Warcraft Species, Ranked by Mechanical Weight",
-      "why_now": "The full species list just dropped, giving us a complete ruleset to dissect before the book even ships.",
-      "angle": "Stat-by-stat breakdown comparing each species' traits, racial bonuses, and power level against core 5e baselines",
+      "title": "Hellraiser's TTRPG Is Coming From The One Ring's Designer — Here's What That Tells You About the System",
+      "why_now": "Major new TTRPG announcement tying a horror IP to a designer known for narrative-crunch rules, demanding a rules-literacy breakdown before hype takes over.",
+      "angle": "Analysis post predicting mechanics/tone based on designer's prior work (The One Ring's Hope/Shadow, Loremaster mechanics) mapped onto Hellraiser's themes",
+      "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
+    },
+    {
+      "title": "All 16 D&D x World of Warcraft Species, Ranked by Mechanical Power",
+      "why_now": "Full species list just dropped, giving crunch-focused audience fresh ammo for power-level debates before the book even releases.",
+      "angle": "Ranked list/breakdown with rules-first commentary on racial traits and balance implications for 5E tables",
       "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
     },
     {
-      "title": "What the D&D Warcraft Designer's Interview Reveals About Class Design Philosophy",
-      "why_now": "Designer commentary on species, classes, and dungeons just published, offering rare insight into the rules-writing process itself.",
-      "angle": "Quote-driven analysis translating designer intent into predicted mechanical outcomes",
-      "source": "https://www.enworld.org/threads/d-d-warcraft-designer-talks-species-classes-dungeons-and-the-core-of-azeroth.721090/"
+      "title": "D&D Beyond Finally Fixed Search — Here's What Actually Changed",
+      "why_now": "A long-requested functional update just shipped, and players need a clear rules-tool explainer, not just a news blurb.",
+      "angle": "Practical walkthrough/tutorial comparing old vs new search behavior for spell/item/rule lookups",
+      "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
     },
     {
-      "title": "Secrets of the Tome's Magic Items, Audited for Balance",
-      "why_now": "A fresh magic item preview just went live, giving us concrete rules text to evaluate before the book hits tables.",
-      "angle": "Item-by-item power-level audit comparing to DMG rarity benchmarks",
-      "source": "https://www.enworld.org/threads/lets-look-at-the-magic-items-in-secrets-of-the-tome.721096/"
+      "title": "WotC Hires a Union-Busting Firm Ahead of Nov 10 Vote — The Rules of the Fight, Explained",
+      "why_now": "A concrete vote date (Nov 10) makes this urgent and gives the 'rules are already written' voice a chance to lay out labor-law mechanics plainly.",
+      "angle": "Explainer on what Fisher Phillips does, NLRB election rules, and what the vote actually decides",
+      "source": "https://www.enworld.org/threads/wizards-of-the-coast-retains-fisher-phillips-a-union-avoidance-firm-vote-will-take-place-on-november-10th.721114/"
     },
     {
-      "title": "Dark Heresy's New Detective System: A Rules Mechanic Breakdown",
-      "why_now": "The trailer just showcased a dedicated investigation subsystem, a rare case of a TTRPG adaptation building bespoke mechanics worth dissecting.",
-      "angle": "Mechanic-first explainer on how the detective system likely resolves clues/checks vs. standard investigation rules",
-      "source": "https://www.rpgsite.net/news/21653-warhammer-40k-dark-heresy-detective-system-gameplay-trailer"
-    },
-    {
-      "title": "Dan Ayoub Now Runs WotC — What That Means for D&D's Rules Roadmap",
-      "why_now": "The leadership change was just announced, and it's a pivotal moment to speculate on design direction with sourced reasoning.",
-      "angle": "News analysis grounding speculation in Ayoub's prior design background and WotC's current rules trajectory",
+      "title": "Dan Ayoub Is Now Running Wizards of the Coast — What His Track Record Says About D&D's Next Rules Era",
+      "why_now": "Fresh leadership change at WotC directly affects future rules direction, a core concern for a rules-first audience.",
+      "angle": "Profile/analysis of Ayoub's background and likely impact on design philosophy and release cadence",
       "source": "https://www.enworld.org/threads/dan-ayoub-named-head-of-wizards-of-the-coast.721108/"
     }
   ]

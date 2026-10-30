@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-29T11:06:19+00:00",
+  "generated": "2026-10-30T11:05:38+00:00",
   "opportunities": [
     {
-      "title": "Volt Typhoon's 'Silent Train': How One Chinese APT Chained Four Cisco Zero-Days Into a Live Rail Network",
-      "why_now": "SecurityWeek and The Hacker News both confirmed the same Volt Typhoon campaign today, tying SD-WAN and ASA/FTD VPN zero-days to a single covert operation worth a deep-dive explainer.",
-      "angle": "Technical breach digest: timeline + patch status + why this is Volt Typhoon's most coordinated campaign yet",
-      "source": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/"
+      "title": "The $6.3B Binance Heist and the North Korean Playbook Nobody Patches For",
+      "why_now": "A $6.3B exchange hack bearing TraderTraitor hallmarks, with nearly $3B frozen, is the biggest crypto breach story of the week and begs for a breach-digest breakdown.",
+      "angle": "Timeline + attribution explainer: how TraderTraitor's known TTPs keep working despite years of warnings, with a 'what exchanges still refuse to fix' kicker",
+      "source": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/"
     },
     {
-      "title": "PHP2Shell Is Now a Full-Blown Internet-Wide Dragnet — Patch These Five Things Today",
-      "why_now": "CISA confirmed active exploitation and three separate outlets reported PHP2Shell hitting Palo Alto, Alpine Linux's GitLab, and firewalls within 48 hours.",
-      "angle": "Patch-cadence checklist format: what's vulnerable, who's exploiting it, what to patch now",
-      "source": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
+      "title": "Your IDE Was Never the Safe Room: Official Claude Code Extension Shipped an SSH Backdoor",
+      "why_now": "A trusted, officially-signed VS Code extension for Claude Code was compromised to install a persistent SSH backdoor, hitting developers directly in their daily tooling.",
+      "angle": "Supply-chain postmortem format: what got compromised, how persistence worked, and a checklist for auditing extensions right now",
+      "source": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html"
     },
     {
-      "title": "China Didn't Need a Critical Bug — A 'Low Severity' ESXi Logging Flaw Was Enough to Go Invisible",
-      "why_now": "Fresh SecurityWeek/Hacker News reporting shows Chinese hackers quietly weaponized a flaw dismissed as low-severity specifically to erase their own audit trail.",
-      "angle": "CVSS-score-lies-to-you angle: why severity ratings miss attacker intent",
-      "source": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/"
+      "title": "Belgium's Tax Agency Goes Dark: Government Cyberattacks Are the New Monday",
+      "why_now": "A national tax authority confirming a cyberattack and pulling services offline is a textbook 'inevitable breach' story hitting critical public infrastructure.",
+      "angle": "Quick-hit incident brief with a running tally of 2026 government service outages from cyberattacks",
+      "source": "https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409"
     },
     {
-      "title": "8.2 Million and Counting: The iRhythm and So-net Breaches Nobody's Talking About",
-      "why_now": "Two major breach-toll disclosures (iRhythm's HHS filing and Sony's So-net ISP hack) landed within a day of each other, both undersold in headlines.",
-      "angle": "Breach-digest roundup: compare scope, sector, and disclosure timeline of two overlooked mega-breaches",
-      "source": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/"
+      "title": "CVSS 9.8 in the Linux Kernel's TCP Stack: Patch Ubuntu and RHEL Before the Weekend",
+      "why_now": "A maximum-severity flaw in the Linux kernel's TCP handling affects nearly every major distro, making this an urgent, broad-impact patch-cadence story.",
+      "angle": "Patch-now explainer: affected distros, exploitability, and why TCP-stack bugs are uniquely dangerous at internet scale",
+      "source": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
     },
     {
-      "title": "Oracle's 'Quadruple Trouble': The Patch Tuesday That Ended Cybersecurity Awareness Month in the Worst Way",
-      "why_now": "Oracle disclosed four separate security issues right as Cybersecurity Awareness Month wrapped, a gift-wrapped irony for a patch-cadence piece.",
-      "angle": "Snarky patch-cadence breakdown: what each Oracle flaw does and why 'awareness month' is cosmic punchline material",
-      "source": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121"
+      "title": "CISA Just Told You GitLab and Cisco Firewalls Are Already Under Attack — Here's Your KEV Deadline",
+      "why_now": "CISA's KEV additions for actively exploited GitLab RCE and Cisco Firewall DoS flaws give federal patch deadlines and real-world exploitation proof in one move.",
+      "angle": "KEV digest format: what's exploited, who's exposed, and the federal patch-by date translated into 'why you should care even if you're not a .gov'",
+      "source": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"
     }
   ]
 }
