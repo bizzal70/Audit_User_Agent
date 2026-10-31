@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-30T11:05:38+00:00",
+  "generated": "2026-10-31T11:04:44+00:00",
   "opportunities": [
     {
-      "title": "It Wasn't a Zero-Day. It Was a Laptop.: Binance's $6.3B Hack Is an HR Problem Wearing a Hoodie",
-      "why_now": "Blockaid's CEO now says the breach may trace to private key misuse via a single compromised engineer laptop, not a protocol exploit — the most damning root-cause claim yet.",
-      "angle": "Security postmortem breaking down why 'sophisticated attack' headlines keep losing to 'someone phished an employee,' with a checklist of what institutional custody should have caught",
-      "source": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo"
-    },
-    {
-      "title": "$1.8B Frozen, $1.4B Untouchable: The Binance Hack Just Ran the Ultimate Stablecoin vs. Bitcoin Experiment",
-      "why_now": "Tether and Circle froze $1.8B in stolen funds within hours while the hacker split $1.4B in BTC into 19 wallets no one can touch — a live A/B test of 'programmable money' vs. 'sound money' happening in real time.",
-      "angle": "Markets/security crossover piece on what this split outcome means for institutional risk models and why BTC's unfreezability is a feature until it's the attacker's feature",
-      "source": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
-    },
-    {
-      "title": "Your Hardware Wallet Was Compromised Before You Opened the Box",
-      "why_now": "Trezor just flagged a suspected hardware implant in Safe 5 units sold through third-party reseller CryptoBilis, meaning the attack vector was the supply chain, not the firmware.",
-      "angle": "Explainer on gray-market reseller risk with a concrete buying checklist (seal checks, direct-from-manufacturer purchasing, verification tools) — the piece people share before buying their next cold wallet",
-      "source": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
-    },
-    {
-      "title": "EIP-7702 Didn't Cause the Binance Hack — It Just Made the Bleeding Faster",
-      "why_now": "Cointelegraph's new analysis says account abstraction via EIP-7702 amplified attacker throughput once the initial compromise occurred, a technical detail getting buried under hack headlines.",
-      "angle": "Deep-dive for the technically literate reader: how 7702 batch execution turns one stolen key into an irreversible drain in seconds, and what wallets/exchanges need to rate-limit now",
+      "title": "EIP-7702 Didn't Pull the Trigger, But It Loaded the Gun: How an Ethereum 'Convenience' Upgrade Turned a Breach Into $2.5B Gone",
+      "why_now": "Fresh reporting shows a specific Ethereum permission feature amplified losses in the largest hack in crypto history, giving a concrete technical villain beyond 'North Korea did it.'",
+      "angle": "Technical breakdown post: explain EIP-7702 account delegation in plain terms, show how it let one drained key cascade into mass fund sweeps, end with 'revoke your delegations' checklist",
       "source": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role"
     },
     {
-      "title": "Institutions Are Pulling Funds Off Exchanges Right Now — Exactly the Trade 'Already Priced' Readers Made Years Ago",
-      "why_now": "CoinDesk reports institutional investors rushing to withdraw from exchanges post-hack, validating the self-custody thesis this channel has been pushing all along.",
-      "angle": "Vindication/I-told-you-so op-ed tying the outflow data to a practical self-custody framework, framed as 'what the smart money just relearned the hard way'",
-      "source": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+      "title": "It Wasn't a Smart Contract Exploit. It Was a Laptop.",
+      "why_now": "Binance is now pointing to a single engineer's compromised laptop and private key misuse as the entry point for a $6.3B breach, undercutting the 'sophisticated attack' narrative.",
+      "angle": "Myth-busting thread/post: contrast the breathless hack coverage with the mundane reality that endpoint security, not cryptography, is still the weakest link — tie to employee opsec habits every exchange user should demand",
+      "source": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo"
+    },
+    {
+      "title": "Your Hardware Wallet Can Be Backdoored Before It Ships: The Trezor Implant Warning Nobody's Talking About",
+      "why_now": "Trezor just flagged a suspected hardware implant in a Safe 5 unit sold through a third-party reseller (CryptoBilis), a supply-chain attack vector that's far scarier than another exchange hack for self-custody believers.",
+      "angle": "Security-led explainer: how hardware implants work, why buying from unofficial resellers is the real risk, concrete checklist for verifying a cold wallet's authenticity before first use",
+      "source": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
+    },
+    {
+      "title": "Bitcoin Didn't Crash Like 2018 After a Bigger Hack Than Ever — That's the Scariest Part",
+      "why_now": "Decrypt's piece notes BTC held up relatively well despite a record $6.3B theft, which fits directly into the channel's 'already priced' thesis about markets normalizing catastrophic risk.",
+      "angle": "Opinion/analysis piece under the brand's signature lens: argue that resilience to hacks isn't bullish maturity, it's desensitization — the market now prices in theft the way it once priced in volatility",
+      "source": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash"
+    },
+    {
+      "title": "The Freeze That Won't Stick: Why 'Recovering' $6.3B in Stolen Crypto Is Mostly Theater",
+      "why_now": "Experts are now publicly split on whether Binance's asset freezes will actually claw back stolen funds, as the hacker's BTC haul already exceeds Coinbase's entire treasury — a live test of whether 'freezing' means anything on-chain.",
+      "angle": "Skeptic's explainer: walk through how cross-chain laundering (THORChain, etc.) outran the freeze attempts, and what 'recovery' really means when the money's already gone through a mixer and a DPRK ledger",
+      "source": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
     }
   ]
 }

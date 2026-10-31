@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-30T11:05:38+00:00",
+  "generated": "2026-10-31T11:04:44+00:00",
   "opportunities": [
     {
-      "title": "Hellraiser's TTRPG Is Coming From The One Ring's Designer — Here's What That Tells You About the System",
-      "why_now": "Major new TTRPG announcement tying a horror IP to a designer known for narrative-crunch rules, demanding a rules-literacy breakdown before hype takes over.",
-      "angle": "Analysis post predicting mechanics/tone based on designer's prior work (The One Ring's Hope/Shadow, Loremaster mechanics) mapped onto Hellraiser's themes",
+      "title": "Hellraiser TTRPG Confirmed: The One Ring's Designer Takes On Clive Barker — What the System Choice Tells Us",
+      "why_now": "Major licensed-horror TTRPG news just broke with a pedigree designer attached, inviting immediate system speculation.",
+      "angle": "News analysis breaking down what a Free League/Cubicle 7-style 'The One Ring' designer brings to a horror license — predict mechanics (sanity, Cenobite stat blocks, hooks mechanic)",
       "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
     },
     {
-      "title": "All 16 D&D x World of Warcraft Species, Ranked by Mechanical Power",
-      "why_now": "Full species list just dropped, giving crunch-focused audience fresh ammo for power-level debates before the book even releases.",
-      "angle": "Ranked list/breakdown with rules-first commentary on racial traits and balance implications for 5E tables",
-      "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
+      "title": "Paizo's Re-Animator License for 13 Omens: Reading the Rules Tea Leaves",
+      "why_now": "Fresh licensing news for Paizo's new horror line gives a timely hook to dissect what system 13 Omens actually runs on.",
+      "angle": "Quick-hit explainer on 13 Omens' ruleset and how a Re-Animator IP tie-in will likely manifest in mechanics (resurrection rules, body horror tables)",
+      "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
     },
     {
-      "title": "D&D Beyond Finally Fixed Search — Here's What Actually Changed",
-      "why_now": "A long-requested functional update just shipped, and players need a clear rules-tool explainer, not just a news blurb.",
-      "angle": "Practical walkthrough/tutorial comparing old vs new search behavior for spell/item/rule lookups",
+      "title": "All 16 D&D x World of Warcraft Species, Ranked by Rules-Crunch",
+      "why_now": "The full species list just dropped, giving crunch-focused fans their first real look at the setting's player options.",
+      "angle": "Rules-first breakdown/ranking of the 16 revealed species by mechanical complexity and power level, with a quick-take X thread version",
+      "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed-721130/"
+    },
+    {
+      "title": "D&D Beyond's Search Finally Works — Here's What Actually Changed Under the Hood",
+      "why_now": "A long-requested digital tools fix just shipped, and rules-nerds want specifics, not just 'it's better now.'",
+      "angle": "Hands-on feature audit comparing old vs. new search (filters, boolean support, homebrew indexing) with verdict on whether it fixes known pain points",
       "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
     },
     {
-      "title": "WotC Hires a Union-Busting Firm Ahead of Nov 10 Vote — The Rules of the Fight, Explained",
-      "why_now": "A concrete vote date (Nov 10) makes this urgent and gives the 'rules are already written' voice a chance to lay out labor-law mechanics plainly.",
-      "angle": "Explainer on what Fisher Phillips does, NLRB election rules, and what the vote actually decides",
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-retains-fisher-phillips-a-union-avoidance-firm-vote-will-take-place-on-november-10th.721114/"
-    },
-    {
-      "title": "Dan Ayoub Is Now Running Wizards of the Coast — What His Track Record Says About D&D's Next Rules Era",
-      "why_now": "Fresh leadership change at WotC directly affects future rules direction, a core concern for a rules-first audience.",
-      "angle": "Profile/analysis of Ayoub's background and likely impact on design philosophy and release cadence",
-      "source": "https://www.enworld.org/threads/dan-ayoub-named-head-of-wizards-of-the-coast.721108/"
+      "title": "What Death Teaches Us About Systems: A Rules Nerd's Take",
+      "why_now": "Gnome Stew's fresh analysis on death mechanics is a direct match for a rules-first audience hungry for system design discourse.",
+      "angle": "Response/expansion piece comparing death-and-dying rules across major systems (5e, PF2e, Mörk Borg, Blades) referencing the Gnome Stew piece",
+      "source": "https://gnomestew.com/what-death-teaches-us-about-systems/"
     }
   ]
 }

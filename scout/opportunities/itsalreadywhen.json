@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-30T11:05:38+00:00",
+  "generated": "2026-10-31T11:04:44+00:00",
   "opportunities": [
     {
-      "title": "The $6.3B Binance Heist and the North Korean Playbook Nobody Patches For",
-      "why_now": "A $6.3B exchange hack bearing TraderTraitor hallmarks, with nearly $3B frozen, is the biggest crypto breach story of the week and begs for a breach-digest breakdown.",
-      "angle": "Timeline + attribution explainer: how TraderTraitor's known TTPs keep working despite years of warnings, with a 'what exchanges still refuse to fix' kicker",
-      "source": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/"
+      "title": "Ivanti's Triple Threat: How Three Chained Flaws Hand Attackers Unauthenticated Root",
+      "why_now": "A fresh three-CVE chain against Ivanti Connect Secure is exactly the 'patch or get pwned' story the inevitable-breach beat lives for.",
+      "angle": "Technical breakdown of the chain + patch timeline/urgency rating, styled as a digest entry with a 'patch this now' verdict",
+      "source": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
     },
     {
-      "title": "Your IDE Was Never the Safe Room: Official Claude Code Extension Shipped an SSH Backdoor",
-      "why_now": "A trusted, officially-signed VS Code extension for Claude Code was compromised to install a persistent SSH backdoor, hitting developers directly in their daily tooling.",
-      "angle": "Supply-chain postmortem format: what got compromised, how persistence worked, and a checklist for auditing extensions right now",
-      "source": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html"
+      "title": "PHP2Shell: The Custom Exploit That Rooted 25 Servers (and Choked on WordPress)",
+      "why_now": "Suspected Chinese state actors built a bespoke exploit that worked on Palo Alto firewalls but failed against WordPress, a rare 'threat actor stumbles' angle worth dissecting.",
+      "angle": "Threat-actor case study comparing success vs failure targets, with lessons on why attack surface variance matters for patch prioritization",
+      "source": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456"
     },
     {
-      "title": "Belgium's Tax Agency Goes Dark: Government Cyberattacks Are the New Monday",
-      "why_now": "A national tax authority confirming a cyberattack and pulling services offline is a textbook 'inevitable breach' story hitting critical public infrastructure.",
-      "angle": "Quick-hit incident brief with a running tally of 2026 government service outages from cyberattacks",
-      "source": "https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409"
+      "title": "This Extortionist Spent $7K on AI Tools Then Left a Paper Trail a Child Could Follow",
+      "why_now": "A criminal using premium AI services for extortion but sloppy opsec is the perfect inevitable-breach schadenfreude story with an AI-era twist.",
+      "angle": "Snarky digest entry: 'criminal invests in AI, forgets to invest in opsec' with a sidebar on what evidence got left behind",
+      "source": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754"
     },
     {
-      "title": "CVSS 9.8 in the Linux Kernel's TCP Stack: Patch Ubuntu and RHEL Before the Weekend",
-      "why_now": "A maximum-severity flaw in the Linux kernel's TCP handling affects nearly every major distro, making this an urgent, broad-impact patch-cadence story.",
-      "angle": "Patch-now explainer: affected distros, exploitability, and why TCP-stack bugs are uniquely dangerous at internet scale",
-      "source": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
+      "title": "63,000 Attacks in 24 Hours: The WordPress RCE Patch Race You're Already Losing",
+      "why_now": "A newly disclosed WordPress RCE is being mass-exploited within a day of disclosure, a textbook patch-cadence emergency with a hard number to anchor the headline.",
+      "angle": "Urgency-driven patch alert format with attack-volume timeline and a 'have you patched yet' call to action",
+      "source": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html"
     },
     {
-      "title": "CISA Just Told You GitLab and Cisco Firewalls Are Already Under Attack — Here's Your KEV Deadline",
-      "why_now": "CISA's KEV additions for actively exploited GitLab RCE and Cisco Firewall DoS flaws give federal patch deadlines and real-world exploitation proof in one move.",
-      "angle": "KEV digest format: what's exploited, who's exposed, and the federal patch-by date translated into 'why you should care even if you're not a .gov'",
-      "source": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"
+      "title": "TeamViewer Bug Flips the Script: Now the Person Being 'Helped' Can Own the Technician",
+      "why_now": "A flaw that lets the remote host attack the controller inverts the usual remote-support trust model, a novel and unsettling CVE angle worth flagging to IT teams.",
+      "angle": "Explainer on the attack flow plus why remote-support tools are an underrated breach vector, framed as a 'rethink your trust assumptions' piece",
+      "source": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html"
     }
   ]
 }

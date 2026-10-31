@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-30T11:05:38+00:00",
+  "generated": "2026-10-31T11:04:44+00:00",
   "opportunities": [
     {
-      "title": "Cenobite Stat Block: Running Pinhead as a CR 13 Solo Boss",
-      "why_now": "Hellraiser's new TTRPG announcement is fresh news and begs a 'how would this monster actually play at the table' breakdown.",
-      "angle": "60-sec creature tactic short: convert a Cenobite into a 5e/Shadowdark stat block with a signature 'Chain Hook' legendary action and a ruling on how its summon ability interacts with counterspell.",
+      "title": "Herbert West's Reagent, Statted as a 5e Ritual (and Why It's Worse Than Animate Dead)",
+      "why_now": "Paizo just licensed Re-Animator for 13 Omens, putting reanimation horror back in the ttrpg conversation.",
+      "angle": "60-sec mechanical breakdown: homebrew the reagent as a risky ritual spell, compare action economy and corpse-quality rules to Animate Dead/Revivify, deliver the 'why your DM should say no' ruling.",
+      "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
+    },
+    {
+      "title": "The Lament Configuration Is Just a Cursed Deck of Many Things With Extra Steps",
+      "why_now": "Hellraiser's TTRPG was just announced from The One Ring's designer, giving horror-curse mechanics a news hook.",
+      "angle": "Dry comparison bit: rule a Lament-Configuration-style cursed item in 5e/Shadowdark, covering save DCs, summoning cenobites as a CR-appropriate encounter, and the 'no take-backs' clause GMs always forget to enforce.",
       "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
     },
     {
-      "title": "D&D Beyond's New Search Still Can't Answer 'Can I Ready a Reaction to Counter a Reaction?' — Here's the Actual Ruling",
-      "why_now": "D&D Beyond just shipped a search overhaul, making this the perfect hook to pair a tool update with a genuinely confusing rules interaction players search for daily.",
-      "angle": "Rules ruling short: screen-record the new search failing to surface the RAW answer, then give the dry, mechanical ruling yourself (Ready vs. reaction triggers, interrupt timing).",
-      "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
-    },
-    {
-      "title": "The Orc From D&D x World of Warcraft Isn't a Half-Orc — Here's the Mechanical Difference",
-      "why_now": "All 16 WoW species just got revealed, and players will immediately ask how they map onto existing 5e race rules.",
-      "angle": "Spell/species use-case comparison: pull one revealed species (e.g., Tauren or Forsaken) and break down its actual stat differences vs. the closest 5e analog, with a GM ruling on reskinning for home games.",
+      "title": "This D&D x WoW Species's Racial Trait Breaks Action Economy on Day One",
+      "why_now": "All 16 species for D&D World of Warcraft just got revealed, giving a fresh crunch target before the book even ships.",
+      "angle": "Pick the most broken-looking racial ability from the reveal, run the math on an exploit, give the one-sentence table ruling to nerf it.",
       "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
     },
     {
-      "title": "If The Price Is Right Can Run a D&D Episode, Your Table Can Run a Proper Treasure Appraisal — Here's the RAW Way",
-      "why_now": "The absurd, highly shareable Price Is Right x D&D crossover news gives a timely excuse to cover a rule nobody runs correctly: identifying and pricing magic items.",
-      "angle": "Wry veteran-GM take: use the crossover as cold open, then deliver the actual ruling on item identification/appraisal downtime rules and why 'guess the price' breaks immersion if you houserule it wrong.",
-      "source": "https://www.enworld.org/threads/the-price-is-right-is-getting-a-dungeons-dragons-episode%E2%80%A6-no-seriously.721107/"
+      "title": "Death Saves Are a Lie: Why DCC's Funnel Kills Better Than 5e Ever Will",
+      "why_now": "Gnome Stew's piece on death-as-a-system is fresh discourse this week and lines up perfectly with cross-system rules content.",
+      "angle": "Side-by-side mechanical teardown: 5e death saves vs Shadowdark's severe/fatal table vs DCC's funnel lethality, ending on the veteran-GM verdict for which actually teaches players stakes.",
+      "source": "https://gnomestew.com/what-death-teaches-us-about-systems/"
     },
     {
-      "title": "Print Your Own Matt Mercer Mini — Then Use This Ruling So Your Table's Minis Actually Matter for Cover",
-      "why_now": "The Tiny Furniture 3D-print files for Critical Role minis just dropped, giving a concrete prop hook to pair with a rules short on theater-of-the-mind vs. grid cover rules.",
-      "angle": "Quick mechanical short: show the mini, then break down the RAW difference between half cover/three-quarters cover and how most tables misjudge line-of-sight with miniatures on a grid.",
-      "source": "https://www.enworld.org/threads/make-your-own-critical-role-with-matt-mercer-miniature-3d-files-from-tiny-furniture.721137/"
+      "title": "D&D Beyond's New Search Still Can't Find the One Broken Advantage Stack",
+      "why_now": "D&D Beyond just shipped its long-awaited search overhaul, making it a timely hook to expose a rules gap the tool won't catch.",
+      "angle": "Short screen-recorded bit: try to search for an advantage-stacking combo (e.g., Reckless Attack + Pack Tactics + Faerie Fire), show the tool missing the interaction, deliver the actual ruling verbally.",
+      "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
     }
   ]
 }

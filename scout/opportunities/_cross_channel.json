@@ -1,51 +1,51 @@
 {
-  "generated": "2026-10-30T11:05:38+00:00",
+  "generated": "2026-10-31T11:04:44+00:00",
   "plays": [
     {
-      "story": "Binance's $6.3B hack tied to North Korea's TraderTraitor group is rattling crypto markets (BTC near $77K, BNB down 8%, RUNE up 13%) while security researchers dissect how the breach happened.",
+      "story": "Binance's record $6.3B hack (traced to North Korea's TraderTraitor group, an engineer's compromised laptop, and EIP-7702 exploitation) rattles both markets and infosec circles.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'The Market Already Called It: BNB Down 8%, RUNE Up 13% — Pricing the $6.3B Binance Hack in Real Time.' Track the divergent price reactions (BNB crash vs RUNE pump vs BTC flight-to-safety) as a live case study in how markets price catastrophic exchange risk before the postmortem even lands.",
-        "itsalreadywhen": "Title: 'TraderTraitor Strikes Again: Why Binance's $6.3B Breach Was Always a Matter of When, Not If.' Frame North Korea's repeat playbook (laptop compromise, EIP-7702 amplification) as the predictable next chapter in a threat actor's well-documented timeline — not a surprise."
+        "itsalreadypriced": "Title: 'Binance Got Robbed of $6.3B—Here's Why BNB Crashed, Bitcoin Dipped Under $77K, and RUNE Mooned 13%.' Trace the market fallout: BNB -8%, stolen BTC now exceeds Tesla's treasury, Binance's $6.34B matching-funds promise, and what it means for exchange-held assets going into year-end.",
+        "itsalreadywhen": "Title: 'The Engineer's Laptop That Cost Binance $6.3 Billion.' Break down the actual attack chain—compromised credentials vs. private key theft, how EIP-7702 amplified the damage, and why North Korea's TraderTraitor crew keeps winning against billion-dollar security budgets."
       },
-      "source": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor"
     },
     {
-      "story": "A supply-chain attack drained $2.65M from Polymarket users via a compromised third-party provider, echoing the same GitHub-issues supply-chain campaign that hit 61 public repos within an hour.",
+      "story": "A hardware implant discovered in Trezor Safe 5 wallets sold by reseller CryptoBilis exposes a physical supply-chain attack on crypto cold storage.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Prediction Markets Pay a Hack Tax: What Polymarket's $2.65M Breach Prices Into Betting on Trustless Platforms.' Analyze how the exploit changes risk premiums and confidence pricing for prediction-market tokens going into year-end.",
-        "itsalreadywhen": "Title: 'It's Already When: The Same Supply-Chain Playbook That Drained Polymarket Just Hit 61 GitHub Repos in Under an Hour.' Connect the dots between the GitHub issues campaign and the Polymarket breach to show attackers reusing a known technique faster than defenders can patch it."
+        "itsalreadypriced": "Title: 'Your Hardware Wallet May Already Be Compromised.' Explain what the Trezor Safe 5 implant means for holders—how to check your device, which reseller channel is implicated, and why 'cold storage' isn't automatically safe storage.",
+        "itsalreadywhen": "Title: 'Hackers Don't Need Your Password If They Can Mail You a Backdoor.' Use the Trezor implant as a case study in physical/supply-chain security, tying it to the same week's GitHub-issue supply-chain campaign and 61 compromised repos—supply chain attacks are now hitting hardware, not just code."
       },
-      "source": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/"
+      "source": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
     },
     {
-      "story": "The One Ring's designer is building a Clive Barker Hellraiser TTRPG.",
+      "story": "Clive Barker's Hellraiser is becoming a tabletop RPG, designed by the creator of The One Ring.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'Pinhead Rolls Initiative: What a Hellraiser TTRPG From The One Ring's Designer Could Actually Play Like.' Speculate on mechanics — pain/pleasure dice pools, Cenobite bargains, horror-survival loops — drawing on the designer's known system for Middle-earth.",
-        "itsalreadywritten": "Title: 'The Box Was Always Going to Open: Hellraiser's TTRPG Adaptation Was Written Into the Cenobites' Rules All Along.' Frame the licensing deal as inevitable lore convergence — horror fiction's obsession with rules, contracts, and 'rules lawyers from Hell' finally formalized into an actual rulebook."
+        "bizzal-games": "Title: 'What Will a Hellraiser TTRPG Even Play Like? Betting on The One Ring Designer's Pinhead Problem.' Speculate on mechanics—how do you gamify Cenobite bargains and body horror without it becoming a straight horror-survival clone, drawing on the designer's known systems.",
+        "itsalreadywritten": "Title: 'From Cenobites to Character Sheets: What Licensing Hellraiser Says About Horror IP's TTRPG Gold Rush.' Frame this alongside Paizo's Re-Animator license as evidence that classic horror cinema is becoming the next big TTRPG licensing wave, and what that means for narrative design."
       },
       "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
     },
     {
-      "story": "All 16 species for the D&D x World of Warcraft crossover book have been revealed, alongside a North American release delay.",
+      "story": "D&D's World of Warcraft crossover book reveals all 16 playable species but gets hit with a North American release delay.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'All 16 D&D x World of Warcraft Species, Ranked by How Broken They'll Be at Your Table.' A practical breakdown/ranking for DMs and players deciding what to allow once the delayed book finally drops.",
-        "itsalreadywritten": "Title: 'Azeroth's Fate Was Always Going to Collide With D&D — Breaking Down the Lore Behind All 16 New Species.' Dig into how each species' in-game Warcraft backstory gets reinterpreted as 'canon' lore now that it's being written into tabletop fiction."
+        "bizzal-games": "Title: 'All 16 WoW Species Are Coming to D&D—Here's Which Ones Will Actually Break Your Campaign.' Dig into the mechanical balance questions: which Azeroth races translate cleanly to 5E stat blocks and which ones (looking at you, Worgen) are going to wreck encounter math.",
+        "itsalreadywritten": "Title: 'Azeroth Meets Faerûn, and the Book Is Already Late: What the D&D x WoW Delay Says About Crossover Worldbuilding.' Explore the narrative challenge of merging two decades-deep lore machines into one coherent setting, and why that complexity might be exactly what's slowing the release."
       },
       "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
     }
