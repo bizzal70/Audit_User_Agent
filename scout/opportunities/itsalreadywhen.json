@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-31T11:04:44+00:00",
+  "generated": "2026-11-01T11:04:23+00:00",
   "opportunities": [
     {
-      "title": "Ivanti's Triple Threat: How Three Chained Flaws Hand Attackers Unauthenticated Root",
-      "why_now": "A fresh three-CVE chain against Ivanti Connect Secure is exactly the 'patch or get pwned' story the inevitable-breach beat lives for.",
-      "angle": "Technical breakdown of the chain + patch timeline/urgency rating, styled as a digest entry with a 'patch this now' verdict",
+      "title": "CVSS 10.0, No Private Key Required: The LXD/MicroCloud Flaw That Lets Anyone Pose as a Trusted Client",
+      "why_now": "A maximum-severity authentication-bypass CVE just dropped for widely-used container/cloud infra, and it's exactly the kind of 'patch today or get owned tomorrow' story the digest exists for.",
+      "angle": "Rapid CVE breakdown: what's vulnerable, exploitability, and a blunt patch-now verdict",
+      "source": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
+    },
+    {
+      "title": "Ivanti Connect Secure Gets Rooted Again — This Time It Only Takes Three Chained Bugs",
+      "why_now": "Attackers are actively chaining three Ivanti flaws to unauthenticated root access, continuing Ivanti's rough multi-year patch-cadence record.",
+      "angle": "Timeline piece tracing Ivanti's repeat-offender history plus the new exploit chain mechanics",
       "source": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
     },
     {
-      "title": "PHP2Shell: The Custom Exploit That Rooted 25 Servers (and Choked on WordPress)",
-      "why_now": "Suspected Chinese state actors built a bespoke exploit that worked on Palo Alto firewalls but failed against WordPress, a rare 'threat actor stumbles' angle worth dissecting.",
-      "angle": "Threat-actor case study comparing success vs failure targets, with lessons on why attack surface variance matters for patch prioritization",
+      "title": "Suspected Chinese Hackers Hand-Built a Custom PHP2Shell Exploit — and It Rooted Palo Alto Firewalls",
+      "why_now": "Two outlets (The Register and SecurityWeek) are independently confirming the same custom exploit rooting 25+ servers and firewalls, a solid dual-sourced breach story.",
+      "angle": "Threat-actor profile: custom tooling, targets hit, why WordPress survived but Palo Alto didn't",
       "source": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456"
     },
     {
-      "title": "This Extortionist Spent $7K on AI Tools Then Left a Paper Trail a Child Could Follow",
-      "why_now": "A criminal using premium AI services for extortion but sloppy opsec is the perfect inevitable-breach schadenfreude story with an AI-era twist.",
-      "angle": "Snarky digest entry: 'criminal invests in AI, forgets to invest in opsec' with a sidebar on what evidence got left behind",
+      "title": "FBI Finally Says the Quiet Part Loud: North Korea's TraderTraitor Pulled Off the Record $6.43B Binance Heist",
+      "why_now": "Formal FBI attribution on the largest crypto heist in history is a major, citable milestone for threat-actor tracking.",
+      "angle": "Attribution explainer: how TraderTraitor's TTPs match, and what it means for exchange security going forward",
+      "source": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
+    },
+    {
+      "title": "A Crook Spent $7K on AI Services to Run His Extortion Racket — Then Left the Receipts for Researchers",
+      "why_now": "It's a perfect inevitable-breach-digest anecdote: AI lowering the barrier to crime while opsec remains comically bad.",
+      "angle": "Short, wry 'threat actor fail' writeup with screenshots of the sloppy evidence trail",
       "source": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754"
-    },
-    {
-      "title": "63,000 Attacks in 24 Hours: The WordPress RCE Patch Race You're Already Losing",
-      "why_now": "A newly disclosed WordPress RCE is being mass-exploited within a day of disclosure, a textbook patch-cadence emergency with a hard number to anchor the headline.",
-      "angle": "Urgency-driven patch alert format with attack-volume timeline and a 'have you patched yet' call to action",
-      "source": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html"
-    },
-    {
-      "title": "TeamViewer Bug Flips the Script: Now the Person Being 'Helped' Can Own the Technician",
-      "why_now": "A flaw that lets the remote host attack the controller inverts the usual remote-support trust model, a novel and unsettling CVE angle worth flagging to IT teams.",
-      "angle": "Explainer on the attack flow plus why remote-support tools are an underrated breach vector, framed as a 'rethink your trust assumptions' piece",
-      "source": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html"
     }
   ]
 }

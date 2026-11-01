@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-31T11:04:44+00:00",
+  "generated": "2026-11-01T11:04:23+00:00",
   "opportunities": [
     {
-      "title": "Hellraiser TTRPG Confirmed: The One Ring's Designer Takes On Clive Barker — What the System Choice Tells Us",
-      "why_now": "Major licensed-horror TTRPG news just broke with a pedigree designer attached, inviting immediate system speculation.",
-      "angle": "News analysis breaking down what a Free League/Cubicle 7-style 'The One Ring' designer brings to a horror license — predict mechanics (sanity, Cenobite stat blocks, hooks mechanic)",
+      "title": "The Hellraiser TTRPG Is Real — Here's What 'The One Ring' Designer Brings to the Rules",
+      "why_now": "Clive Barker's Hellraiser is officially becoming a TTRPG from a designer known for tightly-crafted narrative mechanics, and fans are already speculating on the system.",
+      "angle": "Analysis post predicting mechanical approach based on designer's prior work (The One Ring's Fellowship/Shadow mechanics), with X thread breaking down likely subsystems for Cenobite horror",
       "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
     },
     {
-      "title": "Paizo's Re-Animator License for 13 Omens: Reading the Rules Tea Leaves",
-      "why_now": "Fresh licensing news for Paizo's new horror line gives a timely hook to dissect what system 13 Omens actually runs on.",
-      "angle": "Quick-hit explainer on 13 Omens' ruleset and how a Re-Animator IP tie-in will likely manifest in mechanics (resurrection rules, body horror tables)",
+      "title": "Paizo's Re-Animator License for 13 Omens: What Rules Will Reanimation Actually Use?",
+      "why_now": "Paizo just licensed a classic horror IP for its new 13 Omens line, a fresh system worth breaking down before full rules drop.",
+      "angle": "Rules-speculation breakdown comparing 13 Omens' horror mechanics to existing Paizo systems, framed as 'what we know vs. what's coming'",
       "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
     },
     {
-      "title": "All 16 D&D x World of Warcraft Species, Ranked by Rules-Crunch",
-      "why_now": "The full species list just dropped, giving crunch-focused fans their first real look at the setting's player options.",
-      "angle": "Rules-first breakdown/ranking of the 16 revealed species by mechanical complexity and power level, with a quick-take X thread version",
-      "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed-721130/"
-    },
-    {
-      "title": "D&D Beyond's Search Finally Works — Here's What Actually Changed Under the Hood",
-      "why_now": "A long-requested digital tools fix just shipped, and rules-nerds want specifics, not just 'it's better now.'",
-      "angle": "Hands-on feature audit comparing old vs. new search (filters, boolean support, homebrew indexing) with verdict on whether it fixes known pain points",
+      "title": "D&D Beyond Finally Fixed Search — Here's Every Rules Lookup That Just Got Easier",
+      "why_now": "A long-requested digital tools update just shipped, directly affecting how players find official rules text.",
+      "angle": "Practical rules-utility post: test the new search against notoriously hard-to-find rulings (grapple, cover, opportunity attacks) and report results",
       "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
     },
     {
-      "title": "What Death Teaches Us About Systems: A Rules Nerd's Take",
-      "why_now": "Gnome Stew's fresh analysis on death mechanics is a direct match for a rules-first audience hungry for system design discourse.",
-      "angle": "Response/expansion piece comparing death-and-dying rules across major systems (5e, PF2e, Mörk Borg, Blades) referencing the Gnome Stew piece",
+      "title": "What Death Mechanics Actually Teach Your Table (A Rules-First Rebuttal)",
+      "why_now": "Gnome Stew just published a systems-design piece on death that's ripe for a rules-knowledge response from a crunch-focused voice.",
+      "angle": "Response/companion piece comparing death & dying rules across systems (D&D, PF2e, Cyberpunk RED, Mothership) to show how mechanics encode table philosophy",
       "source": "https://gnomestew.com/what-death-teaches-us-about-systems/"
+    },
+    {
+      "title": "Army Painter x D&D: Does an Official Paint Line Change the Minis Rules Meta?",
+      "why_now": "A new official partnership just launched, tying a hobby brand directly to D&D for the first time at this scale.",
+      "angle": "Short knowing take on how official paint licensing signals WotC's push toward tabletop miniatures support, with a nod to VTT vs. physical play rules implications",
+      "source": "https://www.enworld.org/threads/the-army-painter-teams-up-with-dungeons-dragons-for-new-paint-line.721164/"
     }
   ]
 }

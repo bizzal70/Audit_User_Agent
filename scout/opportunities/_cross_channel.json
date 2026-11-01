@@ -1,53 +1,53 @@
 {
-  "generated": "2026-10-31T11:04:44+00:00",
+  "generated": "2026-11-01T11:04:23+00:00",
   "plays": [
     {
-      "story": "Binance's record $6.3B hack (traced to North Korea's TraderTraitor group, an engineer's compromised laptop, and EIP-7702 exploitation) rattles both markets and infosec circles.",
+      "story": "FBI confirms North Korea's TraderTraitor group behind record-shattering $6.3B Binance hack, as phased withdrawals and emergency reserves roll out",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Binance Got Robbed of $6.3B—Here's Why BNB Crashed, Bitcoin Dipped Under $77K, and RUNE Mooned 13%.' Trace the market fallout: BNB -8%, stolen BTC now exceeds Tesla's treasury, Binance's $6.34B matching-funds promise, and what it means for exchange-held assets going into year-end.",
-        "itsalreadywhen": "Title: 'The Engineer's Laptop That Cost Binance $6.3 Billion.' Break down the actual attack chain—compromised credentials vs. private key theft, how EIP-7702 amplified the damage, and why North Korea's TraderTraitor crew keeps winning against billion-dollar security budgets."
+        "itsalreadypriced": "'Binance Says It Has $6.34B Ready — But Can a Phased Withdrawal Plan Really Undo the Biggest Hack in Crypto History?' Track the BTC-first withdrawal rollout, the BNB/BTC price dip, and whether Strategy's bitcoin-buying thesis survives contact with a $6.3B theft.",
+        "itsalreadywhen": "'Inside TraderTraitor: How North Korea Pulled Off a $6.3B Heist and Why EIP-7702 Made It Worse' — break down the FBI attribution, the exploit chain, and the Ethereum upgrade that may have amplified the losses."
       },
-      "source": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor"
+      "source": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "A hardware implant discovered in Trezor Safe 5 wallets sold by reseller CryptoBilis exposes a physical supply-chain attack on crypto cold storage.",
+      "story": "Blockchain investigator Chainalysis itself got hacked, with attackers using 'offensive agentic AI' techniques to access customer names and emails",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'Your Hardware Wallet May Already Be Compromised.' Explain what the Trezor Safe 5 implant means for holders—how to check your device, which reseller channel is implicated, and why 'cold storage' isn't automatically safe storage.",
-        "itsalreadywhen": "Title: 'Hackers Don't Need Your Password If They Can Mail You a Backdoor.' Use the Trezor implant as a case study in physical/supply-chain security, tying it to the same week's GitHub-issue supply-chain campaign and 61 compromised repos—supply chain attacks are now hitting hardware, not just code."
+        "itsalreadypriced": "'The Company That Tracks Crypto Criminals Just Got Robbed: What the Chainalysis Breach Means for Exchange Trust in the Binance-Hack Era' — tie it to the broader credibility crisis hitting crypto infrastructure right after the $6.3B Binance incident.",
+        "itsalreadywhen": "'Agentic AI Just Breached the Blockchain's Top Detectives' — a deep dive on how 'offensive agentic techniques' cracked Chainalysis, previewing a new class of AI-driven social engineering/recon attacks security teams need to watch."
       },
-      "source": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
+      "source": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
     },
     {
-      "story": "Clive Barker's Hellraiser is becoming a tabletop RPG, designed by the creator of The One Ring.",
+      "story": "$2M+ drained from Polymarket traders via a new crypto supply-chain attack, echoing the Binance mega-hack's playbook of hitting trust infrastructure",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'$2 Million Gone in Minutes: The Polymarket Supply-Chain Hack Traders Didn't See Coming' — explain how prediction-market users got hit and what it means for due diligence before placing bets on-chain.",
+        "itsalreadywhen": "'Another Week, Another Supply-Chain Breach: How Attackers Turned Trusted Code Into a $2M Crypto Heist' — pair this with the GitHub-issues supply-chain campaign hitting 61 repos to show a pattern defenders need to prioritize now."
+      },
+      "source": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/"
+    },
+    {
+      "story": "Clive Barker's Hellraiser is becoming a TTRPG, designed by The One Ring's creator — part of a horror-licensing wave that also includes Paizo's Re-Animator deal",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'What Will a Hellraiser TTRPG Even Play Like? Betting on The One Ring Designer's Pinhead Problem.' Speculate on mechanics—how do you gamify Cenobite bargains and body horror without it becoming a straight horror-survival clone, drawing on the designer's known systems.",
-        "itsalreadywritten": "Title: 'From Cenobites to Character Sheets: What Licensing Hellraiser Says About Horror IP's TTRPG Gold Rush.' Frame this alongside Paizo's Re-Animator license as evidence that classic horror cinema is becoming the next big TTRPG licensing wave, and what that means for narrative design."
+        "bizzal-games": "'Pinhead Needs a Character Sheet: What Mechanics Could Make a Hellraiser TTRPG Actually Terrifying?' — speculate on dice systems for Cenobite bargains, pain-as-resource mechanics, and how The One Ring's designer might translate cosmic horror into crunch.",
+        "itsalreadywritten": "'From Cenobites to Campaign Books: Horror IP Is Colonizing Tabletop (Hellraiser, Re-Animator, and What's Next)' — frame the Hellraiser and Re-Animator licenses as a trend story about horror licensing reshaping TTRPG writing and worldbuilding."
       },
       "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
-    },
-    {
-      "story": "D&D's World of Warcraft crossover book reveals all 16 playable species but gets hit with a North American release delay.",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Title: 'All 16 WoW Species Are Coming to D&D—Here's Which Ones Will Actually Break Your Campaign.' Dig into the mechanical balance questions: which Azeroth races translate cleanly to 5E stat blocks and which ones (looking at you, Worgen) are going to wreck encounter math.",
-        "itsalreadywritten": "Title: 'Azeroth Meets Faerûn, and the Book Is Already Late: What the D&D x WoW Delay Says About Crossover Worldbuilding.' Explore the narrative challenge of merging two decades-deep lore machines into one coherent setting, and why that complexity might be exactly what's slowing the release."
-      },
-      "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
     }
   ]
 }

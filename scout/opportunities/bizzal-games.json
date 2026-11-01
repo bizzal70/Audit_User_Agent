@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-31T11:04:44+00:00",
+  "generated": "2026-11-01T11:04:23+00:00",
   "opportunities": [
     {
-      "title": "Herbert West's Reagent, Statted as a 5e Ritual (and Why It's Worse Than Animate Dead)",
-      "why_now": "Paizo just licensed Re-Animator for 13 Omens, putting reanimation horror back in the ttrpg conversation.",
-      "angle": "60-sec mechanical breakdown: homebrew the reagent as a risky ritual spell, compare action economy and corpse-quality rules to Animate Dead/Revivify, deliver the 'why your DM should say no' ruling.",
-      "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
-    },
-    {
-      "title": "The Lament Configuration Is Just a Cursed Deck of Many Things With Extra Steps",
-      "why_now": "Hellraiser's TTRPG was just announced from The One Ring's designer, giving horror-curse mechanics a news hook.",
-      "angle": "Dry comparison bit: rule a Lament-Configuration-style cursed item in 5e/Shadowdark, covering save DCs, summoning cenobites as a CR-appropriate encounter, and the 'no take-backs' clause GMs always forget to enforce.",
+      "title": "Hellraiser's Coming to Your Table: What a 'Puzzle Box' Mechanic Means for Horror TTRPGs",
+      "why_now": "The One Ring designer just confirmed a Hellraiser TTRPG, a direct lane for a horror-crunch rules breakdown before anyone else covers the mechanics angle.",
+      "angle": "Short: speculate/analyze what a Cenobite 'bargain' subsystem could steal from Call of Cthulhu/DCC corruption mechanics — pitched as a ruling, not fluff",
       "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
     },
     {
-      "title": "This D&D x WoW Species's Racial Trait Breaks Action Economy on Day One",
-      "why_now": "All 16 species for D&D World of Warcraft just got revealed, giving a fresh crunch target before the book even ships.",
-      "angle": "Pick the most broken-looking racial ability from the reveal, run the math on an exploit, give the one-sentence table ruling to nerf it.",
-      "source": "https://www.enworld.org/threads/all-16-species-from-d-d-world-of-warcraft-have-been-revealed.721130/"
+      "title": "Re-Animator Just Got Licensed for 13 Omens — Here's the Herbert West Stat Block Nobody's Built Yet",
+      "why_now": "Paizo's fresh Re-Animator license for 13 Omens is a same-week hook to drop a homebrew reanimation ritual with real action economy costs.",
+      "angle": "Creature/ritual tactic short: build a 'reagent-based resurrection' spell variant with clear mechanical drawbacks (DCC-style corruption table)",
+      "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
     },
     {
-      "title": "Death Saves Are a Lie: Why DCC's Funnel Kills Better Than 5e Ever Will",
-      "why_now": "Gnome Stew's piece on death-as-a-system is fresh discourse this week and lines up perfectly with cross-system rules content.",
-      "angle": "Side-by-side mechanical teardown: 5e death saves vs Shadowdark's severe/fatal table vs DCC's funnel lethality, ending on the veteran-GM verdict for which actually teaches players stakes.",
+      "title": "Death Saves Are a Lie: What Actually Teaches Players to Fear the Dice",
+      "why_now": "Gnome Stew's systems-and-death piece just dropped, giving a built-in audience already primed for a hot take on 5e death saves vs. Shadowdark's brutal instant-death rule.",
+      "angle": "Dry ruling comparison short: 5e death saves vs Shadowdark's 0-HP-is-dead vs DCC funnel mortality — which actually creates tension",
       "source": "https://gnomestew.com/what-death-teaches-us-about-systems/"
     },
     {
-      "title": "D&D Beyond's New Search Still Can't Find the One Broken Advantage Stack",
-      "why_now": "D&D Beyond just shipped its long-awaited search overhaul, making it a timely hook to expose a rules gap the tool won't catch.",
-      "angle": "Short screen-recorded bit: try to search for an advantage-stacking combo (e.g., Reckless Attack + Pack Tactics + Faerie Fire), show the tool missing the interaction, deliver the actual ruling verbally.",
+      "title": "D&D Beyond Finally Fixed Search — So Why Can You Still Not Find Half-Feats By Prerequisite",
+      "why_now": "The search update just shipped this week, making it a timely gripe-and-tip short for players still hunting rules text.",
+      "angle": "Quick utility rant: show the new search's blind spots with a real example (searching for a specific condition or spell tag) and a workaround",
       "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
+    },
+    {
+      "title": "The Army Painter x D&D Line Won't Fix Your Paint Job If Your Minis Have the Wrong Base — Here's the Rule Nobody Reads",
+      "why_now": "The new officially licensed D&D paint line just launched, giving a crossover hook between hobby content and an actual rules nugget about miniature scale/reach rules in 5e.",
+      "angle": "Mechanical aside: tie mini basing to the 5e reach/squeezing rules — short demo on how base size silently changes tactics",
+      "source": "https://www.enworld.org/threads/the-army-painter-teams-up-with-dungeons-dragons-for-new-paint-line.721164/"
     }
   ]
 }

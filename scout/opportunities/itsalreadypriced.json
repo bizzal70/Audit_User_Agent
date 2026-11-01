@@ -1,35 +1,35 @@
 {
-  "generated": "2026-10-31T11:04:44+00:00",
+  "generated": "2026-11-01T11:04:23+00:00",
   "opportunities": [
     {
-      "title": "EIP-7702 Didn't Pull the Trigger, But It Loaded the Gun: How an Ethereum 'Convenience' Upgrade Turned a Breach Into $2.5B Gone",
-      "why_now": "Fresh reporting shows a specific Ethereum permission feature amplified losses in the largest hack in crypto history, giving a concrete technical villain beyond 'North Korea did it.'",
-      "angle": "Technical breakdown post: explain EIP-7702 account delegation in plain terms, show how it let one drained key cascade into mass fund sweeps, end with 'revoke your delegations' checklist",
+      "title": "EIP-7702 Didn't Cause the $6.3B Binance Hack — It Just Made the Blast Radius Bigger",
+      "why_now": "Cointelegraph's technical breakdown confirms the batch-approval feature amplified losses in the largest crypto hack ever, exactly the kind of 'known risk, ignored anyway' story this channel exists for.",
+      "angle": "Security postmortem: explain EIP-7702 batched transactions in plain terms, map it to the attack chain, and note which wallets/devs flagged this risk months ago.",
       "source": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role"
     },
     {
-      "title": "It Wasn't a Smart Contract Exploit. It Was a Laptop.",
-      "why_now": "Binance is now pointing to a single engineer's compromised laptop and private key misuse as the entry point for a $6.3B breach, undercutting the 'sophisticated attack' narrative.",
-      "angle": "Myth-busting thread/post: contrast the breathless hack coverage with the mundane reality that endpoint security, not cryptography, is still the weakest link — tie to employee opsec habits every exchange user should demand",
-      "source": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo"
+      "title": "The Company Hired to Track Hackers Just Got Hacked by One",
+      "why_now": "Chainalysis — crypto's premier investigator — disclosed a breach using 'offensive agentic techniques' days after the Binance hack it's now investigating.",
+      "angle": "Irony-driven security analysis: what 'agentic' attack techniques mean, why even forensics firms are targets, and what it implies about AI-assisted offense outpacing AI-assisted defense.",
+      "source": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
     },
     {
-      "title": "Your Hardware Wallet Can Be Backdoored Before It Ships: The Trezor Implant Warning Nobody's Talking About",
-      "why_now": "Trezor just flagged a suspected hardware implant in a Safe 5 unit sold through a third-party reseller (CryptoBilis), a supply-chain attack vector that's far scarier than another exchange hack for self-custody believers.",
-      "angle": "Security-led explainer: how hardware implants work, why buying from unofficial resellers is the real risk, concrete checklist for verifying a cold wallet's authenticity before first use",
+      "title": "Your Hardware Wallet Might Already Be Compromised — Before You Even Opened the Box",
+      "why_now": "Trezor just flagged a suspected hardware implant in a Safe 5 unit sold through third-party reseller CryptoBilis, a supply-chain attack vector security researchers have warned about for years.",
+      "angle": "Actionable security explainer: how to verify hardware wallet authenticity, why reseller purchases are the risk, checklist for buyers.",
       "source": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
     },
     {
-      "title": "Bitcoin Didn't Crash Like 2018 After a Bigger Hack Than Ever — That's the Scariest Part",
-      "why_now": "Decrypt's piece notes BTC held up relatively well despite a record $6.3B theft, which fits directly into the channel's 'already priced' thesis about markets normalizing catastrophic risk.",
-      "angle": "Opinion/analysis piece under the brand's signature lens: argue that resilience to hacks isn't bullish maturity, it's desensitization — the market now prices in theft the way it once priced in volatility",
-      "source": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash"
+      "title": "Binance's $6.3B Bailout Is the Best Argument Against Binance",
+      "why_now": "CoinDesk's 'centralization paradox' piece notes Binance's ability to self-fund $5B+ in replacement tokens saved the market — proving custody risk and bailout capacity are two sides of the same coin.",
+      "angle": "Opinion/analysis: centralized exchanges are 'too big to fail' crypto banks now; lay out what this means for self-custody advocates who called this exact outcome.",
+      "source": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion"
     },
     {
-      "title": "The Freeze That Won't Stick: Why 'Recovering' $6.3B in Stolen Crypto Is Mostly Theater",
-      "why_now": "Experts are now publicly split on whether Binance's asset freezes will actually claw back stolen funds, as the hacker's BTC haul already exceeds Coinbase's entire treasury — a live test of whether 'freezing' means anything on-chain.",
-      "angle": "Skeptic's explainer: walk through how cross-chain laundering (THORChain, etc.) outran the freeze attempts, and what 'recovery' really means when the money's already gone through a mixer and a DPRK ledger",
-      "source": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
+      "title": "The FBI Just Asked DeFi to Freeze Addresses — Watch Who Says Yes",
+      "why_now": "The FBI's request for DeFi protocols to block North Korea-linked BTC/ETH/SOL addresses tests whether 'immutable' DeFi will comply, right as political pressure mounts pre-election.",
+      "angle": "Tracker/scorecard format: list major DeFi protocols, whether they've complied, and what it reveals about the gap between decentralization marketing and decentralization reality.",
+      "source": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
     }
   ]
 }
