@@ -11209,5 +11209,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "videos": [
+      {
+        "id": "Pzlq-mle5KE",
+        "title": "Scimitar's versatility often goes unnoticed #shadowdark",
+        "published": "2026-11-01",
+        "views": 88,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "eszGslYXdJs",
+        "title": "Put Spectator in terrain with one strong feature and start a visible clock #dnd5e",
+        "published": "2026-11-01",
+        "views": 237,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "_Rw6Vq9PLlo",
+        "title": "Festhaken's bite attack is more lethal than it seems #dcc",
+        "published": "2026-11-01",
+        "views": 85,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "h59x8P0pTLg",
+        "title": "Backstab damage stacks higher than most expect #shadowdark",
+        "published": "2026-10-31",
+        "views": 174,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "50kHSbuoAWE",
+        "title": "Coiling Grasp Tattoo's real surprise is its ongoing damage #dnd5e",
+        "published": "2026-10-31",
+        "views": 75,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "wiFdqIBGH4I",
+        "title": "Spellburn seems like free power #dcc",
+        "published": "2026-10-31",
+        "views": 237,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "CGbOWPIFK5E",
+        "title": "Beastman's spear attack hits harder than expected #shadowdark",
+        "published": "2026-10-30",
+        "views": 94,
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "id": "wlNcGCl-sOg",
+        "title": "The Bonus Doesn’t Stack: Dungeon kit spotlight: The Bonus Doesn't Stack #dnd5e",
+        "published": "2026-10-30",
+        "views": 50,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "kW-g588Pzgw",
+        "title": "Dwarf's infravision is longer than most expect #dcc",
+        "published": "2026-10-30",
+        "views": 104,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "_K0WaNIAf2s",
+        "title": "Seer shifts from support to pressure #shadowdark",
+        "published": "2026-10-29",
+        "views": 60,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "9OPG_O9IyV0",
+        "title": "Detect Poison and Disease shifts the tactical landscape #dnd5e",
+        "published": "2026-10-29",
+        "views": 135,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "ZSvSvnjeh4g",
+        "title": "Run Athasi for stakes, not flavor #dcc",
+        "published": "2026-10-29",
+        "views": 81,
+        "likes": 0,
+        "comments": 0
+      }
+    ]
   }
 ]
