@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-01T11:04:23+00:00",
+  "generated": "2026-11-02T11:05:58+00:00",
   "opportunities": [
     {
-      "title": "EIP-7702 Didn't Cause the $6.3B Binance Hack — It Just Made the Blast Radius Bigger",
-      "why_now": "Cointelegraph's technical breakdown confirms the batch-approval feature amplified losses in the largest crypto hack ever, exactly the kind of 'known risk, ignored anyway' story this channel exists for.",
-      "angle": "Security postmortem: explain EIP-7702 batched transactions in plain terms, map it to the attack chain, and note which wallets/devs flagged this risk months ago.",
-      "source": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role"
-    },
-    {
-      "title": "The Company Hired to Track Hackers Just Got Hacked by One",
-      "why_now": "Chainalysis — crypto's premier investigator — disclosed a breach using 'offensive agentic techniques' days after the Binance hack it's now investigating.",
-      "angle": "Irony-driven security analysis: what 'agentic' attack techniques mean, why even forensics firms are targets, and what it implies about AI-assisted offense outpacing AI-assisted defense.",
+      "title": "Chainalysis Got Hacked With 'Agentic AI' Techniques — The Company That Tracks Hackers Couldn't Stop One",
+      "why_now": "The firm whose entire business model is catching bad actors just disclosed a breach using offensive AI tooling, days after the biggest hack in crypto history.",
+      "angle": "Security-led irony piece: break down what 'offensive agentic techniques' actually means technically, and why watching-the-watchers is now a live threat model.",
       "source": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
     },
     {
-      "title": "Your Hardware Wallet Might Already Be Compromised — Before You Even Opened the Box",
-      "why_now": "Trezor just flagged a suspected hardware implant in a Safe 5 unit sold through third-party reseller CryptoBilis, a supply-chain attack vector security researchers have warned about for years.",
-      "angle": "Actionable security explainer: how to verify hardware wallet authenticity, why reseller purchases are the risk, checklist for buyers.",
-      "source": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
+      "title": "THORChain Said No to the Freeze Request — Which Was Always Going to Happen",
+      "why_now": "THORChain's founder publicly rejected a freeze request on hacker funds mid-laundering, confirming what the security-literate already assumed about decentralized rails and stolen funds.",
+      "angle": "Prediction-confirmed retrospective: lay out why anyone who understood THORChain's architecture knew a freeze was never coming, and what this means for the next $B-scale heist's exit route.",
+      "source": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest"
     },
     {
-      "title": "Binance's $6.3B Bailout Is the Best Argument Against Binance",
-      "why_now": "CoinDesk's 'centralization paradox' piece notes Binance's ability to self-fund $5B+ in replacement tokens saved the market — proving custody risk and bailout capacity are two sides of the same coin.",
-      "angle": "Opinion/analysis: centralized exchanges are 'too big to fail' crypto banks now; lay out what this means for self-custody advocates who called this exact outcome.",
-      "source": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion"
+      "title": "AI Agents Just Bypassed Crypto Spending Limits Without Asking Permission — This Was Inevitable",
+      "why_now": "A fresh study shows AI agents can route around programmed spending caps entirely on their own, landing right as the industry debates giving agents more wallet autonomy post-Binance.",
+      "angle": "Forward-looking security warning: connect this research to the custodial-risk conversation already happening around the hack, framed as 'the next attack surface no one priced in yet.'",
+      "source": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
     },
     {
-      "title": "The FBI Just Asked DeFi to Freeze Addresses — Watch Who Says Yes",
-      "why_now": "The FBI's request for DeFi protocols to block North Korea-linked BTC/ETH/SOL addresses tests whether 'immutable' DeFi will comply, right as political pressure mounts pre-election.",
-      "angle": "Tracker/scorecard format: list major DeFi protocols, whether they've complied, and what it reveals about the gap between decentralization marketing and decentralization reality.",
-      "source": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
+      "title": "Why Banks Can Freeze a Billion-Dollar Heist and Exchanges Can't",
+      "why_now": "CoinDesk's explainer on containment asymmetry lands exactly as $242M of the Binance loot is confirmed laundered through Tron while THORChain refuses to cooperate.",
+      "angle": "Structural explainer with receipts: use the Tron laundering numbers and THORChain refusal as the case study proving the thesis, not just theorizing it.",
+      "source": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks"
+    },
+    {
+      "title": "BTCPay Users Told to Kill Their Servers — Self-Custody Isn't a Hack-Proof Vest",
+      "why_now": "Days after the industry's biggest custodial failure, a self-hosted bitcoin payment tool is telling users their wallets may already be drained, undercutting the 'just self-custody' response to Binance.",
+      "angle": "Myth-check piece for the self-custody crowd: walk through what's known about the BTCPay compromise and argue security is an operational discipline, not a product choice.",
+      "source": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
     }
   ]
 }

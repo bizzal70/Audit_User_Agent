@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-01T11:04:23+00:00",
+  "generated": "2026-11-02T11:05:58+00:00",
   "opportunities": [
     {
-      "title": "CVSS 10.0, No Private Key Required: The LXD/MicroCloud Flaw That Lets Anyone Pose as a Trusted Client",
-      "why_now": "A maximum-severity authentication-bypass CVE just dropped for widely-used container/cloud infra, and it's exactly the kind of 'patch today or get owned tomorrow' story the digest exists for.",
-      "angle": "Rapid CVE breakdown: what's vulnerable, exploitability, and a blunt patch-now verdict",
-      "source": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
+      "title": "Ivanti Connect Secure: Zero-Day #3 and #4 Drop While Attackers Already Have Root — Patch Timeline Nobody Can Keep Up With",
+      "why_now": "Ivanti just patched two more zero-days that were chained with a prior pair for unauthenticated root access, and multiple outlets confirm active exploitation as of Nov 2.",
+      "angle": "Patch-cadence breakdown: timeline of the four CVEs, what 'chained' actually means for defenders, and why VPN appliances keep being the softest target",
+      "source": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
     },
     {
-      "title": "Ivanti Connect Secure Gets Rooted Again — This Time It Only Takes Three Chained Bugs",
-      "why_now": "Attackers are actively chaining three Ivanti flaws to unauthenticated root access, continuing Ivanti's rough multi-year patch-cadence record.",
-      "angle": "Timeline piece tracing Ivanti's repeat-offender history plus the new exploit chain mechanics",
-      "source": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
+      "title": "The Blockchain Cops Got Hacked: Chainalysis Breach Used 'Offensive Agentic Techniques'",
+      "why_now": "Chainalysis — the firm law enforcement relies on to trace crypto crime — just confirmed an AI-driven intrusion exposed customer identity data, a stark irony worth unpacking now.",
+      "angle": "Irony-driven breach digest entry: what 'offensive agentic techniques' means in practice and what it signals about AI-assisted red teaming turning into AI-assisted attacks",
+      "source": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/"
     },
     {
-      "title": "Suspected Chinese Hackers Hand-Built a Custom PHP2Shell Exploit — and It Rooted Palo Alto Firewalls",
-      "why_now": "Two outlets (The Register and SecurityWeek) are independently confirming the same custom exploit rooting 25+ servers and firewalls, a solid dual-sourced breach story.",
-      "angle": "Threat-actor profile: custom tooling, targets hit, why WordPress survived but Palo Alto didn't",
-      "source": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456"
+      "title": "A Trojanized 'Claude Code' Extension Planted SSH Backdoors — and Anthropic Says Don't Blame Us",
+      "why_now": "Devs installing what looked like an official Claude Code extension for Cursor got SSH backdoors, and Anthropic is now publicly disputing responsibility, a fresh AI-tooling supply-chain fight breaking across three outlets.",
+      "angle": "Supply-chain explainer: how the fake extension got distributed, what it dropped, and the attribution dispute between devs and Anthropic",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor"
     },
     {
-      "title": "FBI Finally Says the Quiet Part Loud: North Korea's TraderTraitor Pulled Off the Record $6.43B Binance Heist",
-      "why_now": "Formal FBI attribution on the largest crypto heist in history is a major, citable milestone for threat-actor tracking.",
-      "angle": "Attribution explainer: how TraderTraitor's TTPs match, and what it means for exchange security going forward",
-      "source": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
+      "title": "Meet VOLTA: The Infostealer That Asks Claude, Gemini, and Kimi Which Victims Are Worth Stealing From",
+      "why_now": "A newly documented infostealer is using multiple commercial AI models to automatically triage stolen data by victim financial value, a first-of-its-kind escalation reported Nov 2.",
+      "angle": "Threat-actor deep dive on AI-weaponization: how VOLTA queries LLMs mid-attack, what it means for detection, and the broader trend of crimeware renting legitimate AI APIs",
+      "source": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html"
     },
     {
-      "title": "A Crook Spent $7K on AI Services to Run His Extortion Racket — Then Left the Receipts for Researchers",
-      "why_now": "It's a perfect inevitable-breach-digest anecdote: AI lowering the barrier to crime while opsec remains comically bad.",
-      "angle": "Short, wry 'threat actor fail' writeup with screenshots of the sloppy evidence trail",
-      "source": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754"
+      "title": "FBI Finally Puts a Name on the $6.43 Billion Binance Heist: TraderTraitor, North Korea's Record-Breaking Crew",
+      "why_now": "The FBI formally linked North Korea's TraderTraitor group to history's largest crypto heist and flagged over 600 associated wallet addresses, confirmed Nov 1-2 across SecurityWeek, The Hacker News, and Bleeping Computer.",
+      "angle": "Attribution breakdown: how the FBI traced it, what the 600+ addresses reveal about DPRK laundering infrastructure, and why this dwarfs every prior crypto heist on record",
+      "source": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/"
     }
   ]
 }

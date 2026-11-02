@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-01T11:04:23+00:00",
+  "generated": "2026-11-02T11:05:58+00:00",
   "opportunities": [
     {
-      "title": "The Hellraiser TTRPG Is Real — Here's What 'The One Ring' Designer Brings to the Rules",
-      "why_now": "Clive Barker's Hellraiser is officially becoming a TTRPG from a designer known for tightly-crafted narrative mechanics, and fans are already speculating on the system.",
-      "angle": "Analysis post predicting mechanical approach based on designer's prior work (The One Ring's Fellowship/Shadow mechanics), with X thread breaking down likely subsystems for Cenobite horror",
-      "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
+      "title": "New WotC CEO, Same Rulebook: What Ayoub's Appointment Actually Changes (and Doesn't)",
+      "why_now": "WotC just named a new CEO, and players want to know if it affects the rules pipeline, not just the org chart.",
+      "angle": "Knowing explainer: separate corporate news from rules reality — cite current 5e/2024 core rulebook status and what a CEO change can/can't touch contractually.",
+      "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
     },
     {
-      "title": "Paizo's Re-Animator License for 13 Omens: What Rules Will Reanimation Actually Use?",
-      "why_now": "Paizo just licensed a classic horror IP for its new 13 Omens line, a fresh system worth breaking down before full rules drop.",
-      "angle": "Rules-speculation breakdown comparing 13 Omens' horror mechanics to existing Paizo systems, framed as 'what we know vs. what's coming'",
+      "title": "Hellraiser TTRPG Is Coming — Here's the License Math Behind Horror IP Tabletop Deals",
+      "why_now": "A Hellraiser TTRPG was just teased alongside other licensing news, fitting a pattern of horror IP hitting tabletop this quarter.",
+      "angle": "Facts-first breakdown: how horror licensing deals typically structure rules (OGL vs bespoke system) using recent precedent.",
+      "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
+    },
+    {
+      "title": "Paizo's Re-Animator License for 13 Omens: What System Are They Actually Building On?",
+      "why_now": "Paizo just announced the Re-Animator license for 13 Omens, a fresh system worth clarifying for readers unfamiliar with its ruleset.",
+      "angle": "Rules-ID piece: confirm which core mechanics 13 Omens uses and what licensing an IP like Re-Animator requires rules-wise (new stat blocks, horror subsystems).",
       "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
     },
     {
-      "title": "D&D Beyond Finally Fixed Search — Here's Every Rules Lookup That Just Got Easier",
-      "why_now": "A long-requested digital tools update just shipped, directly affecting how players find official rules text.",
-      "angle": "Practical rules-utility post: test the new search against notoriously hard-to-find rulings (grapple, cover, opportunity attacks) and report results",
-      "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
-    },
-    {
-      "title": "What Death Mechanics Actually Teach Your Table (A Rules-First Rebuttal)",
-      "why_now": "Gnome Stew just published a systems-design piece on death that's ripe for a rules-knowledge response from a crunch-focused voice.",
-      "angle": "Response/companion piece comparing death & dying rules across systems (D&D, PF2e, Cyberpunk RED, Mothership) to show how mechanics encode table philosophy",
-      "source": "https://gnomestew.com/what-death-teaches-us-about-systems/"
-    },
-    {
-      "title": "Army Painter x D&D: Does an Official Paint Line Change the Minis Rules Meta?",
-      "why_now": "A new official partnership just launched, tying a hobby brand directly to D&D for the first time at this scale.",
-      "angle": "Short knowing take on how official paint licensing signals WotC's push toward tabletop miniatures support, with a nod to VTT vs. physical play rules implications",
+      "title": "The Army Painter x D&D Paint Line: It's Merch, Not a Rules Update (Here's the Difference)",
+      "why_now": "The newly announced Army Painter/D&D paint collaboration is generating buzz that some are conflating with official game content.",
+      "angle": "Myth-check format: clarify this is a hobby/merch tie-in with zero impact on official rules text, contrasted with past rules-affecting WotC partnerships.",
       "source": "https://www.enworld.org/threads/the-army-painter-teams-up-with-dungeons-dragons-for-new-paint-line.721164/"
+    },
+    {
+      "title": "Your Encounter Math Is Already in the Books: Breaking Down Sly Flourish's New Benchmark",
+      "why_now": "Sly Flourish just published a new encounter-benchmark framework that directly engages core D&D encounter-design rules.",
+      "angle": "Rules-first response: compare the proposed benchmark against the actual DMG/Monster Manual math it's built on, citing specific CR/XP formulas.",
+      "source": "https://slyflourish.com/write_your_encounter_benchmark.html?rss=1"
     }
   ]
 }

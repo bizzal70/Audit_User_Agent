@@ -1,34 +1,34 @@
 {
-  "generated": "2026-11-01T11:04:23+00:00",
+  "generated": "2026-11-02T11:05:58+00:00",
   "opportunities": [
     {
-      "title": "Hellraiser's Coming to Your Table: What a 'Puzzle Box' Mechanic Means for Horror TTRPGs",
-      "why_now": "The One Ring designer just confirmed a Hellraiser TTRPG, a direct lane for a horror-crunch rules breakdown before anyone else covers the mechanics angle.",
-      "angle": "Short: speculate/analyze what a Cenobite 'bargain' subsystem could steal from Call of Cthulhu/DCC corruption mechanics — pitched as a ruling, not fluff",
-      "source": "https://www.enworld.org/threads/clive-barkers-hellraiser-will-be-a-ttrpg-created-by-the-one-ring-designer.721155/"
+      "title": "The 'Appropriate Encounter' You Wrote Down Is Already Wrong",
+      "why_now": "Sly Flourish just published a benchmark method for encounter difficulty that begs to be stress-tested against actual kill counts.",
+      "angle": "60-sec rules ruling: show how CR math and 'benchmark XP' both undersell action economy — demo with a 4v1 vs 2v2 math comparison, dry GM voice tearing apart the formula",
+      "source": "https://slyflourish.com/write_your_encounter_benchmark.html?rss=1"
     },
     {
-      "title": "Re-Animator Just Got Licensed for 13 Omens — Here's the Herbert West Stat Block Nobody's Built Yet",
-      "why_now": "Paizo's fresh Re-Animator license for 13 Omens is a same-week hook to drop a homebrew reanimation ritual with real action economy costs.",
-      "angle": "Creature/ritual tactic short: build a 'reagent-based resurrection' spell variant with clear mechanical drawbacks (DCC-style corruption table)",
-      "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
-    },
-    {
-      "title": "Death Saves Are a Lie: What Actually Teaches Players to Fear the Dice",
-      "why_now": "Gnome Stew's systems-and-death piece just dropped, giving a built-in audience already primed for a hot take on 5e death saves vs. Shadowdark's brutal instant-death rule.",
-      "angle": "Dry ruling comparison short: 5e death saves vs Shadowdark's 0-HP-is-dead vs DCC funnel mortality — which actually creates tension",
+      "title": "DCC Funnel vs 5e Death Saves vs Shadowdark's One Failed Save: Ranked by How Fast They Kill You",
+      "why_now": "Gnome Stew's piece on death-as-system-design is a free setup to do a cross-system teardown, which is this channel's exact format wedge.",
+      "angle": "Comparison short — same scenario (0 HP, goblin swings again) run through all three systems' death mechanics back to back, no commentary needed beyond mechanics",
       "source": "https://gnomestew.com/what-death-teaches-us-about-systems/"
     },
     {
-      "title": "D&D Beyond Finally Fixed Search — So Why Can You Still Not Find Half-Feats By Prerequisite",
-      "why_now": "The search update just shipped this week, making it a timely gripe-and-tip short for players still hunting rules text.",
-      "angle": "Quick utility rant: show the new search's blind spots with a real example (searching for a specific condition or spell tag) and a workaround",
-      "source": "https://www.enworld.org/threads/d-d-beyond-finally-updates-its-search-function.721151/"
+      "title": "Paizo Just Licensed Re-Animator — Here's What Animate Dead Actually Lets You Do Mid-Combat",
+      "why_now": "The Re-Animator/13 Omens license is fresh horror-genre news that gives a natural hook into a commonly misplayed necromancy spell.",
+      "angle": "Spell use-case: walk through casting time, concentration, and corpse-freshness RAW limits that most tables houserule wrong",
+      "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
     },
     {
-      "title": "The Army Painter x D&D Line Won't Fix Your Paint Job If Your Minis Have the Wrong Base — Here's the Rule Nobody Reads",
-      "why_now": "The new officially licensed D&D paint line just launched, giving a crossover hook between hobby content and an actual rules nugget about miniature scale/reach rules in 5e.",
-      "angle": "Mechanical aside: tie mini basing to the 5e reach/squeezing rules — short demo on how base size silently changes tactics",
+      "title": "What CR Is Pinhead? Statblocking a Hellraiser Cenobite in 5e",
+      "why_now": "The newly announced Hellraiser TTRPG is a direct hook for a 'translate this IP into 5e stats' bit that plays to the channel's creature-tactic format.",
+      "angle": "Creature tactic short: build a quick stat block (resistances, lure tactics, Box puzzle as a trap mechanic) and give one tactical ruling on how it should fight",
+      "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
+    },
+    {
+      "title": "Army Painter's New D&D Paint Line Won't Fix Your Flanking Rules — Here's What Will",
+      "why_now": "The Army Painter x D&D paint line announcement is a timely product hook to pivot into an actual mechanical ruling about minis-on-grid play.",
+      "angle": "Dry pivot bit: open on the paint news, then deliver the real content — the RAW ruling on flanking/reach/facing that minis users get wrong constantly",
       "source": "https://www.enworld.org/threads/the-army-painter-teams-up-with-dungeons-dragons-for-new-paint-line.721164/"
     }
   ]
