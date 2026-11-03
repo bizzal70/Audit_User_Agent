@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-02T11:05:58+00:00",
+  "generated": "2026-11-03T11:06:00+00:00",
   "opportunities": [
     {
-      "title": "The 'Appropriate Encounter' You Wrote Down Is Already Wrong",
-      "why_now": "Sly Flourish just published a benchmark method for encounter difficulty that begs to be stress-tested against actual kill counts.",
-      "angle": "60-sec rules ruling: show how CR math and 'benchmark XP' both undersell action economy — demo with a 4v1 vs 2v2 math comparison, dry GM voice tearing apart the formula",
+      "title": "Sly Flourish's 'Encounter Benchmark' Is Wrong for Shadowdark (Here's the Fix)",
+      "why_now": "Sly Flourish just published a fresh encounter-balancing benchmark that's getting shared across GM circles this week.",
+      "angle": "Side-by-side math breakdown: run the same benchmark formula against 5e, Shadowdark, and DCC XP budgets to show where it breaks for low-HP systems.",
       "source": "https://slyflourish.com/write_your_encounter_benchmark.html?rss=1"
     },
     {
-      "title": "DCC Funnel vs 5e Death Saves vs Shadowdark's One Failed Save: Ranked by How Fast They Kill You",
-      "why_now": "Gnome Stew's piece on death-as-system-design is a free setup to do a cross-system teardown, which is this channel's exact format wedge.",
-      "angle": "Comparison short — same scenario (0 HP, goblin swings again) run through all three systems' death mechanics back to back, no commentary needed beyond mechanics",
-      "source": "https://gnomestew.com/what-death-teaches-us-about-systems/"
+      "title": "New WotC Senior Designer Lyla Fujiwara: What Her Hire Signals for Future Rules Errata",
+      "why_now": "WotC just announced Fujiwara's hire as Senior Game Designer, giving a timely hook to speculate on 5e's next rules direction.",
+      "angle": "Quick-cut 'read the tea leaves' short: her design credits vs. likely upcoming splatbook/errata priorities, framed as a prediction bet.",
+      "source": "https://www.enworld.org/threads/wizards-of-the-coast-hires-lyla-fujiwara-as-senior-game-designer-for-dungeons-dragons.721205/"
     },
     {
-      "title": "Paizo Just Licensed Re-Animator — Here's What Animate Dead Actually Lets You Do Mid-Combat",
-      "why_now": "The Re-Animator/13 Omens license is fresh horror-genre news that gives a natural hook into a commonly misplayed necromancy spell.",
-      "angle": "Spell use-case: walk through casting time, concentration, and corpse-freshness RAW limits that most tables houserule wrong",
-      "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
-    },
-    {
-      "title": "What CR Is Pinhead? Statblocking a Hellraiser Cenobite in 5e",
-      "why_now": "The newly announced Hellraiser TTRPG is a direct hook for a 'translate this IP into 5e stats' bit that plays to the channel's creature-tactic format.",
-      "angle": "Creature tactic short: build a quick stat block (resistances, lure tactics, Box puzzle as a trap mechanic) and give one tactical ruling on how it should fight",
+      "title": "New WotC CEO Ayoub: Will Monster Stat Blocks Get Simpler or More Bloated?",
+      "why_now": "The CEO change was just confirmed on this week's EN World podcast, making it a hot industry topic for crossover commentary.",
+      "angle": "Dry veteran-GM take tying corporate leadership change to design trend predictions (monetization vs. crunch), delivered as a one-breath hot take.",
       "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
     },
     {
-      "title": "Army Painter's New D&D Paint Line Won't Fix Your Flanking Rules — Here's What Will",
-      "why_now": "The Army Painter x D&D paint line announcement is a timely product hook to pivot into an actual mechanical ruling about minis-on-grid play.",
-      "angle": "Dry pivot bit: open on the paint news, then deliver the real content — the RAW ruling on flanking/reach/facing that minis users get wrong constantly",
-      "source": "https://www.enworld.org/threads/the-army-painter-teams-up-with-dungeons-dragons-for-new-paint-line.721164/"
+      "title": "Hellraiser TTRPG Just Got Announced — Here's the Pain-Engine Mechanic 5e Is Missing",
+      "why_now": "The Hellraiser TTRPG reveal from this week's podcast is a fresh, buzzy system announcement ripe for mechanical comparison content.",
+      "angle": "Mechanic teardown: extract whatever 'suffering/corruption' subsystem Hellraiser uses and propose a homebrew 5e/Shadowdark analog in one clip.",
+      "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
+    },
+    {
+      "title": "RPG Evolution Says 'A Good Offense' — Here's the Creature Tactic That Proves It Wrong",
+      "why_now": "EN World's just-published 'A Good Offense' piece is actively being discussed in GM forums right now, giving a built-in debate angle.",
+      "angle": "Contrarian rebuttal short: pick one creature (e.g., owlbear or gelatinous cube) whose best tactic is actually defensive/positional, not offensive, to spark comment debate.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-a-good-offense.721200/"
     }
   ]
 }

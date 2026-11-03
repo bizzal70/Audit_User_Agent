@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-02T11:05:58+00:00",
+  "generated": "2026-11-03T11:06:00+00:00",
   "opportunities": [
     {
-      "title": "Ivanti Connect Secure: Zero-Day #3 and #4 Drop While Attackers Already Have Root — Patch Timeline Nobody Can Keep Up With",
-      "why_now": "Ivanti just patched two more zero-days that were chained with a prior pair for unauthenticated root access, and multiple outlets confirm active exploitation as of Nov 2.",
-      "angle": "Patch-cadence breakdown: timeline of the four CVEs, what 'chained' actually means for defenders, and why VPN appliances keep being the softest target",
-      "source": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+      "title": "Frozen Again: Hackers Defrost European Supermarkets for the Second Time — Same Bug, Same Shrug",
+      "why_now": "A near-identical refrigeration attack just hit 100+ stores again, proving the first wave's root cause was never fixed.",
+      "angle": "Inevitable-breach retrospective: timeline the first attack, the 'fix,' and how round two happened anyway",
+      "source": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/"
     },
     {
-      "title": "The Blockchain Cops Got Hacked: Chainalysis Breach Used 'Offensive Agentic Techniques'",
-      "why_now": "Chainalysis — the firm law enforcement relies on to trace crypto crime — just confirmed an AI-driven intrusion exposed customer identity data, a stark irony worth unpacking now.",
-      "angle": "Irony-driven breach digest entry: what 'offensive agentic techniques' means in practice and what it signals about AI-assisted red teaming turning into AI-assisted attacks",
-      "source": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/"
+      "title": "$6.3 Billion, One Laptop: The Binance Heist Breakdown Every CISO Needs to Read",
+      "why_now": "FBI just formally pinned the largest crypto heist in history on North Korean hackers, and the entry point was a single compromised machine.",
+      "angle": "Attack-path deep dive with a 'could this happen to you' checklist",
+      "source": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
     },
     {
-      "title": "A Trojanized 'Claude Code' Extension Planted SSH Backdoors — and Anthropic Says Don't Blame Us",
-      "why_now": "Devs installing what looked like an official Claude Code extension for Cursor got SSH backdoors, and Anthropic is now publicly disputing responsibility, a fresh AI-tooling supply-chain fight breaking across three outlets.",
-      "angle": "Supply-chain explainer: how the fake extension got distributed, what it dropped, and the attribution dispute between devs and Anthropic",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor"
+      "title": "Ivanti Connect Secure, Again: Two More Zero-Days Chained While Admins Were Still Patching the Last Ones",
+      "why_now": "Ivanti just shipped emergency fixes for two zero-days actively chained in the wild, continuing its run as 2026's most-exploited edge appliance.",
+      "angle": "Patch-cadence scorecard: Ivanti's year of zero-days, with a 'patch now' urgency note",
+      "source": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/"
     },
     {
-      "title": "Meet VOLTA: The Infostealer That Asks Claude, Gemini, and Kimi Which Victims Are Worth Stealing From",
-      "why_now": "A newly documented infostealer is using multiple commercial AI models to automatically triage stolen data by victim financial value, a first-of-its-kind escalation reported Nov 2.",
-      "angle": "Threat-actor deep dive on AI-weaponization: how VOLTA queries LLMs mid-attack, what it means for detection, and the broader trend of crimeware renting legitimate AI APIs",
-      "source": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html"
+      "title": "Synology NAS Owners Get Hit by C3RB3R Ransomware — Through a Bug That Was Already Patched",
+      "why_now": "Active ransomware campaign is exploiting a DSM flaw Synology already fixed, meaning unpatched boxes are sitting ducks right now.",
+      "angle": "The inevitable-breach lesson: patch availability isn't patch adoption — include update instructions and exposure numbers",
+      "source": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/"
     },
     {
-      "title": "FBI Finally Puts a Name on the $6.43 Billion Binance Heist: TraderTraitor, North Korea's Record-Breaking Crew",
-      "why_now": "The FBI formally linked North Korea's TraderTraitor group to history's largest crypto heist and flagged over 600 associated wallet addresses, confirmed Nov 1-2 across SecurityWeek, The Hacker News, and Bleeping Computer.",
-      "angle": "Attribution breakdown: how the FBI traced it, what the 600+ addresses reveal about DPRK laundering infrastructure, and why this dwarfs every prior crypto heist on record",
-      "source": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/"
+      "title": "1.3 Million Zombie TV Boxes: Inside the Botnet Google Just Killed (and the Vendor That Sold Access to Criminals)",
+      "why_now": "Google and partners dismantled the XCPE botnet this week, revealing the device maker allegedly sold criminal access outright.",
+      "angle": "Takedown explainer: how the botnet worked, who's exposed, and what buyers of cheap Android TV boxes should check",
+      "source": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/"
     }
   ]
 }

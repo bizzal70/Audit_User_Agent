@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-02T11:05:58+00:00",
+  "generated": "2026-11-03T11:06:00+00:00",
   "opportunities": [
     {
-      "title": "New WotC CEO, Same Rulebook: What Ayoub's Appointment Actually Changes (and Doesn't)",
-      "why_now": "WotC just named a new CEO, and players want to know if it affects the rules pipeline, not just the org chart.",
-      "angle": "Knowing explainer: separate corporate news from rules reality — cite current 5e/2024 core rulebook status and what a CEO change can/can't touch contractually.",
+      "title": "WotC's New CEO and the Rules That Don't Change: What Ayoub's Hire Means for D&D's Design Direction",
+      "why_now": "A new WotC CEO was just announced alongside major TTRPG news in the same podcast drop, making it the freshest leadership signal in the game's history.",
+      "angle": "News analysis thread: separate corporate churn from rules continuity—remind readers the SRD/5e rules text is unaffected by leadership change",
       "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
     },
     {
-      "title": "Hellraiser TTRPG Is Coming — Here's the License Math Behind Horror IP Tabletop Deals",
-      "why_now": "A Hellraiser TTRPG was just teased alongside other licensing news, fitting a pattern of horror IP hitting tabletop this quarter.",
-      "angle": "Facts-first breakdown: how horror licensing deals typically structure rules (OGL vs bespoke system) using recent precedent.",
-      "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
+      "title": "Lyla Fujiwara Joins D&D Design Team: What a New Senior Designer Signals for Rules Updates",
+      "why_now": "Fresh hire announcement gives a concrete, timely hook for speculating on future rules direction.",
+      "angle": "Short factual brief + speculation on design philosophy, with links to her prior credited work if available",
+      "source": "https://www.enworld.org/threads/wizards-of-the-coast-hires-lyla-fujiwara-as-senior-game-designer-for-dungeons-dragons.721205/"
     },
     {
-      "title": "Paizo's Re-Animator License for 13 Omens: What System Are They Actually Building On?",
-      "why_now": "Paizo just announced the Re-Animator license for 13 Omens, a fresh system worth clarifying for readers unfamiliar with its ruleset.",
-      "angle": "Rules-ID piece: confirm which core mechanics 13 Omens uses and what licensing an IP like Re-Animator requires rules-wise (new stat blocks, horror subsystems).",
-      "source": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/"
-    },
-    {
-      "title": "The Army Painter x D&D Paint Line: It's Merch, Not a Rules Update (Here's the Difference)",
-      "why_now": "The newly announced Army Painter/D&D paint collaboration is generating buzz that some are conflating with official game content.",
-      "angle": "Myth-check format: clarify this is a hobby/merch tie-in with zero impact on official rules text, contrasted with past rules-affecting WotC partnerships.",
-      "source": "https://www.enworld.org/threads/the-army-painter-teams-up-with-dungeons-dragons-for-new-paint-line.721164/"
-    },
-    {
-      "title": "Your Encounter Math Is Already in the Books: Breaking Down Sly Flourish's New Benchmark",
-      "why_now": "Sly Flourish just published a new encounter-benchmark framework that directly engages core D&D encounter-design rules.",
-      "angle": "Rules-first response: compare the proposed benchmark against the actual DMG/Monster Manual math it's built on, citing specific CR/XP formulas.",
+      "title": "The Math Is Already Written: How to Actually Benchmark Your Encounters (No More Guessing CR)",
+      "why_now": "Sly Flourish just published a hard numbers-driven method for encounter difficulty, which is pure rules-nerd catnip.",
+      "angle": "Breakdown post translating the benchmark method into a quick-reference checklist GMs can use tonight",
       "source": "https://slyflourish.com/write_your_encounter_benchmark.html?rss=1"
+    },
+    {
+      "title": "Candela Obscura Goes Graphic Novel: What It Means for the System's Future Support",
+      "why_now": "Darrington Press just confirmed a graphic novel series, a rare cross-media expansion for a newer indie-published system.",
+      "angle": "News brief tying the comic announcement to Candela's rules/lore canon and whether it'll feed back into tabletop content",
+      "source": "https://www.enworld.org/threads/candela-obscura-to-get-graphic-novel-series.721209/"
+    },
+    {
+      "title": "RPG Evolution: Why 'A Good Offense' Still Means Reading the Rules First",
+      "why_now": "EN World's RPG Evolution column just dropped a fresh design-philosophy piece perfectly aligned with a rules-first beat.",
+      "angle": "Reaction/response post: agree, extend, or push back on the column's thesis with rules citations",
+      "source": "https://www.enworld.org/threads/rpg-evolution-a-good-offense.721200/"
     }
   ]
 }
