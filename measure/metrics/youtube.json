@@ -11411,5 +11411,106 @@
         "comments": 0
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "videos": [
+      {
+        "id": "PZNZtlD792E",
+        "title": "Ape: Climbing and Ranged Attacks in Shadowdark RPG",
+        "published": "2026-11-03",
+        "views": 4,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "znRK53wCU7g",
+        "title": "Spell Casting Check often surprises with its resource cost #shadowdark",
+        "published": "2026-11-03",
+        "views": 38,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "EdGw0_auImA",
+        "title": "Way of the Kensei demands careful weapon selection #dnd5e",
+        "published": "2026-11-03",
+        "views": 58,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "M1V7GOhuUtw",
+        "title": "The Funnel surprises players with its lethality #dcc",
+        "published": "2026-11-03",
+        "views": 83,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "-oVblR7x6_E",
+        "title": "Dreamwalk: Teleport Beside a Named Sleeper #shadowdark",
+        "published": "2026-11-02",
+        "views": 1,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "uyxvjAw_-6c",
+        "title": "Kobold traps: 60% chance in any corridor #dcc",
+        "published": "2026-11-02",
+        "views": 0,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "XBBUyrWhbDI",
+        "title": "Run Wyvern for stakes, not flavor #shadowdark",
+        "published": "2026-11-02",
+        "views": 125,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "Ki8mpkVFxD0",
+        "title": "Fire Resistance is often underestimated for its duration #dcc",
+        "published": "2026-11-02",
+        "views": 65,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "Pzlq-mle5KE",
+        "title": "Scimitar's versatility often goes unnoticed #shadowdark",
+        "published": "2026-11-01",
+        "views": 122,
+        "likes": 1,
+        "comments": 0
+      },
+      {
+        "id": "eszGslYXdJs",
+        "title": "Put Spectator in terrain with one strong feature and start a visible clock #dnd5e",
+        "published": "2026-11-01",
+        "views": 365,
+        "likes": 2,
+        "comments": 0
+      },
+      {
+        "id": "_Rw6Vq9PLlo",
+        "title": "Festhaken's bite attack is more lethal than it seems #dcc",
+        "published": "2026-11-01",
+        "views": 96,
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "id": "h59x8P0pTLg",
+        "title": "Backstab damage stacks higher than most expect #shadowdark",
+        "published": "2026-10-31",
+        "views": 180,
+        "likes": 0,
+        "comments": 0
+      }
+    ]
   }
 ]
