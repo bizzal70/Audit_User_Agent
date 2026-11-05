@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-03T11:06:00+00:00",
+  "generated": "2026-11-05T11:05:45+00:00",
   "plays": [
     {
-      "story": "North Korea denies role in the record-shattering $6.3–6.4B Binance hack even as the FBI formally attributes it to TraderTraitor, while security researchers trace the breach back to a single compromised employee laptop.",
+      "story": "Chainalysis and Register both dig into how North Korea's fake job interview playbook enabled the $6.3B Binance heist, with a compromised AI tool as the entry point.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'North Korea Says It Wasn't Us' — Inside the $6.3B Binance Heist Nobody Will Own: break down the denial-vs-FBI-attribution standoff, the ETF outflows and SAFU reserve drawdown it triggered, and what the laundering trail through Tron/Solana tells traders about where the money (and the market fear) goes next.",
-        "itsalreadywhen": "One Laptop, $6.3 Billion Gone: The Binance Attack Path Every CISO Needs to War-Game Today — use the Dark Reading attack-path breakdown as the hook for a tabletop-exercise piece on endpoint compromise → custody breach, tying in the FBI's TraderTraitor attribution as a concrete threat-actor profile to defend against."
+        "itsalreadypriced": "Title: 'Binance's $6.3B Nightmare: Inside the Hack That Grayscale Calls a Temporary Setback' — track the market fallout, the 81% of stolen Solana now routed through THORChain, and whether 'crypto shrugs it off' narrative holds up.",
+        "itsalreadywhen": "Title: 'The Job Interview That Cost $6.3 Billion: North Korea's Fake-Recruiter Playbook, Decoded' — use Chainalysis's research on DPRK's 'dozens of attacks before Binance' to warn security teams about hiring-pipeline social engineering and compromised AI tooling as attack vectors."
       },
-      "source": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor"
+      "source": "https://www.chainalysis.com/blog/binance-hack-dprk-employment-fraud/"
     },
     {
-      "story": "Blockchain forensics firm Chainalysis — the same outfit that just led the freeze of $10M in stolen Mercado Bitcoin funds — discloses it was itself breached in an AI-driven cyberattack.",
+      "story": "Post-hack fallout: Dark Reading examines the single compromised laptop that enabled the Binance breach, while Coinbase publicly flexes its cold-storage posture in response.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "The Crypto Detectives Got Hacked Too: What Chainalysis's Breach Means for Trusting On-Chain Forensics — explore the irony of the firm that freezes stolen funds and tracks hacker wallets getting popped, and what it means for exchanges relying on their threat intel after Binance and Mercado Bitcoin.",
-        "itsalreadywhen": "AI-Driven Attack Breaches the World's Top Crypto-Tracing Firm — dig into how an AI-orchestrated intrusion got past Chainalysis's defenses, positioning it alongside Microsoft's AI risk report gap and the UK cyber chief's 2028 AI-attack warning as proof the threat is already here, not years out."
+        "itsalreadypriced": "Title: 'Coinbase's Not-So-Subtle Shade: 99% Cold Storage After Binance's $6.3B Mess' — frame as a competitive security flex and what it signals for exchange trust post-hack.",
+        "itsalreadywhen": "Title: 'One Compromised Laptop, Billions Lost: The Attack-Path Test Every CISO Should Run This Week' — turn the Binance postmortem into a practical attack-path audit checklist for any org, not just exchanges."
       },
-      "source": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/"
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths"
     },
     {
-      "story": "Candela Obscura, the horror TTRPG from Darrington Press, is getting a graphic novel series — expanding the brand beyond the tabletop into a new storytelling medium.",
+      "story": "Mercado Bitcoin's hack containment failed — the attack continued hours after the exchange claimed it was contained, and Chainalysis helped freeze ~$10M in stolen funds.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Title: 'Mercado Bitcoin's Reopening Gamble: Can a Promise to Cover Losses Rebuild Trust?' — cover the phased reopening and what it means for users and the exchange's credibility.",
+        "itsalreadywhen": "Title: 'The Hack Wasn't Over When They Said It Was: What Mercado Bitcoin's Containment Failure Teaches About Incident Response' — dissect the gap between declared containment and actual attacker persistence, tying in Chainalysis's freeze operation as a rare win."
+      },
+      "source": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds"
+    },
+    {
+      "story": "EN World's first impressions of the Dungeons & Dragons x World of Warcraft tabletop crossover, paired with the ongoing WoW Deep Dive race-lore series (Draenei, Dracthyr).",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Candela Obscura Goes to Print: What a Graphic Novel Means for Your Table — cover how the comic's lore drops could feed GMs new cases, factions, and horror-table hooks, and whether canon from the comic will ripple into future sourcebooks.",
-        "itsalreadywritten": "From Dice to Panels: Candela Obscura's Graphic Novel Is the TTRPG Industry's Next Adaptation Bet — frame this as part of the broader trend of RPG IP mining narrative spinoffs, asking whether comics succeed where TTRPG fiction tie-ins have struggled before."
+        "bizzal-games": "Title: 'First Impressions: Is D&D's World of Warcraft Crossover Worth Clearing Your Table's Schedule For?' — a hands-on breakdown of the new ruleset for GMs deciding whether to run it.",
+        "itsalreadywritten": "Title: 'Writing Azeroth at Your Table: What the D&D x WoW Crossover Gets Right (and Wrong) About Adapting Game Lore' — use the Draenei/Dracthyr deep dives to explore how MMO backstory translates (or doesn't) into tabletop narrative design."
       },
-      "source": "https://www.enworld.org/threads/candela-obscura-to-get-graphic-novel-series.721209/"
-    },
-    {
-      "story": "Wizards of the Coast hires Lyla Fujiwara as Senior Game Designer for D&D, a notable staffing move arriving alongside word of a new WotC CEO.",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "New D&D Designer, New Era? What Lyla Fujiwara's Hire Signals for Upcoming Rules and Splatbooks — speculate on her design background and what table-facing changes (classes, encounter math, balance) her hire might foreshadow for 2027 releases.",
-        "itsalreadywritten": "Who's Writing D&D's Next Chapter: Inside the Leadership Shakeup at Wizards of the Coast — connect the new Senior Game Designer hire with the incoming CEO (Ayoub) as a 'new regime' narrative, asking what creative direction D&D's lore and storytelling take next."
-      },
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-hires-lyla-fujiwara-as-senior-game-designer-for-dungeons-dragons.721205/"
+      "source": "https://www.enworld.org/threads/dungeons-dragons-world-of-warcraft-first-impressions.721193/"
     }
   ]
 }

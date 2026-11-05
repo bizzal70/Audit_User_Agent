@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-03T11:06:00+00:00",
+  "generated": "2026-11-05T11:05:45+00:00",
   "opportunities": [
     {
-      "title": "Sly Flourish's 'Encounter Benchmark' Is Wrong for Shadowdark (Here's the Fix)",
-      "why_now": "Sly Flourish just published a fresh encounter-balancing benchmark that's getting shared across GM circles this week.",
-      "angle": "Side-by-side math breakdown: run the same benchmark formula against 5e, Shadowdark, and DCC XP budgets to show where it breaks for low-HP systems.",
-      "source": "https://slyflourish.com/write_your_encounter_benchmark.html?rss=1"
+      "title": "Dracula's Dominate: Why RAW Vampire Charm Breaks Your Horror Campaign",
+      "why_now": "Paizo just added Dracula, Frankenstein, and The Wicker Man to 13 Omens, putting classic horror monsters back in the spotlight.",
+      "angle": "60-sec ruling: walk through the 5e vampire's Charm vs a PC's save bonuses and why most GMs houserule the duration",
+      "source": "https://www.enworld.org/threads/paizo-adds-new-vintage-horror-movies-to-13-omens-featuring-dracula-frankenstein-and-the-wicker-man.721220/"
     },
     {
-      "title": "New WotC Senior Designer Lyla Fujiwara: What Her Hire Signals for Future Rules Errata",
-      "why_now": "WotC just announced Fujiwara's hire as Senior Game Designer, giving a timely hook to speculate on 5e's next rules direction.",
-      "angle": "Quick-cut 'read the tea leaves' short: her design credits vs. likely upcoming splatbook/errata priorities, framed as a prediction bet.",
-      "source": "https://www.enworld.org/threads/wizards-of-the-coast-hires-lyla-fujiwara-as-senior-game-designer-for-dungeons-dragons.721205/"
+      "title": "Stitching Frankenstein's Monster: Building a 5e Stat Block That Doesn't Suck",
+      "why_now": "Same 13 Omens drop puts Frankenstein's Monster in the conversation, and 5e has no good flesh-golem equivalent at low CR.",
+      "angle": "Creature tactic short: homebrew CR 5 flesh construct with a weakness-to-fire gimmick, shown in play",
+      "source": "https://www.enworld.org/threads/paizo-adds-new-vintage-horror-movies-to-13-omens-featuring-dracula-frankenstein-and-the-wicker-man.721220/"
     },
     {
-      "title": "New WotC CEO Ayoub: Will Monster Stat Blocks Get Simpler or More Bloated?",
-      "why_now": "The CEO change was just confirmed on this week's EN World podcast, making it a hot industry topic for crossover commentary.",
-      "angle": "Dry veteran-GM take tying corporate leadership change to design trend predictions (monetization vs. crunch), delivered as a one-breath hot take.",
-      "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
+      "title": "D&D x WoW First Impressions: Can You Reskin a Draenei as a Reborn Stat Block?",
+      "why_now": "The official D&D: World of Warcraft crossover book just got first-impressions coverage and fans are asking how races translate to 5e math.",
+      "angle": "Mechanical teardown: take the Draenei deep dive and show the exact racial traits a GM should port to a Reborn or Aasimar reskin",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-world-of-warcraft-first-impressions.721193/"
     },
     {
-      "title": "Hellraiser TTRPG Just Got Announced — Here's the Pain-Engine Mechanic 5e Is Missing",
-      "why_now": "The Hellraiser TTRPG reveal from this week's podcast is a fresh, buzzy system announcement ripe for mechanical comparison content.",
-      "angle": "Mechanic teardown: extract whatever 'suffering/corruption' subsystem Hellraiser uses and propose a homebrew 5e/Shadowdark analog in one clip.",
-      "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
-    },
-    {
-      "title": "RPG Evolution Says 'A Good Offense' — Here's the Creature Tactic That Proves It Wrong",
-      "why_now": "EN World's just-published 'A Good Offense' piece is actively being discussed in GM forums right now, giving a built-in debate angle.",
-      "angle": "Contrarian rebuttal short: pick one creature (e.g., owlbear or gelatinous cube) whose best tactic is actually defensive/positional, not offensive, to spark comment debate.",
+      "title": "\"A Good Offense\" Is a Myth: The Action Economy Math Nobody Runs",
+      "why_now": "EN World's RPG Evolution column just dropped an op-ed on offensive play that's getting debated in the comments.",
+      "angle": "Dry ruling short: break down Action Surge + Readied Action stacking vs a single big nova turn, with the actual DPR numbers",
       "source": "https://www.enworld.org/threads/rpg-evolution-a-good-offense.721200/"
+    },
+    {
+      "title": "When the Dice Lie: Overruling RAW for 'What the Story Wants'",
+      "why_now": "Gnomecast's new episode on narrative-driven GMing is fresh and gives a clean foil for a rules-first GM take.",
+      "angle": "Veteran GM rebuttal format: three concrete scenarios (death save fudge, lockpick failure, social check) where RAW beats narrative override, and one where it doesn't",
+      "source": "https://gnomestew.com/gnomecast-249-what-the-story-wants/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-03T11:06:00+00:00",
+  "generated": "2026-11-05T11:05:45+00:00",
   "opportunities": [
     {
-      "title": "WotC's New CEO and the Rules That Don't Change: What Ayoub's Hire Means for D&D's Design Direction",
-      "why_now": "A new WotC CEO was just announced alongside major TTRPG news in the same podcast drop, making it the freshest leadership signal in the game's history.",
-      "angle": "News analysis thread: separate corporate churn from rules continuity—remind readers the SRD/5e rules text is unaffected by leadership change",
-      "source": "https://www.enworld.org/threads/podcast-421-livestream-ayoub-is-new-wotc-ceo-price-is-right-does-d-d-hellraiser-ttrpg-matt-mercer-miniature.721198/"
+      "title": "Ben 10 Is Getting a TTRPG: Here's What System It Should (and Probably Won't) Use",
+      "why_now": "Fresh licensed-game announcement with zero system details yet gives a rules-speculation hook while the news is new.",
+      "angle": "Rules-first breakdown comparing likely d20/PbtA/FFG-style approaches for a power-swapping, transformation-based IP like Ben 10",
+      "source": "https://www.enworld.org/threads/ben-10-is-getting-an-ttrpg.721250/"
     },
     {
-      "title": "Lyla Fujiwara Joins D&D Design Team: What a New Senior Designer Signals for Rules Updates",
-      "why_now": "Fresh hire announcement gives a concrete, timely hook for speculating on future rules direction.",
-      "angle": "Short factual brief + speculation on design philosophy, with links to her prior credited work if available",
+      "title": "D&D x World of Warcraft: What the Crossover Actually Changes Mechanically",
+      "why_now": "First impressions piece just dropped, giving concrete rules details to dissect before the hype cycle moves on",
+      "angle": "Line-by-line rules comparison: new subclasses/races vs base 5e math, is this balanced or reskinned?",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-world-of-warcraft-first-impressions.721193/"
+    },
+    {
+      "title": "WotC Hires Lyla Fujiwara: What a Senior Game Designer Actually Does to D&D's Rules",
+      "why_now": "Fresh hire announcement lets us explain the invisible design pipeline before fans speculate wildly",
+      "angle": "Explainer on the design-team structure and what 'senior designer' credits have historically meant for rules changes (playtest packets, errata, etc.)",
       "source": "https://www.enworld.org/threads/wizards-of-the-coast-hires-lyla-fujiwara-as-senior-game-designer-for-dungeons-dragons.721205/"
     },
     {
-      "title": "The Math Is Already Written: How to Actually Benchmark Your Encounters (No More Guessing CR)",
-      "why_now": "Sly Flourish just published a hard numbers-driven method for encounter difficulty, which is pure rules-nerd catnip.",
-      "angle": "Breakdown post translating the benchmark method into a quick-reference checklist GMs can use tonight",
-      "source": "https://slyflourish.com/write_your_encounter_benchmark.html?rss=1"
+      "title": "Age of Sigmar's New Skaven Character: Reading the Datasheet Before It's Official",
+      "why_now": "Rumored first end-of-edition unit reveal is a ripe moment for rules speculation ahead of full release",
+      "angle": "Datasheet literacy piece: what the leaked stats/keywords imply for faction balance and edition-end campaigns",
+      "source": "https://www.enworld.org/threads/warhammer-age-of-sigmar-reveals-new-skaven-character-rumored-to-be-first-new-unit-for-end-of-edition-campaigns.721248/"
     },
     {
-      "title": "Candela Obscura Goes Graphic Novel: What It Means for the System's Future Support",
-      "why_now": "Darrington Press just confirmed a graphic novel series, a rare cross-media expansion for a newer indie-published system.",
-      "angle": "News brief tying the comic announcement to Candela's rules/lore canon and whether it'll feed back into tabletop content",
-      "source": "https://www.enworld.org/threads/candela-obscura-to-get-graphic-novel-series.721209/"
-    },
-    {
-      "title": "RPG Evolution: Why 'A Good Offense' Still Means Reading the Rules First",
-      "why_now": "EN World's RPG Evolution column just dropped a fresh design-philosophy piece perfectly aligned with a rules-first beat.",
-      "angle": "Reaction/response post: agree, extend, or push back on the column's thesis with rules citations",
-      "source": "https://www.enworld.org/threads/rpg-evolution-a-good-offense.721200/"
+      "title": "Paizo's 13 Omens Adds Dracula, Frankenstein, and The Wicker Man: How the Oracle Deck Actually Works",
+      "why_now": "New content drop for an underexplained subsystem is a perfect excuse to finally codify its rules for readers",
+      "angle": "Rules reference piece explaining 13 Omens mechanics and how the new horror-movie omens slot into existing tables",
+      "source": "https://www.enworld.org/threads/paizo-adds-new-vintage-horror-movies-to-13-omens-featuring-dracula-frankenstein-and-the-wicker-man.721220/"
     }
   ]
 }

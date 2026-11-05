@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-03T11:06:00+00:00",
+  "generated": "2026-11-05T11:05:45+00:00",
   "opportunities": [
     {
-      "title": "Binance Just Burned Half Its 'Unbreakable' Insurance Fund — And Recovery Is Still Unclear",
-      "why_now": "Binance has now spent $580M of SAFU bitcoin reserves with no clear path to recouping the $6.3B hack losses, exposing the limits of exchange insurance funds in real time.",
-      "angle": "Analysis piece: what SAFU was sold as vs. what it's actually doing right now — a case study in why 'insurance fund' marketing doesn't survive contact with a real breach.",
-      "source": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
+      "title": "They Didn't Hack Binance. They Interviewed Their Way In.",
+      "why_now": "Binance just confirmed the $6.3B breach traced to fake job interviews and a compromised AI tool, and Chainalysis published the DPRK playbook showing this tactic was perfected over dozens of prior attacks.",
+      "angle": "Deep-dive explainer: walk through the fake-interview kill chain step by step, then list the exact checkpoints (interview platforms, 'coding test' downloads, recruiter DMs) every crypto team needs to firewall — ends with 'this was never about Binance's wallets, it was about Binance's hiring pipeline.'",
+      "source": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack"
     },
     {
-      "title": "Arbitrum's Council Just Moved $30M of Hacker Funds Without the Hacker's Key — Here's Why That Should Worry You Too",
-      "why_now": "A DAO council unilaterally relocating stolen funds without the private key raises uncomfortable questions about who actually controls 'decentralized' chains when a big enough theft happens.",
-      "angle": "Explainer/opinion: the precedent this sets for every chain with an 'emergency powers' multisig — if they can move it, so can anyone with the right access.",
-      "source": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
+      "title": "Binance and Polymarket Want Polygon to Rewrite History. Here's Why That Should Scare You More Than the Hack.",
+      "why_now": "Binance and Polymarket are actively lobbying for a Polygon hard fork to claw back $6.8M, reopening the immutability debate in real time.",
+      "angle": "Opinionated take/thread: lay out the precedent risk — if a hard fork can reverse this theft, what's the actual difference between 'your keys, your crypto' and 'your keys, until a big enough victim complains'? Include the ETC/DAO parallel for readers who already lived through it.",
+      "source": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery"
     },
     {
-      "title": "One New Laundering Wallet Every 25 Seconds: Inside North Korea's Industrialized Theft Pipeline",
-      "why_now": "Chainalysis-tracked data shows DPRK hackers are laundering the Binance hack proceeds at an automated, assembly-line pace that outstrips any freeze-and-chase response.",
-      "angle": "Data-driven breakdown with a timeline graphic: why 'we're tracking the funds' headlines are theater against this kind of throughput.",
-      "source": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds"
+      "title": "Mercado Bitcoin Said 'Contained.' The Attackers Didn't Get the Memo.",
+      "why_now": "A new report reveals the Mercado Bitcoin hack continued for hours after the exchange publicly claimed it was contained, right as the exchange begins a phased reopening pledging to cover losses.",
+      "angle": "Incident-response autopsy format: build a timeline comparing the exchange's public statements against the actual attacker activity, then extract the lesson — 'contained' is a PR word, not a security state. Good source for a recurring 'read the incident report, not the press release' series.",
+      "source": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds"
     },
     {
-      "title": "Claude Wrote an Exploit for a Linux Bug Ubuntu Still Hasn't Patched — Your Node Is the Next Target",
-      "why_now": "An AI model autonomously built a working exploit for an unpatched Ubuntu vulnerability, a direct preview of AI-accelerated attacks on crypto infrastructure.",
-      "angle": "Security warning piece: translate this from 'Linux bug' to 'your validator/node server runs this OS' and lay out patch urgency.",
-      "source": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu"
+      "title": "OpenAI Just Admitted Its Model Can Break Into Linux at Scale. Your Exchange's Perimeter Just Got Older.",
+      "why_now": "OpenAI's disclosure lands the same week India's government and a Swan founder both warned that AI-driven attacks — not quantum — are the near-term existential threat to crypto infrastructure.",
+      "angle": "Trend-synthesis piece connecting three dots (OpenAI capability disclosure, India's exchange warning, AI>quantum threat take) into one thesis: the attacker's cost-per-exploit just collapsed, and most exchanges are still staffing security like it's 2021 — tie back to BitMart's founder admitting 'severely understaffed.'",
+      "source": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed"
     },
     {
-      "title": "Proton's CEO Called Security Caution 'Loser Thinking.' This Week Proved Exactly Why That's Wrong.",
-      "why_now": "Days after the Binance hack and Mercado Bitcoin breach dominate headlines, Proton users are revolting against their own CEO downplaying security in favor of an AI push — a tone-deaf moment that writes its own headline.",
-      "angle": "Commentary/takedown piece contrasting the CEO's rhetoric against the week's hack toll — 'already know how this ends' voice at its sharpest.",
-      "source": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai"
+      "title": "99% Cold Storage vs. 'Severely Understaffed': The Only Exchange Comparison That Matters This Week",
+      "why_now": "Coinbase is publicly flexing that 99% of customer assets are offline right as BitMart's founder admits their security team was severely understaffed going into their latest hack.",
+      "angle": "Side-by-side scorecard post/thread: pull concrete, verifiable security posture signals (cold storage %, staffing admissions, public incident transparency) across Coinbase, BitMart, Binance, Mercado Bitcoin — give readers a simple checklist to audit their own exchange before depositing another dollar.",
+      "source": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880"
     }
   ]
 }

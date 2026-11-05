@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-03T11:06:00+00:00",
+  "generated": "2026-11-05T11:05:45+00:00",
   "opportunities": [
     {
-      "title": "Frozen Again: Hackers Defrost European Supermarkets for the Second Time — Same Bug, Same Shrug",
-      "why_now": "A near-identical refrigeration attack just hit 100+ stores again, proving the first wave's root cause was never fixed.",
-      "angle": "Inevitable-breach retrospective: timeline the first attack, the 'fix,' and how round two happened anyway",
-      "source": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/"
+      "title": "The Patch That Didn't Patch: Zyxel's GS1900 'Fix' Still Lets Attackers Root Your Switch",
+      "why_now": "Two outlets confirm the same CVE patch failed to block active zero-day exploitation, a patch-cadence nightmare worth flagging now.",
+      "angle": "Technical breakdown comparing the original advisory vs. what's actually exploitable post-patch, with a 'what to do instead' mitigation list",
+      "source": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/"
     },
     {
-      "title": "$6.3 Billion, One Laptop: The Binance Heist Breakdown Every CISO Needs to Read",
-      "why_now": "FBI just formally pinned the largest crypto heist in history on North Korean hackers, and the entry point was a single compromised machine.",
-      "angle": "Attack-path deep dive with a 'could this happen to you' checklist",
-      "source": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
+      "title": "One Fake Job Interview, $6.3 Billion Gone: Inside North Korea's Binance Heist",
+      "why_now": "Fresh reporting ties the largest crypto heist in history to a single social-engineering vector via a bogus job interview.",
+      "angle": "Breach post-mortem/timeline piece framed as an inevitable-breach case study on social engineering beating technical controls",
+      "source": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
     },
     {
-      "title": "Ivanti Connect Secure, Again: Two More Zero-Days Chained While Admins Were Still Patching the Last Ones",
-      "why_now": "Ivanti just shipped emergency fixes for two zero-days actively chained in the wild, continuing its run as 2026's most-exploited edge appliance.",
-      "angle": "Patch-cadence scorecard: Ivanti's year of zero-days, with a 'patch now' urgency note",
-      "source": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/"
+      "title": "OpenAI's Exploit Factory: 948 Linux Root Escalation Bugs in 30 Hours",
+      "why_now": "A frontier AI model autonomously generating nearly a thousand working root exploits in a day is a watershed moment for offensive AI tooling.",
+      "angle": "Explainer on what this means for patch velocity and defender timelines, tying in Schneier's AI-vulnerability-finding analysis for context",
+      "source": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
     },
     {
-      "title": "Synology NAS Owners Get Hit by C3RB3R Ransomware — Through a Bug That Was Already Patched",
-      "why_now": "Active ransomware campaign is exploiting a DSM flaw Synology already fixed, meaning unpatched boxes are sitting ducks right now.",
-      "angle": "The inevitable-breach lesson: patch availability isn't patch adoption — include update instructions and exposure numbers",
-      "source": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/"
+      "title": "APT Got Owned: The Debian/Ubuntu Package Manager MitM Flaw You Need to Patch Today",
+      "why_now": "A core trust mechanism (package signature verification) is broken on two of the most widely deployed Linux distros, demanding immediate patch action.",
+      "angle": "Straight CVE alert format: what's broken, who's affected, patch status, and why MitM on APT is uniquely dangerous for supply chains",
+      "source": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"
     },
     {
-      "title": "1.3 Million Zombie TV Boxes: Inside the Botnet Google Just Killed (and the Vendor That Sold Access to Criminals)",
-      "why_now": "Google and partners dismantled the XCPE botnet this week, revealing the device maker allegedly sold criminal access outright.",
-      "angle": "Takedown explainer: how the botnet worked, who's exposed, and what buyers of cheap Android TV boxes should check",
-      "source": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/"
+      "title": "The AI Stack Is Bleeding Secrets: WorkOS, Northflank, and Trigger.dev All Just Got Hacked",
+      "why_now": "Three AI-infrastructure vendors disclosing breaches in the same week signals a pattern worth naming before the next one drops.",
+      "angle": "Roundup/trend piece connecting the Trigger.dev env-var theft, LLMjacking, and token-theft stories into one 'AI supply chain is the new soft underbelly' thesis",
+      "source": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/"
     }
   ]
 }
