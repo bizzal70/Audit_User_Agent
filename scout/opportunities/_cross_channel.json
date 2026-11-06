@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-05T11:05:45+00:00",
+  "generated": "2026-11-06T11:05:24+00:00",
   "plays": [
     {
-      "story": "Chainalysis and Register both dig into how North Korea's fake job interview playbook enabled the $6.3B Binance heist, with a compromised AI tool as the entry point.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'Binance's $6.3B Nightmare: Inside the Hack That Grayscale Calls a Temporary Setback' — track the market fallout, the 81% of stolen Solana now routed through THORChain, and whether 'crypto shrugs it off' narrative holds up.",
-        "itsalreadywhen": "Title: 'The Job Interview That Cost $6.3 Billion: North Korea's Fake-Recruiter Playbook, Decoded' — use Chainalysis's research on DPRK's 'dozens of attacks before Binance' to warn security teams about hiring-pipeline social engineering and compromised AI tooling as attack vectors."
-      },
-      "source": "https://www.chainalysis.com/blog/binance-hack-dprk-employment-fraud/"
-    },
-    {
-      "story": "Post-hack fallout: Dark Reading examines the single compromised laptop that enabled the Binance breach, while Coinbase publicly flexes its cold-storage posture in response.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'Coinbase's Not-So-Subtle Shade: 99% Cold Storage After Binance's $6.3B Mess' — frame as a competitive security flex and what it signals for exchange trust post-hack.",
-        "itsalreadywhen": "Title: 'One Compromised Laptop, Billions Lost: The Attack-Path Test Every CISO Should Run This Week' — turn the Binance postmortem into a practical attack-path audit checklist for any org, not just exchanges."
-      },
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths"
-    },
-    {
-      "story": "Mercado Bitcoin's hack containment failed — the attack continued hours after the exchange claimed it was contained, and Chainalysis helped freeze ~$10M in stolen funds.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Title: 'Mercado Bitcoin's Reopening Gamble: Can a Promise to Cover Losses Rebuild Trust?' — cover the phased reopening and what it means for users and the exchange's credibility.",
-        "itsalreadywhen": "Title: 'The Hack Wasn't Over When They Said It Was: What Mercado Bitcoin's Containment Failure Teaches About Incident Response' — dissect the gap between declared containment and actual attacker persistence, tying in Chainalysis's freeze operation as a rare win."
-      },
-      "source": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds"
-    },
-    {
-      "story": "EN World's first impressions of the Dungeons & Dragons x World of Warcraft tabletop crossover, paired with the ongoing WoW Deep Dive race-lore series (Draenei, Dracthyr).",
+      "story": "D&D Beyond's 'Drops' program adds Bariaurs and Ysgard setting content, expanding its live-service model for digital content",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'First Impressions: Is D&D's World of Warcraft Crossover Worth Clearing Your Table's Schedule For?' — a hands-on breakdown of the new ruleset for GMs deciding whether to run it.",
-        "itsalreadywritten": "Title: 'Writing Azeroth at Your Table: What the D&D x WoW Crossover Gets Right (and Wrong) About Adapting Game Lore' — use the Draenei/Dracthyr deep dives to explore how MMO backstory translates (or doesn't) into tabletop narrative design."
+        "bizzal-games": "'D&D Beyond's New Drops Program Is Basically a TTRPG Battle Pass—Here's What Bariaurs Cost You': break down the monetization model, pricing, and what WotC's live-ops strategy means for how players buy content going forward.",
+        "itsalreadywritten": "'Goat-Centaurs of Ysgard: How to Actually Use Bariaurs in Your Campaign': a lore-deep dive into this obscure Planescape/Norse-flavored race and faction, with concrete adventure hooks and NPC seeds for GMs who've never touched Ysgard."
       },
-      "source": "https://www.enworld.org/threads/dungeons-dragons-world-of-warcraft-first-impressions.721193/"
+      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
+    },
+    {
+      "story": "Mongoose Publishing reprints the original 1977 Traveller box set for its 50th anniversary",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Traveller Turns 50: Mongoose Bets Nostalgia Sells—Inside the Anniversary Reprint': cover pricing, print specs, collector demand, and what reviving a 50-year-old box set says about the current TTRPG retro boom.",
+        "itsalreadywritten": "'Before Session Zero Existed: What Traveller's Lifepath Chargen Taught Every RPG Writer After It': trace how Traveller's randomized lifepath character creation invented a narrative design pattern still used in modern TTRPGs."
+      },
+      "source": "https://www.enworld.org/threads/mongoose-is-reprinting-the-first-ever-traveller-box-set-for-its-50th-anniversary.721258/"
+    },
+    {
+      "story": "Fallout from the Binance hack: DPRK's fake-interview social engineering playbook, Fed/OCC bank checks, and crypto market liquidations",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Binance Hack Wipes Out Post-Election Gains: Is This a Buying Dip or the Start of a Trust Crisis?': tie the $1B+ liquidation wave, ETF outflows, and Fed/OCC bank scrutiny into a single market-impact explainer for traders.",
+        "itsalreadywhen": "'DPRK Hackers Rehearsed This Exact Interview Scam Dozens of Times Before Hitting Binance': use Chainalysis's research to profile North Korea's fake-job-interview infiltration tactic as a reusable corporate threat playbook, not just a crypto problem."
+      },
+      "source": "https://www.chainalysis.com/blog/binance-hack-dprk-employment-fraud/"
+    },
+    {
+      "story": "Chainalysis itself gets breached—password hashes and live law-enforcement crypto-tracking tokens exposed",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'The Crypto Police's Toolkit Just Got Hacked: What a Chainalysis Breach Means for On-Chain Investigations': explain how compromised tracker tokens could undermine ongoing exchange hack probes and asset-recovery efforts.",
+        "itsalreadywhen": "'When the Threat Hunters Get Hunted: Chainalysis Breach Exposes Live Law Enforcement Tokens': a supply-chain-risk piece on what happens when a forensics vendor trusted by governments leaks active credentials."
+      },
+      "source": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed"
     }
   ]
 }

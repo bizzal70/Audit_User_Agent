@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-05T11:05:45+00:00",
+  "generated": "2026-11-06T11:05:24+00:00",
   "opportunities": [
     {
-      "title": "Dracula's Dominate: Why RAW Vampire Charm Breaks Your Horror Campaign",
-      "why_now": "Paizo just added Dracula, Frankenstein, and The Wicker Man to 13 Omens, putting classic horror monsters back in the spotlight.",
-      "angle": "60-sec ruling: walk through the 5e vampire's Charm vs a PC's save bonuses and why most GMs houserule the duration",
-      "source": "https://www.enworld.org/threads/paizo-adds-new-vintage-horror-movies-to-13-omens-featuring-dracula-frankenstein-and-the-wicker-man.721220/"
+      "title": "Bariaurs Just Hit D&D Beyond: The Headbutt Ruling Nobody's Running Right",
+      "why_now": "New official race/content drop gives an immediate, searchable stat-block ruling to cover before the wave of 'what is a bariaur' searches dies down.",
+      "angle": "60-sec rules ruling — goat-legged PC race's charge attack interaction with Shove and opportunity attacks, with a quick GM verdict",
+      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
     },
     {
-      "title": "Stitching Frankenstein's Monster: Building a 5e Stat Block That Doesn't Suck",
-      "why_now": "Same 13 Omens drop puts Frankenstein's Monster in the conversation, and 5e has no good flesh-golem equivalent at low CR.",
-      "angle": "Creature tactic short: homebrew CR 5 flesh construct with a weakness-to-fire gimmick, shown in play",
-      "source": "https://www.enworld.org/threads/paizo-adds-new-vintage-horror-movies-to-13-omens-featuring-dracula-frankenstein-and-the-wicker-man.721220/"
+      "title": "Ysgard's Petrification Hazard Is a Save-or-Die Trap in Disguise — Here's the Fix",
+      "why_now": "Fresh Ysgard planar content on D&D Beyond means players are about to walk into this hazard with zero warning.",
+      "angle": "Creature/hazard tactic short — read the actual trap text, flag the RAW problem, give a table-ready houserule",
+      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
     },
     {
-      "title": "D&D x WoW First Impressions: Can You Reskin a Draenei as a Reborn Stat Block?",
-      "why_now": "The official D&D: World of Warcraft crossover book just got first-impressions coverage and fans are asking how races translate to 5e math.",
-      "angle": "Mechanical teardown: take the Draenei deep dive and show the exact racial traits a GM should port to a Reborn or Aasimar reskin",
+      "title": "D&D x WoW's Draenei Stat Block: I Ran the Numbers So You Don't Have To",
+      "why_now": "First Impressions piece just dropped on the crossover product and GMs are already asking if it's balanced for home tables.",
+      "angle": "Mechanical breakdown — compare Draenei traits to closest PHB race, call out the one busted combo",
       "source": "https://www.enworld.org/threads/dungeons-dragons-world-of-warcraft-first-impressions.721193/"
     },
     {
-      "title": "\"A Good Offense\" Is a Myth: The Action Economy Math Nobody Runs",
-      "why_now": "EN World's RPG Evolution column just dropped an op-ed on offensive play that's getting debated in the comments.",
-      "angle": "Dry ruling short: break down Action Surge + Readied Action stacking vs a single big nova turn, with the actual DPR numbers",
-      "source": "https://www.enworld.org/threads/rpg-evolution-a-good-offense.721200/"
+      "title": "Myth Drannor's Baelnorn Lich Is a Better Boss Fight Than Anything in the MM",
+      "why_now": "Pool of Radiance: Ruins of Myth Drannor just launched on Steam/GOG, reviving interest in the setting's signature undead.",
+      "angle": "Creature tactic short — port the CRPG's lich gimmick into a 5e/Shadowdark stat block with one legendary action swap",
+      "source": "https://www.rpgsite.net/news/21698-pool-radiance-ruins-myth-drannor-now-available-on-steam-gog"
     },
     {
-      "title": "When the Dice Lie: Overruling RAW for 'What the Story Wants'",
-      "why_now": "Gnomecast's new episode on narrative-driven GMing is fresh and gives a clean foil for a rules-first GM take.",
-      "angle": "Veteran GM rebuttal format: three concrete scenarios (death save fudge, lockpick failure, social check) where RAW beats narrative override, and one where it doesn't",
-      "source": "https://gnomestew.com/gnomecast-249-what-the-story-wants/"
+      "title": "Running Dracula as a 5e Vampire: The Charm Ruling That Ruins Horror Oneshots",
+      "why_now": "Paizo's 13 Omens just added classic horror-movie Dracula/Frankenstein/Wicker Man scenarios, a ready hook for a horror-session rules fix.",
+      "angle": "Rules ruling short — Charm Person vs. Vampiric Charm interaction, with the correct RAW resolution for horror one-shots",
+      "source": "https://www.enworld.org/threads/paizo-adds-new-vintage-horror-movies-to-13-omens-featuring-dracula-frankenstein-and-the-wicker-man.721220/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-05T11:05:45+00:00",
+  "generated": "2026-11-06T11:05:24+00:00",
   "opportunities": [
     {
-      "title": "The Patch That Didn't Patch: Zyxel's GS1900 'Fix' Still Lets Attackers Root Your Switch",
-      "why_now": "Two outlets confirm the same CVE patch failed to block active zero-day exploitation, a patch-cadence nightmare worth flagging now.",
-      "angle": "Technical breakdown comparing the original advisory vs. what's actually exploitable post-patch, with a 'what to do instead' mitigation list",
+      "title": "The Password So Long It Became Root: OpenSSH's Emergency Patch for the musl Overflow Bug",
+      "why_now": "A trivially simple attack—just sending an absurdly long password—grants root on musl-based Linux systems, and OpenSSH just rushed out an emergency fix for Alpine Linux.",
+      "angle": "CVE breakdown with PoC walkthrough; patch-cadence checklist for anyone running Alpine/musl in containers",
+      "source": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"
+    },
+    {
+      "title": "The Crypto Cops Got Robbed: Chainalysis Breach Exposes Every User's Credentials",
+      "why_now": "The firm law enforcement relies on to trace stolen crypto just had its own user database and law enforcement access tokens compromised, forcing a shutdown.",
+      "angle": "Irony-driven breach postmortem: what happens when the blockchain's watchdog becomes the target",
+      "source": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852"
+    },
+    {
+      "title": "OpenAI's Research Bot Found 948 Ways to Root Linux in 30 Hours — Welcome to Automated Zero-Day Season",
+      "why_now": "An AI pipeline autonomously generated nearly a thousand working Linux kernel root-escalation exploits in a single 30-hour run, a scale no human red team can match.",
+      "angle": "Explainer on what mass AI-exploit-generation means for patch cadence and defender triage priorities",
+      "source": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/"
+    },
+    {
+      "title": "Patched? Not So Fast — Zyxel Switch Hacks Were Actually a Zero-Day All Along",
+      "why_now": "Admins who thought they were protected by an existing patch just learned the real culprit was an unpatched zero-day, exposing a dangerous attribution gap in incident response.",
+      "angle": "Patch-cadence cautionary tale: how misattributing a breach to a 'known, fixed' CVE delays real remediation",
       "source": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/"
     },
     {
-      "title": "One Fake Job Interview, $6.3 Billion Gone: Inside North Korea's Binance Heist",
-      "why_now": "Fresh reporting ties the largest crypto heist in history to a single social-engineering vector via a bogus job interview.",
-      "angle": "Breach post-mortem/timeline piece framed as an inevitable-breach case study on social engineering beating technical controls",
-      "source": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
-    },
-    {
-      "title": "OpenAI's Exploit Factory: 948 Linux Root Escalation Bugs in 30 Hours",
-      "why_now": "A frontier AI model autonomously generating nearly a thousand working root exploits in a day is a watershed moment for offensive AI tooling.",
-      "angle": "Explainer on what this means for patch velocity and defender timelines, tying in Schneier's AI-vulnerability-finding analysis for context",
-      "source": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
-    },
-    {
-      "title": "APT Got Owned: The Debian/Ubuntu Package Manager MitM Flaw You Need to Patch Today",
-      "why_now": "A core trust mechanism (package signature verification) is broken on two of the most widely deployed Linux distros, demanding immediate patch action.",
-      "angle": "Straight CVE alert format: what's broken, who's affected, patch status, and why MitM on APT is uniquely dangerous for supply chains",
-      "source": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"
-    },
-    {
-      "title": "The AI Stack Is Bleeding Secrets: WorkOS, Northflank, and Trigger.dev All Just Got Hacked",
-      "why_now": "Three AI-infrastructure vendors disclosing breaches in the same week signals a pattern worth naming before the next one drops.",
-      "angle": "Roundup/trend piece connecting the Trigger.dev env-var theft, LLMjacking, and token-theft stories into one 'AI supply chain is the new soft underbelly' thesis",
-      "source": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/"
+      "title": "Root Without a Login: The Barracuda Email Gateway Chain Nobody Patched in Time",
+      "why_now": "Researchers just demonstrated a full exploit chain on Barracuda's Email Security Gateway that grants root access with zero authentication, a nightmare for any org still running it unpatched.",
+      "angle": "Technical breakdown of the chain plus a blunt 'patch now' call-to-action for admins",
+      "source": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html"
     }
   ]
 }
