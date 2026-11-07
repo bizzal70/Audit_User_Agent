@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-06T11:05:24+00:00",
+  "generated": "2026-11-07T11:04:47+00:00",
   "opportunities": [
     {
-      "title": "Bariaurs Just Hit D&D Beyond: The Headbutt Ruling Nobody's Running Right",
-      "why_now": "New official race/content drop gives an immediate, searchable stat-block ruling to cover before the wave of 'what is a bariaur' searches dies down.",
-      "angle": "60-sec rules ruling — goat-legged PC race's charge attack interaction with Shove and opportunity attacks, with a quick GM verdict",
+      "title": "Bariaurs Are Back: Why a Goat-Centaur With No Spellcasting Still Wrecks Your Low-Level Party",
+      "why_now": "D&D Beyond just dropped Bariaurs and Ysgard content, giving you a fresh, searchable creature everyone's statblock-curious about this week.",
+      "angle": "60-sec creature tactic: ambush charge math, terrain use on Ysgard's floating disc, and the one save DM's forget to roll",
       "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
     },
     {
-      "title": "Ysgard's Petrification Hazard Is a Save-or-Die Trap in Disguise — Here's the Fix",
-      "why_now": "Fresh Ysgard planar content on D&D Beyond means players are about to walk into this hazard with zero warning.",
-      "angle": "Creature/hazard tactic short — read the actual trap text, flag the RAW problem, give a table-ready houserule",
-      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
+      "title": "The D&D Comic Gave Us an Avengers Lineup of NPCs — Here's Their Actual Stat Blocks",
+      "why_now": "EN World's review of D&D #1 is fresh and fans are already asking what these characters would be at the table.",
+      "angle": "Rapid-fire 'convert the comic cast' short: pick 3 NPCs, assign CR and one signature action each, dry commentary on power creep",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-1-review-an-avengers-lineup-of-d-d-npcs.721280/"
     },
     {
-      "title": "D&D x WoW's Draenei Stat Block: I Ran the Numbers So You Don't Have To",
-      "why_now": "First Impressions piece just dropped on the crossover product and GMs are already asking if it's balanced for home tables.",
-      "angle": "Mechanical breakdown — compare Draenei traits to closest PHB race, call out the one busted combo",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-world-of-warcraft-first-impressions.721193/"
+      "title": "Your Plot Twist Isn't What the Story Wants — It's What You Want",
+      "why_now": "Gnomecast's new episode on narrative instinct is a perfect jumping-off point for a GM-ruling-style short on when to overrule your own prep.",
+      "angle": "Talking-head ruling bit: one concrete scenario (players ignore the hook) and the two options a GM actually has, delivered deadpan",
+      "source": "https://gnomestew.com/gnomecast-249-what-the-story-wants/"
     },
     {
-      "title": "Myth Drannor's Baelnorn Lich Is a Better Boss Fight Than Anything in the MM",
-      "why_now": "Pool of Radiance: Ruins of Myth Drannor just launched on Steam/GOG, reviving interest in the setting's signature undead.",
-      "angle": "Creature tactic short — port the CRPG's lich gimmick into a 5e/Shadowdark stat block with one legendary action swap",
-      "source": "https://www.rpgsite.net/news/21698-pool-radiance-ruins-myth-drannor-now-available-on-steam-gog"
+      "title": "Ben 10 Is Getting a TTRPG — Here's How I'd Reskin Four Aliens as 5e Monsters Tonight",
+      "why_now": "The Ben 10 TTRPG announcement is brand new and licensed-property crossovers are high-interest, easy-share content.",
+      "angle": "Quick stat-conversion list format: Four Arms as a barbarian template, XLR8 as a haste-variant monster, etc., with a wry aside on licensing power levels",
+      "source": "https://www.enworld.org/threads/ben-10-is-getting-an-ttrpg.721250/"
     },
     {
-      "title": "Running Dracula as a 5e Vampire: The Charm Ruling That Ruins Horror Oneshots",
-      "why_now": "Paizo's 13 Omens just added classic horror-movie Dracula/Frankenstein/Wicker Man scenarios, a ready hook for a horror-session rules fix.",
-      "angle": "Rules ruling short — Charm Person vs. Vampiric Charm interaction, with the correct RAW resolution for horror one-shots",
-      "source": "https://www.enworld.org/threads/paizo-adds-new-vintage-horror-movies-to-13-omens-featuring-dracula-frankenstein-and-the-wicker-man.721220/"
+      "title": "Traveller's First Box Set Turns 50 — The Lifepath Rule 5e Still Hasn't Stolen (But Should)",
+      "why_now": "Mongoose's 50th-anniversary reprint announcement is a timely hook to pull a mechanic across systems for the daily ruling format.",
+      "angle": "Mechanical comparison short: explain classic Traveller character-gen lifepath, then propose a one-session 5e/Shadowdark hack for session-zero backstory rolls",
+      "source": "https://www.enworld.org/threads/mongoose-is-reprinting-the-first-ever-traveller-box-set-for-its-50th-anniversary.721258/"
     }
   ]
 }

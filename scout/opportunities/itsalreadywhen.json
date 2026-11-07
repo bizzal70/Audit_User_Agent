@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-06T11:05:24+00:00",
+  "generated": "2026-11-07T11:04:47+00:00",
   "opportunities": [
     {
-      "title": "The Password So Long It Became Root: OpenSSH's Emergency Patch for the musl Overflow Bug",
-      "why_now": "A trivially simple attack—just sending an absurdly long password—grants root on musl-based Linux systems, and OpenSSH just rushed out an emergency fix for Alpine Linux.",
-      "angle": "CVE breakdown with PoC walkthrough; patch-cadence checklist for anyone running Alpine/musl in containers",
-      "source": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"
+      "title": "SSHole: The OpenSSH Bug That Went From Patch to Pwned in Under a Day",
+      "why_now": "OpenSSH rushed patches for the 'SSHole' auth bypass and attackers already gained root on a honeypot within hours of disclosure.",
+      "angle": "Patch-cadence timeline piece — publish the clock from CVE disclosure to active exploitation and what it means for your SSH deployment window",
+      "source": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
     },
     {
-      "title": "The Crypto Cops Got Robbed: Chainalysis Breach Exposes Every User's Credentials",
-      "why_now": "The firm law enforcement relies on to trace stolen crypto just had its own user database and law enforcement access tokens compromised, forcing a shutdown.",
-      "angle": "Irony-driven breach postmortem: what happens when the blockchain's watchdog becomes the target",
-      "source": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852"
+      "title": "DigiCert Sat on a Security Hole for 16 Months — Here's What That Means for Every Cert You Trust",
+      "why_now": "DigiCert just admitted a 16-month lapse exposed customer data, a brutal timeline for a company whose entire business is trust infrastructure.",
+      "angle": "Breach-anatomy breakdown: build a timeline graphic of the 16-month gap and ask what else sat unnoticed that long in the CA ecosystem",
+      "source": "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097"
     },
     {
-      "title": "OpenAI's Research Bot Found 948 Ways to Root Linux in 30 Hours — Welcome to Automated Zero-Day Season",
-      "why_now": "An AI pipeline autonomously generated nearly a thousand working Linux kernel root-escalation exploits in a single 30-hour run, a scale no human red team can match.",
-      "angle": "Explainer on what mass AI-exploit-generation means for patch cadence and defender triage priorities",
-      "source": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/"
+      "title": "The Crypto Tracker That Got Tracked: Chainalysis Breach Exposes Every User's Credentials",
+      "why_now": "Chainalysis — the firm law enforcement relies on to trace crypto crime — just had its own credentials breached, forcing a shutdown of key services.",
+      "angle": "Irony-driven breach digest entry: 'who watches the watchmen' framing with implications for ongoing law-enforcement investigations that relied on the platform",
+      "source": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html"
     },
     {
-      "title": "Patched? Not So Fast — Zyxel Switch Hacks Were Actually a Zero-Day All Along",
-      "why_now": "Admins who thought they were protected by an existing patch just learned the real culprit was an unpatched zero-day, exposing a dangerous attribution gap in incident response.",
-      "angle": "Patch-cadence cautionary tale: how misattributing a breach to a 'known, fixed' CVE delays real remediation",
-      "source": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/"
+      "title": "SonicWall's VPN Login Bug Is Already Being Exploited — Patch SonicOS Now",
+      "why_now": "SonicWall shipped a patch for an actively-exploited SonicOS flaw that weakens VPN logins, a classic zero-day-to-patch race for edge appliances.",
+      "angle": "Urgent patch-now advisory format with CVE details, affected versions, and exploitation evidence to drive immediate action",
+      "source": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
     },
     {
-      "title": "Root Without a Login: The Barracuda Email Gateway Chain Nobody Patched in Time",
-      "why_now": "Researchers just demonstrated a full exploit chain on Barracuda's Email Security Gateway that grants root access with zero authentication, a nightmare for any org still running it unpatched.",
-      "angle": "Technical breakdown of the chain plus a blunt 'patch now' call-to-action for admins",
-      "source": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html"
+      "title": "Root Access via Really Long Password: The musl Linux Bug That Breaks Auth With Brute Length",
+      "why_now": "A newly disclosed musl libc flaw lets attackers get root simply by slamming the system with an overly long password string, a bizarrely simple privilege-escalation path.",
+      "angle": "Technical deep-dive/explainer on the bug mechanics plus a quick checklist for which distros/services ship musl and need patching",
+      "source": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
     }
   ]
 }

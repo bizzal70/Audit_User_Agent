@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-06T11:05:24+00:00",
+  "generated": "2026-11-07T11:04:47+00:00",
   "plays": [
     {
-      "story": "D&D Beyond's 'Drops' program adds Bariaurs and Ysgard setting content, expanding its live-service model for digital content",
+      "story": "Binance's $6.3B exploit traced to an 8-week undetected intrusion window",
       "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
+        "itsalreadypriced",
+        "itsalreadywhen"
       ],
       "angles": {
-        "bizzal-games": "'D&D Beyond's New Drops Program Is Basically a TTRPG Battle Pass—Here's What Bariaurs Cost You': break down the monetization model, pricing, and what WotC's live-ops strategy means for how players buy content going forward.",
-        "itsalreadywritten": "'Goat-Centaurs of Ysgard: How to Actually Use Bariaurs in Your Campaign': a lore-deep dive into this obscure Planescape/Norse-flavored race and faction, with concrete adventure hooks and NPC seeds for GMs who've never touched Ysgard."
+        "itsalreadypriced": "'8 Weeks, $6.3 Billion: What Binance's Dwell Time Means for Where You Keep Your Coins' — tie the SEAL findings to the broader cold-storage-ratio trend other exchanges are now touting defensively.",
+        "itsalreadywhen": "'Inside an 8-Week Breach: The Binance Timeline Security Teams Are Now Studying Frame by Frame' — forensic play-by-play of how the intrusion escaped detection for two months."
       },
-      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
+      "source": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance"
     },
     {
-      "story": "Mongoose Publishing reprints the original 1977 Traveller box set for its 50th anniversary",
+      "story": "Gnosis Pay breach exposes card, personal, and wallet data via a legacy system",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Your Crypto Debit Card Just Got Hacked (Sort Of): What the Gnosis Pay Breach Means for On-Ramp Users' — explain the funds-safe-but-data-exposed distinction for everyday crypto spenders.",
+        "itsalreadywhen": "'The Legacy System Nobody Decommissioned: How Gnosis Pay's Old Debit Rail Became the Breach Vector' — a case study in why sunset systems keep causing modern incidents."
+      },
+      "source": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information"
+    },
+    {
+      "story": "Ben 10 is officially getting a tabletop RPG adaptation",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Traveller Turns 50: Mongoose Bets Nostalgia Sells—Inside the Anniversary Reprint': cover pricing, print specs, collector demand, and what reviving a 50-year-old box set says about the current TTRPG retro boom.",
-        "itsalreadywritten": "'Before Session Zero Existed: What Traveller's Lifepath Chargen Taught Every RPG Writer After It': trace how Traveller's randomized lifepath character creation invented a narrative design pattern still used in modern TTRPGs."
+        "bizzal-games": "'Ben 10 Is Getting a TTRPG — Here's the Omnitrix Mechanic We're Begging Designers to Nail' — speculative deep-dive on transformation-based class design.",
+        "itsalreadywritten": "'From Saturday Morning Canon to Character Sheet: What Ben 10's TTRPG Needs to Borrow from 25 Years of Alien Lore' — mining the source material for adaptation fidelity."
+      },
+      "source": "https://www.enworld.org/threads/ben-10-is-getting-an-ttrpg.721250/"
+    },
+    {
+      "story": "Mongoose reprints the original 1977 Traveller box set for its 50th anniversary",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Traveller Turns 50: Why Mongoose's Reprint of the Original Box Is a Masterclass in Sci-Fi Sandbox Design' — practical table-use angle for new GMs picking it up.",
+        "itsalreadywritten": "'The Box Set That Wrote the Sci-Fi TTRPG Rulebook: Traveller's 50th Anniversary Reprint, Annotated' — historical/lore angle on how the original text shaped the genre."
       },
       "source": "https://www.enworld.org/threads/mongoose-is-reprinting-the-first-ever-traveller-box-set-for-its-50th-anniversary.721258/"
-    },
-    {
-      "story": "Fallout from the Binance hack: DPRK's fake-interview social engineering playbook, Fed/OCC bank checks, and crypto market liquidations",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'Binance Hack Wipes Out Post-Election Gains: Is This a Buying Dip or the Start of a Trust Crisis?': tie the $1B+ liquidation wave, ETF outflows, and Fed/OCC bank scrutiny into a single market-impact explainer for traders.",
-        "itsalreadywhen": "'DPRK Hackers Rehearsed This Exact Interview Scam Dozens of Times Before Hitting Binance': use Chainalysis's research to profile North Korea's fake-job-interview infiltration tactic as a reusable corporate threat playbook, not just a crypto problem."
-      },
-      "source": "https://www.chainalysis.com/blog/binance-hack-dprk-employment-fraud/"
-    },
-    {
-      "story": "Chainalysis itself gets breached—password hashes and live law-enforcement crypto-tracking tokens exposed",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "'The Crypto Police's Toolkit Just Got Hacked: What a Chainalysis Breach Means for On-Chain Investigations': explain how compromised tracker tokens could undermine ongoing exchange hack probes and asset-recovery efforts.",
-        "itsalreadywhen": "'When the Threat Hunters Get Hunted: Chainalysis Breach Exposes Live Law Enforcement Tokens': a supply-chain-risk piece on what happens when a forensics vendor trusted by governments leaks active credentials."
-      },
-      "source": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed"
     }
   ]
 }
