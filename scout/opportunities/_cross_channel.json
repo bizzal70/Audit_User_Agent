@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-07T11:04:47+00:00",
+  "generated": "2026-11-08T11:04:55+00:00",
   "plays": [
     {
-      "story": "Binance's $6.3B exploit traced to an 8-week undetected intrusion window",
+      "story": "Binance's record $6.3B hack fallout: CFO Kaiser Ng's abrupt exit lands nine days after SEAL researchers reveal hackers had an 8-week undetected intrusion window",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'8 Weeks, $6.3 Billion: What Binance's Dwell Time Means for Where You Keep Your Coins' — tie the SEAL findings to the broader cold-storage-ratio trend other exchanges are now touting defensively.",
-        "itsalreadywhen": "'Inside an 8-Week Breach: The Binance Timeline Security Teams Are Now Studying Frame by Frame' — forensic play-by-play of how the intrusion escaped detection for two months."
+        "itsalreadypriced": "'Binance CFO Out, $124M in Stolen Tokens Already Laundered to BTC: What the Exit Timing Really Signals for Exchange Risk' — tie the 'planned 6 months ago' line against the hack timeline and dig into whether cold-storage-ratio PR pushes from rivals are credible or just damage control.",
+        "itsalreadywhen": "'8 Weeks Inside Binance: Anatomy of the Intrusion Nobody Caught' — reconstruct the attacker dwell time using SEAL's findings as a case study in why 'time to detect' still beats 'time to patch' as the metric that matters."
       },
-      "source": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance"
+      "source": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992"
     },
     {
-      "story": "Gnosis Pay breach exposes card, personal, and wallet data via a legacy system",
+      "story": "Gnosis Pay breach exposes card numbers, home addresses, and linked crypto wallet data via a legacy debit-card system",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Your Crypto Debit Card Just Got Hacked (Sort Of): What the Gnosis Pay Breach Means for On-Ramp Users' — explain the funds-safe-but-data-exposed distinction for everyday crypto spenders.",
-        "itsalreadywhen": "'The Legacy System Nobody Decommissioned: How Gnosis Pay's Old Debit Rail Became the Breach Vector' — a case study in why sunset systems keep causing modern incidents."
+        "itsalreadypriced": "'Your Crypto Debit Card Just Became a Doxxing Tool' — explain to crypto-card users exactly what leaked (card numbers + home address + wallet linkage) and why that combo is uniquely dangerous for on-chain privacy, not just fraud.",
+        "itsalreadywhen": "'The Legacy System Nobody Decommissioned: How Gnosis Pay's Old Debit Rail Became the Breach Vector' — classic case study on zombie infrastructure sitting behind a modern fintech, useful for any IT team doing system-retirement audits."
       },
       "source": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information"
     },
     {
-      "story": "Ben 10 is officially getting a tabletop RPG adaptation",
+      "story": "Dungeons & Kittens is getting a TV series adaptation",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Ben 10 Is Getting a TTRPG — Here's the Omnitrix Mechanic We're Begging Designers to Nail' — speculative deep-dive on transformation-based class design.",
-        "itsalreadywritten": "'From Saturday Morning Canon to Character Sheet: What Ben 10's TTRPG Needs to Borrow from 25 Years of Alien Lore' — mining the source material for adaptation fidelity."
+        "bizzal-games": "'Dungeons & Kittens Is Getting a Show — Here's How to Run It at Your Table First' — a quick-start hack/one-shot framework so GMs can play the source material before the series airs and ride the hype wave.",
+        "itsalreadywritten": "'From Dice to Screen: What Dungeons & Kittens Has to Get Right in the Jump to TV' — a craft piece on adapting tabletop whimsy/tone for episodic storytelling, using past TTRPG-to-screen adaptations as cautionary/success tales."
       },
-      "source": "https://www.enworld.org/threads/ben-10-is-getting-an-ttrpg.721250/"
+      "source": "https://www.enworld.org/threads/dungeons-kittens-is-getting-a-tv-series.721293/"
     },
     {
-      "story": "Mongoose reprints the original 1977 Traveller box set for its 50th anniversary",
+      "story": "D&D Beyond's Drops program adds Bariaurs and Ysgard planar content",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Traveller Turns 50: Why Mongoose's Reprint of the Original Box Is a Masterclass in Sci-Fi Sandbox Design' — practical table-use angle for new GMs picking it up.",
-        "itsalreadywritten": "'The Box Set That Wrote the Sci-Fi TTRPG Rulebook: Traveller's 50th Anniversary Reprint, Annotated' — historical/lore angle on how the original text shaped the genre."
+        "bizzal-games": "'New Bariaur Stat Block Breakdown: Is the Drops Program Making Splatbook Purchases Obsolete?' — a mechanics-first review of the new race options and what the drip-feed content model means for players' wallets vs. physical books.",
+        "itsalreadywritten": "'Ysgard Is D&D's Most Underused Setting — Here's Why the New Drop Should Send You There Next' — a lore-and-worldbuilding pitch for GMs on planar storytelling, framing Ysgard's Viking-afterlife aesthetic as an untapped campaign setting."
       },
-      "source": "https://www.enworld.org/threads/mongoose-is-reprinting-the-first-ever-traveller-box-set-for-its-50th-anniversary.721258/"
+      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
     }
   ]
 }

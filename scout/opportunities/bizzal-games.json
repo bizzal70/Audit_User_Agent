@@ -1,34 +1,34 @@
 {
-  "generated": "2026-11-07T11:04:47+00:00",
+  "generated": "2026-11-08T11:04:55+00:00",
   "opportunities": [
     {
-      "title": "Bariaurs Are Back: Why a Goat-Centaur With No Spellcasting Still Wrecks Your Low-Level Party",
-      "why_now": "D&D Beyond just dropped Bariaurs and Ysgard content, giving you a fresh, searchable creature everyone's statblock-curious about this week.",
-      "angle": "60-sec creature tactic: ambush charge math, terrain use on Ysgard's floating disc, and the one save DM's forget to roll",
+      "title": "Ysgard's Reality Trait: Why Falling Doesn't Work the Way You Think",
+      "why_now": "D&D Beyond just shipped Ysgard content via the Drops program, putting planar rules back in players' feeds.",
+      "angle": "60-sec rules ruling: explain the plane's 'anything can be a path' trait and how it rewrites fall damage/movement adjudication at the table.",
       "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
     },
     {
-      "title": "The D&D Comic Gave Us an Avengers Lineup of NPCs — Here's Their Actual Stat Blocks",
-      "why_now": "EN World's review of D&D #1 is fresh and fans are already asking what these characters would be at the table.",
-      "angle": "Rapid-fire 'convert the comic cast' short: pick 3 NPCs, assign CR and one signature action each, dry commentary on power creep",
+      "title": "Statblocking the Bariaur: Charge-Ram Tactics for a Centaur-Goat",
+      "why_now": "Bariaurs dropped on D&D Beyond this week alongside the Ysgard update, a fresh stat block GMs haven't run yet.",
+      "angle": "Creature tactic short: Multiattack + headbutt shove combo, positioning on uneven planar terrain, how to make it a real threat not a joke monster.",
+      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
+    },
+    {
+      "title": "The Avengers Problem: Why Your NPC Party Needs a Weak Link",
+      "why_now": "This week's D&D #1 review calls its NPC cast 'an Avengers lineup,' giving a hook to talk ensemble stat design.",
+      "angle": "GM design-lesson short: how to vary save DCs/roles across an NPC party so fights don't collapse into a single must-counter threat.",
       "source": "https://www.enworld.org/threads/dungeons-dragons-1-review-an-avengers-lineup-of-d-d-npcs.721280/"
     },
     {
-      "title": "Your Plot Twist Isn't What the Story Wants — It's What You Want",
-      "why_now": "Gnomecast's new episode on narrative instinct is a perfect jumping-off point for a GM-ruling-style short on when to overrule your own prep.",
-      "angle": "Talking-head ruling bit: one concrete scenario (players ignore the hook) and the two options a GM actually has, delivered deadpan",
-      "source": "https://gnomestew.com/gnomecast-249-what-the-story-wants/"
+      "title": "Snake Oil That Actually Works: Statting the Cursed Potion Peddler",
+      "why_now": "EN World's viral 'Professor Omega, Purveyor of Patent Medicines' piece is trending right now and begs for a mechanical treatment.",
+      "angle": "Spell/item use-case short: how Identify, Insight, and a fake-potion table interact, plus a ruling for 'does it work once or every time.'",
+      "source": "https://www.enworld.org/threads/meet-professor-omega-purveyor-of-patent-medicines.721288/"
     },
     {
-      "title": "Ben 10 Is Getting a TTRPG — Here's How I'd Reskin Four Aliens as 5e Monsters Tonight",
-      "why_now": "The Ben 10 TTRPG announcement is brand new and licensed-property crossovers are high-interest, easy-share content.",
-      "angle": "Quick stat-conversion list format: Four Arms as a barbarian template, XLR8 as a haste-variant monster, etc., with a wry aside on licensing power levels",
-      "source": "https://www.enworld.org/threads/ben-10-is-getting-an-ttrpg.721250/"
-    },
-    {
-      "title": "Traveller's First Box Set Turns 50 — The Lifepath Rule 5e Still Hasn't Stolen (But Should)",
-      "why_now": "Mongoose's 50th-anniversary reprint announcement is a timely hook to pull a mechanic across systems for the daily ruling format.",
-      "angle": "Mechanical comparison short: explain classic Traveller character-gen lifepath, then propose a one-session 5e/Shadowdark hack for session-zero backstory rolls",
+      "title": "Traveller Turns 50 — And D&D Still Doesn't Have a Real Backstory Generator",
+      "why_now": "Mongoose just announced a 50th-anniversary reprint of the original Traveller box, a nostalgia peg for OSR-adjacent viewers.",
+      "angle": "Cross-system dry take: compare 5e's background feature to Traveller's lifepath chargen and pitch a quick Shadowdark/DCC-style table fix.",
       "source": "https://www.enworld.org/threads/mongoose-is-reprinting-the-first-ever-traveller-box-set-for-its-50th-anniversary.721258/"
     }
   ]
