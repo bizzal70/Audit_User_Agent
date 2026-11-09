@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-08T11:04:55+00:00",
+  "generated": "2026-11-09T11:05:41+00:00",
   "opportunities": [
     {
-      "title": "Ysgard's Reality Trait: Why Falling Doesn't Work the Way You Think",
-      "why_now": "D&D Beyond just shipped Ysgard content via the Drops program, putting planar rules back in players' feeds.",
-      "angle": "60-sec rules ruling: explain the plane's 'anything can be a path' trait and how it rewrites fall damage/movement adjudication at the table.",
-      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
-    },
-    {
-      "title": "Statblocking the Bariaur: Charge-Ram Tactics for a Centaur-Goat",
-      "why_now": "Bariaurs dropped on D&D Beyond this week alongside the Ysgard update, a fresh stat block GMs haven't run yet.",
-      "angle": "Creature tactic short: Multiattack + headbutt shove combo, positioning on uneven planar terrain, how to make it a real threat not a joke monster.",
-      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
-    },
-    {
-      "title": "The Avengers Problem: Why Your NPC Party Needs a Weak Link",
-      "why_now": "This week's D&D #1 review calls its NPC cast 'an Avengers lineup,' giving a hook to talk ensemble stat design.",
-      "angle": "GM design-lesson short: how to vary save DCs/roles across an NPC party so fights don't collapse into a single must-counter threat.",
+      "title": "The D&D Comic's 'Avengers Lineup' of NPCs Would Break Your Action Economy",
+      "why_now": "EN World's Nov 6 review of Dungeons & Dragons #1 highlights a stacked NPC party, prime fodder for a quick teardown of why that many allies at the table grinds combat to a halt",
+      "angle": "Rules-ruling short: show the math on multiple NPC actions per round and the 'one ally rule' fix most tables skip",
       "source": "https://www.enworld.org/threads/dungeons-dragons-1-review-an-avengers-lineup-of-d-d-npcs.721280/"
     },
     {
-      "title": "Snake Oil That Actually Works: Statting the Cursed Potion Peddler",
-      "why_now": "EN World's viral 'Professor Omega, Purveyor of Patent Medicines' piece is trending right now and begs for a mechanical treatment.",
-      "angle": "Spell/item use-case short: how Identify, Insight, and a fake-potion table interact, plus a ruling for 'does it work once or every time.'",
+      "title": "Dungeons & Kittens Got a TV Deal — Here's the Find Familiar Ruling It Would Violate Every Episode",
+      "why_now": "Nov 7 news that Dungeons & Kittens is becoming a TV series gives a built-in hook for a familiar-combat-tactics ruling",
+      "angle": "Creature tactic short: what a familiar legally can't do in combat (no attacks, Help only), riffing on the 'kittens fighting monsters' premise",
+      "source": "https://www.enworld.org/threads/dungeons-kittens-is-getting-a-tv-series.721293/"
+    },
+    {
+      "title": "Professor Omega Sells Patent Medicine — So Does Your Charlatan NPC. Here's the Deception/Insight Ruling.",
+      "why_now": "Nov 7 EN World piece introduces a 'Purveyor of Patent Medicines' character, a direct parallel to fake-potion-peddling NPCs GMs run constantly",
+      "angle": "Spell/item use-case short: adjudicating fake potions of healing sold to PCs — Insight DC, consequences, and when it's just flavor vs. a con",
       "source": "https://www.enworld.org/threads/meet-professor-omega-purveyor-of-patent-medicines.721288/"
     },
     {
-      "title": "Traveller Turns 50 — And D&D Still Doesn't Have a Real Backstory Generator",
-      "why_now": "Mongoose just announced a 50th-anniversary reprint of the original Traveller box, a nostalgia peg for OSR-adjacent viewers.",
-      "angle": "Cross-system dry take: compare 5e's background feature to Traveller's lifepath chargen and pitch a quick Shadowdark/DCC-style table fix.",
-      "source": "https://www.enworld.org/threads/mongoose-is-reprinting-the-first-ever-traveller-box-set-for-its-50th-anniversary.721258/"
+      "title": "Sly Flourish Says Stop Writing for an Audience — Here's the One-Page Prep Ruling That Proves It",
+      "why_now": "Nov 9 Sly Flourish piece 'Write For Yourself' is a direct hit on GM prep habits, a rare non-rules topic worth a dry rebuttal/endorsement from a veteran GM lens",
+      "angle": "Mechanical GM-advice short: the actual prep checklist that replaces narrative journaling — initiative order, 2 hooks, 1 complication, done",
+      "source": "https://slyflourish.com/write_for_yourself.html?rss=1"
+    },
+    {
+      "title": "Podcast 422 Mentioned a Ben 10 RPG — Here's the Actual Polymorph Ruling for 'Turning Into a Monster'",
+      "why_now": "Nov 8 EN World livestream recap name-drops a Ben 10 RPG, a gift of a segue into the most abused transformation spell in 5e",
+      "angle": "Spell use-case short: Polymorph/Wild Shape edge cases — what stats carry over, what doesn't, and why 'I turn into a T-Rex' isn't free action economy",
+      "source": "https://www.enworld.org/threads/podcast-422-livestream-dragonlance-tv-d-d-comics-wow-species-ben-10-rpg.721304/"
     }
   ]
 }

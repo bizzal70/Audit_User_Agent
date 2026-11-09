@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-08T11:04:55+00:00",
+  "generated": "2026-11-09T11:05:41+00:00",
   "opportunities": [
     {
-      "title": "Bariaurs Are Back: What D&D Beyond's New Ysgard Drop Actually Adds to Your Game",
-      "why_now": "D&D Beyond just shipped new planar race and setting content via the Drops program, giving players concrete new rules to parse.",
-      "angle": "Rules breakdown — stat block analysis, what's reprinted vs. new, how Bariaurs slot into 5e/2024 character options",
-      "source": "https://www.enworld.org/threads/d-d-beyond-adds-bariaurs-ysgard-content-via-d-d-beyond-drops-program.721267/"
+      "title": "The Rules Behind the Rumors: What Podcast #422 Actually Confirms About Dragonlance TV and D&D Comics",
+      "why_now": "A single livestream just dropped specifics on four separate D&D-adjacent properties, begging for a sourced breakdown of what's confirmed vs speculative.",
+      "angle": "News breakdown post separating hard facts from fan speculation, with timestamps/quotes",
+      "source": "https://www.enworld.org/threads/podcast-422-livestream-dragonlance-tv-d-d-comics-wow-species-ben-10-rpg.721304/"
     },
     {
-      "title": "The First Traveller Box Set Is Coming Back — Here's What 50 Years of Rules Changed",
-      "why_now": "Mongoose's 50th-anniversary reprint of the original Traveller box set is a direct hook into rules history and lineage.",
-      "angle": "Comparative rules history — original 1977 Traveller mechanics vs. modern Mongoose edition, what got kept/cut",
-      "source": "https://www.enworld.org/threads/mongoose-is-reprinting-the-first-ever-traveller-box-set-for-its-50th-anniversary.721258/"
-    },
-    {
-      "title": "Professor Omega's Patent Medicines: The Rules Behind D&D's Newest Snake-Oil NPC",
-      "why_now": "A newly spotlighted NPC/product offers a concrete item/mechanic to dissect for crunch-focused readers.",
-      "angle": "Mechanics deep-dive — item rules, balance implications, how to drop this NPC into an existing campaign",
-      "source": "https://www.enworld.org/threads/meet-professor-omega-purveyor-of-patent-medicines.721288/"
-    },
-    {
-      "title": "D&D #1's 'Avengers of NPCs' — Which Stat Blocks Are Actually Canon-Legal?",
-      "why_now": "The new comic's ensemble cast of NPCs invites a rules-first check against official 5e/2024 stat blocks and lore.",
-      "angle": "Canon-vs-crunch explainer — cross-reference comic characters with published stat blocks and source material",
+      "title": "Dungeons & Dragons #1: Grading the New Comic's NPCs Against Their Actual Stat Blocks",
+      "why_now": "The issue just released and is being framed as an 'Avengers lineup of NPCs,' inviting a rules-first fact-check of how accurate the depictions are.",
+      "angle": "Comic review paired with canon stat block citations (MM/VGM/MPMM page references)",
       "source": "https://www.enworld.org/threads/dungeons-dragons-1-review-an-avengers-lineup-of-d-d-npcs.721280/"
     },
     {
-      "title": "Dungeons & Kittens Gets a TV Deal: What This Means for D&D's Licensing Rulebook",
-      "why_now": "A new TV adaptation announcement is a timely news peg to explain how D&D IP licensing and brand rules actually work.",
-      "angle": "News explainer — the business/rules side of WotC licensing deals, framed for rules-literate readers",
+      "title": "Dungeons & Kittens Gets a TV Series — Here's the Actual Ruleset It's Based On",
+      "why_now": "The announcement is fresh and most coverage will focus on the show, leaving an opening for the rules-literate angle on the source game.",
+      "angle": "News post that pivots from TV announcement to explaining the tabletop system's actual mechanics",
       "source": "https://www.enworld.org/threads/dungeons-kittens-is-getting-a-tv-series.721293/"
+    },
+    {
+      "title": "Professor Omega, Purveyor of Patent Medicines: A New NPC Worth Stealing (With Stat Block Breakdown)",
+      "why_now": "A newly revealed NPC is a perfect candidate for the channel's knowing, rules-first treatment while it's still fresh news.",
+      "angle": "NPC spotlight with mechanical analysis and suggested CR/use-in-play notes",
+      "source": "https://www.enworld.org/threads/meet-professor-omega-purveyor-of-patent-medicines.721288/"
+    },
+    {
+      "title": "Sly Flourish Says 'Write For Yourself' — Here's What the Rules Actually Require You to Write Down",
+      "why_now": "A widely-read GM advice piece just dropped that intersects directly with rules-first prep philosophy, ripe for a response/rebuttal angle.",
+      "angle": "Response essay grounding the advice piece in specific rule requirements (what prep is optional vs rules-mandated)",
+      "source": "https://slyflourish.com/write_for_yourself.html?rss=1"
     }
   ]
 }

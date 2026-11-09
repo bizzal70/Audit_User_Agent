@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-08T11:04:55+00:00",
+  "generated": "2026-11-09T11:05:41+00:00",
   "opportunities": [
     {
-      "title": "Eight Weeks. That's How Long Binance's Hackers Sat Inside Before Taking $6.3B",
-      "why_now": "SEAL's forensic timeline just confirmed the breach wasn't a flash exploit but a two-month dwell — the kind of detail that validates every 'it's not if, it's when' argument.",
-      "angle": "Technical breakdown of the intrusion timeline with a pointed 'what this means for your due diligence on CEX custody' close",
+      "title": "Binance Knew for 8 Weeks: Inside the Intrusion Window Before the $6.3B Exploit",
+      "why_now": "SEAL's new timeline shows attackers had two months of access before the largest exchange hack in history was even detected.",
+      "angle": "Security post-mortem breaking down the kill chain — detection gaps, lateral movement, and why '8 weeks' is the real headline, not the $6.3B",
       "source": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance"
     },
     {
-      "title": "Binance's CFO Quit Nine Days After a Record Hack — 'Planned Six Months Ago,' They Say",
-      "why_now": "The timing is too clean to ignore and the market is already asking the question out loud.",
-      "angle": "Skeptical short-form X thread + blog post timeline comparing exec departure dates to breach disclosure, no accusations, just dates",
-      "source": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992"
+      "title": "The Good Guys Got There First: How Web3Auth Beat Hackers to $5.6M in Exposed Keplr Wallets",
+      "why_now": "A rare white-hat race-against-the-clock story just played out in real time against an active exploit.",
+      "angle": "Play-by-play timeline piece on the front-run rescue, with a 'this is what good incident response looks like' framing for X thread",
+      "source": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029"
     },
     {
-      "title": "The Blockchain Analytics Firm Got Hacked: Chainalysis Leaks Password Hashes and Live Tokens",
-      "why_now": "The company paid to track criminals just became the incident — maximum irony, maximum relevance to a security-literate audience.",
-      "angle": "Irony-driven breakdown: what 'live tokens' exposure actually means for anyone who used Chainalysis-integrated tools, plus a checklist for rotating credentials",
-      "source": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Solana Is Deleting the Feature That Caused the $270M Drift Hack — Why Wasn't It Gone Already?",
+      "why_now": "A live governance proposal to rip out the exact transaction type exploited months ago is a direct test of whether chains actually learn from hacks.",
+      "angle": "Explainer + skepticism: what the feature does, why it took this long, and what it says about Solana's threat-modeling culture",
+      "source": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack"
     },
     {
-      "title": "An Ex-FBI Agent Stole $2.47M From Wallets Tied to His Own Investigations",
-      "why_now": "Guilty plea just landed and it's the perfect 'trust no one, not even the badge' story for a security-first audience.",
-      "angle": "Short punchy post on insider threat as the real attack surface — law enforcement custody of seized crypto has zero public audit trail",
+      "title": "Your Crypto Debit Card Just Leaked Your Real Name, Address, and Wallet — Gnosis Pay Breach, Explained",
+      "why_now": "The breach ties on-chain wallets directly to real-world identity and card data, which is the exact failure mode security people warned about with crypto cards.",
+      "angle": "Consumer-facing explainer on what data was exposed and concrete steps (card freeze, wallet rotation) for anyone holding a Gnosis Pay card",
+      "source": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information"
+    },
+    {
+      "title": "The Fox Guarding the Henhouse: Ex-FBI Agent Pleads Guilty to Stealing $2.47M From His Own Investigations",
+      "why_now": "A federal agent used access to 35 active crypto-crime cases to loot evidence wallets — a case study in insider threat nobody wants to talk about.",
+      "angle": "Short, punchy X thread on insider-threat lessons for custodians and law enforcement partnerships, with the 'who watches the watchmen' hook",
       "source": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988"
-    },
-    {
-      "title": "Every Exchange Is Suddenly Bragging About Its Cold Storage Ratio. Ask Why They Weren't Before.",
-      "why_now": "Exchanges are reactively marketing cold-storage percentages in the wake of Binance, a direct opening to explain why self-custody made this a non-event for some users.",
-      "angle": "Explainer + self-custody pitch: translate 'cold storage ratio' into what it actually protects against, and what it doesn't",
-      "source": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }
