@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-09T11:05:41+00:00",
+  "generated": "2026-11-10T11:05:14+00:00",
   "opportunities": [
     {
-      "title": "The D&D Comic's 'Avengers Lineup' of NPCs Would Break Your Action Economy",
-      "why_now": "EN World's Nov 6 review of Dungeons & Dragons #1 highlights a stacked NPC party, prime fodder for a quick teardown of why that many allies at the table grinds combat to a halt",
-      "angle": "Rules-ruling short: show the math on multiple NPC actions per round and the 'one ally rule' fix most tables skip",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-1-review-an-avengers-lineup-of-d-d-npcs.721280/"
+      "title": "Grapple-and-Drain: Running a Vampire Spawn Like VtM's New Blood-Bond Rules",
+      "why_now": "VtM's new alpha playtest is trending in RPG news circles right now, giving a built-in hook for a vampire creature-tactics short.",
+      "angle": "60-sec creature tactic breakdown: Vampire Spawn stat block, grapple+bite action economy, when to use Charm vs. brute force",
+      "source": "https://www.enworld.org/threads/vampire-the-masquerades-new-edition-gets-a-new-alpha-playtest.721324/"
     },
     {
-      "title": "Dungeons & Kittens Got a TV Deal — Here's the Find Familiar Ruling It Would Violate Every Episode",
-      "why_now": "Nov 7 news that Dungeons & Kittens is becoming a TV series gives a built-in hook for a familiar-combat-tactics ruling",
-      "angle": "Creature tactic short: what a familiar legally can't do in combat (no attacks, Help only), riffing on the 'kittens fighting monsters' premise",
-      "source": "https://www.enworld.org/threads/dungeons-kittens-is-getting-a-tv-series.721293/"
+      "title": "No Sanity Score? Here's the Houserule 5e Should Steal From Dark Heresy",
+      "why_now": "Dark Heresy's January 2027 release date just dropped, putting 40k's corruption/sanity mechanics in front of crossover RPG audiences.",
+      "angle": "Rules ruling short proposing a minimal 5e corruption track (3 tiers, no new subsystem) for horror one-shots",
+      "source": "https://www.rpgsite.net/news/21725-warhammer-40k-dark-heresy-release-date-ps5-xbox-seriex-x-pc-steam-epic-gog"
     },
     {
-      "title": "Professor Omega Sells Patent Medicine — So Does Your Charlatan NPC. Here's the Deception/Insight Ruling.",
-      "why_now": "Nov 7 EN World piece introduces a 'Purveyor of Patent Medicines' character, a direct parallel to fake-potion-peddling NPCs GMs run constantly",
-      "angle": "Spell/item use-case short: adjudicating fake potions of healing sold to PCs — Insight DC, consequences, and when it's just flavor vs. a con",
-      "source": "https://www.enworld.org/threads/meet-professor-omega-purveyor-of-patent-medicines.721288/"
+      "title": "Mistborn's Out — Here's Why 5e's Monk Still Can't Pull Off Allomancy",
+      "why_now": "Mistborn RPG just hit retail after a $14.7M Kickstarter, so players are actively comparing it to their home D&D systems.",
+      "angle": "Spell/class use-case teardown: Misty Step vs. Steelpushing, and a quick reskin for a 'Coinshot' monk archetype",
+      "source": "https://www.enworld.org/threads/mistborn-rpg-is-out-in-retail-following-14-7-million-kickstarter.721322/"
     },
     {
-      "title": "Sly Flourish Says Stop Writing for an Audience — Here's the One-Page Prep Ruling That Proves It",
-      "why_now": "Nov 9 Sly Flourish piece 'Write For Yourself' is a direct hit on GM prep habits, a rare non-rules topic worth a dry rebuttal/endorsement from a veteran GM lens",
-      "angle": "Mechanical GM-advice short: the actual prep checklist that replaces narrative journaling — initiative order, 2 hooks, 1 complication, done",
+      "title": "Stop Prepping For Reddit: Sly Flourish Is Right, Write For Yourself",
+      "why_now": "Sly Flourish's new essay on prep philosophy is circulating among GMs this week and lines up perfectly with a dry veteran-GM take.",
+      "angle": "Short rant/ruling format: one prep rule to cut (encounter balance math) and one to keep (NPC motive one-liners)",
       "source": "https://slyflourish.com/write_for_yourself.html?rss=1"
     },
     {
-      "title": "Podcast 422 Mentioned a Ben 10 RPG — Here's the Actual Polymorph Ruling for 'Turning Into a Monster'",
-      "why_now": "Nov 8 EN World livestream recap name-drops a Ben 10 RPG, a gift of a segue into the most abused transformation spell in 5e",
-      "angle": "Spell use-case short: Polymorph/Wild Shape edge cases — what stats carry over, what doesn't, and why 'I turn into a T-Rex' isn't free action economy",
-      "source": "https://www.enworld.org/threads/podcast-422-livestream-dragonlance-tv-d-d-comics-wow-species-ben-10-rpg.721304/"
+      "title": "Steal This Monster: Turn WoW's Mechagnome Into a Modron Encounter",
+      "why_now": "The WoW Mechagnome deep dive is fresh content giving an easy, recognizable hook to reskin for a 5e tactical encounter.",
+      "angle": "Creature tactic short: Modron formation tactics, reflavored as rogue Mechagnome constructs, with one specific trap combo",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-mechagnome.721292/"
     }
   ]
 }

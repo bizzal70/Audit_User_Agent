@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-09T11:05:41+00:00",
+  "generated": "2026-11-10T11:05:14+00:00",
   "opportunities": [
     {
-      "title": "Binance Knew for 8 Weeks: Inside the Intrusion Window Before the $6.3B Exploit",
-      "why_now": "SEAL's new timeline shows attackers had two months of access before the largest exchange hack in history was even detected.",
-      "angle": "Security post-mortem breaking down the kill chain — detection gaps, lateral movement, and why '8 weeks' is the real headline, not the $6.3B",
-      "source": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance"
+      "title": "CertiK wants dollar caps on hot wallets. Translation: self-regulation already failed.",
+      "why_now": "CertiK's proposal lands days after a $6.3B Binance hack made 'reasonable hot wallet limits' look like common sense nobody enforced.",
+      "angle": "Security-led explainer: what a hard dollar cap would have actually prevented in the Binance hack, and why exchanges will resist it anyway",
+      "source": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Good Guys Got There First: How Web3Auth Beat Hackers to $5.6M in Exposed Keplr Wallets",
-      "why_now": "A rare white-hat race-against-the-clock story just played out in real time against an active exploit.",
-      "angle": "Play-by-play timeline piece on the front-run rescue, with a 'this is what good incident response looks like' framing for X thread",
-      "source": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029"
+      "title": "Analysts say the $6.3B Binance hack won't cause contagion. We've heard that sentence before every contagion event.",
+      "why_now": "The 'no contagion' narrative is forming in real time just days after the hack, and it's the exact pattern that preceded FTX-era spillovers.",
+      "angle": "Contrarian market take: walk through the historical base rate of 'analysts say no contagion' calls and how often they aged badly",
+      "source": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Solana Is Deleting the Feature That Caused the $270M Drift Hack — Why Wasn't It Gone Already?",
-      "why_now": "A live governance proposal to rip out the exact transaction type exploited months ago is a direct test of whether chains actually learn from hacks.",
-      "angle": "Explainer + skepticism: what the feature does, why it took this long, and what it says about Solana's threat-modeling culture",
-      "source": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack"
+      "title": "Mercado Bitcoin reopened. Withdrawals didn't. That silence is the actual disclosure.",
+      "why_now": "The exchange is live again post-hack but still withholding a withdrawal timeline, a classic signal worth decoding before users find out the hard way.",
+      "angle": "Security-incident breakdown: what 'reopening without a withdrawal timeline' historically means for solvency, using past exchange playbooks as a comparison",
+      "source": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Your Crypto Debit Card Just Leaked Your Real Name, Address, and Wallet — Gnosis Pay Breach, Explained",
-      "why_now": "The breach ties on-chain wallets directly to real-world identity and card data, which is the exact failure mode security people warned about with crypto cards.",
-      "angle": "Consumer-facing explainer on what data was exposed and concrete steps (card freeze, wallet rotation) for anyone holding a Gnosis Pay card",
-      "source": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information"
+      "title": "How to launder $2.85B in 2026: mint Elon Musk meme coins and let retail do the mixing",
+      "why_now": "Fresh on-chain detail on Binance hack launderers using meme coin issuance as a laundering vector is a concrete, visual mechanics story readers can follow step by step.",
+      "angle": "Forensic walkthrough of the laundering technique with a chain-of-custody diagram style breakdown, tying it back to why freeze rules matter",
+      "source": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
     },
     {
-      "title": "The Fox Guarding the Henhouse: Ex-FBI Agent Pleads Guilty to Stealing $2.47M From His Own Investigations",
-      "why_now": "A federal agent used access to 35 active crypto-crime cases to loot evidence wallets — a case study in insider threat nobody wants to talk about.",
-      "angle": "Short, punchy X thread on insider-threat lessons for custodians and law enforcement partnerships, with the 'who watches the watchmen' hook",
-      "source": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988"
+      "title": "The UK wants stablecoin freeze rules after watching $2.85B of Binance hack funds vanish. Too late, but let's do the math.",
+      "why_now": "This opinion piece gives a timely regulatory hook directly tied to quantifiable losses from the same hack dominating security coverage this week.",
+      "angle": "Policy-meets-security analysis: model what a freeze rule would have clawed back in the Binance case and where the real enforcement gap still sits",
+      "source": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

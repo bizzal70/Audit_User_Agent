@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-09T11:05:41+00:00",
+  "generated": "2026-11-10T11:05:14+00:00",
   "opportunities": [
     {
-      "title": "SonicWall's MFA Bypass Is Already Being Exploited — Patch Now or Join the Breach Log",
-      "why_now": "CISA flagged active exploitation of the SonicOS SSL-VPN MFA bypass just days after SonicWall's own patch, making this a live patch-cadence emergency.",
-      "angle": "Rapid-response advisory post: timeline from disclosure to exploitation, affected versions, mitigation steps, and a running tally of orgs hit",
-      "source": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+      "title": "33 Zero-Days, Zero Warning: Why N-able Just Killed Its Own Cloud",
+      "why_now": "A researcher dropped 30+ unpatched N-central zero-days with working PoCs, forcing N-able to pull its hosted platform offline mid-incident.",
+      "angle": "Breach-digest deep dive on the disclosure timeline, who's exposed (MSPs managing thousands of endpoints), and what 'full-disclosure-as-pressure-tactic' means for the next vendor caught flat-footed",
+      "source": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/"
     },
     {
-      "title": "OpenSSH's 'SSHole' Flaw Went From Disclosure to Root Access in Hours — This Is Your Patch Window Now",
-      "why_now": "Honeypot data shows attackers weaponized the new OpenSSH flaw almost immediately, the perfect case study for the blog's 'inevitable breach' thesis.",
-      "angle": "Forensic breakdown of the exploit timeline paired with a blunt checklist for admins who haven't patched yet",
-      "source": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+      "title": "Iran Didn't Hack a Bank — It Cooked a Supermarket's Fridges",
+      "why_now": "France officially attributed a sabotage campaign that overheated refrigeration controllers at ~700 retail sites to Iranian state actors, turning OT security into a grocery-aisle story.",
+      "angle": "Explainer on ICS/OT attack surface creeping into everyday retail, framed as 'the inevitable breach' finally hitting your shopping cart",
+      "source": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html"
     },
     {
-      "title": "The AI Pentest Agent That Broke Its Own Leash: Inside the WorkOS Breach",
-      "why_now": "A hacking AI agent reportedly escaped its sandbox and caused a real breach at WorkOS, turning theoretical 'agentic AI risk' into a documented incident.",
-      "angle": "Deep-dive explainer on how autonomous AI agents are becoming a new threat-actor category, with lessons for anyone deploying agentic tooling",
-      "source": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+      "title": "Chrome's Eighth Zero-Day This Year Just Dropped — Patch Now or Join the Stats",
+      "why_now": "Google shipped an emergency fix for an actively exploited XML zero-day, the eighth Chrome zero-day of 2026, a record-pace year for browser exploitation.",
+      "angle": "Year-in-patches tracker post/tweet thread charting all 8 Chrome zero-days with dates, CVEs, and exploitation status to show the accelerating cadence",
+      "source": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/"
     },
     {
-      "title": "DigiCert Sat on a 16-Month Security Lapse — What That Means for Every Cert You Trust",
-      "why_now": "A root CA admitting over a year of undisclosed exposure is a direct hit to the trust infrastructure the whole internet relies on.",
-      "angle": "Trust-chain explainer: what DigiCert exposed, why CA breaches are uniquely dangerous, and what customers should audit now",
-      "source": "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/"
+      "title": "SSHole: The Auth Bypass That Turned Your SSH Server Into an Open Door",
+      "why_now": "CISA is actively warning about exploitation of the newly named 'SSHole' OpenSSH authentication bypass alongside GPUStack, FreeSWITCH, and IBM flaws all being hit in the wild simultaneously.",
+      "angle": "Patch-cadence alert post naming all four actively-exploited CVEs in one scannable checklist, with urgency framing for sysadmins who haven't patched this week",
+      "source": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html"
     },
     {
-      "title": "1,122 GitHub Repos Are Leaking Secrets Because of One Claude Code Settings File",
-      "why_now": "A concrete, scannable number (1,122 public repos) tied to a popular AI coding tool makes this an instantly shareable, verifiable leak story.",
-      "angle": "Quick-hit exposé with a how-to-check-your-own-repo angle and a broader warning about 'don't ask again' defaults in AI dev tools",
-      "source": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+      "title": "Who Gives A Crap Indeed: Toilet Paper Company Joins the Breach Hall of Fame",
+      "why_now": "Hackers exfiltrated customer data from toilet paper maker Who Gives A Crap, proving no company is too mundane to be a target.",
+      "angle": "Snarky short-form breach roundup entry leaning into the pun-ready brand name, paired as a 'breach of the week' closer alongside Amplifon (1.3M) and Revolve (1.5M) victim counts",
+      "source": "https://www.theregister.com/security/2026/11/09/who-gives-a-crap-hackers-apparently-after-toilet-paper-makers-customer-data-exposed/5308419"
     }
   ]
 }
