@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-10T11:05:14+00:00",
+  "generated": "2026-11-11T11:05:34+00:00",
   "opportunities": [
     {
-      "title": "CertiK wants dollar caps on hot wallets. Translation: self-regulation already failed.",
-      "why_now": "CertiK's proposal lands days after a $6.3B Binance hack made 'reasonable hot wallet limits' look like common sense nobody enforced.",
-      "angle": "Security-led explainer: what a hard dollar cap would have actually prevented in the Binance hack, and why exchanges will resist it anyway",
+      "title": "Initia Got Hacked Twice in Three Weeks. That's Not Bad Luck, That's a Pattern.",
+      "why_now": "A second exploit on the same protocol inside a month is a textbook case of unpatched root causes getting ignored after the first headline fades.",
+      "angle": "Incident-pattern breakdown: compare the two Initia exploits side by side, show what wasn't fixed, and argue 'second hack' should be a standing red flag category for traders and allocators.",
+      "source": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Across Protocol Didn't Get Smart-Contract Hacked — Someone Just Took Its Domain",
+      "why_now": "A live bridge warning users to avoid its own app because hackers hijacked the website, not the code, is a sharp reminder that DNS is still the weakest link in DeFi security.",
+      "angle": "Explainer/op-ed on domain-layer attacks as the new frontend exploit vector, with a checklist for verifying you're on the real dApp before signing anything.",
+      "source": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "CertiK Says Exchanges Need Hard Dollar Caps on Hot Wallets. After $6.3B and $49M, Why Is This Still a Suggestion?",
+      "why_now": "CertiK's proposal lands days after both the Binance mega-hack fallout and Mercado Bitcoin's $49M breach, making the 'why wasn't this mandatory already' question unavoidable.",
+      "angle": "Policy-leaning breakdown of the hot-wallet-cap proposal, with a back-of-envelope on what caps would have actually prevented in recent incidents.",
       "source": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Analysts say the $6.3B Binance hack won't cause contagion. We've heard that sentence before every contagion event.",
-      "why_now": "The 'no contagion' narrative is forming in real time just days after the hack, and it's the exact pattern that preceded FTX-era spillovers.",
-      "angle": "Contrarian market take: walk through the historical base rate of 'analysts say no contagion' calls and how often they aged badly",
-      "source": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Binance's iOS Warning Is a Reminder: Your Keys Were Never as Safe as the App Store Made You Feel",
+      "why_now": "A platform-level flaw that could expose wallet keys on a major exchange's mobile app is a direct hit to the self-custody-vs-CEX debate this community lives in.",
+      "angle": "Security-first breakdown of the flaw, what it means for mobile signing generally, and a hard recommendation list (hardware wallets, app permissions, key isolation).",
+      "source": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Mercado Bitcoin reopened. Withdrawals didn't. That silence is the actual disclosure.",
-      "why_now": "The exchange is live again post-hack but still withholding a withdrawal timeline, a classic signal worth decoding before users find out the hard way.",
-      "angle": "Security-incident breakdown: what 'reopening without a withdrawal timeline' historically means for solvency, using past exchange playbooks as a comparison",
-      "source": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "How to launder $2.85B in 2026: mint Elon Musk meme coins and let retail do the mixing",
-      "why_now": "Fresh on-chain detail on Binance hack launderers using meme coin issuance as a laundering vector is a concrete, visual mechanics story readers can follow step by step.",
-      "angle": "Forensic walkthrough of the laundering technique with a chain-of-custody diagram style breakdown, tying it back to why freeze rules matter",
-      "source": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
-    },
-    {
-      "title": "The UK wants stablecoin freeze rules after watching $2.85B of Binance hack funds vanish. Too late, but let's do the math.",
-      "why_now": "This opinion piece gives a timely regulatory hook directly tied to quantifiable losses from the same hack dominating security coverage this week.",
-      "angle": "Policy-meets-security analysis: model what a freeze rule would have clawed back in the Binance case and where the real enforcement gap still sits",
-      "source": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Near AI's Breach Just Showed What Happens When You Give Agents Wallets and Skip the Audit",
+      "why_now": "An AI-agent platform leaking user data and agent details lands right as the industry races to let autonomous agents hold keys and execute trades — a preview of the next hack category.",
+      "angle": "Forward-looking security take: use the Near AI breach as the opening case study for a 'AI agents are the next attack surface' thesis piece, with predictions on what gets exploited first.",
+      "source": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents"
     }
   ]
 }

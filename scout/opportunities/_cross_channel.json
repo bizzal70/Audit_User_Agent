@@ -1,4 +1,53 @@
 {
-  "generated": "2026-11-10T11:05:14+00:00",
-  "plays": []
+  "generated": "2026-11-11T11:05:34+00:00",
+  "plays": [
+    {
+      "story": "Warhammer 40K: Dark Heresy video game adaptation gets a January 28, 2027 release date",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Dark Heresy Goes Digital: What Tabletop Inquisitors Can Steal From the Jan 2027 CRPG' — break down confirmed mechanics/classes from the game reveal and map them back to running better Dark Heresy sessions at the table now.",
+        "itsalreadywritten": "'Of Course Dark Heresy Got a Video Game: The TTRPG-to-CRPG Pipeline Was Always Coming' — a trend piece arguing this adaptation was inevitable given WH40K's licensing machine, with a prediction list of which TTRPG gets 'videogamed' next."
+      },
+      "source": "https://www.enworld.org/threads/warhammer-40k-dark-heresy-video-game-based-on-the-ttrpg-of-the-same-name-comes-out-in-january-2027.721329/"
+    },
+    {
+      "story": "Vampire: The Masquerade's new edition enters alpha playtest",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "'Hands-On With the New Vampire: The Masquerade Alpha — What Storytellers Need to Know Before Their Next Chronicle' — a practical breakdown of rule changes for current STs deciding whether to switch mid-campaign.",
+        "itsalreadywritten": "'Another Vampire Reboot, Another Alpha: We Mapped the White Wolf Edition Cycle So You Don't Have To' — a snarky retrospective showing the pattern of VtM relaunches and why this one follows the same beats as the last three."
+      },
+      "source": "https://www.enworld.org/threads/vampire-the-masquerades-new-edition-gets-a-new-alpha-playtest.721324/"
+    },
+    {
+      "story": "Across Protocol gets its domain hijacked by hackers, warns users to avoid the app amid drained wallets, then restores systems",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Across Protocol's Domain Hijack Barely Dented the Token — Here's Why DeFi Markets Have Stopped Flinching at Hacks' — use price action data to show hack-fatigue is now priced into bridge tokens.",
+        "itsalreadywhen": "'When, Not If: Across Protocol's DNS Hijack Is the Same Playbook Attackers Keep Winning With' — frame it as a predictable attack vector (domain/DNS takeover preceding wallet drains) that security teams keep failing to harden."
+      },
+      "source": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Binance warns an iOS flaw could expose crypto wallet keys, days after CertiK calls for hard dollar caps on exchange hot wallets",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Your Binance Wallet Is Only as Safe as Your iPhone: What the New iOS Flaw Means for Your Keys' — explainer for crypto holders on what the vulnerability actually exposes and immediate steps to take.",
+        "itsalreadywhen": "'CertiK Wants Hot-Wallet Caps — We Could Have Told You That After the Last Mega-Hack' — tie the Binance iOS flaw and CertiK's policy ask together as proof the industry keeps reacting instead of architecting for inevitable breaches."
+      },
+      "source": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    }
+  ]
 }

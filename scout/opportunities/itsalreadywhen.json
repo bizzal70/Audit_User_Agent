@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-10T11:05:14+00:00",
+  "generated": "2026-11-11T11:05:34+00:00",
   "opportunities": [
     {
-      "title": "33 Zero-Days, Zero Warning: Why N-able Just Killed Its Own Cloud",
-      "why_now": "A researcher dropped 30+ unpatched N-central zero-days with working PoCs, forcing N-able to pull its hosted platform offline mid-incident.",
-      "angle": "Breach-digest deep dive on the disclosure timeline, who's exposed (MSPs managing thousands of endpoints), and what 'full-disclosure-as-pressure-tactic' means for the next vendor caught flat-footed",
-      "source": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/"
+      "title": "1,259 Bugs, One Zero-Day: Inside November's Patch Tuesday Megaload (and the Outlook Flaw Leaking NTLMv2 Hashes)",
+      "why_now": "Microsoft, Adobe, Intel/AMD, and Siemens all dropped record-breaking patch counts this week, anchored by an actively exploited Outlook zero-day — the exact 'inevitable breach' math our readers track monthly.",
+      "angle": "Patch Tuesday digest roundup with a prioritized patch-now list, spotlighting the Outlook NTLMv2 hash exposure as the must-fix item",
+      "source": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
     },
     {
-      "title": "Iran Didn't Hack a Bank — It Cooked a Supermarket's Fridges",
-      "why_now": "France officially attributed a sabotage campaign that overheated refrigeration controllers at ~700 retail sites to Iranian state actors, turning OT security into a grocery-aisle story.",
-      "angle": "Explainer on ICS/OT attack surface creeping into everyday retail, framed as 'the inevitable breach' finally hitting your shopping cart",
-      "source": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html"
+      "title": "Patched Last Week, Pwned This Week: Barracuda's 'Make-Me-Root' Flaws Already Under Attack",
+      "why_now": "Exploitation began almost immediately after Barracuda's email gateway fix shipped, proving patch cadence is losing the race against weaponization.",
+      "angle": "Timeline breakdown: disclosure-to-patch-to-exploit, with IOCs and a 'what to check right now' checklist for Barracuda admins",
+      "source": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
     },
     {
-      "title": "Chrome's Eighth Zero-Day This Year Just Dropped — Patch Now or Join the Stats",
-      "why_now": "Google shipped an emergency fix for an actively exploited XML zero-day, the eighth Chrome zero-day of 2026, a record-pace year for browser exploitation.",
-      "angle": "Year-in-patches tracker post/tweet thread charting all 8 Chrome zero-days with dates, CVEs, and exploitation status to show the accelerating cadence",
-      "source": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/"
+      "title": "Patches Exist, Attacks Continue: Cisco BroadWorks and Openwave Under Active Exploitation",
+      "why_now": "Threat actors are hitting two unrelated telecom-adjacent platforms despite available fixes, a textbook case of patch-apathy enabling breach.",
+      "angle": "Dual-vendor exploit report framed as a 'why patching isn't enough' explainer with mitigation steps for telecom/VoIP admins",
+      "source": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html"
     },
     {
-      "title": "SSHole: The Auth Bypass That Turned Your SSH Server Into an Open Door",
-      "why_now": "CISA is actively warning about exploitation of the newly named 'SSHole' OpenSSH authentication bypass alongside GPUStack, FreeSWITCH, and IBM flaws all being hit in the wild simultaneously.",
-      "angle": "Patch-cadence alert post naming all four actively-exploited CVEs in one scannable checklist, with urgency framing for sysadmins who haven't patched this week",
-      "source": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html"
+      "title": "$740,000 and Counting: How Stolen AI API Keys Became Railway's Billing Nightmare",
+      "why_now": "A concrete dollar figure on AI-key theft makes this the clearest cautionary tale yet for any company plugging LLM keys into CI/CD pipelines.",
+      "angle": "Breach post-mortem with cost breakdown and a developer-focused 'secure your AI keys' checklist",
+      "source": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html"
     },
     {
-      "title": "Who Gives A Crap Indeed: Toilet Paper Company Joins the Breach Hall of Fame",
-      "why_now": "Hackers exfiltrated customer data from toilet paper maker Who Gives A Crap, proving no company is too mundane to be a target.",
-      "angle": "Snarky short-form breach roundup entry leaning into the pun-ready brand name, paired as a 'breach of the week' closer alongside Amplifon (1.3M) and Revolve (1.5M) victim counts",
-      "source": "https://www.theregister.com/security/2026/11/09/who-gives-a-crap-hackers-apparently-after-toilet-paper-makers-customer-data-exposed/5308419"
+      "title": "Fireworks AI Gets Burned Twice: When 'We Fixed It' Doesn't Mean Fixed",
+      "why_now": "A second, widening customer-data exposure at the same AI vendor in short order is the inevitable-breach narrative in its purest form.",
+      "angle": "Incident timeline comparing the two exposures with a 'lessons for AI vendors on breach disclosure' sidebar",
+      "source": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722"
     }
   ]
 }

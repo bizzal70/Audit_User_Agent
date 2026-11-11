@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-10T11:05:14+00:00",
+  "generated": "2026-11-11T11:05:34+00:00",
   "opportunities": [
     {
-      "title": "VTM5's Alpha Playtest Is Live: Every Rules Change We Can Confirm So Far",
-      "why_now": "The new Vampire: The Masquerade edition just entered alpha playtest, giving a concrete rules document to dissect before the hype cycle buries the details.",
-      "angle": "Rules-breakdown thread comparing alpha mechanics to current V5 core, citing specific page/section changes",
+      "title": "Vampire: The Masquerade 6th Edition Alpha Is Live — Here's Every Rule That's Changing",
+      "why_now": "The new alpha playtest just dropped, giving us a fresh, citable ruleset to dissect before the community consensus forms.",
+      "angle": "Line-by-line breakdown of alpha mechanics vs. 5th edition, with a verdict on what's actually new vs. rebranded",
       "source": "https://www.enworld.org/threads/vampire-the-masquerades-new-edition-gets-a-new-alpha-playtest.721324/"
     },
     {
-      "title": "Mistborn RPG Rules Audit: What $14.7M in Backer Money Actually Bought You",
-      "why_now": "The record-breaking Kickstarter is now in retail, so the actual rulebook can finally be checked against the pitch.",
-      "angle": "Mechanical deep-dive comparing promised Kickstarter stretch-goal systems to the final printed ruleset",
+      "title": "Mistborn RPG Hit Retail After a $14.7M Kickstarter — Does the Rules Engine Live Up to the Hype?",
+      "why_now": "Retail launch means the full rulebook is finally in players' hands for real scrutiny, not just backer previews.",
+      "angle": "Mechanical teardown of the Allomancy/Feruchemy systems vs. the pledge promises",
       "source": "https://www.enworld.org/threads/mistborn-rpg-is-out-in-retail-following-14-7-million-kickstarter.721322/"
     },
     {
-      "title": "Warhammer 40K: Dark Heresy's Jan 28 Release — How the Digital Ruleset Diverges from Tabletop RAW",
-      "why_now": "A hard release date for a tabletop-to-digital adaptation is exactly the kind of rules-fidelity question this channel is built to answer.",
-      "angle": "Comparative rules-as-written analysis anticipating adaptation choices, written ahead of launch for search traffic",
-      "source": "https://www.rpgsite.net/news/21725-warhammer-40k-dark-heresy-release-date-ps5-xbox-seriex-x-pc-steam-epic-gog"
+      "title": "Warhammer 40K: Dark Heresy Is Becoming a Video Game — What Survives the Jump From Tabletop Rules?",
+      "why_now": "A January 2027 release date just confirmed, making this the moment to set expectations before adaptation hype takes over.",
+      "angle": "Predict which TTRPG mechanics (corruption, insanity points, career advances) will/won't translate to a video game ruleset",
+      "source": "https://www.enworld.org/threads/warhammer-40k-dark-heresy-video-game-based-on-the-ttrpg-of-the-same-name-comes-out-in-january-2027.721329/"
     },
     {
-      "title": "Level Up's 50% Sale: Which 5E-Compatible Rules Are Actually Worth Owning",
-      "why_now": "A massive timed sale on Level Up content gives direct purchasing stakes to a rules-literacy ranking.",
-      "angle": "Ranked buyer's guide grading specific subsystems (crafting, exploration, class design) worth the discount price",
-      "source": "https://www.enworld.org/threads/massive-level-up-pre-holiday-50-sale.721318/"
-    },
-    {
-      "title": "'Write For Yourself' Is Good Advice — But Here's the Rule It Breaks for Published Material",
-      "why_now": "Sly Flourish's fresh essay on GM prep philosophy is a direct opening to push back with a rules-first counterpoint.",
-      "angle": "Response piece: the difference between personal prep notes and rules you owe your table clarity on",
+      "title": "Sly Flourish Says 'Write for Yourself' — Here's the Rules Case for Why Prep Notes Aren't a Rulebook",
+      "why_now": "Fresh GM-advice piece gives us a hook to clarify the line between house prep and official rules text.",
+      "angle": "Rules-first rebuttal/extension: codify what counts as 'the rules' vs. personal GM shorthand, with a usable template",
       "source": "https://slyflourish.com/write_for_yourself.html?rss=1"
+    },
+    {
+      "title": "Level Up's 50% Pre-Holiday Sale: Which Advanced 5E Rulebooks Are Actually Worth Your Cart",
+      "why_now": "The sale is live now, creating a narrow window where a buyer's guide drives immediate clicks and purchases.",
+      "angle": "Ranked shopping guide scored purely on rules crunch and table utility, not art or flavor",
+      "source": "https://www.enworld.org/threads/massive-level-up-pre-holiday-50-sale.721318/"
     }
   ]
 }
