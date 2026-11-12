@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-11T11:05:34+00:00",
+  "generated": "2026-11-12T11:05:26+00:00",
   "plays": [
     {
-      "story": "Warhammer 40K: Dark Heresy video game adaptation gets a January 28, 2027 release date",
+      "story": "D&D unveils the Pactweaver, a full new class built around binding spirits to fate-locked pacts",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Dark Heresy Goes Digital: What Tabletop Inquisitors Can Steal From the Jan 2027 CRPG' — break down confirmed mechanics/classes from the game reveal and map them back to running better Dark Heresy sessions at the table now.",
-        "itsalreadywritten": "'Of Course Dark Heresy Got a Video Game: The TTRPG-to-CRPG Pipeline Was Always Coming' — a trend piece arguing this adaptation was inevitable given WH40K's licensing machine, with a prediction list of which TTRPG gets 'videogamed' next."
+        "bizzal-games": "The Pactweaver Is D&D's New Warlock-Killer: A Full Mechanical Breakdown — we dig into the subclass features, spirit tiers, and whether this spellcasting chassis actually balances at the table.",
+        "itsalreadywritten": "Your Character's Deal Is Already Signed: How the Pactweaver Turns Destiny Into a Stat Block — unpacking the fate/foreshadowing fiction baked into every spirit pact."
       },
-      "source": "https://www.enworld.org/threads/warhammer-40k-dark-heresy-video-game-based-on-the-ttrpg-of-the-same-name-comes-out-in-january-2027.721329/"
+      "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
     },
     {
-      "story": "Vampire: The Masquerade's new edition enters alpha playtest",
+      "story": "Vampire: The Masquerade's upcoming edition opens a new alpha playtest",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "'Hands-On With the New Vampire: The Masquerade Alpha — What Storytellers Need to Know Before Their Next Chronicle' — a practical breakdown of rule changes for current STs deciding whether to switch mid-campaign.",
-        "itsalreadywritten": "'Another Vampire Reboot, Another Alpha: We Mapped the White Wolf Edition Cycle So You Don't Have To' — a snarky retrospective showing the pattern of VtM relaunches and why this one follows the same beats as the last three."
+        "bizzal-games": "What's Actually Changing in Vampire: The Masquerade's New Alpha — a rules-first breakdown of the mechanics shifts playtesters are reporting.",
+        "itsalreadywritten": "30 Years of Kindred Politics Just Got Rewritten: What the New V:tM Edition Changes in Canon Lore and Clan History."
       },
       "source": "https://www.enworld.org/threads/vampire-the-masquerades-new-edition-gets-a-new-alpha-playtest.721324/"
     },
     {
-      "story": "Across Protocol gets its domain hijacked by hackers, warns users to avoid the app amid drained wallets, then restores systems",
+      "story": "Binance's CSO publicly foreshadowed the exact hack tactic used in the $6.3B breach, months before it happened",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Across Protocol's Domain Hijack Barely Dented the Token — Here's Why DeFi Markets Have Stopped Flinching at Hacks' — use price action data to show hack-fatigue is now priced into bridge tokens.",
-        "itsalreadywhen": "'When, Not If: Across Protocol's DNS Hijack Is the Same Playbook Attackers Keep Winning With' — frame it as a predictable attack vector (domain/DNS takeover preceding wallet drains) that security teams keep failing to harden."
+        "itsalreadypriced": "No Contagion, But No Confidence: What the $6.3B Binance Hack Means for BNB and Altcoin Prices Heading Into a Sub-$70K Christmas Call.",
+        "itsalreadywhen": "Binance's Own Security Chief Called This Hack Months Early — The Warning Timeline Nobody Acted On."
       },
-      "source": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "Binance warns an iOS flaw could expose crypto wallet keys, days after CertiK calls for hard dollar caps on exchange hot wallets",
+      "story": "Tron, Tether and Chainalysis form a new alliance to fight AI-powered crypto crime after the T3 task force folded",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "'Your Binance Wallet Is Only as Safe as Your iPhone: What the New iOS Flaw Means for Your Keys' — explainer for crypto holders on what the vulnerability actually exposes and immediate steps to take.",
-        "itsalreadywhen": "'CertiK Wants Hot-Wallet Caps — We Could Have Told You That After the Last Mega-Hack' — tie the Binance iOS flaw and CertiK's policy ask together as proof the industry keeps reacting instead of architecting for inevitable breaches."
+        "itsalreadypriced": "Tether Just Hired the Industry's Top Crime Fighters — What the New Chainalysis Alliance Signals for Stablecoin Confidence After a $14.2B Supply Drop.",
+        "itsalreadywhen": "AI-Powered Laundering Got Good Enough to Break the Old Task Force — Inside Tron and Tether's Emergency Chainalysis Alliance."
       },
-      "source": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

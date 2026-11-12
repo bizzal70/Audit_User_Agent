@@ -1,34 +1,34 @@
 {
-  "generated": "2026-11-11T11:05:34+00:00",
+  "generated": "2026-11-12T11:05:26+00:00",
   "opportunities": [
     {
-      "title": "RPG Evolution Talked Elements — Here's the Energy Resistance Ruling Most Tables Get Wrong",
-      "why_now": "EN World's 'In your element' piece on elemental themes gives a timely hook to nail down the exact 5e rule on resistance/vulnerability stacking that half your players misapply.",
-      "angle": "60-sec rules ruling: walk through a fire giant with resistance vs a flaming weapon with vulnerability override, state the RAW order of operations",
+      "title": "Pactweaver Breakdown: Is This New D&D Class Actually a Warlock Fix or Just Reflavored Bloat?",
+      "why_now": "EN World just published the full new official-adjacent class, giving tabletop channels a first-look rules analysis before the fanbase settles on an opinion.",
+      "angle": "60-sec rules-ruling short: pull 2-3 Pactweaver features, stat them against Warlock pact boons, deliver a blunt verdict ('better flavor, worse math at level 5')",
+      "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
+    },
+    {
+      "title": "Your Stranger Things D&D Boxed Set Is Up for Toy of the Year — Here's the One Rule in It Nobody Reads",
+      "why_now": "The Toy of the Year nomination is driving fresh search traffic from non-hobbyists who own or are buying the set and need quick rules clarity.",
+      "angle": "Hook on the nomination for reach, pivot immediately to a dry mechanical nugget from the included adventure (e.g., Mind Flayer psychic damage interaction) — bait-and-switch into real crunch",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-stranger-things-boxed-set-earns-toy-of-the-year-nomination.721342/"
+    },
+    {
+      "title": "Dungeon Crawler Carl RPG Is Coming — Here's the DCC Rule It's Stealing (And Why Your Table Should Too)",
+      "why_now": "The RPG Print News roundup confirms the Dungeon Crawler Carl tabletop adaptation is moving forward, giving a timely excuse to spotlight a DCC mechanic its audience may not run elsewhere.",
+      "angle": "Creature-tactic/mechanic short: explain DCC's funnel/luck mechanic, frame it as 'the rule Dungeon Crawler Carl RPG is betting its whole identity on'",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dungeon-crawler-carl-rpg-sickest-witch-mothership-and-more.721285/"
+    },
+    {
+      "title": "RPG Evolution Asked 'What's Your Element?' — Here's the One Elemental Spell Combo That Actually Breaks Encounters",
+      "why_now": "The EN World elemental-themed piece is fresh discourse fodder; riding the topic lets the channel deliver a genuinely useful spell use-case instead of a think-piece.",
+      "angle": "Spell use-case short: pick one elemental spell (e.g., Control Water vs. a fire-based monster) and show the exact tactical interaction with damage types/resistances",
       "source": "https://www.enworld.org/threads/rpg-evolution-in-your-element.721306/"
     },
     {
-      "title": "Vampire: The Masquerade's New Hunger Dice Just Went to Alpha — Here's What 5e's Exhaustion Track Still Can't Do",
-      "why_now": "VtM5e's alpha playtest reintroduces hunger-as-resource design, a sharp contrast point for critiquing 5e's blunt exhaustion mechanic.",
-      "angle": "dry system comparison short: 3 things Hunger Dice do that Exhaustion levels don't, end with a homebrew ruling fix",
-      "source": "https://www.enworld.org/threads/vampire-the-masquerades-new-edition-gets-a-new-alpha-playtest.721324/"
-    },
-    {
-      "title": "Mistborn RPG Shipped This Week — Here's the Metamagic Spell Use-Case It's Quietly Shaming 5e's Sorcerer For",
-      "why_now": "Mistborn RPG's retail launch after a $14.7M Kickstarter puts resource-based magic systems in the news cycle right as sorcerers get overlooked in 5e builds.",
-      "angle": "spell use-case: Quickened Spell vs Allomantic burn-rate pacing, framed as 'what Sanderson's system does that Font of Magic doesn't'",
-      "source": "https://www.enworld.org/threads/mistborn-rpg-is-out-in-retail-following-14-7-million-kickstarter.721322/"
-    },
-    {
-      "title": "Dark Heresy's Getting a Video Game in 2027 — Here's the Insanity Ruling 5e Stole and Never Finished",
-      "why_now": "The Dark Heresy video game announcement puts Warhammer 40K's madness/corruption system in front of a tabletop audience that already half-knows 5e's short table on long-term madness is undercooked.",
-      "angle": "rules ruling: read the actual 5e DMG long-term madness table on camera, point out the gap, propose a DCC-style fix",
-      "source": "https://www.enworld.org/threads/warhammer-40k-dark-heresy-video-game-based-on-the-ttrpg-of-the-same-name-comes-out-in-january-2027.721329/"
-    },
-    {
-      "title": "Level Up's 50%-Off Sale Is a Good Excuse to Steal This One A5E Monster Trait for Your Homebrew Owlbear",
-      "why_now": "The pre-holiday Level Up (A5E) sale is driving traffic to its monster-building chassis, a ready-made hook for a creature-tactic short that doubles as a soft product tie-in.",
-      "angle": "creature tactic: break down an A5E monster's tiered action economy and show how to port one trait into vanilla 5e stat blocks",
+      "title": "50% Off Level Up Before the Holidays: The One Sourcebook Worth Buying (And Four You Can Skip)",
+      "why_now": "The Level Up pre-holiday sale is live now, giving a narrow window for a value-driven roundup that converts browsing viewers into buyers via affiliate/community goodwill.",
+      "angle": "Quick-hit buyer's guide short: rank the sale items by actual table utility, deliver one sharp recommendation and one blunt 'don't bother'",
       "source": "https://www.enworld.org/threads/massive-level-up-pre-holiday-50-sale.721318/"
     }
   ]

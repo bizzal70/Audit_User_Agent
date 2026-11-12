@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-11T11:05:34+00:00",
+  "generated": "2026-11-12T11:05:26+00:00",
   "opportunities": [
     {
-      "title": "Initia Got Hacked Twice in Three Weeks. That's Not Bad Luck, That's a Pattern.",
-      "why_now": "A second exploit on the same protocol inside a month is a textbook case of unpatched root causes getting ignored after the first headline fades.",
-      "angle": "Incident-pattern breakdown: compare the two Initia exploits side by side, show what wasn't fixed, and argue 'second hack' should be a standing red flag category for traders and allocators.",
-      "source": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The CSO Predicted His Own $6.3B Hack — And Nobody Listened",
+      "why_now": "Binance's own security chief described the exact attack vector months before the $6.3B breach happened, and the receipts are public now.",
+      "angle": "Forensic timeline piece pairing the CSO's old quotes against the attack post-mortem — 'read the warning, then watch it happen anyway'",
+      "source": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Across Protocol Didn't Get Smart-Contract Hacked — Someone Just Took Its Domain",
-      "why_now": "A live bridge warning users to avoid its own app because hackers hijacked the website, not the code, is a sharp reminder that DNS is still the weakest link in DeFi security.",
-      "angle": "Explainer/op-ed on domain-layer attacks as the new frontend exploit vector, with a checklist for verifying you're on the real dApp before signing anything.",
+      "title": "Across Protocol's Domain Got Hijacked, Wallets Got Drained, and the Warning Came Too Late",
+      "why_now": "Across went from 'avoid the app' to 'hackers control our domain' to 'restored' in 48 hours — a live case study in how fast a DNS compromise becomes a wallet-drain event.",
+      "angle": "Minute-by-minute incident breakdown with the actionable lesson: domain security is wallet security, and users had no way to know mid-attack",
       "source": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "CertiK Says Exchanges Need Hard Dollar Caps on Hot Wallets. After $6.3B and $49M, Why Is This Still a Suggestion?",
-      "why_now": "CertiK's proposal lands days after both the Binance mega-hack fallout and Mercado Bitcoin's $49M breach, making the 'why wasn't this mandatory already' question unavoidable.",
-      "angle": "Policy-leaning breakdown of the hot-wallet-cap proposal, with a back-of-envelope on what caps would have actually prevented in recent incidents.",
+      "title": "CertiK Says Exchanges Need Hard Dollar Caps on Hot Wallets — After a $6.3B Hack Just Proved It",
+      "why_now": "CertiK's hot-wallet-cap proposal lands days after the largest exchange hack in crypto history, turning a wonky policy idea into the obvious fix nobody implemented in time.",
+      "angle": "Opinion/analysis: why this is the security equivalent of a speed limit — boring until it's the only thing that would've capped the damage",
       "source": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Binance's iOS Warning Is a Reminder: Your Keys Were Never as Safe as the App Store Made You Feel",
-      "why_now": "A platform-level flaw that could expose wallet keys on a major exchange's mobile app is a direct hit to the self-custody-vs-CEX debate this community lives in.",
-      "angle": "Security-first breakdown of the flaw, what it means for mobile signing generally, and a hard recommendation list (hardware wallets, app permissions, key isolation).",
-      "source": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Bitcoin Core Just Admitted Thousands of Nodes Would Trust Any Stranger Over Tor",
+      "why_now": "A newly disclosed Bitcoin Core bug meant nodes couldn't properly verify who they were talking to on Tor — a quiet, years-long trust failure in the network everyone assumes is bulletproof.",
+      "angle": "Explainer for the security-literate reader: what the bug actually broke, who was exposed, and why 'Bitcoin is secure' always needs an asterisk",
+      "source": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
     },
     {
-      "title": "Near AI's Breach Just Showed What Happens When You Give Agents Wallets and Skip the Audit",
-      "why_now": "An AI-agent platform leaking user data and agent details lands right as the industry races to let autonomous agents hold keys and execute trades — a preview of the next hack category.",
-      "angle": "Forward-looking security take: use the Near AI breach as the opening case study for a 'AI agents are the next attack surface' thesis piece, with predictions on what gets exploited first.",
-      "source": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents"
+      "title": "Initia Got Hacked Twice in Three Weeks — Same Chain, Same Lesson Unlearned",
+      "why_now": "A second exploit on Initia within weeks of the first is the clearest sign yet that post-hack 'we've patched it' statements are often just marketing.",
+      "angle": "Pattern-recognition piece: compare both Initia exploits side by side and ask why the fix didn't fix anything",
+      "source": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

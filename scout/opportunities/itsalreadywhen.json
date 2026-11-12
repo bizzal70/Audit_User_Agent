@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-11T11:05:34+00:00",
+  "generated": "2026-11-12T11:05:26+00:00",
   "opportunities": [
     {
-      "title": "1,259 Bugs, One Zero-Day: Inside November's Patch Tuesday Megaload (and the Outlook Flaw Leaking NTLMv2 Hashes)",
-      "why_now": "Microsoft, Adobe, Intel/AMD, and Siemens all dropped record-breaking patch counts this week, anchored by an actively exploited Outlook zero-day — the exact 'inevitable breach' math our readers track monthly.",
-      "angle": "Patch Tuesday digest roundup with a prioritized patch-now list, spotlighting the Outlook NTLMv2 hash exposure as the must-fix item",
-      "source": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
+      "title": "N-able N-central: 33 Flaws, Zero-Days Under Active Attack, and an RMM Platform Taken Offline — The Anatomy of an MSP Supply-Chain Nightmare",
+      "why_now": "N-able yanked its own platform offline mid-week while attackers were already exploiting the zero-days, and SecurityWeek/Dark Reading both confirmed active exploitation within hours of disclosure — the fastest disclosure-to-exploit window we've tracked this month.",
+      "angle": "Timeline reconstruction: patch Tuesday fallout vs. zero-day exploitation race, with a 'why RMM tools are the perfect ransomware staging ground' sidebar",
+      "source": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/"
     },
     {
-      "title": "Patched Last Week, Pwned This Week: Barracuda's 'Make-Me-Root' Flaws Already Under Attack",
-      "why_now": "Exploitation began almost immediately after Barracuda's email gateway fix shipped, proving patch cadence is losing the race against weaponization.",
-      "angle": "Timeline breakdown: disclosure-to-patch-to-exploit, with IOCs and a 'what to check right now' checklist for Barracuda admins",
-      "source": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+      "title": "1,100 Bugs, One Active Exploit: Parsing November's Patch Tuesday So You Don't Have To",
+      "why_now": "Both The Register and Krebs clocked the same eye-popping number (~1,000-1,100 CVEs) in a single Patch Tuesday, with one already weaponized — a genuinely inevitable-breach-digest headline moment.",
+      "angle": "Digest format: top 5 CVEs that matter (ranked by exploitability/exposure), skip the rest, link out to Krebs/Register for depth",
+      "source": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
     },
     {
-      "title": "Patches Exist, Attacks Continue: Cisco BroadWorks and Openwave Under Active Exploitation",
-      "why_now": "Threat actors are hitting two unrelated telecom-adjacent platforms despite available fixes, a textbook case of patch-apathy enabling breach.",
-      "angle": "Dual-vendor exploit report framed as a 'why patching isn't enough' explainer with mitigation steps for telecom/VoIP admins",
-      "source": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html"
+      "title": "Maersk's $5M Shakedown: When a Shipping Giant Becomes a Ransomware Negotiation",
+      "why_now": "SecurityWeek confirmed the data theft and the specific $5M extortion figure just a day after The Register's initial 'probing an incident' story — the story has moved from speculation to hard numbers.",
+      "angle": "Follow-the-money breach recap: what was stolen, what Maersk is paying (or not), and what this means for critical logistics infrastructure",
+      "source": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/"
     },
     {
-      "title": "$740,000 and Counting: How Stolen AI API Keys Became Railway's Billing Nightmare",
-      "why_now": "A concrete dollar figure on AI-key theft makes this the clearest cautionary tale yet for any company plugging LLM keys into CI/CD pipelines.",
-      "angle": "Breach post-mortem with cost breakdown and a developer-focused 'secure your AI keys' checklist",
-      "source": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html"
+      "title": "4,837 Stolen GitHub Accounts, One CI Secret Stealer, 1,806 Repos: Inside the Software Supply Chain's Worst Week",
+      "why_now": "The Hacker News broke a genuinely massive-scale CI/CD compromise number that hasn't gotten the attention it deserves amid all the Patch Tuesday noise — a textbook 'inevitable breach' supply-chain story.",
+      "angle": "Explainer on how hijacked dev accounts become CI secret-stealing infrastructure, with a checklist for securing CI pipelines",
+      "source": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html"
     },
     {
-      "title": "Fireworks AI Gets Burned Twice: When 'We Fixed It' Doesn't Mean Fixed",
-      "why_now": "A second, widening customer-data exposure at the same AI vendor in short order is the inevitable-breach narrative in its purest form.",
-      "angle": "Incident timeline comparing the two exposures with a 'lessons for AI vendors on breach disclosure' sidebar",
-      "source": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722"
+      "title": "The Whiteboard Password: A London Hotel's Admin Login Was Hiding in Plain Sight Behind the Front Desk",
+      "why_now": "A perfectly absurd, visual, shareable physical-security fail that stands in stark contrast to the week's heavyweight CVE counts — exactly the kind of 'humans are the real zero-day' story that drives clicks and quote-tweets.",
+      "angle": "Short, punchy blog post + X thread pairing the hotel whiteboard with the eMudhra 'buggy script' excuse — a two-for-one 'bad excuses, worse security hygiene' roundup",
+      "source": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889"
     }
   ]
 }

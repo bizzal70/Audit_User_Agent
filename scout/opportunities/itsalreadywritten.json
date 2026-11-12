@@ -1,34 +1,34 @@
 {
-  "generated": "2026-11-11T11:05:34+00:00",
+  "generated": "2026-11-12T11:05:26+00:00",
   "opportunities": [
     {
-      "title": "Vampire: The Masquerade 6th Edition Alpha Is Live — Here's Every Rule That's Changing",
-      "why_now": "The new alpha playtest just dropped, giving us a fresh, citable ruleset to dissect before the community consensus forms.",
-      "angle": "Line-by-line breakdown of alpha mechanics vs. 5th edition, with a verdict on what's actually new vs. rebranded",
+      "title": "The Pactweaver, Rules-Checked: Every Spirit Pact Clause You Need to Know Before Session Zero",
+      "why_now": "A full new D&D class just dropped and the mechanics are already being parsed by the community, making this the window to be the definitive rules breakdown.",
+      "angle": "Mechanical deep-dive thread/blog post dissecting the Pactweaver's subclass features, spirit pact boons/banes, and balance implications vs existing warlock/pact magic",
+      "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
+    },
+    {
+      "title": "VTM5.5 Alpha Leak Rules Audit: What's Actually Changed in Disciplines and Hunger Dice",
+      "why_now": "The new alpha playtest for Vampire: The Masquerade's next edition just went live, meaning the exact text is fresh and comparison-worthy.",
+      "angle": "Side-by-side rules comparison (old vs alpha) with 'is the rules are already written' verdict on whether core mechanics survive",
       "source": "https://www.enworld.org/threads/vampire-the-masquerades-new-edition-gets-a-new-alpha-playtest.721324/"
     },
     {
-      "title": "Mistborn RPG Hit Retail After a $14.7M Kickstarter — Does the Rules Engine Live Up to the Hype?",
-      "why_now": "Retail launch means the full rulebook is finally in players' hands for real scrutiny, not just backer previews.",
-      "angle": "Mechanical teardown of the Allomancy/Feruchemy systems vs. the pledge promises",
+      "title": "Mistborn RPG's $14.7M Kickstarter Promised a Rules System Built on Allomancy — Does the Retail Book Deliver?",
+      "why_now": "The retail release just happened, so this is the moment to verify the mechanics against the hype before buyer's remorse sets in.",
+      "angle": "Rules-fidelity review: metal-burning resource system, investiture mechanics, and how closely retail matches backer expectations",
       "source": "https://www.enworld.org/threads/mistborn-rpg-is-out-in-retail-following-14-7-million-kickstarter.721322/"
     },
     {
-      "title": "Warhammer 40K: Dark Heresy Is Becoming a Video Game — What Survives the Jump From Tabletop Rules?",
-      "why_now": "A January 2027 release date just confirmed, making this the moment to set expectations before adaptation hype takes over.",
-      "angle": "Predict which TTRPG mechanics (corruption, insanity points, career advances) will/won't translate to a video game ruleset",
-      "source": "https://www.enworld.org/threads/warhammer-40k-dark-heresy-video-game-based-on-the-ttrpg-of-the-same-name-comes-out-in-january-2027.721329/"
+      "title": "Dungeon Crawler Carl RPG: What the Rules Actually Say About Dungeon-as-Game-Show Mechanics",
+      "why_now": "This new print RPG just surfaced in the roundup and its novel dungeon-system conceit is prime territory for a first-look rules explainer.",
+      "angle": "First-look explainer breaking down the core dungeon/system loop and how it translates the novels' game-show stakes into crunch",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dungeon-crawler-carl-rpg-sickest-witch-mothership-and-more.721285/"
     },
     {
-      "title": "Sly Flourish Says 'Write for Yourself' — Here's the Rules Case for Why Prep Notes Aren't a Rulebook",
-      "why_now": "Fresh GM-advice piece gives us a hook to clarify the line between house prep and official rules text.",
-      "angle": "Rules-first rebuttal/extension: codify what counts as 'the rules' vs. personal GM shorthand, with a usable template",
-      "source": "https://slyflourish.com/write_for_yourself.html?rss=1"
-    },
-    {
-      "title": "Level Up's 50% Pre-Holiday Sale: Which Advanced 5E Rulebooks Are Actually Worth Your Cart",
-      "why_now": "The sale is live now, creating a narrow window where a buyer's guide drives immediate clicks and purchases.",
-      "angle": "Ranked shopping guide scored purely on rules crunch and table utility, not art or flavor",
+      "title": "Level Up's 50% Sale: Which Advanced 5E Rulebooks Are Actually Worth Your Cash Right Now",
+      "why_now": "A massive pre-holiday sale is live right now, giving readers a time-sensitive reason to click for buying guidance.",
+      "angle": "Ranked buyer's guide rating each Level Up sourcebook by rules depth/usefulness, framed as 'already written, now discounted'",
       "source": "https://www.enworld.org/threads/massive-level-up-pre-holiday-50-sale.721318/"
     }
   ]
