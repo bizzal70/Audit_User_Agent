@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-12T11:05:26+00:00",
+  "generated": "2026-11-13T11:05:16+00:00",
   "opportunities": [
     {
-      "title": "Pactweaver Breakdown: Is This New D&D Class Actually a Warlock Fix or Just Reflavored Bloat?",
-      "why_now": "EN World just published the full new official-adjacent class, giving tabletop channels a first-look rules analysis before the fanbase settles on an opinion.",
-      "angle": "60-sec rules-ruling short: pull 2-3 Pactweaver features, stat them against Warlock pact boons, deliver a blunt verdict ('better flavor, worse math at level 5')",
+      "title": "The Pactweaver's Boon Debt Mechanic: Is It Just Warlock 2.0, or Does It Actually Fix Pact Magic?",
+      "why_now": "EN World just published the full new Pactweaver class on 11/11, giving the fanbase something concrete to dissect before every other channel does the same breakdown",
+      "angle": "60-sec rules teardown: compare Pactweaver's debt/boon economy to standard Warlock invocations, flag one broken combo and one DM fix",
       "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
     },
     {
-      "title": "Your Stranger Things D&D Boxed Set Is Up for Toy of the Year — Here's the One Rule in It Nobody Reads",
-      "why_now": "The Toy of the Year nomination is driving fresh search traffic from non-hobbyists who own or are buying the set and need quick rules clarity.",
-      "angle": "Hook on the nomination for reach, pivot immediately to a dry mechanical nugget from the included adventure (e.g., Mind Flayer psychic damage interaction) — bait-and-switch into real crunch",
+      "title": "What's Actually In the Stranger Things D&D Box (and Why It's Up for Toy of the Year)",
+      "why_now": "The boxed set just landed a Toy of the Year nomination, spiking search interest from parents/gift-buyers who don't know 5e",
+      "angle": "Quick unboxing-style ruling: pull one monster stat block or simplified mechanic from the set and show how it maps to core 5e, pitched at new GMs",
       "source": "https://www.enworld.org/threads/dungeons-dragons-stranger-things-boxed-set-earns-toy-of-the-year-nomination.721342/"
     },
     {
-      "title": "Dungeon Crawler Carl RPG Is Coming — Here's the DCC Rule It's Stealing (And Why Your Table Should Too)",
-      "why_now": "The RPG Print News roundup confirms the Dungeon Crawler Carl tabletop adaptation is moving forward, giving a timely excuse to spotlight a DCC mechanic its audience may not run elsewhere.",
-      "angle": "Creature-tactic/mechanic short: explain DCC's funnel/luck mechanic, frame it as 'the rule Dungeon Crawler Carl RPG is betting its whole identity on'",
+      "title": "Dungeon Crawler Carl RPG vs. DCC: Same Initials, Completely Different Death Rate",
+      "why_now": "This week's RPG Print News roundup put Dungeon Crawler Carl RPG next to Mothership, and the name collision with Dungeon Crawl Classics is confusing buyers right now",
+      "angle": "Side-by-side mechanic comparison: pick one lethality mechanic from each system and rule which kills a level-1 party faster",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dungeon-crawler-carl-rpg-sickest-witch-mothership-and-more.721285/"
     },
     {
-      "title": "RPG Evolution Asked 'What's Your Element?' — Here's the One Elemental Spell Combo That Actually Breaks Encounters",
-      "why_now": "The EN World elemental-themed piece is fresh discourse fodder; riding the topic lets the channel deliver a genuinely useful spell use-case instead of a think-piece.",
-      "angle": "Spell use-case short: pick one elemental spell (e.g., Control Water vs. a fire-based monster) and show the exact tactical interaction with damage types/resistances",
-      "source": "https://www.enworld.org/threads/rpg-evolution-in-your-element.721306/"
+      "title": "Paizo Says No AI In Their New Book — Here's the Tell-Tale Stat Block Sign I'd Check For",
+      "why_now": "Paizo's AI denial (11/12) is fresh industry drama that GMs are already arguing about on Reddit and Discord",
+      "angle": "Wry veteran-GM take: walk through what a hand-crafted vs AI-generated monster entry actually looks like mechanically, using a published stat block as evidence",
+      "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
     },
     {
-      "title": "50% Off Level Up Before the Holidays: The One Sourcebook Worth Buying (And Four You Can Skip)",
-      "why_now": "The Level Up pre-holiday sale is live now, giving a narrow window for a value-driven roundup that converts browsing viewers into buyers via affiliate/community goodwill.",
-      "angle": "Quick-hit buyer's guide short: rank the sale items by actual table utility, deliver one sharp recommendation and one blunt 'don't bother'",
-      "source": "https://www.enworld.org/threads/massive-level-up-pre-holiday-50-sale.721318/"
+      "title": "13 Omens x Pathfinder Zine: One Encounter I'm Stealing for My 5e Table Tonight",
+      "why_now": "The crossover zine just dropped (11/12), and horror-genre content ports easily into any OSR-adjacent 5e/Shadowdark game",
+      "angle": "Creature tactic short: lift one 13 Omens monster concept, reskin it with a Shadowdark stat block, show the one tactic that makes it scary",
+      "source": "https://www.enworld.org/threads/13-omens-gets-crossover-zine-with-pathfinder.721353/"
     }
   ]
 }

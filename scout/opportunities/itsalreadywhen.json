@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-12T11:05:26+00:00",
+  "generated": "2026-11-13T11:05:16+00:00",
   "opportunities": [
     {
-      "title": "N-able N-central: 33 Flaws, Zero-Days Under Active Attack, and an RMM Platform Taken Offline — The Anatomy of an MSP Supply-Chain Nightmare",
-      "why_now": "N-able yanked its own platform offline mid-week while attackers were already exploiting the zero-days, and SecurityWeek/Dark Reading both confirmed active exploitation within hours of disclosure — the fastest disclosure-to-exploit window we've tracked this month.",
-      "angle": "Timeline reconstruction: patch Tuesday fallout vs. zero-day exploitation race, with a 'why RMM tools are the perfect ransomware staging ground' sidebar",
-      "source": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/"
+      "title": "PoC to Pwned in Hours: N-central's Zero-Day Is the Patch-Cadence Nightmare in Miniature",
+      "why_now": "N-able took N-central offline for 33 flaws on Nov 11, and by Nov 13 attackers were already exploiting a new zero-day against dozens of servers (19 still on Hotfix 2) within hours of PoC publication.",
+      "angle": "Timeline breakdown: disclosure → PoC → exploitation, with a hard look at how 'hotfix applied' still meant 'still owned'",
+      "source": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
     },
     {
-      "title": "1,100 Bugs, One Active Exploit: Parsing November's Patch Tuesday So You Don't Have To",
-      "why_now": "Both The Register and Krebs clocked the same eye-popping number (~1,000-1,100 CVEs) in a single Patch Tuesday, with one already weaponized — a genuinely inevitable-breach-digest headline moment.",
-      "angle": "Digest format: top 5 CVEs that matter (ranked by exploitability/exposure), skip the rest, link out to Krebs/Register for depth",
-      "source": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
+      "title": "Microsoft Exchange 2016/2019 Just Entered Permanent-Vulnerability Mode — Here's What That Actually Means for You",
+      "why_now": "The Register flags EOL Exchange servers as now structurally unpatchable, a slow-motion breach engine still sitting on thousands of networks.",
+      "angle": "Explainer on EOL-as-attack-surface with a migration-urgency checklist",
+      "source": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401"
     },
     {
-      "title": "Maersk's $5M Shakedown: When a Shipping Giant Becomes a Ransomware Negotiation",
-      "why_now": "SecurityWeek confirmed the data theft and the specific $5M extortion figure just a day after The Register's initial 'probing an incident' story — the story has moved from speculation to hard numbers.",
-      "angle": "Follow-the-money breach recap: what was stolen, what Maersk is paying (or not), and what this means for critical logistics infrastructure",
-      "source": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/"
+      "title": "PHP2Shell Isn't Just RCE — It's Wiping ESXi Hosts After It Backdoors Your Check Point Gateway",
+      "why_now": "Active exploitation chaining a Check Point flaw into TSGA backdoor deployment and destructive ESXi file wiping was confirmed Nov 13, making this a top urgent-patch story.",
+      "angle": "Technical breakdown of the attack chain plus immediate mitigation steps for Check Point admins",
+      "source": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html"
     },
     {
-      "title": "4,837 Stolen GitHub Accounts, One CI Secret Stealer, 1,806 Repos: Inside the Software Supply Chain's Worst Week",
-      "why_now": "The Hacker News broke a genuinely massive-scale CI/CD compromise number that hasn't gotten the attention it deserves amid all the Patch Tuesday noise — a textbook 'inevitable breach' supply-chain story.",
-      "angle": "Explainer on how hijacked dev accounts become CI secret-stealing infrastructure, with a checklist for securing CI pipelines",
-      "source": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html"
+      "title": "SignDrop: The Windows Zero-Day That Turns a Security Feature Into a SYSTEM-Access Backdoor",
+      "why_now": "Nightmare Eclipse's SignDrop exploit abuses CLFS (a core Windows security subsystem) for privilege escalation, and it's circulating now, pre-patch.",
+      "angle": "CVE deep-dive on the irony of a 'security feature' becoming the exploit vector, with detection guidance",
+      "source": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/"
     },
     {
-      "title": "The Whiteboard Password: A London Hotel's Admin Login Was Hiding in Plain Sight Behind the Front Desk",
-      "why_now": "A perfectly absurd, visual, shareable physical-security fail that stands in stark contrast to the week's heavyweight CVE counts — exactly the kind of 'humans are the real zero-day' story that drives clicks and quote-tweets.",
-      "angle": "Short, punchy blog post + X thread pairing the hotel whiteboard with the eMudhra 'buggy script' excuse — a two-for-one 'bad excuses, worse security hygiene' roundup",
-      "source": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889"
+      "title": "Maersk Confirms 'IT Security Incident' — Why Shipping Giants Keep Ending Up in Breach Headlines",
+      "why_now": "One of the world's largest shipping companies disclosed a data theft probe on Nov 11, reviving memories of NotPetya-era critical-infrastructure fallout.",
+      "angle": "Rapid-response breach tracker post, updated as details emerge, tying it to logistics-sector risk trends",
+      "source": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096"
     }
   ]
 }

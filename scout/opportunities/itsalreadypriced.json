@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-12T11:05:26+00:00",
+  "generated": "2026-11-13T11:05:16+00:00",
   "opportunities": [
     {
-      "title": "The CSO Predicted His Own $6.3B Hack — And Nobody Listened",
-      "why_now": "Binance's own security chief described the exact attack vector months before the $6.3B breach happened, and the receipts are public now.",
-      "angle": "Forensic timeline piece pairing the CSO's old quotes against the attack post-mortem — 'read the warning, then watch it happen anyway'",
-      "source": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The Binance CSO Called His Shot: He Described the $6.3B Hack Months Before It Happened",
+      "why_now": "A security exec publicly foreshadowed the exact attack vector used in one of the year's biggest hacks, and nobody acted on it.",
+      "angle": "Analysis piece dissecting the CSO's prior statements against the attack timeline — the 'we told you so' genre done with receipts, ending on what orgs should be monitoring for in their own exec's warnings right now.",
+      "source": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack"
     },
     {
-      "title": "Across Protocol's Domain Got Hijacked, Wallets Got Drained, and the Warning Came Too Late",
-      "why_now": "Across went from 'avoid the app' to 'hackers control our domain' to 'restored' in 48 hours — a live case study in how fast a DNS compromise becomes a wallet-drain event.",
-      "angle": "Minute-by-minute incident breakdown with the actionable lesson: domain security is wallet security, and users had no way to know mid-attack",
-      "source": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Across Protocol's 72 Hours: Hijacked Domain, Drained Wallets, Website Down — A Timeline of a Slow-Motion Rug",
+      "why_now": "Three separate incident reports over three days (warn, hijack, restore) show a protocol losing control in real time.",
+      "angle": "Chronological incident timeline/postmortem format with a pull-quote style verdict on what each step reveals about their incident response — classic 'already priced' skepticism toward the 'we fixed it' close-out.",
+      "source": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain"
     },
     {
-      "title": "CertiK Says Exchanges Need Hard Dollar Caps on Hot Wallets — After a $6.3B Hack Just Proved It",
-      "why_now": "CertiK's hot-wallet-cap proposal lands days after the largest exchange hack in crypto history, turning a wonky policy idea into the obvious fix nobody implemented in time.",
-      "angle": "Opinion/analysis: why this is the security equivalent of a speed limit — boring until it's the only thing that would've capped the damage",
-      "source": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "57 Cents Stolen for Every Dollar Earned Onchain: The Tax Nobody Votes On",
+      "why_now": "Ark's Valente just quantified crypto's hack problem as an effective tax rate, a stat built for a single punchy chart and quote-tweet.",
+      "angle": "Short data-led post/thread: one chart, one brutal stat, framed as the real 'protocol fee' crypto users pay that never shows up in a fee calculator.",
+      "source": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark"
     },
     {
-      "title": "Bitcoin Core Just Admitted Thousands of Nodes Would Trust Any Stranger Over Tor",
-      "why_now": "A newly disclosed Bitcoin Core bug meant nodes couldn't properly verify who they were talking to on Tor — a quiet, years-long trust failure in the network everyone assumes is bulletproof.",
-      "angle": "Explainer for the security-literate reader: what the bug actually broke, who was exposed, and why 'Bitcoin is secure' always needs an asterisk",
-      "source": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
+      "title": "Initia Got Hacked Twice in Three Weeks — And That's Not Even Rare Anymore",
+      "why_now": "A second exploit on the same chain within 21 days is a pattern, not an incident, and fits a growing roster of repeat-offender protocols.",
+      "angle": "Pattern-recognition post naming other 'twice-hacked' protocols from this year, arguing repeat exploits are now a predictable category worth tracking, not a fluke.",
+      "source": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks"
     },
     {
-      "title": "Initia Got Hacked Twice in Three Weeks — Same Chain, Same Lesson Unlearned",
-      "why_now": "A second exploit on Initia within weeks of the first is the clearest sign yet that post-hack 'we've patched it' statements are often just marketing.",
-      "angle": "Pattern-recognition piece: compare both Initia exploits side by side and ask why the fix didn't fix anything",
-      "source": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Nakamoto Owes Kraken $165M — More Than the Company Is Worth",
+      "why_now": "A bitcoin treasury firm's debt to an exchange now exceeds its own market cap, a leverage-and-counterparty-risk story breaking as BTC slides below $70K.",
+      "angle": "Markets-meets-security piece framing exchange counterparty exposure as its own attack surface — tie to the broader bitcoin-treasury-firm leverage unwind happening alongside Strategy/MSCI news this week.",
+      "source": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
     }
   ]
 }
