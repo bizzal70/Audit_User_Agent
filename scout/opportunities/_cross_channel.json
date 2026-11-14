@@ -1,4 +1,53 @@
 {
-  "generated": "2026-11-13T11:05:16+00:00",
-  "plays": []
+  "generated": "2026-11-14T11:05:05+00:00",
+  "plays": [
+    {
+      "story": "DOJ seizes $1.2B tied to the Binance hack while Dark Reading reveals the attackers exploited a known, unpatched weakness the exchange's own CSO had warned about months earlier",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "DOJ's $1.2B Clawback From the Binance Hack Is the Biggest Crypto Seizure Ever — What It Means for BNB and Exchange Risk Premiums",
+        "itsalreadywhen": "The $6.3B Hack Binance's Own Security Chief Predicted: A Postmortem on the Warning Everyone Ignored"
+      },
+      "source": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "FinCEN bars U.S. institutions from moving funds for MEXC Global just as Tron and Tether bring in Chainalysis after their own anti-laundering task force folded",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Tether and Tron Just Admitted They Can't Police Themselves — Why Chainalysis Is Stepping Into the T3 Crime Unit's Shoes",
+        "itsalreadywhen": "FinCEN's MEXC Ban Is the Blueprint for How Washington Fights Crypto Laundering Next"
+      },
+      "source": "https://www.chainalysis.com/blog/fincen-mexc-global-november-2026/"
+    },
+    {
+      "story": "Paizo publicly denies using AI to produce art/text in its newest Pathfinder release amid fan accusations",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Paizo Says No Bots Wrote This: Inside the AI Accusation Rocking Its Newest Pathfinder Book",
+        "itsalreadywritten": "When 'No AI Wrote This' Becomes a Marketing Claim: Paizo's Denial and TTRPG Publishing's New Burden of Proof"
+      },
+      "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
+    },
+    {
+      "story": "A full new D&D class, the Pactweaver, launches letting players bargain with spirits",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Make a Deal with Something Worse Than Death: First Look at D&D's New Pactweaver Class",
+        "itsalreadywritten": "Writing the Pactweaver: How D&D's Newest Class Turns Spirit Negotiation Into Mechanics — and What It Means for Your NPCs"
+      },
+      "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
+    }
+  ]
 }

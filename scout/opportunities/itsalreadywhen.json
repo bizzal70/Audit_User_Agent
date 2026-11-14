@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-13T11:05:16+00:00",
+  "generated": "2026-11-14T11:05:05+00:00",
   "opportunities": [
     {
-      "title": "PoC to Pwned in Hours: N-central's Zero-Day Is the Patch-Cadence Nightmare in Miniature",
-      "why_now": "N-able took N-central offline for 33 flaws on Nov 11, and by Nov 13 attackers were already exploiting a new zero-day against dozens of servers (19 still on Hotfix 2) within hours of PoC publication.",
-      "angle": "Timeline breakdown: disclosure → PoC → exploitation, with a hard look at how 'hotfix applied' still meant 'still owned'",
-      "source": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+      "title": "100,000 Bugs and Counting: 2026 Just Became the Worst Year for CVEs on Record",
+      "why_now": "The annual bug count crossed 100K this week, a hard number that crystallizes the 'inevitable breach' thesis in one headline stat.",
+      "angle": "Data-driven digest: chart the CVE pace vs. prior years, flag which vendors/categories drove the spike, end with a 'what this means for your patch Tuesday' takeaway",
+      "source": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882"
     },
     {
-      "title": "Microsoft Exchange 2016/2019 Just Entered Permanent-Vulnerability Mode — Here's What That Actually Means for You",
-      "why_now": "The Register flags EOL Exchange servers as now structurally unpatchable, a slow-motion breach engine still sitting on thousands of networks.",
-      "angle": "Explainer on EOL-as-attack-surface with a migration-urgency checklist",
+      "title": "Exchange Server 2016/2019 Are Now Permanently Vulnerable — Here's Your Exit Plan",
+      "why_now": "Microsoft has effectively declared these versions unpatchable-by-design, turning every org still running them into a standing target.",
+      "angle": "Explainer + urgency checklist: what 'permanently vulnerable' actually means, who's exposed, and a migration decision tree (Exchange Online vs. alternatives)",
       "source": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401"
     },
     {
-      "title": "PHP2Shell Isn't Just RCE — It's Wiping ESXi Hosts After It Backdoors Your Check Point Gateway",
-      "why_now": "Active exploitation chaining a Check Point flaw into TSGA backdoor deployment and destructive ESXi file wiping was confirmed Nov 13, making this a top urgent-patch story.",
-      "angle": "Technical breakdown of the attack chain plus immediate mitigation steps for Check Point admins",
-      "source": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html"
+      "title": "22 Years in Hiding: The PostgreSQL Bug That Was Always There",
+      "why_now": "PostgreSQL just patched 52 flaws, including an authenticated RCE bug that sat undetected for over two decades — a perfect case study in why 'stable' software isn't 'safe' software.",
+      "angle": "CVE deep-dive: timeline of how the bug persisted, who's affected, patch priority ranking against the other 51 flaws",
+      "source": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
     },
     {
-      "title": "SignDrop: The Windows Zero-Day That Turns a Security Feature Into a SYSTEM-Access Backdoor",
-      "why_now": "Nightmare Eclipse's SignDrop exploit abuses CLFS (a core Windows security subsystem) for privilege escalation, and it's circulating now, pre-patch.",
-      "angle": "CVE deep-dive on the irony of a 'security feature' becoming the exploit vector, with detection guidance",
+      "title": "North Korea's $400M Deepfake Heist: Video Calls Are the New Phishing Email",
+      "why_now": "FBI attribution confirms DPRK hackers used deepfake video calls to steal over $400M in crypto, marking a scale jump for synthetic-media social engineering.",
+      "angle": "Threat actor profile: how the deepfake-call vector worked step by step, plus a defensive checklist for finance/crypto teams on verifying video identity",
+      "source": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
+    },
+    {
+      "title": "SignDrop: Nightmare Eclipse's Windows Zero-Day Nobody Patched in Time",
+      "why_now": "A fresh, actively-exploited Windows zero-day (SignDrop) from a named threat actor is exactly the kind of unpatched-gap story this digest exists to track.",
+      "angle": "Breaking-style brief: what SignDrop exploits, who's using it, and the patch/mitigation status as of this week",
       "source": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/"
-    },
-    {
-      "title": "Maersk Confirms 'IT Security Incident' — Why Shipping Giants Keep Ending Up in Breach Headlines",
-      "why_now": "One of the world's largest shipping companies disclosed a data theft probe on Nov 11, reviving memories of NotPetya-era critical-infrastructure fallout.",
-      "angle": "Rapid-response breach tracker post, updated as details emerge, tying it to logistics-sector risk trends",
-      "source": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096"
     }
   ]
 }

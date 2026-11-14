@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-13T11:05:16+00:00",
+  "generated": "2026-11-14T11:05:05+00:00",
   "opportunities": [
     {
-      "title": "The Pactweaver's Boon Debt Mechanic: Is It Just Warlock 2.0, or Does It Actually Fix Pact Magic?",
-      "why_now": "EN World just published the full new Pactweaver class on 11/11, giving the fanbase something concrete to dissect before every other channel does the same breakdown",
-      "angle": "60-sec rules teardown: compare Pactweaver's debt/boon economy to standard Warlock invocations, flag one broken combo and one DM fix",
+      "title": "Pactweaver Breakdown: Is This Homebrew Warlock-Killer Actually Balanced?",
+      "why_now": "A full new D&D class just dropped and tabletop players are already arguing mechanics on EN World.",
+      "angle": "Rules-ruling short: pull 2-3 Pactweaver features, run the math against existing Warlock pacts, give a blunt verdict.",
       "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
     },
     {
-      "title": "What's Actually In the Stranger Things D&D Box (and Why It's Up for Toy of the Year)",
-      "why_now": "The boxed set just landed a Toy of the Year nomination, spiking search interest from parents/gift-buyers who don't know 5e",
-      "angle": "Quick unboxing-style ruling: pull one monster stat block or simplified mechanic from the set and show how it maps to core 5e, pitched at new GMs",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-stranger-things-boxed-set-earns-toy-of-the-year-nomination.721342/"
+      "title": "Troll Regeneration: The One Ruling Every New DM Gets Wrong",
+      "why_now": "WoW's Troll deep dive is trending and trolls are a D&D monster manual staple whose regen rule trips up tables constantly.",
+      "angle": "Creature tactic short: state the RAW regen/fire-acid interaction, show the common DM mistake, give the correct ruling in one breath.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-troll.721341/"
     },
     {
-      "title": "Dungeon Crawler Carl RPG vs. DCC: Same Initials, Completely Different Death Rate",
-      "why_now": "This week's RPG Print News roundup put Dungeon Crawler Carl RPG next to Mothership, and the name collision with Dungeon Crawl Classics is confusing buyers right now",
-      "angle": "Side-by-side mechanic comparison: pick one lethality mechanic from each system and rule which kills a level-1 party faster",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dungeon-crawler-carl-rpg-sickest-witch-mothership-and-more.721285/"
-    },
-    {
-      "title": "Paizo Says No AI In Their New Book — Here's the Tell-Tale Stat Block Sign I'd Check For",
-      "why_now": "Paizo's AI denial (11/12) is fresh industry drama that GMs are already arguing about on Reddit and Discord",
-      "angle": "Wry veteran-GM take: walk through what a hand-crafted vs AI-generated monster entry actually looks like mechanically, using a published stat block as evidence",
+      "title": "Paizo Says No AI — Here's Why Your Table Should Care",
+      "why_now": "Paizo just publicly denied AI use in a new Pathfinder book amid an industry-wide trust crisis over AI art/text.",
+      "angle": "Dry veteran-GM take: why provenance of published adventures matters when you're the one running it cold at the table.",
       "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
     },
     {
-      "title": "13 Omens x Pathfinder Zine: One Encounter I'm Stealing for My 5e Table Tonight",
-      "why_now": "The crossover zine just dropped (11/12), and horror-genre content ports easily into any OSR-adjacent 5e/Shadowdark game",
-      "angle": "Creature tactic short: lift one 13 Omens monster concept, reskin it with a Shadowdark stat block, show the one tactic that makes it scary",
+      "title": "13 Omens x Pathfinder Zine: Can You Actually Run This Crossover at a 5e Table?",
+      "why_now": "The crossover zine just released, giving a fresh, narrow hook before the broader audience has digested it.",
+      "angle": "Spell/system use-case short: pick one 13 Omens mechanic and show how to port it into a 5e/Shadowdark one-shot.",
       "source": "https://www.enworld.org/threads/13-omens-gets-crossover-zine-with-pathfinder.721353/"
+    },
+    {
+      "title": "The Stranger Things D&D Set Got a Toy of the Year Nod — Here's the One Rule It Gets Wrong",
+      "why_now": "The boxed set's TOTY nomination is fresh news and gives a timely excuse to critique its simplified rules against real 5e play.",
+      "angle": "Mechanical nitpick short: compare one beginner-set rule to actual 5e RAW and explain why the simplification bites new players later.",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-stranger-things-boxed-set-earns-toy-of-the-year-nomination.721342/"
     }
   ]
 }

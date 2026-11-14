@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-13T11:05:16+00:00",
+  "generated": "2026-11-14T11:05:05+00:00",
   "opportunities": [
     {
-      "title": "The Pactweaver, Fully Parsed: Every Feature, Every Level, No Spin",
-      "why_now": "A brand-new full D&D class just dropped and needs a rules-first breakdown before the hot takes drown it out.",
-      "angle": "Level-by-level mechanical breakdown table (patron features, pact boons, spell list gaps) with a verdict on power balance vs. existing pact classes",
+      "title": "The Pactweaver Breakdown: Is This Full-Caster Pact Class Balanced at the Table?",
+      "why_now": "A brand-new full D&D class just dropped and rules-first readers want the mechanical verdict before they let players near it.",
+      "angle": "Rules breakdown/first-impressions review with a feature-by-feature balance check against existing pact/warlock options",
       "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
     },
     {
-      "title": "Paizo Says 'No AI' — Here's How to Actually Verify That in a Rulebook",
-      "why_now": "Paizo's denial is a claim, not evidence, and TTRPG readers want to know what to actually check.",
-      "angle": "Explainer: tells on AI art/text (layout fingerprints, license pages, art credit audits) applied directly to the disputed Pathfinder book",
+      "title": "Paizo Says No AI Was Used — Here's How to Actually Verify That in a Pathfinder Book",
+      "why_now": "Paizo just issued a denial, so this is the moment to give readers a concrete framework for judging AI claims instead of taking statements at face value.",
+      "angle": "Explainer/checklist piece: what AI-generated art/text tells vs. what publisher statements claim, with specifics from this book",
       "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
     },
     {
-      "title": "13 Omens x Pathfinder: What a Zine Crossover Actually Changes Rules-Wise",
-      "why_now": "A crossover zine just got announced and fans will want to know if it's lore-only or touches mechanics/compatibility.",
-      "angle": "Compatibility audit — does it require 13 Omens core rules, Pathfinder 2e remaster rules, or stand alone? Clear yes/no table",
+      "title": "13 Omens x Pathfinder: What the New Crossover Zine Actually Adds to Your Campaign",
+      "why_now": "The crossover zine was just announced and GMs want to know if it's worth bolting onto an existing Pathfinder game.",
+      "angle": "Content preview/utility piece: what's mechanically new, how it slots into existing campaigns",
       "source": "https://www.enworld.org/threads/13-omens-gets-crossover-zine-with-pathfinder.721353/"
     },
     {
-      "title": "Dungeon Crawler Carl Gets a TTRPG — How Faithful Is the Adaptation to the Books' 'Rules'?",
-      "why_now": "The Dungeon Crawler Carl RPG is in this week's print roundup and the books are famous for having explicit, quoted game-system rules fans can fact-check against.",
-      "angle": "Side-by-side: in-fiction 'dungeon system' rules from the novels vs. the actual tabletop mechanics shipping",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dungeon-crawler-carl-rpg-sickest-witch-mothership-and-more.721285/"
+      "title": "Stranger Things D&D Set Gets a Toy of the Year Nod — What It Says About D&D's Mainstream Push",
+      "why_now": "The nomination is fresh and ties directly to D&D's ongoing strategy of mainstream crossover products.",
+      "angle": "News analysis: what the nomination signals for Hasbro/WotC's product roadmap and brand strategy",
+      "source": "https://www.enworld.org/threads/dungeons-dragons-stranger-things-boxed-set-earns-toy-of-the-year-nomination.721342/"
     },
     {
-      "title": "Dark Heresy's TTRPG Roots: What the Video Game Keeps (and Cuts) From the Actual Rulebook",
-      "why_now": "A Dark Heresy video game and a physical cartridge release were both just announced, inviting direct comparison to the source TTRPG.",
-      "angle": "Mechanic-matching piece — Insanity/Corruption points, Fate Points, and d100 tests: which survive the digital translation",
-      "source": "https://www.enworld.org/threads/warhammer-40k-dark-heresy-video-game-based-on-the-ttrpg-of-the-same-name-comes-out-in-january-2027.721329/"
+      "title": "This Week in TTRPG Rules: New Class Drops, Pathfinder's AI Controversy, and a Crossover Zine",
+      "why_now": "The Nov 14 digest rounds up a dense week of actual rules news worth curating for readers who don't follow every thread.",
+      "angle": "Weekly rules-news roundup with knowing commentary on what matters and what's noise",
+      "source": "https://www.enworld.org/threads/news-digest-for-november-14-2026.721373/"
     }
   ]
 }

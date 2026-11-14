@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-13T11:05:16+00:00",
+  "generated": "2026-11-14T11:05:05+00:00",
   "opportunities": [
     {
-      "title": "The Binance CSO Called His Shot: He Described the $6.3B Hack Months Before It Happened",
-      "why_now": "A security exec publicly foreshadowed the exact attack vector used in one of the year's biggest hacks, and nobody acted on it.",
-      "angle": "Analysis piece dissecting the CSO's prior statements against the attack timeline — the 'we told you so' genre done with receipts, ending on what orgs should be monitoring for in their own exec's warnings right now.",
-      "source": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack"
+      "title": "The Binance CSO Predicted His Own $6.3B Hack — And Nobody Listened",
+      "why_now": "A security exec described the exact attack vector months before it was used against his own exchange, which is the purest 'we told you so' story this beat can ask for.",
+      "angle": "Narrative teardown: pull the exact quotes/predictions, lay them against the attack timeline, close with the uncomfortable lesson that warnings don't change incentives.",
+      "source": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Across Protocol's 72 Hours: Hijacked Domain, Drained Wallets, Website Down — A Timeline of a Slow-Motion Rug",
-      "why_now": "Three separate incident reports over three days (warn, hijack, restore) show a protocol losing control in real time.",
-      "angle": "Chronological incident timeline/postmortem format with a pull-quote style verdict on what each step reveals about their incident response — classic 'already priced' skepticism toward the 'we fixed it' close-out.",
-      "source": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain"
+      "title": "57 Cents Stolen Per Dollar Earned Onchain: The Real Yield of Crypto in 2026",
+      "why_now": "Ark's new figure quantifies the security tax everyone already feels, making it a clean, shareable stat for a security-led audience.",
+      "angle": "Data-led op-ed: treat the 57 cents as an effective 'security tax rate,' compare it to TradFi fraud loss rates, argue this is the actual cost of self-custody illusions.",
+      "source": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "57 Cents Stolen for Every Dollar Earned Onchain: The Tax Nobody Votes On",
-      "why_now": "Ark's Valente just quantified crypto's hack problem as an effective tax rate, a stat built for a single punchy chart and quote-tweet.",
-      "angle": "Short data-led post/thread: one chart, one brutal stat, framed as the real 'protocol fee' crypto users pay that never shows up in a fee calculator.",
-      "source": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark"
-    },
-    {
-      "title": "Initia Got Hacked Twice in Three Weeks — And That's Not Even Rare Anymore",
-      "why_now": "A second exploit on the same chain within 21 days is a pattern, not an incident, and fits a growing roster of repeat-offender protocols.",
-      "angle": "Pattern-recognition post naming other 'twice-hacked' protocols from this year, arguing repeat exploits are now a predictable category worth tracking, not a fluke.",
-      "source": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks"
-    },
-    {
-      "title": "Nakamoto Owes Kraken $165M — More Than the Company Is Worth",
-      "why_now": "A bitcoin treasury firm's debt to an exchange now exceeds its own market cap, a leverage-and-counterparty-risk story breaking as BTC slides below $70K.",
-      "angle": "Markets-meets-security piece framing exchange counterparty exposure as its own attack surface — tie to the broader bitcoin-treasury-firm leverage unwind happening alongside Strategy/MSCI news this week.",
+      "title": "Nakamoto Owes Kraken More Than Nakamoto Is Worth — This Is How BTC Treasuries Die",
+      "why_now": "A named bitcoin treasury company now owes more to its lender than its entire market cap, a textbook leverage-spiral case study breaking right now.",
+      "angle": "Case study/autopsy format: walk the debt-to-market-cap math, map it to the broader BTC-treasury leverage thesis, predict who's next.",
       "source": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+    },
+    {
+      "title": "BTCS Just Sold ETH at a Loss to Save a Loan — Watch for the Next Forced Seller",
+      "why_now": "A public ETH treasury firm dumping at a loss purely to keep an Aave position healthy is the opening move of a leverage-unwind cascade playing out in real time.",
+      "angle": "Mechanism explainer: show how the health-factor math forces predictable selling, then list other onchain treasuries with similar loan structures to watch.",
+      "source": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
+    },
+    {
+      "title": "Pennysia Got Exploited — If You've Ever Approved a DeFi Contract, Check This Now",
+      "why_now": "Fresh exploit with an active user-action window (revoke approvals) gives readers something concrete to do in the next hour, not just read about.",
+      "angle": "Actionable security alert: step-by-step revoke guide, plus a broader note on why 'approve' is the most under-discussed attack surface in DeFi.",
+      "source": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit"
     }
   ]
 }
