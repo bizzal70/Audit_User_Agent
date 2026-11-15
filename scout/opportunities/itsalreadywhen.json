@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-14T11:05:05+00:00",
+  "generated": "2026-11-15T11:04:57+00:00",
   "opportunities": [
     {
-      "title": "100,000 Bugs and Counting: 2026 Just Became the Worst Year for CVEs on Record",
-      "why_now": "The annual bug count crossed 100K this week, a hard number that crystallizes the 'inevitable breach' thesis in one headline stat.",
-      "angle": "Data-driven digest: chart the CVE pace vs. prior years, flag which vendors/categories drove the spike, end with a 'what this means for your patch Tuesday' takeaway",
-      "source": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882"
-    },
-    {
-      "title": "Exchange Server 2016/2019 Are Now Permanently Vulnerable — Here's Your Exit Plan",
-      "why_now": "Microsoft has effectively declared these versions unpatchable-by-design, turning every org still running them into a standing target.",
-      "angle": "Explainer + urgency checklist: what 'permanently vulnerable' actually means, who's exposed, and a migration decision tree (Exchange Online vs. alternatives)",
+      "title": "Exchange 2016/2019 Just Entered Permanent Vulnerability Status — Here's Your Migration Deadline Countdown",
+      "why_now": "Microsoft has effectively declared these still-widely-deployed Exchange versions unfixable going forward, turning every unmigrated org into a standing target.",
+      "angle": "Patch-cadence explainer: what 'permanently vulnerable' actually means, who's still running it, and a hard countdown to end of support",
       "source": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401"
     },
     {
-      "title": "22 Years in Hiding: The PostgreSQL Bug That Was Always There",
-      "why_now": "PostgreSQL just patched 52 flaws, including an authenticated RCE bug that sat undetected for over two decades — a perfect case study in why 'stable' software isn't 'safe' software.",
-      "angle": "CVE deep-dive: timeline of how the bug persisted, who's affected, patch priority ranking against the other 51 flaws",
+      "title": "PostgreSQL Just Patched a Bug Older Than the iPhone — 52 Flaws, One 22-Year-Old RCE",
+      "why_now": "A 22-year-old authenticated RCE hiding in one of the world's most-deployed databases is the perfect 'inevitable breach' artifact.",
+      "angle": "CVE deep-dive: timeline of how a bug survives 22 years undetected, plus a patch-now checklist for DBAs",
       "source": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
     },
     {
-      "title": "North Korea's $400M Deepfake Heist: Video Calls Are the New Phishing Email",
-      "why_now": "FBI attribution confirms DPRK hackers used deepfake video calls to steal over $400M in crypto, marking a scale jump for synthetic-media social engineering.",
-      "angle": "Threat actor profile: how the deepfake-call vector worked step by step, plus a defensive checklist for finance/crypto teams on verifying video identity",
+      "title": "2026's Bug Count Just Hit 100,000 — What That Number Actually Means for Your Patch Queue",
+      "why_now": "Crossing the six-figure CVE mark mid-November is a hard data point for the 'we're drowning' narrative the channel is built on.",
+      "angle": "Year-in-data digest: chart the growth rate, flag which vendors/categories are driving the spike, end with a 'your backlog is bigger than you think' call-out",
+      "source": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882"
+    },
+    {
+      "title": "North Korea's Deepfake Job Interviews Just Netted $400M in Crypto — Here's How the Grift Works",
+      "why_now": "The FBI just put a hard number on a threat-actor technique (deepfake video calls for social engineering) that's rapidly becoming standard tradecraft.",
+      "angle": "Threat-actor profile/explainer: break down the deepfake-interview playbook step by step and what HR/security teams should watch for",
       "source": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
     },
     {
-      "title": "SignDrop: Nightmare Eclipse's Windows Zero-Day Nobody Patched in Time",
-      "why_now": "A fresh, actively-exploited Windows zero-day (SignDrop) from a named threat actor is exactly the kind of unpatched-gap story this digest exists to track.",
-      "angle": "Breaking-style brief: what SignDrop exploits, who's using it, and the patch/mitigation status as of this week",
-      "source": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/"
+      "title": "A Stolen API Key Turned Cursor's AI Extension Into Malware — The Supply Chain Breach Nobody Saw Coming",
+      "why_now": "A trojanized Claude Code extension via a stolen Fireworks AI key is a fresh, concrete example of AI-tooling supply chain risk breaking this week, not theoretically.",
+      "angle": "Breach postmortem: trace the attack chain from stolen key to trojanized extension, and what it means for trusting AI coding tool supply chains",
+      "source": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
     }
   ]
 }

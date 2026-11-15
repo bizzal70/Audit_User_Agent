@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-14T11:05:05+00:00",
+  "generated": "2026-11-15T11:04:57+00:00",
   "opportunities": [
     {
-      "title": "The Binance CSO Predicted His Own $6.3B Hack — And Nobody Listened",
-      "why_now": "A security exec described the exact attack vector months before it was used against his own exchange, which is the purest 'we told you so' story this beat can ask for.",
-      "angle": "Narrative teardown: pull the exact quotes/predictions, lay them against the attack timeline, close with the uncomfortable lesson that warnings don't change incentives.",
-      "source": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Kava Lend's $3.8M Hack Just Erased 40% of KAVA — Here's the Exploit Nobody Patched in Time",
+      "why_now": "A live DeFi lending protocol got drained this week and the token cratered in real time, making it a perfect teardown while the wreckage is still fresh.",
+      "angle": "Incident postmortem: walk through the exploit mechanics, why audits missed it, and what the KAVA price chart tells you about contagion speed in lending markets.",
+      "source": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
     },
     {
-      "title": "57 Cents Stolen Per Dollar Earned Onchain: The Real Yield of Crypto in 2026",
-      "why_now": "Ark's new figure quantifies the security tax everyone already feels, making it a clean, shareable stat for a security-led audience.",
-      "angle": "Data-led op-ed: treat the 57 cents as an effective 'security tax rate,' compare it to TradFi fraud loss rates, argue this is the actual cost of self-custody illusions.",
+      "title": "Hackers Now Skim 57 Cents for Every Dollar Onchain Earns — The Math That Should Scare Every DeFi User",
+      "why_now": "Ark's new stat is a gift headline number that quantifies the exact thesis of this channel: the math was never in your favor.",
+      "angle": "Data-led explainer turning the 57-cent stat into a chart/visual, then connecting it to this week's Kava and Coinone incidents as live proof points.",
       "source": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Nakamoto Owes Kraken More Than Nakamoto Is Worth — This Is How BTC Treasuries Die",
-      "why_now": "A named bitcoin treasury company now owes more to its lender than its entire market cap, a textbook leverage-spiral case study breaking right now.",
-      "angle": "Case study/autopsy format: walk the debt-to-market-cap math, map it to the broader BTC-treasury leverage thesis, predict who's next.",
-      "source": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+      "title": "Coinone Got Breached — Here's Why 'We Take Security Seriously' Emails Are a Red Flag, Not a Reassurance",
+      "why_now": "A major exchange just confirmed a customer data breach and is now warning users about phishing fallout, a textbook case study for the post-breach playbook.",
+      "angle": "Security-advisory breakdown: decode the breach notice, list the phishing vectors attackers will run next (SIM swap, fake support DMs), and give readers a checklist.",
+      "source": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "BTCS Just Sold ETH at a Loss to Save a Loan — Watch for the Next Forced Seller",
-      "why_now": "A public ETH treasury firm dumping at a loss purely to keep an Aave position healthy is the opening move of a leverage-unwind cascade playing out in real time.",
-      "angle": "Mechanism explainer: show how the health-factor math forces predictable selling, then list other onchain treasuries with similar loan structures to watch.",
-      "source": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
+      "title": "DOJ Seized $1.2B From a North Korean Hack — Proof That 'Unrecoverable' Crypto Theft Was Always a Myth Sold to Victims",
+      "why_now": "The largest-ever DOJ crypto seizure tied to the Binance hack and FaceStealer scam just dropped, flipping the usual 'funds are gone forever' narrative.",
+      "angle": "Contrarian analysis: use the seizure to explain how blockchain forensics actually works, why most hacks ARE traceable, and why that changes risk calculus for attackers and victims alike.",
+      "source": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Pennysia Got Exploited — If You've Ever Approved a DeFi Contract, Check This Now",
-      "why_now": "Fresh exploit with an active user-action window (revoke approvals) gives readers something concrete to do in the next hour, not just read about.",
-      "angle": "Actionable security alert: step-by-step revoke guide, plus a broader note on why 'approve' is the most under-discussed attack surface in DeFi.",
-      "source": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit"
+      "title": "Bitcoin's Fourth Capitulation Wave Is Here — $1B in ETF Outflows, $39M in Liquidations, and the Chart Nobody Wanted to See",
+      "why_now": "Multiple outlets are independently confirming the same capitulation signal this week (ETF bleed, Aave liquidations, 3-month BTC low), making it the dominant market story to synthesize.",
+      "angle": "Market structure deep-dive connecting ETF outflow data, onchain liquidation cascades, and leverage unwinds into one 'this is what capitulation actually looks like' explainer.",
+      "source": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-14T11:05:05+00:00",
+  "generated": "2026-11-15T11:04:57+00:00",
   "opportunities": [
     {
-      "title": "Pactweaver Breakdown: Is This Homebrew Warlock-Killer Actually Balanced?",
-      "why_now": "A full new D&D class just dropped and tabletop players are already arguing mechanics on EN World.",
-      "angle": "Rules-ruling short: pull 2-3 Pactweaver features, run the math against existing Warlock pacts, give a blunt verdict.",
-      "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
+      "title": "Why Your 'Shaman' NPC Should Be Reskinned Barbarian, Not Druid — The One Rule That Decides It",
+      "why_now": "EN World's WoW class-design thread (11/14) is driving cross-system chatter about shaman archetypes, giving a hook to explain 5e's reskinning rules via rage vs. wild shape mechanics.",
+      "angle": "60-sec 'rules ruling' short: compare Rage's damage resistance/no-concentration-loss vs Wild Shape's utility, explain why mechanically a 'spirit-talker' barbarian plays truer to the fantasy than a druid.",
+      "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
     },
     {
-      "title": "Troll Regeneration: The One Ruling Every New DM Gets Wrong",
-      "why_now": "WoW's Troll deep dive is trending and trolls are a D&D monster manual staple whose regen rule trips up tables constantly.",
-      "angle": "Creature tactic short: state the RAW regen/fire-acid interaction, show the common DM mistake, give the correct ruling in one breath.",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-troll.721341/"
+      "title": "Running a Worgen-Style Curse: The Lycanthropy Save DC Everyone Houserules Wrong",
+      "why_now": "EN World's Worgen deep dive (11/13) puts lycanthropy flavor in front of readers right now, making this the week to clarify the actual DMG/MM save mechanics.",
+      "angle": "Creature tactic short: break down Curse of Lycanthropy's Con save trigger, when it's a Wis save vs Con save depending on edition/Shadowdark, and the one timing error GMs make at the full moon.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-worgen.721363/"
     },
     {
-      "title": "Paizo Says No AI — Here's Why Your Table Should Care",
-      "why_now": "Paizo just publicly denied AI use in a new Pathfinder book amid an industry-wide trust crisis over AI art/text.",
-      "angle": "Dry veteran-GM take: why provenance of published adventures matters when you're the one running it cold at the table.",
-      "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
+      "title": "Fey Ancestry Doesn't Do What You Think — The One Charm Interaction That Breaks Most Elf Builds",
+      "why_now": "EN World's Elves deep dive (11/14) has elf lore trending, perfect timing to correct a widely misapplied racial trait.",
+      "angle": "Spell/trait use-case short: show Fey Ancestry blocking Charm Person's 'put to sleep by magic' clause but NOT advantage on all enchantment saves — a common table error, demonstrated with a sample Hold Person ruling.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-elves.721374/"
     },
     {
-      "title": "13 Omens x Pathfinder Zine: Can You Actually Run This Crossover at a 5e Table?",
-      "why_now": "The crossover zine just released, giving a fresh, narrow hook before the broader audience has digested it.",
-      "angle": "Spell/system use-case short: pick one 13 Omens mechanic and show how to port it into a 5e/Shadowdark one-shot.",
-      "source": "https://www.enworld.org/threads/13-omens-gets-crossover-zine-with-pathfinder.721353/"
+      "title": "The One Exhaustion Rule That Makes Your Christmas Dungeon Actually Feel Cold",
+      "why_now": "Tribality's Christmas Adventures piece (11/14) is seasonal content GMs are searching for right now to run holiday one-shots.",
+      "angle": "Rules ruling short on extreme cold rules (DMG environmental hazards): when a failed Con save stacks exhaustion levels, how Shadowdark's simpler exhaustion track handles it differently, with a sample blizzard encounter.",
+      "source": "https://www.tribality.com/2026/11/14/christmas-themed-adventures-2021/"
     },
     {
-      "title": "The Stranger Things D&D Set Got a Toy of the Year Nod — Here's the One Rule It Gets Wrong",
-      "why_now": "The boxed set's TOTY nomination is fresh news and gives a timely excuse to critique its simplified rules against real 5e play.",
-      "angle": "Mechanical nitpick short: compare one beginner-set rule to actual 5e RAW and explain why the simplification bites new players later.",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-stranger-things-boxed-set-earns-toy-of-the-year-nomination.721342/"
+      "title": "Small Race, Big Advantage: The Vulpera-Style Size Rule Most GMs Forget Exists",
+      "why_now": "EN World's Vulpera deep dive (11/12) spotlights a small playable race archetype, a natural lead-in to clarify 5e's actual (minimal) size-based combat rules.",
+      "angle": "Creature tactic/mechanical myth-bust short: confirm Small creatures don't get a hide/grapple bonus by RAW, then show the one real interaction — heavy weapon disadvantage and mount-carrying capacity — using a Vulpera-flavored rogue as the example.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-vulpera.721352/"
     }
   ]
 }

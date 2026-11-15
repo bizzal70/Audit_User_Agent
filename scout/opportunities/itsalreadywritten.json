@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-14T11:05:05+00:00",
+  "generated": "2026-11-15T11:04:57+00:00",
   "opportunities": [
     {
-      "title": "The Pactweaver Breakdown: Is This Full-Caster Pact Class Balanced at the Table?",
-      "why_now": "A brand-new full D&D class just dropped and rules-first readers want the mechanical verdict before they let players near it.",
-      "angle": "Rules breakdown/first-impressions review with a feature-by-feature balance check against existing pact/warlock options",
-      "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
+      "title": "Why WoW Shamans Use Barbarian Rage Instead of Druid Wild Shape: A Class Design Autopsy",
+      "why_now": "EN World's thread is actively debating the chassis choice, giving a live rules-design question to dissect.",
+      "angle": "Rules-first breakdown comparing D&D subclass mechanics (Rage, spellcasting slots, Wild Shape) to show why Barbarian was the closer mechanical fit for Shaman fantasy, not just flavor.",
+      "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
     },
     {
-      "title": "Paizo Says No AI Was Used — Here's How to Actually Verify That in a Pathfinder Book",
-      "why_now": "Paizo just issued a denial, so this is the moment to give readers a concrete framework for judging AI claims instead of taking statements at face value.",
-      "angle": "Explainer/checklist piece: what AI-generated art/text tells vs. what publisher statements claim, with specifics from this book",
+      "title": "Paizo Says No AI in New Pathfinder Book — Here's How to Verify That Yourself",
+      "why_now": "Paizo's denial is fresh and the TTRPG community is primed to scrutinize AI claims in rulebooks.",
+      "angle": "Fact-check explainer: what telltale signs (art inconsistencies, text artifacts, credits pages) actually prove or disprove AI use, with a rules-first lens on how publishers should disclose sourcing.",
       "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
     },
     {
-      "title": "13 Omens x Pathfinder: What the New Crossover Zine Actually Adds to Your Campaign",
-      "why_now": "The crossover zine was just announced and GMs want to know if it's worth bolting onto an existing Pathfinder game.",
-      "angle": "Content preview/utility piece: what's mechanically new, how it slots into existing campaigns",
+      "title": "13 Omens x Pathfinder Zine: What a Crossover Actually Changes Rules-Wise",
+      "why_now": "The crossover just dropped, and fans will want to know if it's reskinned flavor or new mechanical content.",
+      "angle": "News digest with a rules audit — list exactly what new stat blocks, feats, or subsystems the zine introduces versus pure lore crossover.",
       "source": "https://www.enworld.org/threads/13-omens-gets-crossover-zine-with-pathfinder.721353/"
     },
     {
-      "title": "Stranger Things D&D Set Gets a Toy of the Year Nod — What It Says About D&D's Mainstream Push",
-      "why_now": "The nomination is fresh and ties directly to D&D's ongoing strategy of mainstream crossover products.",
-      "angle": "News analysis: what the nomination signals for Hasbro/WotC's product roadmap and brand strategy",
-      "source": "https://www.enworld.org/threads/dungeons-dragons-stranger-things-boxed-set-earns-toy-of-the-year-nomination.721342/"
+      "title": "The Already-Written Rules for Running a Christmas One-Shot (No Reskin Required)",
+      "why_now": "Tribality's seasonal piece is timely for GMs planning holiday sessions right now, mid-November.",
+      "angle": "Rules-first toolkit: pull existing subsystems (weather/exhaustion rules, holiday encounter tables, gift-as-treasure mechanics) GMs can bolt onto any system instead of homebrewing from scratch.",
+      "source": "https://www.tribality.com/2026/11/14/christmas-themed-adventures-2021/"
     },
     {
-      "title": "This Week in TTRPG Rules: New Class Drops, Pathfinder's AI Controversy, and a Crossover Zine",
-      "why_now": "The Nov 14 digest rounds up a dense week of actual rules news worth curating for readers who don't follow every thread.",
-      "angle": "Weekly rules-news roundup with knowing commentary on what matters and what's noise",
-      "source": "https://www.enworld.org/threads/news-digest-for-november-14-2026.721373/"
+      "title": "EN World's WoW Deep Dives Are a Masterclass in Race-as-Subclass Design — Here's the D&D Translation Key",
+      "why_now": "Three consecutive EN World 'Deep Dive' articles (Elves, Worgen, Vulpera) are mapping WoW races to D&D-adjacent mechanics this week.",
+      "angle": "Comparative rules chart: convert each WoW race's signature abilities into actual 5e/Pathfinder racial traits, showing readers exactly how design intent becomes stat blocks.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-elves.721374/"
     }
   ]
 }

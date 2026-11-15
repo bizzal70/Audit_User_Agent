@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-14T11:05:05+00:00",
+  "generated": "2026-11-15T11:04:57+00:00",
   "plays": [
     {
-      "story": "DOJ seizes $1.2B tied to the Binance hack while Dark Reading reveals the attackers exploited a known, unpatched weakness the exchange's own CSO had warned about months earlier",
+      "story": "DOJ moves to seize $1.2B tied to the Binance hack while security researchers detail how attackers exploited a known, unpatched weakness and missing controls",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "DOJ's $1.2B Clawback From the Binance Hack Is the Biggest Crypto Seizure Ever — What It Means for BNB and Exchange Risk Premiums",
-        "itsalreadywhen": "The $6.3B Hack Binance's Own Security Chief Predicted: A Postmortem on the Warning Everyone Ignored"
+        "itsalreadypriced": "DOJ's $1.2B Binance Seizure Is a Receipt, Not a Fix: What the Recovery Actually Says About Crypto's 57-Cents-Per-Dollar Hack Problem",
+        "itsalreadywhen": "Binance Got Hit Through a Door That Was Already Unlocked: Inside the 'Known Weakness, Missing Controls' the DOJ Case Just Confirmed"
       },
-      "source": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme"
     },
     {
-      "story": "FinCEN bars U.S. institutions from moving funds for MEXC Global just as Tron and Tether bring in Chainalysis after their own anti-laundering task force folded",
+      "story": "Anthropic's IPO frenzy is simultaneously crashing bitcoin markets and fueling an AI-security product push from OpenAI, while a coalition sues to freeze AI development entirely",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Tether and Tron Just Admitted They Can't Police Themselves — Why Chainalysis Is Stepping Into the T3 Crime Unit's Shoes",
-        "itsalreadywhen": "FinCEN's MEXC Ban Is the Blueprint for How Washington Fights Crypto Laundering Next"
+        "itsalreadypriced": "Bitcoin Keeps Crashing Every Time Anthropic Sneezes: Why AI Stock Mania Is Now Crypto's Biggest Correlation Risk",
+        "itsalreadywhen": "OpenAI Says Buy Our Security Tools or Get Hacked — The Same Week a Coalition Sued to Freeze AI Development Entirely"
       },
-      "source": "https://www.chainalysis.com/blog/fincen-mexc-global-november-2026/"
+      "source": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze"
     },
     {
-      "story": "Paizo publicly denies using AI to produce art/text in its newest Pathfinder release amid fan accusations",
+      "story": "Paizo publicly denies using AI in a new Pathfinder release amid community scrutiny over art and text generation in TTRPG publishing",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Paizo Says No Bots Wrote This: Inside the AI Accusation Rocking Its Newest Pathfinder Book",
-        "itsalreadywritten": "When 'No AI Wrote This' Becomes a Marketing Claim: Paizo's Denial and TTRPG Publishing's New Burden of Proof"
+        "bizzal-games": "Paizo Says 'No AI' on Its New Pathfinder Book — Here's How to Read a Publisher's Denial Like a Rules Lawyer",
+        "itsalreadywritten": "When 'We Didn't Use AI' Becomes the Headline: What Paizo's Pathfinder Denial Reveals About Trust in TTRPG Writing Right Now"
       },
       "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
     },
     {
-      "story": "A full new D&D class, the Pactweaver, launches letting players bargain with spirits",
+      "story": "EN World's ongoing World of Warcraft Deep Dive series (shamans, elves, worgen, vulpera) is mining Blizzard lore and class design as free worldbuilding/mechanics research for tabletop creators",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Make a Deal with Something Worse Than Death: First Look at D&D's New Pactweaver Class",
-        "itsalreadywritten": "Writing the Pactweaver: How D&D's Newest Class Turns Spirit Negotiation Into Mechanics — and What It Means for Your NPCs"
+        "bizzal-games": "Why D&D's Shaman Class Never Happened (and What Warcraft's Barbarian-Coded Version Gets Right That 5E Doesn't)",
+        "itsalreadywritten": "Borrowing From Azeroth: How EN World's Race-by-Race Deep Dives Are a Free Worldbuilding Masterclass for Your Next Homebrew Setting"
       },
-      "source": "https://www.enworld.org/threads/treat-with-spirits-foul-and-fair-with-the-pactweaver-a-full-new-d-d-class.721343/"
+      "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
     }
   ]
 }
