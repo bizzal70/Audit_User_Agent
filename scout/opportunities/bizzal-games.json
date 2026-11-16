@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-15T11:04:57+00:00",
+  "generated": "2026-11-16T11:06:47+00:00",
   "opportunities": [
     {
-      "title": "Why Your 'Shaman' NPC Should Be Reskinned Barbarian, Not Druid — The One Rule That Decides It",
-      "why_now": "EN World's WoW class-design thread (11/14) is driving cross-system chatter about shaman archetypes, giving a hook to explain 5e's reskinning rules via rage vs. wild shape mechanics.",
-      "angle": "60-sec 'rules ruling' short: compare Rage's damage resistance/no-concentration-loss vs Wild Shape's utility, explain why mechanically a 'spirit-talker' barbarian plays truer to the fantasy than a druid.",
+      "title": "Vampire Frogs Are a Better Swarm Threat Than Your Owlbear",
+      "why_now": "EN World just ran a piece on vampire frogs and monster hunting, handing us a fresh creature to dissect for tactics.",
+      "angle": "Creature-tactic short: stat block teardown of a vampire frog swarm, grapple+drain math, how to run it as a real threat in 5e/Shadowdark instead of a joke monster",
+      "source": "https://www.enworld.org/threads/vampire-frogs-monster-hunting-and-daggerheart-with-rowan-hall-spenser-starke.721315/"
+    },
+    {
+      "title": "Why WoW Gave Shamans Barbarian Rage Instead of Druid Wild Shape (And What D&D Should Steal)",
+      "why_now": "Active EN World discussion thread right now comparing shaman design to barbarian vs druid archetypes — ripe for a mechanical hot take.",
+      "angle": "Dry design-comparison ruling: break down elemental fury as rage vs. shapeshifting, propose a homebrew subclass fix for DCC/5e",
       "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
     },
     {
-      "title": "Running a Worgen-Style Curse: The Lycanthropy Save DC Everyone Houserules Wrong",
-      "why_now": "EN World's Worgen deep dive (11/13) puts lycanthropy flavor in front of readers right now, making this the week to clarify the actual DMG/MM save mechanics.",
-      "angle": "Creature tactic short: break down Curse of Lycanthropy's Con save trigger, when it's a Wis save vs Con save depending on edition/Shadowdark, and the one timing error GMs make at the full moon.",
+      "title": "Lycanthropy Isn't a Curse, It's a Save-or-Suck Trap Nobody Runs Right",
+      "why_now": "EN World's WoW Worgen deep dive is trending, giving us a hook to correct how tables mishandle lycanthropy curses.",
+      "angle": "Rules-ruling short: walk through the actual save mechanics for lycanthropy across 5e/Shadowdark/DCC and why most DMs skip the real horror of it",
       "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-worgen.721363/"
     },
     {
-      "title": "Fey Ancestry Doesn't Do What You Think — The One Charm Interaction That Breaks Most Elf Builds",
-      "why_now": "EN World's Elves deep dive (11/14) has elf lore trending, perfect timing to correct a widely misapplied racial trait.",
-      "angle": "Spell/trait use-case short: show Fey Ancestry blocking Charm Person's 'put to sleep by magic' clause but NOT advantage on all enchantment saves — a common table error, demonstrated with a sample Hold Person ruling.",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-elves.721374/"
+      "title": "Stop Building Dungeons Without a Map First — Here's the Ruling",
+      "why_now": "Sly Flourish just published 'Start With a Map,' a prep philosophy piece directly in our GM-advice lane.",
+      "angle": "Dry veteran-GM prep tip: react to the map-first method, show a 2-minute example of sketching a dungeon node map before stocking it",
+      "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
     },
     {
-      "title": "The One Exhaustion Rule That Makes Your Christmas Dungeon Actually Feel Cold",
-      "why_now": "Tribality's Christmas Adventures piece (11/14) is seasonal content GMs are searching for right now to run holiday one-shots.",
-      "angle": "Rules ruling short on extreme cold rules (DMG environmental hazards): when a failed Con save stacks exhaustion levels, how Shadowdark's simpler exhaustion track handles it differently, with a sample blizzard encounter.",
-      "source": "https://www.tribality.com/2026/11/14/christmas-themed-adventures-2021/"
-    },
-    {
-      "title": "Small Race, Big Advantage: The Vulpera-Style Size Rule Most GMs Forget Exists",
-      "why_now": "EN World's Vulpera deep dive (11/12) spotlights a small playable race archetype, a natural lead-in to clarify 5e's actual (minimal) size-based combat rules.",
-      "angle": "Creature tactic/mechanical myth-bust short: confirm Small creatures don't get a hide/grapple bonus by RAW, then show the one real interaction — heavy weapon disadvantage and mount-carrying capacity — using a Vulpera-flavored rogue as the example.",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-vulpera.721352/"
+      "title": "Death Knights Are Just Paladins Who Failed Their Save vs. Corruption",
+      "why_now": "EN World's WoW Death Knight deep dive just dropped, perfect fodder for a class-reskin mechanical breakdown.",
+      "angle": "Spell/subclass use-case short: build a DK-flavored Oathbreaker using runeforged necrotic damage riders in 5e, note DCC corruption table tie-in",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-death-knight.721376/"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-15T11:04:57+00:00",
+  "generated": "2026-11-16T11:06:47+00:00",
   "opportunities": [
     {
-      "title": "Kava Lend's $3.8M Hack Just Erased 40% of KAVA — Here's the Exploit Nobody Patched in Time",
-      "why_now": "A live DeFi lending protocol got drained this week and the token cratered in real time, making it a perfect teardown while the wreckage is still fresh.",
-      "angle": "Incident postmortem: walk through the exploit mechanics, why audits missed it, and what the KAVA price chart tells you about contagion speed in lending markets.",
-      "source": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+      "title": "The AI Dark Forest Is Here: How Luxor's Hashrate Got Hijacked by a Bot, Not a Hacker",
+      "why_now": "Luxor's CEO just confirmed an AI-enabled attack redirected client hashrate, turning a long-warned theoretical into the first documented case this week.",
+      "angle": "Technical breakdown of the exploit mechanics + 'this is the opening move' framing on autonomous AI attackers in crypto infra",
+      "source": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Hackers Now Skim 57 Cents for Every Dollar Onchain Earns — The Math That Should Scare Every DeFi User",
-      "why_now": "Ark's new stat is a gift headline number that quantifies the exact thesis of this channel: the math was never in your favor.",
-      "angle": "Data-led explainer turning the 57-cent stat into a chart/visual, then connecting it to this week's Kava and Coinone incidents as live proof points.",
-      "source": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Someone Read BitGo's GitHub and Made $6 Million — Welcome to Public-Repo Alpha",
+      "why_now": "Traders spotted a public pull request and frontran a memecoin listing for $6M profit, a textbook case of 'if it's public, it's already priced.'",
+      "angle": "Post-mortem explainer on operational security failures at custody/exchange orgs — treat your repo like a trading signal",
+      "source": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363"
     },
     {
-      "title": "Coinone Got Breached — Here's Why 'We Take Security Seriously' Emails Are a Red Flag, Not a Reassurance",
-      "why_now": "A major exchange just confirmed a customer data breach and is now warning users about phishing fallout, a textbook case study for the post-breach playbook.",
-      "angle": "Security-advisory breakdown: decode the breach notice, list the phishing vectors attackers will run next (SIM swap, fake support DMs), and give readers a checklist.",
+      "title": "Coinone's Breach Playbook: What to Do When Your Exchange Leaks Your KYC Data",
+      "why_now": "Coinone just warned users of phishing and identity theft risk following a customer data breach, making this immediately actionable for affected users.",
+      "angle": "Practical security checklist/thread for users post-breach, tied to broader pattern of exchange data leaks fueling targeted phishing",
       "source": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "DOJ Seized $1.2B From a North Korean Hack — Proof That 'Unrecoverable' Crypto Theft Was Always a Myth Sold to Victims",
-      "why_now": "The largest-ever DOJ crypto seizure tied to the Binance hack and FaceStealer scam just dropped, flipping the usual 'funds are gone forever' narrative.",
-      "angle": "Contrarian analysis: use the seizure to explain how blockchain forensics actually works, why most hacks ARE traceable, and why that changes risk calculus for attackers and victims alike.",
-      "source": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Kava Lend's $3.8M Hack Shaved 40% Off KAVA — The Market Already Knew Before the Postmortem",
+      "why_now": "KAVA token crashed nearly 40% on a $3.8M Lend exploit this week, a clean case study in how fast markets price in protocol-level security failure.",
+      "angle": "Chart-driven piece correlating exploit timing to price action, with the lending contract vulnerability explained for traders",
+      "source": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
     },
     {
-      "title": "Bitcoin's Fourth Capitulation Wave Is Here — $1B in ETF Outflows, $39M in Liquidations, and the Chart Nobody Wanted to See",
-      "why_now": "Multiple outlets are independently confirming the same capitulation signal this week (ETF bleed, Aave liquidations, 3-month BTC low), making it the dominant market story to synthesize.",
-      "angle": "Market structure deep-dive connecting ETF outflow data, onchain liquidation cascades, and leverage unwinds into one 'this is what capitulation actually looks like' explainer.",
-      "source": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
+      "title": "FinCEN Just Told U.S. Banks: Don't Touch MEXC — Here's Why That's Not Surprising",
+      "why_now": "FinCEN's fresh order barring U.S. institutions from moving funds for MEXC Global is a concrete regulatory-security action worth unpacking before contagion spreads.",
+      "angle": "Explainer on what triggers a FinCEN institutional bar, who's exposed, and which exchanges are next on the 'already priced in' risk list",
+      "source": "https://www.chainalysis.com/blog/fincen-mexc-global-november-2026/"
     }
   ]
 }

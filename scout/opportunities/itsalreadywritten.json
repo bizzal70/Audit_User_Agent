@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-15T11:04:57+00:00",
+  "generated": "2026-11-16T11:06:47+00:00",
   "opportunities": [
     {
-      "title": "Why WoW Shamans Use Barbarian Rage Instead of Druid Wild Shape: A Class Design Autopsy",
-      "why_now": "EN World's thread is actively debating the chassis choice, giving a live rules-design question to dissect.",
-      "angle": "Rules-first breakdown comparing D&D subclass mechanics (Rage, spellcasting slots, Wild Shape) to show why Barbarian was the closer mechanical fit for Shaman fantasy, not just flavor.",
+      "title": "The Rules Say Shamans Are Barbarians: Here's the Design Logic WoW (and D&D) Actually Used",
+      "why_now": "A live EN World debate is asking exactly the question this channel exists to answer with mechanics, not vibes.",
+      "angle": "Rules-breakdown post: trace the martial/caster-hybrid chassis shamans share with barbarians (rage-like resource, melee weapon proficiency) vs. why druids' wildshape kit doesn't fit — cite specific class features.",
       "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
     },
     {
-      "title": "Paizo Says No AI in New Pathfinder Book — Here's How to Verify That Yourself",
-      "why_now": "Paizo's denial is fresh and the TTRPG community is primed to scrutinize AI claims in rulebooks.",
-      "angle": "Fact-check explainer: what telltale signs (art inconsistencies, text artifacts, credits pages) actually prove or disprove AI use, with a rules-first lens on how publishers should disclose sourcing.",
-      "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
+      "title": "Daggerheart's Monster Rules, Decoded: What 'Fear' Actually Does at the Table",
+      "why_now": "Fresh EN World interview with Daggerheart's designers on monster hunting is a direct rules-mechanics hook.",
+      "angle": "X thread + blog recap pulling exact rules language from the interview on Fear tokens/monster design, framed as 'here's what's written, not what's hyped.'",
+      "source": "https://www.enworld.org/threads/vampire-frogs-monster-hunting-and-daggerheart-with-rowan-hall-spenser-starke.721315/"
     },
     {
-      "title": "13 Omens x Pathfinder Zine: What a Crossover Actually Changes Rules-Wise",
-      "why_now": "The crossover just dropped, and fans will want to know if it's reskinned flavor or new mechanical content.",
-      "angle": "News digest with a rules audit — list exactly what new stat blocks, feats, or subsystems the zine introduces versus pure lore crossover.",
-      "source": "https://www.enworld.org/threads/13-omens-gets-crossover-zine-with-pathfinder.721353/"
+      "title": "Start With a Map: The One Prep Rule Sly Flourish Says You're Skipping",
+      "why_now": "A brand-new GM-prep analysis piece is a direct match for a rules-first, prep-focused audience.",
+      "angle": "Response/annotation post: quote Sly Flourish's core claim, then cross-reference with actual published adventure structure rules (5e DMG, etc.) to confirm or challenge it.",
+      "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
     },
     {
-      "title": "The Already-Written Rules for Running a Christmas One-Shot (No Reskin Required)",
-      "why_now": "Tribality's seasonal piece is timely for GMs planning holiday sessions right now, mid-November.",
-      "angle": "Rules-first toolkit: pull existing subsystems (weather/exhaustion rules, holiday encounter tables, gift-as-treasure mechanics) GMs can bolt onto any system instead of homebrewing from scratch.",
-      "source": "https://www.tribality.com/2026/11/14/christmas-themed-adventures-2021/"
+      "title": "WoW's Death Knight Class, Translated Into D&D Subclass Rules",
+      "why_now": "EN World's Death Knight deep dive is fresh and begging for a tabletop rules translation.",
+      "angle": "Mechanical teardown: map WoW abilities (runes, Frost/Unholy/Blood) onto existing 5e/Daggerheart subclass frameworks — a build-it-yourself homebrew rules post.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-death-knight.721376/"
     },
     {
-      "title": "EN World's WoW Deep Dives Are a Masterclass in Race-as-Subclass Design — Here's the D&D Translation Key",
-      "why_now": "Three consecutive EN World 'Deep Dive' articles (Elves, Worgen, Vulpera) are mapping WoW races to D&D-adjacent mechanics this week.",
-      "angle": "Comparative rules chart: convert each WoW race's signature abilities into actual 5e/Pathfinder racial traits, showing readers exactly how design intent becomes stat blocks.",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-elves.721374/"
+      "title": "Worgen Weren't Always a Race — The Rules History of Playable Lycanthropes in D&D",
+      "why_now": "The new WoW Worgen deep dive gives a timely peg to revisit how D&D has actually statted lycanthropy across editions.",
+      "angle": "Rules-history explainer: cite specific editions' lycanthrope/race rules (3.5 template, 5e Ravenloft, etc.) and compare to WoW's Worgen lore for a 'what's actually legal to play' piece.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-worgen.721363/"
     }
   ]
 }

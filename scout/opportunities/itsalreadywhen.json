@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-15T11:04:57+00:00",
+  "generated": "2026-11-16T11:06:47+00:00",
   "opportunities": [
     {
-      "title": "Exchange 2016/2019 Just Entered Permanent Vulnerability Status — Here's Your Migration Deadline Countdown",
-      "why_now": "Microsoft has effectively declared these still-widely-deployed Exchange versions unfixable going forward, turning every unmigrated org into a standing target.",
-      "angle": "Patch-cadence explainer: what 'permanently vulnerable' actually means, who's still running it, and a hard countdown to end of support",
-      "source": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401"
-    },
-    {
-      "title": "PostgreSQL Just Patched a Bug Older Than the iPhone — 52 Flaws, One 22-Year-Old RCE",
-      "why_now": "A 22-year-old authenticated RCE hiding in one of the world's most-deployed databases is the perfect 'inevitable breach' artifact.",
-      "angle": "CVE deep-dive: timeline of how a bug survives 22 years undetected, plus a patch-now checklist for DBAs",
+      "title": "PostgreSQL Just Patched a Bug Older Than the iPhone — 22 Years, 52 Flaws, One Very Patient RCE",
+      "why_now": "A newly disclosed authenticated RCE in PostgreSQL had been sitting unpatched for 22 years, the kind of patch-cadence failure this channel exists to catalog.",
+      "angle": "Patch-cadence postmortem: timeline of the bug's age vs. disclosure, why nobody found it sooner, action items for DBAs",
       "source": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
     },
     {
-      "title": "2026's Bug Count Just Hit 100,000 — What That Number Actually Means for Your Patch Queue",
-      "why_now": "Crossing the six-figure CVE mark mid-November is a hard data point for the 'we're drowning' narrative the channel is built on.",
-      "angle": "Year-in-data digest: chart the growth rate, flag which vendors/categories are driving the spike, end with a 'your backlog is bigger than you think' call-out",
+      "title": "Log4Shell Is Five Years Old and Still Getting People Owned — This Time a Russian Code-Signing Server",
+      "why_now": "BO Team used Log4Shell against VMware vCenter to compromise a Russian firm's code-signing infrastructure, proof the 2021 CVE refuses to die.",
+      "angle": "'Zombie CVE' feature: why Log4Shell keeps working years later and what it says about patch debt in enterprise VMware deployments",
+      "source": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html"
+    },
+    {
+      "title": "100,000 Bugs and Counting: 2026's Vulnerability Count Just Hit a Grim Milestone",
+      "why_now": "The year's CVE tally crossing 100K is a hard number that frames the entire 'inevitable breach' thesis of the channel in one headline.",
+      "angle": "Data-driven digest: chart the 100K milestone against prior years, break down by severity/vendor, tease what it means for patch teams heading into 2027",
       "source": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882"
     },
     {
-      "title": "North Korea's Deepfake Job Interviews Just Netted $400M in Crypto — Here's How the Grift Works",
-      "why_now": "The FBI just put a hard number on a threat-actor technique (deepfake video calls for social engineering) that's rapidly becoming standard tradecraft.",
-      "angle": "Threat-actor profile/explainer: break down the deepfake-interview playbook step by step and what HR/security teams should watch for",
-      "source": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
+      "title": "Binance Got Hit Through a Door It Knew Was Unlocked",
+      "why_now": "Dark Reading reports attackers exploited a known weakness and missing controls at Binance — a textbook 'we saw this coming' breach.",
+      "angle": "Breach autopsy: map the known weakness to the missing control, contrast with industry best-practice checklists exchanges ignore",
+      "source": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls"
     },
     {
-      "title": "A Stolen API Key Turned Cursor's AI Extension Into Malware — The Supply Chain Breach Nobody Saw Coming",
-      "why_now": "A trojanized Claude Code extension via a stolen Fireworks AI key is a fresh, concrete example of AI-tooling supply chain risk breaking this week, not theoretically.",
-      "angle": "Breach postmortem: trace the attack chain from stolen key to trojanized extension, and what it means for trusting AI coding tool supply chains",
-      "source": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+      "title": "Your Hardware Wallet Might Already Be Compromised: Trezor Confirms Supply-Chain Implants",
+      "why_now": "Trezor confirmed hidden hardware implants in wallets sold through a third-party channel, capable of stealing recovery phrases — a physical supply-chain breach story with immediate reader stakes.",
+      "angle": "Explainer + action guide: how the implant works, how to check your device, why 'cold storage' isn't immune to supply-chain compromise",
+      "source": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html"
     }
   ]
 }

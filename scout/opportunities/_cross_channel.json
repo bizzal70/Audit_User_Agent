@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-15T11:04:57+00:00",
+  "generated": "2026-11-16T11:06:47+00:00",
   "plays": [
     {
-      "story": "DOJ moves to seize $1.2B tied to the Binance hack while security researchers detail how attackers exploited a known, unpatched weakness and missing controls",
+      "story": "Binance's security failures are compounding: Dark Reading's post-mortem shows attackers exploited a known, unpatched weakness, while CZ denies Binance sold crypto amid fallout and DOJ moves to seize $1.2B tied to the breach.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "DOJ's $1.2B Binance Seizure Is a Receipt, Not a Fix: What the Recovery Actually Says About Crypto's 57-Cents-Per-Dollar Hack Problem",
-        "itsalreadywhen": "Binance Got Hit Through a Door That Was Already Unlocked: Inside the 'Known Weakness, Missing Controls' the DOJ Case Just Confirmed"
+        "itsalreadypriced": "DOJ's $1.2B Binance Seizure: What the Biggest Crypto Clawback Ever Means for BNB and Exchange Trust",
+        "itsalreadywhen": "Binance Breach Autopsy: The 'Known Weakness' Nobody Bothered to Patch"
       },
-      "source": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme"
+      "source": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls"
     },
     {
-      "story": "Anthropic's IPO frenzy is simultaneously crashing bitcoin markets and fueling an AI-security product push from OpenAI, while a coalition sues to freeze AI development entirely",
+      "story": "Luxor's bitcoin mining pool was hit by an AI-enabled attack that hijacked client hashrate and redirected BTC rewards; the CEO is now warning the industry about an 'AI dark forest' of autonomous attackers.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Bitcoin Keeps Crashing Every Time Anthropic Sneezes: Why AI Stock Mania Is Now Crypto's Biggest Correlation Risk",
-        "itsalreadywhen": "OpenAI Says Buy Our Security Tools or Get Hacked — The Same Week a Coalition Sued to Freeze AI Development Entirely"
+        "itsalreadypriced": "Your Hashrate, Someone Else's Reward: Inside the Luxor Hijack and What It Costs Miners",
+        "itsalreadywhen": "The AI Dark Forest Is Here: How an Autonomous Attack Rerouted Bitcoin Mining Rewards"
       },
-      "source": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze"
+      "source": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "story": "Paizo publicly denies using AI in a new Pathfinder release amid community scrutiny over art and text generation in TTRPG publishing",
+      "story": "FBI confirms North Korean hackers used deepfake video calls as a social-engineering vector to steal over $400 million in crypto, blending AI deception with classic laundering tradecraft.",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "FBI: DPRK Deepfaked Its Way to $400M — Tracing the Laundering Trail Crypto Traders Should Watch",
+        "itsalreadywhen": "Deepfake Video Calls Are the New Phishing Lure: Dissecting North Korea's $400M Social Engineering Playbook"
+      },
+      "source": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
+    },
+    {
+      "story": "Sly Flourish's 'Start With a Map' argues GMs should build campaigns from geography outward instead of plot-first outlines — a prep philosophy that doubles as worldbuilding craft advice.",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Paizo Says 'No AI' on Its New Pathfinder Book — Here's How to Read a Publisher's Denial Like a Rules Lawyer",
-        "itsalreadywritten": "When 'We Didn't Use AI' Becomes the Headline: What Paizo's Pathfinder Denial Reveals About Trust in TTRPG Writing Right Now"
+        "bizzal-games": "Ditch the Plot Outline: Why 'Start With a Map' Is the GM Prep Hack You're Not Using",
+        "itsalreadywritten": "Cartography as Storytelling: What 'Start With a Map' Teaches Writers About Building Worlds That Feel Lived-In"
       },
-      "source": "https://www.enworld.org/threads/paizo-denies-ai-use-in-new-pathfinder-book.721361/"
-    },
-    {
-      "story": "EN World's ongoing World of Warcraft Deep Dive series (shamans, elves, worgen, vulpera) is mining Blizzard lore and class design as free worldbuilding/mechanics research for tabletop creators",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Why D&D's Shaman Class Never Happened (and What Warcraft's Barbarian-Coded Version Gets Right That 5E Doesn't)",
-        "itsalreadywritten": "Borrowing From Azeroth: How EN World's Race-by-Race Deep Dives Are a Free Worldbuilding Masterclass for Your Next Homebrew Setting"
-      },
-      "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
+      "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
     }
   ]
 }
