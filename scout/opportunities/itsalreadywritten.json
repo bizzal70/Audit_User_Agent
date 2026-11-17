@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-16T11:06:47+00:00",
+  "generated": "2026-11-17T11:05:20+00:00",
   "opportunities": [
     {
-      "title": "The Rules Say Shamans Are Barbarians: Here's the Design Logic WoW (and D&D) Actually Used",
-      "why_now": "A live EN World debate is asking exactly the question this channel exists to answer with mechanics, not vibes.",
-      "angle": "Rules-breakdown post: trace the martial/caster-hybrid chassis shamans share with barbarians (rage-like resource, melee weapon proficiency) vs. why druids' wildshape kit doesn't fit — cite specific class features.",
+      "title": "Why WoW's Shaman Borrows the Barbarian Chassis (Not the Druid's)",
+      "why_now": "EN World's piece surfaces a genuine 5E design puzzle about class-template reuse that rules-nerds will argue over.",
+      "angle": "Rules-first breakdown comparing subclass frameworks (Rage mechanics vs. Wild Shape) and why WotC's licensed WoW classes map the way they do",
       "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
     },
     {
-      "title": "Daggerheart's Monster Rules, Decoded: What 'Fear' Actually Does at the Table",
-      "why_now": "Fresh EN World interview with Daggerheart's designers on monster hunting is a direct rules-mechanics hook.",
-      "angle": "X thread + blog recap pulling exact rules language from the interview on Fear tokens/monster design, framed as 'here's what's written, not what's hyped.'",
-      "source": "https://www.enworld.org/threads/vampire-frogs-monster-hunting-and-daggerheart-with-rowan-hall-spenser-starke.721315/"
+      "title": "Secrets of the Tome's Pactweaver and Moon Priest: The Subclass Math, Decoded",
+      "why_now": "Launch-week preview gives concrete class features worth stress-testing before players buy in.",
+      "angle": "Mechanical deep-dive on action economy and resource systems for the four previewed classes, ranked by power level",
+      "source": "https://www.enworld.org/threads/a-final-look-before-launch-at-secrets-of-the-tomes-moon-priest-pactweaver-spirits-reverent.721391/"
     },
     {
-      "title": "Start With a Map: The One Prep Rule Sly Flourish Says You're Skipping",
-      "why_now": "A brand-new GM-prep analysis piece is a direct match for a rules-first, prep-focused audience.",
-      "angle": "Response/annotation post: quote Sly Flourish's core claim, then cross-reference with actual published adventure structure rules (5e DMG, etc.) to confirm or challenge it.",
+      "title": "V:tM's New Playtest Rules: What Changed and Why It Matters",
+      "why_now": "Podcast #423 confirms an active V:tM playtest, a rare chance to analyze a classic system's rules evolution in real time.",
+      "angle": "Comparative rules breakdown of playtest document vs. prior edition mechanics, with predictions on what survives to print",
+      "source": "https://www.enworld.org/threads/podcast-423-livestream-more-wow-paizo-denies-ai-v-tm-playtest-wh40k-video-game.721393/"
+    },
+    {
+      "title": "Paizo Says No AI — Here's What That Actually Means for Pathfinder's Rulebooks",
+      "why_now": "Paizo's AI denial is a concrete policy statement worth translating into what it does/doesn't affect for players and freelancers.",
+      "angle": "Fact-check style explainer separating the denial's scope from industry rumor, with sourcing",
+      "source": "https://www.enworld.org/threads/podcast-423-livestream-more-wow-paizo-denies-ai-v-tm-playtest-wh40k-video-game.721393/"
+    },
+    {
+      "title": "'Start With a Map': The One Prep Rule That Actually Speeds Up Sessions",
+      "why_now": "Sly Flourish's technique-focused post fits a rules-first GM audience looking for tested, repeatable prep methods.",
+      "angle": "Rules/technique explainer turning the advice into a checklist GMs can apply to any system, not just D&D",
       "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
-    },
-    {
-      "title": "WoW's Death Knight Class, Translated Into D&D Subclass Rules",
-      "why_now": "EN World's Death Knight deep dive is fresh and begging for a tabletop rules translation.",
-      "angle": "Mechanical teardown: map WoW abilities (runes, Frost/Unholy/Blood) onto existing 5e/Daggerheart subclass frameworks — a build-it-yourself homebrew rules post.",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-death-knight.721376/"
-    },
-    {
-      "title": "Worgen Weren't Always a Race — The Rules History of Playable Lycanthropes in D&D",
-      "why_now": "The new WoW Worgen deep dive gives a timely peg to revisit how D&D has actually statted lycanthropy across editions.",
-      "angle": "Rules-history explainer: cite specific editions' lycanthrope/race rules (3.5 template, 5e Ravenloft, etc.) and compare to WoW's Worgen lore for a 'what's actually legal to play' piece.",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-worgen.721363/"
     }
   ]
 }

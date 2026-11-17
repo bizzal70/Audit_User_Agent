@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-16T11:06:47+00:00",
+  "generated": "2026-11-17T11:05:20+00:00",
   "plays": [
     {
-      "story": "Binance's security failures are compounding: Dark Reading's post-mortem shows attackers exploited a known, unpatched weakness, while CZ denies Binance sold crypto amid fallout and DOJ moves to seize $1.2B tied to the breach.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "DOJ's $1.2B Binance Seizure: What the Biggest Crypto Clawback Ever Means for BNB and Exchange Trust",
-        "itsalreadywhen": "Binance Breach Autopsy: The 'Known Weakness' Nobody Bothered to Patch"
-      },
-      "source": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls"
-    },
-    {
-      "story": "Luxor's bitcoin mining pool was hit by an AI-enabled attack that hijacked client hashrate and redirected BTC rewards; the CEO is now warning the industry about an 'AI dark forest' of autonomous attackers.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Your Hashrate, Someone Else's Reward: Inside the Luxor Hijack and What It Costs Miners",
-        "itsalreadywhen": "The AI Dark Forest Is Here: How an Autonomous Attack Rerouted Bitcoin Mining Rewards"
-      },
-      "source": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "story": "FBI confirms North Korean hackers used deepfake video calls as a social-engineering vector to steal over $400 million in crypto, blending AI deception with classic laundering tradecraft.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "FBI: DPRK Deepfaked Its Way to $400M — Tracing the Laundering Trail Crypto Traders Should Watch",
-        "itsalreadywhen": "Deepfake Video Calls Are the New Phishing Lure: Dissecting North Korea's $400M Social Engineering Playbook"
-      },
-      "source": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
-    },
-    {
-      "story": "Sly Flourish's 'Start With a Map' argues GMs should build campaigns from geography outward instead of plot-first outlines — a prep philosophy that doubles as worldbuilding craft advice.",
+      "story": "EN World's WoW-to-D&D class design debate (shaman-as-barbarian mechanics, Death Knight deep dives) spotlighting how Blizzard lore gets translated into tabletop class mechanics",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Ditch the Plot Outline: Why 'Start With a Map' Is the GM Prep Hack You're Not Using",
-        "itsalreadywritten": "Cartography as Storytelling: What 'Start With a Map' Teaches Writers About Building Worlds That Feel Lived-In"
+        "bizzal-games": "Steal This Reskin: Turn Any Barbarian Subclass into a WoW-Style Shaman for Your Next Session — a practical conversion guide using the EN World thread as the jumping-off point",
+        "itsalreadywritten": "Canon vs. Convenience: Why Blizzard Made Shamans Barbarians Instead of Druids — what the lore retcon reveals about how 'canon' bends to mechanics"
       },
-      "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
+      "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
+    },
+    {
+      "story": "The Mighty Nein's second season gets an official release date, reigniting interest in actual-play-as-canon storytelling",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Mighty Nein S2 Release Date Is Set — 5 GM Pacing Tricks You Can Steal From Matt Mercer Before It Drops",
+        "itsalreadywritten": "The Mighty Nein's Second Season Proves Actual-Play Fiction Is Already Written Before the Dice Even Land"
+      },
+      "source": "https://www.enworld.org/threads/the-mighty-neins-second-season-gets-a-release-date.721390/"
+    },
+    {
+      "story": "A massive Optimizely supply-chain compromise injected card-skimming and crypto-stealing malware into 178 major sites including HSBC, BBC, CNN, Zoom, and Ledger",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Ledger's Own Checkout Page Got Skimmed: What the 178-Site Optimizely Hack Means for Your Seed Phrase",
+        "itsalreadywhen": "The Optimizely Breach Was Already Inevitable — Inside the Script Injection That Hit CNN, BBC, HSBC, and Ledger at Once"
+      },
+      "source": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html"
+    },
+    {
+      "story": "Google, the FBI, and AWS confirm AI agents are now autonomously finding and weaponizing exploits at 'industrial scale,' while Fed Governor Barr warns AI agents could trigger bank runs in minutes",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Fed's Barr Says AI Agents Could Trigger Bank Runs in Minutes — Crypto Already Starred in This Flash-Liquidation Movie",
+        "itsalreadywhen": "Google Caught an AI Agent Turning a Patch Into a Working Exploit With Zero Humans — Welcome to Industrial-Scale Automated Hacking"
+      },
+      "source": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223"
     }
   ]
 }

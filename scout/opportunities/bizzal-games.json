@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-16T11:06:47+00:00",
+  "generated": "2026-11-17T11:05:20+00:00",
   "opportunities": [
     {
-      "title": "Vampire Frogs Are a Better Swarm Threat Than Your Owlbear",
-      "why_now": "EN World just ran a piece on vampire frogs and monster hunting, handing us a fresh creature to dissect for tactics.",
-      "angle": "Creature-tactic short: stat block teardown of a vampire frog swarm, grapple+drain math, how to run it as a real threat in 5e/Shadowdark instead of a joke monster",
-      "source": "https://www.enworld.org/threads/vampire-frogs-monster-hunting-and-daggerheart-with-rowan-hall-spenser-starke.721315/"
+      "title": "Pactweaver's Patron Clause: Why 'Shared Spell Slots' Breaks Action Economy at Level 5",
+      "why_now": "Secrets of the Tome just published a final pre-launch look at the Pactweaver class, giving a fresh mechanic to stress-test before the flood of new tables adopt it.",
+      "angle": "60-sec rules ruling: run the math on shared slot pools vs standard warlock pact slots, show the abuse case",
+      "source": "https://www.enworld.org/threads/a-final-look-before-launch-at-secrets-of-the-tomes-moon-priest-pactweaver-spirits-reverent.721391/"
     },
     {
-      "title": "Why WoW Gave Shamans Barbarian Rage Instead of Druid Wild Shape (And What D&D Should Steal)",
-      "why_now": "Active EN World discussion thread right now comparing shaman design to barbarian vs druid archetypes — ripe for a mechanical hot take.",
-      "angle": "Dry design-comparison ruling: break down elemental fury as rage vs. shapeshifting, propose a homebrew subclass fix for DCC/5e",
-      "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
-    },
-    {
-      "title": "Lycanthropy Isn't a Curse, It's a Save-or-Suck Trap Nobody Runs Right",
-      "why_now": "EN World's WoW Worgen deep dive is trending, giving us a hook to correct how tables mishandle lycanthropy curses.",
-      "angle": "Rules-ruling short: walk through the actual save mechanics for lycanthropy across 5e/Shadowdark/DCC and why most DMs skip the real horror of it",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-worgen.721363/"
-    },
-    {
-      "title": "Stop Building Dungeons Without a Map First — Here's the Ruling",
-      "why_now": "Sly Flourish just published 'Start With a Map,' a prep philosophy piece directly in our GM-advice lane.",
-      "angle": "Dry veteran-GM prep tip: react to the map-first method, show a 2-minute example of sketching a dungeon node map before stocking it",
+      "title": "Stop Drawing the Dungeon First: Sly Flourish's 'Start With a Map' Is Backwards for Shadowdark",
+      "why_now": "Sly Flourish's new prep piece is getting traction right as GMs plan winter one-shots, and it collides directly with Shadowdark's torch-and-turn-tracking philosophy.",
+      "angle": "Dry contrarian take: compare D&D prep (map-first) vs Shadowdark prep (resource-first), one clip each",
       "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
     },
     {
-      "title": "Death Knights Are Just Paladins Who Failed Their Save vs. Corruption",
-      "why_now": "EN World's WoW Death Knight deep dive just dropped, perfect fodder for a class-reskin mechanical breakdown.",
-      "angle": "Spell/subclass use-case short: build a DK-flavored Oathbreaker using runeforged necrotic damage riders in 5e, note DCC corruption table tie-in",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-death-knight.721376/"
+      "title": "Running a Krampus Encounter Without Turning Your Christmas One-Shot Into a Slog",
+      "why_now": "Tribality's Christmas adventure roundup is circulating now as tables lock in December one-shots, and most published Krampus stat blocks have zero actual tactics written.",
+      "angle": "Creature tactic breakdown: give Krampus a legendary action chain and a fear-based lair mechanic in 45 seconds",
+      "source": "https://www.tribality.com/2026/11/14/christmas-themed-adventures-2021/"
+    },
+    {
+      "title": "Why WoW's Death Knight Spell List Is a Better Necromancer Chassis Than 5e's Actual Necromancer",
+      "why_now": "EN World just ran a two-part Death Knight deep dive, and WoW class design crossover content is hot this week across their coverage.",
+      "angle": "Spell use-case comparison: pick 3 DK spells, map them to homebrew 5e necromancer options, rule on balance",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-death-knight-spells.721382/"
+    },
+    {
+      "title": "The Vampire Frog Is a Better Grapple Monster Than Anything in the Monster Manual",
+      "why_now": "The Daggerheart interview with Rowan Hall & Spenser Starke specifically name-drops vampire frogs as a monster-design case study, handing over a ready-made tactic to port into D&D/DCC.",
+      "angle": "Creature tactic clip: steal the bite-and-drag concept, stat it as a DCC/5e hazard with a grapple-DC ruling",
+      "source": "https://www.enworld.org/threads/vampire-frogs-monster-hunting-and-daggerheart-with-rowan-hall-spenser-starke.721315/"
     }
   ]
 }

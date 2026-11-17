@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-16T11:06:47+00:00",
+  "generated": "2026-11-17T11:05:20+00:00",
   "opportunities": [
     {
-      "title": "The AI Dark Forest Is Here: How Luxor's Hashrate Got Hijacked by a Bot, Not a Hacker",
-      "why_now": "Luxor's CEO just confirmed an AI-enabled attack redirected client hashrate, turning a long-warned theoretical into the first documented case this week.",
-      "angle": "Technical breakdown of the exploit mechanics + 'this is the opening move' framing on autonomous AI attackers in crypto infra",
-      "source": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The Trezor Pattern: Three Breaches in a Year Means the Problem Isn't the Vendor, It's the Supply Chain",
+      "why_now": "Trezor just disclosed its third partner data leak in 2026, this time via shipping partner Skladon affecting 27,000 orders.",
+      "angle": "Explainer/trend piece connecting the three Trezor incidents as a supply-chain security failure, with a checklist for hardware wallet buyers on what 'customer data exposed' actually puts at risk (phishing, physical targeting).",
+      "source": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Someone Read BitGo's GitHub and Made $6 Million — Welcome to Public-Repo Alpha",
-      "why_now": "Traders spotted a public pull request and frontran a memecoin listing for $6M profit, a textbook case of 'if it's public, it's already priced.'",
-      "angle": "Post-mortem explainer on operational security failures at custody/exchange orgs — treat your repo like a trading signal",
-      "source": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363"
+      "title": "178 Sites, One Skimmer: How HSBC, Ledger and BBC Got the Same Malware",
+      "why_now": "A single supply-chain compromise just hit 178 major websites simultaneously with credit-card and crypto-stealing code, blending TradFi and crypto victims in one breach.",
+      "angle": "Incident breakdown with technical specifics (what the injected script targets, how it exfiltrates wallet data) and a 'you already knew this was coming' framing on third-party JS dependencies as the weakest link.",
+      "source": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger"
     },
     {
-      "title": "Coinone's Breach Playbook: What to Do When Your Exchange Leaks Your KYC Data",
-      "why_now": "Coinone just warned users of phishing and identity theft risk following a customer data breach, making this immediately actionable for affected users.",
-      "angle": "Practical security checklist/thread for users post-breach, tied to broader pattern of exchange data leaks fueling targeted phishing",
-      "source": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Google Just Confirmed What We Said: AI Agents Are Now Finding Your Zero-Days For You",
+      "why_now": "Google disclosed hackers are using autonomous AI agents to discover and exploit software vulnerabilities at scale, a structural shift in attacker economics.",
+      "angle": "Thesis piece/X thread arguing this changes the security math for every protocol and wallet — patch cycles are now the bottleneck, not discovery; tie to Luxor CEO's 'AI dark forest' comment for a second source.",
+      "source": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Kava Lend's $3.8M Hack Shaved 40% Off KAVA — The Market Already Knew Before the Postmortem",
-      "why_now": "KAVA token crashed nearly 40% on a $3.8M Lend exploit this week, a clean case study in how fast markets price in protocol-level security failure.",
-      "angle": "Chart-driven piece correlating exploit timing to price action, with the lending contract vulnerability explained for traders",
-      "source": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+      "title": "Safe Lost $6.5M to a Compromised Key — Again. Multisig Was Never the Fix",
+      "why_now": "Safe wallet reportedly lost $6.5M with Zodiac suspects pointing to key compromise, just months after the much larger Bybit-linked Safe incident earlier in the year.",
+      "angle": "Security-led postmortem on why key custody, not contract logic, keeps being the failure point in 'safe' multisig setups — actionable signing-hygiene takeaways for treasuries.",
+      "source": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "FinCEN Just Told U.S. Banks: Don't Touch MEXC — Here's Why That's Not Surprising",
-      "why_now": "FinCEN's fresh order barring U.S. institutions from moving funds for MEXC Global is a concrete regulatory-security action worth unpacking before contagion spreads.",
-      "angle": "Explainer on what triggers a FinCEN institutional bar, who's exposed, and which exchanges are next on the 'already priced in' risk list",
-      "source": "https://www.chainalysis.com/blog/fincen-mexc-global-november-2026/"
+      "title": "The Binance Hacker Just Moved $63M After Going Quiet for Two Weeks — Here's What the Silence Meant",
+      "why_now": "The Binance hacker resumed moving $63M in stolen ETH after a two-week pause, reigniting the custody debate FalconX flagged days earlier.",
+      "angle": "Forensic/market-structure angle tracing the laundering pause-and-move pattern, paired with the FalconX custody thesis — argue this is the event that finally pushes institutions off exchange custody.",
+      "source": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence"
     }
   ]
 }
