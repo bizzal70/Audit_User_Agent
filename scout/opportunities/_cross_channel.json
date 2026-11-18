@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-17T11:05:20+00:00",
+  "generated": "2026-11-18T11:05:34+00:00",
   "plays": [
     {
-      "story": "EN World's WoW-to-D&D class design debate (shaman-as-barbarian mechanics, Death Knight deep dives) spotlighting how Blizzard lore gets translated into tabletop class mechanics",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Steal This Reskin: Turn Any Barbarian Subclass into a WoW-Style Shaman for Your Next Session — a practical conversion guide using the EN World thread as the jumping-off point",
-        "itsalreadywritten": "Canon vs. Convenience: Why Blizzard Made Shamans Barbarians Instead of Druids — what the lore retcon reveals about how 'canon' bends to mechanics"
-      },
-      "source": "https://www.enworld.org/threads/why-are-d-d-wow-shamans-based-on-barbarians-instead-of-druids.721375/"
-    },
-    {
-      "story": "The Mighty Nein's second season gets an official release date, reigniting interest in actual-play-as-canon storytelling",
-      "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
-      ],
-      "angles": {
-        "bizzal-games": "Mighty Nein S2 Release Date Is Set — 5 GM Pacing Tricks You Can Steal From Matt Mercer Before It Drops",
-        "itsalreadywritten": "The Mighty Nein's Second Season Proves Actual-Play Fiction Is Already Written Before the Dice Even Land"
-      },
-      "source": "https://www.enworld.org/threads/the-mighty-neins-second-season-gets-a-release-date.721390/"
-    },
-    {
-      "story": "A massive Optimizely supply-chain compromise injected card-skimming and crypto-stealing malware into 178 major sites including HSBC, BBC, CNN, Zoom, and Ledger",
+      "story": "Google reports an autonomous AI agent/framework finding and exploiting software vulnerabilities without human direction, surfacing in both crypto-security and cyber coverage.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Ledger's Own Checkout Page Got Skimmed: What the 178-Site Optimizely Hack Means for Your Seed Phrase",
-        "itsalreadywhen": "The Optimizely Breach Was Already Inevitable — Inside the Script Injection That Hit CNN, BBC, HSBC, and Ledger at Once"
+        "itsalreadypriced": "Why Institutions Are Rethinking Custody Now That Hacking Bots Never Sleep — unpack how Google's self-running AI exploit framework changes the risk math for exchanges and custodians (ties into the Binance-hack custody exodus story), with a concrete 'your hot wallet is now fighting a machine, not a person' hook.",
+        "itsalreadywhen": "The Day AI Agents Started Hacking Without Humans in the Loop — deep dive on Google's discovery of a self-running exploit tool with Russian code comments: how it works, what zero-days it chained, and why patch-cycle assumptions are now obsolete."
       },
-      "source": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html"
+      "source": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws"
     },
     {
-      "story": "Google, the FBI, and AWS confirm AI agents are now autonomously finding and weaponizing exploits at 'industrial scale,' while Fed Governor Barr warns AI agents could trigger bank runs in minutes",
+      "story": "A malicious code injection through the Optimizely A/B-testing platform compromised 178 major websites, deploying credit-card and crypto-stealing skimmers — a textbook third-party/supply-chain breach.",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Fed's Barr Says AI Agents Could Trigger Bank Runs in Minutes — Crypto Already Starred in This Flash-Liquidation Movie",
-        "itsalreadywhen": "Google Caught an AI Agent Turning a Patch Into a Working Exploit With Zero Humans — Welcome to Industrial-Scale Automated Hacking"
+        "itsalreadypriced": "The Marketing Tool That Became a Crypto Wallet Drainer — how attackers hid skimmer code inside Optimizely's A/B testing scripts on 178 sites to siphon card and wallet data at checkout, and what it means for anyone paying crypto on e-commerce sites this holiday season.",
+        "itsalreadywhen": "Your A/B Test Is Now an Attack Vector — breaking down the Optimizely supply-chain compromise alongside this week's Trezor and Infoblox third-party breaches: why vendor trust is cybersecurity's weakest link right now."
       },
-      "source": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223"
+      "source": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+    },
+    {
+      "story": "Chaosium halts production of its Call of Cthulhu board game after the game's designer was convicted of child sex crimes.",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Should You Still Play Your Copy of Call of Cthulhu? Chaosium's Production Halt, Explained — a practical breakdown for collectors and game groups on what the recall means for existing copies, resale, and future printings.",
+        "itsalreadywritten": "When the Credits Page Becomes the Headline: How TTRPG Publishers Handle a Designer's Crimes — using Chaosium's reckoning to explore precedent for scrubbing credits, rewriting lore attribution, and what it means for creator-driven storytelling going forward."
+      },
+      "source": "https://www.enworld.org/threads/chaosium-stops-production-of-call-of-cthulhu-board-game-after-game-designer-convicted-of-child-sex-crimes.721400/"
+    },
+    {
+      "story": "Chris Perkins returns to Critical Role's Actual Play with the launch of Reign of the Weredragon.",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Steal Chris Perkins' GM Playbook: What Reign of the Weredragon's Premiere Teaches About Running a Tight Campaign Arc — concrete prep and pacing takeaways for your own table.",
+        "itsalreadywritten": "Reign of the Weredragon Is a Masterclass in Serialized Fantasy Writing — what Critical Role's new arc borrows from prestige TV structure, and why Actual Play is quietly becoming its own narrative medium."
+      },
+      "source": "https://www.enworld.org/threads/chris-perkins-returns-to-actual-play-with-launch-of-critical-roles-reign-of-the-weredragon.721407/"
     }
   ]
 }

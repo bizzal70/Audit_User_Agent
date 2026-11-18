@@ -1,34 +1,34 @@
 {
-  "generated": "2026-11-17T11:05:20+00:00",
+  "generated": "2026-11-18T11:05:34+00:00",
   "opportunities": [
     {
-      "title": "Optimizely's Bad Day: One Hijacked Script, Four Newsrooms, and a Card Skimmer Buffet (CNN, BBC, Fox, Zoom, Salesforce)",
-      "why_now": "A single compromised Optimizely A/B-testing script is now confirmed serving card skimmers and iOS exploit kits across major news and enterprise sites, per three independent outlets in 24 hours.",
-      "angle": "Breach-digest lead: trace the supply-chain blast radius, name the confirmed victim list, and note what it means for any site running third-party testing/CMS scripts.",
-      "source": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
+      "title": "Java4Shell: The One CVE You Actually Need to Drop Everything For (CVE-2026-114938)",
+      "why_now": "Oracle's November CSPU, CISA's emergency directive, and five separate outlets covering the same pre-auth RCE in Jira/Jenkins/Keycloak/OpenJDK in 48 hours signals this is the real deal, not another overhyped bug.",
+      "angle": "Explainer + patch-now checklist: what Java4Shell is, who's affected, exploit status, and a prioritized remediation list by app vendor",
+      "source": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html"
     },
     {
-      "title": "Google Just Watched an AI Agent Turn a Patch Into a Working Exploit — So Project Zero Cut Its Disclosure Clock to 30 Days",
-      "why_now": "Google published proof that an AI agent weaponized a security patch with zero human help, and Project Zero responded same-week by slashing its disclosure deadline, splitting the research community.",
-      "angle": "Connect-the-dots analysis: patch-diffing-to-exploit automation is now fast enough that 90-day disclosure windows are a gift to attackers — explain what 30 days means for vendors' patch cadence.",
-      "source": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926"
+      "title": "Puppet RCE Is Already Being Exploited — If You Manage Servers With It, You're Already Late",
+      "why_now": "Active exploitation of a critical Perforce Puppet RCE against enterprise config-management servers is a textbook 'patch cadence failure' story breaking right now.",
+      "angle": "Incident-response style post: timeline of disclosure-to-exploitation, who's being hit, and why config-management tools are the softest underbelly in enterprise infra",
+      "source": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
     },
     {
-      "title": "NoisyTCP: The Linux Kernel Bug That's Been Quietly Crashing Servers for 11 Years",
-      "why_now": "A newly disclosed remote-crash flaw in the Linux TCP stack has reportedly been exploitable since before most current sysadmins started their jobs.",
-      "angle": "CVE deep-dive: timeline of how long it sat undetected, who's affected, patch status, and a blunt 'check your kernel version' call-to-action.",
-      "source": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144"
+      "title": "Hackers Used an A/B Testing Tool to A/B Test Their Malware on You",
+      "why_now": "Krebs and Dark Reading both flagged attackers abusing Optimizely to split-test malicious payloads on top websites, a genuinely novel and darkly funny supply-chain twist worth dissecting before it's old news.",
+      "angle": "Deep-dive on the mechanics: how a legit CRO/testing SaaS became a malware delivery and optimization pipeline, with lessons for third-party script vetting",
+      "source": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
     },
     {
-      "title": "Uber Tells 150,000 Drivers: Your Data Got Out (Again)",
-      "why_now": "Fresh breach notification confirms nearly 150,000 people affected, giving a concrete number and timeline for the inevitable-breach digest.",
-      "angle": "Short, sharp breach-tracker entry: what was exposed, Uber's breach history context, and what affected drivers should do now.",
-      "source": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/"
+      "title": "The Breach Digest: Ipsos, Infoblox, Fandango, Access Dental, and an Uber Vendor All Got Popped in One Week",
+      "why_now": "Five distinct breach disclosures landed within 48 hours across wildly different sectors (polling, DNS/security vendor, ticketing, dental records, rideshare driver data) — the inevitable-breach thesis practically writes itself.",
+      "angle": "Roundup format: one-line-each breach summary with 'what data, how it happened, what to do' grid, closing with the pattern (SharePoint, third parties, vendor sprawl)",
+      "source": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280"
     },
     {
-      "title": "The FBI and AWS Just Confirmed What We Suspected: AI Agents Are Running Cybercrime at Factory Scale",
-      "why_now": "FBI/AWS warning lands the same week Amazon disclosed a live AI-agent campaign hunting LiteLLM and Dify API keys — two data points proving industrialized, autonomous attack tooling is here now.",
-      "angle": "Trend roundup: pair the FBI/AWS warning with the LiteLLM/Dify key-theft campaign as evidence the 'AI agent attacker' threat model moved from theory to observed incident.",
+      "title": "FBI and AWS Just Confirmed What We Suspected: Cybercrime Now Has an Assembly Line",
+      "why_now": "FBI/AWS warning on AI-agent-automated 'industrial scale' cybercrime, paired with Google's report on an AI framework autonomously weaponizing flaws, marks a concrete inflection point from theory to documented reality.",
+      "angle": "Threat-actor trendpiece: what 'industrial scale' actually means in numbers, how AI agents are being chained for recon-to-exploit, and what defenders should change about their SOC assumptions",
       "source": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223"
     }
   ]

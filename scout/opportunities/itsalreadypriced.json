@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-17T11:05:20+00:00",
+  "generated": "2026-11-18T11:05:34+00:00",
   "opportunities": [
     {
-      "title": "The Trezor Pattern: Three Breaches in a Year Means the Problem Isn't the Vendor, It's the Supply Chain",
-      "why_now": "Trezor just disclosed its third partner data leak in 2026, this time via shipping partner Skladon affecting 27,000 orders.",
-      "angle": "Explainer/trend piece connecting the three Trezor incidents as a supply-chain security failure, with a checklist for hardware wallet buyers on what 'customer data exposed' actually puts at risk (phishing, physical targeting).",
-      "source": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Google Just Found a Self-Hacking AI With Russian Comments Still in the Code",
+      "why_now": "Google's discovery of an autonomous AI exploit-finder (paired with Luxor's 'AI dark forest' warning after a miner hijack) marks the moment automated attacks stopped being theoretical",
+      "angle": "Explainer/analysis: what an AI that finds its own zero-days means for every wallet, exchange, and protocol that assumed human-speed attackers",
+      "source": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files"
     },
     {
-      "title": "178 Sites, One Skimmer: How HSBC, Ledger and BBC Got the Same Malware",
-      "why_now": "A single supply-chain compromise just hit 178 major websites simultaneously with credit-card and crypto-stealing code, blending TradFi and crypto victims in one breach.",
-      "angle": "Incident breakdown with technical specifics (what the injected script targets, how it exfiltrates wallet data) and a 'you already knew this was coming' framing on third-party JS dependencies as the weakest link.",
-      "source": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger"
+      "title": "Safe Lost $6.5M, Lighter Lost $10M — Multisig Was Never the Security Model You Thought It Was",
+      "why_now": "Two unrelated incidents in one week (Safe key compromise, Lighter API key exploit) both trace back to the same failure mode: a trusted credential, not a smart contract bug",
+      "angle": "Pattern-recognition piece connecting both incidents to show 'multisig/API trust' as the real attack surface, with a checklist for what counts as actual custody hygiene",
+      "source": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise"
     },
     {
-      "title": "Google Just Confirmed What We Said: AI Agents Are Now Finding Your Zero-Days For You",
-      "why_now": "Google disclosed hackers are using autonomous AI agents to discover and exploit software vulnerabilities at scale, a structural shift in attacker economics.",
-      "angle": "Thesis piece/X thread arguing this changes the security math for every protocol and wallet — patch cycles are now the bottleneck, not discovery; tie to Luxor CEO's 'AI dark forest' comment for a second source.",
-      "source": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Trezor's Third Partner Breach This Year Proves Cold Storage Was Never the Weak Link",
+      "why_now": "Trezor customer data leaked via a partner for the third time in 2026, while the device itself remains uncompromised — a split that matters",
+      "angle": "Contrarian security take: your seed phrase is fine, your email inbox isn't — walk through how partner-breach phishing campaigns actually convert into drained wallets",
+      "source": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year"
     },
     {
-      "title": "Safe Lost $6.5M to a Compromised Key — Again. Multisig Was Never the Fix",
-      "why_now": "Safe wallet reportedly lost $6.5M with Zodiac suspects pointing to key compromise, just months after the much larger Bybit-linked Safe incident earlier in the year.",
-      "angle": "Security-led postmortem on why key custody, not contract logic, keeps being the failure point in 'safe' multisig setups — actionable signing-hygiene takeaways for treasuries.",
-      "source": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The Binance Hack Money Just Moved $137M — Right as Institutions Start Moving to Outside Custody",
+      "why_now": "Dormant Binance-hack wallets activated after two weeks of silence the same week a FalconX exec said the breach is pushing institutions toward third-party custody",
+      "angle": "Market-structure piece tying on-chain forensics (the $137M movement) to the institutional custody narrative — 'the hack isn't over, it's just changing who holds the keys'",
+      "source": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks"
     },
     {
-      "title": "The Binance Hacker Just Moved $63M After Going Quiet for Two Weeks — Here's What the Silence Meant",
-      "why_now": "The Binance hacker resumed moving $63M in stolen ETH after a two-week pause, reigniting the custody debate FalconX flagged days earlier.",
-      "angle": "Forensic/market-structure angle tracing the laundering pause-and-move pattern, paired with the FalconX custody thesis — argue this is the event that finally pushes institutions off exchange custody.",
-      "source": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence"
+      "title": "Coinbase's AI Just Blocked a $4.7M Deepfake Elon Scam — and Also Showed Scammers Exactly What to Fix Next",
+      "why_now": "A high-profile AI defense win against a deepfake Musk scam lands the same week Jito's Lucas Bruder publicly said builders need to 'slow down' on security",
+      "angle": "Security-led skeptic's take: celebrate the save, then explain why every AI fraud-detection win is also free R&D for the next generation of AI-run scams",
+      "source": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918"
     }
   ]
 }

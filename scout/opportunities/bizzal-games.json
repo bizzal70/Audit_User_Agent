@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-17T11:05:20+00:00",
+  "generated": "2026-11-18T11:05:34+00:00",
   "opportunities": [
     {
-      "title": "Pactweaver's Patron Clause: Why 'Shared Spell Slots' Breaks Action Economy at Level 5",
-      "why_now": "Secrets of the Tome just published a final pre-launch look at the Pactweaver class, giving a fresh mechanic to stress-test before the flood of new tables adopt it.",
-      "angle": "60-sec rules ruling: run the math on shared slot pools vs standard warlock pact slots, show the abuse case",
+      "title": "Weredragon Isn't a Reskinned Werewolf: How Hybrid Lycanthropy Actually Works in 5e",
+      "why_now": "Critical Role's Reign of the Weredragon just launched, putting the lycanthropy subtype back in the spotlight.",
+      "angle": "Creature tactic short: break down lycanthrope stat block rules, immunity to nonmagical weapons, and how a weredragon's breath weapon interacts with its hybrid form.",
+      "source": "https://www.enworld.org/threads/chris-perkins-returns-to-actual-play-with-launch-of-critical-roles-reign-of-the-weredragon.721407/"
+    },
+    {
+      "title": "Pactweaver's New Pact Magic: Does It Stack With Warlock Spell Slots?",
+      "why_now": "Secrets of the Tome's Pactweaver class and new magic system just went live, raising immediate cross-compatibility questions.",
+      "angle": "Rules ruling short: walk through whether Pactweaver slots recharge on short rest like warlock pacts, and how a DM should rule it at a mixed table.",
+      "source": "https://www.enworld.org/threads/secrets-of-the-tome-the-pactweaver-new-magic-is-now-live.721399/"
+    },
+    {
+      "title": "The Reverent's Channel Divinity Clone: Legal Loophole or Broken Combo?",
+      "why_now": "The final preview of Secrets of the Tome's Moon Priest, Reverent, Spirits, and Pactweaver dropped right before launch, giving a concrete new feature to stress-test.",
+      "angle": "Spell/feature use-case short: pick the Reverent's signature channel ability and show the one combo that breaks action economy at low levels.",
       "source": "https://www.enworld.org/threads/a-final-look-before-launch-at-secrets-of-the-tomes-moon-priest-pactweaver-spirits-reverent.721391/"
     },
     {
-      "title": "Stop Drawing the Dungeon First: Sly Flourish's 'Start With a Map' Is Backwards for Shadowdark",
-      "why_now": "Sly Flourish's new prep piece is getting traction right as GMs plan winter one-shots, and it collides directly with Shadowdark's torch-and-turn-tracking philosophy.",
-      "angle": "Dry contrarian take: compare D&D prep (map-first) vs Shadowdark prep (resource-first), one clip each",
+      "title": "Start With a Map, Not a Plot Hook: The One Prep Change That Fixes Your Sessions",
+      "why_now": "Sly Flourish's new essay on map-first prep is making rounds and gives a concrete GM technique to react to.",
+      "angle": "Dry veteran-GM take: contrast map-first prep against read-aloud boxed text, with one rules-adjacent example (room-by-room skill check pacing) rather than vague advice.",
       "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
     },
     {
-      "title": "Running a Krampus Encounter Without Turning Your Christmas One-Shot Into a Slog",
-      "why_now": "Tribality's Christmas adventure roundup is circulating now as tables lock in December one-shots, and most published Krampus stat blocks have zero actual tactics written.",
-      "angle": "Creature tactic breakdown: give Krampus a legendary action chain and a fear-based lair mechanic in 45 seconds",
-      "source": "https://www.tribality.com/2026/11/14/christmas-themed-adventures-2021/"
-    },
-    {
-      "title": "Why WoW's Death Knight Spell List Is a Better Necromancer Chassis Than 5e's Actual Necromancer",
-      "why_now": "EN World just ran a two-part Death Knight deep dive, and WoW class design crossover content is hot this week across their coverage.",
-      "angle": "Spell use-case comparison: pick 3 DK spells, map them to homebrew 5e necromancer options, rule on balance",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-death-knight-spells.721382/"
-    },
-    {
-      "title": "The Vampire Frog Is a Better Grapple Monster Than Anything in the Monster Manual",
-      "why_now": "The Daggerheart interview with Rowan Hall & Spenser Starke specifically name-drops vampire frogs as a monster-design case study, handing over a ready-made tactic to port into D&D/DCC.",
-      "angle": "Creature tactic clip: steal the bite-and-drag concept, stat it as a DCC/5e hazard with a grapple-DC ruling",
-      "source": "https://www.enworld.org/threads/vampire-frogs-monster-hunting-and-daggerheart-with-rowan-hall-spenser-starke.721315/"
+      "title": "Temple of Inquinatious Evil's Deadliest Room: An OSR Trap That 5e DMs Keep Running Wrong",
+      "why_now": "The Alphinius Goo interview on Luke Gygax's Temple of Inquinatious Evil is circulating and spotlights an old-school module ripe for a modern ruling.",
+      "angle": "Shadowdark/DCC crossover short: take one trap/encounter from the module and show the correct save-or-die math versus how most tables fumble it.",
+      "source": "https://www.enworld.org/threads/alphinius-goo-talks-about-luke-gygax-the-temple-of-inquinatious-evil.721362/"
     }
   ]
 }
