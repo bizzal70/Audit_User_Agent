@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-18T11:05:34+00:00",
+  "generated": "2026-11-19T11:05:52+00:00",
   "opportunities": [
     {
-      "title": "Java4Shell: The One CVE You Actually Need to Drop Everything For (CVE-2026-114938)",
-      "why_now": "Oracle's November CSPU, CISA's emergency directive, and five separate outlets covering the same pre-auth RCE in Jira/Jenkins/Keycloak/OpenJDK in 48 hours signals this is the real deal, not another overhyped bug.",
-      "angle": "Explainer + patch-now checklist: what Java4Shell is, who's affected, exploit status, and a prioritized remediation list by app vendor",
-      "source": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html"
+      "title": "Java4Shell: The Bug With the Name Everyone Already Dreaded, and the Patch You Can't Skip",
+      "why_now": "Oracle just dropped a fix-ASAP critical flaw hitting countless third-party Java apps, and exploitation attempts have already started per SecurityWeek.",
+      "angle": "Explainer + 'why this one actually deserves the Shell-suffix panic' with a patch-now checklist for affected frameworks",
+      "source": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661"
     },
     {
-      "title": "Puppet RCE Is Already Being Exploited — If You Manage Servers With It, You're Already Late",
-      "why_now": "Active exploitation of a critical Perforce Puppet RCE against enterprise config-management servers is a textbook 'patch cadence failure' story breaking right now.",
-      "angle": "Incident-response style post: timeline of disclosure-to-exploitation, who's being hit, and why config-management tools are the softest underbelly in enterprise infra",
-      "source": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+      "title": "PHP's 'Another Critical RCE' Season Is Back — Here's What's Different This Time",
+      "why_now": "PHP is readying yet another critical security release affecting all supported versions, continuing a pattern worth tracking.",
+      "angle": "Patch-cadence trend piece: timeline of PHP's recent critical RCEs and what it says about the ecosystem's risk surface",
+      "source": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911"
     },
     {
-      "title": "Hackers Used an A/B Testing Tool to A/B Test Their Malware on You",
-      "why_now": "Krebs and Dark Reading both flagged attackers abusing Optimizely to split-test malicious payloads on top websites, a genuinely novel and darkly funny supply-chain twist worth dissecting before it's old news.",
-      "angle": "Deep-dive on the mechanics: how a legit CRO/testing SaaS became a malware delivery and optimization pipeline, with lessons for third-party script vetting",
-      "source": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+      "title": "A Decade-Old NGINX Bug Just Woke Up: Inside NGINX2Root and the HTTP/2 Flaw Nobody Noticed",
+      "why_now": "F5 patched critical NGINX2Root flaws with PoC exploits already public, and a separate 10-year-old HTTP/2 RCE bug just surfaced in the same stack.",
+      "angle": "Investigative timeline: how a flaw sat undetected for 10 years in infrastructure powering millions of sites, plus immediate mitigation steps",
+      "source": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
     },
     {
-      "title": "The Breach Digest: Ipsos, Infoblox, Fandango, Access Dental, and an Uber Vendor All Got Popped in One Week",
-      "why_now": "Five distinct breach disclosures landed within 48 hours across wildly different sectors (polling, DNS/security vendor, ticketing, dental records, rideshare driver data) — the inevitable-breach thesis practically writes itself.",
-      "angle": "Roundup format: one-line-each breach summary with 'what data, how it happened, what to do' grid, closing with the pattern (SharePoint, third parties, vendor sprawl)",
-      "source": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280"
+      "title": "The Security Vendor Got Hacked: N-able Breach Knocks Out Email Security Across 3 Regions",
+      "why_now": "Attackers breached N-able's cloud infrastructure, disrupting the very email-security tooling customers rely on — a supply-chain irony too good to skip.",
+      "angle": "Supply-chain breach breakdown with 'who trusts the trust-provider' framing and customer impact checklist",
+      "source": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
     },
     {
-      "title": "FBI and AWS Just Confirmed What We Suspected: Cybercrime Now Has an Assembly Line",
-      "why_now": "FBI/AWS warning on AI-agent-automated 'industrial scale' cybercrime, paired with Google's report on an AI framework autonomously weaponizing flaws, marks a concrete inflection point from theory to documented reality.",
-      "angle": "Threat-actor trendpiece: what 'industrial scale' actually means in numbers, how AI agents are being chained for recon-to-exploit, and what defenders should change about their SOC assumptions",
-      "source": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223"
+      "title": "The $0 Exploit: How a Sticky Note on a Monitor Beat Every Firewall in the Building",
+      "why_now": "A fresh Register report on a sticky-note password leak is the perfect inevitable-breach case study on human factors undermining million-dollar security stacks.",
+      "angle": "Short, punchy 'cheapest attack vector' breakdown pairing the anecdote with stats on credential-exposure incidents, built for X virality",
+      "source": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908"
     }
   ]
 }

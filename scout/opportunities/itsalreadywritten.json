@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-18T11:05:34+00:00",
+  "generated": "2026-11-19T11:05:52+00:00",
   "opportunities": [
     {
-      "title": "The Pactweaver's Fine Print: What Secrets of the Tome's New Magic Actually Changes at the Table",
-      "why_now": "The Pactweaver and its new magic system just went live, so players need a rules breakdown before they build around it.",
-      "angle": "Mechanical teardown post: subclass features, spell list changes, and how it interacts with existing pact magic rules",
+      "title": "Secrets of the Tome Goes Live: What the Pactweaver's New Magic System Actually Does",
+      "why_now": "The expansion's new magic rules just launched, giving a fresh crunch-first rules set to dissect before the hype cycle moves on.",
+      "angle": "Mechanical breakdown post: pull the Pactweaver's spell list/resource mechanic and compare it to existing 5e-adjacent pact magic for a 'here's what's actually new' angle.",
       "source": "https://www.enworld.org/threads/secrets-of-the-tome-the-pactweaver-new-magic-is-now-live.721399/"
     },
     {
-      "title": "Moon Priest, Reverent, Spirits: A Pre-Launch Rules Cheat Sheet for Secrets of the Tome",
-      "why_now": "This is the last preview before launch, giving a narrow window to publish a definitive rules primer before the book hits shelves.",
-      "angle": "Quick-reference X thread + blog table comparing the four new classes' core mechanics",
+      "title": "Stat Block Autopsy: Moon Priest, Pactweaver, Spirits, and Reverent Before Launch Day",
+      "why_now": "This is the last preview before the full release, making it the definitive moment to catalog the final numbers before they're locked in.",
+      "angle": "Rules-first preview roundup with a quick comparison table of each class's core mechanic, framed as 'the rules as written, right before launch.'",
       "source": "https://www.enworld.org/threads/a-final-look-before-launch-at-secrets-of-the-tomes-moon-priest-pactweaver-spirits-reverent.721391/"
     },
     {
-      "title": "Chaosium Pulls Call of Cthulhu Board Game: What This Means for the IP's Rules Legacy",
-      "why_now": "A major publisher just halted production over a designer's criminal conviction, raising real questions about credits, reprints, and rules ownership going forward.",
-      "angle": "Factual explainer on what's actually affected (board game only vs. TTRPG line) and precedent for publisher response",
+      "title": "Chaosium Pulls Call of Cthulhu Board Game: What Happens to the Rules Now?",
+      "why_now": "A major publisher just halted production over a designer's criminal conviction, raising real questions about IP, credits, and rules ownership going forward.",
+      "angle": "Factual explainer on what discontinuation means for existing copies, reprint rights, and whether the ruleset gets reassigned or retired—knowing, not speculative.",
       "source": "https://www.enworld.org/threads/chaosium-stops-production-of-call-of-cthulhu-board-game-after-game-designer-convicted-of-child-sex-crimes.721400/"
     },
     {
-      "title": "Paizo Says No to AI, White Wolf Says Maybe: This Week's Rules-Adjacent Industry Signals",
-      "why_now": "The podcast surfaced two concrete policy/playtest items—Paizo's AI denial and the V:tM playtest—that directly affect how future rules get written and vetted.",
-      "angle": "Digest post pulling the factual statements from the livestream into a dated record of industry positions",
+      "title": "V:tM's New Playtest Rules and Paizo's AI Denial: This Week's Actual Rulebook News",
+      "why_now": "The podcast surfaces two concrete rules-adjacent stories—a Vampire: the Masquerade playtest and Paizo's public AI denial—that deserve a text writeup for people who don't watch livestreams.",
+      "angle": "News digest post translating the podcast's rules/policy reveals into a scannable, citation-style brief.",
       "source": "https://www.enworld.org/threads/podcast-423-livestream-more-wow-paizo-denies-ai-v-tm-playtest-wh40k-video-game.721393/"
     },
     {
-      "title": "Start With a Map: The Rule Every GM Already Knows But Skips",
-      "why_now": "Sly Flourish's fresh analysis is a concrete, actionable prep technique that fits a rules-first audience looking to run better sessions immediately.",
-      "angle": "Response/amplification post distilling the technique into a repeatable checklist with a knowing 'this was always the rule' framing",
-      "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
+      "title": "The Polyhedral Matrix: What RPG Evolution Gets Right (and Leaves Out) About Dice Math",
+      "why_now": "A fresh design-theory piece on polyhedral dice mechanics is exactly the kind of rules-systems discourse this channel can fact-check and extend.",
+      "angle": "Response/annotation piece: cite the original article's dice-probability claims and add the hard math the channel's voice demands.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-the-polyhedral-matrix.721381/"
     }
   ]
 }

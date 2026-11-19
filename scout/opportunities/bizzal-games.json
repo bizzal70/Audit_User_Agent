@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-18T11:05:34+00:00",
+  "generated": "2026-11-19T11:05:52+00:00",
   "opportunities": [
     {
-      "title": "Weredragon Isn't a Reskinned Werewolf: How Hybrid Lycanthropy Actually Works in 5e",
-      "why_now": "Critical Role's Reign of the Weredragon just launched, putting the lycanthropy subtype back in the spotlight.",
-      "angle": "Creature tactic short: break down lycanthrope stat block rules, immunity to nonmagical weapons, and how a weredragon's breath weapon interacts with its hybrid form.",
+      "title": "Weredragon Ruling: How Hybrid Lycanthropy Actually Works in 5e (And Why Most Tables Get It Wrong)",
+      "why_now": "Critical Role's Reign of the Weredragon just launched with Chris Perkins, putting hybrid lycanthrope mechanics in front of a huge audience.",
+      "angle": "Rules ruling short: break down the DMG lycanthropy block — curse save, hybrid form stat swap, and the immunity trap most GMs forget to apply.",
       "source": "https://www.enworld.org/threads/chris-perkins-returns-to-actual-play-with-launch-of-critical-roles-reign-of-the-weredragon.721407/"
     },
     {
-      "title": "Pactweaver's New Pact Magic: Does It Stack With Warlock Spell Slots?",
-      "why_now": "Secrets of the Tome's Pactweaver class and new magic system just went live, raising immediate cross-compatibility questions.",
-      "angle": "Rules ruling short: walk through whether Pactweaver slots recharge on short rest like warlock pacts, and how a DM should rule it at a mixed table.",
-      "source": "https://www.enworld.org/threads/secrets-of-the-tome-the-pactweaver-new-magic-is-now-live.721399/"
+      "title": "Demon Hunter's Metamorphosis Is Just a Badly-Balanced 5e Spell — Here's the Fix",
+      "why_now": "EN World's WoW Demon Hunter spell deep dive is fresh and gives a built-in audience for a crossover mechanics teardown.",
+      "angle": "Spell use-case: convert Metamorphosis into a legal 5e Warlock invocation/spell, show the action economy math on why the WoW version would break bounded accuracy.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-demon-hunter-spells.721405/"
     },
     {
-      "title": "The Reverent's Channel Divinity Clone: Legal Loophole or Broken Combo?",
-      "why_now": "The final preview of Secrets of the Tome's Moon Priest, Reverent, Spirits, and Pactweaver dropped right before launch, giving a concrete new feature to stress-test.",
-      "angle": "Spell/feature use-case short: pick the Reverent's signature channel ability and show the one combo that breaks action economy at low levels.",
-      "source": "https://www.enworld.org/threads/a-final-look-before-launch-at-secrets-of-the-tomes-moon-priest-pactweaver-spirits-reverent.721391/"
+      "title": "Pactweaver's 'New Magic' vs 5e Pact Magic: Same Chassis, Worse Math",
+      "why_now": "Secrets of the Tome's Pactweaver content just went live, making it a timely comparison point for pact-caster mechanics.",
+      "angle": "Mechanical comparison short: slot recovery rate, invocation-equivalents, and whether the new system actually fixes short-rest caster imbalance.",
+      "source": "https://www.enworld.org/threads/secrets-of-the-tomes-moon-priest-pactweaver-spirits-reverent.721391/"
     },
     {
-      "title": "Start With a Map, Not a Plot Hook: The One Prep Change That Fixes Your Sessions",
-      "why_now": "Sly Flourish's new essay on map-first prep is making rounds and gives a concrete GM technique to react to.",
-      "angle": "Dry veteran-GM take: contrast map-first prep against read-aloud boxed text, with one rules-adjacent example (room-by-room skill check pacing) rather than vague advice.",
-      "source": "https://slyflourish.com/start_with_a_map.html?rss=1"
+      "title": "Advantage Doesn't Stack — The Polyhedral Matrix Proves Why in One Chart",
+      "why_now": "EN World's 'RPG Evolution: The Polyhedral Matrix' column is circulating and gives a hook to correct a top-5 misplayed rule.",
+      "angle": "Rules ruling short using dice-probability visual: show why double-advantage/disadvantage cancellation is wrong across 5e, Shadowdark, and DCC's d20 roll-under variants.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-the-polyhedral-matrix.721381/"
     },
     {
-      "title": "Temple of Inquinatious Evil's Deadliest Room: An OSR Trap That 5e DMs Keep Running Wrong",
-      "why_now": "The Alphinius Goo interview on Luke Gygax's Temple of Inquinatious Evil is circulating and spotlights an old-school module ripe for a modern ruling.",
-      "angle": "Shadowdark/DCC crossover short: take one trap/encounter from the module and show the correct save-or-die math versus how most tables fumble it.",
-      "source": "https://www.enworld.org/threads/alphinius-goo-talks-about-luke-gygax-the-temple-of-inquinatious-evil.721362/"
+      "title": "White Dwarf Got Monster Tactics Right in 1985 — Here's the OSR Trick Modern 5e Forgot",
+      "why_now": "White Dwarf Reflections #46 just published, reviving old-school monster design discourse relevant to Shadowdark/DCC's back-to-basics players.",
+      "angle": "Creature tactic short: pull a classic White Dwarf monster gimmick and show how it maps cleanly onto Shadowdark's lethal low-level design versus bloated 5e stat blocks.",
+      "source": "https://www.enworld.org/threads/white-dwarf-reflections-46.721207/"
     }
   ]
 }

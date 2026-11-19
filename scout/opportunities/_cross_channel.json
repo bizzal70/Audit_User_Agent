@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-18T11:05:34+00:00",
+  "generated": "2026-11-19T11:05:52+00:00",
   "plays": [
     {
-      "story": "Google reports an autonomous AI agent/framework finding and exploiting software vulnerabilities without human direction, surfacing in both crypto-security and cyber coverage.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "Why Institutions Are Rethinking Custody Now That Hacking Bots Never Sleep — unpack how Google's self-running AI exploit framework changes the risk math for exchanges and custodians (ties into the Binance-hack custody exodus story), with a concrete 'your hot wallet is now fighting a machine, not a person' hook.",
-        "itsalreadywhen": "The Day AI Agents Started Hacking Without Humans in the Loop — deep dive on Google's discovery of a self-running exploit tool with Russian code comments: how it works, what zero-days it chained, and why patch-cycle assumptions are now obsolete."
-      },
-      "source": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws"
-    },
-    {
-      "story": "A malicious code injection through the Optimizely A/B-testing platform compromised 178 major websites, deploying credit-card and crypto-stealing skimmers — a textbook third-party/supply-chain breach.",
-      "channels": [
-        "itsalreadypriced",
-        "itsalreadywhen"
-      ],
-      "angles": {
-        "itsalreadypriced": "The Marketing Tool That Became a Crypto Wallet Drainer — how attackers hid skimmer code inside Optimizely's A/B testing scripts on 178 sites to siphon card and wallet data at checkout, and what it means for anyone paying crypto on e-commerce sites this holiday season.",
-        "itsalreadywhen": "Your A/B Test Is Now an Attack Vector — breaking down the Optimizely supply-chain compromise alongside this week's Trezor and Infoblox third-party breaches: why vendor trust is cybersecurity's weakest link right now."
-      },
-      "source": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
-    },
-    {
-      "story": "Chaosium halts production of its Call of Cthulhu board game after the game's designer was convicted of child sex crimes.",
+      "story": "Chaosium halts production of its Call of Cthulhu board game after a contracted designer was convicted of child sex crimes, forcing a public reckoning over IP tied to a disgraced creator",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Should You Still Play Your Copy of Call of Cthulhu? Chaosium's Production Halt, Explained — a practical breakdown for collectors and game groups on what the recall means for existing copies, resale, and future printings.",
-        "itsalreadywritten": "When the Credits Page Becomes the Headline: How TTRPG Publishers Handle a Designer's Crimes — using Chaosium's reckoning to explore precedent for scrubbing credits, rewriting lore attribution, and what it means for creator-driven storytelling going forward."
+        "bizzal-games": "'Chaosium Pulls Call of Cthulhu Off Shelves — What It Means for Publishers Who Vet (or Don't) Their Freelancers': a hard-news industry piece on the recall, the contract fallout, and what other TTRPG publishers are quietly auditing right now.",
+        "itsalreadywritten": "'The Mythos Doesn't Care Who Wrote It: Can Cthulhu's Canon Survive Its Creator's Crimes?': a narrative-legacy piece on separating decades of Lovecraftian lore from the disgraced designer, and whether the setting gets rebuilt under new stewardship."
       },
       "source": "https://www.enworld.org/threads/chaosium-stops-production-of-call-of-cthulhu-board-game-after-game-designer-convicted-of-child-sex-crimes.721400/"
     },
     {
-      "story": "Chris Perkins returns to Critical Role's Actual Play with the launch of Reign of the Weredragon.",
+      "story": "Attackers compromised the Optimizely A/B-testing platform to quietly inject credit-card and crypto-stealing malware into 178 major websites, turning a trusted marketing tool into a mass skimmer",
       "channels": [
-        "bizzal-games",
-        "itsalreadywritten"
+        "itsalreadypriced",
+        "itsalreadywhen"
       ],
       "angles": {
-        "bizzal-games": "Steal Chris Perkins' GM Playbook: What Reign of the Weredragon's Premiere Teaches About Running a Tight Campaign Arc — concrete prep and pacing takeaways for your own table.",
-        "itsalreadywritten": "Reign of the Weredragon Is a Masterclass in Serialized Fantasy Writing — what Critical Role's new arc borrows from prestige TV structure, and why Actual Play is quietly becoming its own narrative medium."
+        "itsalreadypriced": "'Your Wallet Got Drained by an A/B Test: Inside the Optimizely Skimmer Hitting 178 Major Sites' — a reader-protection piece listing which checkout flows were hit, how to spot a compromised payment page, and why browser wallet extensions are especially exposed to this kind of injected JS.",
+        "itsalreadywhen": "'The Marketing Script That Became a Supply-Chain Weapon: How Optimizely Got Hijacked' — a third-party-risk deep dive on how a single SaaS vendor's compromise cascaded into 178 breaches, and what CISOs should be auditing in their own tag managers right now."
       },
-      "source": "https://www.enworld.org/threads/chris-perkins-returns-to-actual-play-with-launch-of-critical-roles-reign-of-the-weredragon.721407/"
+      "source": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+    },
+    {
+      "story": "The Ledger hardware-implant saga keeps widening — physical tampering traced through Dubai's Virgin Megastore, with new confirmed cases emerging in Germany and the UAE",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'The Ledger You Just Bought at the Mall Might Already Be Hacked' — a practical buyer's-guide piece on verifying retail hardware wallets, checking tamper seals, and why Ledger's own retail/distribution chain is now the attack surface.",
+        "itsalreadywhen": "'Implants on the Shelf: What Ledger's Spreading Hardware-Tamper Cases Reveal About Retail Supply-Chain Security' — a cyber-beat analysis of how physical implants bypass software defenses, and what retailers and OEMs need to change in logistics and QA."
+      },
+      "source": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "A new watchdog warning says 'highly advanced' quantum computers could crack financial-grade encryption within five years, putting banks and blockchains on the clock for post-quantum migration",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "'Five Years to Harden Your Bags: Why Quantum Computing Is Bitcoin's Next Existential Clock' — a markets piece on which chains/custodians are already moving to quantum-resistant signatures, and what holders should watch for as a leading indicator of risk pricing in.",
+        "itsalreadywhen": "'Store Now, Decrypt Later: The Quantum Countdown Just Got a Hard Deadline' — an enterprise-security piece on harvest-now-decrypt-later attacks already underway, and a practical crypto-agility checklist for CISOs before the five-year window closes."
+      },
+      "source": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns"
     }
   ]
 }

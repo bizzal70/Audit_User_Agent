@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-18T11:05:34+00:00",
+  "generated": "2026-11-19T11:05:52+00:00",
   "opportunities": [
     {
-      "title": "Google Just Found a Self-Hacking AI With Russian Comments Still in the Code",
-      "why_now": "Google's discovery of an autonomous AI exploit-finder (paired with Luxor's 'AI dark forest' warning after a miner hijack) marks the moment automated attacks stopped being theoretical",
-      "angle": "Explainer/analysis: what an AI that finds its own zero-days means for every wallet, exchange, and protocol that assumed human-speed attackers",
-      "source": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files"
+      "title": "The Ledger Implant Saga Just Went Global — And Nobody's Updated Their Threat Model",
+      "why_now": "Ledger's hardware-tampering investigation has spread from Dubai's Virgin Megastore to Berlin and now Germany/UAE, confirming this is a distribution-chain campaign, not an isolated incident.",
+      "angle": "Timeline explainer + practical checklist: how to verify a hardware wallet wasn't tampered with before first use, with links to the Dubai and Berlin confirmations",
+      "source": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia"
     },
     {
-      "title": "Safe Lost $6.5M, Lighter Lost $10M — Multisig Was Never the Security Model You Thought It Was",
-      "why_now": "Two unrelated incidents in one week (Safe key compromise, Lighter API key exploit) both trace back to the same failure mode: a trusted credential, not a smart contract bug",
-      "angle": "Pattern-recognition piece connecting both incidents to show 'multisig/API trust' as the real attack surface, with a checklist for what counts as actual custody hygiene",
-      "source": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise"
+      "title": "Binance's $6.5B Freezing Order Is a Receipt for Every 'Not Your Keys' Lecture You Ignored",
+      "why_now": "Court docs now show the Binance hackers moved 192 tokens across 11 networks while Binance pursues a $6.5B freezing order in Abu Dhabi — a live case study in post-hack forensics and why institutions are reconsidering custody.",
+      "angle": "Explainer tying the court filing to the FalconX custody-shift story — 'the receipts always come after the custody decision, never before'",
+      "source": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Trezor's Third Partner Breach This Year Proves Cold Storage Was Never the Weak Link",
-      "why_now": "Trezor customer data leaked via a partner for the third time in 2026, while the device itself remains uncompromised — a split that matters",
-      "angle": "Contrarian security take: your seed phrase is fine, your email inbox isn't — walk through how partner-breach phishing campaigns actually convert into drained wallets",
-      "source": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year"
+      "title": "Safe Wallet Lost $6.5M to a Key Compromise — Multisig Was Never the Safety Word You Thought It Was",
+      "why_now": "Zodiac investigators suspect a straightforward key compromise behind Safe's $6.5M loss, undercutting the industry's go-to narrative that multisig alone equals security.",
+      "angle": "Myth-busting piece: multisig protects against single points of failure, not compromised signers — pair with Lighter's API-key exploit same week as a pattern",
+      "source": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Binance Hack Money Just Moved $137M — Right as Institutions Start Moving to Outside Custody",
-      "why_now": "Dormant Binance-hack wallets activated after two weeks of silence the same week a FalconX exec said the breach is pushing institutions toward third-party custody",
-      "angle": "Market-structure piece tying on-chain forensics (the $137M movement) to the institutional custody narrative — 'the hack isn't over, it's just changing who holds the keys'",
-      "source": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks"
+      "title": "Quantum Computers Could Break Crypto's Encryption in Five Years. Your Roadmap Says 'Someday.'",
+      "why_now": "A fresh watchdog warning says banks and blockchains are lagging on quantum defense with a 5-year runway — a security story most of the market is still pricing at zero.",
+      "angle": "Forward-looking risk piece: what 'quantum-vulnerable' actually means for wallets/signatures today, and which chains have begun migration work vs. which haven't",
+      "source": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns"
     },
     {
-      "title": "Coinbase's AI Just Blocked a $4.7M Deepfake Elon Scam — and Also Showed Scammers Exactly What to Fix Next",
-      "why_now": "A high-profile AI defense win against a deepfake Musk scam lands the same week Jito's Lucas Bruder publicly said builders need to 'slow down' on security",
-      "angle": "Security-led skeptic's take: celebrate the save, then explain why every AI fraud-detection win is also free R&D for the next generation of AI-run scams",
-      "source": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918"
+      "title": "'Exchanges Shouldn't Double as the Vault' — CoinDesk Just Said the Quiet Part Out Loud",
+      "why_now": "CoinDesk's own markets column is now making the exact argument this channel was built on, right as Binance's hack pushes institutions toward outside custody — perfect moment to stake the thesis publicly.",
+      "angle": "Response/amplification post: agree, extend, and connect to the week's incident pile-up (Binance, Safe, Lighter) as proof the thesis isn't theoretical anymore",
+      "source": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault"
     }
   ]
 }
