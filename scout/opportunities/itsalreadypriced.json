@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-19T11:05:52+00:00",
+  "generated": "2026-11-20T11:05:29+00:00",
   "opportunities": [
     {
-      "title": "The Ledger Implant Saga Just Went Global — And Nobody's Updated Their Threat Model",
-      "why_now": "Ledger's hardware-tampering investigation has spread from Dubai's Virgin Megastore to Berlin and now Germany/UAE, confirming this is a distribution-chain campaign, not an isolated incident.",
-      "angle": "Timeline explainer + practical checklist: how to verify a hardware wallet wasn't tampered with before first use, with links to the Dubai and Berlin confirmations",
-      "source": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia"
+      "title": "Wrapped Monero Didn't Get Hacked. It Got Unwrapped — By Its Own Issuer",
+      "why_now": "XMR1 collapsed 99% after the issuer-linked wallet dumped $13.5M, and the 'wrapped asset' trust model just failed in real time.",
+      "angle": "Security teardown: how custodial wrap tokens are a single-signer risk dressed up as DeFi, with the wallet-dump timeline annotated",
+      "source": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million"
     },
     {
-      "title": "Binance's $6.5B Freezing Order Is a Receipt for Every 'Not Your Keys' Lecture You Ignored",
-      "why_now": "Court docs now show the Binance hackers moved 192 tokens across 11 networks while Binance pursues a $6.5B freezing order in Abu Dhabi — a live case study in post-hack forensics and why institutions are reconsidering custody.",
-      "angle": "Explainer tying the court filing to the FalconX custody-shift story — 'the receipts always come after the custody decision, never before'",
+      "title": "The Binance Hack Court Docs Just Confirmed What We Said: 192 Tokens, 11 Chains, One Playbook",
+      "why_now": "New court filings detail the exact cross-chain laundering path used in the Binance hack, giving a rare concrete map of real attacker tradecraft.",
+      "angle": "Forensic walkthrough of the 11-network hop pattern as a template for 'how stolen crypto actually moves,' aimed at readers who track laundering mechanics",
       "source": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Safe Wallet Lost $6.5M to a Key Compromise — Multisig Was Never the Safety Word You Thought It Was",
-      "why_now": "Zodiac investigators suspect a straightforward key compromise behind Safe's $6.5M loss, undercutting the industry's go-to narrative that multisig alone equals security.",
-      "angle": "Myth-busting piece: multisig protects against single points of failure, not compromised signers — pair with Lighter's API-key exploit same week as a pattern",
-      "source": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Your Ledger Could Be Hacked Before You Even Buy It — Ask Dubai's Virgin Megastore",
+      "why_now": "The hardware-implant saga has now hit retail shelves in Dubai, proving supply-chain tampering isn't theoretical for cold-storage devices.",
+      "angle": "Explainer on hardware supply-chain attacks with a buyer's checklist ('how to verify your Ledger wasn't opened before you did')",
+      "source": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Quantum Computers Could Break Crypto's Encryption in Five Years. Your Roadmap Says 'Someday.'",
-      "why_now": "A fresh watchdog warning says banks and blockchains are lagging on quantum defense with a 5-year runway — a security story most of the market is still pricing at zero.",
-      "angle": "Forward-looking risk piece: what 'quantum-vulnerable' actually means for wallets/signatures today, and which chains have begun migration work vs. which haven't",
-      "source": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns"
+      "title": "Sky's Stablecoin Just Lost $1.5B in Reserves — This Is What a Silent Bank Run Looks Like Onchain",
+      "why_now": "USDS reserves shrank 35% right after an illicit-finance report, a textbook case of a trust event turning into a redemption spiral.",
+      "angle": "Markets-meets-security piece: trace the reserve outflow timeline against the report's publish date to show cause-and-effect for stablecoin depeg risk",
+      "source": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
     },
     {
-      "title": "'Exchanges Shouldn't Double as the Vault' — CoinDesk Just Said the Quiet Part Out Loud",
-      "why_now": "CoinDesk's own markets column is now making the exact argument this channel was built on, right as Binance's hack pushes institutions toward outside custody — perfect moment to stake the thesis publicly.",
-      "angle": "Response/amplification post: agree, extend, and connect to the week's incident pile-up (Binance, Safe, Lighter) as proof the thesis isn't theoretical anymore",
-      "source": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault"
+      "title": "The Lighter Incident Wasn't About Withdrawals — It Was About Everything Else You Forgot to Audit",
+      "why_now": "Post-mortem coverage shows the exploit surface went beyond standard withdrawal controls, exposing a blind spot in how exchanges self-assess risk.",
+      "angle": "Checklist-style breakdown: 'the controls everyone audits vs. the ones that just got exploited,' positioned as a warning for other venues",
+      "source": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }

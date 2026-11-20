@@ -1,34 +1,34 @@
 {
-  "generated": "2026-11-19T11:05:52+00:00",
+  "generated": "2026-11-20T11:05:29+00:00",
   "opportunities": [
     {
-      "title": "Java4Shell: The Bug With the Name Everyone Already Dreaded, and the Patch You Can't Skip",
-      "why_now": "Oracle just dropped a fix-ASAP critical flaw hitting countless third-party Java apps, and exploitation attempts have already started per SecurityWeek.",
-      "angle": "Explainer + 'why this one actually deserves the Shell-suffix panic' with a patch-now checklist for affected frameworks",
-      "source": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661"
+      "title": "VMware vCenter's CVSS 9.8 Zero-Day: How a Chinese APT Got Admin Before the Patch Even Dropped",
+      "why_now": "A newly patched vCenter auth-bypass flaw was already being exploited in the wild by a China-linked group, confirmed across Hacker News and SecurityWeek within 24 hours.",
+      "angle": "Breach timeline breakdown: disclosure date vs. exploitation date, plus a patch-now checklist for vCenter admins",
+      "source": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
     },
     {
-      "title": "PHP's 'Another Critical RCE' Season Is Back — Here's What's Different This Time",
-      "why_now": "PHP is readying yet another critical security release affecting all supported versions, continuing a pattern worth tracking.",
-      "angle": "Patch-cadence trend piece: timeline of PHP's recent critical RCEs and what it says about the ecosystem's risk surface",
-      "source": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911"
+      "title": "Java4Shell, Ruby2Shell, PHP2Shell: Why Every Language Suddenly Has Its Own 'Shell' Apocalypse Name",
+      "why_now": "Three separate critical RCE disclosures in Java, Ruby, and PHP all dropped within the same week, each branded with Shellshock-style naming.",
+      "angle": "Trend explainer comparing the three CVEs side by side — severity, exploitability, and whether the branding matches the real risk",
+      "source": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem"
     },
     {
-      "title": "A Decade-Old NGINX Bug Just Woke Up: Inside NGINX2Root and the HTTP/2 Flaw Nobody Noticed",
-      "why_now": "F5 patched critical NGINX2Root flaws with PoC exploits already public, and a separate 10-year-old HTTP/2 RCE bug just surfaced in the same stack.",
-      "angle": "Investigative timeline: how a flaw sat undetected for 10 years in infrastructure powering millions of sites, plus immediate mitigation steps",
-      "source": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+      "title": "Chase, Visa, and Mastercard All Got Burned by the Same Third-Party Vendor — Here's What Got Exposed",
+      "why_now": "Three of the biggest names in finance confirmed overlapping third-party breaches within the same news cycle, a rare simultaneous disclosure.",
+      "angle": "Breach digest card: who was hit, what data leaked, what customers should actually do this week",
+      "source": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/"
     },
     {
-      "title": "The Security Vendor Got Hacked: N-able Breach Knocks Out Email Security Across 3 Regions",
-      "why_now": "Attackers breached N-able's cloud infrastructure, disrupting the very email-security tooling customers rely on — a supply-chain irony too good to skip.",
-      "angle": "Supply-chain breach breakdown with 'who trusts the trust-provider' framing and customer impact checklist",
-      "source": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
+      "title": "Nvidia Says It's 'Investigating' a Possible Hack While Ransomware Gang Says Otherwise",
+      "why_now": "Nvidia's vague 'under investigation' statement is colliding directly with a named ransomware crew's extortion claim, a classic breach-denial mismatch worth tracking.",
+      "angle": "Side-by-side of corporate statement vs. threat actor claim, updated as it develops — good for a running X thread",
+      "source": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/"
     },
     {
-      "title": "The $0 Exploit: How a Sticky Note on a Monitor Beat Every Firewall in the Building",
-      "why_now": "A fresh Register report on a sticky-note password leak is the perfect inevitable-breach case study on human factors undermining million-dollar security stacks.",
-      "angle": "Short, punchy 'cheapest attack vector' breakdown pairing the anecdote with stats on credential-exposure incidents, built for X virality",
+      "title": "The Sticky Note That Took Down a Company: This Week's Reminder That Humans Are Still the Weakest CVE",
+      "why_now": "A physical sticky-note password leak made The Register's front page the same week as four critical software CVEs — perfect contrast piece.",
+      "angle": "Short, punchy 'low-tech vs high-tech breach' comparison post for X engagement, pairing this with the PHP/VMware stories",
       "source": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908"
     }
   ]

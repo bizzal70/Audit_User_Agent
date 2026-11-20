@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-19T11:05:52+00:00",
+  "generated": "2026-11-20T11:05:29+00:00",
   "opportunities": [
     {
-      "title": "Weredragon Ruling: How Hybrid Lycanthropy Actually Works in 5e (And Why Most Tables Get It Wrong)",
-      "why_now": "Critical Role's Reign of the Weredragon just launched with Chris Perkins, putting hybrid lycanthrope mechanics in front of a huge audience.",
-      "angle": "Rules ruling short: break down the DMG lycanthropy block — curse save, hybrid form stat swap, and the immunity trap most GMs forget to apply.",
+      "title": "D&D Beyond Got Hacked (Again) — Here's Why Your Character Sheet Isn't the Target, Your Password Is",
+      "why_now": "Fresh breaking news about a third-party breach affecting D&D Beyond accounts gives a hook for a quick security-practical short every DDB user needs.",
+      "angle": "60-sec PSA-style short: dry GM voice explaining password reuse risk, tells viewers to enable 2FA, ties into 'ruling' format (treat your login like a saving throw you shouldn't fail)",
+      "source": "https://www.enworld.org/threads/d-d-beyond-one-of-hundreds-of-sites-affected-by-third-party-hack-claims-no-payment-information-was-accessed.721435/"
+    },
+    {
+      "title": "Weredragon RAW: How Lycanthropy Templates Actually Work (And Why Critical Role Is Cheating a Little)",
+      "why_now": "Chris Perkins' new Critical Role arc 'Reign of the Weredragon' just launched, making lycanthropy-as-dragon a hot search term for curious fans wanting the real rules.",
+      "angle": "Creature tactic breakdown: compare standard lycanthrope template vs. homebrewing a dragon hybrid, give DMs a plug-and-play stat block tweak",
       "source": "https://www.enworld.org/threads/chris-perkins-returns-to-actual-play-with-launch-of-critical-roles-reign-of-the-weredragon.721407/"
     },
     {
-      "title": "Demon Hunter's Metamorphosis Is Just a Badly-Balanced 5e Spell — Here's the Fix",
-      "why_now": "EN World's WoW Demon Hunter spell deep dive is fresh and gives a built-in audience for a crossover mechanics teardown.",
-      "angle": "Spell use-case: convert Metamorphosis into a legal 5e Warlock invocation/spell, show the action economy math on why the WoW version would break bounded accuracy.",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-demon-hunter-spells.721405/"
+      "title": "RIP Ken St. Andre: The Saving Throw Mechanic 5e Stole From Tunnels & Trolls and Never Credited",
+      "why_now": "St. Andre's death this week is trending across TTRPG news and gives an obituary-adjacent angle that's actually mechanical, not sentimental.",
+      "angle": "Short history/rules lesson: trace saving throw design lineage from T&T to 5e, dry veteran-GM tribute framing, end with 'buy a T&T book tonight'",
+      "source": "https://www.enworld.org/threads/ken-st-andre-creator-of-tunnels-trolls-passes-away-at-age-79.721429/"
     },
     {
-      "title": "Pactweaver's 'New Magic' vs 5e Pact Magic: Same Chassis, Worse Math",
-      "why_now": "Secrets of the Tome's Pactweaver content just went live, making it a timely comparison point for pact-caster mechanics.",
-      "angle": "Mechanical comparison short: slot recovery rate, invocation-equivalents, and whether the new system actually fixes short-rest caster imbalance.",
-      "source": "https://www.enworld.org/threads/secrets-of-the-tomes-moon-priest-pactweaver-spirits-reverent.721391/"
+      "title": "The Pactweaver's New Invocations Are Busted — Here's the One Spell Combo Your Table Will Abuse First",
+      "why_now": "Secrets of the Tome just went live with new Pactweaver magic, giving a first-look opportunity before other creators cover it.",
+      "angle": "Spell use-case short: pick the single most broken new invocation/spell interaction, show the combo, warn DMs how to patch it",
+      "source": "https://www.enworld.org/threads/secrets-of-the-tome-the-pactweaver-new-magic-is-now-live.721399/"
     },
     {
-      "title": "Advantage Doesn't Stack — The Polyhedral Matrix Proves Why in One Chart",
-      "why_now": "EN World's 'RPG Evolution: The Polyhedral Matrix' column is circulating and gives a hook to correct a top-5 misplayed rule.",
-      "angle": "Rules ruling short using dice-probability visual: show why double-advantage/disadvantage cancellation is wrong across 5e, Shadowdark, and DCC's d20 roll-under variants.",
-      "source": "https://www.enworld.org/threads/rpg-evolution-the-polyhedral-matrix.721381/"
-    },
-    {
-      "title": "White Dwarf Got Monster Tactics Right in 1985 — Here's the OSR Trick Modern 5e Forgot",
-      "why_now": "White Dwarf Reflections #46 just published, reviving old-school monster design discourse relevant to Shadowdark/DCC's back-to-basics players.",
-      "angle": "Creature tactic short: pull a classic White Dwarf monster gimmick and show how it maps cleanly onto Shadowdark's lethal low-level design versus bloated 5e stat blocks.",
-      "source": "https://www.enworld.org/threads/white-dwarf-reflections-46.721207/"
+      "title": "Stop Writing Session Zero Notes Nobody Reads — The One Prep Step That Actually Matters",
+      "why_now": "Gnome Stew's new prep-focused article is a timely jumping-off point to deliver a sharp, contrarian GM-prep ruling in the channel's signature dry style.",
+      "angle": "Veteran-GM rant format: debunk over-prepping, give the single prep task worth doing before a new campaign (NPC motivations > lore dumps)",
+      "source": "https://gnomestew.com/preparing-for-a-new-game/"
     }
   ]
 }
