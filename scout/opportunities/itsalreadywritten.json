@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-20T11:05:29+00:00",
+  "generated": "2026-11-21T11:05:15+00:00",
   "opportunities": [
     {
-      "title": "Ken St. Andre (1947–2026): The Man Who Wrote the Saving Roll",
-      "why_now": "T&T creator's death is breaking news and a chance to document the mechanic he actually invented before memory fades into myth.",
-      "angle": "Rules-history obituary: trace the saving roll and 'roll under attribute' lineage from T&T into modern systems, cite his own rulebook text",
-      "source": "https://www.enworld.org/threads/ken-st-andre-creator-of-tunnels-trolls-passes-away-at-age-79.721429/"
+      "title": "GTA 6 Isn't an RPG — So What Actually Makes One? The Rulebook Answer",
+      "why_now": "RPGSite's feature argues GTA 6 has 'RPG chops' without being an RPG, which is the perfect excuse to settle the definition using actual tabletop rules frameworks instead of vibes.",
+      "angle": "Explainer/listicle citing core TTRPG rules elements (character sheets, advancement tables, resolution mechanics) to draw a hard line between 'roleplaying feel' and 'an RPG system,' with GTA 6 as the foil.",
+      "source": "https://www.rpgsite.net/feature/21789-gta-6-isnt-an-rpg-but-it-sure-has-some-excellent-role-playing-chops"
     },
     {
-      "title": "Secrets of the Tome's Pactweaver: What the New Magic Actually Does, Rules-Text Breakdown",
-      "why_now": "The supplement just went live, so there's a narrow window to be the definitive rules-first read before hype pieces flood in.",
-      "angle": "Line-by-line mechanical analysis of the Pactweaver class/subclass text vs existing pact magic frameworks",
-      "source": "https://www.enworld.org/threads/secrets-of-the-tome-the-pactweaver-new-magic-is-now-live.721399/"
+      "title": "Session Zero Isn't Optional: The Rules-First Way to Prep a New TTRPG Campaign",
+      "why_now": "Gnome Stew just published a fresh prep-focused piece, giving a timely peg to push a rules-grounded prep checklist.",
+      "angle": "Blog breakdown that reframes 'preparing for a new game' as following the actual written procedures (session zero, safety tools, character creation rules) rather than GM gut feel, with a tight X thread version.",
+      "source": "https://gnomestew.com/preparing-for-a-new-game/"
     },
     {
-      "title": "Pathfinder's Arcadia Books: What 'Lore' Actually Means for Your Rules Table",
-      "why_now": "Fresh announcement lets the channel stake out the 'lore vs crunch' distinction before other outlets just recap the press release.",
-      "angle": "Explainer on how Pathfinder lore books typically convert into mechanical subsystems (feats, archetypes, regional rules)",
-      "source": "https://www.enworld.org/threads/pathfinder-announces-new-lore-books-focused-on-arcadia.721406/"
+      "title": "Improv Still Needs a Rulebook: What Gnomecast 250 Gets Right (and Leaves Out)",
+      "why_now": "Gnomecast's new episode on 'de-scarifying improv' is a direct opening to argue that even freeform play rests on written mechanics (reaction tables, oracle systems, skill checks).",
+      "angle": "Response/analysis post dissecting the episode, pulling out the specific rules tools (random tables, GM moves, resolution dice) that make improv safe and repeatable.",
+      "source": "https://gnomestew.com/gnomecast-250-de-scarifying-improv/"
     },
     {
-      "title": "Chaosium Pulls Call of Cthulhu Board Game: The Facts, the License, and What Happens to Existing Copies",
-      "why_now": "A major publisher halting production over a designer's criminal conviction is a fast-moving factual story readers want clarified, not editorialized.",
-      "angle": "Dry factual timeline: what was pulled, what wasn't, IP/licensing mechanics behind discontinuing a published game",
-      "source": "https://www.enworld.org/threads/chaosium-stops-production-of-call-of-cthulhu-board-game-after-game-designer-convicted-of-child-sex-crimes.721400/"
+      "title": "Xenoblade 3's 3.0.0 Patch Notes Are a Masterclass in Errata — Here's What TTRPG Designers Should Steal",
+      "why_now": "The newly released patch notes are a concrete, dated artifact that lets us compare live-game balance changes to tabletop errata/FAQ practices.",
+      "angle": "News-hook analysis piece translating video-game patch philosophy into TTRPG rules-maintenance lessons (versioning, clarity, backward compatibility).",
+      "source": "https://www.rpgsite.net/news/21791-xenoblade-chronicles-3-version-3-0-0-update-patch-notes-nintendo-switch-2-edition"
     },
     {
-      "title": "D&D Beyond Breach: What Was (and Wasn't) Actually Exposed, Per Wizards' Own Statement",
-      "why_now": "Players are anxious and rumor-prone right after a breach disclosure, so a sourced, rules-of-evidence style fact-check earns trust and clicks.",
-      "angle": "Fact-check format citing the official claim line by line, what 'no payment info accessed' does/doesn't cover",
-      "source": "https://www.enworld.org/threads/d-d-beyond-one-of-hundreds-of-sites-affected-by-third-party-hack-claims-no-payment-information-was-accessed.721435/"
+      "title": "Queen's Domain Hit 250k Copies — What Its Systems Owe to Tabletop Rules Design",
+      "why_now": "The fresh sales milestone number gives a timely reason to unpack the rules DNA underneath a breakout RPG hit.",
+      "angle": "Explainer connecting the game's mechanics to classic tabletop RPG rules lineage (stat blocks, encounter design, progression tables), framed as 'the rules were already written, this just proved they work.'",
+      "source": "https://www.rpgsite.net/news/21794-queens-domain-sold-250k-copies-worldwide-new-sales-numbers"
     }
   ]
 }

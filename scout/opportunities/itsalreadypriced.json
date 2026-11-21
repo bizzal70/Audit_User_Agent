@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-20T11:05:29+00:00",
+  "generated": "2026-11-21T11:05:15+00:00",
   "opportunities": [
     {
-      "title": "Wrapped Monero Didn't Get Hacked. It Got Unwrapped — By Its Own Issuer",
-      "why_now": "XMR1 collapsed 99% after the issuer-linked wallet dumped $13.5M, and the 'wrapped asset' trust model just failed in real time.",
-      "angle": "Security teardown: how custodial wrap tokens are a single-signer risk dressed up as DeFi, with the wallet-dump timeline annotated",
-      "source": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million"
+      "title": "Wrapped Monero Was Never Monero: XMR1's 99.8% Collapse Is a Wrapper-Risk Autopsy",
+      "why_now": "XMR1 just crashed 99.8% on a suspected $13.5M exploit traced to a compromised web host, and the founder is promising refunds nobody asked to need.",
+      "angle": "Explainer/autopsy: why 'wrapped privacy coin' is an oxymoron — custody risk, trust assumptions, and what the exploit chain (web host → keys → mint) actually reveals about every wrapped asset you hold",
+      "source": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Binance Hack Court Docs Just Confirmed What We Said: 192 Tokens, 11 Chains, One Playbook",
-      "why_now": "New court filings detail the exact cross-chain laundering path used in the Binance hack, giving a rare concrete map of real attacker tradecraft.",
-      "angle": "Forensic walkthrough of the 11-network hop pattern as a template for 'how stolen crypto actually moves,' aimed at readers who track laundering mechanics",
-      "source": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The Binance Hacker Just Routed $600M Through the Exact Bridge That Halted Hours Later",
+      "why_now": "The Binance hacker moved ~$600M in ETH through THORChain and Chainflip on the same day Chainflip halted swaps over a suspected vault exploit — a timeline too tight to ignore.",
+      "angle": "Timeline/connect-the-dots thread: lay out the hours between the laundering route and the halt, ask whether this is coincidence or cause, and what it says about cross-chain bridges as laundering rails",
+      "source": "https://thedefiant.io/news/security/chainflip-halts-swaps-over-potential-vault-exploit"
     },
     {
-      "title": "Your Ledger Could Be Hacked Before You Even Buy It — Ask Dubai's Virgin Megastore",
-      "why_now": "The hardware-implant saga has now hit retail shelves in Dubai, proving supply-chain tampering isn't theoretical for cold-storage devices.",
-      "angle": "Explainer on hardware supply-chain attacks with a buyer's checklist ('how to verify your Ledger wasn't opened before you did')",
-      "source": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Researchers Exposed Bitcoin Wallet Keys on Purpose. Bots Drained Them in Seconds.",
+      "why_now": "CoinDesk's report on bots sweeping exposed keys instantly is the cleanest, most visual proof of automated mempool predation ever published this month.",
+      "angle": "Short, sharp explainer with the key stat up top ('seconds, not minutes') — use it as the definitive link to send anyone who still thinks they have time to 'move funds later' after a leak",
+      "source": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys"
     },
     {
-      "title": "Sky's Stablecoin Just Lost $1.5B in Reserves — This Is What a Silent Bank Run Looks Like Onchain",
-      "why_now": "USDS reserves shrank 35% right after an illicit-finance report, a textbook case of a trust event turning into a redemption spiral.",
-      "angle": "Markets-meets-security piece: trace the reserve outflow timeline against the report's publish date to show cause-and-effect for stablecoin depeg risk",
-      "source": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
+      "title": "An AI Found a Bug That Could Stall Every Bitcoin Node by Repeating One ID 50,000 Times",
+      "why_now": "A consensus-layer DoS bug discovered via AI auditing is a rare, high-stakes story about Bitcoin's base-layer security model, not just another app exploit.",
+      "angle": "Technical deep-dive for the security-literate audience: what the bug does, why it went undetected this long, and what it means that AI tooling is now finding bugs humans missed",
+      "source": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
     },
     {
-      "title": "The Lighter Incident Wasn't About Withdrawals — It Was About Everything Else You Forgot to Audit",
-      "why_now": "Post-mortem coverage shows the exploit surface went beyond standard withdrawal controls, exposing a blind spot in how exchanges self-assess risk.",
-      "angle": "Checklist-style breakdown: 'the controls everyone audits vs. the ones that just got exploited,' positioned as a warning for other venues",
-      "source": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "$3.5B Out, $149M Laundered, BTC Under $57K: The Week the Chain Told the Truth",
+      "why_now": "November's $582M daily ETF outflow, sub-$57K BTC, and $149M in fresh Binance-hack coinjoin mixing are landing in the same 48 hours — a textbook capitulation-plus-exploitation stretch.",
+      "angle": "Signature 'already priced' macro-security synthesis: weave the ETF outflow data, Elliptic's mixing report, and the price collapse into one piece arguing the market is pricing in both exit liquidity fear and unresolved hack overhang",
+      "source": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
     }
   ]
 }

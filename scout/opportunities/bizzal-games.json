@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-20T11:05:29+00:00",
+  "generated": "2026-11-21T11:05:15+00:00",
   "opportunities": [
     {
-      "title": "D&D Beyond Got Hacked (Again) — Here's Why Your Character Sheet Isn't the Target, Your Password Is",
-      "why_now": "Fresh breaking news about a third-party breach affecting D&D Beyond accounts gives a hook for a quick security-practical short every DDB user needs.",
-      "angle": "60-sec PSA-style short: dry GM voice explaining password reuse risk, tells viewers to enable 2FA, ties into 'ruling' format (treat your login like a saving throw you shouldn't fail)",
-      "source": "https://www.enworld.org/threads/d-d-beyond-one-of-hundreds-of-sites-affected-by-third-party-hack-claims-no-payment-information-was-accessed.721435/"
-    },
-    {
-      "title": "Weredragon RAW: How Lycanthropy Templates Actually Work (And Why Critical Role Is Cheating a Little)",
-      "why_now": "Chris Perkins' new Critical Role arc 'Reign of the Weredragon' just launched, making lycanthropy-as-dragon a hot search term for curious fans wanting the real rules.",
-      "angle": "Creature tactic breakdown: compare standard lycanthrope template vs. homebrewing a dragon hybrid, give DMs a plug-and-play stat block tweak",
-      "source": "https://www.enworld.org/threads/chris-perkins-returns-to-actual-play-with-launch-of-critical-roles-reign-of-the-weredragon.721407/"
-    },
-    {
-      "title": "RIP Ken St. Andre: The Saving Throw Mechanic 5e Stole From Tunnels & Trolls and Never Credited",
-      "why_now": "St. Andre's death this week is trending across TTRPG news and gives an obituary-adjacent angle that's actually mechanical, not sentimental.",
-      "angle": "Short history/rules lesson: trace saving throw design lineage from T&T to 5e, dry veteran-GM tribute framing, end with 'buy a T&T book tonight'",
-      "source": "https://www.enworld.org/threads/ken-st-andre-creator-of-tunnels-trolls-passes-away-at-age-79.721429/"
-    },
-    {
-      "title": "The Pactweaver's New Invocations Are Busted — Here's the One Spell Combo Your Table Will Abuse First",
-      "why_now": "Secrets of the Tome just went live with new Pactweaver magic, giving a first-look opportunity before other creators cover it.",
-      "angle": "Spell use-case short: pick the single most broken new invocation/spell interaction, show the combo, warn DMs how to patch it",
-      "source": "https://www.enworld.org/threads/secrets-of-the-tome-the-pactweaver-new-magic-is-now-live.721399/"
-    },
-    {
-      "title": "Stop Writing Session Zero Notes Nobody Reads — The One Prep Step That Actually Matters",
-      "why_now": "Gnome Stew's new prep-focused article is a timely jumping-off point to deliver a sharp, contrarian GM-prep ruling in the channel's signature dry style.",
-      "angle": "Veteran-GM rant format: debunk over-prepping, give the single prep task worth doing before a new campaign (NPC motivations > lore dumps)",
+      "title": "The One-Session-Zero Ruling That Actually Saves Your Campaign",
+      "why_now": "Gnome Stew's new piece on prepping a new game gives a timely hook to drop a hard rule on what session zero actually needs to cover.",
+      "angle": "60-sec 'rules ruling' short: three non-negotiable session zero items, shot as a checklist with on-screen rulebook citations.",
       "source": "https://gnomestew.com/preparing-for-a-new-game/"
+    },
+    {
+      "title": "Stop Scripting Your NPCs: The Improv Rule Every GM Ignores",
+      "why_now": "Gnomecast's new episode on 'de-scarifying improv' is a direct trend-jack for a GM-skill short that fits the daily beat.",
+      "angle": "Wry monologue to camera: one concrete technique (yes-and + reaction table) demonstrated live with a sample NPC exchange.",
+      "source": "https://gnomestew.com/gnomecast-250-de-scarifying-improv/"
+    },
+    {
+      "title": "GTA 6's Dialogue Wheel Is Just a Bad Charisma Check — Here's the Fix",
+      "why_now": "RPGSite's feature praising GTA 6's roleplaying chops is a high-traffic gaming headline to piggyback for a D&D social-mechanics ruling.",
+      "angle": "Trend-jack short: compare dialogue-wheel 'choice illusion' to proper 5e/Shadowdark reaction rolls and why DCC's funnel makes NPCs scarier to talk to.",
+      "source": "https://www.rpgsite.net/feature/21789-gta-6-isnt-an-rpg-but-it-sure-has-some-excellent-role-playing-chops"
+    },
+    {
+      "title": "Queen's Domain Sold 250k Copies on Tactics You're Ignoring at Your Table",
+      "why_now": "Queen's Domain hitting 250k sales is a timely tactics-RPG headline to pivot into an underused 5e flanking/cover ruling.",
+      "angle": "Creature tactic short: show a goblin squad using flanking + cover RAW, captioned 'the tactics game your players already understand.'",
+      "source": "https://www.rpgsite.net/news/21794-queens-domain-sold-250k-copies-worldwide-new-sales-numbers"
+    },
+    {
+      "title": "Xenoblade 3.0's Aggro System Has a Fix for D&D's Threat Problem",
+      "why_now": "The fresh Xenoblade Chronicles 3 patch notes mentioning aggro/taunt mechanics give a sharp hook for a monster-tactic ruling on target selection.",
+      "angle": "Spell/creature use-case short: houserule-free RAW breakdown of how a smart DM 'taunts' using cover, reach, and opportunity attacks instead of homebrew threat tables.",
+      "source": "https://www.rpgsite.net/news/21791-xenoblade-chronicles-3-version-3-0-0-update-patch-notes-nintendo-switch-2-edition"
     }
   ]
 }

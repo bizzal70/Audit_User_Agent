@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-20T11:05:29+00:00",
+  "generated": "2026-11-21T11:05:15+00:00",
   "opportunities": [
     {
-      "title": "VMware vCenter's CVSS 9.8 Zero-Day: How a Chinese APT Got Admin Before the Patch Even Dropped",
-      "why_now": "A newly patched vCenter auth-bypass flaw was already being exploited in the wild by a China-linked group, confirmed across Hacker News and SecurityWeek within 24 hours.",
-      "angle": "Breach timeline breakdown: disclosure date vs. exploitation date, plus a patch-now checklist for vCenter admins",
-      "source": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
+      "title": "The 0-Day That Hacked Itself: Inside China's AI-Agent Attack on a University Server",
+      "why_now": "Reports confirm an autonomous AI agent — not a human operator — found and exploited a zero-day to seize a university server, a first-of-its-kind milestone for offensive AI.",
+      "angle": "Analysis piece breaking down what 'autonomous exploitation' actually means technically, why it changes the patch-cadence calculus, and what defenders should do differently this week.",
+      "source": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
     },
     {
-      "title": "Java4Shell, Ruby2Shell, PHP2Shell: Why Every Language Suddenly Has Its Own 'Shell' Apocalypse Name",
-      "why_now": "Three separate critical RCE disclosures in Java, Ruby, and PHP all dropped within the same week, each branded with Shellshock-style naming.",
-      "angle": "Trend explainer comparing the three CVEs side by side — severity, exploitability, and whether the branding matches the real risk",
-      "source": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem"
+      "title": "Armory Castle Is Already Inside: The VMware vCenter Zero-Day You Needed to Patch Yesterday",
+      "why_now": "A newly patched vCenter flaw was actively exploited in the wild by a Chinese APT before the fix shipped, and it's now confirmed alongside fresh Cisco/Apache espionage activity.",
+      "angle": "Breach-digest timeline: zero-day discovery → exploitation → patch → ongoing risk window, with a clear 'are you exposed' checklist for vCenter admins.",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day"
     },
     {
-      "title": "Chase, Visa, and Mastercard All Got Burned by the Same Third-Party Vendor — Here's What Got Exposed",
-      "why_now": "Three of the biggest names in finance confirmed overlapping third-party breaches within the same news cycle, a rare simultaneous disclosure.",
-      "angle": "Breach digest card: who was hit, what data leaked, what customers should actually do this week",
+      "title": "PHP Just Patched Seven Critical RCEs — Here's Why 'PHP2Shell' Isn't the New Log4Shell (Yet)",
+      "why_now": "PHP shipped patches for seven critical code-execution bugs the same week PHP 8.6 tightens strictness, giving ops teams a dual patch-and-migrate headache right before the holidays.",
+      "angle": "Patch-cadence explainer: what's actually exploitable now, what's theoretical, and a prioritized patch order for teams juggling PHP, VMware, KVM, and Ruby2Shell all at once.",
+      "source": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/"
+    },
+    {
+      "title": "Visa, Mastercard, Chase, JPMorgan: One Third Party, Four Household Names, Millions of Records",
+      "why_now": "Within 48 hours, four major financial brands confirmed exposure from the same third-party breach, with researchers noting the stolen data enables phishing but not direct account drains — a nuance worth correcting before panic spreads.",
+      "angle": "Breach-digest roundup clarifying exactly what was and wasn't stolen, why 'can't drain your account' still means 'expect targeted phishing,' and what card-holders should actually do.",
       "source": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/"
     },
     {
-      "title": "Nvidia Says It's 'Investigating' a Possible Hack While Ransomware Gang Says Otherwise",
-      "why_now": "Nvidia's vague 'under investigation' statement is colliding directly with a named ransomware crew's extortion claim, a classic breach-denial mismatch worth tracking.",
-      "angle": "Side-by-side of corporate statement vs. threat actor claim, updated as it develops — good for a running X thread",
-      "source": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/"
-    },
-    {
-      "title": "The Sticky Note That Took Down a Company: This Week's Reminder That Humans Are Still the Weakest CVE",
-      "why_now": "A physical sticky-note password leak made The Register's front page the same week as four critical software CVEs — perfect contrast piece.",
-      "angle": "Short, punchy 'low-tech vs high-tech breach' comparison post for X engagement, pairing this with the PHP/VMware stories",
-      "source": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908"
+      "title": "SonicWall Just Told Gen 6 Firewall Owners: No More Patches, Even for Critical Flaws",
+      "why_now": "SonicWall's end-of-life announcement for Gen 6 firewalls means any future critical CVE on that hardware is now permanently unpatched — a slow-motion breach waiting to happen for anyone still running it.",
+      "angle": "Inevitable-breach framing: a countdown piece on orphaned hardware, who's still exposed, and a migration deadline checklist for admins.",
+      "source": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
     }
   ]
 }
