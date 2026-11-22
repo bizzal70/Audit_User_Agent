@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-21T11:05:15+00:00",
+  "generated": "2026-11-22T11:04:48+00:00",
   "opportunities": [
     {
-      "title": "GTA 6 Isn't an RPG — So What Actually Makes One? The Rulebook Answer",
-      "why_now": "RPGSite's feature argues GTA 6 has 'RPG chops' without being an RPG, which is the perfect excuse to settle the definition using actual tabletop rules frameworks instead of vibes.",
-      "angle": "Explainer/listicle citing core TTRPG rules elements (character sheets, advancement tables, resolution mechanics) to draw a hard line between 'roleplaying feel' and 'an RPG system,' with GTA 6 as the foil.",
-      "source": "https://www.rpgsite.net/feature/21789-gta-6-isnt-an-rpg-but-it-sure-has-some-excellent-role-playing-chops"
+      "title": "D&D's Warcraft Mage: Every Spell, Talent, and Rule Confirmed So Far",
+      "why_now": "EN World's deep dive just dropped full Mage mechanics for the D&D x Warcraft crossover, giving rules-watchers a first look at class design.",
+      "angle": "Rules breakdown post: compare confirmed Mage spells/talents against core 5e wizard chassis, flag what's new vs. reskinned",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-mage.721454/"
     },
     {
-      "title": "Session Zero Isn't Optional: The Rules-First Way to Prep a New TTRPG Campaign",
-      "why_now": "Gnome Stew just published a fresh prep-focused piece, giving a timely peg to push a rules-grounded prep checklist.",
-      "angle": "Blog breakdown that reframes 'preparing for a new game' as following the actual written procedures (session zero, safety tools, character creation rules) rather than GM gut feel, with a tight X thread version.",
-      "source": "https://gnomestew.com/preparing-for-a-new-game/"
+      "title": "The Evoker Class Decoded: How WotC Is Building Dragonflight Magic Into 5e",
+      "why_now": "A second Warcraft class deep dive (Evoker) dropped same week, making this the moment to map the full crossover ruleset before raid book launch.",
+      "angle": "Side-by-side rules table: Evoker spell list vs closest 5e analog (Sorcerer/Druid hybrid), predict subclass options",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-evoker-and-evoker-spells.721442/"
     },
     {
-      "title": "Improv Still Needs a Rulebook: What Gnomecast 250 Gets Right (and Leaves Out)",
-      "why_now": "Gnomecast's new episode on 'de-scarifying improv' is a direct opening to argue that even freeform play rests on written mechanics (reaction tables, oracle systems, skill checks).",
-      "angle": "Response/analysis post dissecting the episode, pulling out the specific rules tools (random tables, GM moves, resolution dice) that make improv safe and repeatable.",
-      "source": "https://gnomestew.com/gnomecast-250-de-scarifying-improv/"
+      "title": "Amanda Hamon Now Runs Universes Beyond — Here's What That Means for Future Rules",
+      "why_now": "Her promotion to Principal Game Designer of Universes Beyond was just announced, signaling who controls crossover rules design going forward.",
+      "angle": "News analysis: her design credits (prior UB sets, balance philosophy) as a predictor of upcoming crossover rules direction",
+      "source": "https://www.enworld.org/threads/amanda-hamon-promoted-to-principal-game-designer-of-d-ds-universes-beyond-line.721452/"
     },
     {
-      "title": "Xenoblade 3's 3.0.0 Patch Notes Are a Masterclass in Errata — Here's What TTRPG Designers Should Steal",
-      "why_now": "The newly released patch notes are a concrete, dated artifact that lets us compare live-game balance changes to tabletop errata/FAQ practices.",
-      "angle": "News-hook analysis piece translating video-game patch philosophy into TTRPG rules-maintenance lessons (versioning, clarity, backward compatibility).",
-      "source": "https://www.rpgsite.net/news/21791-xenoblade-chronicles-3-version-3-0-0-update-patch-notes-nintendo-switch-2-edition"
+      "title": "WotC's Anthropic Payout: What the Settlement Actually Says About Who Owns TTRPG Text",
+      "why_now": "WotC just confirmed it will share Anthropic copyright settlement funds with authors of the stolen work, a concrete legal precedent for TTRPG IP rights.",
+      "angle": "Explainer: break down settlement terms, who qualifies as an affected author, and precedent for AI-training disputes in the hobby",
+      "source": "https://www.enworld.org/threads/wizards-of-the-coast-to-share-payout-of-anthropic-copyright-settlement-with-authors-of-stolen-work.721447/"
     },
     {
-      "title": "Queen's Domain Hit 250k Copies — What Its Systems Owe to Tabletop Rules Design",
-      "why_now": "The fresh sales milestone number gives a timely reason to unpack the rules DNA underneath a breakout RPG hit.",
-      "angle": "Explainer connecting the game's mechanics to classic tabletop RPG rules lineage (stat blocks, encounter design, progression tables), framed as 'the rules were already written, this just proved they work.'",
-      "source": "https://www.rpgsite.net/news/21794-queens-domain-sold-250k-copies-worldwide-new-sales-numbers"
+      "title": "State of the Mongoose 2026: The Official Traveller/Rules Roadmap, Annotated",
+      "why_now": "Mongoose just published its annual State of the Mongoose, a primary-source document laying out confirmed upcoming rules releases.",
+      "angle": "Line-by-line annotation of the roadmap, flagging confirmed rulebooks/errata vs. speculative teasers",
+      "source": "https://www.enworld.org/threads/mongoose-posts-its-annual-state-of-the-mongoose.721444/"
     }
   ]
 }

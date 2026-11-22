@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-21T11:05:15+00:00",
+  "generated": "2026-11-22T11:04:48+00:00",
   "opportunities": [
     {
-      "title": "The 0-Day That Hacked Itself: Inside China's AI-Agent Attack on a University Server",
-      "why_now": "Reports confirm an autonomous AI agent — not a human operator — found and exploited a zero-day to seize a university server, a first-of-its-kind milestone for offensive AI.",
-      "angle": "Analysis piece breaking down what 'autonomous exploitation' actually means technically, why it changes the patch-cadence calculus, and what defenders should do differently this week.",
+      "title": "The 0-Day Found Itself: China's AI Agents Just Auto-Pwned a University Server",
+      "why_now": "Three outlets (Register, SecurityWeek, Hacker News) are independently confirming the first documented case of AI agents autonomously discovering and exploiting a zero-day, a watershed moment for the inevitable-breach thesis.",
+      "angle": "Explainer/analysis piece connecting the university hack to the parallel Amazon medical-imaging zero-day story — same actor class, two targets, one week",
       "source": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
     },
     {
-      "title": "Armory Castle Is Already Inside: The VMware vCenter Zero-Day You Needed to Patch Yesterday",
-      "why_now": "A newly patched vCenter flaw was actively exploited in the wild by a Chinese APT before the fix shipped, and it's now confirmed alongside fresh Cisco/Apache espionage activity.",
-      "angle": "Breach-digest timeline: zero-day discovery → exploitation → patch → ongoing risk window, with a clear 'are you exposed' checklist for vCenter admins.",
+      "title": "Chase, Visa, Mastercard All Breached in One Week — Here's What Actually Got Stolen (and What Didn't)",
+      "why_now": "Three of the biggest names in finance just confirmed third-party breaches within days of each other, but researchers say the stolen data is phishing fuel, not account-drainer material — a nuance worth correcting before the panic headlines spread.",
+      "angle": "Myth-busting digest: separate the breach disclosure from the actual risk, with a practical 'what to watch for in your inbox' checklist",
+      "source": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
+    },
+    {
+      "title": "SonicWall Just Told Gen 6 Firewall Customers: You're On Your Own, Even for Critical CVEs",
+      "why_now": "SonicWall's EOL-no-patch announcement for Gen 6 firewalls is a textbook patch-cadence failure story that leaves a huge installed base of perimeter devices permanently exposed.",
+      "angle": "Patch-cadence outrage post: name the affected models, explain the exposure window, and push readers toward an immediate migration checklist",
+      "source": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
+    },
+    {
+      "title": "Armory Castle: Inside China's Siege on VMware vCenter — and Why Your Hypervisor Is the New Perimeter",
+      "why_now": "Dark Reading's naming of the 'Armory Castle' campaign against vCenter, paired with The Hacker News confirming active exploitation of VMware/Cisco/Apache flaws, signals a coordinated espionage push against virtualization infrastructure right now.",
+      "angle": "Threat-actor profile + patch-urgency sidebar listing every actively exploited CVE in the cluster",
       "source": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day"
     },
     {
-      "title": "PHP Just Patched Seven Critical RCEs — Here's Why 'PHP2Shell' Isn't the New Log4Shell (Yet)",
-      "why_now": "PHP shipped patches for seven critical code-execution bugs the same week PHP 8.6 tightens strictness, giving ops teams a dual patch-and-migrate headache right before the holidays.",
-      "angle": "Patch-cadence explainer: what's actually exploitable now, what's theoretical, and a prioritized patch order for teams juggling PHP, VMware, KVM, and Ruby2Shell all at once.",
-      "source": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/"
-    },
-    {
-      "title": "Visa, Mastercard, Chase, JPMorgan: One Third Party, Four Household Names, Millions of Records",
-      "why_now": "Within 48 hours, four major financial brands confirmed exposure from the same third-party breach, with researchers noting the stolen data enables phishing but not direct account drains — a nuance worth correcting before panic spreads.",
-      "angle": "Breach-digest roundup clarifying exactly what was and wasn't stolen, why 'can't drain your account' still means 'expect targeted phishing,' and what card-holders should actually do.",
-      "source": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/"
-    },
-    {
-      "title": "SonicWall Just Told Gen 6 Firewall Owners: No More Patches, Even for Critical Flaws",
-      "why_now": "SonicWall's end-of-life announcement for Gen 6 firewalls means any future critical CVE on that hardware is now permanently unpatched — a slow-motion breach waiting to happen for anyone still running it.",
-      "angle": "Inevitable-breach framing: a countdown piece on orphaned hardware, who's still exposed, and a migration deadline checklist for admins.",
-      "source": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
+      "title": "The FBI's Own Crime Database May Have Just Been Hacked — Yes, That One",
+      "why_now": "A breaking, single-sourced AP report that the bureau's key national criminal justice database may be compromised is the kind of institution-trust-shaking story that demands immediate coverage before details firm up.",
+      "angle": "Fast-turn breaking-news post flagging what's confirmed vs. rumored, with a promise to update as facts emerge",
+      "source": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
     }
   ]
 }

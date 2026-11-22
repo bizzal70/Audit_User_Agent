@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-21T11:05:15+00:00",
+  "generated": "2026-11-22T11:04:48+00:00",
   "opportunities": [
     {
-      "title": "The One-Session-Zero Ruling That Actually Saves Your Campaign",
-      "why_now": "Gnome Stew's new piece on prepping a new game gives a timely hook to drop a hard rule on what session zero actually needs to cover.",
-      "angle": "60-sec 'rules ruling' short: three non-negotiable session zero items, shot as a checklist with on-screen rulebook citations.",
-      "source": "https://gnomestew.com/preparing-for-a-new-game/"
+      "title": "Translating the WoW Mage: What Frostbolt Actually Costs You in 5e",
+      "why_now": "EN World's Mage deep dive on the D&D/Warcraft crossover gives a concrete spell list to stress-test against 5e's evocation economy.",
+      "angle": "Spell use-case short: pick one Mage ability (Ice Block or Polymorph) and rule exactly how it maps to a 5e spell slot cost, with the one DM ruling that stops it being broken.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-mage.721454/"
     },
     {
-      "title": "Stop Scripting Your NPCs: The Improv Rule Every GM Ignores",
-      "why_now": "Gnomecast's new episode on 'de-scarifying improv' is a direct trend-jack for a GM-skill short that fits the daily beat.",
-      "angle": "Wry monologue to camera: one concrete technique (yes-and + reaction table) demonstrated live with a sample NPC exchange.",
-      "source": "https://gnomestew.com/gnomecast-250-de-scarifying-improv/"
+      "title": "Evoker in 5e: Why Dragonrider Tactics Break Action Economy, Not Damage Caps",
+      "why_now": "The Evoker deep dive just dropped alongside the broader D&D/Warcraft crossover line, making this a current-week search term.",
+      "angle": "Creature/class tactic breakdown: show the one Evoker mechanic (empower/hover) that needs a hard 5e ruling before players abuse it at the table.",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-evoker-and-evoker-spells.721442/"
     },
     {
-      "title": "GTA 6's Dialogue Wheel Is Just a Bad Charisma Check — Here's the Fix",
-      "why_now": "RPGSite's feature praising GTA 6's roleplaying chops is a high-traffic gaming headline to piggyback for a D&D social-mechanics ruling.",
-      "angle": "Trend-jack short: compare dialogue-wheel 'choice illusion' to proper 5e/Shadowdark reaction rolls and why DCC's funnel makes NPCs scarier to talk to.",
-      "source": "https://www.rpgsite.net/feature/21789-gta-6-isnt-an-rpg-but-it-sure-has-some-excellent-role-playing-chops"
+      "title": "Running an Azeroth Raid Boss in 5e: One Legendary Action That Actually Matters",
+      "why_now": "EN World's piece asking 'how successful is this raid of Azeroth' is driving crossover curiosity right now, and GMs will try to homebrew these fights this week.",
+      "angle": "Dry veteran-GM ruling on converting an MMO raid boss into a legal 5e stat block without a legendary-resistance arms race.",
+      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-how-successful-is-this-raid-of-azeroth.721445/"
     },
     {
-      "title": "Queen's Domain Sold 250k Copies on Tactics You're Ignoring at Your Table",
-      "why_now": "Queen's Domain hitting 250k sales is a timely tactics-RPG headline to pivot into an underused 5e flanking/cover ruling.",
-      "angle": "Creature tactic short: show a goblin squad using flanking + cover RAW, captioned 'the tactics game your players already understand.'",
-      "source": "https://www.rpgsite.net/news/21794-queens-domain-sold-250k-copies-worldwide-new-sales-numbers"
+      "title": "Shadowheart's Trick: The One Channel Divinity Ruling Trickery Clerics Always Get Wrong",
+      "why_now": "The Shadowheart novel announcement is reigniting BG3-adjacent character builds, and Trickery Domain is the most misplayed cleric subclass in 5e.",
+      "angle": "Spell/feature use-case: nail down exactly when Channel Divinity: Invoke Duplicity can and can't be used for an attack of opportunity trick.",
+      "source": "https://www.enworld.org/threads/shadowheart-novel-coming-in-2027.721453/"
     },
     {
-      "title": "Xenoblade 3.0's Aggro System Has a Fix for D&D's Threat Problem",
-      "why_now": "The fresh Xenoblade Chronicles 3 patch notes mentioning aggro/taunt mechanics give a sharp hook for a monster-tactic ruling on target selection.",
-      "angle": "Spell/creature use-case short: houserule-free RAW breakdown of how a smart DM 'taunts' using cover, reach, and opportunity attacks instead of homebrew threat tables.",
-      "source": "https://www.rpgsite.net/news/21791-xenoblade-chronicles-3-version-3-0-0-update-patch-notes-nintendo-switch-2-edition"
+      "title": "Universes Beyond Rulings Just Got a New Boss — Here's the One Reskin Rule She'll Have to Enforce",
+      "why_now": "Amanda Hamon's promotion to Principal Game Designer for Universes Beyond is the clearest signal yet on how official crossover content will be ruled going forward.",
+      "angle": "Mechanical ruling commentary: use her promotion as the hook to state the one reskinning principle (same stat block, new flavor, no power creep) GMs should already be using at their table.",
+      "source": "https://www.enworld.org/threads/amanda-hamon-promoted-to-principal-game-designer-of-d-ds-universes-beyond-line.721452/"
     }
   ]
 }

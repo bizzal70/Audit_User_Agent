@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-21T11:05:15+00:00",
+  "generated": "2026-11-22T11:04:48+00:00",
   "opportunities": [
     {
-      "title": "Wrapped Monero Was Never Monero: XMR1's 99.8% Collapse Is a Wrapper-Risk Autopsy",
-      "why_now": "XMR1 just crashed 99.8% on a suspected $13.5M exploit traced to a compromised web host, and the founder is promising refunds nobody asked to need.",
-      "angle": "Explainer/autopsy: why 'wrapped privacy coin' is an oxymoron — custody risk, trust assumptions, and what the exploit chain (web host → keys → mint) actually reveals about every wrapped asset you hold",
+      "title": "Chainflip Hacked, Offered the Attacker a 10% Bounty — Then the Binance Hacker Used the Same Rails to Launder $600M",
+      "why_now": "Chainflip suffered a $12M key-compromise exploit and dangled a bounty at its own attacker the same week the Binance hacker routed ~$600M through its vaults, exposing the protocol twice in one news cycle.",
+      "angle": "Investigative timeline/explainer linking the Chainflip breach to the Binance laundering flow, with a sidebar on why 'bounty negotiations' rarely stop a thief with better options elsewhere.",
+      "source": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Wrapped Monero Died Twice This Week — Same Lesson, Two Tickers",
+      "why_now": "Both xMR (Wagyu) and a second wrapped-Monero token collapsed ~99% within 48 hours from separate exploits, one blamed on a compromised web host.",
+      "angle": "Pattern-recognition piece comparing the two incidents to show wrapping privacy coins just relocates trust to a custodian/web host, not a protocol.",
       "source": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Binance Hacker Just Routed $600M Through the Exact Bridge That Halted Hours Later",
-      "why_now": "The Binance hacker moved ~$600M in ETH through THORChain and Chainflip on the same day Chainflip halted swaps over a suspected vault exploit — a timeline too tight to ignore.",
-      "angle": "Timeline/connect-the-dots thread: lay out the hours between the laundering route and the halt, ask whether this is coincidence or cause, and what it says about cross-chain bridges as laundering rails",
-      "source": "https://thedefiant.io/news/security/chainflip-halts-swaps-over-potential-vault-exploit"
-    },
-    {
-      "title": "Researchers Exposed Bitcoin Wallet Keys on Purpose. Bots Drained Them in Seconds.",
-      "why_now": "CoinDesk's report on bots sweeping exposed keys instantly is the cleanest, most visual proof of automated mempool predation ever published this month.",
-      "angle": "Short, sharp explainer with the key stat up top ('seconds, not minutes') — use it as the definitive link to send anyone who still thinks they have time to 'move funds later' after a leak",
-      "source": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys"
-    },
-    {
-      "title": "An AI Found a Bug That Could Stall Every Bitcoin Node by Repeating One ID 50,000 Times",
-      "why_now": "A consensus-layer DoS bug discovered via AI auditing is a rare, high-stakes story about Bitcoin's base-layer security model, not just another app exploit.",
-      "angle": "Technical deep-dive for the security-literate audience: what the bug does, why it went undetected this long, and what it means that AI tooling is now finding bugs humans missed",
-      "source": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
-    },
-    {
-      "title": "$3.5B Out, $149M Laundered, BTC Under $57K: The Week the Chain Told the Truth",
-      "why_now": "November's $582M daily ETF outflow, sub-$57K BTC, and $149M in fresh Binance-hack coinjoin mixing are landing in the same 48 hours — a textbook capitulation-plus-exploitation stretch.",
-      "angle": "Signature 'already priced' macro-security synthesis: weave the ETF outflow data, Elliptic's mixing report, and the price collapse into one piece arguing the market is pricing in both exit liquidity fear and unresolved hack overhang",
+      "title": "The Binance Hacker Isn't Hiding $600M — Elliptic Just Showed You the Laundering Math",
+      "why_now": "Elliptic's fresh tracing shows $149M of the stolen funds already mixed through coinjoins as the hacker simultaneously routes hundreds of millions through THORChain and Chainflip.",
+      "angle": "Data-driven on-chain forensics piece: walk the laundering funnel step by step, cite Elliptic's numbers, and ask why cross-chain bridges keep being the exit ramp.",
       "source": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
+    },
+    {
+      "title": "Bitcoin Broke $57K for the First Time in Two Years — JPMorgan Says Miners Are Already Underwater",
+      "why_now": "BTC's slide below $57K amid a $1.8B liquidation wave coincided with JPMorgan pegging the production cost floor near $86K, widening the capitulation gap.",
+      "angle": "Markets explainer in the channel's signature 'already priced' voice: tie leverage unwind, miner economics, and ETF outflows into one 'what the chart isn't telling you' piece.",
+      "source": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+    },
+    {
+      "title": "An AI Found a Bug That Could Freeze Bitcoin Nodes by Spamming One ID 50,000 Times",
+      "why_now": "A newly disclosed consensus-layer DoS vulnerability in Bitcoin Core, surfaced via AI-assisted auditing, is a fresh base-layer security story breaking this week.",
+      "angle": "Security deep-dive on the bug mechanics, why it slipped through human review, and what AI-assisted vuln hunting means for protocol-level security going forward.",
+      "source": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
     }
   ]
 }
