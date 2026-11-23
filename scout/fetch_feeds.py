@@ -92,18 +92,15 @@ def fresh_items(feeds: list[dict], days: int = 3, per_feed_cap: int = 12) -> lis
             # Keep undated items (some feeds omit dates) but prefer fresh ones.
             if item["date"] is not None and item["date"] < cutoff:
                 continue
+            if kept >= per_feed_cap:
+                break
+            kept += 1
             results.append(
                 {
                     "title": item["title"],
                     "link": item["link"],
-                    "date": item["date"].date().isoformat() if item["date"] else "",
-                    "source": feed["name"],
-                    "topics": feed.get("topics") or [],
-                    "category": feed.get("category") or "",
+                    "date": item["date"],
+                    "topics": feed.get("topics", []),
                 }
             )
-            kept += 1
-            if kept >= per_feed_cap:
-                break
-        print(f"[scout] {feed['name']}: {kept} fresh")
     return results
