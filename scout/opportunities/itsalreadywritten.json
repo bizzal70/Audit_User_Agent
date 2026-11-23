@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-22T11:04:48+00:00",
+  "generated": "2026-11-23T11:05:10+00:00",
   "opportunities": [
     {
-      "title": "D&D's Warcraft Mage: Every Spell, Talent, and Rule Confirmed So Far",
-      "why_now": "EN World's deep dive just dropped full Mage mechanics for the D&D x Warcraft crossover, giving rules-watchers a first look at class design.",
-      "angle": "Rules breakdown post: compare confirmed Mage spells/talents against core 5e wizard chassis, flag what's new vs. reskinned",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-mage.721454/"
-    },
-    {
-      "title": "The Evoker Class Decoded: How WotC Is Building Dragonflight Magic Into 5e",
-      "why_now": "A second Warcraft class deep dive (Evoker) dropped same week, making this the moment to map the full crossover ruleset before raid book launch.",
-      "angle": "Side-by-side rules table: Evoker spell list vs closest 5e analog (Sorcerer/Druid hybrid), predict subclass options",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-evoker-and-evoker-spells.721442/"
-    },
-    {
-      "title": "Amanda Hamon Now Runs Universes Beyond — Here's What That Means for Future Rules",
-      "why_now": "Her promotion to Principal Game Designer of Universes Beyond was just announced, signaling who controls crossover rules design going forward.",
-      "angle": "News analysis: her design credits (prior UB sets, balance philosophy) as a predictor of upcoming crossover rules direction",
-      "source": "https://www.enworld.org/threads/amanda-hamon-promoted-to-principal-game-designer-of-d-ds-universes-beyond-line.721452/"
-    },
-    {
-      "title": "WotC's Anthropic Payout: What the Settlement Actually Says About Who Owns TTRPG Text",
-      "why_now": "WotC just confirmed it will share Anthropic copyright settlement funds with authors of the stolen work, a concrete legal precedent for TTRPG IP rights.",
-      "angle": "Explainer: break down settlement terms, who qualifies as an affected author, and precedent for AI-training disputes in the hobby",
+      "title": "WotC's Anthropic Payout: What 'Sharing' With Stolen Authors Actually Means",
+      "why_now": "WotC just announced it will share Anthropic copyright settlement money with authors whose work was used to train AI, a concrete legal/financial precedent for TTRPG IP owners.",
+      "angle": "News analysis breaking down the payout structure, who qualifies, and what it signals for freelancer contracts going forward",
       "source": "https://www.enworld.org/threads/wizards-of-the-coast-to-share-payout-of-anthropic-copyright-settlement-with-authors-of-stolen-work.721447/"
     },
     {
-      "title": "State of the Mongoose 2026: The Official Traveller/Rules Roadmap, Annotated",
-      "why_now": "Mongoose just published its annual State of the Mongoose, a primary-source document laying out confirmed upcoming rules releases.",
-      "angle": "Line-by-line annotation of the roadmap, flagging confirmed rulebooks/errata vs. speculative teasers",
-      "source": "https://www.enworld.org/threads/mongoose-posts-its-annual-state-of-the-mongoose.721444/"
+      "title": "Amanda Hamon Now Runs Universes Beyond: Here's What That Actually Changes",
+      "why_now": "Hamon's promotion to Principal Game Designer of D&D's crossover line is a structural org-chart shift that will shape which licensed settings get rules support next.",
+      "angle": "Explainer piece mapping her design credits to predict what Universes Beyond books are coming and how they'll be built",
+      "source": "https://www.enworld.org/threads/amanda-hamon-promoted-to-principal-game-designer-of-d-ds-universes-beyond-line.721452/"
+    },
+    {
+      "title": "D&D Does Warcraft: Grading the Raid Mechanics Against 5e's Own Rules",
+      "why_now": "EN World's piece questions how successful the D&D World of Warcraft crossover raid is, a direct rules-adaptation story our audience wants dissected.",
+      "angle": "Rules-first breakdown comparing WoW raid encounter design to D&D 5e's existing legendary/lair action framework, scoring what works",
+      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-how-successful-is-this-raid-of-azeroth.721445/"
+    },
+    {
+      "title": "Initiative Order Is a Rule, Not a Suggestion: Reading Sly Flourish's 'Take Turns'",
+      "why_now": "Sly Flourish's fresh analysis on table turn-taking is exactly the kind of GM-facing rules discourse this beat covers, and it's days old.",
+      "angle": "Response/annotation post citing the actual rulebook text on turn order and contrasting it with Sly Flourish's table-management advice",
+      "source": "https://slyflourish.com/take_turns_around_the_table.html?rss=1"
+    },
+    {
+      "title": "Sword World's Record Year Proves Crowdfunding Rules the TTRPG Market Now",
+      "why_now": "Sword World just made 2026 the biggest crowdfunding year ever for tabletop RPGs, a hard data point about how new rulesets get funded and released.",
+      "angle": "Data-driven news piece citing the funding numbers and what it means for how new rules systems reach print",
+      "source": "https://www.enworld.org/threads/sword-world-cements-2026-as-crowdfundings-biggest-year-ever.721465/"
     }
   ]
 }

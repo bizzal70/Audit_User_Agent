@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-22T11:04:48+00:00",
+  "generated": "2026-11-23T11:05:10+00:00",
   "opportunities": [
     {
-      "title": "The 0-Day Found Itself: China's AI Agents Just Auto-Pwned a University Server",
-      "why_now": "Three outlets (Register, SecurityWeek, Hacker News) are independently confirming the first documented case of AI agents autonomously discovering and exploiting a zero-day, a watershed moment for the inevitable-breach thesis.",
-      "angle": "Explainer/analysis piece connecting the university hack to the parallel Amazon medical-imaging zero-day story — same actor class, two targets, one week",
-      "source": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
-    },
-    {
-      "title": "Chase, Visa, Mastercard All Breached in One Week — Here's What Actually Got Stolen (and What Didn't)",
-      "why_now": "Three of the biggest names in finance just confirmed third-party breaches within days of each other, but researchers say the stolen data is phishing fuel, not account-drainer material — a nuance worth correcting before the panic headlines spread.",
-      "angle": "Myth-busting digest: separate the breach disclosure from the actual risk, with a practical 'what to watch for in your inbox' checklist",
-      "source": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
-    },
-    {
-      "title": "SonicWall Just Told Gen 6 Firewall Customers: You're On Your Own, Even for Critical CVEs",
-      "why_now": "SonicWall's EOL-no-patch announcement for Gen 6 firewalls is a textbook patch-cadence failure story that leaves a huge installed base of perimeter devices permanently exposed.",
-      "angle": "Patch-cadence outrage post: name the affected models, explain the exposure window, and push readers toward an immediate migration checklist",
-      "source": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
-    },
-    {
-      "title": "Armory Castle: Inside China's Siege on VMware vCenter — and Why Your Hypervisor Is the New Perimeter",
-      "why_now": "Dark Reading's naming of the 'Armory Castle' campaign against vCenter, paired with The Hacker News confirming active exploitation of VMware/Cisco/Apache flaws, signals a coordinated espionage push against virtualization infrastructure right now.",
-      "angle": "Threat-actor profile + patch-urgency sidebar listing every actively exploited CVE in the cluster",
+      "title": "AI Agents Just Popped Their First Solo Zero-Day — Welcome to Autonomous APT",
+      "why_now": "Multiple outlets (Amazon, Register, Hacker News, Dark Reading) are independently confirming the same milestone: a Chinese operation let an AI agent discover and exploit a zero-day in medical imaging software with zero human in the loop.",
+      "angle": "Explainer/analysis stitching the Armory Castle reporting together into one timeline — what the agent actually did, why root access on a university server + medical imaging box matters, and why this is the first confirmed case, not the last",
       "source": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day"
     },
     {
-      "title": "The FBI's Own Crime Database May Have Just Been Hacked — Yes, That One",
-      "why_now": "A breaking, single-sourced AP report that the bureau's key national criminal justice database may be compromised is the kind of institution-trust-shaking story that demands immediate coverage before details firm up.",
-      "angle": "Fast-turn breaking-news post flagging what's confirmed vs. rumored, with a promise to update as facts emerge",
+      "title": "VMware Knew About Its Critical vCenter Bug in September. You Patched It This Week.",
+      "why_now": "Google just confirmed the 'new' critical VMware vCenter flaw was actively exploited two months before public disclosure, while CISA simultaneously flagged a Cisco Expressway RCE as under active attack.",
+      "angle": "Patch-cadence timeline post: lay out disclosure date vs. exploitation date vs. patch date, make the lag the headline, close with a 'what to check right now' checklist",
+      "source": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547"
+    },
+    {
+      "title": "The FBI's Own Crime Database Just Got Hacked — Yes, That One",
+      "why_now": "AP sources confirm an apparent breach of the FBI's key national criminal justice database, a maximum-irony entry for the inevitable-breach file.",
+      "angle": "Short, punchy blog post + X thread on the irony, what's known so far, and why a breach of this particular system (criminal records, warrants) is a different risk class than a retailer breach",
       "source": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
+    },
+    {
+      "title": "Signal Built a Wall Against AI Agents. Your Phone's OS Is Still Leaving the Door Open.",
+      "why_now": "Signal just shipped code specifically blocking Siri, Gemini, and other AI agents from screenshotting or reading private chats on iOS/Android, right as Dark Reading reports enterprises are scrambling with access-control gaps for AI agents.",
+      "angle": "Contrast piece: Signal's narrow, opinionated fix vs. the broader unsolved problem of OS-level AI agents with screen/clipboard access across every other app — use Signal as the exception that proves the rule",
+      "source": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+    },
+    {
+      "title": "This Week's Actively-Exploited List: Cisco, VMware, GL.iNet Routers, and an ASP.NET Library Nobody Thought About",
+      "why_now": "CISA added a critical Cisco Expressway RCE to its KEV list the same week as live exploitation reports for VMware vCenter, GL.iNet-managed routers/KVMs, and an ASP.NET anti-CSRF library bug enabling unauthenticated RCE.",
+      "angle": "Rapid-fire 'patch now' digest format — one CVE per line with exploitation status, affected versions, and a single sentence on blast radius; built for the X thread version to drive back to the blog",
+      "source": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
     }
   ]
 }

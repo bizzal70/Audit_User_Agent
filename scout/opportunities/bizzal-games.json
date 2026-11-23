@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-22T11:04:48+00:00",
+  "generated": "2026-11-23T11:05:10+00:00",
   "opportunities": [
     {
-      "title": "Translating the WoW Mage: What Frostbolt Actually Costs You in 5e",
-      "why_now": "EN World's Mage deep dive on the D&D/Warcraft crossover gives a concrete spell list to stress-test against 5e's evocation economy.",
-      "angle": "Spell use-case short: pick one Mage ability (Ice Block or Polymorph) and rule exactly how it maps to a 5e spell slot cost, with the one DM ruling that stops it being broken.",
+      "title": "Popcorn Initiative Is Cheating (And Your Players Know It)",
+      "why_now": "Sly Flourish just published a piece on turn order mechanics, making this the perfect week to settle the popcorn-initiative debate with a hard ruling.",
+      "angle": "60-sec rules-ruling short: walk through RAW initiative, then explain exactly when popcorn initiative breaks action economy and when it's fine to houserule",
+      "source": "https://slyflourish.com/take_turns_around_the_table.html?rss=1"
+    },
+    {
+      "title": "Monk Flurry of Blows Is Not Two Attacks — It's a Bonus Action Tax",
+      "why_now": "EN World's WoW Monk deep-dive has monk builds trending in tabletop chatter this week, a clean hook to correct the most common 5e Monk misplay.",
+      "angle": "Creature/class tactic short: show the actual action economy math (unarmed strike + bonus action Flurry costing a Ki point) vs. the common misreading as 'free extra attack'",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-monks.721468/"
+    },
+    {
+      "title": "Counterspell at Higher Levels: Why You're Probably Rolling Ability Checks Wrong",
+      "why_now": "The WoW Mage deep-dive has caster-vs-caster discourse spiking right now, a timely excuse to nail down the Counterspell DC check RAW.",
+      "angle": "Spell use-case short: clarify when a flat DC 10 applies vs. the spell-level-based check, with a quick table-ready cheat sheet",
       "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-mage.721454/"
     },
     {
-      "title": "Evoker in 5e: Why Dragonrider Tactics Break Action Economy, Not Damage Caps",
-      "why_now": "The Evoker deep dive just dropped alongside the broader D&D/Warcraft crossover line, making this a current-week search term.",
-      "angle": "Creature/class tactic breakdown: show the one Evoker mechanic (empower/hover) that needs a hard 5e ruling before players abuse it at the table.",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-evoker-and-evoker-spells.721442/"
+      "title": "Dead Magic Zones: What Actually Happens to Your Concentration Spells",
+      "why_now": "Secrets of the Tome's Wasteland just dropped lore built around a place where magic dies, a perfect excuse to rule on antimagic/dead-magic interactions GMs botch constantly.",
+      "angle": "Rules ruling short: distinguish Antimagic Field (RAW suppression) from reflavored 'dead magic' zones, and give a clean houserule for the latter so casters don't feel cheated",
+      "source": "https://www.enworld.org/threads/secrets-of-the-tomes-wasteland-is-where-lost-magic-goes-to-die.721463/"
     },
     {
-      "title": "Running an Azeroth Raid Boss in 5e: One Legendary Action That Actually Matters",
-      "why_now": "EN World's piece asking 'how successful is this raid of Azeroth' is driving crossover curiosity right now, and GMs will try to homebrew these fights this week.",
-      "angle": "Dry veteran-GM ruling on converting an MMO raid boss into a legal 5e stat block without a legendary-resistance arms race.",
-      "source": "https://www.enworld.org/threads/d-d-world-of-warcraft-how-successful-is-this-raid-of-azeroth.721445/"
-    },
-    {
-      "title": "Shadowheart's Trick: The One Channel Divinity Ruling Trickery Clerics Always Get Wrong",
-      "why_now": "The Shadowheart novel announcement is reigniting BG3-adjacent character builds, and Trickery Domain is the most misplayed cleric subclass in 5e.",
-      "angle": "Spell/feature use-case: nail down exactly when Channel Divinity: Invoke Duplicity can and can't be used for an attack of opportunity trick.",
-      "source": "https://www.enworld.org/threads/shadowheart-novel-coming-in-2027.721453/"
-    },
-    {
-      "title": "Universes Beyond Rulings Just Got a New Boss — Here's the One Reskin Rule She'll Have to Enforce",
-      "why_now": "Amanda Hamon's promotion to Principal Game Designer for Universes Beyond is the clearest signal yet on how official crossover content will be ruled going forward.",
-      "angle": "Mechanical ruling commentary: use her promotion as the hook to state the one reskinning principle (same stat block, new flavor, no power creep) GMs should already be using at their table.",
-      "source": "https://www.enworld.org/threads/amanda-hamon-promoted-to-principal-game-designer-of-d-ds-universes-beyond-line.721452/"
+      "title": "This Week's Free Bundle Has a Monster Stat Block Most GMs Run Wrong",
+      "why_now": "EN World's Nov 23 freebies/sales roundup gives a built-in, shoppable reason to spotlight a specific creature tactic from a currently-free product.",
+      "angle": "Creature tactic short: pull one monster from the bundle, show its most-misused ability, and demo the correct tactical use at the table",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-november-23-2026.721478/"
     }
   ]
 }

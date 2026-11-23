@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-22T11:04:48+00:00",
+  "generated": "2026-11-23T11:05:10+00:00",
   "opportunities": [
     {
-      "title": "Chainflip Hacked, Offered the Attacker a 10% Bounty — Then the Binance Hacker Used the Same Rails to Launder $600M",
-      "why_now": "Chainflip suffered a $12M key-compromise exploit and dangled a bounty at its own attacker the same week the Binance hacker routed ~$600M through its vaults, exposing the protocol twice in one news cycle.",
-      "angle": "Investigative timeline/explainer linking the Chainflip breach to the Binance laundering flow, with a sidebar on why 'bounty negotiations' rarely stop a thief with better options elsewhere.",
+      "title": "One Tap, Zero Seed Phrase: MoldyRoost Is the iPhone Ad That Drains Wallets",
+      "why_now": "A new malvertising campaign stealing recovery phrases from iPhones via a single ad tap is actively circulating and under-covered outside two wire pickups.",
+      "angle": "Security breakdown explainer: how the exploit works, which wallet apps/flows are exposed, and the 3 settings changes that kill it — written as 'you were warned' prevention guide.",
+      "source": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "Chainflip Offers Its Own Hacker a 10% Tip: The Bug Bounty Ritual Nobody Questions Anymore",
+      "why_now": "Chainflip's $12M loss and immediate 'keep 10%, return the rest' offer is the latest entry in a now-standard post-hack script worth naming and dissecting.",
+      "angle": "Pattern analysis piece: catalog every protocol that's run this exact negotiation playbook in 2026, show the win rate, and ask why 'hack now, negotiate later' is still rational math for attackers.",
       "source": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Wrapped Monero Died Twice This Week — Same Lesson, Two Tickers",
-      "why_now": "Both xMR (Wagyu) and a second wrapped-Monero token collapsed ~99% within 48 hours from separate exploits, one blamed on a compromised web host.",
-      "angle": "Pattern-recognition piece comparing the two incidents to show wrapping privacy coins just relocates trust to a custodian/web host, not a protocol.",
-      "source": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The Binance Hacker's $600M Victory Lap Through THORChain and Chainflip",
+      "why_now": "A months-old exploit is actively laundering nearly $600M through cross-chain bridges in real time, including one of the same protocols (Chainflip) that just got hacked itself.",
+      "angle": "Follow-the-money tracker: map the route, name the bridges that keep enabling this, and make the case that 'cross-chain liquidity' is now laundering infrastructure by design, not accident.",
+      "source": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Binance Hacker Isn't Hiding $600M — Elliptic Just Showed You the Laundering Math",
-      "why_now": "Elliptic's fresh tracing shows $149M of the stolen funds already mixed through coinjoins as the hacker simultaneously routes hundreds of millions through THORChain and Chainflip.",
-      "angle": "Data-driven on-chain forensics piece: walk the laundering funnel step by step, cite Elliptic's numbers, and ask why cross-chain bridges keep being the exit ramp.",
-      "source": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
+      "title": "More Tampered Ledgers Keep Showing Up — Your Supply Chain Is the Attack Surface",
+      "why_now": "Hodler's Digest flags fresh tampered-hardware-wallet discoveries, reviving a threat model that never actually went away despite feeling 'solved.'",
+      "angle": "Practical security checklist: how to verify a hardware wallet wasn't intercepted, sourced-from-reseller red flags, and why 'buy direct or don't buy' is still the only real rule.",
+      "source": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Bitcoin Broke $57K for the First Time in Two Years — JPMorgan Says Miners Are Already Underwater",
-      "why_now": "BTC's slide below $57K amid a $1.8B liquidation wave coincided with JPMorgan pegging the production cost floor near $86K, widening the capitulation gap.",
-      "angle": "Markets explainer in the channel's signature 'already priced' voice: tie leverage unwind, miner economics, and ETF outflows into one 'what the chart isn't telling you' piece.",
-      "source": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
-    },
-    {
-      "title": "An AI Found a Bug That Could Freeze Bitcoin Nodes by Spamming One ID 50,000 Times",
-      "why_now": "A newly disclosed consensus-layer DoS vulnerability in Bitcoin Core, surfaced via AI-assisted auditing, is a fresh base-layer security story breaking this week.",
-      "angle": "Security deep-dive on the bug mechanics, why it slipped through human review, and what AI-assisted vuln hunting means for protocol-level security going forward.",
-      "source": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
+      "title": "'Structural' ETF Outflows Are the Tell: Institutions Already Knew What You're Finding Out Now",
+      "why_now": "Analysts are reframing $1.8B in weekly bitcoin ETF outflows as structural rather than noise, right as the market narrative shifts from dip-buying to distrust.",
+      "angle": "Markets-meets-security framing: connect outflow timing to the hack/exploit drumbeat of the past two weeks (Chainflip, Wrapped Monero, Binance hacker funds moving) to argue institutional capital is pricing in custody/security risk, not just macro.",
+      "source": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
     }
   ]
 }
