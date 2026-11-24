@@ -1,4 +1,53 @@
 {
-  "generated": "2026-11-23T11:05:10+00:00",
-  "plays": []
+  "generated": "2026-11-24T11:05:26+00:00",
+  "plays": [
+    {
+      "story": "DOJ moves to recover $1.17B from the Binance hack as North Korean funds keep moving through laundering chains; Circle weighs issuing replacement USDC",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "DOJ's $1.17B Binance Clawback: What Happens to the Market When Stolen Crypto Gets 'Un-Stolen' (and Circle Mints Replacements)",
+        "itsalreadywhen": "Inside the $247M Laundering Trail: How Binance's Hackers Moved Money Through Obfuscation Chains While DOJ Played Catch-Up"
+      },
+      "source": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving"
+    },
+    {
+      "story": "'MoldyRoost' malvertising campaign steals crypto wallet recovery phrases from iPhones with a single tap",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Your Seed Phrase Is One Ad Tap Away From Gone: MoldyRoost Malware Is Draining iPhone Crypto Wallets Right Now",
+        "itsalreadywhen": "MoldyRoost Dissected: The Malvertising Chain That Turns One Careless Tap Into a Full Wallet Drain"
+      },
+      "source": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Shadowheart, the Baldur's Gate 3 companion, is getting a full tie-in novel in 2027",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "BG3's Shadowheart Gets Her Own Novel in 2027 — What It Means for D&D Tie-In Fiction and Your Table's Lore",
+        "itsalreadywritten": "From Companion to Canon: What a Shadowheart Novel Reveals About Adapting Video-Game Romance Arcs Into Prose"
+      },
+      "source": "https://www.enworld.org/threads/shadowheart-novel-coming-in-2027.721453/"
+    },
+    {
+      "story": "EN World opens nominations for the Most Anticipated RPG of 2027",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "Cast Your Vote: The Most Anticipated TTRPG of 2027 (Our Shortlist, Plus the Dark Horse Pick Nobody's Talking About)",
+        "itsalreadywritten": "2027's Most Anticipated RPGs, Ranked by Story Ambition Instead of Hype"
+      },
+      "source": "https://www.enworld.org/threads/nominate-your-most-anticipated-rpg-of-2027.721450/"
+    }
+  ]
 }

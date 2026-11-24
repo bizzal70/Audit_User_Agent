@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-23T11:05:10+00:00",
+  "generated": "2026-11-24T11:05:26+00:00",
   "opportunities": [
     {
-      "title": "Popcorn Initiative Is Cheating (And Your Players Know It)",
-      "why_now": "Sly Flourish just published a piece on turn order mechanics, making this the perfect week to settle the popcorn-initiative debate with a hard ruling.",
-      "angle": "60-sec rules-ruling short: walk through RAW initiative, then explain exactly when popcorn initiative breaks action economy and when it's fine to houserule",
+      "title": "\"Roll Initiative\" Is Lying To You — Why Group Turns Break 5e Combat Pacing",
+      "why_now": "Sly Flourish just published a piece on turn-order structures, giving a timely peg for a rules-ruling short on initiative variants.",
+      "angle": "60-sec rules ruling comparing standard 5e initiative, Shadowdark's roll-each-round, and 'popcorn' turns — end with a GM verdict on which to run at your table.",
       "source": "https://slyflourish.com/take_turns_around_the_table.html?rss=1"
     },
     {
-      "title": "Monk Flurry of Blows Is Not Two Attacks — It's a Bonus Action Tax",
-      "why_now": "EN World's WoW Monk deep-dive has monk builds trending in tabletop chatter this week, a clean hook to correct the most common 5e Monk misplay.",
-      "angle": "Creature/class tactic short: show the actual action economy math (unarmed strike + bonus action Flurry costing a Ki point) vs. the common misreading as 'free extra attack'",
+      "title": "The Investigation Scene Nobody Can Fail (And Why Passive Perception Is the Wrong Tool)",
+      "why_now": "EN World's 'Elementary, my dear DM' column on detective-style play is a direct hook into clue-design rulings your audience argues about weekly.",
+      "angle": "Dry mechanical breakdown: stop gating clues behind a DC, use Insight/Investigation only to add detail — a concrete ruling with a sample read-aloud clue ladder.",
+      "source": "https://www.enworld.org/threads/rpg-evolution-elementary-my-dear-dm.721467/"
+    },
+    {
+      "title": "Divine Smite Is Nova Damage With No Cooldown — Here's the Math That Breaks DMs",
+      "why_now": "EN World's WoW Paladin deep dive is trending this week, giving a crossover hook to reframe Divine Smite resource management for 5e tables.",
+      "angle": "Spell use-case short: show the spell-slot math where Smite-on-crit outpaces a Fighter's whole turn, then give the GM counter (legendary resistance timing, HP thresholds).",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-paladin.721481/"
+    },
+    {
+      "title": "Open Hand Monk's Flurry of Blows Is Worse Than a Dagger — Prove Me Wrong",
+      "why_now": "The WoW Monk deep dive is driving class-comparison chatter right now, a clean excuse to run the numbers on 5e's most argued-over martial.",
+      "angle": "Mechanical ruling format: DPR table at levels 5/11/17 vs a two-weapon Fighter, ending on a one-line verdict for players asking 'is Monk bad.'",
       "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-monks.721468/"
     },
     {
-      "title": "Counterspell at Higher Levels: Why You're Probably Rolling Ability Checks Wrong",
-      "why_now": "The WoW Mage deep-dive has caster-vs-caster discourse spiking right now, a timely excuse to nail down the Counterspell DC check RAW.",
-      "angle": "Spell use-case short: clarify when a flat DC 10 applies vs. the spell-level-based check, with a quick table-ready cheat sheet",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-mage.721454/"
-    },
-    {
-      "title": "Dead Magic Zones: What Actually Happens to Your Concentration Spells",
-      "why_now": "Secrets of the Tome's Wasteland just dropped lore built around a place where magic dies, a perfect excuse to rule on antimagic/dead-magic interactions GMs botch constantly.",
-      "angle": "Rules ruling short: distinguish Antimagic Field (RAW suppression) from reflavored 'dead magic' zones, and give a clean houserule for the latter so casters don't feel cheated",
-      "source": "https://www.enworld.org/threads/secrets-of-the-tomes-wasteland-is-where-lost-magic-goes-to-die.721463/"
-    },
-    {
-      "title": "This Week's Free Bundle Has a Monster Stat Block Most GMs Run Wrong",
-      "why_now": "EN World's Nov 23 freebies/sales roundup gives a built-in, shoppable reason to spotlight a specific creature tactic from a currently-free product.",
-      "angle": "Creature tactic short: pull one monster from the bundle, show its most-misused ability, and demo the correct tactical use at the table",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-november-23-2026.721478/"
+      "title": "Tunnels & Trolls Solved OSR Death Spirals 50 Years Before Shadowdark Did",
+      "why_now": "This week's EN World podcast flagged Ken St. Andre, giving a legit hook to tie Shadowdark's severe wound/death rules back to T&T's saving-roll lineage.",
+      "angle": "Rules-history ruling short: compare T&T's simple save system to Shadowdark's death timer, framed as 'the OSR rule that never needed fixing.'",
+      "source": "https://www.enworld.org/threads/podcast-424-livestream-wow-class-previews-d-d-beyond-hack-wotc-copyright-payout-ken-st-andre.721474/"
     }
   ]
 }

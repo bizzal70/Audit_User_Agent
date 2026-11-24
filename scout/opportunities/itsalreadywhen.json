@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-23T11:05:10+00:00",
+  "generated": "2026-11-24T11:05:26+00:00",
   "opportunities": [
     {
-      "title": "AI Agents Just Popped Their First Solo Zero-Day — Welcome to Autonomous APT",
-      "why_now": "Multiple outlets (Amazon, Register, Hacker News, Dark Reading) are independently confirming the same milestone: a Chinese operation let an AI agent discover and exploit a zero-day in medical imaging software with zero human in the loop.",
-      "angle": "Explainer/analysis stitching the Armory Castle reporting together into one timeline — what the agent actually did, why root access on a university server + medical imaging box matters, and why this is the first confirmed case, not the last",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day"
+      "title": "Your Trailer's Brakes Are on Bluetooth and Anyone Can Slam Them On",
+      "why_now": "Researchers just disclosed that Elecbrakes' Bluetooth trailer braking systems can be remotely hijacked by anyone with a phone, turning a convenience feature into a roadside weapon.",
+      "angle": "Explainer on the vuln chain + 'inevitable breach' framing: when IoT convenience features ship without auth, physical safety becomes a CVE",
+      "source": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748"
     },
     {
-      "title": "VMware Knew About Its Critical vCenter Bug in September. You Patched It This Week.",
-      "why_now": "Google just confirmed the 'new' critical VMware vCenter flaw was actively exploited two months before public disclosure, while CISA simultaneously flagged a Cisco Expressway RCE as under active attack.",
-      "angle": "Patch-cadence timeline post: lay out disclosure date vs. exploitation date vs. patch date, make the lag the headline, close with a 'what to check right now' checklist",
-      "source": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547"
+      "title": "ShinyHunters Never Left: Meet 'Inception,' the Extortion Crew With 7 Victims in 7 Days",
+      "why_now": "A new group possibly rebranding from ShinyHunters has already claimed seven corporate victims in a single week, a pace worth tracking as a live breach counter.",
+      "angle": "Threat actor profile + running victim tally, positioned as 'who's next' tracker",
+      "source": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768"
     },
     {
-      "title": "The FBI's Own Crime Database Just Got Hacked — Yes, That One",
-      "why_now": "AP sources confirm an apparent breach of the FBI's key national criminal justice database, a maximum-irony entry for the inevitable-breach file.",
-      "angle": "Short, punchy blog post + X thread on the irony, what's known so far, and why a breach of this particular system (criminal records, warrants) is a different risk class than a retailer breach",
-      "source": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
+      "title": "From Zero-Day to Root in 11 Minutes: AI Agents Just Changed the Patch Clock",
+      "why_now": "Dark Reading reports AI agents can go from flaw discovery to full root access in 11 minutes, collapsing the window defenders have to patch before exploitation.",
+      "angle": "Patch-cadence math piece: compare your org's mean-time-to-patch against an 11-minute AI attacker, with a call to action on virtual patching",
+      "source": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes"
     },
     {
-      "title": "Signal Built a Wall Against AI Agents. Your Phone's OS Is Still Leaving the Door Open.",
-      "why_now": "Signal just shipped code specifically blocking Siri, Gemini, and other AI agents from screenshotting or reading private chats on iOS/Android, right as Dark Reading reports enterprises are scrambling with access-control gaps for AI agents.",
-      "angle": "Contrast piece: Signal's narrow, opinionated fix vs. the broader unsolved problem of OS-level AI agents with screen/clipboard access across every other app — use Signal as the exception that proves the rule",
-      "source": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+      "title": "One Azure API Flaw, Three Nations' Power Grids: Inside the Norway Energy Firm Breach",
+      "why_now": "Norway just confirmed a critical Azure API Management vulnerability was used to steal secrets from its energy sector, with Microsoft patching only after exploitation was already underway.",
+      "angle": "Critical infra breach deep-dive tying together Register, SecurityWeek, Hacker News, and Bleeping Computer reporting into one timeline of exploit-before-patch",
+      "source": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598"
     },
     {
-      "title": "This Week's Actively-Exploited List: Cisco, VMware, GL.iNet Routers, and an ASP.NET Library Nobody Thought About",
-      "why_now": "CISA added a critical Cisco Expressway RCE to its KEV list the same week as live exploitation reports for VMware vCenter, GL.iNet-managed routers/KVMs, and an ASP.NET anti-CSRF library bug enabling unauthenticated RCE.",
-      "angle": "Rapid-fire 'patch now' digest format — one CVE per line with exploitation status, affected versions, and a single sentence on blast radius; built for the X thread version to drive back to the blog",
-      "source": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+      "title": "Cisco's Critical RCE Is Already Under Attack — Here's Your Patch-or-Perish Window",
+      "why_now": "A critical Cisco remote code execution bug is being actively exploited right now, making this a live patch-cadence emergency for network admins.",
+      "angle": "Rapid-response CVE bulletin format: what's vulnerable, what attackers are doing, and the clock on patching before wider exploitation",
+      "source": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722"
     }
   ]
 }

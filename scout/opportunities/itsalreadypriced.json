@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-23T11:05:10+00:00",
+  "generated": "2026-11-24T11:05:26+00:00",
   "opportunities": [
     {
-      "title": "One Tap, Zero Seed Phrase: MoldyRoost Is the iPhone Ad That Drains Wallets",
-      "why_now": "A new malvertising campaign stealing recovery phrases from iPhones via a single ad tap is actively circulating and under-covered outside two wire pickups.",
-      "angle": "Security breakdown explainer: how the exploit works, which wallet apps/flows are exposed, and the 3 settings changes that kill it — written as 'you were warned' prevention guide.",
+      "title": "MoldyRoost: The iPhone Ad That Drains Your Wallet Before You Finish Scrolling",
+      "why_now": "A new malware campaign hiding in iPhone ads is actively lifting seed phrases right now, which is a direct hit on self-custody assumptions this channel's readers care about.",
+      "angle": "Security teardown: how the attack chain works (ad→clipboard/screen scrape→drain), concrete checklist for what 'cold storage' actually needs to mean on mobile, with a knowing 'we told you so' tone.",
       "source": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Chainflip Offers Its Own Hacker a 10% Tip: The Bug Bounty Ritual Nobody Questions Anymore",
-      "why_now": "Chainflip's $12M loss and immediate 'keep 10%, return the rest' offer is the latest entry in a now-standard post-hack script worth naming and dissecting.",
-      "angle": "Pattern analysis piece: catalog every protocol that's run this exact negotiation playbook in 2026, show the win rate, and ask why 'hack now, negotiate later' is still rational math for attackers.",
-      "source": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "The Binance Hacker's $600M Victory Lap Through THORChain and Chainflip",
-      "why_now": "A months-old exploit is actively laundering nearly $600M through cross-chain bridges in real time, including one of the same protocols (Chainflip) that just got hacked itself.",
-      "angle": "Follow-the-money tracker: map the route, name the bridges that keep enabling this, and make the case that 'cross-chain liquidity' is now laundering infrastructure by design, not accident.",
-      "source": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "More Tampered Ledgers Keep Showing Up — Your Supply Chain Is the Attack Surface",
-      "why_now": "Hodler's Digest flags fresh tampered-hardware-wallet discoveries, reviving a threat model that never actually went away despite feeling 'solved.'",
-      "angle": "Practical security checklist: how to verify a hardware wallet wasn't intercepted, sourced-from-reseller red flags, and why 'buy direct or don't buy' is still the only real rule.",
+      "title": "More Tampered Ledgers Are Turning Up — Your Hardware Wallet Supply Chain Is the Attack Surface",
+      "why_now": "Fresh reports of tampered Ledger devices surfacing again proves supply-chain compromise is a recurring, not one-off, threat.",
+      "angle": "Explainer + buyer's checklist: how to verify a hardware wallet wasn't tampered with before setup, sourced only from official channels, with past incidents timeline to show the pattern repeating.",
       "source": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "'Structural' ETF Outflows Are the Tell: Institutions Already Knew What You're Finding Out Now",
-      "why_now": "Analysts are reframing $1.8B in weekly bitcoin ETF outflows as structural rather than noise, right as the market narrative shifts from dip-buying to distrust.",
-      "angle": "Markets-meets-security framing: connect outflow timing to the hack/exploit drumbeat of the past two weeks (Chainflip, Wrapped Monero, Binance hacker funds moving) to argue institutional capital is pricing in custody/security risk, not just macro.",
-      "source": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
+      "title": "Chainflip Got Hit for $12M and Is Now Negotiating With Its Own Hacker — Here's Why That's Becoming Standard Practice",
+      "why_now": "Chainflip's 10% bounty offer to its attacker is a live, unfolding negotiation that fits the 'this is how it always ends' thesis on bridge/cross-chain protocol security.",
+      "angle": "Market structure piece: breakdown of the exploit, why whitehat bounties have become the default post-hack playbook, and what it signals about protocol security budgets vs. insurance.",
+      "source": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "title": "$247M and Counting: Inside North Korea's Real-Time Laundering of the Binance Hack Loot",
+      "why_now": "Fresh on-chain tracking shows DPRK actively moving $247M through mixers this week while DOJ simultaneously seeks $1.17B in seized USDC, giving a live split-screen of enforcement vs. evasion.",
+      "angle": "On-chain investigation thread/post: map the laundering route, contrast it with the DOJ's parallel seizure effort, and make the point that 'recovery' and 'laundering' are racing in real time.",
+      "source": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source"
+    },
+    {
+      "title": "Lookonchain Flags a Suspected Hack on an Ansem-Linked Wallet — What KOL Wallets Teach Us About Opsec",
+      "why_now": "A high-profile crypto influencer's wallet getting flagged as compromised is a timely, concrete case study in why fame plus bad opsec equals a target.",
+      "angle": "Short, sharp security post: timeline of the flagged transactions, what likely went wrong, and a practical opsec checklist for anyone with a public wallet address.",
+      "source": "https://thedefiant.io/news/hacks/lookonchain-flags-suspected-hack-of-ansem-linked-wallet"
     }
   ]
 }
