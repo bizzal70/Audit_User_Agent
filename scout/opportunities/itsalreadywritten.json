@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-24T11:05:26+00:00",
+  "generated": "2026-11-25T11:05:49+00:00",
   "opportunities": [
     {
-      "title": "Three Classes, One Verdict: What D&D's Design Team Should Steal From WoW's Paladin, Monk, and Mage",
-      "why_now": "EN World just ran three consecutive 'Deep Dive' breakdowns on WoW classes, giving us fresh, comparable rules-text to mine against 5e/2024 class chassis.",
-      "angle": "Side-by-side rules comparison table (resource systems, subclass gating, action economy) with a verdict on which mechanic D&D should adapt next",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-paladin.721481/"
-    },
-    {
-      "title": "Initiative Is a Solved Problem — Sly Flourish Just Proved It Again",
-      "why_now": "Sly Flourish's new piece on turn order at the table is a fresh, citable take on a rules mechanic every GM argues about.",
-      "angle": "Rules-first breakdown: compare the article's method against RAW initiative, side-initiative, and popcorn initiative with a 'which rule actually wins' ruling",
+      "title": "The Rule for 'Whose Turn Is It?' Was Already Written — Sly Flourish Just Proved It",
+      "why_now": "Sly Flourish's new piece on table turn-taking reopens a rules debate that initiative systems already settled decades ago.",
+      "angle": "Rules-citation breakdown: compare Sly Flourish's advice against existing initiative/turn-order rules across editions and systems to show the mechanic already exists",
       "source": "https://slyflourish.com/take_turns_around_the_table.html?rss=1"
     },
     {
-      "title": "2026 Is Officially TTRPG Crowdfunding's Biggest Year — Here's the Rule Nobody's Talking About: Backer Math",
-      "why_now": "Sword World's milestone confirms a trend worth quantifying right as the year closes out.",
-      "angle": "Data-driven breakdown of what made 2026 campaigns succeed (stretch goal structures, pledge tiers) as a 'rules of crowdfunding' explainer",
+      "title": "Wrath & Glory, Delta Green, Fear Itself: What's Actually New in November's Rulebooks",
+      "why_now": "EN World's print roundup bundles several rules-relevant releases that deserve a sourcebook-by-sourcebook breakdown.",
+      "angle": "Quick-hit rules digest: pull the mechanical crunch (new subsystems, stat blocks, core changes) from each title in the roundup",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
+    },
+    {
+      "title": "The WotC Copyright Payout Is a Rules Case Study, Not Just Drama",
+      "why_now": "Podcast #424 flags a WotC copyright payout and D&D Beyond hack that have direct licensing/OGL implications for rules publishers.",
+      "angle": "Explainer: translate the copyright payout into what it means for third-party rules content and the OGL/ORC landscape",
+      "source": "https://www.enworld.org/threads/podcast-424-livestream-wow-class-previews-d-d-beyond-hack-wotc-copyright-payout-ken-st-andre.721474/"
+    },
+    {
+      "title": "Sword World's Record Crowdfunding Year Is a Rules-Design Trend, Not Luck",
+      "why_now": "EN World reports 2026 as crowdfunding's biggest year, led by Sword World — a signal about what rule-sets backers actually want.",
+      "angle": "Data-driven take: break down what mechanical features/rules innovations in top-funded 2026 TTRPGs correlate with funding success",
       "source": "https://www.enworld.org/threads/sword-world-cements-2026-as-crowdfundings-biggest-year-ever.721465/"
     },
     {
-      "title": "Amanda Hamon Now Runs Universes Beyond Design — What Her Rules Fingerprints Already Look Like",
-      "why_now": "Her promotion to Principal Game Designer is fresh, named-source news directly tied to future D&D rules output.",
-      "angle": "Credential-based forecast: pull her known design credits (Spelljammer, Bigby, etc.) to predict mechanical direction of upcoming UB books",
-      "source": "https://www.enworld.org/threads/amanda-hamon-promoted-to-principal-game-designer-of-d-ds-universes-beyond-line.721452/"
-    },
-    {
-      "title": "WotC's Copyright Payout Is a Rules Precedent, Not Just a Settlement",
-      "why_now": "Podcast #424 surfaced a WotC copyright payout detail that touches IP/OGL rules territory the TTRPG community cares deeply about.",
-      "angle": "Explainer on what the payout means for third-party publishers under current OGL/ORC frameworks, written as a 'read the fine print' piece",
-      "source": "https://www.enworld.org/threads/podcast-424-livestream-wow-class-previews-d-d-beyond-hack-wotc-copyright-payout-ken-st-andre.721474/"
+      "title": "Elementary, My Dear DM: The Deduction Rules Most Tables Never Codify",
+      "why_now": "EN World's RPG Evolution column on detective-style play touches a rules gap — most systems handle mystery/investigation loosely.",
+      "angle": "Rules-first fix: propose a concrete clue/deduction subsystem using existing mechanics (skill DCs, clue tracks) as the 'already written' answer",
+      "source": "https://www.enworld.org/threads/rpg-evolution-elementary-my-dear-dm.721467/"
     }
   ]
 }

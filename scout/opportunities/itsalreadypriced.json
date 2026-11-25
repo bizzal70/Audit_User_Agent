@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-24T11:05:26+00:00",
+  "generated": "2026-11-25T11:05:49+00:00",
   "opportunities": [
     {
-      "title": "MoldyRoost: The iPhone Ad That Drains Your Wallet Before You Finish Scrolling",
-      "why_now": "A new malware campaign hiding in iPhone ads is actively lifting seed phrases right now, which is a direct hit on self-custody assumptions this channel's readers care about.",
-      "angle": "Security teardown: how the attack chain works (ad→clipboard/screen scrape→drain), concrete checklist for what 'cold storage' actually needs to mean on mobile, with a knowing 'we told you so' tone.",
-      "source": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Coldcard's 5-Year-Old Flaw Is a Receipt: Audits Don't Find What They're Not Looking For",
+      "why_now": "Coldcard just published its own postmortem on how a wallet flaw survived years of security reviews, and Decrypt covered it the same day.",
+      "angle": "Analysis piece dissecting the audit methodology gap — use it to argue 'audited' is marketing, not a guarantee; pair with a checklist of what real wallet due diligence looks like",
+      "source": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years"
     },
     {
-      "title": "More Tampered Ledgers Are Turning Up — Your Hardware Wallet Supply Chain Is the Attack Surface",
-      "why_now": "Fresh reports of tampered Ledger devices surfacing again proves supply-chain compromise is a recurring, not one-off, threat.",
-      "angle": "Explainer + buyer's checklist: how to verify a hardware wallet wasn't tampered with before setup, sourced only from official channels, with past incidents timeline to show the pattern repeating.",
-      "source": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "One Tap, One Drained Wallet: The iPhone Ad Network Now Hunting Seed Phrases",
+      "why_now": "MoldyRoost malware targeting recovery phrases via iPhone ads is a fresh, concrete attack vector most holders haven't heard of yet.",
+      "angle": "Tactical explainer/thread: how the exploit works, who's exposed (clipboard + screenshot habits), and the 3 settings to change today",
+      "source": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap"
     },
     {
-      "title": "Chainflip Got Hit for $12M and Is Now Negotiating With Its Own Hacker — Here's Why That's Becoming Standard Practice",
-      "why_now": "Chainflip's 10% bounty offer to its attacker is a live, unfolding negotiation that fits the 'this is how it always ends' thesis on bridge/cross-chain protocol security.",
-      "angle": "Market structure piece: breakdown of the exploit, why whitehat bounties have become the default post-hack playbook, and what it signals about protocol security budgets vs. insurance.",
-      "source": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "Ansem's Wallet Got Drained for $2.5M — Here's What 'Sophisticated Trader' Opsec Actually Looks Like",
+      "why_now": "A high-profile trader's wallet compromise crashing his own namesake token is breaking right now across CoinDesk and Decrypt.",
+      "angle": "Schadenfreude-but-useful teardown: reconstruct the attack vector from on-chain evidence, use it as a cautionary tale for anyone running hot wallets with influence-sized bags",
+      "source": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach"
     },
     {
-      "title": "$247M and Counting: Inside North Korea's Real-Time Laundering of the Binance Hack Loot",
-      "why_now": "Fresh on-chain tracking shows DPRK actively moving $247M through mixers this week while DOJ simultaneously seeks $1.17B in seized USDC, giving a live split-screen of enforcement vs. evasion.",
-      "angle": "On-chain investigation thread/post: map the laundering route, contrast it with the DOJ's parallel seizure effort, and make the point that 'recovery' and 'laundering' are racing in real time.",
-      "source": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source"
+      "title": "Tampered Ledgers Are Still Turning Up — Your Hardware Wallet Supply Chain Is the Attack Surface Now",
+      "why_now": "Hodler's Digest flagged more tampered Ledger devices found this week, extending an ongoing supply-chain compromise story.",
+      "angle": "Running-tally format: track confirmed tampered-device reports, map the distribution/resale channels involved, end with a verification checklist before first unboxing",
+      "source": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest"
     },
     {
-      "title": "Lookonchain Flags a Suspected Hack on an Ansem-Linked Wallet — What KOL Wallets Teach Us About Opsec",
-      "why_now": "A high-profile crypto influencer's wallet getting flagged as compromised is a timely, concrete case study in why fame plus bad opsec equals a target.",
-      "angle": "Short, sharp security post: timeline of the flagged transactions, what likely went wrong, and a practical opsec checklist for anyone with a public wallet address.",
-      "source": "https://thedefiant.io/news/hacks/lookonchain-flags-suspected-hack-of-ansem-linked-wallet"
+      "title": "Ethereum Foundation Just Told You the Real Threat Isn't Quantum — It's the AI Writing Your Smart Contracts",
+      "why_now": "EF researchers explicitly ranked AI above quantum computing as the urgent threat, right as EF doubles its security team and Anthropic ships AI that reviews its own code.",
+      "angle": "Contrarian op-ed connecting three dots (EF's own statement, EF security team expansion, Anthropic's self-approving code) into a thesis: the next exploit class is AI-generated code nobody fully reviewed",
+      "source": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing"
     }
   ]
 }

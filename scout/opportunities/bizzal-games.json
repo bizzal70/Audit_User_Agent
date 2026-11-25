@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-24T11:05:26+00:00",
+  "generated": "2026-11-25T11:05:49+00:00",
   "opportunities": [
     {
-      "title": "\"Roll Initiative\" Is Lying To You — Why Group Turns Break 5e Combat Pacing",
-      "why_now": "Sly Flourish just published a piece on turn-order structures, giving a timely peg for a rules-ruling short on initiative variants.",
-      "angle": "60-sec rules ruling comparing standard 5e initiative, Shadowdark's roll-each-round, and 'popcorn' turns — end with a GM verdict on which to run at your table.",
+      "title": "The Ready Action Nobody Uses Right: A Turn-Order Ruling",
+      "why_now": "Sly Flourish's piece on turn order is fresh and directly hits GM table mechanics our daily format lives on.",
+      "angle": "60-sec rules ruling: walk through Ready vs Delay at the table, show the exact trigger-wording mistake players make, give the correct 5e/Shadowdark fix",
       "source": "https://slyflourish.com/take_turns_around_the_table.html?rss=1"
     },
     {
-      "title": "The Investigation Scene Nobody Can Fail (And Why Passive Perception Is the Wrong Tool)",
-      "why_now": "EN World's 'Elementary, my dear DM' column on detective-style play is a direct hook into clue-design rulings your audience argues about weekly.",
-      "angle": "Dry mechanical breakdown: stop gating clues behind a DC, use Insight/Investigation only to add detail — a concrete ruling with a sample read-aloud clue ladder.",
+      "title": "Running the Mystery Dungeon Without Railroading Your Players",
+      "why_now": "EN World's investigation-focused RPG Evolution column is timely and maps straight onto a perennial DM pain point.",
+      "angle": "Dry veteran-GM breakdown of 3-clue rule applied to a 5e/DCC murder-in-the-keep scenario, with a specific clue-placement example",
       "source": "https://www.enworld.org/threads/rpg-evolution-elementary-my-dear-dm.721467/"
     },
     {
-      "title": "Divine Smite Is Nova Damage With No Cooldown — Here's the Math That Breaks DMs",
-      "why_now": "EN World's WoW Paladin deep dive is trending this week, giving a crossover hook to reframe Divine Smite resource management for 5e tables.",
-      "angle": "Spell use-case short: show the spell-slot math where Smite-on-crit outpaces a Fighter's whole turn, then give the GM counter (legendary resistance timing, HP thresholds).",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-paladin.721481/"
+      "title": "Dead Magic Zones: The Spell Rule Most GMs Get Wrong",
+      "why_now": "Secrets of the Tome's lost-magic wasteland premise is a perfect hook into the antimagic/dead-magic spell interaction rules.",
+      "angle": "Spell use-case short: what actually stops working in a dead-magic zone (concentration, bonded items, divine casting) vs what doesn't, using 5e RAW",
+      "source": "https://www.enworld.org/threads/secrets-of-the-tomes-wasteland-is-where-lost-magic-goes-to-die.721463/"
     },
     {
-      "title": "Open Hand Monk's Flurry of Blows Is Worse Than a Dagger — Prove Me Wrong",
-      "why_now": "The WoW Monk deep dive is driving class-comparison chatter right now, a clean excuse to run the numbers on 5e's most argued-over martial.",
-      "angle": "Mechanical ruling format: DPR table at levels 5/11/17 vs a two-weapon Fighter, ending on a one-line verdict for players asking 'is Monk bad.'",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-monks.721468/"
-    },
-    {
-      "title": "Tunnels & Trolls Solved OSR Death Spirals 50 Years Before Shadowdark Did",
-      "why_now": "This week's EN World podcast flagged Ken St. Andre, giving a legit hook to tie Shadowdark's severe wound/death rules back to T&T's saving-roll lineage.",
-      "angle": "Rules-history ruling short: compare T&T's simple save system to Shadowdark's death timer, framed as 'the OSR rule that never needed fixing.'",
+      "title": "Your D&D Beyond Account Got Hacked — Here's Your Backup Plan",
+      "why_now": "The D&D Beyond hack mentioned on Podcast #424 is a live, high-anxiety topic for the exact digital-tool-using audience that watches tabletop shorts.",
+      "angle": "Practical GM-voice PSA: export your character sheets, keep a paper ruling cheat-sheet, don't trust the cloud mid-campaign",
       "source": "https://www.enworld.org/threads/podcast-424-livestream-wow-class-previews-d-d-beyond-hack-wotc-copyright-payout-ken-st-andre.721474/"
+    },
+    {
+      "title": "Free Modules Worth Stealing This Week (No, Seriously, Grab These)",
+      "why_now": "The Nov 23 freebies/bundles roundup gives a concrete, time-limited list to drive immediate clicks before offers expire.",
+      "angle": "Fast-cut list format: 3 specific free 5e/OSR modules with one tactical encounter or stat-block highlight from each",
+      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-november-23-2026.721478/"
     }
   ]
 }

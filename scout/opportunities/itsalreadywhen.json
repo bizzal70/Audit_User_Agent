@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-24T11:05:26+00:00",
+  "generated": "2026-11-25T11:05:49+00:00",
   "opportunities": [
     {
-      "title": "Your Trailer's Brakes Are on Bluetooth and Anyone Can Slam Them On",
-      "why_now": "Researchers just disclosed that Elecbrakes' Bluetooth trailer braking systems can be remotely hijacked by anyone with a phone, turning a convenience feature into a roadside weapon.",
-      "angle": "Explainer on the vuln chain + 'inevitable breach' framing: when IoT convenience features ship without auth, physical safety becomes a CVE",
-      "source": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748"
+      "title": "VMware's Third 'Critical' Patch Bundle in a Week: Welcome to the New Patch Tuesday (Every Day)",
+      "why_now": "Three critical bundles in seven days—plus a fresh 9.8 vCenter auth bypass—means admins are patching through the holiday whether they like it or not.",
+      "angle": "Patch-cadence breakdown: timeline the three bundles, flag the Thanksgiving-weekend risk window, and give a triage checklist for teams who can't patch on day one.",
+      "source": "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017"
     },
     {
-      "title": "ShinyHunters Never Left: Meet 'Inception,' the Extortion Crew With 7 Victims in 7 Days",
-      "why_now": "A new group possibly rebranding from ShinyHunters has already claimed seven corporate victims in a single week, a pace worth tracking as a live breach counter.",
-      "angle": "Threat actor profile + running victim tally, positioned as 'who's next' tracker",
-      "source": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768"
+      "title": "'We Are Not ShinyHunters': Inception, Rebrands, and the Pointlessness of Extortion-Gang Attribution",
+      "why_now": "A group that acts exactly like ShinyHunters just publicly denied being ShinyHunters while claiming seven new victims in a week, and Okta has already tied it to the same vishing crew.",
+      "angle": "Explainer on extortion-brand laundering—why gangs rebrand, how attribution actually works (infra/TTP overlap vs. self-naming), with a running tally of Inception's victims.",
+      "source": "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978"
     },
     {
-      "title": "From Zero-Day to Root in 11 Minutes: AI Agents Just Changed the Patch Clock",
-      "why_now": "Dark Reading reports AI agents can go from flaw discovery to full root access in 11 minutes, collapsing the window defenders have to patch before exploitation.",
-      "angle": "Patch-cadence math piece: compare your org's mean-time-to-patch against an 11-minute AI attacker, with a call to action on virtual patching",
-      "source": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes"
+      "title": "6 Minutes to Secret, 11 Minutes to Root: AI Agents Just Rewrote the Breach Clock",
+      "why_now": "Two independent reports this week show autonomous AI tooling going from recon to a live financial-firm access key or full root access in single-digit minutes—faster than most SOCs can even open a ticket.",
+      "angle": "Side-by-side breakdown of both incidents as a 'new breach math' piece: compare traditional dwell-time stats to these AI-agent timelines and ask what detection even means now.",
+      "source": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
     },
     {
-      "title": "One Azure API Flaw, Three Nations' Power Grids: Inside the Norway Energy Firm Breach",
-      "why_now": "Norway just confirmed a critical Azure API Management vulnerability was used to steal secrets from its energy sector, with Microsoft patching only after exploitation was already underway.",
-      "angle": "Critical infra breach deep-dive tying together Register, SecurityWeek, Hacker News, and Bleeping Computer reporting into one timeline of exploit-before-patch",
-      "source": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598"
+      "title": "24 Check Point Management Servers, One AI-Assisted Campaign: The Pattern Behind This Week's 'AI-Driven Attack' Headlines",
+      "why_now": "Check Point's 24 compromised management servers and the European Commission's AI-assisted breach landed the same week, suggesting a broader AI-tooled campaign hitting security infrastructure itself.",
+      "angle": "Connect-the-dots breach roundup: map Check Point, European Commission, and CIA-system incidents against the 'AI-assisted' label to separate marketing spin from real TTP shift.",
+      "source": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
     },
     {
-      "title": "Cisco's Critical RCE Is Already Under Attack — Here's Your Patch-or-Perish Window",
-      "why_now": "A critical Cisco remote code execution bug is being actively exploited right now, making this a live patch-cadence emergency for network admins.",
-      "angle": "Rapid-response CVE bulletin format: what's vulnerable, what attackers are doing, and the clock on patching before wider exploitation",
-      "source": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722"
+      "title": "The European Commission Got Popped Too: When the Regulators Become the Breach Notification",
+      "why_now": "The body that writes the EU's data-protection rules just confirmed its own personal data was stolen in an AI-assisted attack, a irony-rich inevitable-breach case study.",
+      "angle": "Short, sharp 'who watches the watchmen' post pairing the Commission breach with Troy Hunt's comments on orgs prioritizing corporate interests over customers—use it to frame your 'inevitable breach' thesis.",
+      "source": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
     }
   ]
 }
