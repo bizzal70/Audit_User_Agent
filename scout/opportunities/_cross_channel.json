@@ -1,53 +1,53 @@
 {
-  "generated": "2026-11-25T11:05:49+00:00",
+  "generated": "2026-11-26T11:05:17+00:00",
   "plays": [
     {
-      "story": "Aabria Iyengar and Travis Willingham are returning to Critical Role after a lengthy absence",
+      "story": "Aabria Iyengar and Travis Willingham returning to Critical Role after a long absence",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'Aabria & Travis Are Back at the Table — What Their Critical Role Return Means for the Campaign.' Cover the mechanics/casting angle: how their reappearance reshapes party dynamics, GM rotation, and what it signals for actual-play's biggest show heading into 2027.",
-        "itsalreadywritten": "Title: 'The Absence Was Always Part of the Story: Reading Aabria & Travis's Return as Narrative Fate.' Frame their hiatus and comeback as a storytelling beat — foreshadowing, character arcs interrupted and resumed, and why the 'return' trope lands so hard in long-form TTRPG fiction."
+        "bizzal-games": "'Aabria Iyengar's Critical Role Return Is a Masterclass in Guest-GM Logistics' — break down how long-running actual-play shows script, prep, and mechanically onboard a returning guest GM/player without breaking campaign continuity, with takeaways for home tables bringing back an absent player.",
+        "itsalreadywritten": "'Why Critical Role Had to Bring Travis Willingham Back Now' — dig into the narrative math of serialized TTRPG storytelling: what long-absence arcs owe their audience, and how writers can time a character's re-entrance for maximum payoff instead of retcon whiplash."
       },
       "source": "https://www.enworld.org/threads/aabria-iyengar-travis-willingham-to-return-to-critical-role-after-lengthy-absence.721487/"
     },
     {
-      "story": "Sword World crowdfunding campaign cements 2026 as the biggest year ever for TTRPG crowdfunding",
+      "story": "Gnome Stew's 'What We Talk About When We Talk About Our Characters' analysis",
       "channels": [
         "bizzal-games",
         "itsalreadywritten"
       ],
       "angles": {
-        "bizzal-games": "Title: 'TTRPG Crowdfunding Just Had Its Biggest Year Ever — Here's the Sword World Breakdown.' Dig into the numbers: funding totals, backer trends, what publishers should learn from 2026's record-setting campaigns heading into next year's launches.",
-        "itsalreadywritten": "Title: 'Backers Already Wrote the Check: What Record TTRPG Crowdfunding Says About Demand for New Worlds.' Narrative angle on what players are buying into — new settings, lore, and stories fans are funding sight-unseen, and what that means for the next wave of published fiction."
+        "bizzal-games": "'Your Character Sheet Is Lying to You' — use the Gnome Stew piece as a jumping-off point to review which TTRPG systems actually give mechanical teeth to the character-voice moments players love, and which force you to roleplay around the rules instead of through them.",
+        "itsalreadywritten": "'What We Actually Mean When We Say My Character Would Never Do That' — expand the Gnome Stew essay into a craft piece on character consistency vs. growth, aimed at GMs and players writing long-form TTRPG character arcs."
       },
-      "source": "https://www.enworld.org/threads/sword-world-cements-2026-as-crowdfundings-biggest-year-ever.721465/"
+      "source": "https://gnomestew.com/what-we-talk-about-when-we-talk-about-our-characters/"
     },
     {
-      "story": "An unclassified CIA system was breached in a cyberattack, per AP sourcing",
+      "story": "1Password breach: hacker stole source code and customer names/emails, vaults reportedly safe",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'The CIA Just Got Hacked — Here's Why Crypto Holders Should Care.' Tie institutional/government breach fatigue to the 'trust nothing centralized' thesis crypto sells on, and note how these headlines move sentiment around self-custody and hardware wallets.",
-        "itsalreadywhen": "Title: 'Inside the CIA Breach: What 'Unclassified but Sensitive' Actually Means.' Straight incident analysis — attack timeline, what systems were touched, and why even air-gapped-adjacent agencies keep getting popped in 2026's AI-assisted attack wave."
+        "itsalreadywhen": "'1Password Got Popped — The Breach Timeline, the Source Code Theft, and Why 'Vaults Are Safe' Is Doing a Lot of Work' — standard incident breakdown: attack vector, blast radius, what 'safe' vaults actually means for architecture and zero-knowledge claims.",
+        "itsalreadypriced": "'Your Seed Phrases Live in Password Managers — The 1Password Breach Just Became a Crypto Story' — angle for crypto holders who store exchange logins, API keys, and recovery phrases in 1Password: what the stolen metadata (names/emails) means for targeted phishing against crypto users, and hardening steps beyond 'vaults are safe.'"
       },
-      "source": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
+      "source": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
     },
     {
-      "story": "'MoldyRoost' malicious ads are draining crypto wallet recovery phrases from iPhones in one tap",
+      "story": "1,000+ Bitcoin miners hijacked via fake BGP internet routes exploiting unencrypted mining connections",
       "channels": [
         "itsalreadypriced",
         "itsalreadywhen"
       ],
       "angles": {
-        "itsalreadypriced": "Title: 'MoldyRoost Is Stealing Seed Phrases Off iPhones — Protect Your Wallet Now.' Actionable crypto-holder guide: how the scam works, which wallet apps are targeted, and the exact settings/habits to lock down recovery phrases.",
-        "itsalreadywhen": "Title: 'How MoldyRoost Weaponized Ad Networks to Hijack iPhones in One Tap.' Technical deep dive on the malvertising chain, iOS ad-network abuse, and why mobile zero-click/one-tap exploits are trending across 2026's threat landscape."
+        "itsalreadypriced": "'1,000 Bitcoin Miners Got Hijacked in One Second — Here's How Fake Routes Stole Hashrate' — explain the attack in plain terms for a crypto audience: what hashrate hijacking costs miners, why stratum connections were unencrypted in 2026, and what pools need to patch now.",
+        "itsalreadywhen": "'The BGP Trick Behind Bitcoin's Hashrate Heist Isn't a Crypto Problem — It's an Internet Problem' — broaden the mining story into a cyber feature on BGP route hijacking as a systemic, protocol-level weakness that any unencrypted infrastructure (not just crypto) remains exposed to."
       },
-      "source": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "source": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
     }
   ]
 }

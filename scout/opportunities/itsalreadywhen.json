@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-25T11:05:49+00:00",
+  "generated": "2026-11-26T11:05:17+00:00",
   "opportunities": [
     {
-      "title": "VMware's Third 'Critical' Patch Bundle in a Week: Welcome to the New Patch Tuesday (Every Day)",
-      "why_now": "Three critical bundles in seven days—plus a fresh 9.8 vCenter auth bypass—means admins are patching through the holiday whether they like it or not.",
-      "angle": "Patch-cadence breakdown: timeline the three bundles, flag the Thanksgiving-weekend risk window, and give a triage checklist for teams who can't patch on day one.",
-      "source": "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017"
+      "title": "The Password Manager Got Hacked: What We Know About the 1Password Source Code and Customer Data Breach",
+      "why_now": "A breach at a company literally named after password security, via a compromised GitHub account, is the week's most clickable irony in infosec.",
+      "angle": "Breach timeline + what customer data was actually exposed + what this means if you store secrets in 1Password",
+      "source": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
     },
     {
-      "title": "'We Are Not ShinyHunters': Inception, Rebrands, and the Pointlessness of Extortion-Gang Attribution",
-      "why_now": "A group that acts exactly like ShinyHunters just publicly denied being ShinyHunters while claiming seven new victims in a week, and Okta has already tied it to the same vishing crew.",
-      "angle": "Explainer on extortion-brand laundering—why gangs rebrand, how attribution actually works (infra/TTP overlap vs. self-naming), with a running tally of Inception's victims.",
+      "title": "Treasury's Financial Crimes Unit Gets Hit — Yes, the Agency That Hunts Financial Crime Just Became One",
+      "why_now": "FinCEN taking systems offline after an intrusion is a federal breach with ready-made irony and national security stakes.",
+      "angle": "Inevitable-breach digest entry: what FinCEN does, what was accessed, and why fed agencies keep landing on this list",
+      "source": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+    },
+    {
+      "title": "Patch Drupal Now: 'Fail2Install' RCE Is Already Being Exploited in the Wild",
+      "why_now": "Active exploitation of a critical Drupal RCE days after disclosure is exactly the patch-cadence urgency this channel tracks.",
+      "angle": "CVE breakdown: what the installer flaw does, exploit timeline, and a hard patch-now deadline for site owners",
+      "source": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
+    },
+    {
+      "title": "'We Are Not ShinyHunters,' Says Crew That Hacks Exactly Like ShinyHunters",
+      "why_now": "A threat actor publicly denying its own identity while mirroring ShinyHunters' TTPs is a perfect threat-actor whodunit for the beat's voice.",
+      "angle": "Attribution deep-dive: the denial, the overlap in tooling/victims, and why rebrands matter for defenders tracking campaigns",
       "source": "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978"
     },
     {
-      "title": "6 Minutes to Secret, 11 Minutes to Root: AI Agents Just Rewrote the Breach Clock",
-      "why_now": "Two independent reports this week show autonomous AI tooling going from recon to a live financial-firm access key or full root access in single-digit minutes—faster than most SOCs can even open a ticket.",
-      "angle": "Side-by-side breakdown of both incidents as a 'new breach math' piece: compare traditional dwell-time stats to these AI-agent timelines and ask what detection even means now.",
-      "source": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
-    },
-    {
-      "title": "24 Check Point Management Servers, One AI-Assisted Campaign: The Pattern Behind This Week's 'AI-Driven Attack' Headlines",
-      "why_now": "Check Point's 24 compromised management servers and the European Commission's AI-assisted breach landed the same week, suggesting a broader AI-tooled campaign hitting security infrastructure itself.",
-      "angle": "Connect-the-dots breach roundup: map Check Point, European Commission, and CIA-system incidents against the 'AI-assisted' label to separate marketing spin from real TTP shift.",
-      "source": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
-    },
-    {
-      "title": "The European Commission Got Popped Too: When the Regulators Become the Breach Notification",
-      "why_now": "The body that writes the EU's data-protection rules just confirmed its own personal data was stolen in an AI-assisted attack, a irony-rich inevitable-breach case study.",
-      "angle": "Short, sharp 'who watches the watchmen' post pairing the Commission breach with Troy Hunt's comments on orgs prioritizing corporate interests over customers—use it to frame your 'inevitable breach' thesis.",
-      "source": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+      "title": "VMware's Third Critical Patch Bundle in a Week: Your Thanksgiving Weekend Just Got a Mandatory Patch Window",
+      "why_now": "Three critical bundles in one week right before a holiday is a textbook patch-cadence horror story admins will be googling.",
+      "angle": "Rapid-fire CVE roundup with a 'patch before you carve the turkey' urgency framing",
+      "source": "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017"
     }
   ]
 }

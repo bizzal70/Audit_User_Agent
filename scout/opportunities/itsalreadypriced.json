@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-25T11:05:49+00:00",
+  "generated": "2026-11-26T11:05:17+00:00",
   "opportunities": [
     {
-      "title": "Coldcard's 5-Year-Old Flaw Is a Receipt: Audits Don't Find What They're Not Looking For",
-      "why_now": "Coldcard just published its own postmortem on how a wallet flaw survived years of security reviews, and Decrypt covered it the same day.",
-      "angle": "Analysis piece dissecting the audit methodology gap — use it to argue 'audited' is marketing, not a guarantee; pair with a checklist of what real wallet due diligence looks like",
-      "source": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years"
+      "title": "1,000+ Bitcoin Miners Got Hijacked by a Fake Internet Route — and the Protocol Still Isn't Encrypted",
+      "why_now": "Braiins, The Block, and CoinDesk all confirmed the same BGP-hijacking attack on unencrypted Stratum connections within 24 hours, exposing an industry-wide blind spot.",
+      "angle": "Technical breakdown of BGP/Stratum hijacking with a blunt 'why is mining traffic still plaintext in 2026' thesis",
+      "source": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
     },
     {
-      "title": "One Tap, One Drained Wallet: The iPhone Ad Network Now Hunting Seed Phrases",
-      "why_now": "MoldyRoost malware targeting recovery phrases via iPhone ads is a fresh, concrete attack vector most holders haven't heard of yet.",
-      "angle": "Tactical explainer/thread: how the exploit works, who's exposed (clipboard + screenshot habits), and the 3 settings to change today",
-      "source": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap"
+      "title": "The Coldcard Bug Sat in Plain Sight for 5 Years — So Did Every Audit That Missed It",
+      "why_now": "Coldcard just published a postmortem admitting multiple security reviews failed to catch the flaw, a rare public confession from a hardware wallet maker.",
+      "angle": "Audit-theater takedown: what 'audited' actually means in crypto hardware, with a checklist readers can use on their own cold storage",
+      "source": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Ansem's Wallet Got Drained for $2.5M — Here's What 'Sophisticated Trader' Opsec Actually Looks Like",
-      "why_now": "A high-profile trader's wallet compromise crashing his own namesake token is breaking right now across CoinDesk and Decrypt.",
-      "angle": "Schadenfreude-but-useful teardown: reconstruct the attack vector from on-chain evidence, use it as a cautionary tale for anyone running hot wallets with influence-sized bags",
-      "source": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach"
+      "title": "UK Regulators Discover DeFi Risk the Day After a $6.3B Hack Proved It",
+      "why_now": "The FCA's new DeFi rulemaking explicitly cites the Binance hack as justification, a textbook case of regulation arriving exactly one disaster late.",
+      "angle": "Regulatory-theater op-ed: map the timeline from hack to headline to rulebook and ask who it actually protects",
+      "source": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Tampered Ledgers Are Still Turning Up — Your Hardware Wallet Supply Chain Is the Attack Surface Now",
-      "why_now": "Hodler's Digest flagged more tampered Ledger devices found this week, extending an ongoing supply-chain compromise story.",
-      "angle": "Running-tally format: track confirmed tampered-device reports, map the distribution/resale channels involved, end with a verification checklist before first unboxing",
-      "source": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest"
+      "title": "The CIA Got Hacked Too — and the Tool Was Named Artex",
+      "why_now": "A state-level intelligence breach using a named AI hacking tool just hit days after the Binance and 1Password incidents, signaling AI-assisted intrusion is now mainstream tradecraft.",
+      "angle": "Explainer on Artex plus a 'if the CIA can get popped, your multisig isn't special' framing for crypto holders",
+      "source": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach"
     },
     {
-      "title": "Ethereum Foundation Just Told You the Real Threat Isn't Quantum — It's the AI Writing Your Smart Contracts",
-      "why_now": "EF researchers explicitly ranked AI above quantum computing as the urgent threat, right as EF doubles its security team and Anthropic ships AI that reviews its own code.",
-      "angle": "Contrarian op-ed connecting three dots (EF's own statement, EF security team expansion, Anthropic's self-approving code) into a thesis: the next exploit class is AI-generated code nobody fully reviewed",
-      "source": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing"
+      "title": "'Your Vault Is Safe' Is How Every Breach Starts Its Second Act",
+      "why_now": "1Password confirmed names/emails leaked while vaults stayed encrypted, but Decrypt's own follow-up flags the real danger: targeted phishing against exposed users, a pattern crypto holders have seen before.",
+      "angle": "Security-led warning piece connecting metadata leaks to the phishing wave that follows, with concrete hardening steps for crypto users specifically",
+      "source": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails"
     }
   ]
 }

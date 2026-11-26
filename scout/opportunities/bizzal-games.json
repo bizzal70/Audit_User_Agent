@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-25T11:05:49+00:00",
+  "generated": "2026-11-26T11:05:17+00:00",
   "opportunities": [
     {
-      "title": "The Ready Action Nobody Uses Right: A Turn-Order Ruling",
-      "why_now": "Sly Flourish's piece on turn order is fresh and directly hits GM table mechanics our daily format lives on.",
-      "angle": "60-sec rules ruling: walk through Ready vs Delay at the table, show the exact trigger-wording mistake players make, give the correct 5e/Shadowdark fix",
-      "source": "https://slyflourish.com/take_turns_around_the_table.html?rss=1"
-    },
-    {
-      "title": "Running the Mystery Dungeon Without Railroading Your Players",
-      "why_now": "EN World's investigation-focused RPG Evolution column is timely and maps straight onto a perennial DM pain point.",
-      "angle": "Dry veteran-GM breakdown of 3-clue rule applied to a 5e/DCC murder-in-the-keep scenario, with a specific clue-placement example",
+      "title": "Perception Checks Are Why Your Mystery Falls Apart (Steal Shadowdark's Fix Instead)",
+      "why_now": "EN World's RPG Evolution column just revisited detective-fiction structure for DMs, making this the moment to contrast bad 'roll to find clue' design with better systems.",
+      "angle": "60-sec rules ruling: show the passive-Perception trap in 5e, then demo Shadowdark's clue-always-given approach as the correct ruling",
       "source": "https://www.enworld.org/threads/rpg-evolution-elementary-my-dear-dm.721467/"
     },
     {
-      "title": "Dead Magic Zones: The Spell Rule Most GMs Get Wrong",
-      "why_now": "Secrets of the Tome's lost-magic wasteland premise is a perfect hook into the antimagic/dead-magic spell interaction rules.",
-      "angle": "Spell use-case short: what actually stops working in a dead-magic zone (concentration, bonded items, divine casting) vs what doesn't, using 5e RAW",
-      "source": "https://www.enworld.org/threads/secrets-of-the-tomes-wasteland-is-where-lost-magic-goes-to-die.721463/"
+      "title": "Your Backstory Means Nothing at the Table — Here's the One Ruling That Matters",
+      "why_now": "Gnome Stew's new essay on 'what we talk about when we talk about characters' is getting shared across GM circles right now, ripe for a contrarian rebuttal.",
+      "angle": "Dry veteran-GM take: backstory is fluff, action economy and stated intent are what define a character in play — short with a concrete table example",
+      "source": "https://gnomestew.com/what-we-talk-about-when-we-talk-about-our-characters/"
     },
     {
-      "title": "Your D&D Beyond Account Got Hacked — Here's Your Backup Plan",
-      "why_now": "The D&D Beyond hack mentioned on Podcast #424 is a live, high-anxiety topic for the exact digital-tool-using audience that watches tabletop shorts.",
-      "angle": "Practical GM-voice PSA: export your character sheets, keep a paper ruling cheat-sheet, don't trust the cloud mid-campaign",
-      "source": "https://www.enworld.org/threads/podcast-424-livestream-wow-class-previews-d-d-beyond-hack-wotc-copyright-payout-ken-st-andre.721474/"
+      "title": "Stealing WoW's Priest Kit for a Better Spirit Guardians Ruling",
+      "why_now": "EN World's WoW Priest Deep Dive dropped this week, giving a hook to translate a trending game's class fantasy into a concrete 5e spell use-case.",
+      "angle": "Spell use-case short: use WoW Priest's Shadow/Holy split to justify two distinct rulings on how Spirit Guardians interacts with movement and concentration",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-priest.721491/"
     },
     {
-      "title": "Free Modules Worth Stealing This Week (No, Seriously, Grab These)",
-      "why_now": "The Nov 23 freebies/bundles roundup gives a concrete, time-limited list to drive immediate clicks before offers expire.",
-      "angle": "Fast-cut list format: 3 specific free 5e/OSR modules with one tactical encounter or stat-block highlight from each",
-      "source": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-november-23-2026.721478/"
+      "title": "Paladin Auras in WoW vs 5e: Why Your Aura of Protection Ruling Is Probably Wrong",
+      "why_now": "EN World just published a WoW Paladin deep dive, timely enough to piggyback a direct mechanical comparison for ruling content.",
+      "angle": "Rules ruling short: clarify exact aura radius/stacking rules in 5e using the WoW aura comparison as the hook",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-paladin.721481/"
+    },
+    {
+      "title": "Delta Green's Sanity Rules Fix Your 5e Horror Encounters (No Homebrew Needed)",
+      "why_now": "This week's RPG print news roundup highlights Delta Green and Fear Itself, giving a timely excuse to mine horror-system mechanics for a 5e creature-tactic ruling.",
+      "angle": "Creature tactic short: apply a Delta Green-style fear/stress trigger to a 5e monster (e.g., a mindflayer) as a DM ruling you can run tonight",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
     }
   ]
 }

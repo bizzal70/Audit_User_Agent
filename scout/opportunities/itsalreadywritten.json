@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-25T11:05:49+00:00",
+  "generated": "2026-11-26T11:05:17+00:00",
   "opportunities": [
     {
-      "title": "The Rule for 'Whose Turn Is It?' Was Already Written — Sly Flourish Just Proved It",
-      "why_now": "Sly Flourish's new piece on table turn-taking reopens a rules debate that initiative systems already settled decades ago.",
-      "angle": "Rules-citation breakdown: compare Sly Flourish's advice against existing initiative/turn-order rules across editions and systems to show the mechanic already exists",
-      "source": "https://slyflourish.com/take_turns_around_the_table.html?rss=1"
-    },
-    {
-      "title": "Wrath & Glory, Delta Green, Fear Itself: What's Actually New in November's Rulebooks",
-      "why_now": "EN World's print roundup bundles several rules-relevant releases that deserve a sourcebook-by-sourcebook breakdown.",
-      "angle": "Quick-hit rules digest: pull the mechanical crunch (new subsystems, stat blocks, core changes) from each title in the roundup",
+      "title": "Wrath & Glory, Delta Green, Fear Itself: The Rules Changes Hiding in November's Print Run",
+      "why_now": "Fresh print catalog drop gives concrete new rulebooks to dissect before shelves sell out.",
+      "angle": "Rules-breakdown roundup comparing crunch updates across the three titles",
       "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
     },
     {
-      "title": "The WotC Copyright Payout Is a Rules Case Study, Not Just Drama",
-      "why_now": "Podcast #424 flags a WotC copyright payout and D&D Beyond hack that have direct licensing/OGL implications for rules publishers.",
-      "angle": "Explainer: translate the copyright payout into what it means for third-party rules content and the OGL/ORC landscape",
-      "source": "https://www.enworld.org/threads/podcast-424-livestream-wow-class-previews-d-d-beyond-hack-wotc-copyright-payout-ken-st-andre.721474/"
-    },
-    {
-      "title": "Sword World's Record Crowdfunding Year Is a Rules-Design Trend, Not Luck",
-      "why_now": "EN World reports 2026 as crowdfunding's biggest year, led by Sword World — a signal about what rule-sets backers actually want.",
-      "angle": "Data-driven take: break down what mechanical features/rules innovations in top-funded 2026 TTRPGs correlate with funding success",
-      "source": "https://www.enworld.org/threads/sword-world-cements-2026-as-crowdfundings-biggest-year-ever.721465/"
-    },
-    {
-      "title": "Elementary, My Dear DM: The Deduction Rules Most Tables Never Codify",
-      "why_now": "EN World's RPG Evolution column on detective-style play touches a rules gap — most systems handle mystery/investigation loosely.",
-      "angle": "Rules-first fix: propose a concrete clue/deduction subsystem using existing mechanics (skill DCs, clue tracks) as the 'already written' answer",
+      "title": "Sherlock at the Table: What 'Elementary, My Dear DM' Gets Right (and Wrong) About Clue-Based Mechanics",
+      "why_now": "New RPG Evolution column tackles deduction systems, a perennial rules-design weak spot worth fact-checking.",
+      "angle": "Myth-busting/rules-audit of mystery mechanics with a 'here's the actual rule' angle",
       "source": "https://www.enworld.org/threads/rpg-evolution-elementary-my-dear-dm.721467/"
+    },
+    {
+      "title": "Character Sheets Lie: What Gnome Stew's New Essay Misses About Mechanical Identity",
+      "why_now": "Timely analysis piece on character narrative gives a rules-first counterpoint opportunity.",
+      "angle": "Response/rebuttal post arguing stats-as-story over narrative framing, with citations",
+      "source": "https://gnomestew.com/what-we-talk-about-when-we-talk-about-our-characters/"
+    },
+    {
+      "title": "Aabria and Travis Return to Critical Role — Which Ruleset Are They Actually Playing Now?",
+      "why_now": "Cast-return news is trending; fans want the system/rules context behind the reunion.",
+      "angle": "News-hook explainer on current CR campaign's ruleset and mechanical changes since their absence",
+      "source": "https://www.enworld.org/threads/aabria-iyengar-travis-willingham-to-return-to-critical-role-after-lengthy-absence.721487/"
+    },
+    {
+      "title": "WoW's Priest and Paladin Deep Dives Prove D&D Got Class Design Right First",
+      "why_now": "Back-to-back WoW class breakdowns this week invite a direct tabletop-vs-MMO rules comparison.",
+      "angle": "Comparative rules analysis: WoW talent trees vs. D&D subclass/feat chassis",
+      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-priest.721491/"
     }
   ]
 }
