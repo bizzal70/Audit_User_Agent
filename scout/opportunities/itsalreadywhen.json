@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-26T11:05:17+00:00",
+  "generated": "2026-11-27T11:05:18+00:00",
   "opportunities": [
     {
-      "title": "The Password Manager Got Hacked: What We Know About the 1Password Source Code and Customer Data Breach",
-      "why_now": "A breach at a company literally named after password security, via a compromised GitHub account, is the week's most clickable irony in infosec.",
-      "angle": "Breach timeline + what customer data was actually exposed + what this means if you store secrets in 1Password",
-      "source": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+      "title": "1Password Got Hacked: What a Password Manager Breach Actually Costs You",
+      "why_now": "Source code and customer data stolen via a GitHub account compromise is the nightmare scenario for the exact tool people trust to be unhackable.",
+      "angle": "Breach-digest deep dive: timeline, what was taken, what 1Password users should actually do today (not just 'rotate your password')",
+      "source": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/"
     },
     {
-      "title": "Treasury's Financial Crimes Unit Gets Hit — Yes, the Agency That Hunts Financial Crime Just Became One",
-      "why_now": "FinCEN taking systems offline after an intrusion is a federal breach with ready-made irony and national security stakes.",
-      "angle": "Inevitable-breach digest entry: what FinCEN does, what was accessed, and why fed agencies keep landing on this list",
-      "source": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+      "title": "Drupal's Patch Had a Hole in It — And Attackers Found It First",
+      "why_now": "A fix meant to close a critical site-takeover bug left a gap that's already being actively exploited, the perfect patch-cadence failure story.",
+      "angle": "CVE post-mortem: what the patch missed, exploit timeline, mitigation for sites that already 'patched'",
+      "source": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/"
     },
     {
-      "title": "Patch Drupal Now: 'Fail2Install' RCE Is Already Being Exploited in the Wild",
-      "why_now": "Active exploitation of a critical Drupal RCE days after disclosure is exactly the patch-cadence urgency this channel tracks.",
-      "angle": "CVE breakdown: what the installer flaw does, exploit timeline, and a hard patch-now deadline for site owners",
-      "source": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
+      "title": "Switzerland Just Confirmed AI Wrote the Malware That Breached Its Grid",
+      "why_now": "First confirmed case of AI-assisted attacks breaching critical infrastructure operators marks a concrete escalation beyond theoretical AI-threat talk.",
+      "angle": "Threat-actor explainer: what 'AI-assisted' actually meant in this attack chain, and why critical infra is the canary",
+      "source": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
     },
     {
-      "title": "'We Are Not ShinyHunters,' Says Crew That Hacks Exactly Like ShinyHunters",
-      "why_now": "A threat actor publicly denying its own identity while mirroring ShinyHunters' TTPs is a perfect threat-actor whodunit for the beat's voice.",
-      "angle": "Attribution deep-dive: the denial, the overlap in tooling/victims, and why rebrands matter for defenders tracking campaigns",
-      "source": "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978"
+      "title": "SAP's Source Code Is Out There Now — Here's Why That's Worse Than It Sounds",
+      "why_now": "A confirmed breach with reported source code compromise at a company whose software runs supply chains, finance, and HR for most of the Fortune 500 is a five-alarm event.",
+      "angle": "Impact analysis: what source-code exposure means for SAP customers' attack surface, plus what to watch for in coming weeks",
+      "source": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/"
     },
     {
-      "title": "VMware's Third Critical Patch Bundle in a Week: Your Thanksgiving Weekend Just Got a Mandatory Patch Window",
-      "why_now": "Three critical bundles in one week right before a holiday is a textbook patch-cadence horror story admins will be googling.",
-      "angle": "Rapid-fire CVE roundup with a 'patch before you carve the turkey' urgency framing",
-      "source": "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017"
+      "title": "Four HTTP Requests, Full Server Takeover: The Cacti Zero-Day You Need to Patch Right Now",
+      "why_now": "An unpatched zero-day with trivially easy RCE via guest access demands urgent, concrete 'patch now' coverage before mass exploitation hits.",
+      "angle": "Urgent CVE alert format: exploit mechanics, exposure scope, temporary mitigations while a patch is pending",
+      "source": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html"
     }
   ]
 }

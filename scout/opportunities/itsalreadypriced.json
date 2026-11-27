@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-26T11:05:17+00:00",
+  "generated": "2026-11-27T11:05:18+00:00",
   "opportunities": [
     {
-      "title": "1,000+ Bitcoin Miners Got Hijacked by a Fake Internet Route — and the Protocol Still Isn't Encrypted",
-      "why_now": "Braiins, The Block, and CoinDesk all confirmed the same BGP-hijacking attack on unencrypted Stratum connections within 24 hours, exposing an industry-wide blind spot.",
-      "angle": "Technical breakdown of BGP/Stratum hijacking with a blunt 'why is mining traffic still plaintext in 2026' thesis",
-      "source": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
+      "title": "Binance's $6.3B Hack Is 'Resolved.' Nothing About the Next One Will Be Different.",
+      "why_now": "Binance just completed withdrawal recovery four weeks after history's largest exchange hack, closing the loop on an incident that changed nothing structurally.",
+      "angle": "Post-mortem/op-ed: walk through the timeline, note what Binance actually fixed vs. what it PR'd, and argue custodial risk is a pricing input, not a tail event.",
+      "source": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Coldcard Bug Sat in Plain Sight for 5 Years — So Did Every Audit That Missed It",
-      "why_now": "Coldcard just published a postmortem admitting multiple security reviews failed to catch the flaw, a rare public confession from a hardware wallet maker.",
-      "angle": "Audit-theater takedown: what 'audited' actually means in crypto hardware, with a checklist readers can use on their own cold storage",
+      "title": "The Bitcoin Wallet Bug Nobody Found for Five Years (Including the Auditors Who Were Paid To)",
+      "why_now": "Coldcard just disclosed exactly how a flaw in its hardware wallet slipped past years of security reviews — a rare inside look at audit failure, not just exploit aftermath.",
+      "angle": "Deep-dive explainer: why audits miss this class of bug, what it means for 'audited = safe' marketing claims across the hardware wallet industry.",
       "source": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "UK Regulators Discover DeFi Risk the Day After a $6.3B Hack Proved It",
-      "why_now": "The FCA's new DeFi rulemaking explicitly cites the Binance hack as justification, a textbook case of regulation arriving exactly one disaster late.",
-      "angle": "Regulatory-theater op-ed: map the timeline from hack to headline to rulebook and ask who it actually protects",
+      "title": "Tether Can Freeze Your Stolen Funds in Minutes. Getting Them Back Takes Years — If Ever.",
+      "why_now": "CoinDesk's reporting lays bare the gap between Tether's freeze speed and the actual legal/operational mess victims face recovering funds, right as Binance victims test that pipeline post-hack.",
+      "angle": "Explainer that debunks 'Tether froze it, crisis averted' headlines — map the real recovery timeline and who actually gets made whole (spoiler: rarely the victim first).",
+      "source": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years"
+    },
+    {
+      "title": "One Tiny Payment Can Unmask Your Bitcoin Wallet's IP Address — Here's the Trick",
+      "why_now": "A developer just published a method showing how a small transaction can deanonymize a wallet's network location, a fresh privacy-leak vector with no patch consensus yet.",
+      "angle": "Technical breakdown for self-custody users: how the attack works, who's exposed (node operators, Lightning users), and concrete mitigation steps (Tor, Dandelion++, etc.).",
+      "source": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
+    },
+    {
+      "title": "The UK Is Writing DeFi Rules Based on a Hack That Had Nothing to Do With DeFi",
+      "why_now": "The FCA is citing the $6.3B Binance hack — a centralized exchange failure — to justify new DeFi regulation, a telling conflation that will shape policy debates for months.",
+      "angle": "Sharp commentary piece: expose the category error regulators keep making between CeFi custody failures and DeFi protocol risk, and what it means for builders bracing for rules written for the wrong problem.",
       "source": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "title": "The CIA Got Hacked Too — and the Tool Was Named Artex",
-      "why_now": "A state-level intelligence breach using a named AI hacking tool just hit days after the Binance and 1Password incidents, signaling AI-assisted intrusion is now mainstream tradecraft.",
-      "angle": "Explainer on Artex plus a 'if the CIA can get popped, your multisig isn't special' framing for crypto holders",
-      "source": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach"
-    },
-    {
-      "title": "'Your Vault Is Safe' Is How Every Breach Starts Its Second Act",
-      "why_now": "1Password confirmed names/emails leaked while vaults stayed encrypted, but Decrypt's own follow-up flags the real danger: targeted phishing against exposed users, a pattern crypto holders have seen before.",
-      "angle": "Security-led warning piece connecting metadata leaks to the phishing wave that follows, with concrete hardening steps for crypto users specifically",
-      "source": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails"
     }
   ]
 }

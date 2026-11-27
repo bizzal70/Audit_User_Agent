@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-26T11:05:17+00:00",
+  "generated": "2026-11-27T11:05:18+00:00",
   "opportunities": [
     {
-      "title": "Perception Checks Are Why Your Mystery Falls Apart (Steal Shadowdark's Fix Instead)",
-      "why_now": "EN World's RPG Evolution column just revisited detective-fiction structure for DMs, making this the moment to contrast bad 'roll to find clue' design with better systems.",
-      "angle": "60-sec rules ruling: show the passive-Perception trap in 5e, then demo Shadowdark's clue-always-given approach as the correct ruling",
-      "source": "https://www.enworld.org/threads/rpg-evolution-elementary-my-dear-dm.721467/"
+      "title": "Diablo IV's Season of Tyraël's Gambit Drops Dec 1 — Here's the Lair Action Your BBEG Is Missing",
+      "why_now": "Diablo IV's new season launches December 1, giving a hard date to piggyback a 'translate the boss mechanic' short before/on launch day.",
+      "angle": "60-sec breakdown: steal the seasonal 'gambit' mechanic (escalating debuff/buff swap) as a legendary lair action for a 5e/DCC final boss, with exact DC and trigger wording.",
+      "source": "https://www.rpgsite.net/news/21816-diablo-iv-season-of-tyraels-gambit-release-date-early-download-new-features-endgame"
     },
     {
-      "title": "Your Backstory Means Nothing at the Table — Here's the One Ruling That Matters",
-      "why_now": "Gnome Stew's new essay on 'what we talk about when we talk about characters' is getting shared across GM circles right now, ripe for a contrarian rebuttal.",
-      "angle": "Dry veteran-GM take: backstory is fluff, action economy and stated intent are what define a character in play — short with a concrete table example",
-      "source": "https://gnomestew.com/what-we-talk-about-when-we-talk-about-our-characters/"
+      "title": "Monster Hunter Rise Just Hit Mobile — The One Weakness-Exploit Rule Your 5e Monster Manual Is Missing",
+      "why_now": "Monster Hunter Rise's native iOS/Android launch (via Netflix) puts the franchise's weak-point combat design in front of a huge new casual audience this week.",
+      "angle": "Creature tactic short: reskin a 5e Owlbear or Shadowdark giant with a 'exposed weak point' mechanic — specific trigger (3 hits to a limb = stagger, adv on next attack) and the exact stat block line to add.",
+      "source": "https://www.rpgsite.net/news/21817-monster-hunter-rise-mobile-download-now-available-android-iphone-netflix-games"
     },
     {
-      "title": "Stealing WoW's Priest Kit for a Better Spirit Guardians Ruling",
-      "why_now": "EN World's WoW Priest Deep Dive dropped this week, giving a hook to translate a trending game's class fantasy into a concrete 5e spell use-case.",
-      "angle": "Spell use-case short: use WoW Priest's Shadow/Holy split to justify two distinct rulings on how Spirit Guardians interacts with movement and concentration",
+      "title": "WoW's Priest Deep Dive Has One Spell Your 5e Cleric Table Is Ruling Wrong",
+      "why_now": "EN World's WoW Priest deep dive dropped this week and is driving crossover traffic from MMO players who also play tabletop.",
+      "angle": "Rules ruling short comparing WoW's Power Word: Shield interrupt mechanics to the actual 5e ruling on temp HP stacking and concentration interaction — give the RAW answer.",
       "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-priest.721491/"
     },
     {
-      "title": "Paladin Auras in WoW vs 5e: Why Your Aura of Protection Ruling Is Probably Wrong",
-      "why_now": "EN World just published a WoW Paladin deep dive, timely enough to piggyback a direct mechanical comparison for ruling content.",
-      "angle": "Rules ruling short: clarify exact aura radius/stacking rules in 5e using the WoW aura comparison as the hook",
-      "source": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-paladin.721481/"
+      "title": "Delta Green vs 5e: The One Fear/Sanity Mechanic DCC Judges Should Be Stealing",
+      "why_now": "This week's RPG print news roundup spotlights Delta Green and Fear Itself, both built around sanity/horror crunch that DCC's Luck/Corruption system already half-does.",
+      "angle": "Mechanical comparison short: lay Delta Green's Sanity loss trigger next to DCC's Corruption table and give a one-line houserule to hybridize them for a horror-flavored dungeon crawl.",
+      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
     },
     {
-      "title": "Delta Green's Sanity Rules Fix Your 5e Horror Encounters (No Homebrew Needed)",
-      "why_now": "This week's RPG print news roundup highlights Delta Green and Fear Itself, giving a timely excuse to mine horror-system mechanics for a 5e creature-tactic ruling.",
-      "angle": "Creature tactic short: apply a Delta Green-style fear/stress trigger to a 5e monster (e.g., a mindflayer) as a DM ruling you can run tonight",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
+      "title": "Food Devils Launched This Week — Here's the Flanking Rule Its Grid Combat Gets Right (and Your 5e Table Gets Wrong)",
+      "why_now": "Food Devils just hit Steam Early Access, and its tactics-RPG grid combat is fresh enough to use as a comparison hook for positioning rules.",
+      "angle": "Dry mechanical breakdown: use the game's flanking bonus as a jumping-off point to clarify the actual 5e optional flanking rule vs. the common table misread, with a Shadowdark equivalent houserule.",
+      "source": "https://www.rpgsite.net/news/21819-fantasy-food-themed-tactical-rpg-food-devils-launches-for-pc-via-steam-early-access"
     }
   ]
 }
