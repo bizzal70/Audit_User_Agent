@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-27T11:05:18+00:00",
+  "generated": "2026-11-28T11:04:58+00:00",
   "opportunities": [
     {
-      "title": "Wrath & Glory's Latest Print Run: What's Actually Different in the Core Rules",
-      "why_now": "New print news just dropped covering Wrath & Glory alongside other major systems, giving a fresh hook to break down rules changes.",
-      "angle": "Rules-comparison breakdown: old printing vs new, with page/mechanic citations",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
+      "title": "This Week's Rules Chatter: What EN World's Nov 27 Digest Means for Your Table",
+      "why_now": "EN World's weekly digest just dropped, giving a fresh roundup of rules-adjacent news worth parsing for GMs who want the facts without the fluff.",
+      "angle": "Curated digest-of-the-digest: pull 3-4 rules/system items from the EN World roundup and add rules-first commentary on each",
+      "source": "https://www.enworld.org/threads/news-digest-for-november-27-2026.721532/"
     },
     {
-      "title": "Delta Green Goes to Print: The Handler's Checklist for What Changed",
-      "why_now": "Delta Green's print update is part of this week's roundup, a timely peg for a rules-first explainer.",
-      "angle": "Numbered 'what's new' list pulled straight from the print update, framed as GM prep notes",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
+      "title": "The Only GM Gift Guide That Actually Reads the Rulebook",
+      "why_now": "EN World's 2026 GM gift guide just published right at the start of holiday shopping season, a perfect hook for a rules-literate counter-guide.",
+      "angle": "Annotated reaction list: take their picks and rate them by actual table utility/rules-support value, add a 'what they missed' section",
+      "source": "https://www.enworld.org/threads/rpg-evolution-gift-ideas-for-game-masters-2026.721515/"
     },
     {
-      "title": "Fear Itself's Print Edition: The Horror Rules You'll Actually Use at the Table",
-      "why_now": "Fear Itself is named in this week's print news, offering a concrete rules-focused angle for horror-system fans.",
-      "angle": "Mechanics spotlight thread: stress/sanity-type systems explained with rules citations",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
+      "title": "Damn You, Mystic Punks: Breaking Down the Rules Drama Everyone's Talking About",
+      "why_now": "This EN World thread just went up and is clearly sparking discussion, giving us a timely rules controversy to dissect while it's hot.",
+      "angle": "Rules-first explainer: lay out exactly what mechanic/ruling is contested and give a clear verdict with citations",
+      "source": "https://www.enworld.org/threads/damn-you-mystic-punks.721486/"
     },
     {
-      "title": "RPG Print News Roundup: Every Rules Update Hiding in This Week's Announcements",
-      "why_now": "The single EN World post bundles multiple systems' print news, perfect for a comprehensive 'already written' digest.",
-      "angle": "Digest/listicle format: one rules-fact per game, with sourced links",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
+      "title": "Your Character Isn't a Story, It's a Ruleset: A Rebuttal to Gnome Stew",
+      "why_now": "Gnome Stew's new essay on how we talk about characters is sparking narrative-first takes, and it's the perfect foil for a rules-first counterpoint.",
+      "angle": "Response piece: argue that character identity is built from mechanical choices (feats, builds, subclasses) as much as narrative, with concrete rule citations",
+      "source": "https://gnomestew.com/what-we-talk-about-when-we-talk-about-our-characters/"
     },
     {
-      "title": "Why Print Rulebooks Still Matter: Reading Between the Lines of This Week's TTRPG News",
-      "why_now": "The roundup's existence itself signals continued publisher investment in print, worth a rules-authority take.",
-      "angle": "Opinion/analysis piece on physical rulebooks as canon, tying back to 'the rules are already written' ethos",
-      "source": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-wrath-glory-delta-green-fear-itself-and-more.721484/"
+      "title": "What Food Devils' Tactical Combat Can Teach Your TTRPG Action Economy",
+      "why_now": "Food Devils just launched in Early Access as a fantasy tactical RPG, offering a fresh, specific example to mine for action-economy design lessons.",
+      "angle": "Crossover rules analysis: break down a specific mechanic from the new release and map it to tabletop action economy design (PF2e, D&D4e-style tactics)",
+      "source": "https://www.rpgsite.net/news/21819-fantasy-food-themed-tactical-rpg-food-devils-launches-for-pc-via-steam-early-access"
     }
   ]
 }

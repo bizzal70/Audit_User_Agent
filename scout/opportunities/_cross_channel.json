@@ -1,4 +1,53 @@
 {
-  "generated": "2026-11-27T11:05:18+00:00",
-  "plays": []
+  "generated": "2026-11-28T11:04:58+00:00",
+  "plays": [
+    {
+      "story": "1Password confirms breach: hackers stole source code and customer data (name/email), vaults reportedly safe",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "If 1Password Got Popped, Is Your Seed Phrase Safe? What the Breach Means for Crypto Holders Who Store Keys in Password Managers",
+        "itsalreadywhen": "1Password's Source Code Is Gone, Not Your Vault (Yet): Dissecting a Breach That Could've Been Much Worse"
+      },
+      "source": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/"
+    },
+    {
+      "story": "AI is reshaping the security threat landscape on both fronts — Microsoft flags state hackers using an AI tool (ARTEX) to breach systems, while K33/The Block debate whether AI math breakthroughs could threaten Bitcoin's cryptography",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Could an AI Breakthrough Actually Crack Bitcoin? Unpacking K33's Warning Without the Hype",
+        "itsalreadywhen": "State Hackers Just Got an AI Co-Pilot: Inside Microsoft's ARTEX Warning on China and N. Korea"
+      },
+      "source": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
+    },
+    {
+      "story": "Incident-response speed is the new arms race — Japan's crypto security group partners with SEAL to accelerate hack response, echoing a week of major orgs (FIFA, UK social security) scrambling after breaches",
+      "channels": [
+        "itsalreadypriced",
+        "itsalreadywhen"
+      ],
+      "angles": {
+        "itsalreadypriced": "Japan's New Crypto SWAT Team: How SEAL Could Cut Hack-Response Time From Weeks to Hours",
+        "itsalreadywhen": "From Crypto Exchanges to FIFA: Why 'Minutes Matter' Is Becoming Every CISO's Mantra"
+      },
+      "source": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "story": "Gnome Stew's analysis on how players narrate and discuss their characters outside the game — a craft-of-play piece that speaks to both GM practice and character writing",
+      "channels": [
+        "bizzal-games",
+        "itsalreadywritten"
+      ],
+      "angles": {
+        "bizzal-games": "The Character Talk Your Table Is Missing: A GM's Guide to Turning Backstory Chatter Into Better Sessions",
+        "itsalreadywritten": "What We Talk About When We Talk About Our Characters: Why Player Narration Is Its Own Writing Craft"
+      },
+      "source": "https://gnomestew.com/what-we-talk-about-when-we-talk-about-our-characters/"
+    }
+  ]
 }

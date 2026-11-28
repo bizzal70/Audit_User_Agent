@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-27T11:05:18+00:00",
+  "generated": "2026-11-28T11:04:58+00:00",
   "opportunities": [
     {
-      "title": "1Password Got Hacked: What a Password Manager Breach Actually Costs You",
-      "why_now": "Source code and customer data stolen via a GitHub account compromise is the nightmare scenario for the exact tool people trust to be unhackable.",
-      "angle": "Breach-digest deep dive: timeline, what was taken, what 1Password users should actually do today (not just 'rotate your password')",
+      "title": "The Password Manager You Trust Just Got Popped—Twice: 1Password and pCloud Breached in the Same Week",
+      "why_now": "Two major password managers (1Password's source code/customer data, pCloud's login/email exposure) were confirmed breached within days of each other, hitting the core promise of the product category.",
+      "angle": "Combo breach digest: what was actually taken, what users should rotate now, and why 'zero trust your password manager' is the new baseline advice",
       "source": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/"
     },
     {
-      "title": "Drupal's Patch Had a Hole in It — And Attackers Found It First",
-      "why_now": "A fix meant to close a critical site-takeover bug left a gap that's already being actively exploited, the perfect patch-cadence failure story.",
-      "angle": "CVE post-mortem: what the patch missed, exploit timeline, mitigation for sites that already 'patched'",
-      "source": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/"
-    },
-    {
-      "title": "Switzerland Just Confirmed AI Wrote the Malware That Breached Its Grid",
-      "why_now": "First confirmed case of AI-assisted attacks breaching critical infrastructure operators marks a concrete escalation beyond theoretical AI-threat talk.",
-      "angle": "Threat-actor explainer: what 'AI-assisted' actually meant in this attack chain, and why critical infra is the canary",
-      "source": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
-    },
-    {
-      "title": "SAP's Source Code Is Out There Now — Here's Why That's Worse Than It Sounds",
-      "why_now": "A confirmed breach with reported source code compromise at a company whose software runs supply chains, finance, and HR for most of the Fortune 500 is a five-alarm event.",
-      "angle": "Impact analysis: what source-code exposure means for SAP customers' attack surface, plus what to watch for in coming weeks",
+      "title": "SAP Confirms Breach, Source Code Allegedly Stolen — What That Means for Every Enterprise Running It",
+      "why_now": "SAP just confirmed a cyberattack with source code reportedly compromised, a supply-chain-grade event given how many Fortune 500 backends run on SAP.",
+      "angle": "Explainer on downstream risk: source code theft as a precursor to targeted exploit development, plus a patch-cadence checklist for SAP shops",
       "source": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/"
     },
     {
-      "title": "Four HTTP Requests, Full Server Takeover: The Cacti Zero-Day You Need to Patch Right Now",
-      "why_now": "An unpatched zero-day with trivially easy RCE via guest access demands urgent, concrete 'patch now' coverage before mass exploitation hits.",
-      "angle": "Urgent CVE alert format: exploit mechanics, exposure scope, temporary mitigations while a patch is pending",
-      "source": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html"
+      "title": "FIFA Got Hacked Weeks Before a Global Tournament Cycle — Here's What 'Personal and Business Information' Really Means",
+      "why_now": "FIFA disclosed a breach accessing personal and business data, a high-profile target with massive fan/sponsor data exposure potential.",
+      "angle": "News hook + speculative breakdown of attacker motive (fraud vs. espionage vs. ransomware) and who's actually exposed",
+      "source": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/"
+    },
+    {
+      "title": "Patch Tuesday Isn't Fast Enough: Drupal and Cacti Zero-Days Are Already Being Exploited in the Wild",
+      "why_now": "Drupal's critical site-takeover flaw and an unpatched Cacti RCE (exploitable in just 4 HTTP requests) are both under active attack right now, a textbook patch-cadence emergency.",
+      "angle": "Urgent patch-now digest format with CVE details, exploit timelines, and mitigation steps for sysadmins",
+      "source": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/"
+    },
+    {
+      "title": "Switzerland Just Confirmed AI-Assisted Hackers Breached Its Critical Infrastructure — The Threat Model Everyone Predicted Is Here",
+      "why_now": "Switzerland officially confirmed AI-assisted attacks breached critical infrastructure operators, a concrete, government-confirmed instance of the AI-threat-actor trend also seen in Microsoft's ARTEX reporting and Mitel's suspected AI-assisted zero-day exploitation.",
+      "angle": "Trend roundup tying three separate AI-assisted attack stories into one 'this is no longer theoretical' thesis piece",
+      "source": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
     }
   ]
 }

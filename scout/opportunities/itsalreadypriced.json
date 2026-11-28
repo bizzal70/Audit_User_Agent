@@ -1,35 +1,35 @@
 {
-  "generated": "2026-11-27T11:05:18+00:00",
+  "generated": "2026-11-28T11:04:58+00:00",
   "opportunities": [
     {
-      "title": "Binance's $6.3B Hack Is 'Resolved.' Nothing About the Next One Will Be Different.",
-      "why_now": "Binance just completed withdrawal recovery four weeks after history's largest exchange hack, closing the loop on an incident that changed nothing structurally.",
-      "angle": "Post-mortem/op-ed: walk through the timeline, note what Binance actually fixed vs. what it PR'd, and argue custodial risk is a pricing input, not a tail event.",
+      "title": "Binance Took Four Weeks to Give Your Money Back. That's the Real SLA.",
+      "why_now": "Binance just fully restored withdrawals a full month after its $6.3B hack, turning a security incident into a case study on recovery-time-as-risk-metric.",
+      "angle": "Postmortem breakdown: timeline of freeze-to-restore, what it reveals about exchange custody promises vs. reality",
       "source": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "The Bitcoin Wallet Bug Nobody Found for Five Years (Including the Auditors Who Were Paid To)",
-      "why_now": "Coldcard just disclosed exactly how a flaw in its hardware wallet slipped past years of security reviews — a rare inside look at audit failure, not just exploit aftermath.",
-      "angle": "Deep-dive explainer: why audits miss this class of bug, what it means for 'audited = safe' marketing claims across the hardware wallet industry.",
-      "source": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "The FCA Is About to Regulate DeFi Because Binance Got Hacked for $6.3B — Here's the Playbook",
+      "why_now": "UK regulator explicitly cites the Binance hack as justification for tighter DeFi rules, signaling how security incidents now write policy.",
+      "angle": "Explainer connecting the incident directly to incoming rules, framed as 'this is how regulation actually gets made'",
+      "source": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     },
     {
-      "title": "Tether Can Freeze Your Stolen Funds in Minutes. Getting Them Back Takes Years — If Ever.",
-      "why_now": "CoinDesk's reporting lays bare the gap between Tether's freeze speed and the actual legal/operational mess victims face recovering funds, right as Binance victims test that pipeline post-hack.",
-      "angle": "Explainer that debunks 'Tether froze it, crisis averted' headlines — map the real recovery timeline and who actually gets made whole (spoiler: rarely the victim first).",
+      "title": "Tether Can Freeze Your Stolen Crypto in Minutes. Getting It Back Takes Years. Here's Why That Gap Exists.",
+      "why_now": "CoinDesk's piece exposes the massive lag between on-chain freeze capability and actual victim restitution, a core security-vs-theater theme.",
+      "angle": "Deep dive on the freeze/recovery mismatch, with implications for anyone assuming stablecoin issuers = insurance",
       "source": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years"
     },
     {
-      "title": "One Tiny Payment Can Unmask Your Bitcoin Wallet's IP Address — Here's the Trick",
-      "why_now": "A developer just published a method showing how a small transaction can deanonymize a wallet's network location, a fresh privacy-leak vector with no patch consensus yet.",
-      "angle": "Technical breakdown for self-custody users: how the attack works, who's exposed (node operators, Lightning users), and concrete mitigation steps (Tor, Dandelion++, etc.).",
-      "source": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
+      "title": "Zcash Just Told You Quantum Computers Are Coming for Your Shielded Funds — And They're Not Waiting",
+      "why_now": "Zcash devs are publicly urging faster deprecation of legacy shielded pools ahead of any confirmed cryptographic break, a rare 'prepare before the alarm' admission.",
+      "angle": "Security-first explainer on why privacy coins face first-mover exposure to crypto breakthroughs, and what 'prepare early' actually looks like in practice",
+      "source": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000"
     },
     {
-      "title": "The UK Is Writing DeFi Rules Based on a Hack That Had Nothing to Do With DeFi",
-      "why_now": "The FCA is citing the $6.3B Binance hack — a centralized exchange failure — to justify new DeFi regulation, a telling conflation that will shape policy debates for months.",
-      "angle": "Sharp commentary piece: expose the category error regulators keep making between CeFi custody failures and DeFi protocol risk, and what it means for builders bracing for rules written for the wrong problem.",
-      "source": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
+      "title": "1,000+ Bitcoin Mining Rigs Are Being Hijacked Right Now — Is Yours One of Them?",
+      "why_now": "Braiins just flagged an active attack campaign hitting over 1,000 mining sites, a live infrastructure-security story most market coverage will miss.",
+      "angle": "Practical threat alert: what the attack targets, how operators can check exposure, written for people who run or hold miner-adjacent assets",
+      "source": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss_tag_hacks&utm_campaign=rss_partner_inbound"
     }
   ]
 }
